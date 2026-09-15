@@ -15,11 +15,14 @@ import requests
 from bs4 import BeautifulSoup
 from dateutil import parser as date_parser
 
+from ai_engine import enrich_articles
+
 ROOT = Path(__file__).resolve().parents[1]
 CONFIG_FILE = ROOT / "config" / "sources.json"
 OUTPUT_FILE = ROOT / "data" / "news.json"
 MAX_ARTICLES_PER_SOURCE = 30
 MAX_ARTICLES_PER_CATEGORY = 50
+MAX_AI_CANDIDATES = 50
 REQUEST_TIMEOUT = 20
 USER_AGENT = "NewsBriefAI/1.0 (+personal RSS reader)"
 
@@ -151,9 +154,24 @@ def process_category(sources: list[dict[str, str]], category: str) -> list[dict[
             article["category"] = category
             article["importance"] = calculate_importance(article["title"], article["summary"], category)
             articles.append(article)
+
     articles = deduplicate(articles)
     articles.sort(key=lambda item: (item["importance"], item["published_at"]), reverse=True)
-    return articles[:MAX_ARTICLES_PER_CATEGORY]
+
+    # Run the mathematical AI only on the strongest candidates to keep Actions fast.
+    candidates = articles[:MAX_AI_CANDIDATES]
+    candidates = enrich_articles(candidates)
+
+    # AI classification/importance becomes the final ranking signal.
+    for article in candidates:
+        article["category"] = article["ai_category"]
+        article["importance"] = article["ai_importance"]
+
+    candidates.sort(
+        key=lambda item: (item["importance"], item.get("ai_novelty", 0.0), item["published_at"]),
+        reverse=True,
+    )
+    return candidates[:MAX_ARTICLES_PER_CATEGORY]
 
 
 def main() -> None:
@@ -161,8 +179,13 @@ def main() -> None:
         config = json.load(file)
 
     output = {
-        "version": 1,
+        "version": 2,
         "updated_at": datetime.now(timezone.utc).isoformat(),
+        "ai_engine": {
+            "enabled": True,
+            "type": "mathematical_ml",
+            "method": "tfidf_cosine_prototype",
+        },
         "general": process_category(config.get("general", []), "general"),
         "tech": process_category(config.get("tech", []), "tech"),
     }
