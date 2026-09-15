@@ -6,34 +6,95 @@ The project reduces information overload by collecting news automatically, remov
 
 ## Architecture
 
+The architecture is shown as connected processing boxes so the data flow is explicit:
+
+```mermaid
+flowchart TD
+    A[RSS Sources] --> B[Fetch + Normalize]
+    B --> C[Exact Deduplication]
+    C --> D[Mathematical AI Engine]
+
+    D --> D1[TF-IDF 1-2 grams]
+    D1 --> D2[Cosine Similarity]
+    D2 --> D3[Topic Classification]
+    D3 --> D4[Novelty Detection]
+    D4 --> D5[Importance Scoring]
+
+    D5 --> E[Semantic Intelligence]
+    E --> E1[Entity Extraction]
+    E1 --> E2[Semantic Deduplication]
+
+    E2 --> F[Personal Learning]
+    F --> F1[User Feedback]
+    F1 --> F2[Logistic Regression]
+    F2 --> F3[Adaptive Source Reliability]
+
+    F3 --> G[Personalized Ranking]
+    G --> H[data/news.json]
+    H --> I[Future Mobile App]
+
+    I --> J[Like / Skip]
+    J --> F1
+```
+
+### Pipeline
+
 ```text
 RSS Sources
-    ↓
-Fetch + Normalize
-    ↓
-Exact Deduplication
-    ↓
-Mathematical AI
-    ├── TF-IDF (1,2)-grams
-    ├── Cosine similarity
-    ├── Topic classification
-    ├── Novelty detection
-    └── Importance scoring
-    ↓
-Semantic Intelligence
-    ├── Entity extraction
-    └── Embedding-based semantic deduplication (optional)
-    ↓
-Personal Learning
-    ├── Logistic Regression classifier
-    ├── User feedback
-    └── Adaptive source reliability
-    ↓
-Personalized Ranking
-    ↓
-data/news.json
-    ↓
-Future Mobile App
+     │
+     ▼
+┌──────────────────────┐
+│ Fetch + Normalize    │
+└──────────┬───────────┘
+           │
+           ▼
+┌──────────────────────┐
+│ Exact Deduplication  │
+└──────────┬───────────┘
+           │
+           ▼
+┌──────────────────────┐
+│ Mathematical AI      │
+│ • TF-IDF 1–2 grams   │
+│ • Cosine similarity  │
+│ • Classification     │
+│ • Novelty            │
+│ • Importance         │
+└──────────┬───────────┘
+           │
+           ▼
+┌──────────────────────┐
+│ Semantic Intelligence│
+│ • Entity extraction  │
+│ • Semantic dedup     │
+└──────────┬───────────┘
+           │
+           ▼
+┌──────────────────────┐
+│ Personal Learning    │
+│ • Feedback           │
+│ • Logistic Regression│
+│ • Source reliability │
+└──────────┬───────────┘
+           │
+           ▼
+┌──────────────────────┐
+│ Personalized Ranking │
+└──────────┬───────────┘
+           │
+           ▼
+┌──────────────────────┐
+│ data/news.json       │
+└──────────┬───────────┘
+           │
+           ▼
+┌──────────────────────┐
+│ Future Mobile App    │
+└──────────┬───────────┘
+           │
+       Like / Skip
+           │
+           └──────────────► Personal Learning
 ```
 
 ## AI / Machine Learning
@@ -70,7 +131,7 @@ Source reliability is estimated from historical feedback using Bayesian smoothin
 
 ### Entity extraction
 
-`src/entity_extractor.py` extracts English and Malayalam entity candidates using lightweight Unicode-aware rules. These entities are stored with each article and can later support topic clustering, entity pages, and personalization.
+`src/entity_extractor.py` extracts English and Malayalam entity candidates using lightweight Unicode-aware rules. These entities can support topic clustering, entity pages, and personalization.
 
 ### Semantic deduplication
 
@@ -103,20 +164,15 @@ newsbrief-ai/
 
 ## Personal Learning Flow
 
-```text
-User reads article
-       ↓
-   Like / Skip
-       ↓
-data/feedback.json
-       ↓
-TF-IDF 1–2 gram features
-       ↓
-Logistic Regression
-       ↓
-Personal relevance score
-       ↓
-Personalized ranking
+```mermaid
+flowchart LR
+    A[User reads article] --> B[Like / Skip]
+    B --> C[data/feedback.json]
+    C --> D[TF-IDF 1-2 gram features]
+    D --> E[Logistic Regression]
+    E --> F[Personal relevance score]
+    F --> G[Personalized ranking]
+    G --> A
 ```
 
 ## Run Locally
