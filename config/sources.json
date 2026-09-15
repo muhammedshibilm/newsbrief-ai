@@ -1,1 +1,42 @@
-
+{
+  "general": [
+    {
+      "name": "Kerala Malayalam News",
+      "url": "https://news.google.com/rss/search?q=Kerala&hl=ml&gl=IN&ceid=IN:ml"
+    },
+    {
+      "name": "India Malayalam News",
+      "url": "https://news.google.com/rss/search?q=India&hl=ml&gl=IN&ceid=IN:ml"
+    },
+    {
+      "name": "World Malayalam News",
+      "url": "https://news.google.com/rss/search?q=World&hl=ml&gl=IN&ceid=IN:ml"
+    },
+    {
+      "name": "Science Malayalam News",
+      "url": "https://news.google.com/rss/search?q=Science&hl=ml&gl=IN&ceid=IN:ml"
+    }
+  ],
+  "tech": [
+    {
+      "name": "Artificial Intelligence",
+      "url": "https://news.google.com/rss/search?q=artificial+intelligence&hl=en-IN&gl=IN&ceid=IN:en"
+    },
+    {
+      "name": "Software Development",
+      "url": "https://news.google.com/rss/search?q=software+development&hl=en-IN&gl=IN&ceid=IN:en"
+    },
+    {
+      "name": "Cybersecurity",
+      "url": "https://news.google.com/rss/search?q=cybersecurity&hl=en-IN&gl=IN&ceid=IN:en"
+    },
+    {
+      "name": "Open Source",
+      "url": "https://news.google.com/rss/search?q=open+source+software&hl=en-IN&gl=IN&ceid=IN:en"
+    },
+    {
+      "name": "Android",
+      "url": "https://news.google.com/rss/search?q=Android&hl=en-IN&gl=IN&ceid=IN:en"
+    }
+  ]
+}
