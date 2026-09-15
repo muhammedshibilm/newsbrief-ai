@@ -25,7 +25,7 @@ flowchart TD
     E1 --> E2[Semantic Deduplication]
 
     E2 --> F[Personal Learning]
-    F --> F1[User Feedback]
+    F --> F1[Firebase Firestore Feedback]
     F1 --> F2[Logistic Regression]
     F2 --> F3[Adaptive Source Reliability]
 
@@ -34,7 +34,8 @@ flowchart TD
     H --> I[Future Mobile App]
 
     I --> J[Like / Skip]
-    J --> F1
+    J --> K[Firebase Authentication]
+    K --> F1
 ```
 
 ### Pipeline
@@ -70,14 +71,14 @@ RSS Sources
 └──────────┬───────────┘
            │
            ▼
-┌──────────────────────┐
-│ Personal Learning    │
-│ • Feedback           │
-│ • Logistic Regression│
-│ • Source reliability │
-└──────────┬───────────┘
-           │
-           ▼
+┌────────────────────────────┐
+│ Personal Learning          │
+│ • Firestore feedback       │
+│ • Logistic Regression      │
+│ • Source reliability       │
+└────────────┬───────────────┘
+             │
+             ▼
 ┌──────────────────────┐
 │ Personalized Ranking │
 └──────────┬───────────┘
@@ -93,6 +94,12 @@ RSS Sources
 └──────────┬───────────┘
            │
        Like / Skip
+           │
+           ▼
+┌──────────────────────┐
+│ Firebase Auth +      │
+│ Firestore            │
+└──────────┬───────────┘
            │
            └──────────────► Personal Learning
 ```
@@ -119,9 +126,9 @@ Importance combines important-event signals, topic relevance, source quality, an
 
 ## Personal Intelligence
 
-### Fully trained personal classifier
+### Personal classifier
 
-`src/learning.py` trains a **Logistic Regression** classifier from saved `like` and `skip` feedback after enough examples from both classes exist. It uses TF-IDF 1–2 gram features and produces a personal relevance score.
+`src/learning.py` trains a **Logistic Regression** classifier from `like` and `skip` feedback after enough examples from both classes exist. It uses TF-IDF 1–2 gram features and produces a personal relevance score.
 
 Until there is enough feedback, the deterministic ranking system remains active. This avoids overfitting a tiny personal dataset.
 
@@ -138,6 +145,44 @@ Source reliability is estimated from historical feedback using Bayesian smoothin
 `src/semantic_dedup.py` supports embedding-based duplicate detection with `sentence-transformers` and `all-MiniLM-L6-v2`. A similarity threshold of `0.88` flags near-duplicate stories.
 
 The embedding dependency is intentionally optional because downloading a transformer model on every GitHub Actions run would significantly increase build time. When it is unavailable, exact/title deduplication and TF-IDF similarity remain the fallback.
+
+## Firebase Feedback
+
+Firebase is used only as the feedback store for the personal learning loop. News collection and ML processing remain in GitHub Actions.
+
+### Authentication
+
+The mobile app uses **Firebase Anonymous Authentication**, so users can submit feedback without creating a login account. Firestore rules require authentication and validate feedback fields.
+
+### Firestore collection
+
+Feedback is stored in the `feedback` collection. A feedback document can contain:
+
+```json
+{
+  "article_id": "example-001",
+  "action": "like",
+  "title": "Example article title",
+  "summary": "Short article summary",
+  "category": "tech",
+  "source": "Example Source",
+  "timestamp": "server timestamp"
+}
+```
+
+`action` is restricted to `like` or `skip` by the Firestore security rules.
+
+### GitHub Actions integration
+
+The workflow authenticates to Google Cloud using the GitHub Actions secret:
+
+```text
+FIREBASE_SERVICE_ACCOUNT_JSON
+```
+
+The private service-account JSON is **not stored in the repository**. GitHub Actions obtains a temporary access token, runs `src/sync_feedback.py`, and loads the Firestore feedback into the temporary `data/feedback.json` file used by the ML pipeline.
+
+The feedback file is not committed back to the repository. This keeps personal feedback out of the public news feed repository.
 
 ## Project Structure
 
@@ -156,7 +201,8 @@ newsbrief-ai/
 │   ├── entity_extractor.py
 │   ├── fetch_news.py
 │   ├── learning.py
-│   └── semantic_dedup.py
+│   ├── semantic_dedup.py
+│   └── sync_feedback.py
 ├── .gitignore
 ├── requirements.txt
 └── README.md
@@ -167,12 +213,14 @@ newsbrief-ai/
 ```mermaid
 flowchart LR
     A[User reads article] --> B[Like / Skip]
-    B --> C[data/feedback.json]
-    C --> D[TF-IDF 1-2 gram features]
-    D --> E[Logistic Regression]
-    E --> F[Personal relevance score]
-    F --> G[Personalized ranking]
-    G --> A
+    B --> C[Firebase Anonymous Auth]
+    C --> D[Firestore feedback]
+    D --> E[GitHub Actions sync]
+    E --> F[TF-IDF 1-2 gram features]
+    F --> G[Logistic Regression]
+    G --> H[Personal relevance score]
+    H --> I[Personalized ranking]
+    I --> A
 ```
 
 ## Run Locally
@@ -192,11 +240,15 @@ For optional embedding-based semantic deduplication:
 pip install sentence-transformers
 ```
 
+The Firestore feedback sync is intended for GitHub Actions. Local execution of `src/sync_feedback.py` requires Google Cloud credentials and the corresponding environment variables.
+
 ## GitHub Actions
 
-The workflow checks out the repository, installs dependencies, fetches RSS feeds, runs the AI pipeline, applies personal learning, validates `data/news.json`, and commits changes.
+The workflow checks out the repository, installs dependencies, authenticates to Google Cloud, obtains a temporary Firestore access token, syncs feedback, fetches RSS feeds, runs the AI and personal-learning pipeline, validates `data/news.json`, and commits only the generated news feed.
 
 It supports manual execution and is scheduled every **30 minutes**.
+
+The workflow uses the repository secret `FIREBASE_SERVICE_ACCOUNT_JSON`. The secret must never be committed to the repository.
 
 ## News Sources
 
@@ -251,8 +303,10 @@ Example AI fields:
 
 ### Phase 2.5 — Personal Intelligence
 
-- [x] Feedback storage
-- [x] Fully trained personal Logistic Regression classifier
+- [x] Firebase Firestore feedback storage
+- [x] Firebase Anonymous Authentication
+- [x] GitHub Actions Firestore feedback sync
+- [x] Personal Logistic Regression classifier
 - [x] Adaptive source reliability
 - [x] Lightweight Malayalam/English entity extraction
 - [x] Optional embedding-based semantic deduplication
