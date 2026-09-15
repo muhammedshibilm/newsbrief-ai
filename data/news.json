@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "updated_at": "2026-09-15T18:22:21.535623+00:00",
+  "updated_at": "2026-09-15T18:56:06.659705+00:00",
   "ai_engine": {
     "enabled": true,
     "type": "mathematical_ml",
@@ -36,7 +36,7 @@
       "ai_category": "general",
       "ai_confidence": 0.99,
       "ai_importance": 5,
-      "ai_novelty": 0.9839,
+      "ai_novelty": 0.9849,
       "ai": {
         "method": "tfidf_cosine_prototype",
         "features": "1-2grams",
@@ -57,116 +57,9 @@
         "Breaking News"
       ],
       "source_reliability": 1.0,
-      "feedback_boost": 0.0,
+      "feedback_boost": 0.25,
       "personal_model_score": 0.0,
-      "personal_score": 5.0
-    },
-    {
-      "id": "40ae401bb753414f",
-      "title": "‘തട്ടിപ്പ്, കണ്ണിൽപൊടിയിടാനുള്ള ശ്രമം’; മസൂദ് അസറിനായുള്ള പാകിസ്താന്റെ ഇനാം പ്രഖ്യാപനം തള്ളി ഇന്ത്യ - Mathrubhumi",
-      "summary": "‘തട്ടിപ്പ്, കണ്ണിൽപൊടിയിടാനുള്ള ശ്രമം’; മസൂദ് അസറിനായുള്ള പാകിസ്താന്റെ ഇനാം പ്രഖ്യാപനം തള്ളി ഇന്ത്യ Mathrubhumi",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZk5EbWNEWWtuQ3VBR2JTTTNKbDBBYWEzQk9qMmtOUWVJaWlHaW13NUotMXEzOWt4eDl6dDRxMDFOOEgzR0ExTlZiSXlDZjlvc0JRR1ZpTHlNTzkyRVh4aXhGZkh4ODJpRFpQazFFNzRsQzVXZHNIcURyNkFDNVBDSjdzbmZhMTVkXzA3ZzBJV0ZaRFE30gGaAUFVX3lxTE9waklKRnliMXJXY3ZYTXd1SmQ5NnVDTlZxYUUzS2RzdUFyQ25zQ29takVOQ1dLWDQ1UVV2SV9HSV9mU2hHbDRtMnlINmpaRnBadWZRMnBzWWFXcjRGZXRLV0xlRGFKYlpEQk5EYzU0Q2I5Z010dlZiRXNVcm1qdGdMVWxmYnc1MmZzRC1NZlVTWTFTTi1YbG9aWlE?oc=5",
-      "source": "Mathrubhumi",
-      "feed": "India Malayalam News",
-      "published_at": "2026-09-15T14:00:10+00:00",
-      "category": "general",
-      "importance": 4,
-      "ai_category": "general",
-      "ai_confidence": 0.99,
-      "ai_importance": 4,
-      "ai_novelty": 0.954,
-      "ai": {
-        "method": "tfidf_cosine_prototype",
-        "features": "1-2grams",
-        "version": 2
-      },
-      "entities": [
-        "തട്ടിപ്പ്",
-        "കണ്ണിൽപൊടിയിടാനുള്ള",
-        "ശ്രമം",
-        "മസൂദ്",
-        "അസറിനായുള്ള",
-        "പാകിസ്താന്റെ",
-        "ഇനാം",
-        "പ്രഖ്യാപനം",
-        "തള്ളി",
-        "ഇന്ത്യ",
-        "Mathrubhumi"
-      ],
-      "source_reliability": 1.0,
-      "feedback_boost": 0.0,
-      "personal_model_score": 0.0,
-      "personal_score": 4.0
-    },
-    {
-      "id": "c6dacb09938c42db",
-      "title": "കോഴിക്കോട്ടെ കടപ്പുറത്ത് നിന്നും ഉയിർത്തെഴുന്നേൽക്കുക പുതിയ സിപിഎമ്മോ? - Mathrubhumi",
-      "summary": "കോഴിക്കോട്ടെ കടപ്പുറത്ത് നിന്നും ഉയിർത്തെഴുന്നേൽക്കുക പുതിയ സിപിഎമ്മോ? Mathrubhumi",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQktqMnFVelcxbG5GanlSdmh2a0tWUzM0c25DOUdtbkp4ODlwT1g4aTZma05RMERrTE96Q0J0UlcyRkRxZUxQazNxb3BWbjNyMjZWWVNqYTUtM2xOeXQwMTFKckl5YWN1NGJ0UnVjalhWdlVmTjZyS0ZvRnVLQnViTUtRdFRnZ2Z3YWdCNi1FWGMtWmZYTk56cjRMZTXSAaIBQVVfeXFMT0lRQlA2UTVURmRRZDBPeDNMZ0MwNXIyRlVOa0lvc2dXd0lsRElJUVhmZ0gyNXhqMnBFTGxOQmxFRDVlUnAwSXVjc1h1ZzhZYnN5ZHB5WmNaUE5NVFhTaHVha0VWaFBwczJBOVQ4Nll3Vlk0WTdSSVhzeGZ0NnlabExLcXkteGUxRGNoWFMzdU9NaV9PZEtwcDR6MVRUZ2tpbktn?oc=5",
-      "source": "Mathrubhumi",
-      "feed": "Kerala Malayalam News",
-      "published_at": "2026-09-15T13:48:19+00:00",
-      "category": "general",
-      "importance": 4,
-      "ai_category": "general",
-      "ai_confidence": 0.99,
-      "ai_importance": 4,
-      "ai_novelty": 0.9537,
-      "ai": {
-        "method": "tfidf_cosine_prototype",
-        "features": "1-2grams",
-        "version": 2
-      },
-      "entities": [
-        "കോഴിക്കോട്ടെ",
-        "കടപ്പുറത്ത്",
-        "നിന്നും",
-        "ഉയിർത്തെഴുന്നേൽക്കുക",
-        "പുതിയ",
-        "സിപിഎമ്മോ",
-        "Mathrubhumi"
-      ],
-      "source_reliability": 1.0,
-      "feedback_boost": 0.0,
-      "personal_model_score": 0.0,
-      "personal_score": 4.0
-    },
-    {
-      "id": "81246b06320b8470",
-      "title": "ഇന്ത്യ ട്രോഫി വാങ്ങില്ലെന്ന് മൊഹ്‍സിൻ നഖ്‍വിക്ക് അറിയാമായിരുന്നു; എതിർത്തില്ലെന്ന് വെളിപ്പെടുത്തൽ - Manorama Online",
-      "summary": "ഇന്ത്യ ട്രോഫി വാങ്ങില്ലെന്ന് മൊഹ്‍സിൻ നഖ്‍വിക്ക് അറിയാമായിരുന്നു; എതിർത്തില്ലെന്ന് വെളിപ്പെടുത്തൽ Manorama Online",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONmJFQ21keUY1dHlXY21Nb3Z2YTVpQ1J4cEFDSmxubjA1T011RjBDQm5RVlVFTFRDdzFfbjN6X1haUkY2aERIcl83amxwX09LSC1aV0ZEZmZmLUJVMHNZVFZyLUxucjZlUTNXY2IxWmVaRzg1ZTRDRlY3SlVfRVdmY3N1cElvbmczX1U4MkpWQV9XVkhKSFlfRk5pampmWVhqdFh5S09iYkU4blRDNXFsRGdsTGc4QdIBuwFBVV95cUxQblViSDh4WVI2T3ltdUhwdXUtaEJZaWJrZV9vc25VaFdOdm1RRXR6TTZhY095cnNILUxPZzctYUd0elBER0htdWNsejhlMzQ1eWZfY0FubkV3R0IwaGpucnk3eHBqQUdrN1gwclQzRWhxTGNyZ2c2emE4a1N2LWVRSWZMZmRRMEFaYU1DNjQtRlpmWmg2eTVPQXRkeV9pX0lrUzc3VWRkeWFMSDhIbS1ZeGhYOHpzeldISm1n?oc=5",
-      "source": "Manorama Online",
-      "feed": "India Malayalam News",
-      "published_at": "2026-09-15T12:59:53+00:00",
-      "category": "general",
-      "importance": 4,
-      "ai_category": "general",
-      "ai_confidence": 0.99,
-      "ai_importance": 4,
-      "ai_novelty": 0.8982,
-      "ai": {
-        "method": "tfidf_cosine_prototype",
-        "features": "1-2grams",
-        "version": 2
-      },
-      "entities": [
-        "ഇന്ത്യ",
-        "ട്രോഫി",
-        "വാങ്ങില്ലെന്ന്",
-        "മൊഹ്",
-        "സിൻ",
-        "നഖ്",
-        "വിക്ക്",
-        "അറിയാമായിരുന്നു",
-        "എതിർത്തില്ലെന്ന്",
-        "വെളിപ്പെടുത്തൽ",
-        "Manorama Online"
-      ],
-      "source_reliability": 1.0,
-      "feedback_boost": 0.0,
-      "personal_model_score": 0.0,
-      "personal_score": 4.0
+      "personal_score": 5.25
     },
     {
       "id": "63aa60ef60f5cf0d",
@@ -181,7 +74,7 @@
       "ai_category": "general",
       "ai_confidence": 0.99,
       "ai_importance": 4,
-      "ai_novelty": 0.8867,
+      "ai_novelty": 0.9592,
       "ai": {
         "method": "tfidf_cosine_prototype",
         "features": "1-2grams",
@@ -201,9 +94,153 @@
         "Mathrubhumi"
       ],
       "source_reliability": 1.0,
-      "feedback_boost": 0.0,
+      "feedback_boost": 0.25,
       "personal_model_score": 0.0,
-      "personal_score": 4.0
+      "personal_score": 4.25
+    },
+    {
+      "id": "c6dacb09938c42db",
+      "title": "കോഴിക്കോട്ടെ കടപ്പുറത്ത് നിന്നും ഉയിർത്തെഴുന്നേൽക്കുക പുതിയ സിപിഎമ്മോ? - Mathrubhumi",
+      "summary": "കോഴിക്കോട്ടെ കടപ്പുറത്ത് നിന്നും ഉയിർത്തെഴുന്നേൽക്കുക പുതിയ സിപിഎമ്മോ? Mathrubhumi",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQktqMnFVelcxbG5GanlSdmh2a0tWUzM0c25DOUdtbkp4ODlwT1g4aTZma05RMERrTE96Q0J0UlcyRkRxZUxQazNxb3BWbjNyMjZWWVNqYTUtM2xOeXQwMTFKckl5YWN1NGJ0UnVjalhWdlVmTjZyS0ZvRnVLQnViTUtRdFRnZ2Z3YWdCNi1FWGMtWmZYTk56cjRMZTXSAaIBQVVfeXFMT0lRQlA2UTVURmRRZDBPeDNMZ0MwNXIyRlVOa0lvc2dXd0lsRElJUVhmZ0gyNXhqMnBFTGxOQmxFRDVlUnAwSXVjc1h1ZzhZYnN5ZHB5WmNaUE5NVFhTaHVha0VWaFBwczJBOVQ4Nll3Vlk0WTdSSVhzeGZ0NnlabExLcXkteGUxRGNoWFMzdU9NaV9PZEtwcDR6MVRUZ2tpbktn?oc=5",
+      "source": "Mathrubhumi",
+      "feed": "Kerala Malayalam News",
+      "published_at": "2026-09-15T13:48:19+00:00",
+      "category": "general",
+      "importance": 4,
+      "ai_category": "general",
+      "ai_confidence": 0.99,
+      "ai_importance": 4,
+      "ai_novelty": 0.9538,
+      "ai": {
+        "method": "tfidf_cosine_prototype",
+        "features": "1-2grams",
+        "version": 2
+      },
+      "entities": [
+        "കോഴിക്കോട്ടെ",
+        "കടപ്പുറത്ത്",
+        "നിന്നും",
+        "ഉയിർത്തെഴുന്നേൽക്കുക",
+        "പുതിയ",
+        "സിപിഎമ്മോ",
+        "Mathrubhumi"
+      ],
+      "source_reliability": 1.0,
+      "feedback_boost": 0.25,
+      "personal_model_score": 0.0,
+      "personal_score": 4.25
+    },
+    {
+      "id": "81246b06320b8470",
+      "title": "ഇന്ത്യ ട്രോഫി വാങ്ങില്ലെന്ന് മൊഹ്‍സിൻ നഖ്‍വിക്ക് അറിയാമായിരുന്നു; എതിർത്തില്ലെന്ന് വെളിപ്പെടുത്തൽ - Manorama Online",
+      "summary": "ഇന്ത്യ ട്രോഫി വാങ്ങില്ലെന്ന് മൊഹ്‍സിൻ നഖ്‍വിക്ക് അറിയാമായിരുന്നു; എതിർത്തില്ലെന്ന് വെളിപ്പെടുത്തൽ Manorama Online",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONmJFQ21keUY1dHlXY21Nb3Z2YTVpQ1J4cEFDSmxubjA1T011RjBDQm5RVlVFTFRDdzFfbjN6X1haUkY2aERIcl83amxwX09LSC1aV0ZEZmZmLUJVMHNZVFZyLUxucjZlUTNXY2IxWmVaRzg1ZTRDRlY3SlVfRVdmY3N1cElvbmczX1U4MkpWQV9XVkhKSFlfRk5pampmWVhqdFh5S09iYkU4blRDNXFsRGdsTGc4QdIBuwFBVV95cUxQblViSDh4WVI2T3ltdUhwdXUtaEJZaWJrZV9vc25VaFdOdm1RRXR6TTZhY095cnNILUxPZzctYUd0elBER0htdWNsejhlMzQ1eWZfY0FubkV3R0IwaGpucnk3eHBqQUdrN1gwclQzRWhxTGNyZ2c2emE4a1N2LWVRSWZMZmRRMEFaYU1DNjQtRlpmWmg2eTVPQXRkeV9pX0lrUzc3VWRkeWFMSDhIbS1ZeGhYOHpzeldISm1n?oc=5",
+      "source": "Manorama Online",
+      "feed": "India Malayalam News",
+      "published_at": "2026-09-15T12:59:53+00:00",
+      "category": "general",
+      "importance": 4,
+      "ai_category": "general",
+      "ai_confidence": 0.99,
+      "ai_importance": 4,
+      "ai_novelty": 0.9017,
+      "ai": {
+        "method": "tfidf_cosine_prototype",
+        "features": "1-2grams",
+        "version": 2
+      },
+      "entities": [
+        "ഇന്ത്യ",
+        "ട്രോഫി",
+        "വാങ്ങില്ലെന്ന്",
+        "മൊഹ്",
+        "സിൻ",
+        "നഖ്",
+        "വിക്ക്",
+        "അറിയാമായിരുന്നു",
+        "എതിർത്തില്ലെന്ന്",
+        "വെളിപ്പെടുത്തൽ",
+        "Manorama Online"
+      ],
+      "source_reliability": 1.0,
+      "feedback_boost": 0.25,
+      "personal_model_score": 0.0,
+      "personal_score": 4.25
+    },
+    {
+      "id": "80d6a6c9f9355bde",
+      "title": "‘പ്രഹസനം, പൊള്ളയായ നടപടി’: അസ്ഹറിന്റെ ഇനാം തുക കൂട്ടിയ പാക്കിസ്ഥാന്റെ നടപടി തള്ളി ഇന്ത്യ - Manorama Online",
+      "summary": "‘പ്രഹസനം, പൊള്ളയായ നടപടി’: അസ്ഹറിന്റെ ഇനാം തുക കൂട്ടിയ പാക്കിസ്ഥാന്റെ നടപടി തള്ളി ഇന്ത്യ Manorama Online",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNX25ZRThoaWRPLVNMeFRwc2d5R08tOGg1anRPZzlRdmdJOGhzS1lQblBJS3A0WW9oWHVWMjZZM2lweDMwak83MGd2SS03WmFHNmJ0Tk1ESXJHU0J6aWhoZHJVRkx6dDZ3OHNleEdZVGg5RGlDOG9ERHpzbldjZ3J2UXdobTd2enhheHgwRG1NMlZ6LV8zdmN1bzRrenhOLWM5cDdpSUNoV1g2bFBTWEM0WHpsNDRjZHRwQWNORzl6b3RERzhB0gHKAUFVX3lxTFBWSTItMjNoOW5BWXY0MTVLa2Jwd0tCQVk0ZHBtbFdValFodGF4TTJtS3ZrRXNwTUQtMzZJUElRVGx5YnV5Q003RzU4MlY1dWtYLUFjQmZjLWNyNWFoTjQza2tSR0ROOHpHZEhrSmNFQkNaLUc1WjlCMFc4enVxMVF0UXUtQV9GNTlfS0xqNERUb1lpWmJPRUMxN2xXM1k2UzZTcThUWjlmaHFSMFdUa0xoUEQ3c3NGaG5MM0FvNE5DbHBYSmVDU3EtNkE?oc=5",
+      "source": "Manorama Online",
+      "feed": "India Malayalam News",
+      "published_at": "2026-09-15T18:31:41+00:00",
+      "category": "general",
+      "importance": 4,
+      "ai_category": "general",
+      "ai_confidence": 0.99,
+      "ai_importance": 4,
+      "ai_novelty": 0.8684,
+      "ai": {
+        "method": "tfidf_cosine_prototype",
+        "features": "1-2grams",
+        "version": 2
+      },
+      "entities": [
+        "പ്രഹസനം",
+        "പൊള്ളയായ",
+        "നടപടി",
+        "അസ്ഹറിന്റെ",
+        "ഇനാം",
+        "തുക",
+        "കൂട്ടിയ",
+        "പാക്കിസ്ഥാന്റെ",
+        "തള്ളി",
+        "ഇന്ത്യ",
+        "Manorama Online"
+      ],
+      "source_reliability": 1.0,
+      "feedback_boost": 0.25,
+      "personal_model_score": 0.0,
+      "personal_score": 4.25
+    },
+    {
+      "id": "40ae401bb753414f",
+      "title": "‘തട്ടിപ്പ്, കണ്ണിൽപൊടിയിടാനുള്ള ശ്രമം’; മസൂദ് അസറിനായുള്ള പാകിസ്താന്റെ ഇനാം പ്രഖ്യാപനം തള്ളി ഇന്ത്യ - Mathrubhumi",
+      "summary": "‘തട്ടിപ്പ്, കണ്ണിൽപൊടിയിടാനുള്ള ശ്രമം’; മസൂദ് അസറിനായുള്ള പാകിസ്താന്റെ ഇനാം പ്രഖ്യാപനം തള്ളി ഇന്ത്യ Mathrubhumi",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZk5EbWNEWWtuQ3VBR2JTTTNKbDBBYWEzQk9qMmtOUWVJaWlHaW13NUotMXEzOWt4eDl6dDRxMDFOOEgzR0ExTlZiSXlDZjlvc0JRR1ZpTHlNTzkyRVh4aXhGZkh4ODJpRFpQazFFNzRsQzVXZHNIcURyNkFDNVBDSjdzbmZhMTVkXzA3ZzBJV0ZaRFE30gGaAUFVX3lxTE9waklKRnliMXJXY3ZYTXd1SmQ5NnVDTlZxYUUzS2RzdUFyQ25zQ29takVOQ1dLWDQ1UVV2SV9HSV9mU2hHbDRtMnlINmpaRnBadWZRMnBzWWFXcjRGZXRLV0xlRGFKYlpEQk5EYzU0Q2I5Z010dlZiRXNVcm1qdGdMVWxmYnc1MmZzRC1NZlVTWTFTTi1YbG9aWlE?oc=5",
+      "source": "Mathrubhumi",
+      "feed": "India Malayalam News",
+      "published_at": "2026-09-15T14:00:10+00:00",
+      "category": "general",
+      "importance": 4,
+      "ai_category": "general",
+      "ai_confidence": 0.99,
+      "ai_importance": 4,
+      "ai_novelty": 0.8684,
+      "ai": {
+        "method": "tfidf_cosine_prototype",
+        "features": "1-2grams",
+        "version": 2
+      },
+      "entities": [
+        "തട്ടിപ്പ്",
+        "കണ്ണിൽപൊടിയിടാനുള്ള",
+        "ശ്രമം",
+        "മസൂദ്",
+        "അസറിനായുള്ള",
+        "പാകിസ്താന്റെ",
+        "ഇനാം",
+        "പ്രഖ്യാപനം",
+        "തള്ളി",
+        "ഇന്ത്യ",
+        "Mathrubhumi"
+      ],
+      "source_reliability": 1.0,
+      "feedback_boost": 0.25,
+      "personal_model_score": 0.0,
+      "personal_score": 4.25
     },
     {
       "id": "9e7c767a0fa072cb",
@@ -218,7 +255,7 @@
       "ai_category": "general",
       "ai_confidence": 0.99,
       "ai_importance": 4,
-      "ai_novelty": 0.8627,
+      "ai_novelty": 0.8626,
       "ai": {
         "method": "tfidf_cosine_prototype",
         "features": "1-2grams",
@@ -239,9 +276,43 @@
         "Malayalam"
       ],
       "source_reliability": 1.0,
-      "feedback_boost": 0.0,
+      "feedback_boost": 0.25,
       "personal_model_score": 0.0,
-      "personal_score": 4.0
+      "personal_score": 4.25
+    },
+    {
+      "id": "a2aa7dd5f9741345",
+      "title": "ചിന്താ ജെറോമിന്റെ പിഎച്ച്‌ഡി പ്രബന്ധം വീണ്ടും പരിശോധിക്കും; നാലംഗ സമിതി - manoramanews.com",
+      "summary": "ചിന്താ ജെറോമിന്റെ പിഎച്ച്‌ഡി പ്രബന്ധം വീണ്ടും പരിശോധിക്കും; നാലംഗ സമിതി manoramanews.com",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdktBMDMtVlFhcFU3S1ZQT0ZJVDBnRkRDcTRRX0g4NGlyeFlINTVreDI0YWpkTi1uRklQc0ZtUWVsWC10SXEtT1NMUWhMX0ZkVWh2bEtwbThqcjFzbmlnc3dzbmw4dENXeHVzM1pIbDh2bXhOWTFwakVrT0tCSVVQc3hINlQzemJHUzFabWktMVBsOUZqVEdZakJsamdhbzZyaF9BSk0waXRXZlYzbUtsdnh1bXpvRFnSAbwBQVVfeXFMTUtWVHBXbmEtekZvS1pQNkVoMFkzN2J3RnZsQXpMRUNTR0hSN3BfWlpTUGRBN0U1RXRRZmtiS1g5NTJWNUdzX2RyNm1QSWFQeTNVd1lwOXFlRjFETXNJUkRrZnBhME5jNEt4V2pxbkNJc3N2emJBS2tXc0FHbm1zZXdSQ2VISms3U2xjajFDaXRvVF9XWkFUME8teC1Ec2hYSm13ZjB4Tk4yT3UzdnM5dUlRZ1Nlb2F6X0E1ZXY?oc=5",
+      "source": "manoramanews.com",
+      "feed": "Kerala Malayalam News",
+      "published_at": "2026-09-15T14:12:27+00:00",
+      "category": "general",
+      "importance": 4,
+      "ai_category": "general",
+      "ai_confidence": 0.99,
+      "ai_importance": 4,
+      "ai_novelty": 0.8555,
+      "ai": {
+        "method": "tfidf_cosine_prototype",
+        "features": "1-2grams",
+        "version": 2
+      },
+      "entities": [
+        "ചിന്താ",
+        "ജെറോമിന്റെ",
+        "പിഎച്ച്",
+        "പ്രബന്ധം",
+        "വീണ്ടും",
+        "പരിശോധിക്കും",
+        "നാലംഗ",
+        "സമിതി"
+      ],
+      "source_reliability": 1.0,
+      "feedback_boost": 0.25,
+      "personal_model_score": 0.0,
+      "personal_score": 4.25
     },
     {
       "id": "b772a06cc53c649e",
@@ -256,7 +327,7 @@
       "ai_category": "general",
       "ai_confidence": 0.99,
       "ai_importance": 4,
-      "ai_novelty": 0.8236,
+      "ai_novelty": 0.8259,
       "ai": {
         "method": "tfidf_cosine_prototype",
         "features": "1-2grams",
@@ -277,9 +348,9 @@
         "മാറ്റം"
       ],
       "source_reliability": 1.0,
-      "feedback_boost": 0.0,
+      "feedback_boost": 0.25,
       "personal_model_score": 0.0,
-      "personal_score": 4.0
+      "personal_score": 4.25
     },
     {
       "id": "421eaf55d43795fa",
@@ -315,116 +386,47 @@
         "Updates"
       ],
       "source_reliability": 1.0,
-      "feedback_boost": 0.0,
+      "feedback_boost": 0.25,
       "personal_model_score": 0.0,
-      "personal_score": 4.0
+      "personal_score": 4.25
     },
     {
-      "id": "9684a076f8996f51",
-      "title": "കോപ്പിയടി വിവാദം; ചിന്താ ജെറോമിന്റെ പിഎച്ച്.ഡി. പരിശോധിക്കാൻ പ്രത്യേക സമിതി - Mathrubhumi",
-      "summary": "കോപ്പിയടി വിവാദം; ചിന്താ ജെറോമിന്റെ പിഎച്ച്.ഡി. പരിശോധിക്കാൻ പ്രത്യേക സമിതി Mathrubhumi",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNV29MZ2x2eGU3Z1BpT2VpZFotaTQ0QkZocjlwUUhzMVVSblowdU9BbFpMZldKTm5vUm1MUk13b3EtbTExa1VsZVRJY3V3Z3BuUHQ3MmE4ME9EcGI3WVRMUVk4dnIwb3hHVWZuSzRibG10VXdaWkRkQTZuNVlzMzFjZGk4cVRYblFnTW1hUERVd1poVEUxS1FGU2lHUU03UDDSAaQBQVVfeXFMT1NueVN6QzN3YzJDZG5nb1QwOTU0UHZiMTVUcUZhTHBBVzJZMjNhcFA5NnBSdkx1OGY3dWNROElQbUpsUXlsSWN3N2xDb1EtQ3VfX3lwdkE2WkVHZjN5NThTX0NCdHdjYnVLZ2VkYXRidHozTVNiZXhDTzNRZGhCa2dZcURXUjBOWGVWZ2FPQmNidk1fdEx0cEFwcElKY21WX09GOHY?oc=5",
-      "source": "Mathrubhumi",
+      "id": "50eea90842d64841",
+      "title": "വ്യാപക തെറ്റുകളെന്ന് പരാതി; ചിന്താ ജെറോമിന്റെ പിഎച്ച്ഡി പ്രബന്ധം പരിശോധിക്കാൻ പ്രത്യേക സമിതിയുമായി കേരള സർവകലാശാല - Manorama Online",
+      "summary": "വ്യാപക തെറ്റുകളെന്ന് പരാതി; ചിന്താ ജെറോമിന്റെ പിഎച്ച്ഡി പ്രബന്ധം പരിശോധിക്കാൻ പ്രത്യേക സമിതിയുമായി കേരള സർവകലാശാല Manorama Online",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNS2p3bWtBVTVVRnZKQVVPcXpWQmlHc2JuQ0tHNUxadkc5ZnBpX1kySXBmbVAyYndXa3Z2ZGgxOUNkUThwbk5Yc29fTkwwZ2FXcUx4NXY1ZGhGNG5qckg0a3JEcXJNaUxwMVYxZWFZa1EwVnI5ZnBpbGpxeUJsZU04NWZwcmNwQWh0ZHV6OEdnbEp4ZWg4SkxmckswSmluNzJLWWdhdjdpS0pXVWtDdm54NkxjQlVpX3JIbXZuaGxRXy1EU00yd0Y3SXkwY9IB0AFBVV95cUxOMHhiUU9jWkQ2TlRKOGI4NE9NX29pWEZsMEhTcmJNVWVRWlFqZFI2SVBHb1M4MUlfYlV1RUljMzBOYTcyNk05bld3ZkRmZVpST2dpM2p4emxyN1B2ak84aUQ0cDlaYU1CU0wwZHl2VjNYb1B2N0NPcE9YVXRKTTRaT1A1MlV5Wlk3a2ZwVkNweDNYLXdTTXlnTjZTbnZpa2hkdzJBdkVTaENrQnFMaTg5VGU3dVhYa1dMQ29MUmlKeHozVmlyaGRidWJOQ3FLN3Ru?oc=5",
+      "source": "Manorama Online",
       "feed": "Kerala Malayalam News",
-      "published_at": "2026-09-15T16:15:30+00:00",
+      "published_at": "2026-09-15T16:39:59+00:00",
       "category": "general",
       "importance": 4,
       "ai_category": "general",
       "ai_confidence": 0.99,
       "ai_importance": 4,
-      "ai_novelty": 0.6329,
+      "ai_novelty": 0.7737,
       "ai": {
         "method": "tfidf_cosine_prototype",
         "features": "1-2grams",
         "version": 2
       },
       "entities": [
-        "കോപ്പിയടി",
-        "വിവാദം",
+        "വ്യാപക",
+        "തെറ്റുകളെന്ന്",
+        "പരാതി",
         "ചിന്താ",
         "ജെറോമിന്റെ",
-        "പിഎച്ച്",
+        "പിഎച്ച്ഡി",
+        "പ്രബന്ധം",
         "പരിശോധിക്കാൻ",
         "പ്രത്യേക",
-        "സമിതി",
-        "Mathrubhumi"
+        "സമിതിയുമായി",
+        "കേരള",
+        "സർവകലാശാല"
       ],
       "source_reliability": 1.0,
-      "feedback_boost": 0.0,
+      "feedback_boost": 0.25,
       "personal_model_score": 0.0,
-      "personal_score": 4.0
-    },
-    {
-      "id": "a2aa7dd5f9741345",
-      "title": "ചിന്താ ജെറോമിന്റെ പിഎച്ച്‌ഡി പ്രബന്ധം വീണ്ടും പരിശോധിക്കും; നാലംഗ സമിതി - manoramanews.com",
-      "summary": "ചിന്താ ജെറോമിന്റെ പിഎച്ച്‌ഡി പ്രബന്ധം വീണ്ടും പരിശോധിക്കും; നാലംഗ സമിതി manoramanews.com",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdktBMDMtVlFhcFU3S1ZQT0ZJVDBnRkRDcTRRX0g4NGlyeFlINTVreDI0YWpkTi1uRklQc0ZtUWVsWC10SXEtT1NMUWhMX0ZkVWh2bEtwbThqcjFzbmlnc3dzbmw4dENXeHVzM1pIbDh2bXhOWTFwakVrT0tCSVVQc3hINlQzemJHUzFabWktMVBsOUZqVEdZakJsamdhbzZyaF9BSk0waXRXZlYzbUtsdnh1bXpvRFnSAbwBQVVfeXFMTUtWVHBXbmEtekZvS1pQNkVoMFkzN2J3RnZsQXpMRUNTR0hSN3BfWlpTUGRBN0U1RXRRZmtiS1g5NTJWNUdzX2RyNm1QSWFQeTNVd1lwOXFlRjFETXNJUkRrZnBhME5jNEt4V2pxbkNJc3N2emJBS2tXc0FHbm1zZXdSQ2VISms3U2xjajFDaXRvVF9XWkFUME8teC1Ec2hYSm13ZjB4Tk4yT3UzdnM5dUlRZ1Nlb2F6X0E1ZXY?oc=5",
-      "source": "manoramanews.com",
-      "feed": "Kerala Malayalam News",
-      "published_at": "2026-09-15T14:12:27+00:00",
-      "category": "general",
-      "importance": 4,
-      "ai_category": "general",
-      "ai_confidence": 0.99,
-      "ai_importance": 4,
-      "ai_novelty": 0.6329,
-      "ai": {
-        "method": "tfidf_cosine_prototype",
-        "features": "1-2grams",
-        "version": 2
-      },
-      "entities": [
-        "ചിന്താ",
-        "ജെറോമിന്റെ",
-        "പിഎച്ച്",
-        "പ്രബന്ധം",
-        "വീണ്ടും",
-        "പരിശോധിക്കും",
-        "നാലംഗ",
-        "സമിതി"
-      ],
-      "source_reliability": 1.0,
-      "feedback_boost": 0.0,
-      "personal_model_score": 0.0,
-      "personal_score": 4.0
-    },
-    {
-      "id": "d324d6a962bd3997",
-      "title": "'നേതാക്കള്‍ എടുത്ത വലിയ വായ്പകള്‍ തിരിച്ചടച്ചില്ലെങ്കില്‍ പാര്‍ട്ടി നടപടി'; സഹകരണ മേഖലയിലും തിരുത്താന്‍ CPIM - Reporter Tv",
-      "summary": "'നേതാക്കള്‍ എടുത്ത വലിയ വായ്പകള്‍ തിരിച്ചടച്ചില്ലെങ്കില്‍ പാര്‍ട്ടി നടപടി'; സഹകരണ മേഖലയിലും തിരുത്താന്‍ CPIM Reporter Tv",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQY1huelJrUlptT2V4dS1BaDc4S192dThjYTlWVWxUOXI2cnpGdFVZeU9MNGVXME5jUXRVQXZXUF9zcy10RTFaZTNxc1pnQjRJTlZNWkc1LWszd1ZaV2EzSlFKSHVqdkZHTW9qWlg4RERfUFNFSUdNOTl4M2RHWHhsOW4wREpOTzJ4R0lVTHQyeDA0YTR5c1BnUHEzRm5WeFhUa3dIaTQ2cDdFbjJmS0NHeWJ4cG1uNGVi0gG-AUFVX3lxTE82a2tyQjJQRnpsN0kyOEp6M0dpb0lHTlJaRXVmNXN2LWRMV3l2N1NIb2ljaDhmTkZKX1hFMzBvNVpONlhPYkFUS0dETWFNcDAzSFhNekFYWUpicU9sekl6VWlHZkstSVo1RTJGQnJRMjlKLXFLajdIT3M5UExEa2lmZlFiOUdpT0xRZkd4REljMVUwd2RrMkViYjlnQ0liVkl2UWMxVHFnazRPUlRuNkdFTkwxMzR5emNBQ2Fra1E?oc=5",
-      "source": "Reporter Tv",
-      "feed": "Kerala Malayalam News",
-      "published_at": "2026-09-15T12:09:46+00:00",
-      "category": "general",
-      "importance": 3,
-      "ai_category": "general",
-      "ai_confidence": 0.99,
-      "ai_importance": 3,
-      "ai_novelty": 1.0,
-      "ai": {
-        "method": "tfidf_cosine_prototype",
-        "features": "1-2grams",
-        "version": 2
-      },
-      "entities": [
-        "നേതാക്കള്",
-        "എടുത്ത",
-        "വലിയ",
-        "വായ്പകള്",
-        "തിരിച്ചടച്ചില്ലെങ്കില്",
-        "പാര്",
-        "ട്ടി",
-        "നടപടി",
-        "സഹകരണ",
-        "മേഖലയിലും",
-        "തിരുത്താന്",
-        "CPIM"
-      ],
-      "source_reliability": 1.0,
-      "feedback_boost": 0.0,
-      "personal_model_score": 0.0,
-      "personal_score": 3.0
+      "personal_score": 4.25
     },
     {
       "id": "1a422c336773e9f6",
@@ -439,7 +441,7 @@
       "ai_category": "general",
       "ai_confidence": 0.99,
       "ai_importance": 3,
-      "ai_novelty": 0.9853,
+      "ai_novelty": 0.9855,
       "ai": {
         "method": "tfidf_cosine_prototype",
         "features": "1-2grams",
@@ -455,9 +457,9 @@
         "LUCA Science Magazine"
       ],
       "source_reliability": 1.0,
-      "feedback_boost": 0.0,
+      "feedback_boost": 0.25,
       "personal_model_score": 0.0,
-      "personal_score": 3.0
+      "personal_score": 3.25
     },
     {
       "id": "729dc75878f0a455",
@@ -472,7 +474,7 @@
       "ai_category": "general",
       "ai_confidence": 0.99,
       "ai_importance": 3,
-      "ai_novelty": 0.9365,
+      "ai_novelty": 0.9305,
       "ai": {
         "method": "tfidf_cosine_prototype",
         "features": "1-2grams",
@@ -492,9 +494,9 @@
         "News18 Malayalam"
       ],
       "source_reliability": 1.0,
-      "feedback_boost": 0.0,
+      "feedback_boost": 0.25,
       "personal_model_score": 0.0,
-      "personal_score": 3.0
+      "personal_score": 3.25
     },
     {
       "id": "3150c5e6ae608830",
@@ -509,7 +511,7 @@
       "ai_category": "general",
       "ai_confidence": 0.99,
       "ai_importance": 3,
-      "ai_novelty": 0.9245,
+      "ai_novelty": 0.9255,
       "ai": {
         "method": "tfidf_cosine_prototype",
         "features": "1-2grams",
@@ -524,9 +526,9 @@
         "Kerala Kaumudi"
       ],
       "source_reliability": 1.0,
-      "feedback_boost": 0.0,
+      "feedback_boost": 0.25,
       "personal_model_score": 0.0,
-      "personal_score": 3.0
+      "personal_score": 3.25
     },
     {
       "id": "ddc20b1110a1ee8e",
@@ -541,7 +543,7 @@
       "ai_category": "general",
       "ai_confidence": 0.99,
       "ai_importance": 3,
-      "ai_novelty": 0.9161,
+      "ai_novelty": 0.9163,
       "ai": {
         "method": "tfidf_cosine_prototype",
         "features": "1-2grams",
@@ -562,9 +564,9 @@
         "News18 Malayalam"
       ],
       "source_reliability": 1.0,
-      "feedback_boost": 0.0,
+      "feedback_boost": 0.25,
       "personal_model_score": 0.0,
-      "personal_score": 3.0
+      "personal_score": 3.25
     },
     {
       "id": "39fde21d8c84b28e",
@@ -600,9 +602,9 @@
         "ഉദ്ഘാടനം"
       ],
       "source_reliability": 1.0,
-      "feedback_boost": 0.0,
+      "feedback_boost": 0.25,
       "personal_model_score": 0.0,
-      "personal_score": 3.0
+      "personal_score": 3.25
     },
     {
       "id": "f72254c0d3caf92a",
@@ -638,43 +640,9 @@
         "Marunadan Malayali"
       ],
       "source_reliability": 1.0,
-      "feedback_boost": 0.0,
+      "feedback_boost": 0.25,
       "personal_model_score": 0.0,
-      "personal_score": 3.0
-    },
-    {
-      "id": "eb8e55f886512b38",
-      "title": "ഇന്ത്യാ-അമേരിക്ക സംയുക്ത സൈനികാഭ്യാസം 'യുദ്ധ് അഭ്യാസി'ന് തുടക്കം - Asianet News Malayalam",
-      "summary": "ഇന്ത്യാ-അമേരിക്ക സംയുക്ത സൈനികാഭ്യാസം 'യുദ്ധ് അഭ്യാസി'ന് തുടക്കം Asianet News Malayalam",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVGxQZnBqRS1mRUNCZGNUblFkZEFkSUVFaXVlX0ZXV1o3eDVUcnBheGV6MVNTRms0QjFaTlhaRk1RNTlhMGlROHhzQlJraE1tRW1qYXlHR1lGdzVDLVg1Qk9HVzB4em51UWVNd1BCUTZkdDVPTWZOVFR4b1RnX0NSMWQyOW0tYVZ0c20xUXYyME4wMkF5TGY5NnQySEZVaXdyYVpiNzVwRnhtZk5CRjNmd9IBtgFBVV95cUxQT0swQ1JvZG55eUc1SC12VXZKc2ZtT2E2bHpZa1BoREJ2U2hJeWtQQTJ3SnNsWW1Cb2RteHdOdVR1ZWRMUm1mNG5yTG1UYkk2WmNOLU9LbnpoUmNkY2xvSEkxZW9MejVYZXJQLUtzTWNxOHl6YkM5RE1CejBHNkRTTnctWUR1V0xnTXhHeDdqMG40UDZfemhLT00zX1FKSHJVNEdmczFtV0l4S0pDS3oxRnRFN29vZw?oc=5",
-      "source": "Asianet News Malayalam",
-      "feed": "India Malayalam News",
-      "published_at": "2026-09-15T12:22:25+00:00",
-      "category": "general",
-      "importance": 3,
-      "ai_category": "general",
-      "ai_confidence": 0.99,
-      "ai_importance": 3,
-      "ai_novelty": 0.8936,
-      "ai": {
-        "method": "tfidf_cosine_prototype",
-        "features": "1-2grams",
-        "version": 2
-      },
-      "entities": [
-        "ഇന്ത്യാ",
-        "അമേരിക്ക",
-        "സംയുക്ത",
-        "സൈനികാഭ്യാസം",
-        "യുദ്ധ്",
-        "അഭ്യാസി",
-        "തുടക്കം",
-        "Asianet News Malayalam"
-      ],
-      "source_reliability": 1.0,
-      "feedback_boost": 0.0,
-      "personal_model_score": 0.0,
-      "personal_score": 3.0
+      "personal_score": 3.25
     },
     {
       "id": "d31cd12fb6fc3720",
@@ -689,7 +657,7 @@
       "ai_category": "general",
       "ai_confidence": 0.99,
       "ai_importance": 3,
-      "ai_novelty": 0.8922,
+      "ai_novelty": 0.8984,
       "ai": {
         "method": "tfidf_cosine_prototype",
         "features": "1-2grams",
@@ -706,45 +674,43 @@
         "Malayalam"
       ],
       "source_reliability": 1.0,
-      "feedback_boost": 0.0,
+      "feedback_boost": 0.25,
       "personal_model_score": 0.0,
-      "personal_score": 3.0
+      "personal_score": 3.25
     },
     {
-      "id": "43c818716e2caf9c",
-      "title": "മോദി-ഷി ജിൻപിങ് കൂടിക്കാഴ്ച: ഇന്ത്യയുടെ ആശങ്കകൾ പ്രധാനമന്ത്രി ഉന്നയിച്ചതായി വിദേശകാര്യ മന്ത്രാലയം - News18 Malayalam",
-      "summary": "മോദി-ഷി ജിൻപിങ് കൂടിക്കാഴ്ച: ഇന്ത്യയുടെ ആശങ്കകൾ പ്രധാനമന്ത്രി ഉന്നയിച്ചതായി വിദേശകാര്യ മന്ത്രാലയം News18 Malayalam",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNcUkxVHo4SjVCOWlmaGlvVTBxeGNRVFJTODFVSmRLcmFOeHFZSjJ6RjdGeFI3ZHRCUU84aUNzcUl5YWZocjFwU2swN3UtSVFMQnh5LWZQUklxQndERzZycHc1UXg4UnRGbFpBRHdjVnVTYmVfT0xCVmJXTGRZWkp2YVFCdTBVUFEtWUMxYjJiRl93TzZNdnZCVWx3ekw1eGF5eDBnTFA3aUdSOXJfV2RiRm1uMFJRYmVRdkZybmJReGxDVE1FMWFROHR3?oc=5",
-      "source": "News18 Malayalam",
+      "id": "eb8e55f886512b38",
+      "title": "ഇന്ത്യാ-അമേരിക്ക സംയുക്ത സൈനികാഭ്യാസം 'യുദ്ധ് അഭ്യാസി'ന് തുടക്കം - Asianet News Malayalam",
+      "summary": "ഇന്ത്യാ-അമേരിക്ക സംയുക്ത സൈനികാഭ്യാസം 'യുദ്ധ് അഭ്യാസി'ന് തുടക്കം Asianet News Malayalam",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVGxQZnBqRS1mRUNCZGNUblFkZEFkSUVFaXVlX0ZXV1o3eDVUcnBheGV6MVNTRms0QjFaTlhaRk1RNTlhMGlROHhzQlJraE1tRW1qYXlHR1lGdzVDLVg1Qk9HVzB4em51UWVNd1BCUTZkdDVPTWZOVFR4b1RnX0NSMWQyOW0tYVZ0c20xUXYyME4wMkF5TGY5NnQySEZVaXdyYVpiNzVwRnhtZk5CRjNmd9IBtgFBVV95cUxQT0swQ1JvZG55eUc1SC12VXZKc2ZtT2E2bHpZa1BoREJ2U2hJeWtQQTJ3SnNsWW1Cb2RteHdOdVR1ZWRMUm1mNG5yTG1UYkk2WmNOLU9LbnpoUmNkY2xvSEkxZW9MejVYZXJQLUtzTWNxOHl6YkM5RE1CejBHNkRTTnctWUR1V0xnTXhHeDdqMG40UDZfemhLT00zX1FKSHJVNEdmczFtV0l4S0pDS3oxRnRFN29vZw?oc=5",
+      "source": "Asianet News Malayalam",
       "feed": "India Malayalam News",
-      "published_at": "2026-09-15T12:54:31+00:00",
+      "published_at": "2026-09-15T12:22:25+00:00",
       "category": "general",
       "importance": 3,
       "ai_category": "general",
       "ai_confidence": 0.99,
       "ai_importance": 3,
-      "ai_novelty": 0.8867,
+      "ai_novelty": 0.8978,
       "ai": {
         "method": "tfidf_cosine_prototype",
         "features": "1-2grams",
         "version": 2
       },
       "entities": [
-        "മോദി",
-        "ജിൻപിങ്",
-        "കൂടിക്കാഴ്ച",
-        "ഇന്ത്യയുടെ",
-        "ആശങ്കകൾ",
-        "പ്രധാനമന്ത്രി",
-        "ഉന്നയിച്ചതായി",
-        "വിദേശകാര്യ",
-        "മന്ത്രാലയം",
-        "News18 Malayalam"
+        "ഇന്ത്യാ",
+        "അമേരിക്ക",
+        "സംയുക്ത",
+        "സൈനികാഭ്യാസം",
+        "യുദ്ധ്",
+        "അഭ്യാസി",
+        "തുടക്കം",
+        "Asianet News Malayalam"
       ],
       "source_reliability": 1.0,
-      "feedback_boost": 0.0,
+      "feedback_boost": 0.25,
       "personal_model_score": 0.0,
-      "personal_score": 3.0
+      "personal_score": 3.25
     },
     {
       "id": "52c249aee8ae9447",
@@ -776,9 +742,9 @@
         "Samakalika Malayalam"
       ],
       "source_reliability": 1.0,
-      "feedback_boost": 0.0,
+      "feedback_boost": 0.25,
       "personal_model_score": 0.0,
-      "personal_score": 3.0
+      "personal_score": 3.25
     },
     {
       "id": "e0a8738df1bfa177",
@@ -808,9 +774,9 @@
         "Samakalika Malayalam"
       ],
       "source_reliability": 1.0,
-      "feedback_boost": 0.0,
+      "feedback_boost": 0.25,
       "personal_model_score": 0.0,
-      "personal_score": 3.0
+      "personal_score": 3.25
     },
     {
       "id": "c82d4686d3691af9",
@@ -846,222 +812,9 @@
         "ഇന്ത്യ"
       ],
       "source_reliability": 1.0,
-      "feedback_boost": 0.0,
+      "feedback_boost": 0.25,
       "personal_model_score": 0.0,
-      "personal_score": 3.0
-    },
-    {
-      "id": "11698ca1b7973bb5",
-      "title": "ചിന്ത ജെറോമിൻ്റെ പിഎച്ച്ഡി വിവാദം: പ്രബന്ധം പരിശോധിക്കാൻ പ്രത്യേക സമിതിയെ നിയോ​ഗിച്ച് കേരള സർവ്വകലാശാല - Asianet News Malayalam",
-      "summary": "ചിന്ത ജെറോമിൻ്റെ പിഎച്ച്ഡി വിവാദം: പ്രബന്ധം പരിശോധിക്കാൻ പ്രത്യേക സമിതിയെ നിയോ​ഗിച്ച് കേരള സർവ്വകലാശാല Asianet News Malayalam",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNa2c0NFR4a0hsRVJjTVlaNThqemZ5S1FERXBXc2tRZVpkdDhrU0puamJDSFViNjlUYlNxbDVoeDVaNkU0eDF4TlYwZndPVE9kRmlvdGpKQzRrcmVfNlRsejVTZnZKNFQ3Wlo1NTNMTTJjSE5oYy1EaU81cGtXQUFoalJ2VGZsalBMN1k1Z1RLT2tPVE50S21aMnNaNlJnNTJab3pkUy10X2U1QWMxRVZtdTdRYjVtQjRmQWVRT3hka0kyQ01SNDUxRWctLXZwTUwyVlV0YWNn0gHbAUFVX3lxTE9TSnMzSzI1eW9hcU85WVdKTDNHR2hTeWljaC1kQjAyVUE2TlpPVkRERXZyZy01WFZRelVmcnpYS093NHpDZWRZbWJpV2J6eGpZNF9pWFFQS0FyTTdoWlJqSDZJS0llTGVGcTlKeWxVY1NBMjhfWVBCbHdfMGtRdWdDNnhIRDR1NUlOclp0MUl5LTdYRmVGa3JWamdMa0pKYUhSNy01LTlFbU9JbkxUVE5XYjI3VHpZbkhDaXo3ODhmTURGenpuNWFaRl9kOEpIRmlURlVHMGNfbTVYRQ?oc=5",
-      "source": "Asianet News Malayalam",
-      "feed": "Kerala Malayalam News",
-      "published_at": "2026-09-15T13:52:52+00:00",
-      "category": "general",
-      "importance": 3,
-      "ai_category": "general",
-      "ai_confidence": 0.99,
-      "ai_importance": 3,
-      "ai_novelty": 0.8399,
-      "ai": {
-        "method": "tfidf_cosine_prototype",
-        "features": "1-2grams",
-        "version": 2
-      },
-      "entities": [
-        "ചിന്ത",
-        "ജെറോമിൻ്റെ",
-        "പിഎച്ച്ഡി",
-        "വിവാദം",
-        "പ്രബന്ധം",
-        "പരിശോധിക്കാൻ",
-        "പ്രത്യേക",
-        "സമിതിയെ",
-        "നിയോ",
-        "ഗിച്ച്",
-        "കേരള",
-        "സർവ്വകലാശാല"
-      ],
-      "source_reliability": 1.0,
-      "feedback_boost": 0.0,
-      "personal_model_score": 0.0,
-      "personal_score": 3.0
-    },
-    {
-      "id": "051ab720fc3d4fb0",
-      "title": "US സൈനികരെ ഇറാൻ കൊലപ്പെടുത്തിയത് ചൈനയുടെ പിന്തുണയോടെ? - mediaoneonline.com",
-      "summary": "US സൈനികരെ ഇറാൻ കൊലപ്പെടുത്തിയത് ചൈനയുടെ പിന്തുണയോടെ? mediaoneonline.com",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRUNxTFFMLXZQMWdJLXJaTVJ0dEZ2VW52YU5sZHBrVEREcmNqbmN0a2YwS0g1VTdvcDZPZG04OFJYWE5MVVgxbl9vOFI0NE1va1RHcFgtcDhhSkZBaVFrQ1Zxemt4cjFHbXpnbmJEb2h1MklBWmxOaDF2T284NTZwaEwtUXcwQdIBiwFBVV95cUxNcnlHM2NVSE9xS3phOGtxbElCYlRLVkNLdy1FWE1mSmxvOW1LQ3AwanZBOE9MejRCVWJtdkZZTExKRXZ1eWhSZnByU2dOQWJnWkhESXF2enJWNFFCcHVYa2JERFJWTlFWU3BKNkZzcTFZOG9GUFJVWXpsQ3RTZEl5Nk1BeWhIMHd2Qjg4?oc=5",
-      "source": "mediaoneonline.com",
-      "feed": "World Malayalam News",
-      "published_at": "2026-09-15T13:45:18+00:00",
-      "category": "general",
-      "importance": 3,
-      "ai_category": "general",
-      "ai_confidence": 0.99,
-      "ai_importance": 3,
-      "ai_novelty": 0.8325,
-      "ai": {
-        "method": "tfidf_cosine_prototype",
-        "features": "1-2grams",
-        "version": 2
-      },
-      "entities": [
-        "സൈനികരെ",
-        "ഇറാൻ",
-        "കൊലപ്പെടുത്തിയത്",
-        "ചൈനയുടെ",
-        "പിന്തുണയോടെ"
-      ],
-      "source_reliability": 1.0,
-      "feedback_boost": 0.0,
-      "personal_model_score": 0.0,
-      "personal_score": 3.0
-    },
-    {
-      "id": "554cb444b781d31d",
-      "title": "ഹൂതികളുടെ ആക്രമണം അമേരിക്കയ്ക്ക് സഹായകമാകുമോ? - mediaoneonline.com",
-      "summary": "ഹൂതികളുടെ ആക്രമണം അമേരിക്കയ്ക്ക് സഹായകമാകുമോ? mediaoneonline.com",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQOEFYY0JtTFZFRllqdWNHMnFsUllBdFdXVVVpSFlXZUJSQW9ab2M2V0hiVHpyMnVBX01KVUxIWmFTTVFXRDkxZ3Y0U181Q2JmQ1o3VkF2Z3Z6a0J6bENUZnNaQ2Q5SElMOE5ycUlxNk12Ml9Vc0pmc2J1YTdQX25BUFVmS2pGUFh4bF9LcjZIRG_SAZYBQVVfeXFMTk5UeEFIcHdKZUREejZvOUdYT21TVlU2emQxYlpOZkVsaU9XTGw1Vm9JbjE2d2RBQTdfMlctOE5YemFzYzExTTJuNEUxazIxaWk4c18wUng3WG5zUUhaSlVrcXBmbTYxN0pMeF9vQ1dGcHY3RzQ3dHQ1b01BaEZXcDB3OXpCT0lzUWhpNFA1RWlkb3RjY0hn?oc=5",
-      "source": "mediaoneonline.com",
-      "feed": "World Malayalam News",
-      "published_at": "2026-09-15T12:57:26+00:00",
-      "category": "general",
-      "importance": 3,
-      "ai_category": "general",
-      "ai_confidence": 0.99,
-      "ai_importance": 3,
-      "ai_novelty": 0.8325,
-      "ai": {
-        "method": "tfidf_cosine_prototype",
-        "features": "1-2grams",
-        "version": 2
-      },
-      "entities": [
-        "ഹൂതികളുടെ",
-        "ആക്രമണം",
-        "അമേരിക്കയ്ക്ക്",
-        "സഹായകമാകുമോ"
-      ],
-      "source_reliability": 1.0,
-      "feedback_boost": 0.0,
-      "personal_model_score": 0.0,
-      "personal_score": 3.0
-    },
-    {
-      "id": "a3e7d9c282c338fb",
-      "title": "Kerala weather: സംസ്ഥാനത്ത് അടുത്ത 5 ദിവസം ഇടിമിന്നലോടു കൂടിയ നേരിയ മഴയ്ക്ക് സാധ്യത; യെലോ അലർട്ട് - News18 Malayalam",
-      "summary": "Kerala weather: സംസ്ഥാനത്ത് അടുത്ത 5 ദിവസം ഇടിമിന്നലോടു കൂടിയ നേരിയ മഴയ്ക്ക് സാധ്യത; യെലോ അലർട്ട് News18 Malayalam",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPb3FuZE9qbWVxbkoyN2s0UmpUc1E5LW9qMElaNjZsWnpWZ3hfWUFweHBxc2pTbm5mem5JaUxTdHBtZDhVQ2g0amdiMlRnQU1NS0RtZUFtVjlFRkhlQm81SUtzVjZ3Y05oQ29xSWc3T3h0cVJSUXdiWDFxRjVQWllvcVpacEpTOUl2Q1UyeFlPU3BmVFZHQWRvREhEM25VNEhua0ljSEloTUtFelZxaUpKMDRBMGxuZzA3am54Zlo4WXRUZWsyX0NKNWtNdmViMnhwM2dlX1V2Yw?oc=5",
-      "source": "News18 Malayalam",
-      "feed": "Kerala Malayalam News",
-      "published_at": "2026-09-15T10:00:30+00:00",
-      "category": "general",
-      "importance": 3,
-      "ai_category": "general",
-      "ai_confidence": 0.99,
-      "ai_importance": 3,
-      "ai_novelty": 0.8295,
-      "ai": {
-        "method": "tfidf_cosine_prototype",
-        "features": "1-2grams",
-        "version": 2
-      },
-      "entities": [
-        "സംസ്ഥാനത്ത്",
-        "അടുത്ത",
-        "ദിവസം",
-        "ഇടിമിന്നലോടു",
-        "കൂടിയ",
-        "നേരിയ",
-        "മഴയ്ക്ക്",
-        "സാധ്യത",
-        "യെലോ",
-        "അലർട്ട്",
-        "News18 Malayalam Kerala",
-        "News18 Malayalam"
-      ],
-      "source_reliability": 1.0,
-      "feedback_boost": 0.0,
-      "personal_model_score": 0.0,
-      "personal_score": 3.0
-    },
-    {
-      "id": "00de32459733e616",
-      "title": "രണ്ടാം ട്വന്റി20: സഞ്ജു ടീമിൽ, അഫ്ഗാനെതിരെ ടോസ് നേടിയ ഇന്ത്യ ബൗളിങ് തെരഞ്ഞെടുത്തു | Madhyamam - Madhyamam",
-      "summary": "രണ്ടാം ട്വന്റി20: സഞ്ജു ടീമിൽ, അഫ്ഗാനെതിരെ ടോസ് നേടിയ ഇന്ത്യ ബൗളിങ് തെരഞ്ഞെടുത്തു | Madhyamam Madhyamam",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQQmhaNG9EMU1vTDRpdXRqb3ZrLXJOSUxmaUlfQWVjLWkzNU42T19VcU9INHBEaHBoSDlCd1VJdmRtN2hDaTEtWGRHTTUycmp2R0VvUmR4UHZISk1hT2pHcEtxbjVpS0syMGtYMnVNb2lSNURvY2dxUzJpMEprWjZ5UzVMNHY3bDlpc3cwMmtxMjlzbGQ5NWpqVDNvT093SXdEZHVfMXdtQmd5Zm84N2xtNlViX0hucmx5cWoxS1dHSVVDdUtU0gHKAUFVX3lxTE9iMERYMWhqaVpaWUhNalhXbHhMZDRPcTFNYnJlcEU1N29VSng2NDNmZ3BBOTVyd3BrVGp0YzNPdjBCbVRZRF8tazlCOFZlZlpfckRGcTBEenRwUzIwX2tXSEU4Y2pIcUNDUXVrTlhnNEQtQkRfNmNaQ0xWeHpSN0xJNXdXRnZMd2QxSTM3c3BnNURjSWdVQnhHSDRlNFdsQmNkcFo3RE5NRkp1ek9TU2hhdTVPZXFWNVZxWmNrVHdpeDRyZG9HZGpPcGc?oc=5",
-      "source": "Madhyamam",
-      "feed": "India Malayalam News",
-      "published_at": "2026-09-15T13:51:43+00:00",
-      "category": "general",
-      "importance": 3,
-      "ai_category": "general",
-      "ai_confidence": 0.99,
-      "ai_importance": 3,
-      "ai_novelty": 0.8236,
-      "ai": {
-        "method": "tfidf_cosine_prototype",
-        "features": "1-2grams",
-        "version": 2
-      },
-      "entities": [
-        "രണ്ടാം",
-        "ട്വന്റി",
-        "സഞ്ജു",
-        "ടീമിൽ",
-        "അഫ്ഗാനെതിരെ",
-        "ടോസ്",
-        "നേടിയ",
-        "ഇന്ത്യ",
-        "ബൗളിങ്",
-        "തെരഞ്ഞെടുത്തു",
-        "Madhyamam",
-        "Madhyamam Madhyamam"
-      ],
-      "source_reliability": 1.0,
-      "feedback_boost": 0.0,
-      "personal_model_score": 0.0,
-      "personal_score": 3.0
-    },
-    {
-      "id": "2028c1ef90bcd0b7",
-      "title": "അഫ്ഗാനിസ്ഥാനെതിരായ രണ്ടാം ടി20, നിര്‍ണായക ടോസ് ജയിച്ച് ഇന്ത്യ, ടീമില്‍ ഒരു മാറ്റം, സഞ്ജു സാംസണ്‍ ഓപ്പണറായി തുടരും - Asianet News Malayalam",
-      "summary": "അഫ്ഗാനിസ്ഥാനെതിരായ രണ്ടാം ടി20, നിര്‍ണായക ടോസ് ജയിച്ച് ഇന്ത്യ, ടീമില്‍ ഒരു മാറ്റം, സഞ്ജു സാംസണ്‍ ഓപ്പണറായി തുടരും Asianet News Malayalam",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPTVZ6d2hzN0R1Q2gwV2dLa0kzR3NCemxyNHpvdEpLazhEVE9uTjRxangtYmpISGo1YnpNQjlHWmlsNlZydGlDTWlZZ2tNd0ZXQm9JQk8tcm5RVWExVnlvNUpaRXVoZERsS1BESGYzSjFabllwV2JGREVFa0pXa0lpV2pJMDBYMnd6SlhPRXFyZXI5ZDJpR0ZYS1pjNmR4VWlmMkRGekJxb3dGYUszRVRHS21NNGFDZG5QMGtiU1ZVTjNPclhRZUNHanlOelBET1FYdDYwaXFnSnpVX2x5UmpmdXVRamFqQjZQVUxrS0p1NnRBV2pBMlHSAfsBQVVfeXFMUFpBSWhyWmxtR21mVlpEUFZ2eUp3anpTWld5aTA5aGlLUXVSWEFBbjRDd1VXYzNYVE94V2t0QnlWMVdYd3hPTG4yWU9vTWhXd0ZsdFdLcjNSQ2lFSE10NGp1aFNFWjZQMDNDMnBTSS02VlFoaGNZMFZEdDhscEpBdUVTRG9VM0xncjlCV1RPc3FTZ0tDanZnV2RHN1JmYnZTb3VFalBGdkNzZk1NUTdCelFsbU10bFR0RC1IMTBvNlNNcURTUlZxNnI1NHhfRldMV3F1TERvZHhmc0JFdWNjZ3gyTDA1ZmtjSmE5R2dtNDltc1hWX3BaOGZKcDQ?oc=5",
-      "source": "Asianet News Malayalam",
-      "feed": "India Malayalam News",
-      "published_at": "2026-09-15T13:45:17+00:00",
-      "category": "general",
-      "importance": 3,
-      "ai_category": "general",
-      "ai_confidence": 0.99,
-      "ai_importance": 3,
-      "ai_novelty": 0.8224,
-      "ai": {
-        "method": "tfidf_cosine_prototype",
-        "features": "1-2grams",
-        "version": 2
-      },
-      "entities": [
-        "അഫ്ഗാനിസ്ഥാനെതിരായ",
-        "രണ്ടാം",
-        "നിര്",
-        "ണായക",
-        "ടോസ്",
-        "ജയിച്ച്",
-        "ഇന്ത്യ",
-        "ടീമില്",
-        "ഒരു",
-        "മാറ്റം",
-        "സഞ്ജു",
-        "സാംസണ്"
-      ],
-      "source_reliability": 1.0,
-      "feedback_boost": 0.0,
-      "personal_model_score": 0.0,
-      "personal_score": 3.0
+      "personal_score": 3.25
     },
     {
       "id": "c7d3ec06a6a80228",
@@ -1076,7 +829,7 @@
       "ai_category": "general",
       "ai_confidence": 0.99,
       "ai_importance": 3,
-      "ai_novelty": 0.8224,
+      "ai_novelty": 0.8377,
       "ai": {
         "method": "tfidf_cosine_prototype",
         "features": "1-2grams",
@@ -1097,9 +850,221 @@
         "Malayalam"
       ],
       "source_reliability": 1.0,
-      "feedback_boost": 0.0,
+      "feedback_boost": 0.25,
       "personal_model_score": 0.0,
-      "personal_score": 3.0
+      "personal_score": 3.25
+    },
+    {
+      "id": "051ab720fc3d4fb0",
+      "title": "US സൈനികരെ ഇറാൻ കൊലപ്പെടുത്തിയത് ചൈനയുടെ പിന്തുണയോടെ? - mediaoneonline.com",
+      "summary": "US സൈനികരെ ഇറാൻ കൊലപ്പെടുത്തിയത് ചൈനയുടെ പിന്തുണയോടെ? mediaoneonline.com",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRUNxTFFMLXZQMWdJLXJaTVJ0dEZ2VW52YU5sZHBrVEREcmNqbmN0a2YwS0g1VTdvcDZPZG04OFJYWE5MVVgxbl9vOFI0NE1va1RHcFgtcDhhSkZBaVFrQ1Zxemt4cjFHbXpnbmJEb2h1MklBWmxOaDF2T284NTZwaEwtUXcwQdIBiwFBVV95cUxNcnlHM2NVSE9xS3phOGtxbElCYlRLVkNLdy1FWE1mSmxvOW1LQ3AwanZBOE9MejRCVWJtdkZZTExKRXZ1eWhSZnByU2dOQWJnWkhESXF2enJWNFFCcHVYa2JERFJWTlFWU3BKNkZzcTFZOG9GUFJVWXpsQ3RTZEl5Nk1BeWhIMHd2Qjg4?oc=5",
+      "source": "mediaoneonline.com",
+      "feed": "World Malayalam News",
+      "published_at": "2026-09-15T13:45:18+00:00",
+      "category": "general",
+      "importance": 3,
+      "ai_category": "general",
+      "ai_confidence": 0.99,
+      "ai_importance": 3,
+      "ai_novelty": 0.8314,
+      "ai": {
+        "method": "tfidf_cosine_prototype",
+        "features": "1-2grams",
+        "version": 2
+      },
+      "entities": [
+        "സൈനികരെ",
+        "ഇറാൻ",
+        "കൊലപ്പെടുത്തിയത്",
+        "ചൈനയുടെ",
+        "പിന്തുണയോടെ"
+      ],
+      "source_reliability": 1.0,
+      "feedback_boost": 0.25,
+      "personal_model_score": 0.0,
+      "personal_score": 3.25
+    },
+    {
+      "id": "554cb444b781d31d",
+      "title": "ഹൂതികളുടെ ആക്രമണം അമേരിക്കയ്ക്ക് സഹായകമാകുമോ? - mediaoneonline.com",
+      "summary": "ഹൂതികളുടെ ആക്രമണം അമേരിക്കയ്ക്ക് സഹായകമാകുമോ? mediaoneonline.com",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQOEFYY0JtTFZFRllqdWNHMnFsUllBdFdXVVVpSFlXZUJSQW9ab2M2V0hiVHpyMnVBX01KVUxIWmFTTVFXRDkxZ3Y0U181Q2JmQ1o3VkF2Z3Z6a0J6bENUZnNaQ2Q5SElMOE5ycUlxNk12Ml9Vc0pmc2J1YTdQX25BUFVmS2pGUFh4bF9LcjZIRG_SAZYBQVVfeXFMTk5UeEFIcHdKZUREejZvOUdYT21TVlU2emQxYlpOZkVsaU9XTGw1Vm9JbjE2d2RBQTdfMlctOE5YemFzYzExTTJuNEUxazIxaWk4c18wUng3WG5zUUhaSlVrcXBmbTYxN0pMeF9vQ1dGcHY3RzQ3dHQ1b01BaEZXcDB3OXpCT0lzUWhpNFA1RWlkb3RjY0hn?oc=5",
+      "source": "mediaoneonline.com",
+      "feed": "World Malayalam News",
+      "published_at": "2026-09-15T12:57:26+00:00",
+      "category": "general",
+      "importance": 3,
+      "ai_category": "general",
+      "ai_confidence": 0.99,
+      "ai_importance": 3,
+      "ai_novelty": 0.8314,
+      "ai": {
+        "method": "tfidf_cosine_prototype",
+        "features": "1-2grams",
+        "version": 2
+      },
+      "entities": [
+        "ഹൂതികളുടെ",
+        "ആക്രമണം",
+        "അമേരിക്കയ്ക്ക്",
+        "സഹായകമാകുമോ"
+      ],
+      "source_reliability": 1.0,
+      "feedback_boost": 0.25,
+      "personal_model_score": 0.0,
+      "personal_score": 3.25
+    },
+    {
+      "id": "a3e7d9c282c338fb",
+      "title": "Kerala weather: സംസ്ഥാനത്ത് അടുത്ത 5 ദിവസം ഇടിമിന്നലോടു കൂടിയ നേരിയ മഴയ്ക്ക് സാധ്യത; യെലോ അലർട്ട് - News18 Malayalam",
+      "summary": "Kerala weather: സംസ്ഥാനത്ത് അടുത്ത 5 ദിവസം ഇടിമിന്നലോടു കൂടിയ നേരിയ മഴയ്ക്ക് സാധ്യത; യെലോ അലർട്ട് News18 Malayalam",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPb3FuZE9qbWVxbkoyN2s0UmpUc1E5LW9qMElaNjZsWnpWZ3hfWUFweHBxc2pTbm5mem5JaUxTdHBtZDhVQ2g0amdiMlRnQU1NS0RtZUFtVjlFRkhlQm81SUtzVjZ3Y05oQ29xSWc3T3h0cVJSUXdiWDFxRjVQWllvcVpacEpTOUl2Q1UyeFlPU3BmVFZHQWRvREhEM25VNEhua0ljSEloTUtFelZxaUpKMDRBMGxuZzA3am54Zlo4WXRUZWsyX0NKNWtNdmViMnhwM2dlX1V2Yw?oc=5",
+      "source": "News18 Malayalam",
+      "feed": "Kerala Malayalam News",
+      "published_at": "2026-09-15T10:00:30+00:00",
+      "category": "general",
+      "importance": 3,
+      "ai_category": "general",
+      "ai_confidence": 0.99,
+      "ai_importance": 3,
+      "ai_novelty": 0.83,
+      "ai": {
+        "method": "tfidf_cosine_prototype",
+        "features": "1-2grams",
+        "version": 2
+      },
+      "entities": [
+        "സംസ്ഥാനത്ത്",
+        "അടുത്ത",
+        "ദിവസം",
+        "ഇടിമിന്നലോടു",
+        "കൂടിയ",
+        "നേരിയ",
+        "മഴയ്ക്ക്",
+        "സാധ്യത",
+        "യെലോ",
+        "അലർട്ട്",
+        "News18 Malayalam Kerala",
+        "News18 Malayalam"
+      ],
+      "source_reliability": 1.0,
+      "feedback_boost": 0.25,
+      "personal_model_score": 0.0,
+      "personal_score": 3.25
+    },
+    {
+      "id": "00de32459733e616",
+      "title": "രണ്ടാം ട്വന്റി20: സഞ്ജു ടീമിൽ, അഫ്ഗാനെതിരെ ടോസ് നേടിയ ഇന്ത്യ ബൗളിങ് തെരഞ്ഞെടുത്തു | Madhyamam - Madhyamam",
+      "summary": "രണ്ടാം ട്വന്റി20: സഞ്ജു ടീമിൽ, അഫ്ഗാനെതിരെ ടോസ് നേടിയ ഇന്ത്യ ബൗളിങ് തെരഞ്ഞെടുത്തു | Madhyamam Madhyamam",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQQmhaNG9EMU1vTDRpdXRqb3ZrLXJOSUxmaUlfQWVjLWkzNU42T19VcU9INHBEaHBoSDlCd1VJdmRtN2hDaTEtWGRHTTUycmp2R0VvUmR4UHZISk1hT2pHcEtxbjVpS0syMGtYMnVNb2lSNURvY2dxUzJpMEprWjZ5UzVMNHY3bDlpc3cwMmtxMjlzbGQ5NWpqVDNvT093SXdEZHVfMXdtQmd5Zm84N2xtNlViX0hucmx5cWoxS1dHSVVDdUtU0gHKAUFVX3lxTE9iMERYMWhqaVpaWUhNalhXbHhMZDRPcTFNYnJlcEU1N29VSng2NDNmZ3BBOTVyd3BrVGp0YzNPdjBCbVRZRF8tazlCOFZlZlpfckRGcTBEenRwUzIwX2tXSEU4Y2pIcUNDUXVrTlhnNEQtQkRfNmNaQ0xWeHpSN0xJNXdXRnZMd2QxSTM3c3BnNURjSWdVQnhHSDRlNFdsQmNkcFo3RE5NRkp1ek9TU2hhdTVPZXFWNVZxWmNrVHdpeDRyZG9HZGpPcGc?oc=5",
+      "source": "Madhyamam",
+      "feed": "India Malayalam News",
+      "published_at": "2026-09-15T13:51:43+00:00",
+      "category": "general",
+      "importance": 3,
+      "ai_category": "general",
+      "ai_confidence": 0.99,
+      "ai_importance": 3,
+      "ai_novelty": 0.8259,
+      "ai": {
+        "method": "tfidf_cosine_prototype",
+        "features": "1-2grams",
+        "version": 2
+      },
+      "entities": [
+        "രണ്ടാം",
+        "ട്വന്റി",
+        "സഞ്ജു",
+        "ടീമിൽ",
+        "അഫ്ഗാനെതിരെ",
+        "ടോസ്",
+        "നേടിയ",
+        "ഇന്ത്യ",
+        "ബൗളിങ്",
+        "തെരഞ്ഞെടുത്തു",
+        "Madhyamam",
+        "Madhyamam Madhyamam"
+      ],
+      "source_reliability": 1.0,
+      "feedback_boost": 0.25,
+      "personal_model_score": 0.0,
+      "personal_score": 3.25
+    },
+    {
+      "id": "76bb88120b779f68",
+      "title": "രണ്ടാം ടി20, തുടക്കത്തിലെ തകർച്ചയ്ക്ക് ശേഷം തിരിച്ചടിച്ച് അഫ്ഗാനിസ്ഥാൻ; ഇന്ത്യക്ക് മുന്നില്‍ ഭേദപ്പെട്ട വിജയലക്ഷ്യം - Asianet News Malayalam",
+      "summary": "രണ്ടാം ടി20, തുടക്കത്തിലെ തകർച്ചയ്ക്ക് ശേഷം തിരിച്ചടിച്ച് അഫ്ഗാനിസ്ഥാൻ; ഇന്ത്യക്ക് മുന്നില്‍ ഭേദപ്പെട്ട വിജയലക്ഷ്യം Asianet News Malayalam",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOWW5PN1YxNlFSSXJsYWZadnRlekdQLVMyT3RNdUM4dUlKdFd5ZDFPZV81SVZJMHpVTzh0S3ZjWTBRSGxWQl84bURnSUY0a0V2VG1RZEg3S2ZQcEFCNjFnVDQ0ZzBpTjh0ejJUUHNTb3ZIMFRndWNJbWRJSFd5MVpXMnIxenh4M0Rya0xZc25MOWpLWEMyeHAtaXlKSzRiOWZEc1c1T2R2d011dzJucFFWODV6RmdSRTY0T2FMN2RoSUxKbkc4MHBmMjZZdnZiTzl0bklpQ1BmcFdvS2R0a3lnSFhn0gHnAUFVX3lxTFBKenpHcWExVkQ3NnVNMmVzMmZFbFdBenBvcTJYeG8ybDBsbWR5eHpqT1FDbnVXRjdmUnZkcmZGUnowbG1feXVieHFSMkFFVUhYQmpLUmFvZEhxY1RmSXpjYjZ2X3NCa1BZeFZfSkhMNi1rdExqQUhmalN1amU0RFhMYzBXOUs0cmtobktFUVplQXlVMDMyNTAxZ2p4U0ZUZlIwb2NQMHJIaUJUdS1pV3psNlViam9yd0ZWLUlJY3IySVYyVzFoWFp3RlN6ZzF2SnFQSmZVYVAxbnZSV1pDZEh1LUZXWmMxMA?oc=5",
+      "source": "Asianet News Malayalam",
+      "feed": "India Malayalam News",
+      "published_at": "2026-09-15T15:47:46+00:00",
+      "category": "general",
+      "importance": 3,
+      "ai_category": "general",
+      "ai_confidence": 0.99,
+      "ai_importance": 3,
+      "ai_novelty": 0.8241,
+      "ai": {
+        "method": "tfidf_cosine_prototype",
+        "features": "1-2grams",
+        "version": 2
+      },
+      "entities": [
+        "രണ്ടാം",
+        "തുടക്കത്തിലെ",
+        "തകർച്ചയ്ക്ക്",
+        "ശേഷം",
+        "തിരിച്ചടിച്ച്",
+        "അഫ്ഗാനിസ്ഥാൻ",
+        "ഇന്ത്യക്ക്",
+        "മുന്നില്",
+        "ഭേദപ്പെട്ട",
+        "വിജയലക്ഷ്യം",
+        "Asianet News Malayalam"
+      ],
+      "source_reliability": 1.0,
+      "feedback_boost": 0.25,
+      "personal_model_score": 0.0,
+      "personal_score": 3.25
+    },
+    {
+      "id": "2028c1ef90bcd0b7",
+      "title": "അഫ്ഗാനിസ്ഥാനെതിരായ രണ്ടാം ടി20, നിര്‍ണായക ടോസ് ജയിച്ച് ഇന്ത്യ, ടീമില്‍ ഒരു മാറ്റം, സഞ്ജു സാംസണ്‍ ഓപ്പണറായി തുടരും - Asianet News Malayalam",
+      "summary": "അഫ്ഗാനിസ്ഥാനെതിരായ രണ്ടാം ടി20, നിര്‍ണായക ടോസ് ജയിച്ച് ഇന്ത്യ, ടീമില്‍ ഒരു മാറ്റം, സഞ്ജു സാംസണ്‍ ഓപ്പണറായി തുടരും Asianet News Malayalam",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPTVZ6d2hzN0R1Q2gwV2dLa0kzR3NCemxyNHpvdEpLazhEVE9uTjRxangtYmpISGo1YnpNQjlHWmlsNlZydGlDTWlZZ2tNd0ZXQm9JQk8tcm5RVWExVnlvNUpaRXVoZERsS1BESGYzSjFabllwV2JGREVFa0pXa0lpV2pJMDBYMnd6SlhPRXFyZXI5ZDJpR0ZYS1pjNmR4VWlmMkRGekJxb3dGYUszRVRHS21NNGFDZG5QMGtiU1ZVTjNPclhRZUNHanlOelBET1FYdDYwaXFnSnpVX2x5UmpmdXVRamFqQjZQVUxrS0p1NnRBV2pBMlHSAfsBQVVfeXFMUFpBSWhyWmxtR21mVlpEUFZ2eUp3anpTWld5aTA5aGlLUXVSWEFBbjRDd1VXYzNYVE94V2t0QnlWMVdYd3hPTG4yWU9vTWhXd0ZsdFdLcjNSQ2lFSE10NGp1aFNFWjZQMDNDMnBTSS02VlFoaGNZMFZEdDhscEpBdUVTRG9VM0xncjlCV1RPc3FTZ0tDanZnV2RHN1JmYnZTb3VFalBGdkNzZk1NUTdCelFsbU10bFR0RC1IMTBvNlNNcURTUlZxNnI1NHhfRldMV3F1TERvZHhmc0JFdWNjZ3gyTDA1ZmtjSmE5R2dtNDltc1hWX3BaOGZKcDQ?oc=5",
+      "source": "Asianet News Malayalam",
+      "feed": "India Malayalam News",
+      "published_at": "2026-09-15T13:45:17+00:00",
+      "category": "general",
+      "importance": 3,
+      "ai_category": "general",
+      "ai_confidence": 0.99,
+      "ai_importance": 3,
+      "ai_novelty": 0.8241,
+      "ai": {
+        "method": "tfidf_cosine_prototype",
+        "features": "1-2grams",
+        "version": 2
+      },
+      "entities": [
+        "അഫ്ഗാനിസ്ഥാനെതിരായ",
+        "രണ്ടാം",
+        "നിര്",
+        "ണായക",
+        "ടോസ്",
+        "ജയിച്ച്",
+        "ഇന്ത്യ",
+        "ടീമില്",
+        "ഒരു",
+        "മാറ്റം",
+        "സഞ്ജു",
+        "സാംസണ്"
+      ],
+      "source_reliability": 1.0,
+      "feedback_boost": 0.25,
+      "personal_model_score": 0.0,
+      "personal_score": 3.25
     },
     {
       "id": "444a9db5c020a1ed",
@@ -1130,9 +1095,9 @@
         "Oneindia Malayalam"
       ],
       "source_reliability": 1.0,
-      "feedback_boost": 0.0,
+      "feedback_boost": 0.25,
       "personal_model_score": 0.0,
-      "personal_score": 3.0
+      "personal_score": 3.25
     },
     {
       "id": "16a60a6888ac91b1",
@@ -1147,7 +1112,7 @@
       "ai_category": "general",
       "ai_confidence": 0.99,
       "ai_importance": 3,
-      "ai_novelty": 0.7833,
+      "ai_novelty": 0.7837,
       "ai": {
         "method": "tfidf_cosine_prototype",
         "features": "1-2grams",
@@ -1164,9 +1129,9 @@
         "ഉദ്ഘാടനം"
       ],
       "source_reliability": 1.0,
-      "feedback_boost": 0.0,
+      "feedback_boost": 0.25,
       "personal_model_score": 0.0,
-      "personal_score": 3.0
+      "personal_score": 3.25
     },
     {
       "id": "44065c5a719c73ac",
@@ -1181,7 +1146,7 @@
       "ai_category": "general",
       "ai_confidence": 0.99,
       "ai_importance": 3,
-      "ai_novelty": 0.7833,
+      "ai_novelty": 0.7837,
       "ai": {
         "method": "tfidf_cosine_prototype",
         "features": "1-2grams",
@@ -1202,9 +1167,47 @@
         "തുടങ്ങും"
       ],
       "source_reliability": 1.0,
-      "feedback_boost": 0.0,
+      "feedback_boost": 0.25,
       "personal_model_score": 0.0,
-      "personal_score": 3.0
+      "personal_score": 3.25
+    },
+    {
+      "id": "11698ca1b7973bb5",
+      "title": "ചിന്ത ജെറോമിൻ്റെ പിഎച്ച്ഡി വിവാദം: പ്രബന്ധം പരിശോധിക്കാൻ പ്രത്യേക സമിതിയെ നിയോ​ഗിച്ച് കേരള സർവ്വകലാശാല - Asianet News Malayalam",
+      "summary": "ചിന്ത ജെറോമിൻ്റെ പിഎച്ച്ഡി വിവാദം: പ്രബന്ധം പരിശോധിക്കാൻ പ്രത്യേക സമിതിയെ നിയോ​ഗിച്ച് കേരള സർവ്വകലാശാല Asianet News Malayalam",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNa2c0NFR4a0hsRVJjTVlaNThqemZ5S1FERXBXc2tRZVpkdDhrU0puamJDSFViNjlUYlNxbDVoeDVaNkU0eDF4TlYwZndPVE9kRmlvdGpKQzRrcmVfNlRsejVTZnZKNFQ3Wlo1NTNMTTJjSE5oYy1EaU81cGtXQUFoalJ2VGZsalBMN1k1Z1RLT2tPVE50S21aMnNaNlJnNTJab3pkUy10X2U1QWMxRVZtdTdRYjVtQjRmQWVRT3hka0kyQ01SNDUxRWctLXZwTUwyVlV0YWNn0gHbAUFVX3lxTE9TSnMzSzI1eW9hcU85WVdKTDNHR2hTeWljaC1kQjAyVUE2TlpPVkRERXZyZy01WFZRelVmcnpYS093NHpDZWRZbWJpV2J6eGpZNF9pWFFQS0FyTTdoWlJqSDZJS0llTGVGcTlKeWxVY1NBMjhfWVBCbHdfMGtRdWdDNnhIRDR1NUlOclp0MUl5LTdYRmVGa3JWamdMa0pKYUhSNy01LTlFbU9JbkxUVE5XYjI3VHpZbkhDaXo3ODhmTURGenpuNWFaRl9kOEpIRmlURlVHMGNfbTVYRQ?oc=5",
+      "source": "Asianet News Malayalam",
+      "feed": "Kerala Malayalam News",
+      "published_at": "2026-09-15T13:52:52+00:00",
+      "category": "general",
+      "importance": 3,
+      "ai_category": "general",
+      "ai_confidence": 0.99,
+      "ai_importance": 3,
+      "ai_novelty": 0.7737,
+      "ai": {
+        "method": "tfidf_cosine_prototype",
+        "features": "1-2grams",
+        "version": 2
+      },
+      "entities": [
+        "ചിന്ത",
+        "ജെറോമിൻ്റെ",
+        "പിഎച്ച്ഡി",
+        "വിവാദം",
+        "പ്രബന്ധം",
+        "പരിശോധിക്കാൻ",
+        "പ്രത്യേക",
+        "സമിതിയെ",
+        "നിയോ",
+        "ഗിച്ച്",
+        "കേരള",
+        "സർവ്വകലാശാല"
+      ],
+      "source_reliability": 1.0,
+      "feedback_boost": 0.25,
+      "personal_model_score": 0.0,
+      "personal_score": 3.25
     },
     {
       "id": "757289ad0acacf8d",
@@ -1219,7 +1222,7 @@
       "ai_category": "general",
       "ai_confidence": 0.99,
       "ai_importance": 3,
-      "ai_novelty": 0.7505,
+      "ai_novelty": 0.7546,
       "ai": {
         "method": "tfidf_cosine_prototype",
         "features": "1-2grams",
@@ -1237,9 +1240,9 @@
         "Asianet News Malayalam"
       ],
       "source_reliability": 1.0,
-      "feedback_boost": 0.0,
+      "feedback_boost": 0.25,
       "personal_model_score": 0.0,
-      "personal_score": 3.0
+      "personal_score": 3.25
     },
     {
       "id": "a9e1c2b0bc1fce4c",
@@ -1254,7 +1257,7 @@
       "ai_category": "general",
       "ai_confidence": 0.99,
       "ai_importance": 3,
-      "ai_novelty": 0.7505,
+      "ai_novelty": 0.7546,
       "ai": {
         "method": "tfidf_cosine_prototype",
         "features": "1-2grams",
@@ -1272,9 +1275,9 @@
         "Asianet News Malayalam"
       ],
       "source_reliability": 1.0,
-      "feedback_boost": 0.0,
+      "feedback_boost": 0.25,
       "personal_model_score": 0.0,
-      "personal_score": 3.0
+      "personal_score": 3.25
     },
     {
       "id": "bb633a9c8cebaf38",
@@ -1289,7 +1292,7 @@
       "ai_category": "general",
       "ai_confidence": 0.99,
       "ai_importance": 2,
-      "ai_novelty": 0.9625,
+      "ai_novelty": 0.9664,
       "ai": {
         "method": "tfidf_cosine_prototype",
         "features": "1-2grams",
@@ -1310,46 +1313,9 @@
         "Kerala Blasters FC"
       ],
       "source_reliability": 1.0,
-      "feedback_boost": 0.0,
+      "feedback_boost": 0.25,
       "personal_model_score": 0.0,
-      "personal_score": 2.0
-    },
-    {
-      "id": "88c0a20857f0ea9f",
-      "title": "Kerala Gold Rate| സംസ്ഥാനത്ത് സ്വർണവില വീണ്ടും കൂടി: അറിയാം ഇന്നത്തെ നിരക്ക് - News18 Malayalam",
-      "summary": "Kerala Gold Rate| സംസ്ഥാനത്ത് സ്വർണവില വീണ്ടും കൂടി: അറിയാം ഇന്നത്തെ നിരക്ക് News18 Malayalam",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWWNmNjRpZXpOUWt0VmZrMHhZWjdGUnJ3aWZ2bWplbzBLM2xsc1FJbnhkc0UtX1NKV2FybW5sbDZPLW42alp0cm1ESkN3YWVSU2VwUDBqVWNrbzNxZFRWZU5fVkF6RHpnX0NKMUVBc2lIQVNfNWF3VDlVdHRpaGRueXRMcDdtSmtjUjdxSF91Mm5hOTdKWWplZzVQNzdVY3lVSzFsSjYtNG5ZWXd4Zk1KaEJKXzlFb3BLaEh5cw?oc=5",
-      "source": "News18 Malayalam",
-      "feed": "Kerala Malayalam News",
-      "published_at": "2026-09-15T05:45:22+00:00",
-      "category": "general",
-      "importance": 2,
-      "ai_category": "general",
-      "ai_confidence": 0.99,
-      "ai_importance": 2,
-      "ai_novelty": 0.8887,
-      "ai": {
-        "method": "tfidf_cosine_prototype",
-        "features": "1-2grams",
-        "version": 2
-      },
-      "entities": [
-        "സംസ്ഥാനത്ത്",
-        "സ്വർണവില",
-        "വീണ്ടും",
-        "കൂടി",
-        "അറിയാം",
-        "ഇന്നത്തെ",
-        "നിരക്ക്",
-        "Kerala Gold Rate",
-        "News18 Malayalam Kerala Gold",
-        "Rate",
-        "News18 Malayalam"
-      ],
-      "source_reliability": 1.0,
-      "feedback_boost": 0.0,
-      "personal_model_score": 0.0,
-      "personal_score": 2.0
+      "personal_score": 2.25
     },
     {
       "id": "908f1aa77d5030a3",
@@ -1385,9 +1351,46 @@
         "Express Kerala"
       ],
       "source_reliability": 1.0,
-      "feedback_boost": 0.0,
+      "feedback_boost": 0.25,
       "personal_model_score": 0.0,
-      "personal_score": 2.0
+      "personal_score": 2.25
+    },
+    {
+      "id": "88c0a20857f0ea9f",
+      "title": "Kerala Gold Rate| സംസ്ഥാനത്ത് സ്വർണവില വീണ്ടും കൂടി: അറിയാം ഇന്നത്തെ നിരക്ക് - News18 Malayalam",
+      "summary": "Kerala Gold Rate| സംസ്ഥാനത്ത് സ്വർണവില വീണ്ടും കൂടി: അറിയാം ഇന്നത്തെ നിരക്ക് News18 Malayalam",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWWNmNjRpZXpOUWt0VmZrMHhZWjdGUnJ3aWZ2bWplbzBLM2xsc1FJbnhkc0UtX1NKV2FybW5sbDZPLW42alp0cm1ESkN3YWVSU2VwUDBqVWNrbzNxZFRWZU5fVkF6RHpnX0NKMUVBc2lIQVNfNWF3VDlVdHRpaGRueXRMcDdtSmtjUjdxSF91Mm5hOTdKWWplZzVQNzdVY3lVSzFsSjYtNG5ZWXd4Zk1KaEJKXzlFb3BLaEh5cw?oc=5",
+      "source": "News18 Malayalam",
+      "feed": "Kerala Malayalam News",
+      "published_at": "2026-09-15T05:45:22+00:00",
+      "category": "general",
+      "importance": 2,
+      "ai_category": "general",
+      "ai_confidence": 0.99,
+      "ai_importance": 2,
+      "ai_novelty": 0.8834,
+      "ai": {
+        "method": "tfidf_cosine_prototype",
+        "features": "1-2grams",
+        "version": 2
+      },
+      "entities": [
+        "സംസ്ഥാനത്ത്",
+        "സ്വർണവില",
+        "വീണ്ടും",
+        "കൂടി",
+        "അറിയാം",
+        "ഇന്നത്തെ",
+        "നിരക്ക്",
+        "Kerala Gold Rate",
+        "News18 Malayalam Kerala Gold",
+        "Rate",
+        "News18 Malayalam"
+      ],
+      "source_reliability": 1.0,
+      "feedback_boost": 0.25,
+      "personal_model_score": 0.0,
+      "personal_score": 2.25
     },
     {
       "id": "5d215b648ec3256f",
@@ -1419,9 +1422,9 @@
         "Express Kerala"
       ],
       "source_reliability": 1.0,
-      "feedback_boost": 0.0,
+      "feedback_boost": 0.25,
       "personal_model_score": 0.0,
-      "personal_score": 2.0
+      "personal_score": 2.25
     },
     {
       "id": "e92f83068980b283",
@@ -1436,7 +1439,7 @@
       "ai_category": "general",
       "ai_confidence": 0.99,
       "ai_importance": 2,
-      "ai_novelty": 0.7987,
+      "ai_novelty": 0.8019,
       "ai": {
         "method": "tfidf_cosine_prototype",
         "features": "1-2grams",
@@ -1454,43 +1457,9 @@
         "WORLD Kerala Kaumudi"
       ],
       "source_reliability": 1.0,
-      "feedback_boost": 0.0,
+      "feedback_boost": 0.25,
       "personal_model_score": 0.0,
-      "personal_score": 2.0
-    },
-    {
-      "id": "cce46f3a1546e7b0",
-      "title": "എസ്-400 പ്രതിരോധ മിസൈൽ പാക് വിമാനത്തെ തകർത്തു - NEWS 360 - WORLD - Kerala Kaumudi",
-      "summary": "എസ്-400 പ്രതിരോധ മിസൈൽ പാക് വിമാനത്തെ തകർത്തു - NEWS 360 - WORLD Kerala Kaumudi",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE45XzdhbXAtNlpqMWpWUHhtaVRaSkRfcWdoUDVPdVpHeGZDbHIyRlVySjVPemNUdDhrVEFCSDJaaUl6andxcEY4clpKMVlqTWlvM01MdFNzX0ZWWGM4c1JsRmxsS1M?oc=5",
-      "source": "Kerala Kaumudi",
-      "feed": "World Malayalam News",
-      "published_at": "2026-09-15T01:54:35+00:00",
-      "category": "general",
-      "importance": 2,
-      "ai_category": "general",
-      "ai_confidence": 0.99,
-      "ai_importance": 2,
-      "ai_novelty": 0.7937,
-      "ai": {
-        "method": "tfidf_cosine_prototype",
-        "features": "1-2grams",
-        "version": 2
-      },
-      "entities": [
-        "എസ്",
-        "പ്രതിരോധ",
-        "മിസൈൽ",
-        "പാക്",
-        "വിമാനത്തെ",
-        "തകർത്തു",
-        "Kerala Kaumudi",
-        "WORLD Kerala Kaumudi"
-      ],
-      "source_reliability": 1.0,
-      "feedback_boost": 0.0,
-      "personal_model_score": 0.0,
-      "personal_score": 2.0
+      "personal_score": 2.25
     },
     {
       "id": "8c8e9ee4e661f292",
@@ -1505,7 +1474,7 @@
       "ai_category": "general",
       "ai_confidence": 0.99,
       "ai_importance": 2,
-      "ai_novelty": 0.7915,
+      "ai_novelty": 0.7949,
       "ai": {
         "method": "tfidf_cosine_prototype",
         "features": "1-2grams",
@@ -1523,9 +1492,9 @@
         "WORLD Kerala Kaumudi"
       ],
       "source_reliability": 1.0,
-      "feedback_boost": 0.0,
+      "feedback_boost": 0.25,
       "personal_model_score": 0.0,
-      "personal_score": 2.0
+      "personal_score": 2.25
     },
     {
       "id": "6b2f5b1a29d19d58",
@@ -1540,7 +1509,7 @@
       "ai_category": "general",
       "ai_confidence": 0.99,
       "ai_importance": 2,
-      "ai_novelty": 0.7805,
+      "ai_novelty": 0.7841,
       "ai": {
         "method": "tfidf_cosine_prototype",
         "features": "1-2grams",
@@ -1555,9 +1524,9 @@
         "WORLD Kerala Kaumudi"
       ],
       "source_reliability": 1.0,
-      "feedback_boost": 0.0,
+      "feedback_boost": 0.25,
       "personal_model_score": 0.0,
-      "personal_score": 2.0
+      "personal_score": 2.25
     },
     {
       "id": "58100d224ec6cfff",
@@ -1572,7 +1541,7 @@
       "ai_category": "general",
       "ai_confidence": 0.99,
       "ai_importance": 2,
-      "ai_novelty": 0.7783,
+      "ai_novelty": 0.7819,
       "ai": {
         "method": "tfidf_cosine_prototype",
         "features": "1-2grams",
@@ -1589,9 +1558,43 @@
         "WORLD Kerala Kaumudi"
       ],
       "source_reliability": 1.0,
-      "feedback_boost": 0.0,
+      "feedback_boost": 0.25,
       "personal_model_score": 0.0,
-      "personal_score": 2.0
+      "personal_score": 2.25
+    },
+    {
+      "id": "cce46f3a1546e7b0",
+      "title": "എസ്-400 പ്രതിരോധ മിസൈൽ പാക് വിമാനത്തെ തകർത്തു - NEWS 360 - WORLD - Kerala Kaumudi",
+      "summary": "എസ്-400 പ്രതിരോധ മിസൈൽ പാക് വിമാനത്തെ തകർത്തു - NEWS 360 - WORLD Kerala Kaumudi",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE45XzdhbXAtNlpqMWpWUHhtaVRaSkRfcWdoUDVPdVpHeGZDbHIyRlVySjVPemNUdDhrVEFCSDJaaUl6andxcEY4clpKMVlqTWlvM01MdFNzX0ZWWGM4c1JsRmxsS1M?oc=5",
+      "source": "Kerala Kaumudi",
+      "feed": "World Malayalam News",
+      "published_at": "2026-09-15T01:54:35+00:00",
+      "category": "general",
+      "importance": 2,
+      "ai_category": "general",
+      "ai_confidence": 0.99,
+      "ai_importance": 2,
+      "ai_novelty": 0.7698,
+      "ai": {
+        "method": "tfidf_cosine_prototype",
+        "features": "1-2grams",
+        "version": 2
+      },
+      "entities": [
+        "എസ്",
+        "പ്രതിരോധ",
+        "മിസൈൽ",
+        "പാക്",
+        "വിമാനത്തെ",
+        "തകർത്തു",
+        "Kerala Kaumudi",
+        "WORLD Kerala Kaumudi"
+      ],
+      "source_reliability": 1.0,
+      "feedback_boost": 0.25,
+      "personal_model_score": 0.0,
+      "personal_score": 2.25
     },
     {
       "id": "eeb2ddc9cd567ced",
@@ -1606,7 +1609,7 @@
       "ai_category": "general",
       "ai_confidence": 0.99,
       "ai_importance": 2,
-      "ai_novelty": 0.5483,
+      "ai_novelty": 0.5422,
       "ai": {
         "method": "tfidf_cosine_prototype",
         "features": "1-2grams",
@@ -1624,9 +1627,9 @@
         "WORLD Kerala Kaumudi"
       ],
       "source_reliability": 1.0,
-      "feedback_boost": 0.0,
+      "feedback_boost": 0.25,
       "personal_model_score": 0.0,
-      "personal_score": 2.0
+      "personal_score": 2.25
     },
     {
       "id": "ac62cfa211b7ebf2",
@@ -1641,7 +1644,7 @@
       "ai_category": "general",
       "ai_confidence": 0.99,
       "ai_importance": 1,
-      "ai_novelty": 0.9348,
+      "ai_novelty": 0.9357,
       "ai": {
         "method": "tfidf_cosine_prototype",
         "features": "1-2grams",
@@ -1657,9 +1660,9 @@
         "Kerala Kaumudi"
       ],
       "source_reliability": 1.0,
-      "feedback_boost": 0.0,
+      "feedback_boost": 0.25,
       "personal_model_score": 0.0,
-      "personal_score": 1.0
+      "personal_score": 1.25
     },
     {
       "id": "fec10bf9da0e577b",
@@ -1674,7 +1677,7 @@
       "ai_category": "general",
       "ai_confidence": 0.99,
       "ai_importance": 1,
-      "ai_novelty": 0.7792,
+      "ai_novelty": 0.7841,
       "ai": {
         "method": "tfidf_cosine_prototype",
         "features": "1-2grams",
@@ -1691,9 +1694,9 @@
         "WORLD Kerala Kaumudi"
       ],
       "source_reliability": 1.0,
-      "feedback_boost": 0.0,
+      "feedback_boost": 0.25,
       "personal_model_score": 0.0,
-      "personal_score": 1.0
+      "personal_score": 1.25
     },
     {
       "id": "76ccefd2e5e7cd54",
@@ -1708,7 +1711,7 @@
       "ai_category": "general",
       "ai_confidence": 0.99,
       "ai_importance": 1,
-      "ai_novelty": 0.7442,
+      "ai_novelty": 0.7801,
       "ai": {
         "method": "tfidf_cosine_prototype",
         "features": "1-2grams",
@@ -1723,40 +1726,42 @@
         "WORLD Kerala Kaumudi"
       ],
       "source_reliability": 1.0,
-      "feedback_boost": 0.0,
+      "feedback_boost": 0.25,
       "personal_model_score": 0.0,
-      "personal_score": 1.0
+      "personal_score": 1.25
     },
     {
-      "id": "33e381d7ff5f66a1",
-      "title": "എബോള: മരണം 3,390 കടന്നു - NEWS 360 - WORLD - Kerala Kaumudi",
-      "summary": "എബോള: മരണം 3,390 കടന്നു - NEWS 360 - WORLD Kerala Kaumudi",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9oT3NoZ29mQXRpQzc0OXVZWnA4c05SdkNKa1NrLTJzaFhCMU1FRGpxYjc1WlV0aGM5a0s0LV9kWEVNYVVpSzVMMmZKbTloNmw5d3JjbHVKalF4anpHN0JuRlJ3V1A?oc=5",
+      "id": "3f0db1c4253a4df0",
+      "title": "ഹോർമുസിൽ ഇറാൻ കപ്പൽ ആക്രമിച്ച് യു.എസ് - NEWS 360 - WORLD - Kerala Kaumudi",
+      "summary": "ഹോർമുസിൽ ഇറാൻ കപ്പൽ ആക്രമിച്ച് യു.എസ് - NEWS 360 - WORLD Kerala Kaumudi",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5oUGVHWDBiZGZWSUxRaFB6dDFLUWVkeGRZUnlxc1Rsblk2UGlFRk1wOXpOQ1NJaFN0Qjk0RzNORk5sU3owNElDREJhaW9lTll6bTNMcXJhRU1sclM3SWJKZDVxSURDc1IxbkE?oc=5",
       "source": "Kerala Kaumudi",
       "feed": "World Malayalam News",
-      "published_at": "2026-09-14T02:31:50+00:00",
+      "published_at": "2026-09-14T02:21:35+00:00",
       "category": "general",
       "importance": 1,
       "ai_category": "general",
       "ai_confidence": 0.99,
       "ai_importance": 1,
-      "ai_novelty": 0.7329,
+      "ai_novelty": 0.762,
       "ai": {
         "method": "tfidf_cosine_prototype",
         "features": "1-2grams",
         "version": 2
       },
       "entities": [
-        "എബോള",
-        "മരണം",
-        "കടന്നു",
+        "ഹോർമുസിൽ",
+        "ഇറാൻ",
+        "കപ്പൽ",
+        "ആക്രമിച്ച്",
+        "എസ്",
         "Kerala Kaumudi",
         "WORLD Kerala Kaumudi"
       ],
       "source_reliability": 1.0,
-      "feedback_boost": 0.0,
+      "feedback_boost": 0.25,
       "personal_model_score": 0.0,
-      "personal_score": 1.0
+      "personal_score": 1.25
     },
     {
       "id": "03840532bea521ed",
@@ -1771,7 +1776,7 @@
       "ai_category": "general",
       "ai_confidence": 0.99,
       "ai_importance": 1,
-      "ai_novelty": 0.5483,
+      "ai_novelty": 0.5422,
       "ai": {
         "method": "tfidf_cosine_prototype",
         "features": "1-2grams",
@@ -1788,12 +1793,45 @@
         "WORLD Kerala Kaumudi"
       ],
       "source_reliability": 1.0,
-      "feedback_boost": 0.0,
+      "feedback_boost": 0.25,
       "personal_model_score": 0.0,
-      "personal_score": 1.0
+      "personal_score": 1.25
     }
   ],
   "tech": [
+    {
+      "id": "18f38a837cf00f03",
+      "title": "'Immense Harm In 5 Years': Google's AI Researcher Quits With Stark Warning - NDTV",
+      "summary": "'Immense Harm In 5 Years': Google's AI Researcher Quits With Stark Warning NDTV",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQW1pVlRJcFpIcmNVckVUdmUwZXJrLVRRaEVMOEtfZkd5aDcweHg4eS11QmZXR2cyUUNDeHVKVW5IWW84SlhwWDF5VzlhSEdPM21NaGlqQVBMb2hrQi13dEFIQ2c4blBlblRNQkt6ZmQzdjU4cGxyOXRwdHB4cldZWmJ1R2lieDcwSlFMcHBGZ0NNMXBVenppOWhDSHBscnBxcDJETHlheFM0MklxSTlDTjJCVXBXU2JZTUJmNVQtMW13NlXSAcsBQVVfeXFMTTBmWGdET1VXOVIzNk5KcWMyVTByRE1NMzkwR19PN0ZYdGRtN09YZlczcEdBMmo2aXV0MzZsR0lacS1TRGpFVkJ6U2RLZmJ1VnNBMUdGb1JfcE9KQzlENEdpWlZnT0F0NmFoSnRrQVY1anVWeENDM3c1Y29oVVhmN3F1Xy1NU21CR2MwRXNaVTJDRWlLSHBUSDNaaWppci0tWWpuYlc2ZTRCRHFTTjlQa296d1NCeENNOGdTY0JnbHVaODMyRlktQnlmUWs?oc=5",
+      "source": "NDTV",
+      "feed": "Artificial Intelligence",
+      "published_at": "2026-09-15T03:29:29+00:00",
+      "category": "tech",
+      "importance": 10,
+      "ai_category": "tech",
+      "ai_confidence": 0.7087,
+      "ai_importance": 10,
+      "ai_novelty": 0.9498,
+      "ai": {
+        "method": "tfidf_cosine_prototype",
+        "features": "1-2grams",
+        "version": 2
+      },
+      "entities": [
+        "Immense Harm In",
+        "Years",
+        "Google",
+        "AI Researcher Quits With",
+        "Stark Warning",
+        "NDTV",
+        "Stark Warning NDTV"
+      ],
+      "source_reliability": 1.0,
+      "feedback_boost": 0.0,
+      "personal_model_score": 0.0,
+      "personal_score": 10.0
+    },
     {
       "id": "5c5ec1f054b3fe08",
       "title": "Cyber chief's AI warning amid global slowdown push - ABC News & Headlines – Australian Broadcasting Corporation",
@@ -1807,7 +1845,7 @@
       "ai_category": "tech",
       "ai_confidence": 0.7253,
       "ai_importance": 10,
-      "ai_novelty": 0.9363,
+      "ai_novelty": 0.9399,
       "ai": {
         "method": "tfidf_cosine_prototype",
         "features": "1-2grams",
@@ -1819,42 +1857,6 @@
         "Headlines",
         "Australian Broadcasting Corporation Cyber",
         "Australian Broadcasting Corporation"
-      ],
-      "source_reliability": 1.0,
-      "feedback_boost": 0.0,
-      "personal_model_score": 0.0,
-      "personal_score": 10.0
-    },
-    {
-      "id": "18f38a837cf00f03",
-      "title": "'Immense Harm In 5 Years': Google's AI Researcher Quits With Stark Warning - NDTV",
-      "summary": "'Immense Harm In 5 Years': Google's AI Researcher Quits With Stark Warning NDTV How China is preparing for the risk of AI escaping human control Reuters Could AI really wipe out humanity and hijack the internet? The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQW1pVlRJcFpIcmNVckVUdmUwZXJrLVRRaEVMOEtfZkd5aDcweHg4eS11QmZXR2cyUUNDeHVKVW5IWW84SlhwWDF5VzlhSEdPM21NaGlqQVBMb2hrQi13dEFIQ2c4blBlblRNQkt6ZmQzdjU4cGxyOXRwdHB4cldZWmJ1R2lieDcwSlFMcHBGZ0NNMXBVenppOWhDSHBscnBxcDJETHlheFM0MklxSTlDTjJCVXBXU2JZTUJmNVQtMW13NlXSAcsBQVVfeXFMTTBmWGdET1VXOVIzNk5KcWMyVTByRE1NMzkwR19PN0ZYdGRtN09YZlczcEdBMmo2aXV0MzZsR0lacS1TRGpFVkJ6U2RLZmJ1VnNBMUdGb1JfcE9KQzlENEdpWlZnT0F0NmFoSnRrQVY1anVWeENDM3c1Y29oVVhmN3F1Xy1NU21CR2MwRXNaVTJDRWlLSHBUSDNaaWppci0tWWpuYlc2ZTRCRHFTTjlQa296d1NCeENNOGdTY0JnbHVaODMyRlktQnlmUWs?oc=5",
-      "source": "NDTV",
-      "feed": "Artificial Intelligence",
-      "published_at": "2026-09-15T03:29:29+00:00",
-      "category": "tech",
-      "importance": 10,
-      "ai_category": "tech",
-      "ai_confidence": 0.7759,
-      "ai_importance": 10,
-      "ai_novelty": 0.9353,
-      "ai": {
-        "method": "tfidf_cosine_prototype",
-        "features": "1-2grams",
-        "version": 2
-      },
-      "entities": [
-        "Immense Harm In",
-        "Years",
-        "Google",
-        "AI Researcher Quits With",
-        "Stark Warning",
-        "NDTV",
-        "Stark Warning NDTV How",
-        "China",
-        "Reuters Could AI",
-        "The Guardian"
       ],
       "source_reliability": 1.0,
       "feedback_boost": 0.0,
@@ -1874,7 +1876,7 @@
       "ai_category": "tech",
       "ai_confidence": 0.99,
       "ai_importance": 10,
-      "ai_novelty": 0.8954,
+      "ai_novelty": 0.8929,
       "ai": {
         "method": "tfidf_cosine_prototype",
         "features": "1-2grams",
@@ -1885,6 +1887,34 @@
         "GuardRails",
         "MSSP Alert Dyna Software",
         "MSSP Alert"
+      ],
+      "source_reliability": 1.0,
+      "feedback_boost": 0.0,
+      "personal_model_score": 0.0,
+      "personal_score": 10.0
+    },
+    {
+      "id": "62f6acd31c9489a1",
+      "title": "AI Is reshaping open source software and straining the systems that sustain it - EurekAlert!",
+      "summary": "AI Is reshaping open source software and straining the systems that sustain it EurekAlert!",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5POW85aGxGOHlFaWFnbmplOS13c2VxSnlVN28wcEdzVzN2c2RReUVFZTlSclJCcFl0WXg1LUNjUmJJbERDMURGYmtmdTh3MWxPUkJpbm9jd0haTjJK?oc=5",
+      "source": "EurekAlert!",
+      "feed": "Software Development",
+      "published_at": "2026-09-15T18:28:47+00:00",
+      "category": "tech",
+      "importance": 10,
+      "ai_category": "tech",
+      "ai_confidence": 0.99,
+      "ai_importance": 10,
+      "ai_novelty": 0.8879,
+      "ai": {
+        "method": "tfidf_cosine_prototype",
+        "features": "1-2grams",
+        "version": 2
+      },
+      "entities": [
+        "AI Is",
+        "EurekAlert"
       ],
       "source_reliability": 1.0,
       "feedback_boost": 0.0,
@@ -1904,7 +1934,7 @@
       "ai_category": "tech",
       "ai_confidence": 0.4039,
       "ai_importance": 10,
-      "ai_novelty": 0.7925,
+      "ai_novelty": 0.79,
       "ai": {
         "method": "tfidf_cosine_prototype",
         "features": "1-2grams",
@@ -1935,7 +1965,7 @@
       "ai_category": "tech",
       "ai_confidence": 0.99,
       "ai_importance": 10,
-      "ai_novelty": 0.7833,
+      "ai_novelty": 0.7848,
       "ai": {
         "method": "tfidf_cosine_prototype",
         "features": "1-2grams",
@@ -1964,7 +1994,7 @@
       "ai_category": "tech",
       "ai_confidence": 0.99,
       "ai_importance": 9,
-      "ai_novelty": 0.9597,
+      "ai_novelty": 0.9596,
       "ai": {
         "method": "tfidf_cosine_prototype",
         "features": "1-2grams",
@@ -1975,6 +2005,36 @@
         "DevPro Journal Cybersecurity Awareness",
         "Month",
         "DevPro Journal"
+      ],
+      "source_reliability": 1.0,
+      "feedback_boost": 0.0,
+      "personal_model_score": 0.0,
+      "personal_score": 9.0
+    },
+    {
+      "id": "8f1b8645fefb6729",
+      "title": "Cybersecurity spending to increase as AI-related attack threats rise, BCG report - The Global Legal Post",
+      "summary": "Cybersecurity spending to increase as AI-related attack threats rise, BCG report The Global Legal Post",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQM3F6MEc3bjJ1MzZGbjNRVVRVOHNhWTVVSXFCWDd0cEF1TFRaX3JRM0N1NjlyZTBVTUs2ZW5PR2xONDQ0N3ltWDUxV2N5YXpLME1ITFlFWTViTkNaSnNNeUp3OExPeWxWMktSZFhXZmx3Yi05Nmt5dGEzdFdSeW5KXzd4dm9VNmlSMW50OG9SbWNZZWFoTktJaTFaUU5BQ29vc01WRThfektDTThzYmZuWjRET2Z2V2xDR2s1dXQ4LU9sU2Zz?oc=5",
+      "source": "The Global Legal Post",
+      "feed": "Cybersecurity",
+      "published_at": "2026-09-15T11:11:00+00:00",
+      "category": "tech",
+      "importance": 9,
+      "ai_category": "tech",
+      "ai_confidence": 0.7688,
+      "ai_importance": 9,
+      "ai_novelty": 0.9329,
+      "ai": {
+        "method": "tfidf_cosine_prototype",
+        "features": "1-2grams",
+        "version": 2
+      },
+      "entities": [
+        "Cybersecurity",
+        "AI-related",
+        "BCG",
+        "The Global Legal Post"
       ],
       "source_reliability": 1.0,
       "feedback_boost": 0.0,
@@ -1994,7 +2054,7 @@
       "ai_category": "tech",
       "ai_confidence": 0.99,
       "ai_importance": 9,
-      "ai_novelty": 0.914,
+      "ai_novelty": 0.9161,
       "ai": {
         "method": "tfidf_cosine_prototype",
         "features": "1-2grams",
@@ -2024,7 +2084,7 @@
       "ai_category": "tech",
       "ai_confidence": 0.99,
       "ai_importance": 9,
-      "ai_novelty": 0.8737,
+      "ai_novelty": 0.8558,
       "ai": {
         "method": "tfidf_cosine_prototype",
         "features": "1-2grams",
@@ -2056,7 +2116,7 @@
       "ai_category": "tech",
       "ai_confidence": 0.7558,
       "ai_importance": 9,
-      "ai_novelty": 0.8363,
+      "ai_novelty": 0.8345,
       "ai": {
         "method": "tfidf_cosine_prototype",
         "features": "1-2grams",
@@ -2074,6 +2134,37 @@
       "personal_score": 9.0
     },
     {
+      "id": "4efcae82c70aea33",
+      "title": "Hardware-Software Co-Design In The AI Era - Semiconductor Engineering",
+      "summary": "Hardware-Software Co-Design In The AI Era Semiconductor Engineering",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5JSXRCRGVOSDMwajRmZU9IY0dvdTA2aWZ4Y01nTG00aThlUnhFbVYyRk9TVUwyUnBfMm9hMU1xTGE3ME5ZQkhvbF9nOVNjTHNLcEtNbV9FMXlGZnRPM2VpajJmYnpiM3lhYmVoNnAzTThSTUZqZVRVN2R3?oc=5",
+      "source": "Semiconductor Engineering",
+      "feed": "Software Development",
+      "published_at": "2026-09-15T07:31:46+00:00",
+      "category": "tech",
+      "importance": 8,
+      "ai_category": "tech",
+      "ai_confidence": 0.99,
+      "ai_importance": 8,
+      "ai_novelty": 0.9553,
+      "ai": {
+        "method": "tfidf_cosine_prototype",
+        "features": "1-2grams",
+        "version": 2
+      },
+      "entities": [
+        "Hardware-Software Co-Design In The",
+        "AI Era",
+        "Semiconductor Engineering Hardware-Software Co-Design",
+        "In The AI Era",
+        "Semiconductor Engineering"
+      ],
+      "source_reliability": 1.0,
+      "feedback_boost": 0.0,
+      "personal_model_score": 0.0,
+      "personal_score": 8.0
+    },
+    {
       "id": "d223b968d9c435b9",
       "title": "Measured AI development pace could unlock pent-up IT spending; Extend software runway by Kunal Bajaj, Analyst & Shreya Mehra, Associate - Technology at Choice Institutional Equities - Investment Guru India",
       "summary": "Measured AI development pace could unlock pent-up IT spending; Extend software runway by Kunal Bajaj, Analyst & Shreya Mehra, Associate - Technology at Choice Institutional Equities Investment Guru India",
@@ -2086,7 +2177,7 @@
       "ai_category": "tech",
       "ai_confidence": 0.8271,
       "ai_importance": 8,
-      "ai_novelty": 0.9538,
+      "ai_novelty": 0.9549,
       "ai": {
         "method": "tfidf_cosine_prototype",
         "features": "1-2grams",
@@ -2123,7 +2214,7 @@
       "ai_category": "tech",
       "ai_confidence": 0.99,
       "ai_importance": 8,
-      "ai_novelty": 0.9474,
+      "ai_novelty": 0.9473,
       "ai": {
         "method": "tfidf_cosine_prototype",
         "features": "1-2grams",
@@ -2152,7 +2243,7 @@
       "ai_category": "tech",
       "ai_confidence": 0.99,
       "ai_importance": 8,
-      "ai_novelty": 0.9417,
+      "ai_novelty": 0.9448,
       "ai": {
         "method": "tfidf_cosine_prototype",
         "features": "1-2grams",
@@ -2173,30 +2264,31 @@
       "personal_score": 8.0
     },
     {
-      "id": "4efcae82c70aea33",
-      "title": "Hardware-Software Co-Design In The AI Era - Semiconductor Engineering",
-      "summary": "Hardware-Software Co-Design In The AI Era Semiconductor Engineering",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5JSXRCRGVOSDMwajRmZU9IY0dvdTA2aWZ4Y01nTG00aThlUnhFbVYyRk9TVUwyUnBfMm9hMU1xTGE3ME5ZQkhvbF9nOVNjTHNLcEtNbV9FMXlGZnRPM2VpajJmYnpiM3lhYmVoNnAzTThSTUZqZVRVN2R3?oc=5",
-      "source": "Semiconductor Engineering",
-      "feed": "Software Development",
-      "published_at": "2026-09-15T07:31:46+00:00",
+      "id": "ced86406e7ec8aa9",
+      "title": "Fime Acquires Red Alert Labs to Scale Cybersecurity Compliance Automation - FF News",
+      "summary": "Fime Acquires Red Alert Labs to Scale Cybersecurity Compliance Automation FF News",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNR2NvTHBDSVZSZlJFSkY1Y0o5TTJYVlBaU0psVnBuQlp1bzltTVBfSm9hMEVOTVRwTVBRVUxHcjByR0RtWEQ0bU5OYmNCcGYtZ0JNekRycEdPdXlXcGM4NjJTSXhXWDBmNG9xbkxHMDlNUkxnRUZtUWRBM09wVm5MVVBEQW1PYnViaV96bEl0aXJRNWp3RFE?oc=5",
+      "source": "FF News",
+      "feed": "Cybersecurity",
+      "published_at": "2026-09-15T12:21:09+00:00",
       "category": "tech",
       "importance": 8,
       "ai_category": "tech",
       "ai_confidence": 0.99,
       "ai_importance": 8,
-      "ai_novelty": 0.9411,
+      "ai_novelty": 0.9403,
       "ai": {
         "method": "tfidf_cosine_prototype",
         "features": "1-2grams",
         "version": 2
       },
       "entities": [
-        "Hardware-Software Co-Design In The",
-        "AI Era",
-        "Semiconductor Engineering Hardware-Software Co-Design",
-        "In The AI Era",
-        "Semiconductor Engineering"
+        "Fime Acquires Red Alert",
+        "Labs",
+        "Scale Cybersecurity Compliance Automation",
+        "FF News Fime Acquires",
+        "Red Alert Labs",
+        "FF News"
       ],
       "source_reliability": 1.0,
       "feedback_boost": 0.0,
@@ -2216,7 +2308,7 @@
       "ai_category": "tech",
       "ai_confidence": 0.99,
       "ai_importance": 8,
-      "ai_novelty": 0.9181,
+      "ai_novelty": 0.9176,
       "ai": {
         "method": "tfidf_cosine_prototype",
         "features": "1-2grams",
@@ -2237,35 +2329,6 @@
       "personal_score": 8.0
     },
     {
-      "id": "5d6daf087e211b84",
-      "title": "Fime Acquires Red Alert Labs to Scale Cybersecurity Compliance Automation - ffnews.com",
-      "summary": "Fime Acquires Red Alert Labs to Scale Cybersecurity Compliance Automation ffnews.com",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNR2NvTHBDSVZSZlJFSkY1Y0o5TTJYVlBaU0psVnBuQlp1bzltTVBfSm9hMEVOTVRwTVBRVUxHcjByR0RtWEQ0bU5OYmNCcGYtZ0JNekRycEdPdXlXcGM4NjJTSXhXWDBmNG9xbkxHMDlNUkxnRUZtUWRBM09wVm5MVVBEQW1PYnViaV96bEl0aXJRNWp3RFE?oc=5",
-      "source": "ffnews.com",
-      "feed": "Cybersecurity",
-      "published_at": "2026-09-15T12:21:09+00:00",
-      "category": "tech",
-      "importance": 8,
-      "ai_category": "tech",
-      "ai_confidence": 0.99,
-      "ai_importance": 8,
-      "ai_novelty": 0.9172,
-      "ai": {
-        "method": "tfidf_cosine_prototype",
-        "features": "1-2grams",
-        "version": 2
-      },
-      "entities": [
-        "Fime Acquires Red Alert",
-        "Labs",
-        "Scale Cybersecurity Compliance Automation"
-      ],
-      "source_reliability": 1.0,
-      "feedback_boost": 0.0,
-      "personal_model_score": 0.0,
-      "personal_score": 8.0
-    },
-    {
       "id": "a8aa91c0d2d2def3",
       "title": "Trump calls AI fears a 'hoax' as tech exec warns of 'unseen hand' in regulation push - Fox News",
       "summary": "Trump calls AI fears a 'hoax' as tech exec warns of 'unseen hand' in regulation push Fox News",
@@ -2278,7 +2341,7 @@
       "ai_category": "tech",
       "ai_confidence": 0.99,
       "ai_importance": 8,
-      "ai_novelty": 0.914,
+      "ai_novelty": 0.9161,
       "ai": {
         "method": "tfidf_cosine_prototype",
         "features": "1-2grams",
@@ -2307,7 +2370,7 @@
       "ai_category": "tech",
       "ai_confidence": 0.99,
       "ai_importance": 8,
-      "ai_novelty": 0.9009,
+      "ai_novelty": 0.9014,
       "ai": {
         "method": "tfidf_cosine_prototype",
         "features": "1-2grams",
@@ -2337,7 +2400,7 @@
       "ai_category": "tech",
       "ai_confidence": 0.99,
       "ai_importance": 8,
-      "ai_novelty": 0.9009,
+      "ai_novelty": 0.9014,
       "ai": {
         "method": "tfidf_cosine_prototype",
         "features": "1-2grams",
@@ -2367,7 +2430,7 @@
       "ai_category": "tech",
       "ai_confidence": 0.99,
       "ai_importance": 8,
-      "ai_novelty": 0.8954,
+      "ai_novelty": 0.8929,
       "ai": {
         "method": "tfidf_cosine_prototype",
         "features": "1-2grams",
@@ -2398,7 +2461,7 @@
       "ai_category": "tech",
       "ai_confidence": 0.99,
       "ai_importance": 8,
-      "ai_novelty": 0.8859,
+      "ai_novelty": 0.8872,
       "ai": {
         "method": "tfidf_cosine_prototype",
         "features": "1-2grams",
@@ -2428,7 +2491,7 @@
       "ai_category": "tech",
       "ai_confidence": 0.99,
       "ai_importance": 8,
-      "ai_novelty": 0.8842,
+      "ai_novelty": 0.8843,
       "ai": {
         "method": "tfidf_cosine_prototype",
         "features": "1-2grams",
@@ -2444,30 +2507,28 @@
       "personal_score": 8.0
     },
     {
-      "id": "ca3aa8fcd48d8846",
-      "title": "Quantum Software Simplifies Application Development - Open Source For You",
-      "summary": "Quantum Software Simplifies Application Development Open Source For You",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSXltVFRPMXRNM2c2NVczTUNkcTFnRnJUR2ZlTnJHWjk2OWU2TFpWQ1UzM2xWVG9vNkRaT09qTVhGX3JaYjc0a0JjdGpOT2Q5WWtMcVA4YnpLdGVrR2RyUE1zdUxVODJsQmF2eGVId255dTllZnlnM1Z3azl4ZUNMcDFUQ1J6SVlFeS0wY1c2M2NvdnNrWnc?oc=5",
-      "source": "Open Source For You",
-      "feed": "Software Development",
-      "published_at": "2026-09-15T06:39:15+00:00",
+      "id": "af720159502290d2",
+      "title": "Open source software offers 2-5x more value for grids - IT Brief UK",
+      "summary": "Open source software offers 2-5x more value for grids IT Brief UK",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaEZjdUluNnpwNEwzUlQydkl5aVJuZHJlSG9ieUkyR2x4UEltMGFmMk5lUWR1S2QtSDR5RGFqWkpYODUtMW1NZW1pcWdLUkljUTN2WmFyT21BTXlPNnI4WGlFbmR6VnhRT3VWSlVhNTBWbEpPSW9DTllWbUVjOFUzSGN1OTl0d1NC?oc=5",
+      "source": "IT Brief UK",
+      "feed": "Open Source",
+      "published_at": "2026-09-15T16:00:06+00:00",
       "category": "tech",
       "importance": 8,
       "ai_category": "tech",
       "ai_confidence": 0.99,
       "ai_importance": 8,
-      "ai_novelty": 0.721,
+      "ai_novelty": 0.8554,
       "ai": {
         "method": "tfidf_cosine_prototype",
         "features": "1-2grams",
         "version": 2
       },
       "entities": [
-        "Quantum Software Simplifies Application",
-        "Development",
-        "Open Source For You",
-        "Development Open Source For",
-        "You"
+        "Open",
+        "IT Brief UK Open",
+        "IT Brief UK"
       ],
       "source_reliability": 1.0,
       "feedback_boost": 0.0,
@@ -2487,7 +2548,7 @@
       "ai_category": "tech",
       "ai_confidence": 0.99,
       "ai_importance": 8,
-      "ai_novelty": 0.721,
+      "ai_novelty": 0.7177,
       "ai": {
         "method": "tfidf_cosine_prototype",
         "features": "1-2grams",
@@ -2518,7 +2579,7 @@
       "ai_category": "tech",
       "ai_confidence": 0.99,
       "ai_importance": 8,
-      "ai_novelty": 0.6992,
+      "ai_novelty": 0.7012,
       "ai": {
         "method": "tfidf_cosine_prototype",
         "features": "1-2grams",
@@ -2535,53 +2596,28 @@
       "personal_score": 8.0
     },
     {
-      "id": "023bf120a65f252d",
-      "title": "Coforge expands 300-member auto engineering team, targets EV and software-defined vehicle technology - fortuneindia.com",
-      "summary": "Coforge expands 300-member auto engineering team, targets EV and software-defined vehicle technology fortuneindia.com",
+      "id": "6d23b491f9bbd748",
+      "title": "Coforge expands 300-member auto engineering team, targets EV and software-defined vehicle technology - Fortune India",
+      "summary": "Coforge expands 300-member auto engineering team, targets EV and software-defined vehicle technology Fortune India",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOcWhCVUhPUDZpdGdUWXB6TVd4WEFUVXJqc1ZWaS1Sck9CNlZJbGRzRS1obkcybDdjOW85a3NrbkxzTi1yMW4yV3FDTXhkVGhoSWtZU0plRGRlUnRpR05sTHB2cXN3VGNkWHZ6SXhUU1A3dkpoTTFCTjFaVHJpZnpvM0xCVzIyYll6NnNmcWFyY2FvblVaUi1kQzRheEEtNktwdlNjVlU2aUlfM01NRXJnbkl3N0NUOGpPUDBoc3JULXNvcGtTbXplbGlBSXVOLXNnN1NaQmxOd9IB5AFBVV95cUxQXzZpaDZUS2d0akUxaWdPY0oxWmRQaTdsSjg2cGVmZHRIZTNOU1dtTk82b1h4c0ZmaTdDSUFRUFF1X2VqUjJDRkZPc2ZKcWo2eTBuTS1Kd01FbDJ0RklBY3NZanBxb3RUXzJ4OEpKNWRlME9PLVFzSkJEMGk3enRvMGV2em5QeGZQY0dLWVV2MDRKeFVNd1ExS0JkMzZ5Tl94dzg2UHE1THNjTGl6Y25IQlM2a3VsQnVsTDhhWGxvQXFhb2VTeWFQZnA2MF8xV1VRb0FtTjN1RC1HTG1sWVVvRmNscXU?oc=5",
-      "source": "fortuneindia.com",
+      "source": "Fortune India",
       "feed": "Software Development",
       "published_at": "2026-09-15T08:37:42+00:00",
       "category": "tech",
       "importance": 8,
       "ai_category": "tech",
-      "ai_confidence": 0.99,
+      "ai_confidence": 0.7688,
       "ai_importance": 8,
-      "ai_novelty": 0.6992,
+      "ai_novelty": 0.7012,
       "ai": {
         "method": "tfidf_cosine_prototype",
         "features": "1-2grams",
         "version": 2
       },
       "entities": [
-        "Coforge"
-      ],
-      "source_reliability": 1.0,
-      "feedback_boost": 0.0,
-      "personal_model_score": 0.0,
-      "personal_score": 8.0
-    },
-    {
-      "id": "a473c9f3e8a2723e",
-      "title": "Open source software offers 2-5x more value for grids - itbrief.co.uk",
-      "summary": "Open source software offers 2-5x more value for grids itbrief.co.uk",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaEZjdUluNnpwNEwzUlQydkl5aVJuZHJlSG9ieUkyR2x4UEltMGFmMk5lUWR1S2QtSDR5RGFqWkpYODUtMW1NZW1pcWdLUkljUTN2WmFyT21BTXlPNnI4WGlFbmR6VnhRT3VWSlVhNTBWbEpPSW9DTllWbUVjOFUzSGN1OTl0d1NC?oc=5",
-      "source": "itbrief.co.uk",
-      "feed": "Open Source",
-      "published_at": "2026-09-15T16:00:06+00:00",
-      "category": "tech",
-      "importance": 8,
-      "ai_category": "tech",
-      "ai_confidence": 0.99,
-      "ai_importance": 8,
-      "ai_novelty": 0.6933,
-      "ai": {
-        "method": "tfidf_cosine_prototype",
-        "features": "1-2grams",
-        "version": 2
-      },
-      "entities": [
-        "Open"
+        "Coforge",
+        "Fortune India Coforge",
+        "Fortune India"
       ],
       "source_reliability": 1.0,
       "feedback_boost": 0.0,
@@ -2601,7 +2637,7 @@
       "ai_category": "tech",
       "ai_confidence": 0.99,
       "ai_importance": 7,
-      "ai_novelty": 0.9537,
+      "ai_novelty": 0.9534,
       "ai": {
         "method": "tfidf_cosine_prototype",
         "features": "1-2grams",
@@ -2631,7 +2667,7 @@
       "ai_category": "tech",
       "ai_confidence": 0.99,
       "ai_importance": 7,
-      "ai_novelty": 0.9027,
+      "ai_novelty": 0.9033,
       "ai": {
         "method": "tfidf_cosine_prototype",
         "features": "1-2grams",
@@ -2642,37 +2678,6 @@
         "AI-assisted",
         "DefenseScoop Pentagon",
         "DefenseScoop"
-      ],
-      "source_reliability": 1.0,
-      "feedback_boost": 0.0,
-      "personal_model_score": 0.0,
-      "personal_score": 7.0
-    },
-    {
-      "id": "1cfc0cbe015ffd6f",
-      "title": "UPSC Mains Answer Practice — GS 3: India’s adoption of artificial intelligence and primary healthcare (Week 172) - The Indian Express",
-      "summary": "UPSC Mains Answer Practice — GS 3: India’s adoption of artificial intelligence and primary healthcare (Week 172) The Indian Express",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSTh4OGhfS1ZwVDVTMFpvSDFyU3ZHTzQ3YVM2YXlXR0twWDROa01IOE04M0NhUHNDbU1CUEVnTU16b3JSbF81dzN3aVVGUU8tU3Uza3I5OHFETjE1VVc5VUx4dUJrQVFLN1NrTThsdjg4RnBTNXFROVNMYmdEWFVub0o2NU85THhPb1BacnJKYWk3M25CZVpXVlllVWhrX3l4VUhraGFiRGdWLVlZZXNzTXVpQlVGUjU1ZUZaVzVR0gHEAUFVX3lxTE1xbHZ1RFVreU91WmozREd0aWJaZV94OVFsX3FMTGdjeUhYSXR1X2E0Sk9yTVNLOTNXUEVaR1ZnNEdWT1EzTFZrcGtEREllVEdidHh1NzBabjBTaFBBaFd3YzdOM052NnRzanVIemt6TFRsbmZCVW9BaUY0UU5SemFUTF9uMmthMWlpM0xHZmRxVDdMUGEwcGsyVW1fTkNLZlFlUkFEVGljb3R3N1pjdjBrNXdHTldnRklqdVZUS3poYjBlVmc?oc=5",
-      "source": "The Indian Express",
-      "feed": "Artificial Intelligence",
-      "published_at": "2026-09-15T07:04:23+00:00",
-      "category": "tech",
-      "importance": 7,
-      "ai_category": "tech",
-      "ai_confidence": 0.8002,
-      "ai_importance": 7,
-      "ai_novelty": 0.9018,
-      "ai": {
-        "method": "tfidf_cosine_prototype",
-        "features": "1-2grams",
-        "version": 2
-      },
-      "entities": [
-        "UPSC Mains Answer Practice",
-        "Week",
-        "The Indian Express UPSC",
-        "Mains Answer Practice",
-        "The Indian Express"
       ],
       "source_reliability": 1.0,
       "feedback_boost": 0.0,
@@ -2692,7 +2697,7 @@
       "ai_category": "tech",
       "ai_confidence": 0.99,
       "ai_importance": 7,
-      "ai_novelty": 0.9009,
+      "ai_novelty": 0.8769,
       "ai": {
         "method": "tfidf_cosine_prototype",
         "features": "1-2grams",
@@ -2704,64 +2709,6 @@
         "Android Authority This Harry",
         "Potter-themed Android",
         "Hogwarts Android Authority"
-      ],
-      "source_reliability": 1.0,
-      "feedback_boost": 0.0,
-      "personal_model_score": 0.0,
-      "personal_score": 7.0
-    },
-    {
-      "id": "dbd0c8bb9ebbea1d",
-      "title": "Top Institutes Spent ₹1.34 Billion On Proprietary Software - Open Source For You",
-      "summary": "Top Institutes Spent ₹1.34 Billion On Proprietary Software Open Source For You",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWVJldGFJSkhJNzNzM0dNSWs3aU9nZEhqWDZJOWE2aXJET24xeVhSNzVWRWFzalZpdmJSMFQzNWhEOEJ3eERzVDUtRExQU1lBMUhuX2RGWkUzNjk5Y3pqQS1TWVpEbUlSY1BjVjRBR3p4VnBITVdpbzRjY1FiYUlyQ2hkVHdZZzJUNWJlMkhUdHllWUdlSFJQRXg3V25vMG0yUU1iV1dKbHBXZw?oc=5",
-      "source": "Open Source For You",
-      "feed": "Open Source",
-      "published_at": "2026-09-14T12:26:04+00:00",
-      "category": "tech",
-      "importance": 7,
-      "ai_category": "tech",
-      "ai_confidence": 0.99,
-      "ai_importance": 7,
-      "ai_novelty": 0.7354,
-      "ai": {
-        "method": "tfidf_cosine_prototype",
-        "features": "1-2grams",
-        "version": 2
-      },
-      "entities": [
-        "Top Institutes Spent",
-        "Billion On Proprietary Software",
-        "Open Source For You"
-      ],
-      "source_reliability": 1.0,
-      "feedback_boost": 0.0,
-      "personal_model_score": 0.0,
-      "personal_score": 7.0
-    },
-    {
-      "id": "44adcce549d798b8",
-      "title": "Over ₹134 crore spent on proprietary software at premier institutes, says open source collective - The Hindu",
-      "summary": "Over ₹134 crore spent on proprietary software at premier institutes, says open source collective The Hindu",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNZkdfMlBfR2JscmI5T2g4T3hFU2hIUjJ6NnBMQ0RiS2lQUXYtYnZwSm1COUlpWF9lYkVtelRXTFhjbG4yT256TXZPOTZJdG1fTHp4d0Zkbl9kVU1vcTRQN01aU1lseG5RbGNldUhVVm1XTUhXS3VyQU5DUDVZZDlHel9uUUZjWnJkOVUyM1hadW9rZXRnNlM4SDlKUU80cFR4aGI0bnlyYkZicXNNdVdJYXY4cHZpR1hmMzhTcDN1OVRuYl82czlkQTBkaVY5MC1pZXNhdXZacHk0bVRnZFExMVF5Z1VnbEgtYk5pLS1SeFPSAfcBQVVfeXFMTVdRUkdCeGMzRlJBbDlPckZLZm5TZTR3U1llNzV4MTl3SXQtWnF3WEdacDhRbElrUmRnc1JwcHp0VDNkcDNlNU13b2xmbjZtMzRBNndRTmNmdUNKNVY4Y2FOYXpMRDJVR3hpVWM5T1hYS2JOLThiTWxOTXl2T0VwX2JhbWdLLS1ueFM5VmNveHBFOW9Hc01hdkFZeEtmTC1ZcHBpdFVENEUyQXl4dnk0aXdsaURPV3hQU2NIblIyMHk0Y2NOYWVMQUdJMDJrQWh4QVZtaElpNnJsZlZ2N0N2R1lDcUd6WlJkd2lZQWYzSDBYUVFWQm1RTQ?oc=5",
-      "source": "The Hindu",
-      "feed": "Open Source",
-      "published_at": "2026-09-04T07:00:00+00:00",
-      "category": "tech",
-      "importance": 7,
-      "ai_category": "tech",
-      "ai_confidence": 0.99,
-      "ai_importance": 7,
-      "ai_novelty": 0.7354,
-      "ai": {
-        "method": "tfidf_cosine_prototype",
-        "features": "1-2grams",
-        "version": 2
-      },
-      "entities": [
-        "Over",
-        "The Hindu Over",
-        "The Hindu"
       ],
       "source_reliability": 1.0,
       "feedback_boost": 0.0,
@@ -2781,7 +2728,7 @@
       "ai_category": "tech",
       "ai_confidence": 0.513,
       "ai_importance": 7,
-      "ai_novelty": 0.4271,
+      "ai_novelty": 0.79,
       "ai": {
         "method": "tfidf_cosine_prototype",
         "features": "1-2grams",
@@ -2793,6 +2740,66 @@
         "ASAP",
         "India Today Government",
         "ASAP India Today"
+      ],
+      "source_reliability": 1.0,
+      "feedback_boost": 0.0,
+      "personal_model_score": 0.0,
+      "personal_score": 7.0
+    },
+    {
+      "id": "dbd0c8bb9ebbea1d",
+      "title": "Top Institutes Spent ₹1.34 Billion On Proprietary Software - Open Source For You",
+      "summary": "Top Institutes Spent ₹1.34 Billion On Proprietary Software Open Source For You",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWVJldGFJSkhJNzNzM0dNSWs3aU9nZEhqWDZJOWE2aXJET24xeVhSNzVWRWFzalZpdmJSMFQzNWhEOEJ3eERzVDUtRExQU1lBMUhuX2RGWkUzNjk5Y3pqQS1TWVpEbUlSY1BjVjRBR3p4VnBITVdpbzRjY1FiYUlyQ2hkVHdZZzJUNWJlMkhUdHllWUdlSFJQRXg3V25vMG0yUU1iV1dKbHBXZw?oc=5",
+      "source": "Open Source For You",
+      "feed": "Open Source",
+      "published_at": "2026-09-14T12:26:04+00:00",
+      "category": "tech",
+      "importance": 7,
+      "ai_category": "tech",
+      "ai_confidence": 0.99,
+      "ai_importance": 7,
+      "ai_novelty": 0.7358,
+      "ai": {
+        "method": "tfidf_cosine_prototype",
+        "features": "1-2grams",
+        "version": 2
+      },
+      "entities": [
+        "Top Institutes Spent",
+        "Billion On Proprietary Software",
+        "Open Source For You"
+      ],
+      "source_reliability": 1.0,
+      "feedback_boost": 0.0,
+      "personal_model_score": 0.0,
+      "personal_score": 7.0
+    },
+    {
+      "id": "ca3aa8fcd48d8846",
+      "title": "Quantum Software Simplifies Application Development - Open Source For You",
+      "summary": "Quantum Software Simplifies Application Development Open Source For You",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSXltVFRPMXRNM2c2NVczTUNkcTFnRnJUR2ZlTnJHWjk2OWU2TFpWQ1UzM2xWVG9vNkRaT09qTVhGX3JaYjc0a0JjdGpOT2Q5WWtMcVA4YnpLdGVrR2RyUE1zdUxVODJsQmF2eGVId255dTllZnlnM1Z3azl4ZUNMcDFUQ1J6SVlFeS0wY1c2M2NvdnNrWnc?oc=5",
+      "source": "Open Source For You",
+      "feed": "Software Development",
+      "published_at": "2026-09-15T06:39:15+00:00",
+      "category": "tech",
+      "importance": 7,
+      "ai_category": "tech",
+      "ai_confidence": 0.99,
+      "ai_importance": 7,
+      "ai_novelty": 0.7177,
+      "ai": {
+        "method": "tfidf_cosine_prototype",
+        "features": "1-2grams",
+        "version": 2
+      },
+      "entities": [
+        "Quantum Software Simplifies Application",
+        "Development",
+        "Open Source For You",
+        "Development Open Source For",
+        "You"
       ],
       "source_reliability": 1.0,
       "feedback_boost": 0.0,
@@ -2812,7 +2819,7 @@
       "ai_category": "tech",
       "ai_confidence": 0.99,
       "ai_importance": 6,
-      "ai_novelty": 0.906,
+      "ai_novelty": 0.9045,
       "ai": {
         "method": "tfidf_cosine_prototype",
         "features": "1-2grams",
@@ -2846,7 +2853,7 @@
       "ai_category": "tech",
       "ai_confidence": 0.99,
       "ai_importance": 6,
-      "ai_novelty": 0.8957,
+      "ai_novelty": 0.8932,
       "ai": {
         "method": "tfidf_cosine_prototype",
         "features": "1-2grams",
@@ -2856,6 +2863,36 @@
         "Android",
         "How-To Geek I",
         "How-To Geek"
+      ],
+      "source_reliability": 1.0,
+      "feedback_boost": 0.0,
+      "personal_model_score": 0.0,
+      "personal_score": 6.0
+    },
+    {
+      "id": "540e23b8c794756e",
+      "title": "New Pixel VIP update addresses some of its biggest flaws - Android Authority",
+      "summary": "New Pixel VIP update addresses some of its biggest flaws Android Authority",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQThkWlZzVUl2MW5lSHZpaXFlT3dOZm9kT3JKS0NFUXJZV0QzYTBpbkJxMkNpaUk0RUpHSEtQYWcwNC1CUWFNUGpYNFk2YXhCMHJCR1F3MTlyOEp0ZVVncWJKVng3aC03cEVPcmNEZE5ITWdEaTAwdklvbkZmUDFBTXJTQlhqRE0?oc=5",
+      "source": "Android Authority",
+      "feed": "Android",
+      "published_at": "2026-09-15T18:00:00+00:00",
+      "category": "tech",
+      "importance": 6,
+      "ai_category": "tech",
+      "ai_confidence": 0.99,
+      "ai_importance": 6,
+      "ai_novelty": 0.8769,
+      "ai": {
+        "method": "tfidf_cosine_prototype",
+        "features": "1-2grams",
+        "version": 2
+      },
+      "entities": [
+        "New Pixel VIP",
+        "Android Authority New Pixel",
+        "VIP",
+        "Android Authority"
       ],
       "source_reliability": 1.0,
       "feedback_boost": 0.0,
@@ -2875,7 +2912,7 @@
       "ai_category": "tech",
       "ai_confidence": 0.99,
       "ai_importance": 6,
-      "ai_novelty": 0.8737,
+      "ai_novelty": 0.8558,
       "ai": {
         "method": "tfidf_cosine_prototype",
         "features": "1-2grams",
@@ -2903,7 +2940,7 @@
       "ai_category": "tech",
       "ai_confidence": 0.99,
       "ai_importance": 6,
-      "ai_novelty": 0.7833,
+      "ai_novelty": 0.7848,
       "ai": {
         "method": "tfidf_cosine_prototype",
         "features": "1-2grams",
@@ -2935,7 +2972,7 @@
       "ai_category": "tech",
       "ai_confidence": 0.99,
       "ai_importance": 6,
-      "ai_novelty": 0.7628,
+      "ai_novelty": 0.7654,
       "ai": {
         "method": "tfidf_cosine_prototype",
         "features": "1-2grams",
@@ -2968,7 +3005,7 @@
       "ai_category": "tech",
       "ai_confidence": 0.99,
       "ai_importance": 6,
-      "ai_novelty": 0.7628,
+      "ai_novelty": 0.7654,
       "ai": {
         "method": "tfidf_cosine_prototype",
         "features": "1-2grams",
@@ -2987,62 +3024,26 @@
       "personal_score": 6.0
     },
     {
-      "id": "5ba5a4b77f2edfbf",
-      "title": "Kochi to host Keralam’s c0c0n 2026 cybersecurity conference in October - The Hindu",
-      "summary": "Kochi to host Keralam’s c0c0n 2026 cybersecurity conference in October The Hindu",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPLU93UWdXYU9jRU5Ld0FTRFJRVWVleWQ1N1Rnc2xDVklMUEFobU5KVXZPbHBEWEhFNTB6eWE2UGpBWHhiakplZjlhU212ZGJMVDRCempUUXZmRWM3R3ZDUVgxcG9tS1ZDN3d1X0RRcFN6cnFYUUFPTEFGNjVjMUdoc1lERzJoRzBpOTR5bGNzSzEtU0xYNnlyOUR0QVRSV1hnV0w5T3pUZWlDTG5uMkkybjQ1MElMMm1yb1VoQ1Y3cVhwODRxUm50MjdLWXRzRE3SAdYBQVVfeXFMT01iSE9RTWxuek8xWTJMNjFjTDQ4LWptR0xOUkZTUkRpSWlac2hIWm04VFBxLUdqVmVvSThtSTNaQldhMHBJTkF0WXdKMHIyNWF0eko0ckc2QnhuS1lMV21KY2ZEVUcwcGpuLXNJWkdRdzBfdTR2M0xKbUI1dTNXNVZmaHFUS2t3Ym5ydEhYWTBCeFRESnF4d1lCVVVTRk54S2pSY2tDZTRIOTV2TWNPRUZkb2JPcDhtdkJmc0xTLVFFUlZJTUVHUmdhWFZIX1RzR2VFbE5wZw?oc=5",
-      "source": "The Hindu",
-      "feed": "Cybersecurity",
-      "published_at": "2026-09-15T08:49:27+00:00",
+      "id": "3ca643fa0ff12511",
+      "title": "Over ₹134 crore spent on proprietary software at premier institutes, says open source collective - thehindu.com",
+      "summary": "Over ₹134 crore spent on proprietary software at premier institutes, says open source collective thehindu.com",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNZkdfMlBfR2JscmI5T2g4T3hFU2hIUjJ6NnBMQ0RiS2lQUXYtYnZwSm1COUlpWF9lYkVtelRXTFhjbG4yT256TXZPOTZJdG1fTHp4d0Zkbl9kVU1vcTRQN01aU1lseG5RbGNldUhVVm1XTUhXS3VyQU5DUDVZZDlHel9uUUZjWnJkOVUyM1hadW9rZXRnNlM4SDlKUU80cFR4aGI0bnlyYkZicXNNdVdJYXY4cHZpR1hmMzhTcDN1OVRuYl82czlkQTBkaVY5MC1pZXNhdXZacHk0bVRnZFExMVF5Z1VnbEgtYk5pLS1SeFPSAfcBQVVfeXFMTVdRUkdCeGMzRlJBbDlPckZLZm5TZTR3U1llNzV4MTl3SXQtWnF3WEdacDhRbElrUmRnc1JwcHp0VDNkcDNlNU13b2xmbjZtMzRBNndRTmNmdUNKNVY4Y2FOYXpMRDJVR3hpVWM5T1hYS2JOLThiTWxOTXl2T0VwX2JhbWdLLS1ueFM5VmNveHBFOW9Hc01hdkFZeEtmTC1ZcHBpdFVENEUyQXl4dnk0aXdsaURPV3hQU2NIblIyMHk0Y2NOYWVMQUdJMDJrQWh4QVZtaElpNnJsZlZ2N0N2R1lDcUd6WlJkd2lZQWYzSDBYUVFWQm1RTQ?oc=5",
+      "source": "thehindu.com",
+      "feed": "Open Source",
+      "published_at": "2026-09-04T07:00:00+00:00",
       "category": "tech",
       "importance": 6,
       "ai_category": "tech",
       "ai_confidence": 0.99,
       "ai_importance": 6,
-      "ai_novelty": 0.6487,
+      "ai_novelty": 0.7358,
       "ai": {
         "method": "tfidf_cosine_prototype",
         "features": "1-2grams",
         "version": 2
       },
       "entities": [
-        "Kochi",
-        "Keralam",
-        "October",
-        "The Hindu Kochi",
-        "October The Hindu"
-      ],
-      "source_reliability": 1.0,
-      "feedback_boost": 0.0,
-      "personal_model_score": 0.0,
-      "personal_score": 6.0
-    },
-    {
-      "id": "7808515e5049aa74",
-      "title": "Govt issues alert for Android users, asks them to update phones | Tap to know more | Inshorts - Inshorts",
-      "summary": "Govt issues alert for Android users, asks them to update phones | Tap to know more | Inshorts Inshorts",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZF9rWGVqS1dTdVFrOHVGa2Fqcy1tVThmRm43b0NRYXhMcXJiNTN5Ym5FUWREOW1LQlJwQktCNVRKX21ieGE5X3RMSU9SVE1NTEhWc2hCbTNuWmNvU1VSMzdBd2JvNXpXeFN1UnRJbTlzNVVhRG1zTklTTkcwRlFYV2dqbFJhYVIzR2ljOUp5LUxjREM4d2RDVnB3ZTFsTTk1OHlsamVKbUMtQdIBrwFBVV95cUxQTGh2UVF2UzVRMnBYNFJRMm0tUEtDaUxmdDdkNjcyRjNCNFdjejNyR0MwV2hvM2tjV1hWQnBpOHZxMTROaHdEN1hEd3M3YkVYR0x6RU9tbm9oZTdnYktmVFEta2FMazNfeU5OeWNOUkI4RDV5c21CenZmcUVxalJIOVBsR3VhVmFtRHI0MEsyZXBHMUhWRHRaMVU2b3BqSDZ1VlJWMXg2QU9ObURuUmZJ?oc=5",
-      "source": "Inshorts",
-      "feed": "Android",
-      "published_at": "2026-09-15T09:47:33+00:00",
-      "category": "tech",
-      "importance": 6,
-      "ai_category": "tech",
-      "ai_confidence": 0.99,
-      "ai_importance": 6,
-      "ai_novelty": 0.4271,
-      "ai": {
-        "method": "tfidf_cosine_prototype",
-        "features": "1-2grams",
-        "version": 2
-      },
-      "entities": [
-        "Govt",
-        "Android",
-        "Tap",
-        "Inshorts",
-        "Inshorts Govt",
-        "Inshorts Inshorts"
+        "Over"
       ],
       "source_reliability": 1.0,
       "feedback_boost": 0.0,
@@ -3062,7 +3063,7 @@
       "ai_category": "tech",
       "ai_confidence": 0.99,
       "ai_importance": 6,
-      "ai_novelty": 0.2945,
+      "ai_novelty": 0.2951,
       "ai": {
         "method": "tfidf_cosine_prototype",
         "features": "1-2grams",
@@ -3094,7 +3095,7 @@
       "ai_category": "tech",
       "ai_confidence": 0.99,
       "ai_importance": 6,
-      "ai_novelty": 0.2945,
+      "ai_novelty": 0.2951,
       "ai": {
         "method": "tfidf_cosine_prototype",
         "features": "1-2grams",
@@ -3116,6 +3117,36 @@
       "personal_score": 6.0
     },
     {
+      "id": "28e1f8692be01865",
+      "title": "Barack Obama, Kamala Harris call for government action on AI development - CNN",
+      "summary": "Barack Obama, Kamala Harris call for government action on AI development CNN",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMEZUcjFHMW1lck5oaFo1OEY1QTZaOVZvTWhaOHd4V0ZVbWpRSF95LXgtNmxoU0xwQ0FLMWNTWUhUdWpPNDg4VmZIS3lCdzlYNXNKa0dWMF9hY3QzTEM4emJ0dFNpWDdYNDF1ZkZCTlZsRmc5VWctUHBOM2JkWXVhaVhmZDVWS2ZIdlR6LTdmQVZRS1E2?oc=5",
+      "source": "CNN",
+      "feed": "Artificial Intelligence",
+      "published_at": "2026-09-14T22:55:42+00:00",
+      "category": "tech",
+      "importance": 5,
+      "ai_category": "tech",
+      "ai_confidence": 0.7087,
+      "ai_importance": 5,
+      "ai_novelty": 0.9332,
+      "ai": {
+        "method": "tfidf_cosine_prototype",
+        "features": "1-2grams",
+        "version": 2
+      },
+      "entities": [
+        "Barack Obama",
+        "Kamala Harris",
+        "CNN Barack Obama",
+        "CNN"
+      ],
+      "source_reliability": 1.0,
+      "feedback_boost": 0.0,
+      "personal_model_score": 0.0,
+      "personal_score": 5.0
+    },
+    {
       "id": "2bae4360c3900ecf",
       "title": "5 Budget Android Phones You Should Consider Instead Of The Google Pixel 11 - bgr.com",
       "summary": "5 Budget Android Phones You Should Consider Instead Of The Google Pixel 11 bgr.com",
@@ -3128,7 +3159,7 @@
       "ai_category": "tech",
       "ai_confidence": 0.7253,
       "ai_importance": 5,
-      "ai_novelty": 0.9462,
+      "ai_novelty": 0.926,
       "ai": {
         "method": "tfidf_cosine_prototype",
         "features": "1-2grams",
@@ -3138,36 +3169,6 @@
         "Budget Android Phones You",
         "Should Consider Instead Of",
         "The Google Pixel"
-      ],
-      "source_reliability": 1.0,
-      "feedback_boost": 0.0,
-      "personal_model_score": 0.0,
-      "personal_score": 5.0
-    },
-    {
-      "id": "c21ad874235c5056",
-      "title": "Barack Obama, Kamala Harris call for government action on AI development - CNN",
-      "summary": "Barack Obama, Kamala Harris call for government action on AI development CNN",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbzZway1IX0otVnBLTWhVWURKcUVXaTl1U0R0ekxCaEEzcjFJV1BhYngtczhJeDJDVjNMNVNUTkdQTGlXX1I3ZFdCV2tCWjRlU0cwRzJlenQ5V0NvUklKUEJoSEF4eHNUZ3pfLWd6RFZOc0NKV2s4ZFN6RzZVVmhxcng0dHBXSTFfU0RqVFI5MA?oc=5",
-      "source": "CNN",
-      "feed": "Artificial Intelligence",
-      "published_at": "2026-09-14T22:55:42+00:00",
-      "category": "tech",
-      "importance": 5,
-      "ai_category": "tech",
-      "ai_confidence": 0.7087,
-      "ai_importance": 5,
-      "ai_novelty": 0.9321,
-      "ai": {
-        "method": "tfidf_cosine_prototype",
-        "features": "1-2grams",
-        "version": 2
-      },
-      "entities": [
-        "Barack Obama",
-        "Kamala Harris",
-        "CNN Barack Obama",
-        "CNN"
       ],
       "source_reliability": 1.0,
       "feedback_boost": 0.0,
@@ -3187,7 +3188,7 @@
       "ai_category": "tech",
       "ai_confidence": 0.99,
       "ai_importance": 5,
-      "ai_novelty": 0.8842,
+      "ai_novelty": 0.8843,
       "ai": {
         "method": "tfidf_cosine_prototype",
         "features": "1-2grams",
@@ -3205,40 +3206,10 @@
       "personal_score": 5.0
     },
     {
-      "id": "9e17942781225518",
-      "title": "Research by LF Energy finds open source could deliver 2-5x more value for energy grids - Tech.eu",
-      "summary": "Research by LF Energy finds open source could deliver 2-5x more value for energy grids Tech.eu",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMmIxeFoybXNHVmFfVmJvd3dHTElzV1dJaC1td3hXZExFUGVxVmszYlBkNjBQVzdNZTRCNGtFREpCSFJvVVNBR01BWVRRbUh6dGxhMkFnYXBBSEpNWHA0WkdHQ3gzSjhIcy0zUEJENWFRRm1XdVpCTmxZbllxeXJmX3BFNThVeFpoajRmcGZ1QjFRa3h1Q2R3aHJyaGd1a1l6ZXVUUnYyVFJmU1h4S2tza21ORVA?oc=5",
-      "source": "Tech.eu",
-      "feed": "Open Source",
-      "published_at": "2026-09-15T08:55:14+00:00",
-      "category": "tech",
-      "importance": 5,
-      "ai_category": "tech",
-      "ai_confidence": 0.99,
-      "ai_importance": 5,
-      "ai_novelty": 0.6933,
-      "ai": {
-        "method": "tfidf_cosine_prototype",
-        "features": "1-2grams",
-        "version": 2
-      },
-      "entities": [
-        "Research",
-        "LF Energy",
-        "Tech.eu Research",
-        "Tech.eu"
-      ],
-      "source_reliability": 1.0,
-      "feedback_boost": 0.0,
-      "personal_model_score": 0.0,
-      "personal_score": 5.0
-    },
-    {
-      "id": "99d9b71776ce1593",
+      "id": "e4235aef61ab123e",
       "title": "Kochi to Host Cybersecurity Hackathon in October: Keralam Police Chief - Deccan Chronicle",
       "summary": "Kochi to Host Cybersecurity Hackathon in October: Keralam Police Chief Deccan Chronicle",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNSUt0RjU1aVZNTFlBTHhteW5lRkQ5OGlSdWdhSkRBZHpwbGRvX1ZqMU9XUHhUZHlUdV9uWk8taG13OUZ2LWd1aldsM1A0Q0Y1THdjcjFPc3F5TWk2NkxlVkJ1OFFYRk5sN2tUVzF6dWVuaU1MNXo2U210S1dQcC1VclZmWWhyeVRWaVB1ZS0yWXBoT3lEZjdtb05JdVdnSFlHZEhkcHVCZUw5c2ZiTzVvLTR0Ml9kMEZnT1RLTG0tZjV4Tm05MWxjdVpWNHPSAdIBQVVfeXFMT2Y0UGNCb3pZU0lBMWhKQU9oaWxhLTJGMHFOS2o5cVpzX24yWGUtTXd6RlppcGZKby1JLUtIRlloTzNfU0dZUnd5ek16c0dPeUdyY29pMGRZdGRSMW1Wd21YczY1UVc2cGh2LWt3cENZYWhaMjZkQW1tZmljT2xRdGlTSk1xcGFnVmNWaFJpZmlvM3FpQ2pxZlVTVXZzRDAwcWlONWlYLURES3ZpMU9kWm52Q28tYmJRdWliZXZzZXE0ZTlOTy1EWm1EdW94bE5GY0xR?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNSUt0RjU1aVZNTFlBTHhteW5lRkQ5OGlSdWdhSkRBZHpwbGRvX1ZqMU9XUHhUZHlUdV9uWk8taG13OUZ2LWd1aldsM1A0Q0Y1THdjcjFPc3F5TWk2NkxlVkJ1OFFYRk5sN2tUVzF6dWVuaU1MNXo2U210S1dQcC1VclZmWWhyeVRWaVB1ZS0yWXBoT3lEZjdtb05JdVdnSFlHZEhkcHVCZUw5c2ZiTzVvLTR0Ml9kMEZnT1RLTG0tZjV4Tm05MWxjdVpWNHM?oc=5",
       "source": "Deccan Chronicle",
       "feed": "Cybersecurity",
       "published_at": "2026-09-15T11:04:29+00:00",
@@ -3247,7 +3218,7 @@
       "ai_category": "tech",
       "ai_confidence": 0.7087,
       "ai_importance": 5,
-      "ai_novelty": 0.6487,
+      "ai_novelty": 0.649,
       "ai": {
         "method": "tfidf_cosine_prototype",
         "features": "1-2grams",
@@ -3268,6 +3239,35 @@
       "personal_score": 5.0
     },
     {
+      "id": "ffd7c0310890fda7",
+      "title": "Kochi to host Keralam’s c0c0n 2026 cybersecurity conference in October - thehindu.com",
+      "summary": "Kochi to host Keralam’s c0c0n 2026 cybersecurity conference in October thehindu.com",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPLU93UWdXYU9jRU5Ld0FTRFJRVWVleWQ1N1Rnc2xDVklMUEFobU5KVXZPbHBEWEhFNTB6eWE2UGpBWHhiakplZjlhU212ZGJMVDRCempUUXZmRWM3R3ZDUVgxcG9tS1ZDN3d1X0RRcFN6cnFYUUFPTEFGNjVjMUdoc1lERzJoRzBpOTR5bGNzSzEtU0xYNnlyOUR0QVRSV1hnV0w5T3pUZWlDTG5uMkkybjQ1MElMMm1yb1VoQ1Y3cVhwODRxUm50MjdLWXRzRE3SAdYBQVVfeXFMT01iSE9RTWxuek8xWTJMNjFjTDQ4LWptR0xOUkZTUkRpSWlac2hIWm04VFBxLUdqVmVvSThtSTNaQldhMHBJTkF0WXdKMHIyNWF0eko0ckc2QnhuS1lMV21KY2ZEVUcwcGpuLXNJWkdRdzBfdTR2M0xKbUI1dTNXNVZmaHFUS2t3Ym5ydEhYWTBCeFRESnF4d1lCVVVTRk54S2pSY2tDZTRIOTV2TWNPRUZkb2JPcDhtdkJmc0xTLVFFUlZJTUVHUmdhWFZIX1RzR2VFbE5wZw?oc=5",
+      "source": "thehindu.com",
+      "feed": "Cybersecurity",
+      "published_at": "2026-09-15T08:49:27+00:00",
+      "category": "tech",
+      "importance": 5,
+      "ai_category": "tech",
+      "ai_confidence": 0.99,
+      "ai_importance": 5,
+      "ai_novelty": 0.649,
+      "ai": {
+        "method": "tfidf_cosine_prototype",
+        "features": "1-2grams",
+        "version": 2
+      },
+      "entities": [
+        "Kochi",
+        "Keralam",
+        "October"
+      ],
+      "source_reliability": 1.0,
+      "feedback_boost": 0.0,
+      "personal_model_score": 0.0,
+      "personal_score": 5.0
+    },
+    {
       "id": "5400fc1bc76962be",
       "title": "Rockwell Automation joins Anthropic cybersecurity initiative By Investing.com - Investing.com India",
       "summary": "Rockwell Automation joins Anthropic cybersecurity initiative By Investing.com Investing.com India",
@@ -3280,7 +3280,7 @@
       "ai_category": "tech",
       "ai_confidence": 0.7085,
       "ai_importance": 5,
-      "ai_novelty": 0.5976,
+      "ai_novelty": 0.5949,
       "ai": {
         "method": "tfidf_cosine_prototype",
         "features": "1-2grams",
@@ -3311,7 +3311,7 @@
       "ai_category": "tech",
       "ai_confidence": 0.7517,
       "ai_importance": 5,
-      "ai_novelty": 0.5976,
+      "ai_novelty": 0.5949,
       "ai": {
         "method": "tfidf_cosine_prototype",
         "features": "1-2grams",
