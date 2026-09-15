@@ -2,47 +2,65 @@
 
 A personal AI-assisted news briefing system focused on **important Malayalam/general news** and **technology news**.
 
-The project is designed to reduce information overload by collecting news automatically, removing duplicates, analysing importance, classifying topics, and producing a ranked feed that can later be consumed by a mobile app.
+The project reduces information overload by collecting news automatically, removing duplicates, analysing importance, learning from feedback, and producing a ranked feed for a future mobile app.
 
-## Current Architecture
+## Architecture
 
 ```text
-RSS Feeds
+RSS Sources
     ↓
-Fetch & Normalize
+Fetch + Normalize
     ↓
-Deduplication
+Exact Deduplication
     ↓
 Mathematical AI Engine
-    ├── TF-IDF vectorization
+    ├── TF-IDF (1,2)-grams
     ├── Cosine similarity
     ├── Topic classification
     ├── Novelty detection
+    ├── Entity/keyword signals
     ├── Importance scoring
-    └── Recency/source weighting
+    └── Recency + source weighting
     ↓
-Ranked News
+Personal Learning Layer
+    ├── User feedback (like / skip)
+    ├── Source preference signals
+    └── Category preference signals
+    ↓
+Personalized Ranking
     ↓
 data/news.json
+    ↓
+Future Mobile App
 ```
 
 ## AI / Machine Learning
 
-NewsBrief AI currently uses a lightweight mathematical AI engine implemented in pure Python. It does **not** require a paid AI API or a hosted LLM.
+NewsBrief AI starts with transparent, lightweight mathematical methods rather than a hosted LLM. This keeps the pipeline inexpensive and suitable for GitHub Actions.
 
-### Techniques used
+### Current techniques
 
-- **TF-IDF** — represents article text as numerical vectors.
-- **Cosine similarity** — measures similarity between articles and helps identify repetitive stories.
-- **Prototype-based classification** — estimates whether an article is more relevant to `general` or `tech` topics.
-- **Novelty scoring** — estimates how different an article is from the other collected stories.
+- **TF-IDF** — converts article text into numerical feature vectors.
+- **1,2-gram features** — captures both individual terms and short phrases.
+- **Cosine similarity** — measures textual similarity between stories.
+- **Prototype classification** — estimates `general` versus `tech` relevance.
+- **Novelty scoring** — identifies stories that are less repetitive.
 - **Importance scoring** — combines important-event signals, topic relevance, source quality, and recency.
+- **Feedback learning** — stores user `like` / `skip` signals and derives conservative source/category preference boosts.
 
-The implementation is in:
+The core implementation is in `src/ai_engine.py`; feedback storage and preference logic are in `src/learning.py`.
+
+## Feedback Learning
+
+Feedback is stored in:
 
 ```text
-src/ai_engine.py
+data/feedback.json
 ```
+
+Each feedback record can contain the article URL, text, category, source, label, and timestamp. The current learning layer deliberately uses small preference boosts instead of allowing a tiny feedback dataset to completely change the ranking.
+
+A future trained classifier can be introduced after enough labelled feedback is collected. When that happens, the TF-IDF vectorizer and classifier should be persisted together so that the feature space remains consistent.
 
 ## Project Structure
 
@@ -54,10 +72,12 @@ newsbrief-ai/
 ├── config/
 │   └── sources.json
 ├── data/
-│   └── news.json
+│   ├── news.json
+│   └── feedback.json
 ├── src/
 │   ├── ai_engine.py
-│   └── fetch_news.py
+│   ├── fetch_news.py
+│   └── learning.py
 ├── .gitignore
 ├── requirements.txt
 └── README.md
@@ -86,21 +106,16 @@ The repository includes a GitHub Actions workflow that:
 2. Sets up Python.
 3. Installs dependencies.
 4. Fetches configured RSS feeds.
-5. Runs the mathematical AI processing pipeline.
-6. Validates `data/news.json`.
-7. Commits the updated feed when news changes.
+5. Runs mathematical AI processing.
+6. Applies the personal learning layer when feedback exists.
+7. Validates `data/news.json`.
+8. Commits the updated feed when news changes.
 
-The workflow supports **manual execution** and is scheduled to run every **30 minutes**.
+The workflow supports manual execution and is scheduled every **30 minutes**.
 
 ## News Sources
 
-Sources are configured in:
-
-```text
-config/sources.json
-```
-
-The initial configuration contains Malayalam/general news searches and technology-focused feeds covering areas such as:
+Sources are configured in `config/sources.json` and currently cover:
 
 - Kerala
 - India
@@ -114,17 +129,9 @@ The initial configuration contains Malayalam/general news searches and technolog
 
 ## Data Model
 
-Each article preserves its original source information, including:
+Original source information is preserved, while AI-derived fields are stored separately.
 
-- Original title
-- Original URL
-- Source
-- Feed
-- Publication time
-
-AI-derived information is stored separately, so the original source data is not overwritten.
-
-Example AI fields include:
+Example:
 
 ```json
 {
@@ -155,20 +162,24 @@ Example AI fields include:
 - [x] Topic classification
 - [x] Novelty detection
 - [x] Importance ranking
-- [ ] Learn from personal user feedback
-- [ ] Improve classification using a trained ML model
+- [x] Feedback storage and preference signals
+- [ ] Fully trained personal classifier
+- [ ] Adaptive source reliability model
+- [ ] Better entity extraction
+- [ ] Semantic deduplication with embeddings
 
 ### Phase 3 — Language Intelligence
 
-Future versions may add a local language model for tasks that mathematical NLP cannot handle well:
+Possible future additions:
 
 - AI-generated Malayalam titles
 - Malayalam short summaries
 - Detailed summaries
-- Better semantic classification
+- Stronger semantic classification
 - Entity extraction
+- Optional local LLM through Ollama
 
-A local model can be added later without replacing the mathematical ranking system.
+The local language model will be an optional language layer; the mathematical ranking system remains the foundation.
 
 ### Phase 4 — Mobile Delivery
 
@@ -178,10 +189,11 @@ A local model can be added later without replacing the mathematical ranking syst
 - [ ] News images
 - [ ] Source links
 - [ ] Offline/cache support
+- [ ] User feedback controls
 - [ ] Optional notifications
 
 ## Design Goal
 
-The main goal is **not simply to collect more news**. It is to identify the small number of stories that are most useful to the user while keeping the original source available for verification.
+The goal is **not to collect more news**. It is to identify a small number of useful stories while preserving the original source for verification.
 
-The project intentionally starts with transparent mathematical methods before introducing a larger language model. This makes the ranking system explainable, lightweight, and suitable for execution in GitHub Actions without a dedicated server.
+The project intentionally starts with explainable mathematical NLP and lightweight machine learning before introducing larger language models. This makes the system easier to understand, test, and run without a dedicated 24/7 server.
