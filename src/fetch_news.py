@@ -16,7 +16,9 @@ from bs4 import BeautifulSoup
 from dateutil import parser as date_parser
 
 from ai_engine import enrich_articles
-from learning import feedback_boost
+from entity_extractor import extract_entities
+from learning import adaptive_source_reliability, feedback_boost, personal_score, train_personal_classifier
+from semantic_dedup import semantic_duplicate_flags
 
 ROOT = Path(__file__).resolve().parents[1]
 CONFIG_FILE = ROOT / "config" / "sources.json"
@@ -125,22 +127,34 @@ def deduplicate(articles: list[dict[str, Any]]) -> list[dict[str, Any]]:
     return result
 
 
-def process_category(sources: list[dict[str, str]], category: str) -> list[dict[str, Any]]:
+def process_category(sources: list[dict[str, str]], category: str, classifier: tuple[Any, Any], reliability: dict[str, float]) -> list[dict[str, Any]]:
     articles = []
     for source in sources:
         for article in fetch_source(source):
             article["category"] = category
             article["importance"] = calculate_importance(article["title"], article["summary"], category)
             articles.append(article)
+
     candidates = deduplicate(articles)
     candidates.sort(key=lambda item: (item["importance"], item["published_at"]), reverse=True)
-    candidates = enrich_articles(candidates[:MAX_AI_CANDIDATES])
+    candidates = candidates[:MAX_AI_CANDIDATES]
 
+    semantic_removed = semantic_duplicate_flags(candidates)
+    if semantic_removed:
+        candidates = [a for a in candidates if a["id"] not in semantic_removed]
+        logger.info("Removed %d semantic duplicates", len(semantic_removed))
+
+    candidates = enrich_articles(candidates)
+    vectorizer, model = classifier
     for article in candidates:
         article["category"] = article["ai_category"]
+        source_key = str(article.get("source", "")).lower()
+        article["entities"] = extract_entities(f"{article['title']} {article.get('summary', '')}")
+        article["source_reliability"] = reliability.get(source_key, 1.0)
         article["feedback_boost"] = round(feedback_boost(article), 3)
+        article["personal_model_score"] = personal_score(article, vectorizer, model)
         article["importance"] = article["ai_importance"]
-        article["personal_score"] = round(article["ai_importance"] + article["feedback_boost"], 3)
+        article["personal_score"] = round(article["ai_importance"] * article["source_reliability"] + article["feedback_boost"] + article["personal_model_score"], 3)
 
     candidates.sort(key=lambda item: (item["personal_score"], item.get("ai_novelty", 0.0), item["published_at"]), reverse=True)
     return candidates[:MAX_ARTICLES_PER_CATEGORY]
@@ -149,13 +163,18 @@ def process_category(sources: list[dict[str, str]], category: str) -> list[dict[
 def main() -> None:
     with CONFIG_FILE.open("r", encoding="utf-8") as file:
         config = json.load(file)
+
+    classifier = train_personal_classifier()
+    vectorizer, model, training = classifier
+    reliability = adaptive_source_reliability()
     output = {
-        "version": 3,
+        "version": 4,
         "updated_at": datetime.now(timezone.utc).isoformat(),
         "ai_engine": {"enabled": True, "type": "mathematical_ml", "method": "tfidf_cosine_prototype", "features": "1-2grams"},
-        "learning": {"enabled": True, "feedback_file": "data/feedback.json"},
-        "general": process_category(config.get("general", []), "general"),
-        "tech": process_category(config.get("tech", []), "tech"),
+        "learning": {"enabled": True, "classifier": training, "adaptive_source_reliability": True},
+        "semantic_deduplication": {"enabled": True, "method": "sentence-transformers_optional", "threshold": 0.88},
+        "general": process_category(config.get("general", []), "general", (vectorizer, model), reliability),
+        "tech": process_category(config.get("tech", []), "tech", (vectorizer, model), reliability),
     }
     OUTPUT_FILE.parent.mkdir(parents=True, exist_ok=True)
     temp = OUTPUT_FILE.with_suffix(".tmp")
