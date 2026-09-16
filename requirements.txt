@@ -5,3 +5,4 @@ beautifulsoup4==4.13.5
 scikit-learn==1.8.0
 joblib==1.5.2
 google-cloud-firestore==2.21.0
+openai==1.109.1
