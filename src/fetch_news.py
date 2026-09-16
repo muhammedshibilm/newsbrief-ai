@@ -16,9 +16,11 @@ from bs4 import BeautifulSoup
 from dateutil import parser as date_parser
 
 from ai_engine import enrich_articles
+from article_extractor import extract_article_content
 from entity_extractor import extract_entities
 from learning import adaptive_source_reliability, feedback_boost, personal_score, train_personal_classifier
 from semantic_dedup import semantic_duplicate_flags
+from summarizer import summarize_article
 
 ROOT = Path(__file__).resolve().parents[1]
 CONFIG_FILE = ROOT / "config" / "sources.json"
@@ -234,6 +236,32 @@ def add_article_images(articles: list[dict[str, Any]]) -> None:
     logger.info("Article images -> extracted=%d missing=%d", extracted, missing)
 
 
+def add_full_article_summaries(articles: list[dict[str, Any]]) -> None:
+    """Read selected publisher pages and summarize the actual article content."""
+    extracted = 0
+    fallback = 0
+    for article in articles:
+        result = extract_article_content(article.get("url", ""))
+        article["article_content_available"] = bool(result.get("available"))
+        article["article_content_length"] = int(result.get("length", 0))
+        article["summary_source_url"] = result.get("final_url") or article.get("url", "")
+
+        summary_result = summarize_article(
+            result.get("content", ""),
+            article.get("title", ""),
+            article.get("source", ""),
+            article.get("summary", ""),
+        )
+        article["summary"] = summary_result["summary"]
+        article["summary_method"] = summary_result["summary_method"]
+        if summary_result["article_content_available"]:
+            extracted += 1
+        else:
+            fallback += 1
+
+    logger.info("Full article summaries -> extracted=%d fallback=%d", extracted, fallback)
+
+
 def fetch_source(source: dict[str, str]) -> list[dict[str, Any]]:
     name, url = source["name"], source["url"]
     logger.info("Fetching %s", name)
@@ -314,6 +342,9 @@ def process_category(sources: list[dict[str, str]], category: str, classifier: t
 
     candidates.sort(key=lambda item: (item["personal_score"], item.get("ai_novelty", 0.0), item["published_at"]), reverse=True)
     candidates = candidates[:MAX_ARTICLES_PER_CATEGORY]
+
+    # Only selected stories are opened again, which keeps the scheduled job efficient.
+    add_full_article_summaries(candidates)
     add_article_images(candidates)
     return candidates
 
@@ -326,9 +357,14 @@ def main() -> None:
     vectorizer, model, training = classifier
     reliability = adaptive_source_reliability()
     output = {
-        "version": 5,
+        "version": 6,
         "updated_at": datetime.now(timezone.utc).isoformat(),
         "ai_engine": {"enabled": True, "type": "mathematical_ml", "method": "tfidf_cosine_prototype", "features": "1-2grams"},
+        "language_summarization": {
+            "enabled": True,
+            "method": "openai_full_article_with_tfidf_fallback",
+            "input": "publisher_article_content",
+        },
         "learning": {"enabled": True, "classifier": training, "adaptive_source_reliability": True},
         "semantic_deduplication": {"enabled": True, "method": "sentence-transformers_optional", "threshold": 0.88},
         "image_extraction": {"enabled": True, "sources": ["rss_media", "og:image", "twitter:image", "article_img"], "fallback": "null"},
