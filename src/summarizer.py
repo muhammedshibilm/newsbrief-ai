@@ -9,13 +9,12 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 
 logger = logging.getLogger(__name__)
 
-SUMMARY_SENTENCES = 5
+SUMMARY_SENTENCES = 4
 MIN_ARTICLE_CHARS = 200
-MAX_LLM_INPUT_CHARS = 30000
+MAX_LLM_INPUT_CHARS = 24000
 
 
 def _sentences(text: str) -> list[str]:
-    # Supports Malayalam and English sentence punctuation without requiring a language model.
     parts = re.split(r"(?<=[.!?।])\s+|\n+", text or "")
     return [re.sub(r"\s+", " ", p).strip() for p in parts if len(p.strip()) >= 35]
 
@@ -38,6 +37,14 @@ def _language_hint(text: str) -> str:
     return "Malayalam" if malayalam > max(20, latin * 0.2) else "English"
 
 
+def _clean_model_output(text: str) -> str:
+    text = (text or "").strip()
+    text = re.sub(r"^```(?:text|markdown)?\s*", "", text, flags=re.I)
+    text = re.sub(r"\s*```$", "", text)
+    text = re.sub(r"^(summary|സംഗ്രഹം)\s*:\s*", "", text, flags=re.I)
+    return re.sub(r"\s+", " ", text).strip()
+
+
 def _openai_summary(text: str, title: str, source: str) -> str | None:
     api_key = os.getenv("OPENAI_API_KEY", "").strip()
     if not api_key:
@@ -47,42 +54,61 @@ def _openai_summary(text: str, title: str, source: str) -> str | None:
         from openai import OpenAI
 
         client = OpenAI(api_key=api_key, timeout=30.0)
-        model = os.getenv("OPENAI_MODEL", "gpt-5-mini")
+        model = os.getenv("OPENAI_MODEL", "gpt-5.6-luna")
         language = _language_hint(text)
-        prompt = f"""Summarize this news article for a personal news briefing.
 
-Rules:
-- Read the supplied article content, not just the title.
-- Write 3-6 concise sentences covering the main event, important people/organizations, relevant place/time, key facts, and consequences when stated.
-- Preserve important numbers, dates, names, and technical terms.
-- Do not invent facts or add information not present in the article.
-- Do not copy long passages verbatim.
-- Keep the summary in the article's language. The detected language is {language}.
-- Return only the summary, with no heading or preamble.
+        prompt = f"""You are the summarization engine for a personal news reader.
 
-Title: {title}
-Source: {source}
+TASK
+Read the publisher article body below and produce a precise short news summary.
+The article body is the source of truth. The RSS title is only a reference for context.
 
-Article content:
+STRICT RULES
+1. Use ONLY facts explicitly supported by the article body.
+2. Do not infer motives, causes, outcomes, allegations, identities, or future events that the article does not state.
+3. Clearly preserve whether a statement is an allegation, complaint, police instruction, official statement, report, or confirmed event.
+4. Preserve names, organizations, places, dates, quantities, money amounts, and important technical terms accurately.
+5. Do not turn allegations or claims into established facts.
+6. Do not repeat the headline as the summary.
+7. Do not mention that you are an AI and do not add a preamble.
+8. Do not include advertisements, related-article recommendations, navigation text, author metadata, tags, or disclaimers.
+9. Write exactly 3-5 concise sentences.
+10. Keep the same language as the article. Detected language: {language}.
+11. Return only the summary text.
+
+TITLE
+{title}
+
+SOURCE
+{source}
+
+PUBLISHER ARTICLE BODY
 {text[:MAX_LLM_INPUT_CHARS]}
 """
-        response = client.responses.create(model=model, input=prompt)
-        result = (response.output_text or "").strip()
+
+        response = client.responses.create(
+            model=model,
+            input=prompt,
+            max_output_tokens=220,
+        )
+        result = _clean_model_output(response.output_text)
         if result:
             return result
-    except Exception as exc:  # Keep the scheduled news pipeline resilient.
+    except Exception as exc:
         logger.warning("LLM summary failed for %s: %s", title, exc)
+
     return None
 
 
 def summarize_article(content: str, title: str, source: str, rss_summary: str = "") -> dict[str, Any]:
-    content = (content or "").strip()
+    content = re.sub(r"\s+", " ", (content or "")).strip()
+
     if len(content) >= MIN_ARTICLE_CHARS:
         llm_summary = _openai_summary(content, title, source)
         if llm_summary:
             return {
                 "summary": llm_summary,
-                "summary_method": "openai_full_article",
+                "summary_method": "llm_full_article",
                 "article_content_available": True,
                 "article_content_length": len(content),
             }
