@@ -15,7 +15,7 @@ concurrency:
 jobs:
   update-news:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 15
 
     steps:
       - name: Checkout repository
@@ -46,6 +46,9 @@ jobs:
         run: python src/sync_feedback.py
 
       - name: Collect news
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          OPENAI_MODEL: ${{ vars.OPENAI_MODEL }}
         run: python src/fetch_news.py
 
       - name: Validate generated JSON
