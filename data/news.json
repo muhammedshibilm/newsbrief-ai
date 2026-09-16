@@ -1,11 +1,16 @@
 {
-  "version": 5,
-  "updated_at": "2026-09-16T01:12:22.729251+00:00",
+  "version": 6,
+  "updated_at": "2026-09-16T01:39:47.652363+00:00",
   "ai_engine": {
     "enabled": true,
     "type": "mathematical_ml",
     "method": "tfidf_cosine_prototype",
     "features": "1-2grams"
+  },
+  "language_summarization": {
+    "enabled": true,
+    "method": "openai_full_article_with_tfidf_fallback",
+    "input": "publisher_article_content"
   },
   "learning": {
     "enabled": true,
@@ -34,40 +39,6 @@
   },
   "general": [
     {
-      "id": "abeeaa117d37f733",
-      "title": "കൊതുകിനെ അടിക്കാം മല്‍സരിക്കാം; പവര്‍കട്ട് ആസ്വാദ്യകരമാക്കാം - manoramanews.com",
-      "summary": "കൊതുകിനെ അടിക്കാം മല്‍സരിക്കാം; പവര്‍കട്ട് ആസ്വാദ്യകരമാക്കാം manoramanews.com",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRjh6cExsdWtTVkVkWVdaelozUEdfZkR0b3RodGVhTk9MRDc3emlJX082NHVfSThHaVU5dUpPOEF5eXBScjBGbVFhTko1X01pNzZuRks0Q01kYzc3TWY2d0VQQmgySjdKbXp1aXBsQzhnSFh4R2s2Wjd3eU9oS3VyVzdfdkU5dlpBQUQxWU5ldjDSAZYBQVVfeXFMT2txckJkTWtGQmZyTVhiWGJPODlQZk9VZDlBVTdiOFBnZV8wekxQSHZiWGUyTnRpOVgtT1FpdnBVRXY0cFlhQWpFU2dJbkRmZldLaU14OEFkQVAzUXVQcGhONmJ2dmViOGJBVXRVaXpZMkNBZHRfbHN3M25KZDByQkFfWTJKNjdwRVFJQXE0V0xBb3hyRUdn?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "source": "manoramanews.com",
-      "feed": "Kerala Malayalam News",
-      "published_at": "2026-09-15T16:31:41+00:00",
-      "category": "general",
-      "importance": 4,
-      "ai_category": "general",
-      "ai_confidence": 0.99,
-      "ai_importance": 4,
-      "ai_novelty": 1.0,
-      "ai": {
-        "method": "tfidf_cosine_prototype",
-        "features": "1-2grams",
-        "version": 2
-      },
-      "entities": [
-        "കൊതുകിനെ",
-        "അടിക്കാം",
-        "മല്",
-        "സരിക്കാം",
-        "പവര്",
-        "കട്ട്",
-        "ആസ്വാദ്യകരമാക്കാം"
-      ],
-      "source_reliability": 1.0,
-      "feedback_boost": 0.25,
-      "personal_model_score": 0.0,
-      "personal_score": 4.25
-    },
-    {
       "id": "1a516bf6c8e807a1",
       "title": "KERALA BUDGET 2026: ആരോഗ്യ മേഖലയെ മെച്ചപ്പെടുത്തും; കേരള ഹെൽത്ത് ആൻഡ് ലൈഫ് സയൻസ് സിറ്റിക്ക് 100 കോടി - Samayam Malayalam",
       "summary": "KERALA BUDGET 2026: ആരോഗ്യ മേഖലയെ മെച്ചപ്പെടുത്തും; കേരള ഹെൽത്ത് ആൻഡ് ലൈഫ് സയൻസ് സിറ്റിക്ക് 100 കോടി Samayam Malayalam",
@@ -81,7 +52,7 @@
       "ai_category": "general",
       "ai_confidence": 0.99,
       "ai_importance": 4,
-      "ai_novelty": 0.9655,
+      "ai_novelty": 0.9652,
       "ai": {
         "method": "tfidf_cosine_prototype",
         "features": "1-2grams",
@@ -104,7 +75,92 @@
       "source_reliability": 1.0,
       "feedback_boost": 0.25,
       "personal_model_score": 0.0,
-      "personal_score": 4.25
+      "personal_score": 4.25,
+      "article_content_available": false,
+      "article_content_length": 0,
+      "summary_source_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPeUtMQmRyUUxScndIbnR1bkliZllIelhVNmJ0Y3BDdjNkelQzLXk3bUpjY2FxV2gwZHRkVjRPQlpBLW15NS1VM0I1SkZ3aWRCQlFjTXlzU05JR2xrTEpvbW5tcTZiOHpqYVhuU0Jhb1lZYjUtV0xScUdRdFFKWGp4bWF1TnhWYmxRd0duWDM5LXBBWUUyQlJMNXJudlA1SXNkczMxSlJ3Qzkzc0lSUUlyQXJBYlBfTFZLUXlyWktTRUkwSDFvMk1kZDJodlVNMGczdnhYalg3QVhYSGV0X0IwYtIB5gFBVV95cUxOSEhCUWlEQU9UOWNKOGJ4NVdXNW93X2luWG9wa3pLUG1GX0VKR255cDc3Q2wwdlBrLTAtMy1zM3M3TTNqWnA2dE9vSmdYcFZ0TFlxUWpsajFfOEc1bkpsNkFqM2VaYzlXX09JN3hlMk1yUTVaX0NxcktHSlNRZmQ5V1dkWmJmU2pZWEVfMnhSeWttNVoyUjRoNU12VzZTOUxoZzZyYXN2ZVVQWDFNU044eHB6MjdERjFPSmJJcDI3cmZOcW04ZHJfemRyT2ZVVXVwalVHdm9jTkNoeU1OaXE1MThQZlVCZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "summary_method": "rss_fallback"
+    },
+    {
+      "id": "abeeaa117d37f733",
+      "title": "കൊതുകിനെ അടിക്കാം മല്‍സരിക്കാം; പവര്‍കട്ട് ആസ്വാദ്യകരമാക്കാം - manoramanews.com",
+      "summary": "കൊതുകിനെ അടിക്കാം മല്‍സരിക്കാം; പവര്‍കട്ട് ആസ്വാദ്യകരമാക്കാം manoramanews.com",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRjh6cExsdWtTVkVkWVdaelozUEdfZkR0b3RodGVhTk9MRDc3emlJX082NHVfSThHaVU5dUpPOEF5eXBScjBGbVFhTko1X01pNzZuRks0Q01kYzc3TWY2d0VQQmgySjdKbXp1aXBsQzhnSFh4R2s2Wjd3eU9oS3VyVzdfdkU5dlpBQUQxWU5ldjDSAZYBQVVfeXFMT2txckJkTWtGQmZyTVhiWGJPODlQZk9VZDlBVTdiOFBnZV8wekxQSHZiWGUyTnRpOVgtT1FpdnBVRXY0cFlhQWpFU2dJbkRmZldLaU14OEFkQVAzUXVQcGhONmJ2dmViOGJBVXRVaXpZMkNBZHRfbHN3M25KZDByQkFfWTJKNjdwRVFJQXE0V0xBb3hyRUdn?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "source": "manoramanews.com",
+      "feed": "Kerala Malayalam News",
+      "published_at": "2026-09-15T16:31:41+00:00",
+      "category": "general",
+      "importance": 4,
+      "ai_category": "general",
+      "ai_confidence": 0.99,
+      "ai_importance": 4,
+      "ai_novelty": 0.9607,
+      "ai": {
+        "method": "tfidf_cosine_prototype",
+        "features": "1-2grams",
+        "version": 2
+      },
+      "entities": [
+        "കൊതുകിനെ",
+        "അടിക്കാം",
+        "മല്",
+        "സരിക്കാം",
+        "പവര്",
+        "കട്ട്",
+        "ആസ്വാദ്യകരമാക്കാം"
+      ],
+      "source_reliability": 1.0,
+      "feedback_boost": 0.25,
+      "personal_model_score": 0.0,
+      "personal_score": 4.25,
+      "article_content_available": false,
+      "article_content_length": 0,
+      "summary_source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRjh6cExsdWtTVkVkWVdaelozUEdfZkR0b3RodGVhTk9MRDc3emlJX082NHVfSThHaVU5dUpPOEF5eXBScjBGbVFhTko1X01pNzZuRks0Q01kYzc3TWY2d0VQQmgySjdKbXp1aXBsQzhnSFh4R2s2Wjd3eU9oS3VyVzdfdkU5dlpBQUQxWU5ldjDSAZYBQVVfeXFMT2txckJkTWtGQmZyTVhiWGJPODlQZk9VZDlBVTdiOFBnZV8wekxQSHZiWGUyTnRpOVgtT1FpdnBVRXY0cFlhQWpFU2dJbkRmZldLaU14OEFkQVAzUXVQcGhONmJ2dmViOGJBVXRVaXpZMkNBZHRfbHN3M25KZDByQkFfWTJKNjdwRVFJQXE0V0xBb3hyRUdn?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "summary_method": "rss_fallback"
+    },
+    {
+      "id": "a50f9bc97bbd99a5",
+      "title": "‘അക്രമം നിറഞ്ഞ് സമൂഹം, ദൈവത്തോട് പ്രാർഥിക്കുകയല്ലാതെ മറ്റൊന്നും ചെയ്യാനാകാത്ത അവസ്ഥ’; ശിവസേനയുടെ ഗണേശോത്സവത്തിൽ സി. ദിവാകരൻ - Mathrubhumi",
+      "summary": "‘അക്രമം നിറഞ്ഞ് സമൂഹം, ദൈവത്തോട് പ്രാർഥിക്കുകയല്ലാതെ മറ്റൊന്നും ചെയ്യാനാകാത്ത അവസ്ഥ’; ശിവസേനയുടെ ഗണേശോത്സവത്തിൽ സി. ദിവാകരൻ Mathrubhumi",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZVVkejZGdjNsREU5a0Y3NDhkdWRxbjBQLUJJbnp6NmM0YlFtVVUxZ2ZyTHI5amtLd2h4RGlFWFRjZG05UnEwZFBFZHkxS0pBaDZaUkhHUWNUYlJ0RXhiU2NhUTBwTWtTMWdxN1FnZjRZaGRJMU9icy10eG1mRnRkOXNiYi0zWHR0cWFsYmQtQkpob2VBc3c5WkEyZEtFbHZNTFHSAacBQVVfeXFMTXRka2NjLW55bmxxclJYVTdROWplNGlMMHE2ZW5CSi1mZzlLcDFHT2Zkd2JBa1l6WHk5U1k0RUtudEFWVlA1WllvRVFwYU96Y2g4YURsbG4yUVF4bktzZUs0QS03cC1GejhyLU5PLU5YcU00YURXNkhBUEtsckNiZmgtMDRFdmFNZkdZSkhtTl96b1NNTkxxeE1ybjJrb3NPaVVWbnZDTlE?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "source": "Mathrubhumi",
+      "feed": "Kerala Malayalam News",
+      "published_at": "2026-09-16T01:33:12+00:00",
+      "category": "general",
+      "importance": 4,
+      "ai_category": "general",
+      "ai_confidence": 0.99,
+      "ai_importance": 4,
+      "ai_novelty": 0.9572,
+      "ai": {
+        "method": "tfidf_cosine_prototype",
+        "features": "1-2grams",
+        "version": 2
+      },
+      "entities": [
+        "അക്രമം",
+        "നിറഞ്ഞ്",
+        "സമൂഹം",
+        "ദൈവത്തോട്",
+        "പ്രാർഥിക്കുകയല്ലാതെ",
+        "മറ്റൊന്നും",
+        "ചെയ്യാനാകാത്ത",
+        "അവസ്ഥ",
+        "ശിവസേനയുടെ",
+        "ഗണേശോത്സവത്തിൽ",
+        "ദിവാകരൻ",
+        "Mathrubhumi"
+      ],
+      "source_reliability": 1.0,
+      "feedback_boost": 0.25,
+      "personal_model_score": 0.0,
+      "personal_score": 4.25,
+      "article_content_available": false,
+      "article_content_length": 0,
+      "summary_source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZVVkejZGdjNsREU5a0Y3NDhkdWRxbjBQLUJJbnp6NmM0YlFtVVUxZ2ZyTHI5amtLd2h4RGlFWFRjZG05UnEwZFBFZHkxS0pBaDZaUkhHUWNUYlJ0RXhiU2NhUTBwTWtTMWdxN1FnZjRZaGRJMU9icy10eG1mRnRkOXNiYi0zWHR0cWFsYmQtQkpob2VBc3c5WkEyZEtFbHZNTFHSAacBQVVfeXFMTXRka2NjLW55bmxxclJYVTdROWplNGlMMHE2ZW5CSi1mZzlLcDFHT2Zkd2JBa1l6WHk5U1k0RUtudEFWVlA1WllvRVFwYU96Y2g4YURsbG4yUVF4bktzZUs0QS03cC1GejhyLU5PLU5YcU00YURXNkhBUEtsckNiZmgtMDRFdmFNZkdZSkhtTl96b1NNTkxxeE1ybjJrb3NPaVVWbnZDTlE?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "summary_method": "rss_fallback"
     },
     {
       "id": "c6dacb09938c42db",
@@ -120,7 +176,7 @@
       "ai_category": "general",
       "ai_confidence": 0.99,
       "ai_importance": 4,
-      "ai_novelty": 0.9537,
+      "ai_novelty": 0.9466,
       "ai": {
         "method": "tfidf_cosine_prototype",
         "features": "1-2grams",
@@ -138,7 +194,11 @@
       "source_reliability": 1.0,
       "feedback_boost": 0.25,
       "personal_model_score": 0.0,
-      "personal_score": 4.25
+      "personal_score": 4.25,
+      "article_content_available": false,
+      "article_content_length": 0,
+      "summary_source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQktqMnFVelcxbG5GanlSdmh2a0tWUzM0c25DOUdtbkp4ODlwT1g4aTZma05RMERrTE96Q0J0UlcyRkRxZUxQazNxb3BWbjNyMjZWWVNqYTUtM2xOeXQwMTFKckl5YWN1NGJ0UnVjalhWdlVmTjZyS0ZvRnVLQnViTUtRdFRnZ2Z3YWdCNi1FWGMtWmZYTk56cjRMZTXSAaIBQVVfeXFMT0lRQlA2UTVURmRRZDBPeDNMZ0MwNXIyRlVOa0lvc2dXd0lsRElJUVhmZ0gyNXhqMnBFTGxOQmxFRDVlUnAwSXVjc1h1ZzhZYnN5ZHB5WmNaUE5NVFhTaHVha0VWaFBwczJBOVQ4Nll3Vlk0WTdSSVhzeGZ0NnlabExLcXkteGUxRGNoWFMzdU9NaV9PZEtwcDR6MVRUZ2tpbktn?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "summary_method": "rss_fallback"
     },
     {
       "id": "da4b8cf4c5b37091",
@@ -154,7 +214,7 @@
       "ai_category": "general",
       "ai_confidence": 0.99,
       "ai_importance": 4,
-      "ai_novelty": 0.9221,
+      "ai_novelty": 0.9222,
       "ai": {
         "method": "tfidf_cosine_prototype",
         "features": "1-2grams",
@@ -177,7 +237,11 @@
       "source_reliability": 1.0,
       "feedback_boost": 0.25,
       "personal_model_score": 0.0,
-      "personal_score": 4.25
+      "personal_score": 4.25,
+      "article_content_available": false,
+      "article_content_length": 0,
+      "summary_source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOazVtS1BrU0xUaEFvWUFGWnF4Nkc5UmM2VVYwM3g3WFlNUUtZU3hyX25HQlktSVd4QUJOeXMweWRjUFdQNlR4VkFLeDdOZGZDWHBDZ2k0UkxYM0lvZTNMMmJ2azlrVjBWWmM4TVp0Rk1OOUs1Vl8tT3Y4Q19UY0Y2TlltNmdWVWE2LUY5U0I0a2pGNVRKcS1VclpsNWRZa0ZoQnMwUEZ6WGwyODU2eERwWGsyNHJsN05yOUHSAb8BQVVfeXFMTkZLcVpwbTA5OWJlT293MjJNMFJJdmRudEZ2V0tBMnkyQlZfX2xTT0JfUFpZa09PTHZfb050TncxZmtuMlpGcXBnV1poQWJTdDBuOHpLRGVCandDQjIzUlpicjFKMWE2SjU3NXhWY1BHRndQOGN4Q2lHUVBQMHpjcXMwTUhtU0lQT0RjQS1weERUNlliR21CWWZhNkxuRDFSZEFUbzBzbk1YVDlUcHg4dEJMWnY2cjVLcnJ2MndsX3c?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "summary_method": "rss_fallback"
     },
     {
       "id": "80d6a6c9f9355bde",
@@ -193,7 +257,7 @@
       "ai_category": "general",
       "ai_confidence": 0.99,
       "ai_importance": 4,
-      "ai_novelty": 0.9008,
+      "ai_novelty": 0.8995,
       "ai": {
         "method": "tfidf_cosine_prototype",
         "features": "1-2grams",
@@ -215,45 +279,11 @@
       "source_reliability": 1.0,
       "feedback_boost": 0.25,
       "personal_model_score": 0.0,
-      "personal_score": 4.25
-    },
-    {
-      "id": "63aa60ef60f5cf0d",
-      "title": "ബാബ് എൽ മാണ്ടെബിൽ പിടിമുറുക്കി ഹൂതികൾ; ഇന്ത്യയിലേക്കുള്ള ഊർജ വിതരണത്തിൽ തടസ്സമില്ലെന്ന് വിദേശകാര്യ മന്ത്രാലയം - Mathrubhumi",
-      "summary": "ബാബ് എൽ മാണ്ടെബിൽ പിടിമുറുക്കി ഹൂതികൾ; ഇന്ത്യയിലേക്കുള്ള ഊർജ വിതരണത്തിൽ തടസ്സമില്ലെന്ന് വിദേശകാര്യ മന്ത്രാലയം Mathrubhumi",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSk9BN056ZFlDS0dDaHF4cUtpODFLRFRDRjFYa283MTRFUWlhRWZzQW9aRFRMbDFWaGhtSXdyZjdEM25scU1mN3JlWUZvUER5X1lSSUx5NmQtcHJta01YS1hRRkw2WHBuaTlrSGNYc2tfM3EyZm1lTEZ2eEw0OGVvV3lzT2NBaldyZUVRR2lMRHVtZWpJSGVPLXpWVjZaUGRxTjdpaWszMF9jd9IBrwFBVV95cUxPelJqTmxrS2FqWUhTUWh5T3VFSFJaMENtbmMxaU9wY1ZpNi04NzNtVUJ6QnJWdnlrUWp1UExYRlRVUF8zTDZub0pfbVBZLXhuQmg3cGhyVmVCc2xyeFF3SGhab3ZjanBkaWczT1o3RlFTYldITTRfMTNTQmNhMUowYXJxMGZZdnY4ZmRvNllYcGs0QkpjNll4enpNOGoxM1p4U0VkaWhIWENDWUlwZmVF?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "source": "Mathrubhumi",
-      "feed": "India Malayalam News",
-      "published_at": "2026-09-15T14:57:12+00:00",
-      "category": "general",
-      "importance": 4,
-      "ai_category": "general",
-      "ai_confidence": 0.99,
-      "ai_importance": 4,
-      "ai_novelty": 0.8866,
-      "ai": {
-        "method": "tfidf_cosine_prototype",
-        "features": "1-2grams",
-        "version": 2
-      },
-      "entities": [
-        "ബാബ്",
-        "മാണ്ടെബിൽ",
-        "പിടിമുറുക്കി",
-        "ഹൂതികൾ",
-        "ഇന്ത്യയിലേക്കുള്ള",
-        "ഊർജ",
-        "വിതരണത്തിൽ",
-        "തടസ്സമില്ലെന്ന്",
-        "വിദേശകാര്യ",
-        "മന്ത്രാലയം",
-        "Mathrubhumi"
-      ],
-      "source_reliability": 1.0,
-      "feedback_boost": 0.25,
-      "personal_model_score": 0.0,
-      "personal_score": 4.25
+      "personal_score": 4.25,
+      "article_content_available": false,
+      "article_content_length": 0,
+      "summary_source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNX25ZRThoaWRPLVNMeFRwc2d5R08tOGg1anRPZzlRdmdJOGhzS1lQblBJS3A0WW9oWHVWMjZZM2lweDMwak83MGd2SS03WmFHNmJ0Tk1ESXJHU0J6aWhoZHJVRkx6dDZ3OHNleEdZVGg5RGlDOG9ERHpzbldjZ3J2UXdobTd2enhheHgwRG1NMlZ6LV8zdmN1bzRrenhOLWM5cDdpSUNoV1g2bFBTWEM0WHpsNDRjZHRwQWNORzl6b3RERzhB0gHKAUFVX3lxTFBWSTItMjNoOW5BWXY0MTVLa2Jwd0tCQVk0ZHBtbFdValFodGF4TTJtS3ZrRXNwTUQtMzZJUElRVGx5YnV5Q003RzU4MlY1dWtYLUFjQmZjLWNyNWFoTjQza2tSR0ROOHpHZEhrSmNFQkNaLUc1WjlCMFc4enVxMVF0UXUtQV9GNTlfS0xqNERUb1lpWmJPRUMxN2xXM1k2UzZTcThUWjlmaHFSMFdUa0xoUEQ3c3NGaG5MM0FvNE5DbHBYSmVDU3EtNkE?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "summary_method": "rss_fallback"
     },
     {
       "id": "9e7c767a0fa072cb",
@@ -269,7 +299,7 @@
       "ai_category": "general",
       "ai_confidence": 0.99,
       "ai_importance": 4,
-      "ai_novelty": 0.8644,
+      "ai_novelty": 0.8631,
       "ai": {
         "method": "tfidf_cosine_prototype",
         "features": "1-2grams",
@@ -292,7 +322,11 @@
       "source_reliability": 1.0,
       "feedback_boost": 0.25,
       "personal_model_score": 0.0,
-      "personal_score": 4.25
+      "personal_score": 4.25,
+      "article_content_available": false,
+      "article_content_length": 0,
+      "summary_source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOaEdIazdtcGlXd05ySTl5ZWNEVXV6YURYLUYyY09Fd1p4OG1NRzRFTUlKTXQ5NGJBMTd5WGpWR3h2eUdDcE5YbDBLTU5zQldvR19JV1poN3pNMVd4WHVsRHNaQWJUSW5HSmlRa3h3U2NHTFNYcmFTNGNSeHFFWEZ5VjF5YkppV3d0bDRYcFA4S1Y1UUtIWkdLY2M2S0kzajdNdlFtZVd30gGmAUFVX3lxTE5oR0hrN21waVd3TnJJOXllY0RVdXphRFgtRjJjT0V3Wng4bU1HNEVNSUpNdDk0YkExN3lYalZHeHZ5R0NwTlhsMEtNTnNCV29HX0lXWmg3ek0xV3hYdWxEc1pBYlRJbkdKaVFreHdTY0dMU1hyYVM0Y1J4cUVYRnlWMXliSmlXd3RsNFhwUDhLVjVRS0haR0tjYzZLSTNqN012UW1lV3c?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "summary_method": "rss_fallback"
     },
     {
       "id": "421eaf55d43795fa",
@@ -308,7 +342,7 @@
       "ai_category": "general",
       "ai_confidence": 0.99,
       "ai_importance": 4,
-      "ai_novelty": 0.8286,
+      "ai_novelty": 0.8235,
       "ai": {
         "method": "tfidf_cosine_prototype",
         "features": "1-2grams",
@@ -331,7 +365,11 @@
       "source_reliability": 1.0,
       "feedback_boost": 0.25,
       "personal_model_score": 0.0,
-      "personal_score": 4.25
+      "personal_score": 4.25,
+      "article_content_available": false,
+      "article_content_length": 0,
+      "summary_source_url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPN2Q4Ukl6a0JFRXZEdnZlajJJMTlvY3pUZ2lfZldHTmVkOXFISHRsLWRoWkZtRUVFYkhyRTB6SW5NNzZnRlJXckVwdGJJQ3ZrSFZPSVMzQlFDNHgzejNXb0RUODhpOHNNTEwxZjByUk45UXh4TmRMYTNnSmpybzl4NEh3U0dCLXpEOXFTQUNOMWdHLVVXSmh1U0JfbnRTYlBnVE9mQXo0YkFpOWNDd01mdUxGYUFEb25zQmx2LV93SS0zaDZOVjNCQzAtMDhRSlhpXzJaVUZRWG5SOEJ5Q3Y2RUFHYWhUdHcyS0ZnSGNaWdIB7wFBVV95cUxPN2Q4Ukl6a0JFRXZEdnZlajJJMTlvY3pUZ2lfZldHTmVkOXFISHRsLWRoWkZtRUVFYkhyRTB6SW5NNzZnRlJXckVwdGJJQ3ZrSFZPSVMzQlFDNHgzejNXb0RUODhpOHNNTEwxZjByUk45UXh4TmRMYTNnSmpybzl4NEh3U0dCLXpEOXFTQUNOMWdHLVVXSmh1U0JfbnRTYlBnVE9mQXo0YkFpOWNDd01mdUxGYUFEb25zQmx2LV93SS0zaDZOVjNCQzAtMDhRSlhpXzJaVUZRWG5SOEJ5Q3Y2RUFHYWhUdHcyS0ZnSGNaWQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "summary_method": "rss_fallback"
     },
     {
       "id": "50eea90842d64841",
@@ -370,7 +408,11 @@
       "source_reliability": 1.0,
       "feedback_boost": 0.25,
       "personal_model_score": 0.0,
-      "personal_score": 4.25
+      "personal_score": 4.25,
+      "article_content_available": false,
+      "article_content_length": 0,
+      "summary_source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNS2p3bWtBVTVVRnZKQVVPcXpWQmlHc2JuQ0tHNUxadkc5ZnBpX1kySXBmbVAyYndXa3Z2ZGgxOUNkUThwbk5Yc29fTkwwZ2FXcUx4NXY1ZGhGNG5qckg0a3JEcXJNaUxwMVYxZWFZa1EwVnI5ZnBpbGpxeUJsZU04NWZwcmNwQWh0ZHV6OEdnbEp4ZWg4SkxmckswSmluNzJLWWdhdjdpS0pXVWtDdm54NkxjQlVpX3JIbXZuaGxRXy1EU00yd0Y3SXkwY9IB0AFBVV95cUxOMHhiUU9jWkQ2TlRKOGI4NE9NX29pWEZsMEhTcmJNVWVRWlFqZFI2SVBHb1M4MUlfYlV1RUljMzBOYTcyNk05bld3ZkRmZVpST2dpM2p4emxyN1B2ak84aUQ0cDlaYU1CU0wwZHl2VjNYb1B2N0NPcE9YVXRKTTRaT1A1MlV5Wlk3a2ZwVkNweDNYLXdTTXlnTjZTbnZpa2hkdzJBdkVTaENrQnFMaTg5VGU3dVhYa1dMQ29MUmlKeHozVmlyaGRidWJOQ3FLN3Ru?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "summary_method": "rss_fallback"
     },
     {
       "id": "9684a076f8996f51",
@@ -406,7 +448,11 @@
       "source_reliability": 1.0,
       "feedback_boost": 0.25,
       "personal_model_score": 0.0,
-      "personal_score": 4.25
+      "personal_score": 4.25,
+      "article_content_available": false,
+      "article_content_length": 0,
+      "summary_source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNV29MZ2x2eGU3Z1BpT2VpZFotaTQ0QkZocjlwUUhzMVVSblowdU9BbFpMZldKTm5vUm1MUk13b3EtbTExa1VsZVRJY3V3Z3BuUHQ3MmE4ME9EcGI3WVRMUVk4dnIwb3hHVWZuSzRibG10VXdaWkRkQTZuNVlzMzFjZGk4cVRYblFnTW1hUERVd1poVEUxS1FGU2lHUU03UDDSAaQBQVVfeXFMT1NueVN6QzN3YzJDZG5nb1QwOTU0UHZiMTVUcUZhTHBBVzJZMjNhcFA5NnBSdkx1OGY3dWNROElQbUpsUXlsSWN3N2xDb1EtQ3VfX3lwdkE2WkVHZjN5NThTX0NCdHdjYnVLZ2VkYXRidHozTVNiZXhDTzNRZGhCa2dZcURXUjBOWGVWZ2FPQmNidk1fdEx0cEFwcElKY21WX09GOHY?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "summary_method": "rss_fallback"
     },
     {
       "id": "112440c7c872ee3b",
@@ -422,7 +468,7 @@
       "ai_category": "general",
       "ai_confidence": 0.99,
       "ai_importance": 4,
-      "ai_novelty": 0.6706,
+      "ai_novelty": 0.6825,
       "ai": {
         "method": "tfidf_cosine_prototype",
         "features": "1-2grams",
@@ -445,234 +491,11 @@
       "source_reliability": 1.0,
       "feedback_boost": 0.25,
       "personal_model_score": 0.0,
-      "personal_score": 4.25
-    },
-    {
-      "id": "8e25ce83bc46154d",
-      "title": "'ഇമ്രാൻ ഖാൻ മരിക്കും, ജയിലിൽ മികച്ച പരിഗണന ഉറപ്പാക്കണം', സർക്കാരിന് കത്തയച്ച് മുൻ ഓസ്ട്രേലിയൻ ക്യാപ്ടന്മാർ - Kerala Kaumudi",
-      "summary": "'ഇമ്രാൻ ഖാൻ മരിക്കും, ജയിലിൽ മികച്ച പരിഗണന ഉറപ്പാക്കണം', സർക്കാരിന് കത്തയച്ച് മുൻ ഓസ്ട്രേലിയൻ ക്യാപ്ടന്മാർ Kerala Kaumudi",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNSkROSWUtUGgycVpIbWxzMnFRRGFaU1hxalZoSFA5RDN5akFjUlVzVzhQOFRqUi03WFFIal8zdXlVZm9FdXpPZml2ZkE1dXc5cnQtaGtPVVhnZGFRWmNFZWxPWm51V3hCZFpwc0E0M1g0czMzRjc5bjE5cFlSTWdTbWZVenRiWVJ6SXJKaXVRRVZpUmR6MUNFNENZOTFvbC1mMGs4LTlEcUZoWkdRSFE0UmYxR2p4ajZ0S2p6X3hmM25Ja0FlLTFKNGhqaC1odmIzUzM4VXdR?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "source": "Kerala Kaumudi",
-      "feed": "World Malayalam News",
-      "published_at": "2026-09-15T17:00:28+00:00",
-      "category": "general",
-      "importance": 3,
-      "ai_category": "general",
-      "ai_confidence": 0.99,
-      "ai_importance": 3,
-      "ai_novelty": 0.9557,
-      "ai": {
-        "method": "tfidf_cosine_prototype",
-        "features": "1-2grams",
-        "version": 2
-      },
-      "entities": [
-        "ഇമ്രാൻ",
-        "ഖാൻ",
-        "മരിക്കും",
-        "ജയിലിൽ",
-        "മികച്ച",
-        "പരിഗണന",
-        "ഉറപ്പാക്കണം",
-        "സർക്കാരിന്",
-        "കത്തയച്ച്",
-        "മുൻ",
-        "ഓസ്ട്രേലിയൻ",
-        "ക്യാപ്ടന്മാർ"
-      ],
-      "source_reliability": 1.0,
-      "feedback_boost": 0.25,
-      "personal_model_score": 0.0,
-      "personal_score": 3.25
-    },
-    {
-      "id": "ac8d43b41bafe623",
-      "title": "ഏഴ് നവജാത ശിശുക്കളുടെ കൊലപാതകം: നഴ്‌സിന്റെ ക്രൂരതകൾ തടയാമായിരുന്നിട്ടും തടഞ്ഞില്ല; അന്വേഷണ റിപ്പോർട്ട് പുറത്ത് - Kerala Kaumudi",
-      "summary": "ഏഴ് നവജാത ശിശുക്കളുടെ കൊലപാതകം: നഴ്‌സിന്റെ ക്രൂരതകൾ തടയാമായിരുന്നിട്ടും തടഞ്ഞില്ല; അന്വേഷണ റിപ്പോർട്ട് പുറത്ത് Kerala Kaumudi",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWDFyOFFwX1NRaFNVbVh3Z3l3RG1oQTFXbTR0UnctM0pBUjlISTBhZE9VY29SSURkek5yVl9OdUdWZ2dCZmFUVktCV01FZFVTdDBTX1RCOXIwWWFfNm5hR2lHTVQzeW1HS0gtVmxuT1V5bHNTbzlMVVliczdDdGJIUzRNd0g2ZjRVb3RvUWpFQ09lWkpRSlVIMWVTMGM2S0F0X05tUldZbHFTOEJNd182YWpxVUJsQkU?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "source": "Kerala Kaumudi",
-      "feed": "World Malayalam News",
-      "published_at": "2026-09-15T15:02:52+00:00",
-      "category": "general",
-      "importance": 3,
-      "ai_category": "general",
-      "ai_confidence": 0.99,
-      "ai_importance": 3,
-      "ai_novelty": 0.9557,
-      "ai": {
-        "method": "tfidf_cosine_prototype",
-        "features": "1-2grams",
-        "version": 2
-      },
-      "entities": [
-        "ഏഴ്",
-        "നവജാത",
-        "ശിശുക്കളുടെ",
-        "കൊലപാതകം",
-        "നഴ്",
-        "സിന്റെ",
-        "ക്രൂരതകൾ",
-        "തടയാമായിരുന്നിട്ടും",
-        "തടഞ്ഞില്ല",
-        "അന്വേഷണ",
-        "റിപ്പോർട്ട്",
-        "പുറത്ത്"
-      ],
-      "source_reliability": 1.0,
-      "feedback_boost": 0.25,
-      "personal_model_score": 0.0,
-      "personal_score": 3.25
-    },
-    {
-      "id": "40df4cda63c802f9",
-      "title": "അഭിമന്യു കേസ് പ്രതികളുടെ അപേക്ഷ ഇന്ന് പരിഗണിക്കും - Kerala Kaumudi",
-      "summary": "അഭിമന്യു കേസ് പ്രതികളുടെ അപേക്ഷ ഇന്ന് പരിഗണിക്കും Kerala Kaumudi",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0xUHVWM2k1Z0phS2F4aDQ0OE9aejBGMlNQZ1hsc2J3MXdSWFQ3SDJ1eXhOamlsRm53ODlKdkdrTEtNU0V4bFpLVWNXaDJtZENvcGVJZjN4aU01dzBTNHVVLUtiQXNHU0JoUXc?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "source": "Kerala Kaumudi",
-      "feed": "Kerala Malayalam News",
-      "published_at": "2026-09-15T20:31:38+00:00",
-      "category": "general",
-      "importance": 3,
-      "ai_category": "general",
-      "ai_confidence": 0.99,
-      "ai_importance": 3,
-      "ai_novelty": 0.9379,
-      "ai": {
-        "method": "tfidf_cosine_prototype",
-        "features": "1-2grams",
-        "version": 2
-      },
-      "entities": [
-        "അഭിമന്യു",
-        "കേസ്",
-        "പ്രതികളുടെ",
-        "അപേക്ഷ",
-        "ഇന്ന്",
-        "പരിഗണിക്കും",
-        "Kerala Kaumudi"
-      ],
-      "source_reliability": 1.0,
-      "feedback_boost": 0.25,
-      "personal_model_score": 0.0,
-      "personal_score": 3.25
-    },
-    {
-      "id": "ddc20b1110a1ee8e",
-      "title": "ഹൂതി ആക്രമണം; പാകിസ്ഥാൻ സഹായിക്കാൻ വിസമ്മതിച്ചതിനെ തുടർന്ന് സൗദി അറേബ്യ ഇസ്രായേലിന്റെ സഹായം തേടി - News18 Malayalam",
-      "summary": "ഹൂതി ആക്രമണം; പാകിസ്ഥാൻ സഹായിക്കാൻ വിസമ്മതിച്ചതിനെ തുടർന്ന് സൗദി അറേബ്യ ഇസ്രായേലിന്റെ സഹായം തേടി News18 Malayalam",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNa0tER3JRWHA3ZzZCSnpLYUNuYkhWbldNcHFhbDhwQks0NnFzLUxVc2tlVk5SNEJQQy1tYzNoZGtwMjUyUjZyaEk2Q0F0ekZuUUFrOFRGR0xiMlQ5U0lnZUU2R2VMOHhxaHNxNmdwcEhacDlFLVItTnFzcEFBSWRTc0Rsa3NwbThHT0xZdjlNZ2hKbWM3c2xXTmdzVlZ6U3hfQUFnLUI1MFlBb2VuRFRLQlFhakl0QWx6RXJDZGlXTmhJV0xyZ1VhcUNTcE43YzN2NThqbnNsS2JFS2JCVjZnaHh3ZVhBWnU0SjlLaTlTMl9nMWs?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "source": "News18 Malayalam",
-      "feed": "World Malayalam News",
-      "published_at": "2026-09-15T13:20:33+00:00",
-      "category": "general",
-      "importance": 3,
-      "ai_category": "general",
-      "ai_confidence": 0.99,
-      "ai_importance": 3,
-      "ai_novelty": 0.9158,
-      "ai": {
-        "method": "tfidf_cosine_prototype",
-        "features": "1-2grams",
-        "version": 2
-      },
-      "entities": [
-        "ഹൂതി",
-        "ആക്രമണം",
-        "പാകിസ്ഥാൻ",
-        "സഹായിക്കാൻ",
-        "വിസമ്മതിച്ചതിനെ",
-        "തുടർന്ന്",
-        "സൗദി",
-        "അറേബ്യ",
-        "ഇസ്രായേലിന്റെ",
-        "സഹായം",
-        "തേടി",
-        "News18 Malayalam"
-      ],
-      "source_reliability": 1.0,
-      "feedback_boost": 0.25,
-      "personal_model_score": 0.0,
-      "personal_score": 3.25
-    },
-    {
-      "id": "62c206068bd254c0",
-      "title": "'ബാബ് അൽ മൻദബ് കൂടി അടച്ചാൽ താങ്ങാനാവില്ല'; സമുദ്രപാതകൾ സുരക്ഷിതമാക്കാൻ ലോകം ഒന്നിക്കണമെന്ന് ഖത്തർ - Asianet News Malayalam",
-      "summary": "'ബാബ് അൽ മൻദബ് കൂടി അടച്ചാൽ താങ്ങാനാവില്ല'; സമുദ്രപാതകൾ സുരക്ഷിതമാക്കാൻ ലോകം ഒന്നിക്കണമെന്ന് ഖത്തർ Asianet News Malayalam",
-      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQN0FUU2lVaGpVTV9vVjdXTmFXNm9OcVVrZWl5ZFlIQ1JPLU5BQTRtSndqa1FJMmlnZmVDNzdmLWF1aTIwS1BmZ0RabmZhajVoUllXUFRXY1VHVDRTMHNrMnl2cGJCWGZVTXJ0czMxb2tFY2ZqZldsaFNQOFk5RkliNktRU1d1SjJvZUhSdUUzZ3UzVGJKRVhLeTdRaHJwR0dFanRwR1JDcU5pcWNweXNoLXNyYkFPNFNUZlZfQm9CV1hEQzh2M0FJaHgwcHVncWRNWGtTRndENkkxd1doYXdfNEU5SEJYdmhfYV9JNDZnYUl4VmFrU1JNd01ydFZRYzhpMzAyckNR0gGLAkFVX3lxTE1JNkJaaGc4cDZoRVFUdDAyYzVnVWtfNDQwTG1SaGJuOXliMmJJVWNMMm96cWtsV0hKOE5SSGt4YktOZEUxSVVYeEJGUXRDZmRGMGhra29hM3haUjR5VFhGNlBFRmUwSEJhU3JUcFUwUmVwdjJINU5RRmVpNnFNUFl5bmZQbXlSQUtkOHVLVUs3Y1VraTB5TFRKQ2swb29WZDFZVUdiRFhQMnJxRlJJQ01RVzdmWWFIbWFBdW9Hc194bFZhX0Z3WE4tU3VKQjR6a3IwY2tISUxFS2NDcFluV29CT1FLZUc4YmFJX3l4dUZ3azNsRHBxZDR3eldtaGNucDRPTUNHUHFMdEliTQ?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "source": "Asianet News Malayalam",
-      "feed": "World Malayalam News",
-      "published_at": "2026-09-15T23:04:26+00:00",
-      "category": "general",
-      "importance": 3,
-      "ai_category": "general",
-      "ai_confidence": 0.99,
-      "ai_importance": 3,
-      "ai_novelty": 0.9078,
-      "ai": {
-        "method": "tfidf_cosine_prototype",
-        "features": "1-2grams",
-        "version": 2
-      },
-      "entities": [
-        "ബാബ്",
-        "മൻദബ്",
-        "കൂടി",
-        "അടച്ചാൽ",
-        "താങ്ങാനാവില്ല",
-        "സമുദ്രപാതകൾ",
-        "സുരക്ഷിതമാക്കാൻ",
-        "ലോകം",
-        "ഒന്നിക്കണമെന്ന്",
-        "ഖത്തർ",
-        "Asianet News Malayalam"
-      ],
-      "source_reliability": 1.0,
-      "feedback_boost": 0.25,
-      "personal_model_score": 0.0,
-      "personal_score": 3.25
-    },
-    {
-      "id": "81246b06320b8470",
-      "title": "ഇന്ത്യ ട്രോഫി വാങ്ങില്ലെന്ന് മൊഹ്‍സിൻ നഖ്‍വിക്ക് അറിയാമായിരുന്നു; എതിർത്തില്ലെന്ന് വെളിപ്പെടുത്തൽ - Manorama Online",
-      "summary": "ഇന്ത്യ ട്രോഫി വാങ്ങില്ലെന്ന് മൊഹ്‍സിൻ നഖ്‍വിക്ക് അറിയാമായിരുന്നു; എതിർത്തില്ലെന്ന് വെളിപ്പെടുത്തൽ Manorama Online",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONmJFQ21keUY1dHlXY21Nb3Z2YTVpQ1J4cEFDSmxubjA1T011RjBDQm5RVlVFTFRDdzFfbjN6X1haUkY2aERIcl83amxwX09LSC1aV0ZEZmZmLUJVMHNZVFZyLUxucjZlUTNXY2IxWmVaRzg1ZTRDRlY3SlVfRVdmY3N1cElvbmczX1U4MkpWQV9XVkhKSFlfRk5pampmWVhqdFh5S09iYkU4blRDNXFsRGdsTGc4QdIBuwFBVV95cUxQblViSDh4WVI2T3ltdUhwdXUtaEJZaWJrZV9vc25VaFdOdm1RRXR6TTZhY095cnNILUxPZzctYUd0elBER0htdWNsejhlMzQ1eWZfY0FubkV3R0IwaGpucnk3eHBqQUdrN1gwclQzRWhxTGNyZ2c2emE4a1N2LWVRSWZMZmRRMEFaYU1DNjQtRlpmWmg2eTVPQXRkeV9pX0lrUzc3VWRkeWFMSDhIbS1ZeGhYOHpzeldISm1n?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "source": "Manorama Online",
-      "feed": "India Malayalam News",
-      "published_at": "2026-09-15T12:59:53+00:00",
-      "category": "general",
-      "importance": 3,
-      "ai_category": "general",
-      "ai_confidence": 0.99,
-      "ai_importance": 3,
-      "ai_novelty": 0.9008,
-      "ai": {
-        "method": "tfidf_cosine_prototype",
-        "features": "1-2grams",
-        "version": 2
-      },
-      "entities": [
-        "ഇന്ത്യ",
-        "ട്രോഫി",
-        "വാങ്ങില്ലെന്ന്",
-        "മൊഹ്",
-        "സിൻ",
-        "നഖ്",
-        "വിക്ക്",
-        "അറിയാമായിരുന്നു",
-        "എതിർത്തില്ലെന്ന്",
-        "വെളിപ്പെടുത്തൽ",
-        "Manorama Online"
-      ],
-      "source_reliability": 1.0,
-      "feedback_boost": 0.25,
-      "personal_model_score": 0.0,
-      "personal_score": 3.25
+      "personal_score": 4.25,
+      "article_content_available": false,
+      "article_content_length": 0,
+      "summary_source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOY2hZdHE2VWZKSC0wQ2dlQzZBODUtZF9nTHlLbXE4bkEyZ3lXaUVlaEF1VUxzNlpRZVdqdTcxSGFEZFJDdWtsQ0R0MmNiNHV2RDA4ZVdpMHFEcG4zdkFrVURzZ3pUbVo2QzduSW1fWnEzWDBUZmtyMkw3X3JfMFFCOEtZRWFHWlZmSlJDVmMxUmJFM3FobE040gGcAUFVX3lxTE8way1TRU53cU5oNmVYWWVKOUVDYjVLRm9ick1abl84QXp2YkptUzZHckdNT3Q5N1M5S2EwWGFrcmtmYmR2bTNVbnY4dDdDM050ZTlYM3kzNm1wTEhDMDc3U0s5d19POEktaHdMMlRPWVFfVXZXZlZ0alVnWnV3Y18yMElhckVmcGl1NGZrQUhXNGxvcllxaE5KeGQ2WQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "summary_method": "rss_fallback"
     },
     {
       "id": "39fde21d8c84b28e",
@@ -688,7 +511,7 @@
       "ai_category": "general",
       "ai_confidence": 0.99,
       "ai_importance": 3,
-      "ai_novelty": 0.9003,
+      "ai_novelty": 0.9788,
       "ai": {
         "method": "tfidf_cosine_prototype",
         "features": "1-2grams",
@@ -711,7 +534,300 @@
       "source_reliability": 1.0,
       "feedback_boost": 0.25,
       "personal_model_score": 0.0,
-      "personal_score": 3.25
+      "personal_score": 3.25,
+      "article_content_available": false,
+      "article_content_length": 0,
+      "summary_source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBwNlFlZjgyMXdDLV9SeEcxZ3RMdjNrVmRPLU9abXBqZ3N4N2JzMnlNR25XYWcxVlotcEd6Y24xdG1uSzN0UFVYOVk3YTFCWVdPWGNVQTREZlRsRW9OZkFUY0c0eDI4RVdneXJ5dTNvZ3lGTFA3Q2hvb0Jkdw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "summary_method": "rss_fallback"
+    },
+    {
+      "id": "68a750e9f7e6e08e",
+      "title": "റിപ്പോർട്ടർ ന്യൂസ് ഡെസ്‌കിൽ പൊലീസ് ഗുണ്ടായിസം; മാധ്യമപ്രവര്‍ത്തകരുടെ മൊബൈൽ ഫോൺ പിടിച്ചുവെച്ചു - reporterlive.com",
+      "summary": "റിപ്പോർട്ടർ ന്യൂസ് ഡെസ്‌കിൽ പൊലീസ് ഗുണ്ടായിസം; മാധ്യമപ്രവര്‍ത്തകരുടെ മൊബൈൽ ഫോൺ പിടിച്ചുവെച്ചു reporterlive.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRlR6UzB4NzNFVzY5LUZ4QVlSWENQOUdNeG1SVmZtMUNkblJjakJSNmZvWXNDa01fYXBtQmNMR3VCTWlfb29TSnc3YWV3aWZkdm9zSkt4Tl9PNHVVMXFMRHdQcWRMNDY3MEpCNHZGVjBZc2Z5UU9QdXlBdE4xREdIYlgxZzBmd1hYQmNITGRaNnZhMUQyQVlodVdobkp3Z1hwMkUwVzZFZjZ6VldGVERJMEFfSdIBuAFBVV95cUxNUEJEUXhFWWtERllkaWlpZ0JTOHROcWVVMkloNEpDYnVXcTVWZ2E0aHZmeTR4ZzBlQjM3WG1ONEh6Qi1BTndRY0U1ZzRoRnA3RmFrTk1xQXo3RjRhWU1Fck1qLWEwdUQ3TElTTXRvNTk4SFRydzMwNDRiMjhINlpxM1RLRlczYTBKdmpCUW5aNmVVLVVGVlppdGY3cU9waENQLVhsajFleGUtR2FwMGlGLS1hY2R1UWo1?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "source": "reporterlive.com",
+      "feed": "Kerala Malayalam News",
+      "published_at": "2026-09-16T01:12:36+00:00",
+      "category": "general",
+      "importance": 3,
+      "ai_category": "general",
+      "ai_confidence": 0.99,
+      "ai_importance": 3,
+      "ai_novelty": 0.9607,
+      "ai": {
+        "method": "tfidf_cosine_prototype",
+        "features": "1-2grams",
+        "version": 2
+      },
+      "entities": [
+        "റിപ്പോർട്ടർ",
+        "ന്യൂസ്",
+        "ഡെസ്",
+        "കിൽ",
+        "പൊലീസ്",
+        "ഗുണ്ടായിസം",
+        "മാധ്യമപ്രവര്",
+        "ത്തകരുടെ",
+        "മൊബൈൽ",
+        "ഫോൺ",
+        "പിടിച്ചുവെച്ചു"
+      ],
+      "source_reliability": 1.0,
+      "feedback_boost": 0.25,
+      "personal_model_score": 0.0,
+      "personal_score": 3.25,
+      "article_content_available": false,
+      "article_content_length": 0,
+      "summary_source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRlR6UzB4NzNFVzY5LUZ4QVlSWENQOUdNeG1SVmZtMUNkblJjakJSNmZvWXNDa01fYXBtQmNMR3VCTWlfb29TSnc3YWV3aWZkdm9zSkt4Tl9PNHVVMXFMRHdQcWRMNDY3MEpCNHZGVjBZc2Z5UU9QdXlBdE4xREdIYlgxZzBmd1hYQmNITGRaNnZhMUQyQVlodVdobkp3Z1hwMkUwVzZFZjZ6VldGVERJMEFfSdIBuAFBVV95cUxNUEJEUXhFWWtERllkaWlpZ0JTOHROcWVVMkloNEpDYnVXcTVWZ2E0aHZmeTR4ZzBlQjM3WG1ONEh6Qi1BTndRY0U1ZzRoRnA3RmFrTk1xQXo3RjRhWU1Fck1qLWEwdUQ3TElTTXRvNTk4SFRydzMwNDRiMjhINlpxM1RLRlczYTBKdmpCUW5aNmVVLVVGVlppdGY3cU9waENQLVhsajFleGUtR2FwMGlGLS1hY2R1UWo1?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "summary_method": "rss_fallback"
+    },
+    {
+      "id": "8e25ce83bc46154d",
+      "title": "'ഇമ്രാൻ ഖാൻ മരിക്കും, ജയിലിൽ മികച്ച പരിഗണന ഉറപ്പാക്കണം', സർക്കാരിന് കത്തയച്ച് മുൻ ഓസ്ട്രേലിയൻ ക്യാപ്ടന്മാർ - Kerala Kaumudi",
+      "summary": "'ഇമ്രാൻ ഖാൻ മരിക്കും, ജയിലിൽ മികച്ച പരിഗണന ഉറപ്പാക്കണം', സർക്കാരിന് കത്തയച്ച് മുൻ ഓസ്ട്രേലിയൻ ക്യാപ്ടന്മാർ Kerala Kaumudi",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNSkROSWUtUGgycVpIbWxzMnFRRGFaU1hxalZoSFA5RDN5akFjUlVzVzhQOFRqUi03WFFIal8zdXlVZm9FdXpPZml2ZkE1dXc5cnQtaGtPVVhnZGFRWmNFZWxPWm51V3hCZFpwc0E0M1g0czMzRjc5bjE5cFlSTWdTbWZVenRiWVJ6SXJKaXVRRVZpUmR6MUNFNENZOTFvbC1mMGs4LTlEcUZoWkdRSFE0UmYxR2p4ajZ0S2p6X3hmM25Ja0FlLTFKNGhqaC1odmIzUzM4VXdR?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "source": "Kerala Kaumudi",
+      "feed": "World Malayalam News",
+      "published_at": "2026-09-15T17:00:28+00:00",
+      "category": "general",
+      "importance": 3,
+      "ai_category": "general",
+      "ai_confidence": 0.99,
+      "ai_importance": 3,
+      "ai_novelty": 0.9582,
+      "ai": {
+        "method": "tfidf_cosine_prototype",
+        "features": "1-2grams",
+        "version": 2
+      },
+      "entities": [
+        "ഇമ്രാൻ",
+        "ഖാൻ",
+        "മരിക്കും",
+        "ജയിലിൽ",
+        "മികച്ച",
+        "പരിഗണന",
+        "ഉറപ്പാക്കണം",
+        "സർക്കാരിന്",
+        "കത്തയച്ച്",
+        "മുൻ",
+        "ഓസ്ട്രേലിയൻ",
+        "ക്യാപ്ടന്മാർ"
+      ],
+      "source_reliability": 1.0,
+      "feedback_boost": 0.25,
+      "personal_model_score": 0.0,
+      "personal_score": 3.25,
+      "article_content_available": false,
+      "article_content_length": 0,
+      "summary_source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNSkROSWUtUGgycVpIbWxzMnFRRGFaU1hxalZoSFA5RDN5akFjUlVzVzhQOFRqUi03WFFIal8zdXlVZm9FdXpPZml2ZkE1dXc5cnQtaGtPVVhnZGFRWmNFZWxPWm51V3hCZFpwc0E0M1g0czMzRjc5bjE5cFlSTWdTbWZVenRiWVJ6SXJKaXVRRVZpUmR6MUNFNENZOTFvbC1mMGs4LTlEcUZoWkdRSFE0UmYxR2p4ajZ0S2p6X3hmM25Ja0FlLTFKNGhqaC1odmIzUzM4VXdR?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "summary_method": "rss_fallback"
+    },
+    {
+      "id": "ac8d43b41bafe623",
+      "title": "ഏഴ് നവജാത ശിശുക്കളുടെ കൊലപാതകം: നഴ്‌സിന്റെ ക്രൂരതകൾ തടയാമായിരുന്നിട്ടും തടഞ്ഞില്ല; അന്വേഷണ റിപ്പോർട്ട് പുറത്ത് - Kerala Kaumudi",
+      "summary": "ഏഴ് നവജാത ശിശുക്കളുടെ കൊലപാതകം: നഴ്‌സിന്റെ ക്രൂരതകൾ തടയാമായിരുന്നിട്ടും തടഞ്ഞില്ല; അന്വേഷണ റിപ്പോർട്ട് പുറത്ത് Kerala Kaumudi",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWDFyOFFwX1NRaFNVbVh3Z3l3RG1oQTFXbTR0UnctM0pBUjlISTBhZE9VY29SSURkek5yVl9OdUdWZ2dCZmFUVktCV01FZFVTdDBTX1RCOXIwWWFfNm5hR2lHTVQzeW1HS0gtVmxuT1V5bHNTbzlMVVliczdDdGJIUzRNd0g2ZjRVb3RvUWpFQ09lWkpRSlVIMWVTMGM2S0F0X05tUldZbHFTOEJNd182YWpxVUJsQkU?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "source": "Kerala Kaumudi",
+      "feed": "World Malayalam News",
+      "published_at": "2026-09-15T15:02:52+00:00",
+      "category": "general",
+      "importance": 3,
+      "ai_category": "general",
+      "ai_confidence": 0.99,
+      "ai_importance": 3,
+      "ai_novelty": 0.9582,
+      "ai": {
+        "method": "tfidf_cosine_prototype",
+        "features": "1-2grams",
+        "version": 2
+      },
+      "entities": [
+        "ഏഴ്",
+        "നവജാത",
+        "ശിശുക്കളുടെ",
+        "കൊലപാതകം",
+        "നഴ്",
+        "സിന്റെ",
+        "ക്രൂരതകൾ",
+        "തടയാമായിരുന്നിട്ടും",
+        "തടഞ്ഞില്ല",
+        "അന്വേഷണ",
+        "റിപ്പോർട്ട്",
+        "പുറത്ത്"
+      ],
+      "source_reliability": 1.0,
+      "feedback_boost": 0.25,
+      "personal_model_score": 0.0,
+      "personal_score": 3.25,
+      "article_content_available": false,
+      "article_content_length": 0,
+      "summary_source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWDFyOFFwX1NRaFNVbVh3Z3l3RG1oQTFXbTR0UnctM0pBUjlISTBhZE9VY29SSURkek5yVl9OdUdWZ2dCZmFUVktCV01FZFVTdDBTX1RCOXIwWWFfNm5hR2lHTVQzeW1HS0gtVmxuT1V5bHNTbzlMVVliczdDdGJIUzRNd0g2ZjRVb3RvUWpFQ09lWkpRSlVIMWVTMGM2S0F0X05tUldZbHFTOEJNd182YWpxVUJsQkU?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "summary_method": "rss_fallback"
+    },
+    {
+      "id": "40df4cda63c802f9",
+      "title": "അഭിമന്യു കേസ് പ്രതികളുടെ അപേക്ഷ ഇന്ന് പരിഗണിക്കും - Kerala Kaumudi",
+      "summary": "അഭിമന്യു കേസ് പ്രതികളുടെ അപേക്ഷ ഇന്ന് പരിഗണിക്കും Kerala Kaumudi",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0xUHVWM2k1Z0phS2F4aDQ0OE9aejBGMlNQZ1hsc2J3MXdSWFQ3SDJ1eXhOamlsRm53ODlKdkdrTEtNU0V4bFpLVWNXaDJtZENvcGVJZjN4aU01dzBTNHVVLUtiQXNHU0JoUXc?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "source": "Kerala Kaumudi",
+      "feed": "Kerala Malayalam News",
+      "published_at": "2026-09-15T20:31:38+00:00",
+      "category": "general",
+      "importance": 3,
+      "ai_category": "general",
+      "ai_confidence": 0.99,
+      "ai_importance": 3,
+      "ai_novelty": 0.9454,
+      "ai": {
+        "method": "tfidf_cosine_prototype",
+        "features": "1-2grams",
+        "version": 2
+      },
+      "entities": [
+        "അഭിമന്യു",
+        "കേസ്",
+        "പ്രതികളുടെ",
+        "അപേക്ഷ",
+        "ഇന്ന്",
+        "പരിഗണിക്കും",
+        "Kerala Kaumudi"
+      ],
+      "source_reliability": 1.0,
+      "feedback_boost": 0.25,
+      "personal_model_score": 0.0,
+      "personal_score": 3.25,
+      "article_content_available": false,
+      "article_content_length": 0,
+      "summary_source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0xUHVWM2k1Z0phS2F4aDQ0OE9aejBGMlNQZ1hsc2J3MXdSWFQ3SDJ1eXhOamlsRm53ODlKdkdrTEtNU0V4bFpLVWNXaDJtZENvcGVJZjN4aU01dzBTNHVVLUtiQXNHU0JoUXc?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "summary_method": "rss_fallback"
+    },
+    {
+      "id": "4d28469bf031ecff",
+      "title": "മെസ്സിയുടെ പേരില്‍ തട്ടിപ്പ്; സ്പോൺസറുടെ വീടുകളിലും ഓഫിസുകളിലും റെയ്ഡ് - News18 Malayalam",
+      "summary": "മെസ്സിയുടെ പേരില്‍ തട്ടിപ്പ്; സ്പോൺസറുടെ വീടുകളിലും ഓഫിസുകളിലും റെയ്ഡ് News18 Malayalam",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNSHdoVThiaHdhY19MVjNpV1QxeUJzY3ZGSGh3T1A1a1JIU2F4cUJPSUFPR2pZd3ZvQm9iZW9NVm5DT0VnOWtkQWc4dUUxOXF2SlE0R2VfcmMtSDhrOW1YbFM4bXdPaEJQVzJvSS1nZ1VhLXVGcGl3RHFHTjZvRUhoZDc4N0VDV3hCSFlDa0NqUVMya0ZITlV4LWNqVTlJeDJlYjNMa3cxUjJ0RVJIMmJ0ZTQtXzZXcUktTVllTXVNd2lTZVEzLXhNeTFLbDM?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "source": "News18 Malayalam",
+      "feed": "Kerala Malayalam News",
+      "published_at": "2026-09-16T01:36:05+00:00",
+      "category": "general",
+      "importance": 3,
+      "ai_category": "general",
+      "ai_confidence": 0.99,
+      "ai_importance": 3,
+      "ai_novelty": 0.921,
+      "ai": {
+        "method": "tfidf_cosine_prototype",
+        "features": "1-2grams",
+        "version": 2
+      },
+      "entities": [
+        "മെസ്സിയുടെ",
+        "പേരില്",
+        "തട്ടിപ്പ്",
+        "സ്പോൺസറുടെ",
+        "വീടുകളിലും",
+        "ഓഫിസുകളിലും",
+        "റെയ്ഡ്",
+        "News18 Malayalam"
+      ],
+      "source_reliability": 1.0,
+      "feedback_boost": 0.25,
+      "personal_model_score": 0.0,
+      "personal_score": 3.25,
+      "article_content_available": false,
+      "article_content_length": 0,
+      "summary_source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNSHdoVThiaHdhY19MVjNpV1QxeUJzY3ZGSGh3T1A1a1JIU2F4cUJPSUFPR2pZd3ZvQm9iZW9NVm5DT0VnOWtkQWc4dUUxOXF2SlE0R2VfcmMtSDhrOW1YbFM4bXdPaEJQVzJvSS1nZ1VhLXVGcGl3RHFHTjZvRUhoZDc4N0VDV3hCSFlDa0NqUVMya0ZITlV4LWNqVTlJeDJlYjNMa3cxUjJ0RVJIMmJ0ZTQtXzZXcUktTVllTXVNd2lTZVEzLXhNeTFLbDM?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "summary_method": "rss_fallback"
+    },
+    {
+      "id": "81246b06320b8470",
+      "title": "ഇന്ത്യ ട്രോഫി വാങ്ങില്ലെന്ന് മൊഹ്‍സിൻ നഖ്‍വിക്ക് അറിയാമായിരുന്നു; എതിർത്തില്ലെന്ന് വെളിപ്പെടുത്തൽ - Manorama Online",
+      "summary": "ഇന്ത്യ ട്രോഫി വാങ്ങില്ലെന്ന് മൊഹ്‍സിൻ നഖ്‍വിക്ക് അറിയാമായിരുന്നു; എതിർത്തില്ലെന്ന് വെളിപ്പെടുത്തൽ Manorama Online",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONmJFQ21keUY1dHlXY21Nb3Z2YTVpQ1J4cEFDSmxubjA1T011RjBDQm5RVlVFTFRDdzFfbjN6X1haUkY2aERIcl83amxwX09LSC1aV0ZEZmZmLUJVMHNZVFZyLUxucjZlUTNXY2IxWmVaRzg1ZTRDRlY3SlVfRVdmY3N1cElvbmczX1U4MkpWQV9XVkhKSFlfRk5pampmWVhqdFh5S09iYkU4blRDNXFsRGdsTGc4QdIBuwFBVV95cUxQblViSDh4WVI2T3ltdUhwdXUtaEJZaWJrZV9vc25VaFdOdm1RRXR6TTZhY095cnNILUxPZzctYUd0elBER0htdWNsejhlMzQ1eWZfY0FubkV3R0IwaGpucnk3eHBqQUdrN1gwclQzRWhxTGNyZ2c2emE4a1N2LWVRSWZMZmRRMEFaYU1DNjQtRlpmWmg2eTVPQXRkeV9pX0lrUzc3VWRkeWFMSDhIbS1ZeGhYOHpzeldISm1n?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "source": "Manorama Online",
+      "feed": "India Malayalam News",
+      "published_at": "2026-09-15T12:59:53+00:00",
+      "category": "general",
+      "importance": 3,
+      "ai_category": "general",
+      "ai_confidence": 0.99,
+      "ai_importance": 3,
+      "ai_novelty": 0.8995,
+      "ai": {
+        "method": "tfidf_cosine_prototype",
+        "features": "1-2grams",
+        "version": 2
+      },
+      "entities": [
+        "ഇന്ത്യ",
+        "ട്രോഫി",
+        "വാങ്ങില്ലെന്ന്",
+        "മൊഹ്",
+        "സിൻ",
+        "നഖ്",
+        "വിക്ക്",
+        "അറിയാമായിരുന്നു",
+        "എതിർത്തില്ലെന്ന്",
+        "വെളിപ്പെടുത്തൽ",
+        "Manorama Online"
+      ],
+      "source_reliability": 1.0,
+      "feedback_boost": 0.25,
+      "personal_model_score": 0.0,
+      "personal_score": 3.25,
+      "article_content_available": false,
+      "article_content_length": 0,
+      "summary_source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONmJFQ21keUY1dHlXY21Nb3Z2YTVpQ1J4cEFDSmxubjA1T011RjBDQm5RVlVFTFRDdzFfbjN6X1haUkY2aERIcl83amxwX09LSC1aV0ZEZmZmLUJVMHNZVFZyLUxucjZlUTNXY2IxWmVaRzg1ZTRDRlY3SlVfRVdmY3N1cElvbmczX1U4MkpWQV9XVkhKSFlfRk5pampmWVhqdFh5S09iYkU4blRDNXFsRGdsTGc4QdIBuwFBVV95cUxQblViSDh4WVI2T3ltdUhwdXUtaEJZaWJrZV9vc25VaFdOdm1RRXR6TTZhY095cnNILUxPZzctYUd0elBER0htdWNsejhlMzQ1eWZfY0FubkV3R0IwaGpucnk3eHBqQUdrN1gwclQzRWhxTGNyZ2c2emE4a1N2LWVRSWZMZmRRMEFaYU1DNjQtRlpmWmg2eTVPQXRkeV9pX0lrUzc3VWRkeWFMSDhIbS1ZeGhYOHpzeldISm1n?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "summary_method": "rss_fallback"
+    },
+    {
+      "id": "62c206068bd254c0",
+      "title": "'ബാബ് അൽ മൻദബ് കൂടി അടച്ചാൽ താങ്ങാനാവില്ല'; സമുദ്രപാതകൾ സുരക്ഷിതമാക്കാൻ ലോകം ഒന്നിക്കണമെന്ന് ഖത്തർ - Asianet News Malayalam",
+      "summary": "'ബാബ് അൽ മൻദബ് കൂടി അടച്ചാൽ താങ്ങാനാവില്ല'; സമുദ്രപാതകൾ സുരക്ഷിതമാക്കാൻ ലോകം ഒന്നിക്കണമെന്ന് ഖത്തർ Asianet News Malayalam",
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQN0FUU2lVaGpVTV9vVjdXTmFXNm9OcVVrZWl5ZFlIQ1JPLU5BQTRtSndqa1FJMmlnZmVDNzdmLWF1aTIwS1BmZ0RabmZhajVoUllXUFRXY1VHVDRTMHNrMnl2cGJCWGZVTXJ0czMxb2tFY2ZqZldsaFNQOFk5RkliNktRU1d1SjJvZUhSdUUzZ3UzVGJKRVhLeTdRaHJwR0dFanRwR1JDcU5pcWNweXNoLXNyYkFPNFNUZlZfQm9CV1hEQzh2M0FJaHgwcHVncWRNWGtTRndENkkxd1doYXdfNEU5SEJYdmhfYV9JNDZnYUl4VmFrU1JNd01ydFZRYzhpMzAyckNR0gGLAkFVX3lxTE1JNkJaaGc4cDZoRVFUdDAyYzVnVWtfNDQwTG1SaGJuOXliMmJJVWNMMm96cWtsV0hKOE5SSGt4YktOZEUxSVVYeEJGUXRDZmRGMGhra29hM3haUjR5VFhGNlBFRmUwSEJhU3JUcFUwUmVwdjJINU5RRmVpNnFNUFl5bmZQbXlSQUtkOHVLVUs3Y1VraTB5TFRKQ2swb29WZDFZVUdiRFhQMnJxRlJJQ01RVzdmWWFIbWFBdW9Hc194bFZhX0Z3WE4tU3VKQjR6a3IwY2tISUxFS2NDcFluV29CT1FLZUc4YmFJX3l4dUZ3azNsRHBxZDR3eldtaGNucDRPTUNHUHFMdEliTQ?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "source": "Asianet News Malayalam",
+      "feed": "World Malayalam News",
+      "published_at": "2026-09-15T23:04:26+00:00",
+      "category": "general",
+      "importance": 3,
+      "ai_category": "general",
+      "ai_confidence": 0.99,
+      "ai_importance": 3,
+      "ai_novelty": 0.8993,
+      "ai": {
+        "method": "tfidf_cosine_prototype",
+        "features": "1-2grams",
+        "version": 2
+      },
+      "entities": [
+        "ബാബ്",
+        "മൻദബ്",
+        "കൂടി",
+        "അടച്ചാൽ",
+        "താങ്ങാനാവില്ല",
+        "സമുദ്രപാതകൾ",
+        "സുരക്ഷിതമാക്കാൻ",
+        "ലോകം",
+        "ഒന്നിക്കണമെന്ന്",
+        "ഖത്തർ",
+        "Asianet News Malayalam"
+      ],
+      "source_reliability": 1.0,
+      "feedback_boost": 0.25,
+      "personal_model_score": 0.0,
+      "personal_score": 3.25,
+      "article_content_available": false,
+      "article_content_length": 0,
+      "summary_source_url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQN0FUU2lVaGpVTV9vVjdXTmFXNm9OcVVrZWl5ZFlIQ1JPLU5BQTRtSndqa1FJMmlnZmVDNzdmLWF1aTIwS1BmZ0RabmZhajVoUllXUFRXY1VHVDRTMHNrMnl2cGJCWGZVTXJ0czMxb2tFY2ZqZldsaFNQOFk5RkliNktRU1d1SjJvZUhSdUUzZ3UzVGJKRVhLeTdRaHJwR0dFanRwR1JDcU5pcWNweXNoLXNyYkFPNFNUZlZfQm9CV1hEQzh2M0FJaHgwcHVncWRNWGtTRndENkkxd1doYXdfNEU5SEJYdmhfYV9JNDZnYUl4VmFrU1JNd01ydFZRYzhpMzAyckNR0gGLAkFVX3lxTE1JNkJaaGc4cDZoRVFUdDAyYzVnVWtfNDQwTG1SaGJuOXliMmJJVWNMMm96cWtsV0hKOE5SSGt4YktOZEUxSVVYeEJGUXRDZmRGMGhra29hM3haUjR5VFhGNlBFRmUwSEJhU3JUcFUwUmVwdjJINU5RRmVpNnFNUFl5bmZQbXlSQUtkOHVLVUs3Y1VraTB5TFRKQ2swb29WZDFZVUdiRFhQMnJxRlJJQ01RVzdmWWFIbWFBdW9Hc194bFZhX0Z3WE4tU3VKQjR6a3IwY2tISUxFS2NDcFluV29CT1FLZUc4YmFJX3l4dUZ3azNsRHBxZDR3eldtaGNucDRPTUNHUHFMdEliTQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "summary_method": "rss_fallback"
     },
     {
       "id": "52c249aee8ae9447",
@@ -727,7 +843,7 @@
       "ai_category": "general",
       "ai_confidence": 0.99,
       "ai_importance": 3,
-      "ai_novelty": 0.8813,
+      "ai_novelty": 0.8801,
       "ai": {
         "method": "tfidf_cosine_prototype",
         "features": "1-2grams",
@@ -746,7 +862,11 @@
       "source_reliability": 1.0,
       "feedback_boost": 0.25,
       "personal_model_score": 0.0,
-      "personal_score": 3.25
+      "personal_score": 3.25,
+      "article_content_available": false,
+      "article_content_length": 0,
+      "summary_source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQVRGZ3o4NmpfVHZpV0lRWnRCUVVNNjZvaVZmVk9OdWZEOXpMeTM1RUQ3VHIxb1Z1OUc2OW12Q05oOG91TTAxcWJQZTZNTk04WWFKTFNkRE93RFBwbm5uMXhNQzhpRm9ncEQtNEVHaUdpNEFVcTZKdG9kNU04SUJ2R3JUbjZ6NU9RVHdhWmV0Zms3TDdoZ0VyVDljbDBwNjVha3VXZ1JFb9IBtAFBVV95cUxOMEV2aWRFbE9WMGd2eUx4enAxN1BGTi1ZTjlzWG1Zb0hDUkNxbTduZEppWmFPV252eEJMVTIyMUlUNzNmVXlhVDd0VVN2S0VKQzVreDdaQ0h3ck1jbkF3dEo3ZnJYeC1DTFRhc2ZteU8wdkJZQU42d1l1dVFrV1RMZW5sSnc4Nm9SR1RKS0J0Q3ZScEVjc0Uydlp2eTFMbndKZ0tpMjVLRzE4MmFvOEVMVzVHQTE?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "summary_method": "rss_fallback"
     },
     {
       "id": "00de32459733e616",
@@ -762,7 +882,7 @@
       "ai_category": "general",
       "ai_confidence": 0.99,
       "ai_importance": 3,
-      "ai_novelty": 0.8687,
+      "ai_novelty": 0.8663,
       "ai": {
         "method": "tfidf_cosine_prototype",
         "features": "1-2grams",
@@ -785,42 +905,11 @@
       "source_reliability": 1.0,
       "feedback_boost": 0.25,
       "personal_model_score": 0.0,
-      "personal_score": 3.25
-    },
-    {
-      "id": "4f35795c630c57de",
-      "title": "ഇന്ത്യ-അഫ്ഗാനിസ്ഥാൻ ടി20: ഡൽഹിയിലെ മഞ്ഞുവീഴ്ചയും വായുമലിനീകരണവും കളിയുടെ ഗതി മാറ്റുമോ? - myKhel malayalam",
-      "summary": "ഇന്ത്യ-അഫ്ഗാനിസ്ഥാൻ ടി20: ഡൽഹിയിലെ മഞ്ഞുവീഴ്ചയും വായുമലിനീകരണവും കളിയുടെ ഗതി മാറ്റുമോ? myKhel malayalam",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbHE2VmlCODBPaXFMb2pQVzlQZEVfVnA3Q3VhNFF2cWdmLXZxYzllTW9oTUJ1LXlPWTJmMVYzaTFpb2Fjd1RLLWZZQUNxVW9DVEgtTkZpZ1pKQU4wSjJkM0JzaVRIWjJZRnE5RVo5V1BmNnlOR2xkck55VVdXMXZNN05wWUVGSzBaMHQ0a2RHcDdDcDVNQURSTmJydk53bE43U19SSmJ0VmZNam5QZjJ0OGJlMjVXdw?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "source": "myKhel malayalam",
-      "feed": "India Malayalam News",
-      "published_at": "2026-09-15T23:34:11+00:00",
-      "category": "general",
-      "importance": 3,
-      "ai_category": "general",
-      "ai_confidence": 0.99,
-      "ai_importance": 3,
-      "ai_novelty": 0.841,
-      "ai": {
-        "method": "tfidf_cosine_prototype",
-        "features": "1-2grams",
-        "version": 2
-      },
-      "entities": [
-        "ഇന്ത്യ",
-        "അഫ്ഗാനിസ്ഥാൻ",
-        "ഡൽഹിയിലെ",
-        "മഞ്ഞുവീഴ്ചയും",
-        "വായുമലിനീകരണവും",
-        "കളിയുടെ",
-        "ഗതി",
-        "മാറ്റുമോ"
-      ],
-      "source_reliability": 1.0,
-      "feedback_boost": 0.25,
-      "personal_model_score": 0.0,
-      "personal_score": 3.25
+      "personal_score": 3.25,
+      "article_content_available": false,
+      "article_content_length": 0,
+      "summary_source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQQmhaNG9EMU1vTDRpdXRqb3ZrLXJOSUxmaUlfQWVjLWkzNU42T19VcU9INHBEaHBoSDlCd1VJdmRtN2hDaTEtWGRHTTUycmp2R0VvUmR4UHZISk1hT2pHcEtxbjVpS0syMGtYMnVNb2lSNURvY2dxUzJpMEprWjZ5UzVMNHY3bDlpc3cwMmtxMjlzbGQ5NWpqVDNvT093SXdEZHVfMXdtQmd5Zm84N2xtNlViX0hucmx5cWoxS1dHSVVDdUtU0gHKAUFVX3lxTE9iMERYMWhqaVpaWUhNalhXbHhMZDRPcTFNYnJlcEU1N29VSng2NDNmZ3BBOTVyd3BrVGp0YzNPdjBCbVRZRF8tazlCOFZlZlpfckRGcTBEenRwUzIwX2tXSEU4Y2pIcUNDUXVrTlhnNEQtQkRfNmNaQ0xWeHpSN0xJNXdXRnZMd2QxSTM3c3BnNURjSWdVQnhHSDRlNFdsQmNkcFo3RE5NRkp1ek9TU2hhdTVPZXFWNVZxWmNrVHdpeDRyZG9HZGpPcGc?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "summary_method": "rss_fallback"
     },
     {
       "id": "c82d4686d3691af9",
@@ -836,7 +925,7 @@
       "ai_category": "general",
       "ai_confidence": 0.99,
       "ai_importance": 3,
-      "ai_novelty": 0.8408,
+      "ai_novelty": 0.8415,
       "ai": {
         "method": "tfidf_cosine_prototype",
         "features": "1-2grams",
@@ -859,7 +948,50 @@
       "source_reliability": 1.0,
       "feedback_boost": 0.25,
       "personal_model_score": 0.0,
-      "personal_score": 3.25
+      "personal_score": 3.25,
+      "article_content_available": false,
+      "article_content_length": 0,
+      "summary_source_url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxONmRUcWloOC1DQzVhSlA3dGNQcmFEMGlqSmFLSnZtNld6c3RGZFZPTm9acVRJNVpZcERaU2NlQ05aNHNWVXFzRkpTSzNEZkIwUGtEY3hhUi1samxYb0ROVGt5aGJ6OThBT1hKU2M4dWh6ZlhWend1R2ZFZklnS3JGSEFVUUNIZklERG90NC1EZlFXUHJqVl9jNjZBaWM0dTQ4NEJyUjh3SWozLVZHb1FYMHo3NFRldDNmeU1rd0F3TXh6M0huUTZiNXE2ei1GOEdIWGZKakdXcnFkTHZNYzk3Xzh1VjZiS01fbzNSMU16Y0diUzTSAfgBQVVfeXFMTjB0R0V6SXBNMjU0T1pYekNvd1hBd1Z3N2RyVkRoT2dNVWppVTVxUjQzQmVuZDV0eTk5MUdsMzVwVGpwekw3WjNxaE1mNU41SWJMXzlBejZJdTdPdnN5YnlBNUtlNzhPTGhyek1NNEhxZnEtVFYza0QxU2ZHSWF1NjBoMktTSTlYcUVaV185UDc0ZkpPemo5QUVpZlc3VVFUa3NaX1hGanpJM1dWYk8zYlNlb0c0M1g2YzQ3ZGxWZGVMVUZVenBsTF9iWlNPRzhrUkZBNHl0UDJxVDFSTVRRemhsMlNMdXRRUWt1MERJODVSN2xLTHpLTHM?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "summary_method": "rss_fallback"
+    },
+    {
+      "id": "4f35795c630c57de",
+      "title": "ഇന്ത്യ-അഫ്ഗാനിസ്ഥാൻ ടി20: ഡൽഹിയിലെ മഞ്ഞുവീഴ്ചയും വായുമലിനീകരണവും കളിയുടെ ഗതി മാറ്റുമോ? - myKhel malayalam",
+      "summary": "ഇന്ത്യ-അഫ്ഗാനിസ്ഥാൻ ടി20: ഡൽഹിയിലെ മഞ്ഞുവീഴ്ചയും വായുമലിനീകരണവും കളിയുടെ ഗതി മാറ്റുമോ? myKhel malayalam",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbHE2VmlCODBPaXFMb2pQVzlQZEVfVnA3Q3VhNFF2cWdmLXZxYzllTW9oTUJ1LXlPWTJmMVYzaTFpb2Fjd1RLLWZZQUNxVW9DVEgtTkZpZ1pKQU4wSjJkM0JzaVRIWjJZRnE5RVo5V1BmNnlOR2xkck55VVdXMXZNN05wWUVGSzBaMHQ0a2RHcDdDcDVNQURSTmJydk53bE43U19SSmJ0VmZNam5QZjJ0OGJlMjVXdw?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "source": "myKhel malayalam",
+      "feed": "India Malayalam News",
+      "published_at": "2026-09-15T23:34:11+00:00",
+      "category": "general",
+      "importance": 3,
+      "ai_category": "general",
+      "ai_confidence": 0.99,
+      "ai_importance": 3,
+      "ai_novelty": 0.8397,
+      "ai": {
+        "method": "tfidf_cosine_prototype",
+        "features": "1-2grams",
+        "version": 2
+      },
+      "entities": [
+        "ഇന്ത്യ",
+        "അഫ്ഗാനിസ്ഥാൻ",
+        "ഡൽഹിയിലെ",
+        "മഞ്ഞുവീഴ്ചയും",
+        "വായുമലിനീകരണവും",
+        "കളിയുടെ",
+        "ഗതി",
+        "മാറ്റുമോ"
+      ],
+      "source_reliability": 1.0,
+      "feedback_boost": 0.25,
+      "personal_model_score": 0.0,
+      "personal_score": 3.25,
+      "article_content_available": false,
+      "article_content_length": 0,
+      "summary_source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbHE2VmlCODBPaXFMb2pQVzlQZEVfVnA3Q3VhNFF2cWdmLXZxYzllTW9oTUJ1LXlPWTJmMVYzaTFpb2Fjd1RLLWZZQUNxVW9DVEgtTkZpZ1pKQU4wSjJkM0JzaVRIWjJZRnE5RVo5V1BmNnlOR2xkck55VVdXMXZNN05wWUVGSzBaMHQ0a2RHcDdDcDVNQURSTmJydk53bE43U19SSmJ0VmZNam5QZjJ0OGJlMjVXdw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "summary_method": "rss_fallback"
     },
     {
       "id": "c7d3ec06a6a80228",
@@ -875,7 +1007,7 @@
       "ai_category": "general",
       "ai_confidence": 0.99,
       "ai_importance": 3,
-      "ai_novelty": 0.8376,
+      "ai_novelty": 0.8371,
       "ai": {
         "method": "tfidf_cosine_prototype",
         "features": "1-2grams",
@@ -898,7 +1030,11 @@
       "source_reliability": 1.0,
       "feedback_boost": 0.25,
       "personal_model_score": 0.0,
-      "personal_score": 3.25
+      "personal_score": 3.25,
+      "article_content_available": false,
+      "article_content_length": 0,
+      "summary_source_url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOa0NxNGsyU25aWlhGOG12d1RGaTl4bG5IWkVZdG1NQjF1VS1BdkVpWE1RWm1GM3p6ZUxOaFQ4ODl2N2I4WFdGN0c0UlljWmNYaWpNWFVXV0xYTzVKX2VzX1VGLThNLTJfVWs1RGJjS1ItdHhvNmxJSE53M29LalpNcWxqZzdZSGY1SS1TdGRkeFJ1NnNMSEMyOGlaOVFFYWZFS05HYzR0OVN4OVhpN0dZcENjTU5sUHM4dTczTnQ0Qms0dGVFNWd3TmtuMkVQTjdIRldsd2RsVEZUMGw3LXA0cEFrdVJkNkdxSEFZN9IB7AFBVV95cUxOa0NxNGsyU25aWlhGOG12d1RGaTl4bG5IWkVZdG1NQjF1VS1BdkVpWE1RWm1GM3p6ZUxOaFQ4ODl2N2I4WFdGN0c0UlljWmNYaWpNWFVXV0xYTzVKX2VzX1VGLThNLTJfVWs1RGJjS1ItdHhvNmxJSE53M29LalpNcWxqZzdZSGY1SS1TdGRkeFJ1NnNMSEMyOGlaOVFFYWZFS05HYzR0OVN4OVhpN0dZcENjTU5sUHM4dTczTnQ0Qms0dGVFNWd3TmtuMkVQTjdIRldsd2RsVEZUMGw3LXA0cEFrdVJkNkdxSEFZNw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "summary_method": "rss_fallback"
     },
     {
       "id": "76bb88120b779f68",
@@ -914,7 +1050,7 @@
       "ai_category": "general",
       "ai_confidence": 0.99,
       "ai_importance": 3,
-      "ai_novelty": 0.8208,
+      "ai_novelty": 0.8159,
       "ai": {
         "method": "tfidf_cosine_prototype",
         "features": "1-2grams",
@@ -936,7 +1072,11 @@
       "source_reliability": 1.0,
       "feedback_boost": 0.25,
       "personal_model_score": 0.0,
-      "personal_score": 3.25
+      "personal_score": 3.25,
+      "article_content_available": false,
+      "article_content_length": 0,
+      "summary_source_url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOWW5PN1YxNlFSSXJsYWZadnRlekdQLVMyT3RNdUM4dUlKdFd5ZDFPZV81SVZJMHpVTzh0S3ZjWTBRSGxWQl84bURnSUY0a0V2VG1RZEg3S2ZQcEFCNjFnVDQ0ZzBpTjh0ejJUUHNTb3ZIMFRndWNJbWRJSFd5MVpXMnIxenh4M0Rya0xZc25MOWpLWEMyeHAtaXlKSzRiOWZEc1c1T2R2d011dzJucFFWODV6RmdSRTY0T2FMN2RoSUxKbkc4MHBmMjZZdnZiTzl0bklpQ1BmcFdvS2R0a3lnSFhn0gHnAUFVX3lxTFBKenpHcWExVkQ3NnVNMmVzMmZFbFdBenBvcTJYeG8ybDBsbWR5eHpqT1FDbnVXRjdmUnZkcmZGUnowbG1feXVieHFSMkFFVUhYQmpLUmFvZEhxY1RmSXpjYjZ2X3NCa1BZeFZfSkhMNi1rdExqQUhmalN1amU0RFhMYzBXOUs0cmtobktFUVplQXlVMDMyNTAxZ2p4U0ZUZlIwb2NQMHJIaUJUdS1pV3psNlViam9yd0ZWLUlJY3IySVYyVzFoWFp3RlN6ZzF2SnFQSmZVYVAxbnZSV1pDZEh1LUZXWmMxMA?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "summary_method": "rss_fallback"
     },
     {
       "id": "2028c1ef90bcd0b7",
@@ -952,7 +1092,7 @@
       "ai_category": "general",
       "ai_confidence": 0.99,
       "ai_importance": 3,
-      "ai_novelty": 0.8208,
+      "ai_novelty": 0.8159,
       "ai": {
         "method": "tfidf_cosine_prototype",
         "features": "1-2grams",
@@ -975,7 +1115,53 @@
       "source_reliability": 1.0,
       "feedback_boost": 0.25,
       "personal_model_score": 0.0,
-      "personal_score": 3.25
+      "personal_score": 3.25,
+      "article_content_available": false,
+      "article_content_length": 0,
+      "summary_source_url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPTVZ6d2hzN0R1Q2gwV2dLa0kzR3NCemxyNHpvdEpLazhEVE9uTjRxangtYmpISGo1YnpNQjlHWmlsNlZydGlDTWlZZ2tNd0ZXQm9JQk8tcm5RVWExVnlvNUpaRXVoZERsS1BESGYzSjFabllwV2JGREVFa0pXa0lpV2pJMDBYMnd6SlhPRXFyZXI5ZDJpR0ZYS1pjNmR4VWlmMkRGekJxb3dGYUszRVRHS21NNGFDZG5QMGtiU1ZVTjNPclhRZUNHanlOelBET1FYdDYwaXFnSnpVX2x5UmpmdXVRamFqQjZQVUxrS0p1NnRBV2pBMlHSAfsBQVVfeXFMUFpBSWhyWmxtR21mVlpEUFZ2eUp3anpTWld5aTA5aGlLUXVSWEFBbjRDd1VXYzNYVE94V2t0QnlWMVdYd3hPTG4yWU9vTWhXd0ZsdFdLcjNSQ2lFSE10NGp1aFNFWjZQMDNDMnBTSS02VlFoaGNZMFZEdDhscEpBdUVTRG9VM0xncjlCV1RPc3FTZ0tDanZnV2RHN1JmYnZTb3VFalBGdkNzZk1NUTdCelFsbU10bFR0RC1IMTBvNlNNcURTUlZxNnI1NHhfRldMV3F1TERvZHhmc0JFdWNjZ3gyTDA1ZmtjSmE5R2dtNDltc1hWX3BaOGZKcDQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "summary_method": "rss_fallback"
+    },
+    {
+      "id": "c3d23c19c70b7de9",
+      "title": "വൈദ്യുതി പ്രതിസന്ധി: കേരളം സുപ്രീംകോടതിയിൽ; കരാറുകൾ റദ്ദാക്കിയതിൽ അടിയന്തര ഇടപെടൽ വേണം | Madhyamam - Madhyamam",
+      "summary": "വൈദ്യുതി പ്രതിസന്ധി: കേരളം സുപ്രീംകോടതിയിൽ; കരാറുകൾ റദ്ദാക്കിയതിൽ അടിയന്തര ഇടപെടൽ വേണം | Madhyamam Madhyamam",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOVzFId21QNTBSVHllWUZTV01UT3JPTVZoRWZtLUxubUxBN0RVQ0JFMnBWZGZxNGEyTTBGb0I5bmZIdi01SUxuSVd2Rld3Vmw5ajRQVEp1S3JVdmgxeTlJTldxdktPWG4yal93blpsVzJNdGlaQVE3cG1IUjdmR2Npam5JYWZOOHh1VGMyN3dKMG01V0JBQU91cWZHUWFFV2tRd1NFQnA4OXlHVk8xTjFxMTI5VjdPeXFPcGFrMWtWb3Jta09ON0F1MFcyVi1mczZhOW9XTlEzdFk4RTlvTUw40gHkAUFVX3lxTFBTc3NIbFF3dEpLWHdiTDB6MVE4OHdQUGgyTFhIekNpRDBHRVFVTG9wSjB1TGhZNzJDTXgzeTRULWI1aTBYX2dDNXNUdUU3b0l5OUJYRWs2ZjRMc2tNWE9FYVpmcFZSUGF6QXBQYXNLcFR0TWE5WlVmY3k4elZtZ3VxRG5VZzRBeGF0SWtjQ2VQMzRVVDJpVW1mbUpscmhqY1VEcURFSmc2c1YxSzAzRjB4emRhMGsyY0s3YktwVDJJZ1htZG10SFFWRFJKR1IzQzhxSnZ5aWNValJKc1hra255WXBwVw?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "source": "Madhyamam",
+      "feed": "Kerala Malayalam News",
+      "published_at": "2026-09-16T01:30:53+00:00",
+      "category": "general",
+      "importance": 3,
+      "ai_category": "general",
+      "ai_confidence": 0.99,
+      "ai_importance": 3,
+      "ai_novelty": 0.8147,
+      "ai": {
+        "method": "tfidf_cosine_prototype",
+        "features": "1-2grams",
+        "version": 2
+      },
+      "entities": [
+        "വൈദ്യുതി",
+        "പ്രതിസന്ധി",
+        "കേരളം",
+        "സുപ്രീംകോടതിയിൽ",
+        "കരാറുകൾ",
+        "റദ്ദാക്കിയതിൽ",
+        "അടിയന്തര",
+        "ഇടപെടൽ",
+        "വേണം",
+        "Madhyamam",
+        "Madhyamam Madhyamam"
+      ],
+      "source_reliability": 1.0,
+      "feedback_boost": 0.25,
+      "personal_model_score": 0.0,
+      "personal_score": 3.25,
+      "article_content_available": false,
+      "article_content_length": 0,
+      "summary_source_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOVzFId21QNTBSVHllWUZTV01UT3JPTVZoRWZtLUxubUxBN0RVQ0JFMnBWZGZxNGEyTTBGb0I5bmZIdi01SUxuSVd2Rld3Vmw5ajRQVEp1S3JVdmgxeTlJTldxdktPWG4yal93blpsVzJNdGlaQVE3cG1IUjdmR2Npam5JYWZOOHh1VGMyN3dKMG01V0JBQU91cWZHUWFFV2tRd1NFQnA4OXlHVk8xTjFxMTI5VjdPeXFPcGFrMWtWb3Jta09ON0F1MFcyVi1mczZhOW9XTlEzdFk4RTlvTUw40gHkAUFVX3lxTFBTc3NIbFF3dEpLWHdiTDB6MVE4OHdQUGgyTFhIekNpRDBHRVFVTG9wSjB1TGhZNzJDTXgzeTRULWI1aTBYX2dDNXNUdUU3b0l5OUJYRWs2ZjRMc2tNWE9FYVpmcFZSUGF6QXBQYXNLcFR0TWE5WlVmY3k4elZtZ3VxRG5VZzRBeGF0SWtjQ2VQMzRVVDJpVW1mbUpscmhqY1VEcURFSmc2c1YxSzAzRjB4emRhMGsyY0s3YktwVDJJZ1htZG10SFFWRFJKR1IzQzhxSnZ5aWNValJKc1hra255WXBwVw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "summary_method": "rss_fallback"
     },
     {
       "id": "08cd2282718662c4",
@@ -1009,7 +1195,11 @@
       "source_reliability": 1.0,
       "feedback_boost": 0.25,
       "personal_model_score": 0.0,
-      "personal_score": 3.25
+      "personal_score": 3.25,
+      "article_content_available": false,
+      "article_content_length": 0,
+      "summary_source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRUNxTFFMLXZQMWdJLXJaTVJ0dEZ2VW52YU5sZHBrVEREcmNqbmN0a2YwS0g1VTdvcDZPZG04OFJYWE5MVVgxbl9vOFI0NE1va1RHcFgtcDhhSkZBaVFrQ1Zxemt4cjFHbXpnbmJEb2h1MklBWmxOaDF2T284NTZwaEwtUXcwQdIBiwFBVV95cUxNcnlHM2NVSE9xS3phOGtxbElCYlRLVkNLdy1FWE1mSmxvOW1LQ3AwanZBOE9MejRCVWJtdkZZTExKRXZ1eWhSZnByU2dOQWJnWkhESXF2enJWNFFCcHVYa2JERFJWTlFWU3BKNkZzcTFZOG9GUFJVWXpsQ3RTZEl5Nk1BeWhIMHd2Qjg4?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "summary_method": "rss_fallback"
     },
     {
       "id": "11698ca1b7973bb5",
@@ -1025,7 +1215,7 @@
       "ai_category": "general",
       "ai_confidence": 0.99,
       "ai_importance": 3,
-      "ai_novelty": 0.7817,
+      "ai_novelty": 0.7824,
       "ai": {
         "method": "tfidf_cosine_prototype",
         "features": "1-2grams",
@@ -1048,7 +1238,11 @@
       "source_reliability": 1.0,
       "feedback_boost": 0.25,
       "personal_model_score": 0.0,
-      "personal_score": 3.25
+      "personal_score": 3.25,
+      "article_content_available": false,
+      "article_content_length": 0,
+      "summary_source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNa2c0NFR4a0hsRVJjTVlaNThqemZ5S1FERXBXc2tRZVpkdDhrU0puamJDSFViNjlUYlNxbDVoeDVaNkU0eDF4TlYwZndPVE9kRmlvdGpKQzRrcmVfNlRsejVTZnZKNFQ3Wlo1NTNMTTJjSE5oYy1EaU81cGtXQUFoalJ2VGZsalBMN1k1Z1RLT2tPVE50S21aMnNaNlJnNTJab3pkUy10X2U1QWMxRVZtdTdRYjVtQjRmQWVRT3hka0kyQ01SNDUxRWctLXZwTUwyVlV0YWNn0gHbAUFVX3lxTE9TSnMzSzI1eW9hcU85WVdKTDNHR2hTeWljaC1kQjAyVUE2TlpPVkRERXZyZy01WFZRelVmcnpYS093NHpDZWRZbWJpV2J6eGpZNF9pWFFQS0FyTTdoWlJqSDZJS0llTGVGcTlKeWxVY1NBMjhfWVBCbHdfMGtRdWdDNnhIRDR1NUlOclp0MUl5LTdYRmVGa3JWamdMa0pKYUhSNy01LTlFbU9JbkxUVE5XYjI3VHpZbkhDaXo3ODhmTURGenpuNWFaRl9kOEpIRmlURlVHMGNfbTVYRQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "summary_method": "rss_fallback"
     },
     {
       "id": "d7275623beb95e51",
@@ -1064,7 +1258,7 @@
       "ai_category": "general",
       "ai_confidence": 0.99,
       "ai_importance": 3,
-      "ai_novelty": 0.7445,
+      "ai_novelty": 0.7595,
       "ai": {
         "method": "tfidf_cosine_prototype",
         "features": "1-2grams",
@@ -1083,23 +1277,27 @@
       "source_reliability": 1.0,
       "feedback_boost": 0.25,
       "personal_model_score": 0.0,
-      "personal_score": 3.25
+      "personal_score": 3.25,
+      "article_content_available": false,
+      "article_content_length": 0,
+      "summary_source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBLbzZ6UVN3TWVEVG9Eb0p1NFZvZlhtLVM3eFhGUTNfRlN2S0FmNE10YmVXdEFmbzAySzBzRmFqZmY3aVVBRDZyWXVlVWtLc2NBTklwZ3VoNA?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "summary_method": "rss_fallback"
     },
     {
-      "id": "7dc91efc0861d17b",
-      "title": "വൈദ്യുതി പ്രതിസന്ധി: അടിയന്തര വാദം ആവശ്യപ്പെട്ട് കേരളം സുപ്രീം കോടതിയിൽ - Asianet News Malayalam",
-      "summary": "വൈദ്യുതി പ്രതിസന്ധി: അടിയന്തര വാദം ആവശ്യപ്പെട്ട് കേരളം സുപ്രീം കോടതിയിൽ Asianet News Malayalam",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPV2FISUtLY2VQR0FjTGdYQkRJMVBOc2ZCekYzbm56OWtFaEtrZ1FaOGhRR0FycHBweVRTUzhJN3dtQ0tYRmd5UUh0S0pSSGpZMWZyYUs1VmlKSmV5ZXFFZ0ptVHhROXlLRmF3bFRZZ19yaWxFUmt6QUZfQ3JsSzB1UGg5SFhvTmk3cS1RUnl3SGRxTk4xajB2LVVLSThnVUNNdmlFNlphdzQ5RDBkOHVCQkd0Y9IBuAFBVV95cUxNZlplUkIxWVF2Q1RjU2RfLXFhUnA4NVVPRy0xbklreGJ1UDNZUDN6bm11ZUF0YTZPT0tjeWlnemRMMnU5LU9WNTRXM0l0enBzbzJfdUNyYjBJOWIycFE4NHU5SFZtRTBaR1F1QkpmUHhUTmJ0b3h6ZHRYaENvNlYzbDBLTVJ6cndWOEx6UzNibHhFUlFwVHQ5WGM1MTExSUJ1dmI5M3FwZ2ZkWXR6WjltWmd6MFhSbWpO?oc=5",
+      "id": "757289ad0acacf8d",
+      "title": "വൈദ്യുതി പ്രതിസന്ധി; അടിയന്തര വാദം ആവശ്യപ്പെട്ട് കേരളം സുപ്രീം കോടതിയിൽ - Asianet News Malayalam",
+      "summary": "വൈദ്യുതി പ്രതിസന്ധി; അടിയന്തര വാദം ആവശ്യപ്പെട്ട് കേരളം സുപ്രീം കോടതിയിൽ Asianet News Malayalam",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQU2tGcUVOdTFKUFk1RGRZN2JZZ0czWnV4YmZDRGV1QWhrQjhYWGJFYXYxaFM1Ni05bGl6aENNdXEwUWN6SXh1TGFHelQ0ZkFGU0FTYTFyMm5hbTNUZHNxcTZQcDdaQUFkTTdMdkxxWlY3UUluLWRXVlM4T095aUQtNWdxVXVVWkltc09waXIxZzRWVnpGdXV3MnhQUHk1TFNwa09DMV81LUhmczU0MVlDTExYQVlOM19WNWFfaXdGZVNWLU1xY3J5clBVT25HXzRDTFQ0adIB2gFBVV95cUxQU2JoUDZYZlpCcnUwTUJudlc0T2ctRGxSRDRwYXluV3lqeDhyaHNqTUp0ZHBkcklJNG9jUGdCaWpvS2xQbzlmdjVkSk9Hck1NeXN1Qm5UYW1YTDM5bHhlRWFVN2hwUHhGWkZkN014R1RSLTY3VmU4eC1QblZXd25LeGh0TE9iUTFJV1lqTlV1bkJ5R19ZX09vMmhJejlmRm1EN3QwWFRHSnhJWlNmM1NuQkpKQUlVVTZQZk5Xb3I1M085eTcxVlcyVmxtanMzZ3ByNDlaalNSVkYyUQ?oc=5",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "source": "Asianet News Malayalam",
-      "feed": "India Malayalam News",
-      "published_at": "2026-09-15T15:52:06+00:00",
+      "feed": "Kerala Malayalam News",
+      "published_at": "2026-09-15T16:30:54+00:00",
       "category": "general",
       "importance": 3,
       "ai_category": "general",
       "ai_confidence": 0.99,
       "ai_importance": 3,
-      "ai_novelty": 0.6706,
+      "ai_novelty": 0.6825,
       "ai": {
         "method": "tfidf_cosine_prototype",
         "features": "1-2grams",
@@ -1119,7 +1317,11 @@
       "source_reliability": 1.0,
       "feedback_boost": 0.25,
       "personal_model_score": 0.0,
-      "personal_score": 3.25
+      "personal_score": 3.25,
+      "article_content_available": false,
+      "article_content_length": 0,
+      "summary_source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQU2tGcUVOdTFKUFk1RGRZN2JZZ0czWnV4YmZDRGV1QWhrQjhYWGJFYXYxaFM1Ni05bGl6aENNdXEwUWN6SXh1TGFHelQ0ZkFGU0FTYTFyMm5hbTNUZHNxcTZQcDdaQUFkTTdMdkxxWlY3UUluLWRXVlM4T095aUQtNWdxVXVVWkltc09waXIxZzRWVnpGdXV3MnhQUHk1TFNwa09DMV81LUhmczU0MVlDTExYQVlOM19WNWFfaXdGZVNWLU1xY3J5clBVT25HXzRDTFQ0adIB2gFBVV95cUxQU2JoUDZYZlpCcnUwTUJudlc0T2ctRGxSRDRwYXluV3lqeDhyaHNqTUp0ZHBkcklJNG9jUGdCaWpvS2xQbzlmdjVkSk9Hck1NeXN1Qm5UYW1YTDM5bHhlRWFVN2hwUHhGWkZkN014R1RSLTY3VmU4eC1QblZXd25LeGh0TE9iUTFJV1lqTlV1bkJ5R19ZX09vMmhJejlmRm1EN3QwWFRHSnhJWlNmM1NuQkpKQUlVVTZQZk5Xb3I1M085eTcxVlcyVmxtanMzZ3ByNDlaalNSVkYyUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "summary_method": "rss_fallback"
     },
     {
       "id": "1a422c336773e9f6",
@@ -1135,7 +1337,7 @@
       "ai_category": "general",
       "ai_confidence": 0.99,
       "ai_importance": 2,
-      "ai_novelty": 0.9868,
+      "ai_novelty": 0.9871,
       "ai": {
         "method": "tfidf_cosine_prototype",
         "features": "1-2grams",
@@ -1153,85 +1355,11 @@
       "source_reliability": 1.0,
       "feedback_boost": 0.25,
       "personal_model_score": 0.0,
-      "personal_score": 2.25
-    },
-    {
-      "id": "44065c5a719c73ac",
-      "title": "കാര്യവട്ടത്ത് വീണ്ടും ക്രിക്കറ്റ് പൂരം, ഇന്ത്യ-വെസ്റ്റ് ഇന്‍ഡീസ് ഏകദിനത്തിന്‍റ ടിക്കറ്റ് വിൽപന 17ന് തുടങ്ങും - Asianet News Malayalam",
-      "summary": "കാര്യവട്ടത്ത് വീണ്ടും ക്രിക്കറ്റ് പൂരം, ഇന്ത്യ-വെസ്റ്റ് ഇന്‍ഡീസ് ഏകദിനത്തിന്‍റ ടിക്കറ്റ് വിൽപന 17ന് തുടങ്ങും Asianet News Malayalam",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUjlKcEZsbDJpLXZYYXo4TFhaU0dpWVVoalhMNDJ3SlpoalBLZjNaYk1ZQ2w4ZjhMWDJVaFA2OV9oeDFIMFJiOUJEQVhyd0pSbW9UcVBXeDl0RzNvRXpmSWlKZDlMZ2RwckZRa0tjcFJBVlNqQUg5YW50aWRqR0lfWTNMZ3FBN1Jwc3NIWktNYkx2X0N2OURGY2VwWGRkS2tDOWJLRS01WVBESzl3MHp2a2xSd2Y0VHhFbE4xdW15aDV4MXPSAcgBQVVfeXFMTzVDWnpCTlh5RzdmTXV6ZElSWFdWZUwtcXVydFllbjF4VC1rb2lNdWNyaWxENGo2ZTBDejdvVHRFd2VuUUNYbjljeFotcmVOTkFJV0NFMEtfY0xNS1BaNU4tYWhSbjU1T2ZfNFBoNVQ0RjAxYjdaQnZrYW5QcTY4ellXQkluTDRwd1dVWWcySHU3WDdYMHh3TFlQUjJjQ0s4Nk9uQ3VxRGVOeU1icVZKZzB0amZDSFlXQ19VUWo1V3NOS2toNnl0NTA?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "source": "Asianet News Malayalam",
-      "feed": "India Malayalam News",
-      "published_at": "2026-09-15T12:38:16+00:00",
-      "category": "general",
-      "importance": 2,
-      "ai_category": "general",
-      "ai_confidence": 0.99,
-      "ai_importance": 2,
-      "ai_novelty": 0.9172,
-      "ai": {
-        "method": "tfidf_cosine_prototype",
-        "features": "1-2grams",
-        "version": 2
-      },
-      "entities": [
-        "കാര്യവട്ടത്ത്",
-        "വീണ്ടും",
-        "ക്രിക്കറ്റ്",
-        "പൂരം",
-        "ഇന്ത്യ",
-        "വെസ്റ്റ്",
-        "ഇന്",
-        "ഡീസ്",
-        "ഏകദിനത്തിന്",
-        "ടിക്കറ്റ്",
-        "വിൽപന",
-        "തുടങ്ങും"
-      ],
-      "source_reliability": 1.0,
-      "feedback_boost": 0.25,
-      "personal_model_score": 0.0,
-      "personal_score": 2.25
-    },
-    {
-      "id": "f72254c0d3caf92a",
-      "title": "യുഎഫ്ഒ സാങ്കേതികവിദ്യ ചോര്‍ത്തിയെടുത്തോ? അമേരിക്കയുടെ പുതിയ രഹസ്യ പോര്‍വിമാനത്തെച്ചൊല്ലി കോണ്‍സ്പിറസി... - Marunadan Malayali",
-      "summary": "യുഎഫ്ഒ സാങ്കേതികവിദ്യ ചോര്‍ത്തിയെടുത്തോ? അമേരിക്കയുടെ പുതിയ രഹസ്യ പോര്‍വിമാനത്തെച്ചൊല്ലി കോണ്‍സ്പിറസി... Marunadan Malayali",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPRmRxUnRmVHRMMjVsMVVZQjk2M1ZWazhKZUtRblRuSGg4bE9sUHBMU1hleXNkUXNOdDRySHJ1WjVNcjE5U2pBSXg2MGZ2NHEzT2VET1Uta3pLc3h4VWFWQ05BX2JsLVFYc0szMzlGMjJmSDZUYXpscVNtTWVXTnRsVUdmbnUxWGt1WW5WSUIyekV6SG1VX0JObzFobnlxaDlDUW4yVzRORkNGNnBVbXFVTFkxU0ZLOXBobk9kd2xKaGxLZjdGRHJxc085azFmNFRPekZNa3F2ajXSAd4BQVVfeXFMTzhITDBaSUZ1Mkt4UXlVMk1GTmlGaXhJTkFlUGZLcElzd3Q4NUVrck41U3l1NjVLLUN0UEJINVU2Yl9MdDZudC1NZTlCYkx0akJrbnZFWDBkcUwwMEJ2WUxUdEJxN00wcF9vSE1YR0dtTDBOMWhpeEM1eTZkY2pUR2hVeWl3MkFfSjVlcXcxaElYV09GT2ZXUGc3MUtJdEdPZlUyNTljVlhfZG9mTnlSd0tRbTgySWZ1Ul9ZMmpXQ0tKcmRnUHBZZlRmYnhZYkFBN3BmSzJZY29LVzB0aEh3?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "source": "Marunadan Malayali",
-      "feed": "Science Malayalam News",
-      "published_at": "2026-09-15T12:30:16+00:00",
-      "category": "general",
-      "importance": 2,
-      "ai_category": "general",
-      "ai_confidence": 0.99,
-      "ai_importance": 2,
-      "ai_novelty": 0.9003,
-      "ai": {
-        "method": "tfidf_cosine_prototype",
-        "features": "1-2grams",
-        "version": 2
-      },
-      "entities": [
-        "യുഎഫ്ഒ",
-        "സാങ്കേതികവിദ്യ",
-        "ചോര്",
-        "ത്തിയെടുത്തോ",
-        "അമേരിക്കയുടെ",
-        "പുതിയ",
-        "രഹസ്യ",
-        "പോര്",
-        "വിമാനത്തെച്ചൊല്ലി",
-        "കോണ്",
-        "സ്പിറസി",
-        "Marunadan Malayali"
-      ],
-      "source_reliability": 1.0,
-      "feedback_boost": 0.25,
-      "personal_model_score": 0.0,
-      "personal_score": 2.25
+      "personal_score": 2.25,
+      "article_content_available": false,
+      "article_content_length": 0,
+      "summary_source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5vUGhvT1NnZFh5RDR1ZXpTcThnN1RKYWprMV9jeVFqRkh0cEZUUWE4ZURLYTFNb1RsUEpEVUcwNGNFQVdJVDRUV2p5N2JaS1A5Q2pETg?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "summary_method": "rss_fallback"
     },
     {
       "id": "43c818716e2caf9c",
@@ -1247,7 +1375,7 @@
       "ai_category": "general",
       "ai_confidence": 0.99,
       "ai_importance": 2,
-      "ai_novelty": 0.8866,
+      "ai_novelty": 0.921,
       "ai": {
         "method": "tfidf_cosine_prototype",
         "features": "1-2grams",
@@ -1268,7 +1396,54 @@
       "source_reliability": 1.0,
       "feedback_boost": 0.25,
       "personal_model_score": 0.0,
-      "personal_score": 2.25
+      "personal_score": 2.25,
+      "article_content_available": false,
+      "article_content_length": 0,
+      "summary_source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNcUkxVHo4SjVCOWlmaGlvVTBxeGNRVFJTODFVSmRLcmFOeHFZSjJ6RjdGeFI3ZHRCUU84aUNzcUl5YWZocjFwU2swN3UtSVFMQnh5LWZQUklxQndERzZycHc1UXg4UnRGbFpBRHdjVnVTYmVfT0xCVmJXTGRZWkp2YVFCdTBVUFEtWUMxYjJiRl93TzZNdnZCVWx3ekw1eGF5eDBnTFA3aUdSOXJfV2RiRm1uMFJRYmVRdkZybmJReGxDVE1FMWFROHR3?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "summary_method": "rss_fallback"
+    },
+    {
+      "id": "ddc20b1110a1ee8e",
+      "title": "ഹൂതി ആക്രമണം; പാകിസ്ഥാൻ സഹായിക്കാൻ വിസമ്മതിച്ചതിനെ തുടർന്ന് സൗദി അറേബ്യ ഇസ്രായേലിന്റെ സഹായം തേടി - News18 Malayalam",
+      "summary": "ഹൂതി ആക്രമണം; പാകിസ്ഥാൻ സഹായിക്കാൻ വിസമ്മതിച്ചതിനെ തുടർന്ന് സൗദി അറേബ്യ ഇസ്രായേലിന്റെ സഹായം തേടി News18 Malayalam",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNa0tER3JRWHA3ZzZCSnpLYUNuYkhWbldNcHFhbDhwQks0NnFzLUxVc2tlVk5SNEJQQy1tYzNoZGtwMjUyUjZyaEk2Q0F0ekZuUUFrOFRGR0xiMlQ5U0lnZUU2R2VMOHhxaHNxNmdwcEhacDlFLVItTnFzcEFBSWRTc0Rsa3NwbThHT0xZdjlNZ2hKbWM3c2xXTmdzVlZ6U3hfQUFnLUI1MFlBb2VuRFRLQlFhakl0QWx6RXJDZGlXTmhJV0xyZ1VhcUNTcE43YzN2NThqbnNsS2JFS2JCVjZnaHh3ZVhBWnU0SjlLaTlTMl9nMWs?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "source": "News18 Malayalam",
+      "feed": "World Malayalam News",
+      "published_at": "2026-09-15T13:20:33+00:00",
+      "category": "general",
+      "importance": 2,
+      "ai_category": "general",
+      "ai_confidence": 0.99,
+      "ai_importance": 2,
+      "ai_novelty": 0.9162,
+      "ai": {
+        "method": "tfidf_cosine_prototype",
+        "features": "1-2grams",
+        "version": 2
+      },
+      "entities": [
+        "ഹൂതി",
+        "ആക്രമണം",
+        "പാകിസ്ഥാൻ",
+        "സഹായിക്കാൻ",
+        "വിസമ്മതിച്ചതിനെ",
+        "തുടർന്ന്",
+        "സൗദി",
+        "അറേബ്യ",
+        "ഇസ്രായേലിന്റെ",
+        "സഹായം",
+        "തേടി",
+        "News18 Malayalam"
+      ],
+      "source_reliability": 1.0,
+      "feedback_boost": 0.25,
+      "personal_model_score": 0.0,
+      "personal_score": 2.25,
+      "article_content_available": false,
+      "article_content_length": 0,
+      "summary_source_url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNa0tER3JRWHA3ZzZCSnpLYUNuYkhWbldNcHFhbDhwQks0NnFzLUxVc2tlVk5SNEJQQy1tYzNoZGtwMjUyUjZyaEk2Q0F0ekZuUUFrOFRGR0xiMlQ5U0lnZUU2R2VMOHhxaHNxNmdwcEhacDlFLVItTnFzcEFBSWRTc0Rsa3NwbThHT0xZdjlNZ2hKbWM3c2xXTmdzVlZ6U3hfQUFnLUI1MFlBb2VuRFRLQlFhakl0QWx6RXJDZGlXTmhJV0xyZ1VhcUNTcE43YzN2NThqbnNsS2JFS2JCVjZnaHh3ZVhBWnU0SjlLaTlTMl9nMWs?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "summary_method": "rss_fallback"
     },
     {
       "id": "908f1aa77d5030a3",
@@ -1284,7 +1459,7 @@
       "ai_category": "general",
       "ai_confidence": 0.99,
       "ai_importance": 2,
-      "ai_novelty": 0.8843,
+      "ai_novelty": 0.8838,
       "ai": {
         "method": "tfidf_cosine_prototype",
         "features": "1-2grams",
@@ -1307,7 +1482,11 @@
       "source_reliability": 1.0,
       "feedback_boost": 0.25,
       "personal_model_score": 0.0,
-      "personal_score": 2.25
+      "personal_score": 2.25,
+      "article_content_available": false,
+      "article_content_length": 0,
+      "summary_source_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNblhObU9SWjlFUU56eDJFU1phLXZuNDgxbnJRdXB1RWY4anYxT0p3NGc3R3pkbXYtQXVCSWVXVWRKNHZNcVhDVklDcWJRTzk5bzM2LVdQUjA2bFNQVmVYY3F0S1ViWXVVVmNQalhZOWhEbDc0a0NYcWtqdnQzSGFBSy1XLXlhOFJfNEtmTGtQNXFwQ0tYM0kwUmV4LUpkdjBtdmVYWF9hM3N1dDBYOVlmLXhSYk9SUVozbUhHX1FuOVBKSmVob1hCd0ltTEdRZEoyNG1WdUhhX05BX0NYeEVHS092RVc?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "summary_method": "rss_fallback"
     },
     {
       "id": "5d215b648ec3256f",
@@ -1323,7 +1502,7 @@
       "ai_category": "general",
       "ai_confidence": 0.99,
       "ai_importance": 2,
-      "ai_novelty": 0.8843,
+      "ai_novelty": 0.8838,
       "ai": {
         "method": "tfidf_cosine_prototype",
         "features": "1-2grams",
@@ -1342,45 +1521,11 @@
       "source_reliability": 1.0,
       "feedback_boost": 0.25,
       "personal_model_score": 0.0,
-      "personal_score": 2.25
-    },
-    {
-      "id": "88c0a20857f0ea9f",
-      "title": "Kerala Gold Rate| സംസ്ഥാനത്ത് സ്വർണവില വീണ്ടും കൂടി: അറിയാം ഇന്നത്തെ നിരക്ക് - News18 Malayalam",
-      "summary": "Kerala Gold Rate| സംസ്ഥാനത്ത് സ്വർണവില വീണ്ടും കൂടി: അറിയാം ഇന്നത്തെ നിരക്ക് News18 Malayalam",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWWNmNjRpZXpOUWt0VmZrMHhZWjdGUnJ3aWZ2bWplbzBLM2xsc1FJbnhkc0UtX1NKV2FybW5sbDZPLW42alp0cm1ESkN3YWVSU2VwUDBqVWNrbzNxZFRWZU5fVkF6RHpnX0NKMUVBc2lIQVNfNWF3VDlVdHRpaGRueXRMcDdtSmtjUjdxSF91Mm5hOTdKWWplZzVQNzdVY3lVSzFsSjYtNG5ZWXd4Zk1KaEJKXzlFb3BLaEh5cw?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "source": "News18 Malayalam",
-      "feed": "Kerala Malayalam News",
-      "published_at": "2026-09-15T05:45:22+00:00",
-      "category": "general",
-      "importance": 2,
-      "ai_category": "general",
-      "ai_confidence": 0.99,
-      "ai_importance": 2,
-      "ai_novelty": 0.8833,
-      "ai": {
-        "method": "tfidf_cosine_prototype",
-        "features": "1-2grams",
-        "version": 2
-      },
-      "entities": [
-        "സംസ്ഥാനത്ത്",
-        "സ്വർണവില",
-        "വീണ്ടും",
-        "കൂടി",
-        "അറിയാം",
-        "ഇന്നത്തെ",
-        "നിരക്ക്",
-        "Kerala Gold Rate",
-        "News18 Malayalam Kerala Gold",
-        "Rate",
-        "News18 Malayalam"
-      ],
-      "source_reliability": 1.0,
-      "feedback_boost": 0.25,
-      "personal_model_score": 0.0,
-      "personal_score": 2.25
+      "personal_score": 2.25,
+      "article_content_available": false,
+      "article_content_length": 0,
+      "summary_source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZVNJVmF0Z1hJdzQ2Q1FrSTJDWG12MjlRX2JEWkdoUW5Hbl9qMEdIU3JmV0xsZWpieWRPZlk1ODhzRlN2Yl9Ma3JvRHhsMTNVU0MyNWVEY3RIZEwybzR2RzIxVGFaMmkxN1RaZWx0VC1aUS0xVTFsbndxZHliYlp6OFFNdVFUVFhtNWFkS25tbmozSHpGd2RvaGN1THJ4b24tZ0lMTnU3YjM0MXJCdkNVaUZUNnYzR0hadzJtNjRJa0FxVG42UEdNNDR3?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "summary_method": "rss_fallback"
     },
     {
       "id": "e0a8738df1bfa177",
@@ -1396,7 +1541,7 @@
       "ai_category": "general",
       "ai_confidence": 0.99,
       "ai_importance": 2,
-      "ai_novelty": 0.8813,
+      "ai_novelty": 0.8801,
       "ai": {
         "method": "tfidf_cosine_prototype",
         "features": "1-2grams",
@@ -1413,7 +1558,51 @@
       "source_reliability": 1.0,
       "feedback_boost": 0.25,
       "personal_model_score": 0.0,
-      "personal_score": 2.25
+      "personal_score": 2.25,
+      "article_content_available": false,
+      "article_content_length": 0,
+      "summary_source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQVFCZm10VXZRaWI0X1RON1hpY0E2Wk9hN2tYeFlVYlRzcGg5c183RXFUcHpCbG9CU2NsRDhLdFdJaXlSS2pnSXJHbEtxRUt4RWZ0cTFKR3Fvdm1IeExyYzVDM19GRXdCV3YzNk1yb0xaczExRncyUUVfLTEtR1pkQUVDTG1DVExnVXZ4WmU5WE5wdW9xMkHSAaMBQVVfeXFMUFhCVHA5OTZMbmJaZ1lpY2kxcUlJdDZzS1ZuN2JNQWdOVFBzUkJ3cGdpaGVNUEh0S3lCY1FsbXF2bnZIWmVMSzl3VmUxUHpNQktKR0RyZXV3VDBXcVVfQjd5aFpyZXlTMkdpMHRROTdhT29qVUxLb0tjVi1VVjlFazZ4WUNVRVl5ZlBQcWpmNjdQaEhSZ2FDSWtRN21XNTA4Z20tOA?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "summary_method": "rss_fallback"
+    },
+    {
+      "id": "eeb2ddc9cd567ced",
+      "title": "ഗ്രീസിൽ ബോട്ട് മുങ്ങി ഒരു മരണം  25 പേരെ കാണാതായി - NEWS 360 - WORLD - Kerala Kaumudi",
+      "summary": "ഗ്രീസിൽ ബോട്ട് മുങ്ങി ഒരു മരണം  25 പേരെ കാണാതായി - NEWS 360 - WORLD Kerala Kaumudi",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1BUHdWb1FJTW84NW5RbkNXRmw2VWtmaGh4ZURQbXNwTnJTSzdnR0sydGl1cTZLcHV2NE9neWtON09UVFFrSHhrZV9XRVZMUld4bURFZ3hqZkhONTdLY3Z1WmVncWc?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "source": "Kerala Kaumudi",
+      "feed": "World Malayalam News",
+      "published_at": "2026-09-15T01:55:33+00:00",
+      "category": "general",
+      "importance": 2,
+      "ai_category": "general",
+      "ai_confidence": 0.99,
+      "ai_importance": 2,
+      "ai_novelty": 0.8259,
+      "ai": {
+        "method": "tfidf_cosine_prototype",
+        "features": "1-2grams",
+        "version": 2
+      },
+      "entities": [
+        "ഗ്രീസിൽ",
+        "ബോട്ട്",
+        "മുങ്ങി",
+        "ഒരു",
+        "മരണം",
+        "പേരെ",
+        "കാണാതായി",
+        "Kerala Kaumudi",
+        "WORLD Kerala Kaumudi"
+      ],
+      "source_reliability": 1.0,
+      "feedback_boost": 0.25,
+      "personal_model_score": 0.0,
+      "personal_score": 2.25,
+      "article_content_available": false,
+      "article_content_length": 0,
+      "summary_source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1BUHdWb1FJTW84NW5RbkNXRmw2VWtmaGh4ZURQbXNwTnJTSzdnR0sydGl1cTZLcHV2NE9neWtON09UVFFrSHhrZV9XRVZMUld4bURFZ3hqZkhONTdLY3Z1WmVncWc?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "summary_method": "rss_fallback"
     },
     {
       "id": "a3e7d9c282c338fb",
@@ -1429,7 +1618,7 @@
       "ai_category": "general",
       "ai_confidence": 0.99,
       "ai_importance": 2,
-      "ai_novelty": 0.8286,
+      "ai_novelty": 0.8235,
       "ai": {
         "method": "tfidf_cosine_prototype",
         "features": "1-2grams",
@@ -1452,7 +1641,11 @@
       "source_reliability": 1.0,
       "feedback_boost": 0.25,
       "personal_model_score": 0.0,
-      "personal_score": 2.25
+      "personal_score": 2.25,
+      "article_content_available": false,
+      "article_content_length": 0,
+      "summary_source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPb3FuZE9qbWVxbkoyN2s0UmpUc1E5LW9qMElaNjZsWnpWZ3hfWUFweHBxc2pTbm5mem5JaUxTdHBtZDhVQ2g0amdiMlRnQU1NS0RtZUFtVjlFRkhlQm81SUtzVjZ3Y05oQ29xSWc3T3h0cVJSUXdiWDFxRjVQWllvcVpacEpTOUl2Q1UyeFlPU3BmVFZHQWRvREhEM25VNEhua0ljSEloTUtFelZxaUpKMDRBMGxuZzA3am54Zlo4WXRUZWsyX0NKNWtNdmViMnhwM2dlX1V2Yw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "summary_method": "rss_fallback"
     },
     {
       "id": "e92f83068980b283",
@@ -1468,7 +1661,7 @@
       "ai_category": "general",
       "ai_confidence": 0.99,
       "ai_importance": 2,
-      "ai_novelty": 0.8061,
+      "ai_novelty": 0.8225,
       "ai": {
         "method": "tfidf_cosine_prototype",
         "features": "1-2grams",
@@ -1488,7 +1681,127 @@
       "source_reliability": 1.0,
       "feedback_boost": 0.25,
       "personal_model_score": 0.0,
-      "personal_score": 2.25
+      "personal_score": 2.25,
+      "article_content_available": false,
+      "article_content_length": 0,
+      "summary_source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1tOEdRVU01MWNHbmFHNTJSNWdXLTNOb2ZPQUNYQnBhUU44bjZVX0pmNlh2bTFvVTVoRFNuRDNQbDB1aHB6UUYySHN3NDZKbkc2ZlMyaklfWUt0MmJXWnlNZWlwczc?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "summary_method": "rss_fallback"
+    },
+    {
+      "id": "8c8e9ee4e661f292",
+      "title": "പശ്ചിമേഷ്യയ്ക്ക് ഇരട്ട പ്രഹരം : സൗദി - ഹൂതി സംഘർഷം രൂക്ഷം - NEWS 360 - WORLD - Kerala Kaumudi",
+      "summary": "പശ്ചിമേഷ്യയ്ക്ക് ഇരട്ട പ്രഹരം : സൗദി - ഹൂതി സംഘർഷം രൂക്ഷം - NEWS 360 - WORLD Kerala Kaumudi",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ZczdZQTRfR1pIc1dleUZ3LUNYYlJmNTVwenZMNUlQZDlvWXZjbVBNZnRpOVpfRXROdDZaZUgyS0VQdE1fZ0U0QWl1UVRFTjJfY0tmWlFJVGNpR0sxdDU1bzFLRE8?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "source": "Kerala Kaumudi",
+      "feed": "World Malayalam News",
+      "published_at": "2026-09-15T01:54:56+00:00",
+      "category": "general",
+      "importance": 2,
+      "ai_category": "general",
+      "ai_confidence": 0.99,
+      "ai_importance": 2,
+      "ai_novelty": 0.8134,
+      "ai": {
+        "method": "tfidf_cosine_prototype",
+        "features": "1-2grams",
+        "version": 2
+      },
+      "entities": [
+        "പശ്ചിമേഷ്യയ്ക്ക്",
+        "ഇരട്ട",
+        "പ്രഹരം",
+        "സൗദി",
+        "ഹൂതി",
+        "സംഘർഷം",
+        "രൂക്ഷം",
+        "Kerala Kaumudi",
+        "WORLD Kerala Kaumudi"
+      ],
+      "source_reliability": 1.0,
+      "feedback_boost": 0.25,
+      "personal_model_score": 0.0,
+      "personal_score": 2.25,
+      "article_content_available": false,
+      "article_content_length": 0,
+      "summary_source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ZczdZQTRfR1pIc1dleUZ3LUNYYlJmNTVwenZMNUlQZDlvWXZjbVBNZnRpOVpfRXROdDZaZUgyS0VQdE1fZ0U0QWl1UVRFTjJfY0tmWlFJVGNpR0sxdDU1bzFLRE8?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "summary_method": "rss_fallback"
+    },
+    {
+      "id": "6b2f5b1a29d19d58",
+      "title": "അൽ ക്വഇദയുമായി ബന്ധം: 19കാരൻ അറസ്റ്റിൽ - NEWS 360 - WORLD - Kerala Kaumudi",
+      "summary": "അൽ ക്വഇദയുമായി ബന്ധം: 19കാരൻ അറസ്റ്റിൽ - NEWS 360 - WORLD Kerala Kaumudi",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1remV1UkdnV0E3SFRveVdNbWRIY1p0YWRqTmhwdWNXVmFGdmZwcEI5RXhFRTJpYVhGTzhjTTlUT1dkTlk2SGRmaEM2VVQzbjRwU3pVdVJNcHRyMXJYWmxCYkJVeEN2TWtDNnc?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "source": "Kerala Kaumudi",
+      "feed": "World Malayalam News",
+      "published_at": "2026-09-15T04:19:42+00:00",
+      "category": "general",
+      "importance": 2,
+      "ai_category": "general",
+      "ai_confidence": 0.99,
+      "ai_importance": 2,
+      "ai_novelty": 0.8042,
+      "ai": {
+        "method": "tfidf_cosine_prototype",
+        "features": "1-2grams",
+        "version": 2
+      },
+      "entities": [
+        "ക്വഇദയുമായി",
+        "ബന്ധം",
+        "കാരൻ",
+        "അറസ്റ്റിൽ",
+        "Kerala Kaumudi",
+        "WORLD Kerala Kaumudi"
+      ],
+      "source_reliability": 1.0,
+      "feedback_boost": 0.25,
+      "personal_model_score": 0.0,
+      "personal_score": 2.25,
+      "article_content_available": false,
+      "article_content_length": 0,
+      "summary_source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1remV1UkdnV0E3SFRveVdNbWRIY1p0YWRqTmhwdWNXVmFGdmZwcEI5RXhFRTJpYVhGTzhjTTlUT1dkTlk2SGRmaEM2VVQzbjRwU3pVdVJNcHRyMXJYWmxCYkJVeEN2TWtDNnc?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "summary_method": "rss_fallback"
+    },
+    {
+      "id": "58100d224ec6cfff",
+      "title": "റഷ്യൻ ആക്രമണം: തലനാരിഴയ്ക്ക് രക്ഷപെട്ട് ബോറിസ് ജോൺസൺ - NEWS 360 - WORLD - Kerala Kaumudi",
+      "summary": "റഷ്യൻ ആക്രമണം: തലനാരിഴയ്ക്ക് രക്ഷപെട്ട് ബോറിസ് ജോൺസൺ - NEWS 360 - WORLD Kerala Kaumudi",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9aUTg1MkJVZm1iYi01V0QzNjQ0TC11TWtTdkhVYTFBTkdBa1FRR2otQ09JOUpQZ3ZrZlRpX2t4XzJRNUxhUnVSVWFyM09RcDAzM2lzSHpQb0h2ZWQzcnlTTk9wQlE?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "source": "Kerala Kaumudi",
+      "feed": "World Malayalam News",
+      "published_at": "2026-09-15T02:11:50+00:00",
+      "category": "general",
+      "importance": 2,
+      "ai_category": "general",
+      "ai_confidence": 0.99,
+      "ai_importance": 2,
+      "ai_novelty": 0.8034,
+      "ai": {
+        "method": "tfidf_cosine_prototype",
+        "features": "1-2grams",
+        "version": 2
+      },
+      "entities": [
+        "റഷ്യൻ",
+        "ആക്രമണം",
+        "തലനാരിഴയ്ക്ക്",
+        "രക്ഷപെട്ട്",
+        "ബോറിസ്",
+        "ജോൺസൺ",
+        "Kerala Kaumudi",
+        "WORLD Kerala Kaumudi"
+      ],
+      "source_reliability": 1.0,
+      "feedback_boost": 0.25,
+      "personal_model_score": 0.0,
+      "personal_score": 2.25,
+      "article_content_available": false,
+      "article_content_length": 0,
+      "summary_source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9aUTg1MkJVZm1iYi01V0QzNjQ0TC11TWtTdkhVYTFBTkdBa1FRR2otQ09JOUpQZ3ZrZlRpX2t4XzJRNUxhUnVSVWFyM09RcDAzM2lzSHpQb0h2ZWQzcnlTTk9wQlE?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "summary_method": "rss_fallback"
     },
     {
       "id": "3bc419ab9a43d9d6",
@@ -1520,111 +1833,11 @@
       "source_reliability": 1.0,
       "feedback_boost": 0.25,
       "personal_model_score": 0.0,
-      "personal_score": 2.25
-    },
-    {
-      "id": "8c8e9ee4e661f292",
-      "title": "പശ്ചിമേഷ്യയ്ക്ക് ഇരട്ട പ്രഹരം : സൗദി - ഹൂതി സംഘർഷം രൂക്ഷം - NEWS 360 - WORLD - Kerala Kaumudi",
-      "summary": "പശ്ചിമേഷ്യയ്ക്ക് ഇരട്ട പ്രഹരം : സൗദി - ഹൂതി സംഘർഷം രൂക്ഷം - NEWS 360 - WORLD Kerala Kaumudi",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ZczdZQTRfR1pIc1dleUZ3LUNYYlJmNTVwenZMNUlQZDlvWXZjbVBNZnRpOVpfRXROdDZaZUgyS0VQdE1fZ0U0QWl1UVRFTjJfY0tmWlFJVGNpR0sxdDU1bzFLRE8?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "source": "Kerala Kaumudi",
-      "feed": "World Malayalam News",
-      "published_at": "2026-09-15T01:54:56+00:00",
-      "category": "general",
-      "importance": 2,
-      "ai_category": "general",
-      "ai_confidence": 0.99,
-      "ai_importance": 2,
-      "ai_novelty": 0.7966,
-      "ai": {
-        "method": "tfidf_cosine_prototype",
-        "features": "1-2grams",
-        "version": 2
-      },
-      "entities": [
-        "പശ്ചിമേഷ്യയ്ക്ക്",
-        "ഇരട്ട",
-        "പ്രഹരം",
-        "സൗദി",
-        "ഹൂതി",
-        "സംഘർഷം",
-        "രൂക്ഷം",
-        "Kerala Kaumudi",
-        "WORLD Kerala Kaumudi"
-      ],
-      "source_reliability": 1.0,
-      "feedback_boost": 0.25,
-      "personal_model_score": 0.0,
-      "personal_score": 2.25
-    },
-    {
-      "id": "6b2f5b1a29d19d58",
-      "title": "അൽ ക്വഇദയുമായി ബന്ധം: 19കാരൻ അറസ്റ്റിൽ - NEWS 360 - WORLD - Kerala Kaumudi",
-      "summary": "അൽ ക്വഇദയുമായി ബന്ധം: 19കാരൻ അറസ്റ്റിൽ - NEWS 360 - WORLD Kerala Kaumudi",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1remV1UkdnV0E3SFRveVdNbWRIY1p0YWRqTmhwdWNXVmFGdmZwcEI5RXhFRTJpYVhGTzhjTTlUT1dkTlk2SGRmaEM2VVQzbjRwU3pVdVJNcHRyMXJYWmxCYkJVeEN2TWtDNnc?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "source": "Kerala Kaumudi",
-      "feed": "World Malayalam News",
-      "published_at": "2026-09-15T04:19:42+00:00",
-      "category": "general",
-      "importance": 2,
-      "ai_category": "general",
-      "ai_confidence": 0.99,
-      "ai_importance": 2,
-      "ai_novelty": 0.7865,
-      "ai": {
-        "method": "tfidf_cosine_prototype",
-        "features": "1-2grams",
-        "version": 2
-      },
-      "entities": [
-        "ക്വഇദയുമായി",
-        "ബന്ധം",
-        "കാരൻ",
-        "അറസ്റ്റിൽ",
-        "Kerala Kaumudi",
-        "WORLD Kerala Kaumudi"
-      ],
-      "source_reliability": 1.0,
-      "feedback_boost": 0.25,
-      "personal_model_score": 0.0,
-      "personal_score": 2.25
-    },
-    {
-      "id": "58100d224ec6cfff",
-      "title": "റഷ്യൻ ആക്രമണം: തലനാരിഴയ്ക്ക് രക്ഷപെട്ട് ബോറിസ് ജോൺസൺ - NEWS 360 - WORLD - Kerala Kaumudi",
-      "summary": "റഷ്യൻ ആക്രമണം: തലനാരിഴയ്ക്ക് രക്ഷപെട്ട് ബോറിസ് ജോൺസൺ - NEWS 360 - WORLD Kerala Kaumudi",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9aUTg1MkJVZm1iYi01V0QzNjQ0TC11TWtTdkhVYTFBTkdBa1FRR2otQ09JOUpQZ3ZrZlRpX2t4XzJRNUxhUnVSVWFyM09RcDAzM2lzSHpQb0h2ZWQzcnlTTk9wQlE?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "source": "Kerala Kaumudi",
-      "feed": "World Malayalam News",
-      "published_at": "2026-09-15T02:11:50+00:00",
-      "category": "general",
-      "importance": 2,
-      "ai_category": "general",
-      "ai_confidence": 0.99,
-      "ai_importance": 2,
-      "ai_novelty": 0.7857,
-      "ai": {
-        "method": "tfidf_cosine_prototype",
-        "features": "1-2grams",
-        "version": 2
-      },
-      "entities": [
-        "റഷ്യൻ",
-        "ആക്രമണം",
-        "തലനാരിഴയ്ക്ക്",
-        "രക്ഷപെട്ട്",
-        "ബോറിസ്",
-        "ജോൺസൺ",
-        "Kerala Kaumudi",
-        "WORLD Kerala Kaumudi"
-      ],
-      "source_reliability": 1.0,
-      "feedback_boost": 0.25,
-      "personal_model_score": 0.0,
-      "personal_score": 2.25
+      "personal_score": 2.25,
+      "article_content_available": false,
+      "article_content_length": 0,
+      "summary_source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQOEFYY0JtTFZFRllqdWNHMnFsUllBdFdXVVVpSFlXZUJSQW9ab2M2V0hiVHpyMnVBX01KVUxIWmFTTVFXRDkxZ3Y0U181Q2JmQ1o3VkF2Z3Z6a0J6bENUZnNaQ2Q5SElMOE5ycUlxNk12Ml9Vc0pmc2J1YTdQX25BUFVmS2pGUFh4bF9LcjZIRG_SAZYBQVVfeXFMTk5UeEFIcHdKZUREejZvOUdYT21TVlU2emQxYlpOZkVsaU9XTGw1Vm9JbjE2d2RBQTdfMlctOE5YemFzYzExTTJuNEUxazIxaWk4c18wUng3WG5zUUhaSlVrcXBmbTYxN0pMeF9vQ1dGcHY3RzQ3dHQ1b01BaEZXcDB3OXpCT0lzUWhpNFA1RWlkb3RjY0hn?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "summary_method": "rss_fallback"
     },
     {
       "id": "cce46f3a1546e7b0",
@@ -1640,7 +1853,7 @@
       "ai_category": "general",
       "ai_confidence": 0.99,
       "ai_importance": 2,
-      "ai_novelty": 0.7728,
+      "ai_novelty": 0.7644,
       "ai": {
         "method": "tfidf_cosine_prototype",
         "features": "1-2grams",
@@ -1659,43 +1872,49 @@
       "source_reliability": 1.0,
       "feedback_boost": 0.25,
       "personal_model_score": 0.0,
-      "personal_score": 2.25
+      "personal_score": 2.25,
+      "article_content_available": false,
+      "article_content_length": 0,
+      "summary_source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE45XzdhbXAtNlpqMWpWUHhtaVRaSkRfcWdoUDVPdVpHeGZDbHIyRlVySjVPemNUdDhrVEFCSDJaaUl6andxcEY4clpKMVlqTWlvM01MdFNzX0ZWWGM4c1JsRmxsS1M?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "summary_method": "rss_fallback"
     },
     {
-      "id": "eeb2ddc9cd567ced",
-      "title": "ഗ്രീസിൽ ബോട്ട് മുങ്ങി ഒരു മരണം  25 പേരെ കാണാതായി - NEWS 360 - WORLD - Kerala Kaumudi",
-      "summary": "ഗ്രീസിൽ ബോട്ട് മുങ്ങി ഒരു മരണം  25 പേരെ കാണാതായി - NEWS 360 - WORLD Kerala Kaumudi",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1BUHdWb1FJTW84NW5RbkNXRmw2VWtmaGh4ZURQbXNwTnJTSzdnR0sydGl1cTZLcHV2NE9neWtON09UVFFrSHhrZV9XRVZMUld4bURFZ3hqZkhONTdLY3Z1WmVncWc?oc=5",
+      "id": "1b952b4f8e21b630",
+      "title": "ഹോ‌ർമുസിൽ വീണ്ടും സ്‌ഫോടനം; പൊട്ടിത്തെറിയുണ്ടായത് തന്ത്രപ്രധാന മേഖലയിൽ - Kerala Kaumudi",
+      "summary": "ഹോ‌ർമുസിൽ വീണ്ടും സ്‌ഫോടനം; പൊട്ടിത്തെറിയുണ്ടായത് തന്ത്രപ്രധാന മേഖലയിൽ Kerala Kaumudi",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbzhfaWl0T2Judm8tdDhxa0pfcXF1VnJmZ1ZJNGRjRWNTcF8tck1LdEtnX3d6NmF6cno1TEg3aXhUMHpxanB3Q1Q0dWpxSTYyUFA3bGpXRll3Mk9ockdMMV9tQ0xGSmliem5ZTjh5cG5lcU56UmtnbnJfQk1BUUZQMldLaGh4WEtaWDZkVU1ObGhoQ2ZhZFE?oc=5",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "source": "Kerala Kaumudi",
       "feed": "World Malayalam News",
-      "published_at": "2026-09-15T01:55:33+00:00",
+      "published_at": "2026-09-13T01:53:27+00:00",
       "category": "general",
-      "importance": 2,
+      "importance": 1,
       "ai_category": "general",
       "ai_confidence": 0.99,
-      "ai_importance": 2,
-      "ai_novelty": 0.5442,
+      "ai_importance": 1,
+      "ai_novelty": 0.9488,
       "ai": {
         "method": "tfidf_cosine_prototype",
         "features": "1-2grams",
         "version": 2
       },
       "entities": [
-        "ഗ്രീസിൽ",
-        "ബോട്ട്",
-        "മുങ്ങി",
-        "ഒരു",
-        "മരണം",
-        "പേരെ",
-        "കാണാതായി",
-        "Kerala Kaumudi",
-        "WORLD Kerala Kaumudi"
+        "ർമുസിൽ",
+        "വീണ്ടും",
+        "ഫോടനം",
+        "പൊട്ടിത്തെറിയുണ്ടായത്",
+        "തന്ത്രപ്രധാന",
+        "മേഖലയിൽ",
+        "Kerala Kaumudi"
       ],
       "source_reliability": 1.0,
       "feedback_boost": 0.25,
       "personal_model_score": 0.0,
-      "personal_score": 2.25
+      "personal_score": 1.25,
+      "article_content_available": false,
+      "article_content_length": 0,
+      "summary_source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbzhfaWl0T2Judm8tdDhxa0pfcXF1VnJmZ1ZJNGRjRWNTcF8tck1LdEtnX3d6NmF6cno1TEg3aXhUMHpxanB3Q1Q0dWpxSTYyUFA3bGpXRll3Mk9ockdMMV9tQ0xGSmliem5ZTjh5cG5lcU56UmtnbnJfQk1BUUZQMldLaGh4WEtaWDZkVU1ObGhoQ2ZhZFE?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "summary_method": "rss_fallback"
     },
     {
       "id": "ac62cfa211b7ebf2",
@@ -1711,7 +1930,7 @@
       "ai_category": "general",
       "ai_confidence": 0.99,
       "ai_importance": 1,
-      "ai_novelty": 0.9425,
+      "ai_novelty": 0.9455,
       "ai": {
         "method": "tfidf_cosine_prototype",
         "features": "1-2grams",
@@ -1729,7 +1948,11 @@
       "source_reliability": 1.0,
       "feedback_boost": 0.25,
       "personal_model_score": 0.0,
-      "personal_score": 1.25
+      "personal_score": 1.25,
+      "article_content_available": false,
+      "article_content_length": 0,
+      "summary_source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ydVk3TlIyV2l4aElWVlEtSDJNaUI1THFDZ1BOT2x2V05XeWdITVhobDFnTXZ6Y05yazNKdFpDVHUtSmRIVjNsZFoxdTNhTEItalN5Rmx3QjVLaHA3Zjg2UXR4NkQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "summary_method": "rss_fallback"
     },
     {
       "id": "fec10bf9da0e577b",
@@ -1745,7 +1968,7 @@
       "ai_category": "general",
       "ai_confidence": 0.99,
       "ai_importance": 1,
-      "ai_novelty": 0.7865,
+      "ai_novelty": 0.8042,
       "ai": {
         "method": "tfidf_cosine_prototype",
         "features": "1-2grams",
@@ -1764,40 +1987,11 @@
       "source_reliability": 1.0,
       "feedback_boost": 0.25,
       "personal_model_score": 0.0,
-      "personal_score": 1.25
-    },
-    {
-      "id": "76ccefd2e5e7cd54",
-      "title": "ബ്രിക്സ് : അത്താഴ വിരുന്ന് മെനു - NEWS 360 - WORLD - Kerala Kaumudi",
-      "summary": "ബ്രിക്സ് : അത്താഴ വിരുന്ന് മെനു - NEWS 360 - WORLD Kerala Kaumudi",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE44Yi1TdG1IVHVsWWxfZnVhbGxLRGVKZEk5UUdjLV9qaEV6cDBJcy1nVFlfWm5iS0I3dWVGd1ZsOU0wNVdvSFNTVUZvMUdmcXBXUUZwUjIwWHdCZnJDdVFyOHl3aGI?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "source": "Kerala Kaumudi",
-      "feed": "World Malayalam News",
-      "published_at": "2026-09-14T02:31:39+00:00",
-      "category": "general",
-      "importance": 1,
-      "ai_category": "general",
-      "ai_confidence": 0.99,
-      "ai_importance": 1,
-      "ai_novelty": 0.7839,
-      "ai": {
-        "method": "tfidf_cosine_prototype",
-        "features": "1-2grams",
-        "version": 2
-      },
-      "entities": [
-        "ബ്രിക്സ്",
-        "അത്താഴ",
-        "വിരുന്ന്",
-        "മെനു",
-        "Kerala Kaumudi",
-        "WORLD Kerala Kaumudi"
-      ],
-      "source_reliability": 1.0,
-      "feedback_boost": 0.25,
-      "personal_model_score": 0.0,
-      "personal_score": 1.25
+      "personal_score": 1.25,
+      "article_content_available": false,
+      "article_content_length": 0,
+      "summary_source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5CNWg2NVNMTkxMa2xGQmdmQ1Q4QVZQX2FfQ3N1RVRqQ3UxS0hMTTAzQ3ExMzg2NHlEX0FyeFNFcjdWQkNmOEcwZ1VvS29wNUQ0eDlFYTVuUjhXR3NqSGVva1NQRVM?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "summary_method": "rss_fallback"
     },
     {
       "id": "3f0db1c4253a4df0",
@@ -1813,7 +2007,7 @@
       "ai_category": "general",
       "ai_confidence": 0.99,
       "ai_importance": 1,
-      "ai_novelty": 0.7651,
+      "ai_novelty": 0.7493,
       "ai": {
         "method": "tfidf_cosine_prototype",
         "features": "1-2grams",
@@ -1831,42 +2025,49 @@
       "source_reliability": 1.0,
       "feedback_boost": 0.25,
       "personal_model_score": 0.0,
-      "personal_score": 1.25
+      "personal_score": 1.25,
+      "article_content_available": false,
+      "article_content_length": 0,
+      "summary_source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5oUGVHWDBiZGZWSUxRaFB6dDFLUWVkeGRZUnlxc1Rsblk2UGlFRk1wOXpOQ1NJaFN0Qjk0RzNORk5sU3owNElDREJhaW9lTll6bTNMcXJhRU1sclM3SWJKZDVxSURDc1IxbkE?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "summary_method": "rss_fallback"
     },
     {
-      "id": "03840532bea521ed",
-      "title": "ഇൻഡോനേഷ്യയിൽ കപ്പൽ മുങ്ങി 6 മരണം  129 പേരെ കാണാതായി - NEWS 360 - WORLD - Kerala Kaumudi",
-      "summary": "ഇൻഡോനേഷ്യയിൽ കപ്പൽ മുങ്ങി 6 മരണം  129 പേരെ കാണാതായി - NEWS 360 - WORLD Kerala Kaumudi",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1BTUVYQm81QTVDZHlxZ0NhbTZYMWpfNTRJVWN3WjdDbTRhdElqQmVJa2JscF94Z3FaZllPR0NOcTI2ZjNCU3BYdXdRcVAyWllGcnAzUWRxX1dsanRkUEk2a095SEc?oc=5",
+      "id": "6493f3e1eb783ab5",
+      "title": "യു.എ.ഇയുമായി മോദിയുടെ 'ഊർജ ഇടനാഴി' ചർച്ച - NEWS 360 - WORLD - Kerala Kaumudi",
+      "summary": "യു.എ.ഇയുമായി മോദിയുടെ 'ഊർജ ഇടനാഴി' ചർച്ച - NEWS 360 - WORLD Kerala Kaumudi",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBVUW8waG1lYXM2OFBJYjBxdGpWWWZleHRJa0tEbHFHSGpLLTVlQ1pNM0h2OHU0SU5ESFZITWR6MjFBUUgySDd4Qkd0anhINEhra1VLQmk0RWpmWTlfdXhIbGRjTm1nTnQ1eWc?oc=5",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "source": "Kerala Kaumudi",
       "feed": "World Malayalam News",
-      "published_at": "2026-09-14T02:21:47+00:00",
+      "published_at": "2026-09-12T23:58:45+00:00",
       "category": "general",
       "importance": 1,
       "ai_category": "general",
       "ai_confidence": 0.99,
       "ai_importance": 1,
-      "ai_novelty": 0.5442,
+      "ai_novelty": 0.7493,
       "ai": {
         "method": "tfidf_cosine_prototype",
         "features": "1-2grams",
         "version": 2
       },
       "entities": [
-        "ഇൻഡോനേഷ്യയിൽ",
-        "കപ്പൽ",
-        "മുങ്ങി",
-        "മരണം",
-        "പേരെ",
-        "കാണാതായി",
+        "ഇയുമായി",
+        "മോദിയുടെ",
+        "ഊർജ",
+        "ഇടനാഴി",
+        "ചർച്ച",
         "Kerala Kaumudi",
         "WORLD Kerala Kaumudi"
       ],
       "source_reliability": 1.0,
       "feedback_boost": 0.25,
       "personal_model_score": 0.0,
-      "personal_score": 1.25
+      "personal_score": 1.25,
+      "article_content_available": false,
+      "article_content_length": 0,
+      "summary_source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBVUW8waG1lYXM2OFBJYjBxdGpWWWZleHRJa0tEbHFHSGpLLTVlQ1pNM0h2OHU0SU5ESFZITWR6MjFBUUgySDd4Qkd0anhINEhra1VLQmk0RWpmWTlfdXhIbGRjTm1nTnQ1eWc?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "summary_method": "rss_fallback"
     }
   ],
   "tech": [
@@ -1884,7 +2085,7 @@
       "ai_category": "tech",
       "ai_confidence": 0.7253,
       "ai_importance": 10,
-      "ai_novelty": 0.9511,
+      "ai_novelty": 0.9556,
       "ai": {
         "method": "tfidf_cosine_prototype",
         "features": "1-2grams",
@@ -1900,13 +2101,17 @@
       "source_reliability": 1.0,
       "feedback_boost": 0.0,
       "personal_model_score": 0.0,
-      "personal_score": 10.0
+      "personal_score": 10.0,
+      "article_content_available": false,
+      "article_content_length": 0,
+      "summary_source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZFM0eTBHdndRWTJ4amgtdDVTWUt4RGZGUUt2WXlPSjdySm1IOGp3RmlERkl0WktOQnU3dVg3NnRscHF0WFZqWjlCUUpTMUxyZjk2SVRUM1BzZFRDZkVwOURPNVMzdUs0TC14V0gzNV9aUTFTdE5DakpKRkY5VzhNZER0aGY0cGZNak1GemJLMWRWNnQ3UmZ6eDdVczJzTW1XRGN3aUVncmNTQTNX?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "summary_method": "rss_fallback"
     },
     {
-      "id": "18f38a837cf00f03",
+      "id": "ae6d628a1c3477bf",
       "title": "'Immense Harm In 5 Years': Google's AI Researcher Quits With Stark Warning - NDTV",
       "summary": "'Immense Harm In 5 Years': Google's AI Researcher Quits With Stark Warning NDTV",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQW1pVlRJcFpIcmNVckVUdmUwZXJrLVRRaEVMOEtfZkd5aDcweHg4eS11QmZXR2cyUUNDeHVKVW5IWW84SlhwWDF5VzlhSEdPM21NaGlqQVBMb2hrQi13dEFIQ2c4blBlblRNQkt6ZmQzdjU4cGxyOXRwdHB4cldZWmJ1R2lieDcwSlFMcHBGZ0NNMXBVenppOWhDSHBscnBxcDJETHlheFM0MklxSTlDTjJCVXBXU2JZTUJmNVQtMW13NlXSAcsBQVVfeXFMTTBmWGdET1VXOVIzNk5KcWMyVTByRE1NMzkwR19PN0ZYdGRtN09YZlczcEdBMmo2aXV0MzZsR0lacS1TRGpFVkJ6U2RLZmJ1VnNBMUdGb1JfcE9KQzlENEdpWlZnT0F0NmFoSnRrQVY1anVWeENDM3c1Y29oVVhmN3F1Xy1NU21CR2MwRXNaVTJDRWlLSHBUSDNaaWppci0tWWpuYlc2ZTRCRHFTTjlQa296d1NCeENNOGdTY0JnbHVaODMyRlktQnlmUWs?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQW1pVlRJcFpIcmNVckVUdmUwZXJrLVRRaEVMOEtfZkd5aDcweHg4eS11QmZXR2cyUUNDeHVKVW5IWW84SlhwWDF5VzlhSEdPM21NaGlqQVBMb2hrQi13dEFIQ2c4blBlblRNQkt6ZmQzdjU4cGxyOXRwdHB4cldZWmJ1R2lieDcwSlFMcHBGZ0NNMXBVenppOWhDSHBscnBxcDJETHlheFM0MklxSTlDTjJCVXBXU2JZTUJmNVQtMW13NlU?oc=5",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "source": "NDTV",
       "feed": "Artificial Intelligence",
@@ -1916,7 +2121,7 @@
       "ai_category": "tech",
       "ai_confidence": 0.7087,
       "ai_importance": 10,
-      "ai_novelty": 0.9502,
+      "ai_novelty": 0.9496,
       "ai": {
         "method": "tfidf_cosine_prototype",
         "features": "1-2grams",
@@ -1934,7 +2139,11 @@
       "source_reliability": 1.0,
       "feedback_boost": 0.0,
       "personal_model_score": 0.0,
-      "personal_score": 10.0
+      "personal_score": 10.0,
+      "article_content_available": false,
+      "article_content_length": 0,
+      "summary_source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQW1pVlRJcFpIcmNVckVUdmUwZXJrLVRRaEVMOEtfZkd5aDcweHg4eS11QmZXR2cyUUNDeHVKVW5IWW84SlhwWDF5VzlhSEdPM21NaGlqQVBMb2hrQi13dEFIQ2c4blBlblRNQkt6ZmQzdjU4cGxyOXRwdHB4cldZWmJ1R2lieDcwSlFMcHBGZ0NNMXBVenppOWhDSHBscnBxcDJETHlheFM0MklxSTlDTjJCVXBXU2JZTUJmNVQtMW13NlU?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "summary_method": "rss_fallback"
     },
     {
       "id": "79926f0519aa8dc8",
@@ -1950,7 +2159,7 @@
       "ai_category": "tech",
       "ai_confidence": 0.99,
       "ai_importance": 10,
-      "ai_novelty": 0.926,
+      "ai_novelty": 0.9205,
       "ai": {
         "method": "tfidf_cosine_prototype",
         "features": "1-2grams",
@@ -1966,37 +2175,11 @@
       "source_reliability": 1.0,
       "feedback_boost": 0.0,
       "personal_model_score": 0.0,
-      "personal_score": 10.0
-    },
-    {
-      "id": "25b0cc3d35156e2e",
-      "title": "Why doomsday warnings are not the only threat to the AI juggernaut - BBC",
-      "summary": "Why doomsday warnings are not the only threat to the AI juggernaut BBC",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBkRkw4aHczYV9fQXhtSXJBb3A2YkJqeS03cGQzRnlXVEprUGJuUU1jaFdyOEdfRll6NFFfeG9BTGoxRFk0LWJ4bVA3eVZreW9SVU1KTlJVMXowdWc?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "source": "BBC",
-      "feed": "Artificial Intelligence",
-      "published_at": "2026-09-15T23:39:55+00:00",
-      "category": "tech",
-      "importance": 10,
-      "ai_category": "tech",
-      "ai_confidence": 0.99,
-      "ai_importance": 10,
-      "ai_novelty": 0.9233,
-      "ai": {
-        "method": "tfidf_cosine_prototype",
-        "features": "1-2grams",
-        "version": 2
-      },
-      "entities": [
-        "Why",
-        "BBC Why",
-        "BBC"
-      ],
-      "source_reliability": 1.0,
-      "feedback_boost": 0.0,
-      "personal_model_score": 0.0,
-      "personal_score": 10.0
+      "personal_score": 10.0,
+      "article_content_available": false,
+      "article_content_length": 0,
+      "summary_source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZnYyNjFfSTR4ZmZJb0ZJQmItdFdXdlpmdTZDdndoWjJHemZuNU9kb19jUFAtRkRfWHlNdXByNjY5ZUN4QVVSWmg3UU41NVczREpfdGM2eHhXZlMwUXE3R0xybU4xZHVGY0V3aXdheHZteUU1VnkwNHU5VFZtdU1OVnI5NnAzSFI3R1ZLaWFybERFbnVSYTN1dlVCU3gwaDBHekVqYw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "summary_method": "rss_fallback"
     },
     {
       "id": "62f6acd31c9489a1",
@@ -2012,7 +2195,7 @@
       "ai_category": "tech",
       "ai_confidence": 0.99,
       "ai_importance": 10,
-      "ai_novelty": 0.905,
+      "ai_novelty": 0.9007,
       "ai": {
         "method": "tfidf_cosine_prototype",
         "features": "1-2grams",
@@ -2025,7 +2208,11 @@
       "source_reliability": 1.0,
       "feedback_boost": 0.0,
       "personal_model_score": 0.0,
-      "personal_score": 10.0
+      "personal_score": 10.0,
+      "article_content_available": false,
+      "article_content_length": 0,
+      "summary_source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5POW85aGxGOHlFaWFnbmplOS13c2VxSnlVN28wcEdzVzN2c2RReUVFZTlSclJCcFl0WXg1LUNjUmJJbERDMURGYmtmdTh3MWxPUkJpbm9jd0haTjJK?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "summary_method": "rss_fallback"
     },
     {
       "id": "757af583aa0124a7",
@@ -2041,7 +2228,7 @@
       "ai_category": "tech",
       "ai_confidence": 0.99,
       "ai_importance": 10,
-      "ai_novelty": 0.8932,
+      "ai_novelty": 0.8931,
       "ai": {
         "method": "tfidf_cosine_prototype",
         "features": "1-2grams",
@@ -2056,7 +2243,11 @@
       "source_reliability": 1.0,
       "feedback_boost": 0.0,
       "personal_model_score": 0.0,
-      "personal_score": 10.0
+      "personal_score": 10.0,
+      "article_content_available": false,
+      "article_content_length": 0,
+      "summary_source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWk9aQlMxQjdiRGxTaFJhaW5GdGZiS1QtM21wVHV6OHgyaGtWSGZBbGw4ZGE0TGlDTUd1QXVvQXJLRmdJTkVTcEx4QWxYaE5EZW4yVHBaNG05Vnp4UGdJNkZkY0RXY3o2M2JaU1dTT0ZiaTBVSk51cC1KYWdjbEhyZzk4ekY5RGVWcU1sZUVNdUdGZVBNTmNaSU5zZ1pid19RYzhvV3JjZ0h1dmtKWm85RQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "summary_method": "rss_fallback"
     },
     {
       "id": "908487f705c1359c",
@@ -2072,7 +2263,7 @@
       "ai_category": "tech",
       "ai_confidence": 0.4039,
       "ai_importance": 10,
-      "ai_novelty": 0.7905,
+      "ai_novelty": 0.8043,
       "ai": {
         "method": "tfidf_cosine_prototype",
         "features": "1-2grams",
@@ -2088,7 +2279,11 @@
       "source_reliability": 1.0,
       "feedback_boost": 0.0,
       "personal_model_score": 0.0,
-      "personal_score": 10.0
+      "personal_score": 10.0,
+      "article_content_available": false,
+      "article_content_length": 0,
+      "summary_source_url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxNTkN5UktfVktzaUt1OGt6QUJBd1pYTUhnOUFOcFAtNHZzdkZEdERMaUhLV2gycXBSWWctVFczOWVGdkd4WHRuMXNtVmhZTXlwaFJEbmw0WEdzdUdjRGNjdTZmWUZpRTI2VnAtMmRsT0FheVdyYUxYUk1LdndXTjFQTkVoMGpBcnV5WFB5bng0bFltYmxkdG5xZmdhWEQtU1dnRVF4a3JCR2VlOWFOZktYNWxoOTdjX21aSU5IT3AweURZS0RGZHJuaUJ1X0JBTkU4bFdPSUZuRmRKZFJsTzhSRWNhMjd2WDZYNHFWa3U1TkVTYXZEa0ttdGRJMFRySkJxdEZGeFo2bUQwQ0NGSGhTT1F2aGxfaW9nemswd3FEVllFb05sbmc00gGsAkFVX3lxTE1yZnhlNzd5Zm85R3RGOFdLRU9RZy1RVWk5YW9VdXBKc0RGRkc5YzZUT1V6aFVORTJBY1kzc3dHRmhLNnpCeHRXanVCOHVoSGpkaExOSkxYc0pyT3g4SkJxS1NkX1FBNUxwZDQ5YjJBdWNJVFNoTjBfTDVZYUhqT2FFc2tiX0R1RlpQWUVtaEQ4cDctTW1lQ0dycFU4ZlFHblM3dVh4ZjZQcDhCTGpOaXBqWWdQUVhHdzBjRV96SU1Jb2t4TDJhWlIwWXBxTXJrbFVhclNsV25zRE9VWE15Nm9QeE9uVlg5NGdMVnRiemwwOU95QWlZbzlnUklhQkVHUkVQN0RHb0RmUklBQXR5azU5SEw5RXJtelVBOHNmYkRZamVEQkN4VFdyQlpvZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "summary_method": "rss_fallback"
     },
     {
       "id": "f4486eeab67ee729",
@@ -2104,7 +2299,7 @@
       "ai_category": "tech",
       "ai_confidence": 0.99,
       "ai_importance": 10,
-      "ai_novelty": 0.7814,
+      "ai_novelty": 0.7812,
       "ai": {
         "method": "tfidf_cosine_prototype",
         "features": "1-2grams",
@@ -2118,7 +2313,11 @@
       "source_reliability": 1.0,
       "feedback_boost": 0.0,
       "personal_model_score": 0.0,
-      "personal_score": 10.0
+      "personal_score": 10.0,
+      "article_content_available": false,
+      "article_content_length": 0,
+      "summary_source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQYnlvLTFsVjV1Yy1ob0tMZlFteERucTdKRGdOcFVURUg3Wm9RYi00NU5XVDVEcW9ndzFkeTdmcTNieHNsU1J0Z0RfSkx6RGFJZEpiOVZZNElYdEQ0SExrRHk0UFhkckJfN2pPSjBlbzQtQllCQUVONjRPMHk2TTRXelo2WXhld093XzZNaFEyZDRIVU9zVmlxZzJ3?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "summary_method": "rss_fallback"
     },
     {
       "id": "a60c803b3a37aa3b",
@@ -2134,7 +2333,7 @@
       "ai_category": "tech",
       "ai_confidence": 0.99,
       "ai_importance": 9,
-      "ai_novelty": 0.9688,
+      "ai_novelty": 0.9652,
       "ai": {
         "method": "tfidf_cosine_prototype",
         "features": "1-2grams",
@@ -2149,38 +2348,44 @@
       "source_reliability": 1.0,
       "feedback_boost": 0.0,
       "personal_model_score": 0.0,
-      "personal_score": 9.0
+      "personal_score": 9.0,
+      "article_content_available": false,
+      "article_content_length": 0,
+      "summary_source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOc21xbFJFOWFNS19LczdfVS1XRXNJZFphbEI4alhqd09jX3dZVVhaVEh4OFUtcWpNSDZBZzVpVVpNUnFMX2RRRGNHZEVnNDNXTWNrWmlpWXJpWk1JYjFwckFuNTMzQWRzckNlaEZETmlwYVg3ZFJPWl9RZkdUdEZkSndLY1FHMWQ2d0g3T1Ytb0R6WUdWM2huTEhzbThHdmF4bHB2RnZlUlNQUm1kSnFFLWtSYjU5SUNFNmc?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "summary_method": "rss_fallback"
     },
     {
-      "id": "07de489e55e91d9b",
-      "title": "1.8M Android APKs Scanned for Hardcoded Secrets in Automated Attack - eSecurity Planet",
-      "summary": "1.8M Android APKs Scanned for Hardcoded Secrets in Automated Attack eSecurity Planet",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNW01M28zdnZaZl8xSWdhNGhKVVQwcWdfLVU4ckZ6RzVFYmlqSVNaaVhfZ3BoejhlQTZaQl9TTUtWMGhzSVV3VDlScXBhNVQ2UFZWMXhmSnFjR3VJRURsbzYzWEx1RXd6WGVwSUM2TjN4WXFfMUtSNXBzTmp0RWpfZEFlZ1cxd0RwOEVjNTZNTm8ySzFqNlUyRnFpdGk?oc=5",
+      "id": "30d689ea89349913",
+      "title": "MOB: Trusted provider of drone cybersecurity and hardware, poised for growth amid regulatory shifts - tradingview.com",
+      "summary": "MOB: Trusted provider of drone cybersecurity and hardware, poised for growth amid regulatory shifts tradingview.com",
+      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPU0NxdHNiblJpbEE1WTlqMUpwMVVPRnlFdHRvd3RncUVxd3pNRXR1b1hKR1c3M3A2M0JqX3VyeENPc1QtVmtCd001eUFRdWl6UEZtR29fR0pNVFQ4Yk05TnBlX3pjTkhLeUF0OUtqRy1NUTlLUXNpYlZCSkktemVNV3VWUklGT0VYb3pjNEV0bl9yQkVkcmk5YjVmam5qSndWQXo5b0c0NWlUOTY4Zk41UlZQazJxTF8wQklnMkhVOEhPNXo5WWxZWDVRTjYyT05KMHRZazBUZ09URWdFVEVOSUNaSmJxcjdacVJUY1VEMllxeGFHR1NXUEZvMGlzdnBsbVJKYTZRb3d5YmE5bWYzejBB?oc=5",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "source": "eSecurity Planet",
-      "feed": "Android",
-      "published_at": "2026-09-15T22:38:14+00:00",
+      "source": "tradingview.com",
+      "feed": "Cybersecurity",
+      "published_at": "2026-09-15T21:29:54+00:00",
       "category": "tech",
       "importance": 9,
       "ai_category": "tech",
-      "ai_confidence": 0.7087,
+      "ai_confidence": 0.99,
       "ai_importance": 9,
-      "ai_novelty": 0.9623,
+      "ai_novelty": 0.9501,
       "ai": {
         "method": "tfidf_cosine_prototype",
         "features": "1-2grams",
         "version": 2
       },
       "entities": [
-        "Android APKs Scanned",
-        "Hardcoded Secrets",
-        "Automated Attack",
-        "Planet"
+        "MOB",
+        "Trusted"
       ],
       "source_reliability": 1.0,
       "feedback_boost": 0.0,
       "personal_model_score": 0.0,
-      "personal_score": 9.0
+      "personal_score": 9.0,
+      "article_content_available": false,
+      "article_content_length": 0,
+      "summary_source_url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPU0NxdHNiblJpbEE1WTlqMUpwMVVPRnlFdHRvd3RncUVxd3pNRXR1b1hKR1c3M3A2M0JqX3VyeENPc1QtVmtCd001eUFRdWl6UEZtR29fR0pNVFQ4Yk05TnBlX3pjTkhLeUF0OUtqRy1NUTlLUXNpYlZCSkktemVNV3VWUklGT0VYb3pjNEV0bl9yQkVkcmk5YjVmam5qSndWQXo5b0c0NWlUOTY4Zk41UlZQazJxTF8wQklnMkhVOEhPNXo5WWxZWDVRTjYyT05KMHRZazBUZ09URWdFVEVOSUNaSmJxcjdacVJUY1VEMllxeGFHR1NXUEZvMGlzdnBsbVJKYTZRb3d5YmE5bWYzejBB?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "summary_method": "rss_fallback"
     },
     {
       "id": "b9c4e249581e73ca",
@@ -2196,7 +2401,7 @@
       "ai_category": "tech",
       "ai_confidence": 0.99,
       "ai_importance": 9,
-      "ai_novelty": 0.9502,
+      "ai_novelty": 0.9496,
       "ai": {
         "method": "tfidf_cosine_prototype",
         "features": "1-2grams",
@@ -2213,36 +2418,11 @@
       "source_reliability": 1.0,
       "feedback_boost": 0.0,
       "personal_model_score": 0.0,
-      "personal_score": 9.0
-    },
-    {
-      "id": "30d689ea89349913",
-      "title": "MOB: Trusted provider of drone cybersecurity and hardware, poised for growth amid regulatory shifts - tradingview.com",
-      "summary": "MOB: Trusted provider of drone cybersecurity and hardware, poised for growth amid regulatory shifts tradingview.com",
-      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPU0NxdHNiblJpbEE1WTlqMUpwMVVPRnlFdHRvd3RncUVxd3pNRXR1b1hKR1c3M3A2M0JqX3VyeENPc1QtVmtCd001eUFRdWl6UEZtR29fR0pNVFQ4Yk05TnBlX3pjTkhLeUF0OUtqRy1NUTlLUXNpYlZCSkktemVNV3VWUklGT0VYb3pjNEV0bl9yQkVkcmk5YjVmam5qSndWQXo5b0c0NWlUOTY4Zk41UlZQazJxTF8wQklnMkhVOEhPNXo5WWxZWDVRTjYyT05KMHRZazBUZ09URWdFVEVOSUNaSmJxcjdacVJUY1VEMllxeGFHR1NXUEZvMGlzdnBsbVJKYTZRb3d5YmE5bWYzejBB?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "source": "tradingview.com",
-      "feed": "Cybersecurity",
-      "published_at": "2026-09-15T21:29:54+00:00",
-      "category": "tech",
-      "importance": 9,
-      "ai_category": "tech",
-      "ai_confidence": 0.99,
-      "ai_importance": 9,
-      "ai_novelty": 0.9431,
-      "ai": {
-        "method": "tfidf_cosine_prototype",
-        "features": "1-2grams",
-        "version": 2
-      },
-      "entities": [
-        "MOB",
-        "Trusted"
-      ],
-      "source_reliability": 1.0,
-      "feedback_boost": 0.0,
-      "personal_model_score": 0.0,
-      "personal_score": 9.0
+      "personal_score": 9.0,
+      "article_content_available": false,
+      "article_content_length": 0,
+      "summary_source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQN3VYMjVFOUlBTl9BbUxpeGJSQUFqTDgwRnJ1S05iSnl3ZENzTW80SmZRYTdRWEdGZHNIRUx5MDZCTjZvSk9qR3pBcnB6aGF6a3FfdDh4bTR4WjFGT3BEMWFINjd1RzNTb05iOGR6bjF4ZDV1UzhSdUgxZkNvYzBtbTZpc0YyTWtEeEVaLTgxcjVrYlJERFpxX3Bya3VhTzQzaUNHaWJ5VDZTNUJTSzJ4b0pn0gG6AUFVX3lxTE9qTVZEZ0xpTlJNSy1MdmpYbFM4Uk4zNTRIX2pLVDAycHBmaG1WbjV5eG9Rc3pLR2Itcll5NjAzaDdScTMwNE9YZnhfZWFoQkhQUkk3WjVUOEtrWmh4SXRqRG5CYk9TYUg0M1VTZWY4a1M0ZEJUMGRTYTZPTS1mWjJhM0FBTDZZZlo3aHBCSk9uQ2xmdkJ2T3VOVExjdTloMEdwN0dKeUN6MUx3RkRWVFZsbUxOSElfRXRoZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "summary_method": "rss_fallback"
     },
     {
       "id": "56f401ef329541fc",
@@ -2258,7 +2438,7 @@
       "ai_category": "tech",
       "ai_confidence": 0.7558,
       "ai_importance": 9,
-      "ai_novelty": 0.8409,
+      "ai_novelty": 0.8402,
       "ai": {
         "method": "tfidf_cosine_prototype",
         "features": "1-2grams",
@@ -2273,7 +2453,11 @@
       "source_reliability": 1.0,
       "feedback_boost": 0.0,
       "personal_model_score": 0.0,
-      "personal_score": 9.0
+      "personal_score": 9.0,
+      "article_content_available": false,
+      "article_content_length": 0,
+      "summary_source_url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxNdmZSU0lSd1o0b3ZzRXBJeV9Ld1RBY2pfY2dBSE9mYklvUWhrS0lvdS1fMmxTcmNWdFFrc3BJakN1YmhXdTRBNXJKcVpYdUQtSjRGX2h2WHNWZ1V1RlloaGRtU0xsMVVILTRhcjlIbXd3VFJURlNQc1VVc1dIemZnVVFpeXdNd1JXYTdwZmlsU1EzT0hBSjhlT1I4MkRnRUxLNzk0WE1HSERDODJRMDRocjBEQWE2NVk3c3AxVERzTmpKcUk5bkRrYzAzT3NQZGlicGFLYWpXUU5hbzNtYkJJOEl1dUZTa2pVQkZYb0pqMjNqWUE0VkhqMVRoSFdpUHRXdXNsb2RiNVJpdnBtdFRLOVRITzgtWGVfODduMnFjWEpGQ0RZVHhXN2hfZl96RU9WWmpLNFg3ck53OFpLdDk4YWxoU05UcXVuLWtldklvVdIB1AJBVV95cUxPUklNY2FPbGlJcjN3YmNMOGpsZTJfWjlkYkhKUnJMMF81bkpoZWRPalZYTTFVeXd3MVB5UWJIRUc0S3lodjgySHM2QndrVXozbTRJVEk0X0lzcXNZbEY0NFl4ZnVYM3FfU0RYYWNYcUZ0LXZBY2o4MXJWMkxxM1lGV3g4eVY2WHhKMEl0aVk3cEY2WlZoekNfalJtcWljT3JLWERZUjctcVNEazNyMU4wWGRZcm81OU92aFpzblZUMXJLLU1fZy03Q1laSFZ4d0xsOFItd2tCVHBIa1lWVEg2TU5kc1RYanpwcDN1ZTZ6N0xGSHB3NjFER2lfcm9ONHZNZ184d1NxSm8wYTRNX2F0MGlZb2lubF9YMkN0NXpaV29wWG9uS1NMNkdPejRGQ1BpVkRsWHU0S0FxNmVyZGpmZ3oxdzJURl9Yemc5NlZhb2ktRG50?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "summary_method": "rss_fallback"
     },
     {
       "id": "8c32c4a4f12c3589",
@@ -2289,7 +2473,7 @@
       "ai_category": "tech",
       "ai_confidence": 0.99,
       "ai_importance": 9,
-      "ai_novelty": 0.8216,
+      "ai_novelty": 0.7882,
       "ai": {
         "method": "tfidf_cosine_prototype",
         "features": "1-2grams",
@@ -2309,41 +2493,11 @@
       "source_reliability": 1.0,
       "feedback_boost": 0.0,
       "personal_model_score": 0.0,
-      "personal_score": 9.0
-    },
-    {
-      "id": "6e3b481e55991a0d",
-      "title": "Automation Testing Market Gains Momentum at 14.64% CAGR as AI and DevOps Redefine Software Quality - Macau Business",
-      "summary": "Automation Testing Market Gains Momentum at 14.64% CAGR as AI and DevOps Redefine Software Quality Macau Business",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPWmVqeko2ZHY5SjIwcFgtazE2NlNHOWc2VFFFR2FBVjVBYm9OSkE3RXRjTkxSVksyeEFVandNdjJxRlpiVjl3M01DWWREeWZZQW9iTWZiMnVySENBa2YtYkU2ZDlwME03dHhYUzgzMWRpRnJqbnF4dDhDWEZfZFlMNWRBWXhfWUlMc2w0ZW1JSGhaZEtRcXNYb1o0eTkxY09kXzU5M0h3SnBzcHpndDB3ZUtpUmw4S0xmb2V3dFoxNlRrQQ?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "source": "Macau Business",
-      "feed": "Software Development",
-      "published_at": "2026-09-15T15:13:56+00:00",
-      "category": "tech",
-      "importance": 8,
-      "ai_category": "tech",
-      "ai_confidence": 0.7781,
-      "ai_importance": 8,
-      "ai_novelty": 0.9444,
-      "ai": {
-        "method": "tfidf_cosine_prototype",
-        "features": "1-2grams",
-        "version": 2
-      },
-      "entities": [
-        "Automation Testing Market Gains",
-        "Momentum",
-        "CAGR",
-        "DevOps Redefine Software Quality",
-        "Macau Business Automation Testing",
-        "Market Gains Momentum",
-        "Macau Business"
-      ],
-      "source_reliability": 1.0,
-      "feedback_boost": 0.0,
-      "personal_model_score": 0.0,
-      "personal_score": 8.0
+      "personal_score": 9.0,
+      "article_content_available": false,
+      "article_content_length": 0,
+      "summary_source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPM2t2UjRuMnVNZjVwNE5NYXh5d2FhV25nVjRUekdabkluYmk3eGZBV2NnRmFLemJEZ2VlakkydVFQNDRXUmZBbXBCMkM4M0x1bXhCVjRtelA4MEhCekcyeVJ3Wm1vMFZWNFI4LVAwU2d0cDlreGxqU2JvSndVYlFKRFlIMzhIUjNsYkswM25BOUZWdFNrUEtBYTllbFB6cnlodWZKZVllSkxZWmgzNDI1cDgxTzN1TXRLZkZIOW15bDdCcmt0UDlncU9iQXFLSHJuRjI40gHjAUFVX3lxTE5ZTE4xVFBMTGkzT1BYQ0ZqOFJneF9JaUJOOGJfckpEbVdXU2ZWTDBkV19sZkkwXzFVeXVTc3JTX0l3aElhdVRQOWU4ZVBwMzF2RzBlOVRxUWItZTRIT3ZqZW15cHFRWVhZMGhla2x1QllLcVFIWkxLZXl4SW9PZjlpYjNNV2ZDa3RQaFBTdU5idzBUQnlTNHR5UUhNeHoyRmd1azBzYWFuTV9kd19VSm1XV04yVFVpTVNhOWY3VjdETmJrUEZjT1l4ajNhaV81M1hUTDBJRmZWNGlTZFEtSURHamVN?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "summary_method": "rss_fallback"
     },
     {
       "id": "4c19b84972e47f0e",
@@ -2359,7 +2513,7 @@
       "ai_category": "tech",
       "ai_confidence": 0.99,
       "ai_importance": 8,
-      "ai_novelty": 0.9386,
+      "ai_novelty": 0.9405,
       "ai": {
         "method": "tfidf_cosine_prototype",
         "features": "1-2grams",
@@ -2377,7 +2531,46 @@
       "source_reliability": 1.0,
       "feedback_boost": 0.0,
       "personal_model_score": 0.0,
-      "personal_score": 8.0
+      "personal_score": 8.0,
+      "article_content_available": false,
+      "article_content_length": 0,
+      "summary_source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQTHc0ZDlkaGV5RkZQSUFNbTFYaVB5OWFoektkX1Y5SFhWeTNHZEp5UWdseUwybmxyS0ZYM2tEVzVLaGswak5vejJwTWl6aWlsNHE1LWxQcjg4RUVZWnhodW42N0luc2w5RlNwMUNsaHUxUV8zNG1zaDdHS3QzY3pINng5dmFOM3gybS1qOGhTR2tkeFMyYmtPRE5zS3VXTzVzNFg1QjRacDVJUzJYUGFOVGx1LTdlbndPcHJaMC0wRFFPMGtwYUJIc3F2TQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "summary_method": "rss_fallback"
+    },
+    {
+      "id": "e14b6e0acadd9c6e",
+      "title": "Automation Testing Market Gains Momentum at 14.64% CAGR as AI and DevOps Redefine Software Quality - macaubusiness.com",
+      "summary": "Automation Testing Market Gains Momentum at 14.64% CAGR as AI and DevOps Redefine Software Quality macaubusiness.com",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPWmVqeko2ZHY5SjIwcFgtazE2NlNHOWc2VFFFR2FBVjVBYm9OSkE3RXRjTkxSVksyeEFVandNdjJxRlpiVjl3M01DWWREeWZZQW9iTWZiMnVySENBa2YtYkU2ZDlwME03dHhYUzgzMWRpRnJqbnF4dDhDWEZfZFlMNWRBWXhfWUlMc2w0ZW1JSGhaZEtRcXNYb1o0eTkxY09kXzU5M0h3SnBzcHpndDB3ZUtpUmw4S0xmb2V3dFoxNlRrQQ?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "source": "macaubusiness.com",
+      "feed": "Software Development",
+      "published_at": "2026-09-15T15:13:56+00:00",
+      "category": "tech",
+      "importance": 8,
+      "ai_category": "tech",
+      "ai_confidence": 0.7781,
+      "ai_importance": 8,
+      "ai_novelty": 0.9315,
+      "ai": {
+        "method": "tfidf_cosine_prototype",
+        "features": "1-2grams",
+        "version": 2
+      },
+      "entities": [
+        "Automation Testing Market Gains",
+        "Momentum",
+        "CAGR",
+        "DevOps Redefine Software Quality"
+      ],
+      "source_reliability": 1.0,
+      "feedback_boost": 0.0,
+      "personal_model_score": 0.0,
+      "personal_score": 8.0,
+      "article_content_available": false,
+      "article_content_length": 0,
+      "summary_source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPWmVqeko2ZHY5SjIwcFgtazE2NlNHOWc2VFFFR2FBVjVBYm9OSkE3RXRjTkxSVksyeEFVandNdjJxRlpiVjl3M01DWWREeWZZQW9iTWZiMnVySENBa2YtYkU2ZDlwME03dHhYUzgzMWRpRnJqbnF4dDhDWEZfZFlMNWRBWXhfWUlMc2w0ZW1JSGhaZEtRcXNYb1o0eTkxY09kXzU5M0h3SnBzcHpndDB3ZUtpUmw4S0xmb2V3dFoxNlRrQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "summary_method": "rss_fallback"
     },
     {
       "id": "8f1b8645fefb6729",
@@ -2393,7 +2586,7 @@
       "ai_category": "tech",
       "ai_confidence": 0.7688,
       "ai_importance": 8,
-      "ai_novelty": 0.9276,
+      "ai_novelty": 0.9311,
       "ai": {
         "method": "tfidf_cosine_prototype",
         "features": "1-2grams",
@@ -2408,38 +2601,11 @@
       "source_reliability": 1.0,
       "feedback_boost": 0.0,
       "personal_model_score": 0.0,
-      "personal_score": 8.0
-    },
-    {
-      "id": "8342d221b7007ea4",
-      "title": "Swiss government explores replacing Microsoft 365 with open-source software - Computerworld",
-      "summary": "Swiss government explores replacing Microsoft 365 with open-source software Computerworld",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTEFGNFUtQjhCT1JmeTk1S3lELVE5MDZjR01rVHZWS1pVQ0NqeU5oTElFcFZKcEs5UXM3Vk1XVmFERGxXOC1ucUF2WmxINHhCN2F0bTc0dUtXc3JsNUhYSmJMb2F2VFp5VURGd0V1S294aDM4VWduVFJTdHVkQjBILVEyeEUwOXZpaGdvdDVMVlZScEs5WVhWbjF2R2dyaE1WdnE0OXVnS2dqcG9GMEdZZW56eGJsM09WUTR2TWp2cExWUQ?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "source": "Computerworld",
-      "feed": "Open Source",
-      "published_at": "2026-09-08T17:30:03+00:00",
-      "category": "tech",
-      "importance": 8,
-      "ai_category": "tech",
-      "ai_confidence": 0.7918,
-      "ai_importance": 8,
-      "ai_novelty": 0.9001,
-      "ai": {
-        "method": "tfidf_cosine_prototype",
-        "features": "1-2grams",
-        "version": 2
-      },
-      "entities": [
-        "Swiss",
-        "Microsoft",
-        "Computerworld Swiss",
-        "Computerworld"
-      ],
-      "source_reliability": 1.0,
-      "feedback_boost": 0.0,
-      "personal_model_score": 0.0,
-      "personal_score": 8.0
+      "personal_score": 8.0,
+      "article_content_available": false,
+      "article_content_length": 0,
+      "summary_source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQM3F6MEc3bjJ1MzZGbjNRVVRVOHNhWTVVSXFCWDd0cEF1TFRaX3JRM0N1NjlyZTBVTUs2ZW5PR2xONDQ0N3ltWDUxV2N5YXpLME1ITFlFWTViTkNaSnNNeUp3OExPeWxWMktSZFhXZmx3Yi05Nmt5dGEzdFdSeW5KXzd4dm9VNmlSMW50OG9SbWNZZWFoTktJaTFaUU5BQ29vc01WRThfektDTThzYmZuWjRET2Z2V2xDR2s1dXQ4LU9sU2Zz?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "summary_method": "rss_fallback"
     },
     {
       "id": "a84690b2a53b32df",
@@ -2455,7 +2621,7 @@
       "ai_category": "tech",
       "ai_confidence": 0.99,
       "ai_importance": 8,
-      "ai_novelty": 0.8932,
+      "ai_novelty": 0.8931,
       "ai": {
         "method": "tfidf_cosine_prototype",
         "features": "1-2grams",
@@ -2471,7 +2637,11 @@
       "source_reliability": 1.0,
       "feedback_boost": 0.0,
       "personal_model_score": 0.0,
-      "personal_score": 8.0
+      "personal_score": 8.0,
+      "article_content_available": false,
+      "article_content_length": 0,
+      "summary_source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOX1UxdTVBSlh6N0tIdTBuay1OTkFUakUta1RLSUxQNHl2WVBoVzdqV2hlN2Y1Rng4WHRxNnFUSHFXOWFwTU4tNm53RE8tVmtCc2RXcG9Ma2FhWEYzZmhjTlYwUlU0OW5rdTNvLTlzd1RyNnlaLXlnenZrdTE4VEV4V1d5UHJ5MnQxQkRVWUkwNEtjZldrdTdlVXhsXzl3ZFk?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "summary_method": "rss_fallback"
     },
     {
       "id": "7932b827bb29faf9",
@@ -2487,7 +2657,7 @@
       "ai_category": "tech",
       "ai_confidence": 0.99,
       "ai_importance": 8,
-      "ai_novelty": 0.8448,
+      "ai_novelty": 0.8461,
       "ai": {
         "method": "tfidf_cosine_prototype",
         "features": "1-2grams",
@@ -2502,7 +2672,11 @@
       "source_reliability": 1.0,
       "feedback_boost": 0.0,
       "personal_model_score": 0.0,
-      "personal_score": 8.0
+      "personal_score": 8.0,
+      "article_content_available": false,
+      "article_content_length": 0,
+      "summary_source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQYnBXdjkwRGgyVmdNdkRIQ0JDYk5kVnJHWEE3eHlwTWdtbjNTQnhoR0xfQXhSUVhsU1FfUkFKQWtubVhGcF9FZENxclM0NlF0NDdMclpiaGp5T09xZjBGSW9MM1JGSzVMSFo3OUo1eUFoRjVVT0g1UDZVU3B0U3VuOTE5Z0Fpd1B1U29sb2haYzhQc0t4ZXhkUWctczdKMTZiME1GZUlJZm56Qkc0Mm5RUTI5Ym9tUVFfM2c?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "summary_method": "rss_fallback"
     },
     {
       "id": "79dd8386abc5a435",
@@ -2518,7 +2692,7 @@
       "ai_category": "tech",
       "ai_confidence": 0.99,
       "ai_importance": 8,
-      "ai_novelty": 0.8131,
+      "ai_novelty": 0.8141,
       "ai": {
         "method": "tfidf_cosine_prototype",
         "features": "1-2grams",
@@ -2534,7 +2708,11 @@
       "source_reliability": 1.0,
       "feedback_boost": 0.0,
       "personal_model_score": 0.0,
-      "personal_score": 8.0
+      "personal_score": 8.0,
+      "article_content_available": false,
+      "article_content_length": 0,
+      "summary_source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQdkplZGdXVGtFbU1ONl9BYUJGRlktUWRlbmw3V1Z1NmVTVFl1d3R1dE5wMENzYkZ4R3VzekJBS3VhcnNtaE5fbEJSNE1UOTFkOWFqOHNWMGpqc1VTNlF0RWhUQlpoeFBLamdteWp2Y3V3X0hMUDh2aGNEZ3hld0t4RUtqNXg4SjhERlZXR3p6ank5ams?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "summary_method": "rss_fallback"
     },
     {
       "id": "a68ff8b1fcffbbe5",
@@ -2550,7 +2728,7 @@
       "ai_category": "tech",
       "ai_confidence": 0.99,
       "ai_importance": 8,
-      "ai_novelty": 0.7082,
+      "ai_novelty": 0.7093,
       "ai": {
         "method": "tfidf_cosine_prototype",
         "features": "1-2grams",
@@ -2565,7 +2743,11 @@
       "source_reliability": 1.0,
       "feedback_boost": 0.0,
       "personal_model_score": 0.0,
-      "personal_score": 8.0
+      "personal_score": 8.0,
+      "article_content_available": false,
+      "article_content_length": 0,
+      "summary_source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbWd6SzdJZG5NbHR3ZXdqcTI0OWhsQXFqMmRnSnpiWU5nNW9GV2k2LU1iMzNTbTJzZ19TX3Zqa201eXE2WFNXVHBDRExKSzM1MDhJMzNqbm10VWxJeG55c2Q3VUE2U2swbmVLbURtQk12SDNNQUpQTUQtZDdDc0J2dXppeWU4MWdRcXlZUkRZYmlxVEFJR0FHTVRNS2VXWU0?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "summary_method": "rss_fallback"
     },
     {
       "id": "037b7893792311d6",
@@ -2581,7 +2763,7 @@
       "ai_category": "tech",
       "ai_confidence": 0.99,
       "ai_importance": 8,
-      "ai_novelty": 0.7045,
+      "ai_novelty": 0.7078,
       "ai": {
         "method": "tfidf_cosine_prototype",
         "features": "1-2grams",
@@ -2597,7 +2779,11 @@
       "source_reliability": 1.0,
       "feedback_boost": 0.0,
       "personal_model_score": 0.0,
-      "personal_score": 8.0
+      "personal_score": 8.0,
+      "article_content_available": false,
+      "article_content_length": 0,
+      "summary_source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOaUgtUHdiT3ljTnVzYWpSczYxWTA1SFFHc3FJeVo4ZnJHakRidmhfVndtRmRYbnRQRVk2azNIaXpIdEZ6d0psMTZYQWVrQUk5TlRFSTRVNkxrSDdGY2tCT2pnSlRSOGJLTG9nR2wweTV0a2Y2VzA1ZGEweFQ5VFB5endZdlduOGpEOFNhbUQxZ2dNN05mMEZKWHQ5MzEyODFFTWkwdWJCMkJRSENRRnlST0xTVEVHeHc?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "summary_method": "rss_fallback"
     },
     {
       "id": "ac13c634007f9ba7",
@@ -2613,7 +2799,7 @@
       "ai_category": "tech",
       "ai_confidence": 0.99,
       "ai_importance": 8,
-      "ai_novelty": 0.7018,
+      "ai_novelty": 0.7002,
       "ai": {
         "method": "tfidf_cosine_prototype",
         "features": "1-2grams",
@@ -2627,7 +2813,11 @@
       "source_reliability": 1.0,
       "feedback_boost": 0.0,
       "personal_model_score": 0.0,
-      "personal_score": 8.0
+      "personal_score": 8.0,
+      "article_content_available": false,
+      "article_content_length": 0,
+      "summary_source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTE9DUzVLT1BPY003aDBtNFd1bldyUVBNbjZoLWtsdkFJbktXNXhLd3hsMFhsLWpvcWV5UnpxRlA2MjBFVTRjbDhmbVJ1Mi1Qb0VvQXBKTmsyUzRBZkdoN0plNkdKd1Jvckh2WE0wMklpQ2F5TXcwQ3BRUHZldFU0WS1aY1dlQlBEQUdwSGFvZEJ2Vk1RVkpqekNYaXFUY0VZc09YRWVralZwVF81aEE?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "summary_method": "rss_fallback"
     },
     {
       "id": "469139d0139cc9ed",
@@ -2643,7 +2833,7 @@
       "ai_category": "tech",
       "ai_confidence": 0.99,
       "ai_importance": 8,
-      "ai_novelty": 0.7018,
+      "ai_novelty": 0.7002,
       "ai": {
         "method": "tfidf_cosine_prototype",
         "features": "1-2grams",
@@ -2661,7 +2851,11 @@
       "source_reliability": 1.0,
       "feedback_boost": 0.0,
       "personal_model_score": 0.0,
-      "personal_score": 8.0
+      "personal_score": 8.0,
+      "article_content_available": false,
+      "article_content_length": 0,
+      "summary_source_url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNbm5fRXhDM19yYWhkSjdEU3NXWVMtS24tLUx4b3o2X05vSkZZbmYtN0RBZHBRUnV5OWkxWXRHakV6NkNVUUxINVNrQVgyU1hBcDNVOXRsVUozOFpvSVVUNEpVNlkzNXJqLW5zeE1zcXBQbkl0dncyUko2OTZ3NzNNZnctY0pWTEU4OG1EXzZvN1JMZ3duVzVfbW1CeGU1QXB5ZC1BbG9mY1BLUDRVb1Y4eWdsVUNZVk8zczM1YTdOa2oxQVhfVkRoSHdUTHRnNVNtMzNMMmpUUGh5WFQ2YTI4YjlMLVJUc3hndEFZYmNOSE1IbUswVTFJQ3BaNFR0ZnhwMWZzWDF6LXA?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "summary_method": "rss_fallback"
     },
     {
       "id": "03e3d54c178b4d70",
@@ -2677,7 +2871,7 @@
       "ai_category": "tech",
       "ai_confidence": 0.99,
       "ai_importance": 8,
-      "ai_novelty": 0.5278,
+      "ai_novelty": 0.5228,
       "ai": {
         "method": "tfidf_cosine_prototype",
         "features": "1-2grams",
@@ -2693,7 +2887,48 @@
       "source_reliability": 1.0,
       "feedback_boost": 0.0,
       "personal_model_score": 0.0,
-      "personal_score": 8.0
+      "personal_score": 8.0,
+      "article_content_available": false,
+      "article_content_length": 0,
+      "summary_source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPeE9LRC12VWppYmtUQXNNRjJ3YzJHWm1MNy0xcnF1SFR6OTRtU3UweldlTERQWlBCUjlzaW5xQkh3SFA3MU51akRqWlBiUlRGSE0xUUtTcU1BRG0xX2hNOWEzNjE0eEV2bHlWcDVxajNIQ1ZJQjlIcnA2a3BOME9ZcDN0LTR0NVRjdUdTWmJsUWhUcE4wSmVMU2thWQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "summary_method": "rss_fallback"
+    },
+    {
+      "id": "55dd2375f82461a2",
+      "title": "ChatGPT transcripts are reportedly read by humans to improve responses, including those with personal information — 'Project Lilly' has seen OpenAI hire hundreds of contractors to manually review logs - Tom's Hardware",
+      "summary": "ChatGPT transcripts are reportedly read by humans to improve responses, including those with personal information — 'Project Lilly' has seen OpenAI hire hundreds of contractors to manually review logs Tom's Hardware",
+      "url": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxObnlTWUg4WS1DQ1NpNmFqcHJuLTNOV1JDY19BMWtudDJReXVDOHlWZkxOem5IMTN4RWMxR29aVnNyOWlLd185TnFNeW5SLWc1Tm02Zk56Q052cmtkWHBwWHdSQ05ONXVUaThtTDVES21jSmlXVXdWclM5UG1VdTNtS1pzUkhoSDUtd1diZzVMb2JreDE4aWplQlh3M1lXRWdUak9zUkVWckwwVGdUN1FlNWdFTm9sWHJ2alNjenU1MndDV0MxMXVCMno5R2lDZWxtOWFsc3VCc3ZSNWV3d05yQ0Fqa3hCVGVxblpuNEtPVFMxWTdQNHY3OUZjSlNGcVJZRndYRnp0MzlrZTg1UnQ3RzB5LWoyLWlwaHo3N0lxU3dsVEJDMDRwVThQX3dOdHpEdTl3TXN3c2I1cnFURWVqTlNEZ1J0c1VTb2tUNDNlTTVHS2lSRDlvR1NuWXA4X2RadVZjZG5sZkhiNmctODd2WnRTMGdrNFJmOXc?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "source": "Tom's Hardware",
+      "feed": "Artificial Intelligence",
+      "published_at": "2026-09-15T11:30:00+00:00",
+      "category": "tech",
+      "importance": 7,
+      "ai_category": "tech",
+      "ai_confidence": 0.99,
+      "ai_importance": 7,
+      "ai_novelty": 0.9683,
+      "ai": {
+        "method": "tfidf_cosine_prototype",
+        "features": "1-2grams",
+        "version": 2
+      },
+      "entities": [
+        "ChatGPT",
+        "Project Lilly",
+        "OpenAI",
+        "Tom",
+        "Hardware ChatGPT",
+        "Hardware"
+      ],
+      "source_reliability": 1.0,
+      "feedback_boost": 0.0,
+      "personal_model_score": 0.0,
+      "personal_score": 7.0,
+      "article_content_available": false,
+      "article_content_length": 0,
+      "summary_source_url": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxObnlTWUg4WS1DQ1NpNmFqcHJuLTNOV1JDY19BMWtudDJReXVDOHlWZkxOem5IMTN4RWMxR29aVnNyOWlLd185TnFNeW5SLWc1Tm02Zk56Q052cmtkWHBwWHdSQ05ONXVUaThtTDVES21jSmlXVXdWclM5UG1VdTNtS1pzUkhoSDUtd1diZzVMb2JreDE4aWplQlh3M1lXRWdUak9zUkVWckwwVGdUN1FlNWdFTm9sWHJ2alNjenU1MndDV0MxMXVCMno5R2lDZWxtOWFsc3VCc3ZSNWV3d05yQ0Fqa3hCVGVxblpuNEtPVFMxWTdQNHY3OUZjSlNGcVJZRndYRnp0MzlrZTg1UnQ3RzB5LWoyLWlwaHo3N0lxU3dsVEJDMDRwVThQX3dOdHpEdTl3TXN3c2I1cnFURWVqTlNEZ1J0c1VTb2tUNDNlTTVHS2lSRDlvR1NuWXA4X2RadVZjZG5sZkhiNmctODd2WnRTMGdrNFJmOXc?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "summary_method": "rss_fallback"
     },
     {
       "id": "24e9500dc455cbad",
@@ -2709,7 +2944,7 @@
       "ai_category": "tech",
       "ai_confidence": 0.99,
       "ai_importance": 7,
-      "ai_novelty": 0.9439,
+      "ai_novelty": 0.9452,
       "ai": {
         "method": "tfidf_cosine_prototype",
         "features": "1-2grams",
@@ -2727,7 +2962,11 @@
       "source_reliability": 1.0,
       "feedback_boost": 0.0,
       "personal_model_score": 0.0,
-      "personal_score": 7.0
+      "personal_score": 7.0,
+      "article_content_available": false,
+      "article_content_length": 0,
+      "summary_source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxObFUzemx4dG83RUw5cTZhVXFldkxnbHpLMUZVZzNuU0hBYWQ1blNLU09IM0dkWnRWYi1ESWtRY2hLLVRwT2RXRUVaSG1PbDZtbVh4V3RWbElrdlJ2Yl92UlptdzlEekd4VHdnc084N2w1ZTF6VEFkUGhZdmpkRVFFbWNaN0Y0WEhVdl9GV0t0X3RnNVZvVEpUQmY4TnRVa3dhaXJ6S19qUzFmSndtNE5yaTZrZTFPckJYRmo4OHh4eHRmWWlKMjFQYllnZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "summary_method": "rss_fallback"
     },
     {
       "id": "0b01cb4746ccec67",
@@ -2743,7 +2982,7 @@
       "ai_category": "tech",
       "ai_confidence": 0.99,
       "ai_importance": 7,
-      "ai_novelty": 0.9113,
+      "ai_novelty": 0.9207,
       "ai": {
         "method": "tfidf_cosine_prototype",
         "features": "1-2grams",
@@ -2756,7 +2995,11 @@
       "source_reliability": 1.0,
       "feedback_boost": 0.0,
       "personal_model_score": 0.0,
-      "personal_score": 7.0
+      "personal_score": 7.0,
+      "article_content_available": false,
+      "article_content_length": 0,
+      "summary_source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5JSXRCRGVOSDMwajRmZU9IY0dvdTA2aWZ4Y01nTG00aThlUnhFbVYyRk9TVUwyUnBfMm9hMU1xTGE3ME5ZQkhvbF9nOVNjTHNLcEtNbV9FMXlGZnRPM2VpajJmYnpiM3lhYmVoNnAzTThSTUZqZVRVN2R3?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "summary_method": "rss_fallback"
     },
     {
       "id": "22c03221f22339e3",
@@ -2772,7 +3015,7 @@
       "ai_category": "tech",
       "ai_confidence": 0.99,
       "ai_importance": 7,
-      "ai_novelty": 0.8947,
+      "ai_novelty": 0.8926,
       "ai": {
         "method": "tfidf_cosine_prototype",
         "features": "1-2grams",
@@ -2788,7 +3031,11 @@
       "source_reliability": 1.0,
       "feedback_boost": 0.0,
       "personal_model_score": 0.0,
-      "personal_score": 7.0
+      "personal_score": 7.0,
+      "article_content_available": false,
+      "article_content_length": 0,
+      "summary_source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNaXozQ2NacWJYazhiY3QzTUVRZWVUWlZyYlRLOG1RZm9BTFBBc2Q3LVY5T292cUpobUtna3k0LTFGUUxRZ041cjQ1QlB3Nlc3eUdubGRSMUdBWXo0MWk0MEFsMWpFbmdFMmhCd2x3QnY2SExwVkZLZFYxU2g2dXRFek5B?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "summary_method": "rss_fallback"
     },
     {
       "id": "813834d516b4046a",
@@ -2804,7 +3051,7 @@
       "ai_category": "tech",
       "ai_confidence": 0.99,
       "ai_importance": 7,
-      "ai_novelty": 0.8834,
+      "ai_novelty": 0.8841,
       "ai": {
         "method": "tfidf_cosine_prototype",
         "features": "1-2grams",
@@ -2817,7 +3064,11 @@
       "source_reliability": 1.0,
       "feedback_boost": 0.0,
       "personal_model_score": 0.0,
-      "personal_score": 7.0
+      "personal_score": 7.0,
+      "article_content_available": false,
+      "article_content_length": 0,
+      "summary_source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOX1MzdGNXdEQ0dDB4NzZpbmZlVTBnSXl0bktaWU1NVk5rRDlGS01KWXJveC1xOVZaTEVSRTRWRjNQMTU2MnFoQUZ3ZVR6bEVJTVF4OFROZFJqMWZiSkFIWFQyNlhZbFVnYzM3ZHBIZWY4U3Y0R1FrR2pwb2N1MEpSSlZrQ0ZpMWN0a0RMcmVZRG1FTmRYQXlTT1NzOA?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "summary_method": "rss_fallback"
     },
     {
       "id": "a473c9f3e8a2723e",
@@ -2833,7 +3084,7 @@
       "ai_category": "tech",
       "ai_confidence": 0.99,
       "ai_importance": 7,
-      "ai_novelty": 0.8216,
+      "ai_novelty": 0.8256,
       "ai": {
         "method": "tfidf_cosine_prototype",
         "features": "1-2grams",
@@ -2845,23 +3096,27 @@
       "source_reliability": 1.0,
       "feedback_boost": 0.0,
       "personal_model_score": 0.0,
-      "personal_score": 7.0
+      "personal_score": 7.0,
+      "article_content_available": false,
+      "article_content_length": 0,
+      "summary_source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaEZjdUluNnpwNEwzUlQydkl5aVJuZHJlSG9ieUkyR2x4UEltMGFmMk5lUWR1S2QtSDR5RGFqWkpYODUtMW1NZW1pcWdLUkljUTN2WmFyT21BTXlPNnI4WGlFbmR6VnhRT3VWSlVhNTBWbEpPSW9DTllWbUVjOFUzSGN1OTl0d1NC?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "summary_method": "rss_fallback"
     },
     {
-      "id": "6bd2e68827a0dcf8",
-      "title": "Government issues alert for Android users, asks them to update phones ASAP - India Today",
-      "summary": "Government issues alert for Android users, asks them to update phones ASAP India Today",
+      "id": "8ab451da45fc7145",
+      "title": "Government issues alert for Android users, asks them to update phones ASAP - indiatoday.in",
+      "summary": "Government issues alert for Android users, asks them to update phones ASAP indiatoday.in",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQcEEtWU9kWS1VbWFFWmNFVEtzaTNqR1J0NmVZQ05WeFFFdkh2bTJ2dnhSU1EtSGNjVk5hVldkN0U4NTBVVGJTU001Zk5zTDNwaFNfdHVmNExyQ2hVTkN0UUNlREsxaGxqaC1XSUlSNURpUk5DNWFna1U3UlBsRGlwdzl0aGRPckZtMS1WMDRnZ1I4dEQwTmdUZU02cHY5cWstSHFPa2FxQkhGN0h5Ul9mQWRLN3VwbWpmSzZyVU9OZW93VzEzWlFzcXU1Q1l6cF8zS0x5Z25ic9IB3AFBVV95cUxOT1hDeVA5VFlMdTNMMmFUUzNKVERab2dteEl2eWFGOTE3Yk1DWTd1aG5lMnR4NWwycmpsbk5Sc3poYTI4MVFLZ2VRRDdfTGdVU0hYWnh4OWljRkJQYllfOUFzSUxTSkFZX0dvLTcwWWVrSjM3Q3lNY3p1T25IODBiWTd4VndFaWhwM3JuSTJ1MnMyWWxIeVdnb0owOVBnUmtyLVBYaV8wdlNWZlJTRkN3ZWl4d1BncmMxTk8yRDlDNWxBZHdOX2lxMVA4YkRHbGh0aGVRSzhHUjdLeTgw?oc=5",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "source": "India Today",
+      "source": "indiatoday.in",
       "feed": "Android",
       "published_at": "2026-09-14T11:24:12+00:00",
       "category": "tech",
       "importance": 7,
       "ai_category": "tech",
-      "ai_confidence": 0.513,
+      "ai_confidence": 0.7253,
       "ai_importance": 7,
-      "ai_novelty": 0.7905,
+      "ai_novelty": 0.8043,
       "ai": {
         "method": "tfidf_cosine_prototype",
         "features": "1-2grams",
@@ -2870,14 +3125,16 @@
       "entities": [
         "Government",
         "Android",
-        "ASAP",
-        "India Today Government",
-        "ASAP India Today"
+        "ASAP"
       ],
       "source_reliability": 1.0,
       "feedback_boost": 0.0,
       "personal_model_score": 0.0,
-      "personal_score": 7.0
+      "personal_score": 7.0,
+      "article_content_available": false,
+      "article_content_length": 0,
+      "summary_source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQcEEtWU9kWS1VbWFFWmNFVEtzaTNqR1J0NmVZQ05WeFFFdkh2bTJ2dnhSU1EtSGNjVk5hVldkN0U4NTBVVGJTU001Zk5zTDNwaFNfdHVmNExyQ2hVTkN0UUNlREsxaGxqaC1XSUlSNURpUk5DNWFna1U3UlBsRGlwdzl0aGRPckZtMS1WMDRnZ1I4dEQwTmdUZU02cHY5cWstSHFPa2FxQkhGN0h5Ul9mQWRLN3VwbWpmSzZyVU9OZW93VzEzWlFzcXU1Q1l6cF8zS0x5Z25ic9IB3AFBVV95cUxOT1hDeVA5VFlMdTNMMmFUUzNKVERab2dteEl2eWFGOTE3Yk1DWTd1aG5lMnR4NWwycmpsbk5Sc3poYTI4MVFLZ2VRRDdfTGdVU0hYWnh4OWljRkJQYllfOUFzSUxTSkFZX0dvLTcwWWVrSjM3Q3lNY3p1T25IODBiWTd4VndFaWhwM3JuSTJ1MnMyWWxIeVdnb0owOVBnUmtyLVBYaV8wdlNWZlJTRkN3ZWl4d1BncmMxTk8yRDlDNWxBZHdOX2lxMVA4YkRHbGh0aGVRSzhHUjdLeTgw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "summary_method": "rss_fallback"
     },
     {
       "id": "ca3aa8fcd48d8846",
@@ -2893,7 +3150,7 @@
       "ai_category": "tech",
       "ai_confidence": 0.99,
       "ai_importance": 7,
-      "ai_novelty": 0.751,
+      "ai_novelty": 0.7536,
       "ai": {
         "method": "tfidf_cosine_prototype",
         "features": "1-2grams",
@@ -2909,7 +3166,11 @@
       "source_reliability": 1.0,
       "feedback_boost": 0.0,
       "personal_model_score": 0.0,
-      "personal_score": 7.0
+      "personal_score": 7.0,
+      "article_content_available": false,
+      "article_content_length": 0,
+      "summary_source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSXltVFRPMXRNM2c2NVczTUNkcTFnRnJUR2ZlTnJHWjk2OWU2TFpWQ1UzM2xWVG9vNkRaT09qTVhGX3JaYjc0a0JjdGpOT2Q5WWtMcVA4YnpLdGVrR2RyUE1zdUxVODJsQmF2eGVId255dTllZnlnM1Z3azl4ZUNMcDFUQ1J6SVlFeS0wY1c2M2NvdnNrWnc?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "summary_method": "rss_fallback"
     },
     {
       "id": "44adcce549d798b8",
@@ -2925,7 +3186,7 @@
       "ai_category": "tech",
       "ai_confidence": 0.99,
       "ai_importance": 7,
-      "ai_novelty": 0.727,
+      "ai_novelty": 0.7293,
       "ai": {
         "method": "tfidf_cosine_prototype",
         "features": "1-2grams",
@@ -2939,7 +3200,11 @@
       "source_reliability": 1.0,
       "feedback_boost": 0.0,
       "personal_model_score": 0.0,
-      "personal_score": 7.0
+      "personal_score": 7.0,
+      "article_content_available": false,
+      "article_content_length": 0,
+      "summary_source_url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNZkdfMlBfR2JscmI5T2g4T3hFU2hIUjJ6NnBMQ0RiS2lQUXYtYnZwSm1COUlpWF9lYkVtelRXTFhjbG4yT256TXZPOTZJdG1fTHp4d0Zkbl9kVU1vcTRQN01aU1lseG5RbGNldUhVVm1XTUhXS3VyQU5DUDVZZDlHel9uUUZjWnJkOVUyM1hadW9rZXRnNlM4SDlKUU80cFR4aGI0bnlyYkZicXNNdVdJYXY4cHZpR1hmMzhTcDN1OVRuYl82czlkQTBkaVY5MC1pZXNhdXZacHk0bVRnZFExMVF5Z1VnbEgtYk5pLS1SeFPSAfcBQVVfeXFMTVdRUkdCeGMzRlJBbDlPckZLZm5TZTR3U1llNzV4MTl3SXQtWnF3WEdacDhRbElrUmRnc1JwcHp0VDNkcDNlNU13b2xmbjZtMzRBNndRTmNmdUNKNVY4Y2FOYXpMRDJVR3hpVWM5T1hYS2JOLThiTWxOTXl2T0VwX2JhbWdLLS1ueFM5VmNveHBFOW9Hc01hdkFZeEtmTC1ZcHBpdFVENEUyQXl4dnk0aXdsaURPV3hQU2NIblIyMHk0Y2NOYWVMQUdJMDJrQWh4QVZtaElpNnJsZlZ2N0N2R1lDcUd6WlJkd2lZQWYzSDBYUVFWQm1RTQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "summary_method": "rss_fallback"
     },
     {
       "id": "ced86406e7ec8aa9",
@@ -2955,7 +3220,7 @@
       "ai_category": "tech",
       "ai_confidence": 0.99,
       "ai_importance": 7,
-      "ai_novelty": 0.7082,
+      "ai_novelty": 0.7093,
       "ai": {
         "method": "tfidf_cosine_prototype",
         "features": "1-2grams",
@@ -2972,7 +3237,11 @@
       "source_reliability": 1.0,
       "feedback_boost": 0.0,
       "personal_model_score": 0.0,
-      "personal_score": 7.0
+      "personal_score": 7.0,
+      "article_content_available": false,
+      "article_content_length": 0,
+      "summary_source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNR2NvTHBDSVZSZlJFSkY1Y0o5TTJYVlBaU0psVnBuQlp1bzltTVBfSm9hMEVOTVRwTVBRVUxHcjByR0RtWEQ0bU5OYmNCcGYtZ0JNekRycEdPdXlXcGM4NjJTSXhXWDBmNG9xbkxHMDlNUkxnRUZtUWRBM09wVm5MVVBEQW1PYnViaV96bEl0aXJRNWp3RFE?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "summary_method": "rss_fallback"
     },
     {
       "id": "7946a517cbe74e21",
@@ -2988,7 +3257,7 @@
       "ai_category": "tech",
       "ai_confidence": 0.99,
       "ai_importance": 7,
-      "ai_novelty": 0.5278,
+      "ai_novelty": 0.5228,
       "ai": {
         "method": "tfidf_cosine_prototype",
         "features": "1-2grams",
@@ -3003,39 +3272,46 @@
       "source_reliability": 1.0,
       "feedback_boost": 0.0,
       "personal_model_score": 0.0,
-      "personal_score": 7.0
+      "personal_score": 7.0,
+      "article_content_available": false,
+      "article_content_length": 0,
+      "summary_source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWEJpSVRoblRzcjdRbmhTNzlSVEJKb0JIMWlvQ0FYNUJPc2hPWU9SemQwVFYzSnZwTDhoc2pTNjhkbkU0dHNtWWhVQXhHX2NUVGJjMmM5OVhkV0t4LXRndVU0amhNVU9Db2tyM3BoS2p2NWU0N1pzUE1aUERObHFiQm8wdkE5aTBKcDhRMG5ZOFBaRXMtVjR0cGRwRWlvMnM?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "summary_method": "rss_fallback"
     },
     {
-      "id": "253e33e9c24e2227",
-      "title": "AI in Cybersecurity: The Next Wave of Cyber Threats - Kings Research",
-      "summary": "AI in Cybersecurity: The Next Wave of Cyber Threats Kings Research",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE53QkF3MmdGcGgtZUN3ZVdHUE9VaVBCMUhGTUF6MTRoMjRyMG5zaVhOejI4eXY1R1ZyX25LbWY5ZDdmeHpIa2NGajg5M1dUSmhCY1ZwMDJuOHhTcVhHRi1OR1hoWUtSdE5xejVJSGIzNFJLYkFuLVRV?oc=5",
+      "id": "909dfd380297efdb",
+      "title": "Hyundai delays in-house autonomous driving software to 2029, partners with Nvidia - ET Auto",
+      "summary": "Hyundai delays in-house autonomous driving software to 2029, partners with Nvidia ET Auto",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQSWJiVkRGOUxKNlpBV09GYmpMTTl3M3ZfcWROdUJEWnhIZU5hOVdfcHAtNGxoTmZwMXc4MHRYQjd1eWNEOGtuTmlLd2JvNy1JYW1RVUlsbi1fV2Fpck93d1IzeVRGQ3hlcVh1NmI5d2dFdUdGdDZlazQ0VGctV2J3X0diVThaY1hPT1NfN0stT3c5bHdCX3BEZXNGLTA5SWdxQ2paQlBrWW1HYjFUdkxCY3hmMmE5Yl9kTHRCNDBLNF8tSEZXTEcwWWNJNDZtN1BEb3MzeEZ1aVM2QUs3d1RaTU9IdHU2d2120gHuAUFVX3lxTE8zVGJZeXJST3dPZ2pCdjZ2Sk1PRXdna1EyZVlFeW5XOVR3dVlTSlFOYWNIcHBGcVJSeV9aTzVQN2pZWl9YRW5rd2tRbG9CUER6cnJvem1uc0xMZ2RhME1md01neG1oRzRKWVYzZFl4dnVKQ2l0a1RIZUJUZE1SQmswdDM5UkI2OXFTSldUa3NueThDdk9UQmM1OEpFQVFqSmJ4SUVDcFg5U1d2ZXFuTVh1ai1MSnBqLW1WVy1UVFVJYUJXdFpPMnJaWDZGMXZ4VWpkRWZNUldFR2pNMGw0cVJreHNRcU9Pc1BQRjVMTFE?oc=5",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "source": "Kings Research",
-      "feed": "Cybersecurity",
-      "published_at": "2026-09-15T11:13:31+00:00",
+      "source": "ET Auto",
+      "feed": "Software Development",
+      "published_at": "2026-09-13T05:52:52+00:00",
       "category": "tech",
       "importance": 6,
       "ai_category": "tech",
       "ai_confidence": 0.99,
       "ai_importance": 6,
-      "ai_novelty": 0.9276,
+      "ai_novelty": 0.964,
       "ai": {
         "method": "tfidf_cosine_prototype",
         "features": "1-2grams",
         "version": 2
       },
       "entities": [
-        "Cybersecurity",
-        "The Next Wave",
-        "Cyber Threats",
-        "Kings Research AI",
-        "Cyber Threats Kings Research"
+        "Hyundai",
+        "Nvidia",
+        "ET Auto Hyundai",
+        "Nvidia ET Auto"
       ],
       "source_reliability": 1.0,
       "feedback_boost": 0.0,
       "personal_model_score": 0.0,
-      "personal_score": 6.0
+      "personal_score": 6.0,
+      "article_content_available": false,
+      "article_content_length": 0,
+      "summary_source_url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQSWJiVkRGOUxKNlpBV09GYmpMTTl3M3ZfcWROdUJEWnhIZU5hOVdfcHAtNGxoTmZwMXc4MHRYQjd1eWNEOGtuTmlLd2JvNy1JYW1RVUlsbi1fV2Fpck93d1IzeVRGQ3hlcVh1NmI5d2dFdUdGdDZlazQ0VGctV2J3X0diVThaY1hPT1NfN0stT3c5bHdCX3BEZXNGLTA5SWdxQ2paQlBrWW1HYjFUdkxCY3hmMmE5Yl9kTHRCNDBLNF8tSEZXTEcwWWNJNDZtN1BEb3MzeEZ1aVM2QUs3d1RaTU9IdHU2d2120gHuAUFVX3lxTE8zVGJZeXJST3dPZ2pCdjZ2Sk1PRXdna1EyZVlFeW5XOVR3dVlTSlFOYWNIcHBGcVJSeV9aTzVQN2pZWl9YRW5rd2tRbG9CUER6cnJvem1uc0xMZ2RhME1md01neG1oRzRKWVYzZFl4dnVKQ2l0a1RIZUJUZE1SQmswdDM5UkI2OXFTSldUa3NueThDdk9UQmM1OEpFQVFqSmJ4SUVDcFg5U1d2ZXFuTVh1ai1MSnBqLW1WVy1UVFVJYUJXdFpPMnJaWDZGMXZ4VWpkRWZNUldFR2pNMGw0cVJreHNRcU9Pc1BQRjVMTFE?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "summary_method": "rss_fallback"
     },
     {
       "id": "e18aa1c0e7d3e31a",
@@ -3051,7 +3327,7 @@
       "ai_category": "tech",
       "ai_confidence": 0.99,
       "ai_importance": 6,
-      "ai_novelty": 0.9271,
+      "ai_novelty": 0.913,
       "ai": {
         "method": "tfidf_cosine_prototype",
         "features": "1-2grams",
@@ -3070,36 +3346,121 @@
       "source_reliability": 1.0,
       "feedback_boost": 0.0,
       "personal_model_score": 0.0,
-      "personal_score": 6.0
+      "personal_score": 6.0,
+      "article_content_available": false,
+      "article_content_length": 0,
+      "summary_source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVWVTVWdabGFaYUN5di1kYS1URmhQSmZXRE52OXNkNlA0UFJDc3ZOekJ1SXFSdmxxbDJ3QWZlOXgxMFFnaFhKZFNTMU4tRDhDTjJXREVEdmlGeFg1X1RwQm1WUGNpX2VvSzJLM3YteF95Q0tOUFRRdDc5LW5FSHZKUVpvQ0YwOXdDRExOUmZuWi1raUxmY1dmcHlrV2ZkWVFFRjZ1N28ydUJCbnc4TTFjVG1hYnk2NGc?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "summary_method": "rss_fallback"
     },
     {
-      "id": "65ab68111af3a072",
-      "title": "The Future of Software Development Is Human + AI - community.nasscom.in",
-      "summary": "The Future of Software Development Is Human + AI community.nasscom.in",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOb2hNUTE0Zk54bWtPV2l5LW5lYWNWYml5Ny1zUThkcGxmSXhNZTFIWk9pYVBKYksxSGFzRHhndGVnZFN5SHViQ0hHWUdQMGtaNWJRU1BoTmwyNFJWLU80ZzdjWXZ5V1QwM3lsdHkzWXRYZEo5WE04OTIyOUVzcnFUVzVhRTJ3TUE?oc=5",
+      "id": "253e33e9c24e2227",
+      "title": "AI in Cybersecurity: The Next Wave of Cyber Threats - Kings Research",
+      "summary": "AI in Cybersecurity: The Next Wave of Cyber Threats Kings Research",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE53QkF3MmdGcGgtZUN3ZVdHUE9VaVBCMUhGTUF6MTRoMjRyMG5zaVhOejI4eXY1R1ZyX25LbWY5ZDdmeHpIa2NGajg5M1dUSmhCY1ZwMDJuOHhTcVhHRi1OR1hoWUtSdE5xejVJSGIzNFJLYkFuLVRV?oc=5",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "source": "community.nasscom.in",
-      "feed": "Software Development",
-      "published_at": "2026-09-08T13:26:37+00:00",
+      "source": "Kings Research",
+      "feed": "Cybersecurity",
+      "published_at": "2026-09-15T11:13:31+00:00",
       "category": "tech",
       "importance": 6,
       "ai_category": "tech",
       "ai_confidence": 0.99,
       "ai_importance": 6,
-      "ai_novelty": 0.8946,
+      "ai_novelty": 0.8928,
       "ai": {
         "method": "tfidf_cosine_prototype",
         "features": "1-2grams",
         "version": 2
       },
       "entities": [
-        "The Future",
-        "Software Development Is Human"
+        "Cybersecurity",
+        "The Next Wave",
+        "Cyber Threats",
+        "Kings Research AI",
+        "Cyber Threats Kings Research"
       ],
       "source_reliability": 1.0,
       "feedback_boost": 0.0,
       "personal_model_score": 0.0,
-      "personal_score": 6.0
+      "personal_score": 6.0,
+      "article_content_available": false,
+      "article_content_length": 0,
+      "summary_source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE53QkF3MmdGcGgtZUN3ZVdHUE9VaVBCMUhGTUF6MTRoMjRyMG5zaVhOejI4eXY1R1ZyX25LbWY5ZDdmeHpIa2NGajg5M1dUSmhCY1ZwMDJuOHhTcVhHRi1OR1hoWUtSdE5xejVJSGIzNFJLYkFuLVRV?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "summary_method": "rss_fallback"
+    },
+    {
+      "id": "8d0f4b93f8bbe64d",
+      "title": "Linux Foundation and Industry Leaders Launch Akrites to Defend Critical Open Source Software Against AI-Enabled Cyber Threats - Linux Foundation",
+      "summary": "Linux Foundation and Industry Leaders Launch Akrites to Defend Critical Open Source Software Against AI-Enabled Cyber Threats Linux Foundation",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOVFJpUjhOZHF3TFVOekI2RVJVUHM2cUU5X3B2TGs2X19yRUMzVUY3UDByblN6VjJnV2s1cFZmaVJiZVZCLXh4NTVjd0ptdkNRa3RpOW8waVA1Mlo3bXdteWY1U1MybXJXaTBubVg2Z25nUHpsS0QtZXU0STdDLVZTRlM4bnpmRVltejVSOGtiS3QwMndYa3pteTJURUdTbU5nWl81TlVHdTdTM0dvNHF3TnVLanZ6bVRxWUFTN3l5T1lyeHhoQ2VMNzZKemRzTWZKa1R0ZVY5RzAyX1RxUW9kUVlMc2Z4TlNkRFJVSkROaHp6ZGlXWmfSAYYCQVVfeXFMT2VtR0RMWkhPMVZFUUx5bGJONXk0Yi1UZFBlNDF1WnB6eDdqRHA1TF82Z2ZmNlJmYU1TWl8ya3ZWRTZwdVZQcWp5MXhiU1Q1TFh4ZlJPcUg5WGlCUVg3LU5Wc3N6UzlXWFhLTGJwaEhlR3p5RW15Z1FsZ0RKRVhXSTVHNVJ1eXJzSUt1WWJJSmRfWDFiZDFsVUdTTVVkNzVia21HSHluYlhBMHJfY0FTMnhiWUx2ZkxZemxlck5pSDdIdDhIRW9RaHVULUFFSHhWeUZiNWxONnpkM2J0VXRMbUNpVFZ0Y0o3WWt5cVFLdVZLUkh6ZTF5WWVfRzZpblFIdWRUQk01dw?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "source": "Linux Foundation",
+      "feed": "Open Source",
+      "published_at": "2026-06-25T07:00:00+00:00",
+      "category": "tech",
+      "importance": 6,
+      "ai_category": "tech",
+      "ai_confidence": 0.99,
+      "ai_importance": 6,
+      "ai_novelty": 0.7852,
+      "ai": {
+        "method": "tfidf_cosine_prototype",
+        "features": "1-2grams",
+        "version": 2
+      },
+      "entities": [
+        "Linux Foundation",
+        "Industry Leaders Launch Akrites",
+        "Defend Critical Open Source",
+        "Software Against AI-Enabled Cyber",
+        "Threats",
+        "Linux Foundation Linux Foundation",
+        "Threats Linux Foundation"
+      ],
+      "source_reliability": 1.0,
+      "feedback_boost": 0.0,
+      "personal_model_score": 0.0,
+      "personal_score": 6.0,
+      "article_content_available": false,
+      "article_content_length": 0,
+      "summary_source_url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOVFJpUjhOZHF3TFVOekI2RVJVUHM2cUU5X3B2TGs2X19yRUMzVUY3UDByblN6VjJnV2s1cFZmaVJiZVZCLXh4NTVjd0ptdkNRa3RpOW8waVA1Mlo3bXdteWY1U1MybXJXaTBubVg2Z25nUHpsS0QtZXU0STdDLVZTRlM4bnpmRVltejVSOGtiS3QwMndYa3pteTJURUdTbU5nWl81TlVHdTdTM0dvNHF3TnVLanZ6bVRxWUFTN3l5T1lyeHhoQ2VMNzZKemRzTWZKa1R0ZVY5RzAyX1RxUW9kUVlMc2Z4TlNkRFJVSkROaHp6ZGlXWmfSAYYCQVVfeXFMT2VtR0RMWkhPMVZFUUx5bGJONXk0Yi1UZFBlNDF1WnB6eDdqRHA1TF82Z2ZmNlJmYU1TWl8ya3ZWRTZwdVZQcWp5MXhiU1Q1TFh4ZlJPcUg5WGlCUVg3LU5Wc3N6UzlXWFhLTGJwaEhlR3p5RW15Z1FsZ0RKRVhXSTVHNVJ1eXJzSUt1WWJJSmRfWDFiZDFsVUdTTVVkNzVia21HSHluYlhBMHJfY0FTMnhiWUx2ZkxZemxlck5pSDdIdDhIRW9RaHVULUFFSHhWeUZiNWxONnpkM2J0VXRMbUNpVFZ0Y0o3WWt5cVFLdVZLUkh6ZTF5WWVfRzZpblFIdWRUQk01dw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "summary_method": "rss_fallback"
+    },
+    {
+      "id": "d95df5235003d1e9",
+      "title": "The Economic Value of Open Source Software Contributions - Linux Foundation",
+      "summary": "The Economic Value of Open Source Software Contributions Linux Foundation",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPa1R1aThUVTFCRzhjdU5uelVMemJ2d2JEMEhIazNSdnRqdXZnV0Y3TzZLaElqWWtIWnV1UXJyWDJiX1JsNlIzRVNyaElfR2R0ZkRUczNNQlc4cTZVUFNCZXcyY1pZYnJSenBqSS1oanNOWHYxLVdSaEk4RGxJLTNTbVgxdFVVVjVCUG4zZEQ2dHRiU3F3c2VKQtIBqAFBVV95cUxOVTI0enQyWEJfVGZ5OXlkODJsSk5ENjJVRmV3NUNpNkEwS2pfbE9RbWdRd0czZUpEWnc3OWNJVjduaGw0eVU0NUxFXzVtUjZYVTd2c1ZmQUJSbXRTXzBHMGpmZjB6eUhjSXNjYTNBVkduRzJCM2tTNy1xcFVRZFZDNjVsdlNWZ3FZbWRsMTN3SlRKcmxJSzVIWkMyeWlpbUVjbkJXSlBfMEY?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "source": "Linux Foundation",
+      "feed": "Open Source",
+      "published_at": "2026-03-26T07:00:00+00:00",
+      "category": "tech",
+      "importance": 6,
+      "ai_category": "tech",
+      "ai_confidence": 0.99,
+      "ai_importance": 6,
+      "ai_novelty": 0.7852,
+      "ai": {
+        "method": "tfidf_cosine_prototype",
+        "features": "1-2grams",
+        "version": 2
+      },
+      "entities": [
+        "The Economic Value",
+        "Open Source Software Contributions",
+        "Linux Foundation The Economic",
+        "Value",
+        "Linux Foundation"
+      ],
+      "source_reliability": 1.0,
+      "feedback_boost": 0.0,
+      "personal_model_score": 0.0,
+      "personal_score": 6.0,
+      "article_content_available": false,
+      "article_content_length": 0,
+      "summary_source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPa1R1aThUVTFCRzhjdU5uelVMemJ2d2JEMEhIazNSdnRqdXZnV0Y3TzZLaElqWWtIWnV1UXJyWDJiX1JsNlIzRVNyaElfR2R0ZkRUczNNQlc4cTZVUFNCZXcyY1pZYnJSenBqSS1oanNOWHYxLVdSaEk4RGxJLTNTbVgxdFVVVjVCUG4zZEQ2dHRiU3F3c2VKQtIBqAFBVV95cUxOVTI0enQyWEJfVGZ5OXlkODJsSk5ENjJVRmV3NUNpNkEwS2pfbE9RbWdRd0czZUpEWnc3OWNJVjduaGw0eVU0NUxFXzVtUjZYVTd2c1ZmQUJSbXRTXzBHMGpmZjB6eUhjSXNjYTNBVkduRzJCM2tTNy1xcFVRZFZDNjVsdlNWZ3FZbWRsMTN3SlRKcmxJSzVIWkMyeWlpbUVjbkJXSlBfMEY?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "summary_method": "rss_fallback"
     },
     {
       "id": "19844dac14ccd41d",
@@ -3115,7 +3476,7 @@
       "ai_category": "tech",
       "ai_confidence": 0.99,
       "ai_importance": 6,
-      "ai_novelty": 0.7814,
+      "ai_novelty": 0.7812,
       "ai": {
         "method": "tfidf_cosine_prototype",
         "features": "1-2grams",
@@ -3132,7 +3493,11 @@
       "source_reliability": 1.0,
       "feedback_boost": 0.0,
       "personal_model_score": 0.0,
-      "personal_score": 6.0
+      "personal_score": 6.0,
+      "article_content_available": false,
+      "article_content_length": 0,
+      "summary_source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZ2VBeVdFUWhQcHdOUy1RWFpsLUl4TkFuOGhEOHBRbUpZT2RMVl9BZ3hRUzRDQ3VwWVdwN2pKRS1QZWRRTi1UNzhwVndYTTdjV1dkMFNZT3VrRThRUTBMbzZVNGFBWm0zNDI2QlhxQ2UxWEJacURCVDBMM2pJaTR2UHY0QWFOOEF0emNGcTNvcFZRX29pVlRYVkctUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "summary_method": "rss_fallback"
     },
     {
       "id": "dbd0c8bb9ebbea1d",
@@ -3148,7 +3513,7 @@
       "ai_category": "tech",
       "ai_confidence": 0.99,
       "ai_importance": 6,
-      "ai_novelty": 0.727,
+      "ai_novelty": 0.7293,
       "ai": {
         "method": "tfidf_cosine_prototype",
         "features": "1-2grams",
@@ -3162,7 +3527,11 @@
       "source_reliability": 1.0,
       "feedback_boost": 0.0,
       "personal_model_score": 0.0,
-      "personal_score": 6.0
+      "personal_score": 6.0,
+      "article_content_available": false,
+      "article_content_length": 0,
+      "summary_source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWVJldGFJSkhJNzNzM0dNSWs3aU9nZEhqWDZJOWE2aXJET24xeVhSNzVWRWFzalZpdmJSMFQzNWhEOEJ3eERzVDUtRExQU1lBMUhuX2RGWkUzNjk5Y3pqQS1TWVpEbUlSY1BjVjRBR3p4VnBITVdpbzRjY1FiYUlyQ2hkVHdZZzJUNWJlMkhUdHllWUdlSFJQRXg3V25vMG0yUU1iV1dKbHBXZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "summary_method": "rss_fallback"
     },
     {
       "id": "5ba5a4b77f2edfbf",
@@ -3178,7 +3547,7 @@
       "ai_category": "tech",
       "ai_confidence": 0.99,
       "ai_importance": 6,
-      "ai_novelty": 0.6556,
+      "ai_novelty": 0.6566,
       "ai": {
         "method": "tfidf_cosine_prototype",
         "features": "1-2grams",
@@ -3194,7 +3563,11 @@
       "source_reliability": 1.0,
       "feedback_boost": 0.0,
       "personal_model_score": 0.0,
-      "personal_score": 6.0
+      "personal_score": 6.0,
+      "article_content_available": false,
+      "article_content_length": 0,
+      "summary_source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPLU93UWdXYU9jRU5Ld0FTRFJRVWVleWQ1N1Rnc2xDVklMUEFobU5KVXZPbHBEWEhFNTB6eWE2UGpBWHhiakplZjlhU212ZGJMVDRCempUUXZmRWM3R3ZDUVgxcG9tS1ZDN3d1X0RRcFN6cnFYUUFPTEFGNjVjMUdoc1lERzJoRzBpOTR5bGNzSzEtU0xYNnlyOUR0QVRSV1hnV0w5T3pUZWlDTG5uMkkybjQ1MElMMm1yb1VoQ1Y3cVhwODRxUm50MjdLWXRzRE3SAdYBQVVfeXFMT01iSE9RTWxuek8xWTJMNjFjTDQ4LWptR0xOUkZTUkRpSWlac2hIWm04VFBxLUdqVmVvSThtSTNaQldhMHBJTkF0WXdKMHIyNWF0eko0ckc2QnhuS1lMV21KY2ZEVUcwcGpuLXNJWkdRdzBfdTR2M0xKbUI1dTNXNVZmaHFUS2t3Ym5ydEhYWTBCeFRESnF4d1lCVVVTRk54S2pSY2tDZTRIOTV2TWNPRUZkb2JPcDhtdkJmc0xTLVFFUlZJTUVHUmdhWFZIX1RzR2VFbE5wZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "summary_method": "rss_fallback"
     },
     {
       "id": "ce587426897cdf35",
@@ -3210,7 +3583,7 @@
       "ai_category": "tech",
       "ai_confidence": 0.99,
       "ai_importance": 6,
-      "ai_novelty": 0.2989,
+      "ai_novelty": 0.3005,
       "ai": {
         "method": "tfidf_cosine_prototype",
         "features": "1-2grams",
@@ -3227,7 +3600,11 @@
       "source_reliability": 1.0,
       "feedback_boost": 0.0,
       "personal_model_score": 0.0,
-      "personal_score": 6.0
+      "personal_score": 6.0,
+      "article_content_available": false,
+      "article_content_length": 0,
+      "summary_source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdlF1YW9xTmFzMHN6OFlkVEpHODJHd2FZelhJNUVkb25xT0p4WFNBSVFoZGNPaWR5T0ZxUlprQUk5UTZ5NkpTeWFXdUFNMnR4Q3BDRUtDUldaamliUWlqSU5feFRYZW5OT24tLWh5cHFZQW5CWEVDUmFrU2dQMzQxNW9iVzhKZ3M2ekowOEQyNTdGbzgwaUpjRGZxNUNrYzNnbEJ5UzJiOGlnek1uOS1CV0RiSkZ3WmhN?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "summary_method": "rss_fallback"
     },
     {
       "id": "c92c3528a8d33bf0",
@@ -3243,7 +3620,7 @@
       "ai_category": "tech",
       "ai_confidence": 0.99,
       "ai_importance": 6,
-      "ai_novelty": 0.2989,
+      "ai_novelty": 0.3005,
       "ai": {
         "method": "tfidf_cosine_prototype",
         "features": "1-2grams",
@@ -3262,7 +3639,11 @@
       "source_reliability": 1.0,
       "feedback_boost": 0.0,
       "personal_model_score": 0.0,
-      "personal_score": 6.0
+      "personal_score": 6.0,
+      "article_content_available": false,
+      "article_content_length": 0,
+      "summary_source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOdDR1aHBjeVZPX1JBMnFGZGREMjMxSm81alFNU28zd3pQa0NtbmlJSkpJUG9XaHRibnEtQW1WWEpZa245UFRlclNaS19qOHh5V1pMQTYwN2h2NlVWVHJsakFOc1RUbXM3dVJYUzV2RnNsWEQ2ckx5MkQ3bkRsSncwMU5STkZRS1JpQ1RacjlKNmp3aGVpSWJsZkRHekVtZXd6eFExQUloRXlNM0kzN0JWS2VvcHdxa24xYmpGLUU4Y3RON3dtWFYwbmk5emNVYzlCTkdabTdZWQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "summary_method": "rss_fallback"
     },
     {
       "id": "eede5a0c705116f4",
@@ -3278,7 +3659,7 @@
       "ai_category": "tech",
       "ai_confidence": 0.99,
       "ai_importance": 5,
-      "ai_novelty": 0.9606,
+      "ai_novelty": 0.9605,
       "ai": {
         "method": "tfidf_cosine_prototype",
         "features": "1-2grams",
@@ -3294,7 +3675,11 @@
       "source_reliability": 1.0,
       "feedback_boost": 0.0,
       "personal_model_score": 0.0,
-      "personal_score": 5.0
+      "personal_score": 5.0,
+      "article_content_available": false,
+      "article_content_length": 0,
+      "summary_source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE51QVBPQUp3c1FVcER6eDExYmNNaEc0bGNfQy1pZG9ZeVY5bVQ4RURIRnBOQThMeWVSb2Y2aU8wakRWZlhDVGpvVXRJeXk0Q3BETnlrZkdnUXV2aHo4VlFDdGk1YmZUa3N4SEl0ZnJPbTZkUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "summary_method": "rss_fallback"
     },
     {
       "id": "2bae4360c3900ecf",
@@ -3310,7 +3695,7 @@
       "ai_category": "tech",
       "ai_confidence": 0.7253,
       "ai_importance": 5,
-      "ai_novelty": 0.9425,
+      "ai_novelty": 0.9397,
       "ai": {
         "method": "tfidf_cosine_prototype",
         "features": "1-2grams",
@@ -3324,7 +3709,11 @@
       "source_reliability": 1.0,
       "feedback_boost": 0.0,
       "personal_model_score": 0.0,
-      "personal_score": 5.0
+      "personal_score": 5.0,
+      "article_content_available": false,
+      "article_content_length": 0,
+      "summary_source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPZzBJQzk5MmtWQ0gzWVNYQm5RUm1sNjkxeVlnSWxIYXBuVEpZaXp5Wlc2Vm1MdnJxNXZoa0g0aDJ0WW84YTV2bzJNM2lYaEgtbi1VeXlZWVg3REkwZmdNSzBYb3hGcS1lLWZEeXpDNDJTVG5UM0NzcDE0dmstMFNXR1ZubUJMQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "summary_method": "rss_fallback"
     },
     {
       "id": "fd6206bbd1080f05",
@@ -3340,7 +3729,7 @@
       "ai_category": "tech",
       "ai_confidence": 0.99,
       "ai_importance": 5,
-      "ai_novelty": 0.8834,
+      "ai_novelty": 0.8841,
       "ai": {
         "method": "tfidf_cosine_prototype",
         "features": "1-2grams",
@@ -3355,7 +3744,11 @@
       "source_reliability": 1.0,
       "feedback_boost": 0.0,
       "personal_model_score": 0.0,
-      "personal_score": 5.0
+      "personal_score": 5.0,
+      "article_content_available": false,
+      "article_content_length": 0,
+      "summary_source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPNGNINnBDcl9jQUhxbHJfYXFnQkZTWFlZRVk5TFF2SDBENlB4dktDTDJZSU9HeDRVaWxlNDA0TmZKT3Vpd1pwVnJsR2JPcXdoTlJVcXJtbUF5dXpqa281dWt3SmN1a1h2cl9neDRLOElWRGU4V3RZc3dBeEg2UU4waHk5YmlHRmlSVnZlM0FfUGRJMzZEdDJOQjhSOXNJanVmMVRRY21OQUh2Y0d4aFFpYWh0V2Q5cjZzRm94N2VIZHFWRXhhQXc?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "summary_method": "rss_fallback"
     },
     {
       "id": "e4235aef61ab123e",
@@ -3371,7 +3764,7 @@
       "ai_category": "tech",
       "ai_confidence": 0.7087,
       "ai_importance": 5,
-      "ai_novelty": 0.6556,
+      "ai_novelty": 0.6566,
       "ai": {
         "method": "tfidf_cosine_prototype",
         "features": "1-2grams",
@@ -3389,7 +3782,11 @@
       "source_reliability": 1.0,
       "feedback_boost": 0.0,
       "personal_model_score": 0.0,
-      "personal_score": 5.0
+      "personal_score": 5.0,
+      "article_content_available": false,
+      "article_content_length": 0,
+      "summary_source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNSUt0RjU1aVZNTFlBTHhteW5lRkQ5OGlSdWdhSkRBZHpwbGRvX1ZqMU9XUHhUZHlUdV9uWk8taG13OUZ2LWd1aldsM1A0Q0Y1THdjcjFPc3F5TWk2NkxlVkJ1OFFYRk5sN2tUVzF6dWVuaU1MNXo2U210S1dQcC1VclZmWWhyeVRWaVB1ZS0yWXBoT3lEZjdtb05JdVdnSFlHZEhkcHVCZUw5c2ZiTzVvLTR0Ml9kMEZnT1RLTG0tZjV4Tm05MWxjdVpWNHM?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "summary_method": "rss_fallback"
     },
     {
       "id": "4b5cf3982e50a556",
@@ -3405,7 +3802,7 @@
       "ai_category": "tech",
       "ai_confidence": 0.7517,
       "ai_importance": 5,
-      "ai_novelty": 0.5871,
+      "ai_novelty": 0.5919,
       "ai": {
         "method": "tfidf_cosine_prototype",
         "features": "1-2grams",
@@ -3420,7 +3817,11 @@
       "source_reliability": 1.0,
       "feedback_boost": 0.0,
       "personal_model_score": 0.0,
-      "personal_score": 5.0
+      "personal_score": 5.0,
+      "article_content_available": false,
+      "article_content_length": 0,
+      "summary_source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMW83QjZWcUtHUU9teS1QeVRBUENnNG8wem9BeUNCeklvelZmQ0ZFT2ZRS1Z1VHpKUWg4VWxUOVloS2lTMm92a1VSbi1STFM3c3lxdU1SWFA0QjJ3RTU4dmlSM2t5YVh6cFJsSHZGX0NTaHAtVjM3WDdBNUdjT0EzQ3pXMl84SkYzazlUVV9WWHZsVXZiOEtOQUJnWmw2c2padnFscVFRWGVkTm54eHc?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "summary_method": "rss_fallback"
     },
     {
       "id": "5400fc1bc76962be",
@@ -3436,7 +3837,7 @@
       "ai_category": "tech",
       "ai_confidence": 0.7085,
       "ai_importance": 5,
-      "ai_novelty": 0.5871,
+      "ai_novelty": 0.5919,
       "ai": {
         "method": "tfidf_cosine_prototype",
         "features": "1-2grams",
@@ -3452,7 +3853,11 @@
       "source_reliability": 1.0,
       "feedback_boost": 0.0,
       "personal_model_score": 0.0,
-      "personal_score": 5.0
+      "personal_score": 5.0,
+      "article_content_available": false,
+      "article_content_length": 0,
+      "summary_source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQbGZSOWFlOGpaMVVNeG5kTDhVTGsxWmd1RlRMVFR2c1A1RlJSRURfOVhJczZnVTVKeFVoeU9LUWVFRGhaUGVoZWt0NTVDbE5MY1lnYUF2b2szTDRZQjltdkwxbHlpbU52b0toQlRlczRWUDFLMloyWEFjYk5EWERFaUxOSWZ0UGlQQ3o4LVVHbXF4ZkdtRTdJMFhCa3R0OXpJSTFRc1B2RU1NOTB4MzU3TS1SUEU2MDJPWVpOdzVn?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "summary_method": "rss_fallback"
     }
   ]
 }
