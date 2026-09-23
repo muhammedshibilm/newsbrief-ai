@@ -1,6 +1,6 @@
 {
   "version": 7,
-  "updated_at": "2026-09-23T20:44:36.635855+00:00",
+  "updated_at": "2026-09-23T23:15:41.817626+00:00",
   "ai_engine": {
     "enabled": true,
     "type": "mathematical_ml",
@@ -47,27 +47,6 @@
   },
   "general": [
     {
-      "id": "967eb0515582dea3",
-      "title": "സര്‍ക്കാരിന്റെ യാത്രയ്ക്കുമപ്പുറം ചർച്ചയാകുന്ന മുഖ്യമന്ത്രിയുടേയും മന്ത്രിമാരുടേയും യാത്രകൾ - manoramanews.com",
-      "summary": "സര്‍ക്കാരിന്റെ യാത്രയ്ക്കുമപ്പുറം ചർച്ചയാകുന്ന മുഖ്യമന്ത്രിയുടേയും മന്ത്രിമാരുടേയും യാത്രകൾ manoramanews.com",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZDFVbjlWeTk1bUlabEJwV1daaHp2dkJVekZGa0RSdWJ2dGNFNFRCcF95aHVDaENDTkFQaGtSeU1YYk5jUG9CRy02S0NQUGRIT0JIYVhKdDJQVHctMXBlVGhVU1NiSndhWjF5X2ltOU8yaEJQMDMwVW9DTTNBekxzTlpwY29qNnB1bXNORm5jb0hRRXd3S0lLVFRaWnJJU2lzTUtpcEN2SVN3VUVQaXhYYVhoektOdmZQck5Ea9IBwgFBVV95cUxPUzdzVU95bDNtLUJjVkNOYmdtdEZlZU90d2Y1Q2JyZ2k3ZWw2TWdmNW8wM3lhZHN3Y0RZODFqb0tHLVNxSXRvM3dTbkFPc1NWZTJMRDF4UW1UTW9qWW05STBzQkhOa1Y3X1I5QVdIZjBrUXRvcmxSS0RkVFZQbEdaUFg2V1Q5UlFJcGQ5M3ZCS2dzbEF6YU9GTGFiSllPWlpENlFKam5TZklXVlgwa1ZaY2h2T0pZLUlfb1VsNXhvTjlLZw?oc=5",
-      "source": "manoramanews.com",
-      "category": "general",
-      "published_at": "2026-09-23T16:47:43+00:00",
-      "importance": 4,
-      "personal_score": 4.25,
-      "entities": [
-        "സര്",
-        "ക്കാരിന്റെ",
-        "യാത്രയ്ക്കുമപ്പുറം",
-        "ചർച്ചയാകുന്ന",
-        "മുഖ്യമന്ത്രിയുടേയും",
-        "മന്ത്രിമാരുടേയും",
-        "യാത്രകൾ"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
       "id": "1a516bf6c8e807a1",
       "title": "KERALA BUDGET 2026: ആരോഗ്യ മേഖലയെ മെച്ചപ്പെടുത്തും; കേരള ഹെൽത്ത് ആൻഡ് ലൈഫ് സയൻസ് സിറ്റിക്ക് 100 കോടി - Samayam Malayalam",
       "summary": "KERALA BUDGET 2026: ആരോഗ്യ മേഖലയെ മെച്ചപ്പെടുത്തും; കേരള ഹെൽത്ത് ആൻഡ് ലൈഫ് സയൻസ് സിറ്റിക്ക് 100 കോടി Samayam Malayalam",
@@ -90,6 +69,49 @@
         "കോടി",
         "KERALA BUDGET",
         "Samayam Malayalam KERALA BUDGET"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
+      "id": "967eb0515582dea3",
+      "title": "സര്‍ക്കാരിന്റെ യാത്രയ്ക്കുമപ്പുറം ചർച്ചയാകുന്ന മുഖ്യമന്ത്രിയുടേയും മന്ത്രിമാരുടേയും യാത്രകൾ - manoramanews.com",
+      "summary": "സര്‍ക്കാരിന്റെ യാത്രയ്ക്കുമപ്പുറം ചർച്ചയാകുന്ന മുഖ്യമന്ത്രിയുടേയും മന്ത്രിമാരുടേയും യാത്രകൾ manoramanews.com",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZDFVbjlWeTk1bUlabEJwV1daaHp2dkJVekZGa0RSdWJ2dGNFNFRCcF95aHVDaENDTkFQaGtSeU1YYk5jUG9CRy02S0NQUGRIT0JIYVhKdDJQVHctMXBlVGhVU1NiSndhWjF5X2ltOU8yaEJQMDMwVW9DTTNBekxzTlpwY29qNnB1bXNORm5jb0hRRXd3S0lLVFRaWnJJU2lzTUtpcEN2SVN3VUVQaXhYYVhoektOdmZQck5Ea9IBwgFBVV95cUxPUzdzVU95bDNtLUJjVkNOYmdtdEZlZU90d2Y1Q2JyZ2k3ZWw2TWdmNW8wM3lhZHN3Y0RZODFqb0tHLVNxSXRvM3dTbkFPc1NWZTJMRDF4UW1UTW9qWW05STBzQkhOa1Y3X1I5QVdIZjBrUXRvcmxSS0RkVFZQbEdaUFg2V1Q5UlFJcGQ5M3ZCS2dzbEF6YU9GTGFiSllPWlpENlFKam5TZklXVlgwa1ZaY2h2T0pZLUlfb1VsNXhvTjlLZw?oc=5",
+      "source": "manoramanews.com",
+      "category": "general",
+      "published_at": "2026-09-23T16:47:43+00:00",
+      "importance": 4,
+      "personal_score": 4.25,
+      "entities": [
+        "സര്",
+        "ക്കാരിന്റെ",
+        "യാത്രയ്ക്കുമപ്പുറം",
+        "ചർച്ചയാകുന്ന",
+        "മുഖ്യമന്ത്രിയുടേയും",
+        "മന്ത്രിമാരുടേയും",
+        "യാത്രകൾ"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
+      "id": "079900f7cd7aeeaa",
+      "title": "ഇന്ത്യയിലേക്ക് പണമയക്കാൻ പദ്ധതിയുണ്ടോ? പണിമുടക്കുമൂലം ബാങ്ക് ട്രാൻസ്ഫറുകൾ വൈകിയേക്കാം - Mathrubhumi",
+      "summary": "ഇന്ത്യയിലേക്ക് പണമയക്കാൻ പദ്ധതിയുണ്ടോ? പണിമുടക്കുമൂലം ബാങ്ക് ട്രാൻസ്ഫറുകൾ വൈകിയേക്കാം Mathrubhumi",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNRlJmczU4eDRuc1hqb0g5QzdITUdxWTlLUmpFYVV0bkI2UjlnbEtDeVpEbzV6WVE4R1RBWlFwZEMwMXFsVm9mcThBenBlRXpqbGZxd0t0cTdGVHNSUTBBeVk5dE1mVEVJblplLWx0Mm5MVHJ2bTgxLXZqbFBjeGdJRWlhNnluRzNEeS1KWWw4Yl9ROFHSAZgBQVVfeXFMT2hzUk45TE13TEtoREJtMThkTzd2R1ZXU3lZcHJEa0liZ3hILWN3VzlrTlhxb280X1lXYnFPOEIzdVVnSURyT3dlRXo5UW9xLTBDUWNpX1ZFUlBPS0NFTXhvUldqTHVaVlpNWEYzMk1GdDNaQ1k4S050cC1YWklKeVV4dDF3cWIzWk55UTRGVU5qaWhqLVo2US0?oc=5",
+      "source": "Mathrubhumi",
+      "category": "general",
+      "published_at": "2026-09-23T14:39:23+00:00",
+      "importance": 4,
+      "personal_score": 4.25,
+      "entities": [
+        "ഇന്ത്യയിലേക്ക്",
+        "പണമയക്കാൻ",
+        "പദ്ധതിയുണ്ടോ",
+        "പണിമുടക്കുമൂലം",
+        "ബാങ്ക്",
+        "ട്രാൻസ്ഫറുകൾ",
+        "വൈകിയേക്കാം",
+        "Mathrubhumi"
       ],
       "summary_method": "rss_fallback"
     },
@@ -141,6 +163,51 @@
         "നിരാശപ്പെടുത്തി",
         "മനു",
         "ഭാക്കർ",
+        "Manorama Online"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
+      "id": "81926606a71f03e7",
+      "title": "ഷാജി ബൾഗേറിയയിൽ, 26ന് തിരിച്ചെത്തും; ഉപയോഗിക്കുക സർക്കാർ വാഹനം - Manorama Online",
+      "summary": "ഷാജി ബൾഗേറിയയിൽ, 26ന് തിരിച്ചെത്തും; ഉപയോഗിക്കുക സർക്കാർ വാഹനം Manorama Online",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMXJ3cHB5ZDcxLXNNcGRnTnAzLTRmWmI0dEowZ3E3TERydS0wdHRodXlRaW01MF9ZZnpGMXlYUlIzU3lXTGVuendCSmt4dE95RDZEX2hzVzNjSTdCMEZUYlIwdU1XU2JBdndMLUVNWHdnZEx4cEFjNlhHTy1zb1lhNlFrbFFIdFlYZ2FianZtZE5iU0ROVHgzZVBER3hpdTljNFRNSzVETDNOTG1KVkExNW45QXA4M1MxVFg00gHAAUFVX3lxTE14amVNYWlVaXZLTExlNmE4UEtjNElzNnVYeU13ckFiZ2lCZ01sR0hqSHZ3eFc0RFdaYWNVaXc0NFNnbklJenNtd0xFajdCYTc3cXJNTXY2cUhLckxrMEh0M2VLZS1iakMxdm43SUF6OXZzcWw2N21ZSDFraXFvYnBVZ0owdUpZTEtVbl9yOWRIR2ZJNkI5dUdmaU1Cckw4ckEtYm92d2ZnVG9YUmpWZExiSHJlX0xnR05TWTRSZlVjZw?oc=5",
+      "source": "Manorama Online",
+      "category": "general",
+      "published_at": "2026-09-23T20:36:32+00:00",
+      "importance": 4,
+      "personal_score": 4.25,
+      "entities": [
+        "ഷാജി",
+        "ബൾഗേറിയയിൽ",
+        "തിരിച്ചെത്തും",
+        "ഉപയോഗിക്കുക",
+        "സർക്കാർ",
+        "വാഹനം",
+        "Manorama Online"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
+      "id": "73d0f36fa10d4d0e",
+      "title": "പ്രതീക്ഷിച്ച പരിഗണനയില്ലാതെ കേരള നേതാക്കൾ; വി. മുരളീധരനെ ആന്ധ്രയുടെ പ്രഭാരി സ്ഥാനത്തുനിന്ന് ഒഴിവാക്കി - Manorama Online",
+      "summary": "പ്രതീക്ഷിച്ച പരിഗണനയില്ലാതെ കേരള നേതാക്കൾ; വി. മുരളീധരനെ ആന്ധ്രയുടെ പ്രഭാരി സ്ഥാനത്തുനിന്ന് ഒഴിവാക്കി Manorama Online",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWUFlWm1KNk93c2Zubkk4dW1rWmxvU3hMc3EtRnNiWFNQbURNdmVmalJ2YzRueWJjSTVPMmJrR2NTdHdNTFZzNU5GQXEzdmFDdjBESzFaUkttUUtraG5taFFiSWxiNFhtQTJBbXY4UEktOWxBWGxjbWc5YWdtRGxEZ1l0Q0NsVU1NWF9UaW9nNGlrREZFUGJFVEtwNFk4TGRaeHBTNWNiODdYSG92RzhCb193eTZhbkZ2MkFj0gHAAUFVX3lxTE56X3hoVHdVd3B3RGtCRVlZTTNObC1LMjVsbDhGczZaaDQwRVVzb2p5T0tzSU1ZdE4zQTRocUlPLW5aaXRsc3JydURYdzRGaC1uZTJMQlN6ajA1S1BJNUE5NDhKOF9DTTU1Z05OWS1FMG9ZbzludHd4QjFiWkR0ck5LQUdtTS0ybjZsQmJiOW9LN1ZoNEVzVWtZUzYyUWNrWmkzaXE3cUxmbmtoNjBWUzh1LUlJelBXaGRKMjBBNjlseA?oc=5",
+      "source": "Manorama Online",
+      "category": "general",
+      "published_at": "2026-09-23T21:44:57+00:00",
+      "importance": 4,
+      "personal_score": 4.25,
+      "entities": [
+        "പ്രതീക്ഷിച്ച",
+        "പരിഗണനയില്ലാതെ",
+        "കേരള",
+        "നേതാക്കൾ",
+        "മുരളീധരനെ",
+        "ആന്ധ്രയുടെ",
+        "പ്രഭാരി",
+        "സ്ഥാനത്തുനിന്ന്",
+        "ഒഴിവാക്കി",
         "Manorama Online"
       ],
       "summary_method": "rss_fallback"
@@ -214,77 +281,6 @@
         "നീക്കം",
         "പുനഃപരിശോധിക്കണം",
         "Manorama Online"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
-      "id": "ebd06c55bab82dac",
-      "title": "ഒമാന്‍ ഇന്‍വിറ്റേഷന്‍ ടൂര്‍ണ്ണമെന്റില്‍ കേരളത്തിന് ആദ്യ തോല്‍വി: ഒമാന്റെ വിജയം 15 റണ്‍സിന് - Marunadan Malayali",
-      "summary": "ഒമാന്‍ ഇന്‍വിറ്റേഷന്‍ ടൂര്‍ണ്ണമെന്റില്‍ കേരളത്തിന് ആദ്യ തോല്‍വി: ഒമാന്റെ വിജയം 15 റണ്‍സിന് Marunadan Malayali",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPenBxS0xLZnBWT1dFTDh4NFpuWTBtOE9lYTVNZmZ0eEVaQkV3aTU1cnVtWE1aN0RoNnJSMXNjSFloYXUtYmZoY0xuamlleW5oOE94SVU3Q2ZSMzVkVnN5dFpQal9VZ0MtN21jWUZiaU9qcHQzQ2hOME1pcF95bGtKWGtLaUtPQ0xySHRmNDUtdUhFQU1LOHlsQlM5MWE1ODhkY21vNEVPMFhTNG4zSmfSAbMBQVVfeXFMTTl3R2RqSkF5ZFoyS1ktVUJFcnJ2X3dIc3BhdVJFM0ZKSk5uTmp2aWVETGV5SS1FV1BZeUwzLVFlOEdkRGZCSDF0SmtFRnNZWXNIZ1hDSmJpU091bUEzbHhveVZJVnlSNVZ0NW1fdDlDN0dqSnF4a1BONFFTTUkwUlVfLTh3QTkxWG5BekV3S3V0bzhPYmczZ09hZWk5OGYzc1ZYTXhnUlRCR1dVRG5RbkNUdnc?oc=5",
-      "source": "Marunadan Malayali",
-      "category": "general",
-      "published_at": "2026-09-23T11:07:47+00:00",
-      "importance": 3,
-      "personal_score": 3.25,
-      "entities": [
-        "ഒമാന്",
-        "ഇന്",
-        "വിറ്റേഷന്",
-        "ടൂര്",
-        "ണ്ണമെന്റില്",
-        "കേരളത്തിന്",
-        "ആദ്യ",
-        "തോല്",
-        "ഒമാന്റെ",
-        "വിജയം",
-        "റണ്",
-        "സിന്"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
-      "id": "62f07052727c3e91",
-      "title": "ദാമ്പത്യപ്രശ്നം പരിഹരിക്കാൻ എത്തിയ യുവതിയെ പീഡിപ്പിച്ചു: വ്യാജ സിദ്ധൻ അറസ്റ്റിൽ - Kerala Kaumudi",
-      "summary": "ദാമ്പത്യപ്രശ്നം പരിഹരിക്കാൻ എത്തിയ യുവതിയെ പീഡിപ്പിച്ചു: വ്യാജ സിദ്ധൻ അറസ്റ്റിൽ Kerala Kaumudi",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPMFFUd2Ixak8yMFh1eUJMbV9hTmthOS03V3E5Y0lrdWRQdzRDWl9HNnhPdTJVa2RDaHhvaTlieWtQNERmaFJXT05DQ3phZUl0Y0ZfUDJheVVRVTN0cG42RzAwdFJkMWs5YzVVbDIzOGJWZm1qaXN1ejFoSXBLemxmTEQ1TU9kUlp1TmpSWkZMYi1FZUxfS3lvLTZqdjZmZU9hazFkU0xiN0FMZkliWld3WmtpczdMU0IyNDBueXJHbVo1RFRuZVozdlFWN1BtNFdKekE2SlNoWEVNNG82M2JMSg?oc=5",
-      "source": "Kerala Kaumudi",
-      "category": "general",
-      "published_at": "2026-09-23T10:49:34+00:00",
-      "importance": 3,
-      "personal_score": 3.25,
-      "entities": [
-        "ദാമ്പത്യപ്രശ്നം",
-        "പരിഹരിക്കാൻ",
-        "എത്തിയ",
-        "യുവതിയെ",
-        "പീഡിപ്പിച്ചു",
-        "വ്യാജ",
-        "സിദ്ധൻ",
-        "അറസ്റ്റിൽ",
-        "Kerala Kaumudi"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
-      "id": "a00726d7069207ea",
-      "title": "പശ്ചിമഘട്ടത്തിലെ പരിസ്ഥിതിലോല പ്രദേശം: 'കേരള മോഡൽ' എന്തുകൊണ്ട് ചർച്ചയാകുന്നു? - Azhimukham",
-      "summary": "പശ്ചിമഘട്ടത്തിലെ പരിസ്ഥിതിലോല പ്രദേശം: 'കേരള മോഡൽ' എന്തുകൊണ്ട് ചർച്ചയാകുന്നു? Azhimukham",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOUnJhZ1U0d1JsNnF6dWtyUFZiVU11bXg1b2VFYV9ZQnRzVU51RHQxS3g3a1BTdG5lbHB5WkhqT1BvZ05HRHBzT3pNNFp3RG94Z2NFYS1yYkNTLWhETDNaYkFwbnJNb2pqQ1pEUTBPTy1vWHphbmFVMnphN3BYNzlHdk9UckY?oc=5",
-      "source": "Azhimukham",
-      "category": "general",
-      "published_at": "2026-09-23T11:07:55+00:00",
-      "importance": 3,
-      "personal_score": 3.25,
-      "entities": [
-        "പശ്ചിമഘട്ടത്തിലെ",
-        "പരിസ്ഥിതിലോല",
-        "പ്രദേശം",
-        "കേരള",
-        "മോഡൽ",
-        "എന്തുകൊണ്ട്",
-        "ചർച്ചയാകുന്നു",
-        "Azhimukham"
       ],
       "summary_method": "rss_fallback"
     },
@@ -408,29 +404,6 @@
       "summary_method": "rss_fallback"
     },
     {
-      "id": "14cc19d04bf97f1f",
-      "title": "തീവ്രന്യൂനമർദം രാത്രിയോടെ കരതൊടും; നാളെ ഈ അഞ്ച് ജില്ലകളിൽ യെല്ലോ അലർട്ട് - Oneindia Malayalam",
-      "summary": "തീവ്രന്യൂനമർദം രാത്രിയോടെ കരതൊടും; നാളെ ഈ അഞ്ച് ജില്ലകളിൽ യെല്ലോ അലർട്ട് Oneindia Malayalam",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQX1V3RFI3dDB1bzBIZklMYnlRX29qbk1sRzNmSElGVXpmLUsyLVpfcmdPWk9JOHRCY0lxLXAyNk1DZVEtR0wwcnBKcEwzcFdhOE1KaTZqUFUwN0pQN1ZzSEtJMzhuNE9zQ1hhTWItQW9EM2pLLUpOZW43UkRwUmNwWVExZ2pPQWdRb2EyU1hYLWhubm54bDZ5aHUxMnRjODBXc3NwTTFYeGNHakhiUjBFYVlEWWU5WXZGeHFLV0puaThyaXJXSmllQ0otS1NnbWxyMlBTTzh6dUFpZUZiV0VHNEZjN3hma3BHdmFz?oc=5",
-      "source": "Oneindia Malayalam",
-      "category": "general",
-      "published_at": "2026-09-23T12:04:03+00:00",
-      "importance": 3,
-      "personal_score": 3.25,
-      "entities": [
-        "തീവ്രന്യൂനമർദം",
-        "രാത്രിയോടെ",
-        "കരതൊടും",
-        "നാളെ",
-        "അഞ്ച്",
-        "ജില്ലകളിൽ",
-        "യെല്ലോ",
-        "അലർട്ട്",
-        "Oneindia Malayalam"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
       "id": "4b9a234c1cc4159d",
       "title": "ഇന്ത്യൻ പാസ്‌പോർട്ട് 'ഉപയോഗശൂന്യം': ഉയർന്ന നികുതി അടച്ചിട്ടും ഒരു ആനുകൂല്യവുമില്ലെന്ന് യുവ സംരംഭകൻ, കുറിപ്പ് വൈറൽ - Asianet News Malayalam",
       "summary": "ഇന്ത്യൻ പാസ്‌പോർട്ട് 'ഉപയോഗശൂന്യം': ഉയർന്ന നികുതി അടച്ചിട്ടും ഒരു ആനുകൂല്യവുമില്ലെന്ന് യുവ സംരംഭകൻ, കുറിപ്പ് വൈറൽ Asianet News Malayalam",
@@ -483,6 +456,30 @@
       "summary_method": "rss_fallback"
     },
     {
+      "id": "1afbd793c18e2f14",
+      "title": "രാജസ്ഥാനിൽ ബെൽജിയൻ ഫണ്ട് ദുരുപയോഗം ചെയ്ത് മതപരിവർത്തനം; രണ്ട് കേന്ദ്രങ്ങളിൽ ഇ ഡി റെയ്ഡ് - News18 Malayalam",
+      "summary": "രാജസ്ഥാനിൽ ബെൽജിയൻ ഫണ്ട് ദുരുപയോഗം ചെയ്ത് മതപരിവർത്തനം; രണ്ട് കേന്ദ്രങ്ങളിൽ ഇ ഡി റെയ്ഡ് News18 Malayalam",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNWWxOQzJYWUVCdkZ0VUVDNVRqQ05JVEVHOXN5UEFJU2FOWXNrcG5UaEdHLTMxQkZjSndiRGVuYXFGU29ySE5CTlJjSEFaVjRyVnR3QUNVX0drQzVuZkd0S2VzS1FOOGJzZkJaRVFOdVRiZHdBWDgtMnJKVF9FcnBGYXJKVmxvRkY0Z1BEaFNjR200SEJLNUtVMVRXUHc3dlo0VnFNLWJ2N0xDNHNVT1JkZ015b1E2Xy1FMWJfbllBMmI1dXV3OHRXU2htcjRDaERZWmhWRkJPRXVTRjQtbEQ0?oc=5",
+      "source": "News18 Malayalam",
+      "category": "general",
+      "published_at": "2026-09-23T16:52:13+00:00",
+      "importance": 3,
+      "personal_score": 3.25,
+      "entities": [
+        "രാജസ്ഥാനിൽ",
+        "ബെൽജിയൻ",
+        "ഫണ്ട്",
+        "ദുരുപയോഗം",
+        "ചെയ്ത്",
+        "മതപരിവർത്തനം",
+        "രണ്ട്",
+        "കേന്ദ്രങ്ങളിൽ",
+        "റെയ്ഡ്",
+        "News18 Malayalam"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
       "id": "70c8a5a3498e2095",
       "title": "'സർക്കാർ ആശുപത്രികളിൽ ഡോക്ടർമാരുടെ വിവരവും ഒ.പി. സമയവും പ്രദർശിപ്പിക്കണം' - Samakalika Malayalam",
       "summary": "'സർക്കാർ ആശുപത്രികളിൽ ഡോക്ടർമാരുടെ വിവരവും ഒ.പി. സമയവും പ്രദർശിപ്പിക്കണം' Samakalika Malayalam",
@@ -526,80 +523,6 @@
         "റൂട്ടിലോടും",
         "ചരിത്രത്തിലാദ്യം",
         "Samakalika Malayalam"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
-      "id": "fc290079cdec2dcb",
-      "title": "വെറും നാല് സെക്കൻഡ് മാത്രം; ആറാം വയസിൽ ലോക റെക്കോർഡ് തകർത്ത് ലിയാൻ - keralakaumudi.com",
-      "summary": "വെറും നാല് സെക്കൻഡ് മാത്രം; ആറാം വയസിൽ ലോക റെക്കോർഡ് തകർത്ത് ലിയാൻ keralakaumudi.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNLUV5czBwWWVKanpQbzVyelRwbVo1M0c2RzdaTkZvRHFRTmx3YkpaWi1taUlrd3JGVE9JSklJcDU5QmRnbWNvVzZFZkZBMkhwa2RQMFdkbDYwLWxzQzhZeF84MmRlRERWNmZGNTJ1anJnNkxjUFNHUzktRkpTOTdlNnZFMFI0ZGxLa0tKQ0w5YnZpYUpzTmhsNQ?oc=5",
-      "source": "keralakaumudi.com",
-      "category": "general",
-      "published_at": "2026-09-23T11:14:44+00:00",
-      "importance": 3,
-      "personal_score": 3.25,
-      "entities": [
-        "വെറും",
-        "നാല്",
-        "സെക്കൻഡ്",
-        "മാത്രം",
-        "ആറാം",
-        "വയസിൽ",
-        "ലോക",
-        "റെക്കോർഡ്",
-        "തകർത്ത്",
-        "ലിയാൻ"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
-      "id": "1afbd793c18e2f14",
-      "title": "രാജസ്ഥാനിൽ ബെൽജിയൻ ഫണ്ട് ദുരുപയോഗം ചെയ്ത് മതപരിവർത്തനം; രണ്ട് കേന്ദ്രങ്ങളിൽ ഇ ഡി റെയ്ഡ് - News18 Malayalam",
-      "summary": "രാജസ്ഥാനിൽ ബെൽജിയൻ ഫണ്ട് ദുരുപയോഗം ചെയ്ത് മതപരിവർത്തനം; രണ്ട് കേന്ദ്രങ്ങളിൽ ഇ ഡി റെയ്ഡ് News18 Malayalam",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNWWxOQzJYWUVCdkZ0VUVDNVRqQ05JVEVHOXN5UEFJU2FOWXNrcG5UaEdHLTMxQkZjSndiRGVuYXFGU29ySE5CTlJjSEFaVjRyVnR3QUNVX0drQzVuZkd0S2VzS1FOOGJzZkJaRVFOdVRiZHdBWDgtMnJKVF9FcnBGYXJKVmxvRkY0Z1BEaFNjR200SEJLNUtVMVRXUHc3dlo0VnFNLWJ2N0xDNHNVT1JkZ015b1E2Xy1FMWJfbllBMmI1dXV3OHRXU2htcjRDaERZWmhWRkJPRXVTRjQtbEQ0?oc=5",
-      "source": "News18 Malayalam",
-      "category": "general",
-      "published_at": "2026-09-23T16:52:13+00:00",
-      "importance": 3,
-      "personal_score": 3.25,
-      "entities": [
-        "രാജസ്ഥാനിൽ",
-        "ബെൽജിയൻ",
-        "ഫണ്ട്",
-        "ദുരുപയോഗം",
-        "ചെയ്ത്",
-        "മതപരിവർത്തനം",
-        "രണ്ട്",
-        "കേന്ദ്രങ്ങളിൽ",
-        "റെയ്ഡ്",
-        "News18 Malayalam"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
-      "id": "5f37d4fe1a9bd9b9",
-      "title": "Google Trends: ഇന്ത്യയെ വിറപ്പിച്ച് ജപ്പാൻ; രണ്ട് റൺസ് ജയത്തിനു പിന്നാലെ മത്സരം ഗൂഗിളിൽ ട്രെൻഡിങ് - Indian Express - Malayalam",
-      "summary": "Google Trends: ഇന്ത്യയെ വിറപ്പിച്ച് ജപ്പാൻ; രണ്ട് റൺസ് ജയത്തിനു പിന്നാലെ മത്സരം ഗൂഗിളിൽ ട്രെൻഡിങ് Indian Express - Malayalam",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPcURPS2VtR2IySlUxaDNjNlhzVUM1akl2Z091c2o3dUZZRm9qbl9EcVQ2a1ItX09LejB0WXRSVXZUTVpDSzBUaTJYX3loT0E5NHBpOE4zWVpJRVNKMkhoRS1wRUlTanBOS0tpTldPa0cxejZHYWZlZlcyeEp3cTBObUxXSUU4OS1iVWZDMXV4YUXSAZABQVVfeXFMT3FET0tlbUdiMkpVMWgzYzZYc1VDNWpJdmdPdXNqN3VGWUZvam5fRHFUNmtSLV9PS3owdFl0UlV2VE1aQ0swVGkyWF95aE9BOTRwaThOM1laSUVTSjJIaEUtcEVJU2pwTktLaU5XT2tHMXo2R2FmZWZXMnhKd3EwTm1MV0lFODktYlVmQzF1eGFF?oc=5",
-      "source": "Indian Express - Malayalam",
-      "category": "general",
-      "published_at": "2026-09-22T12:41:16+00:00",
-      "importance": 3,
-      "personal_score": 3.25,
-      "entities": [
-        "ഇന്ത്യയെ",
-        "വിറപ്പിച്ച്",
-        "ജപ്പാൻ",
-        "രണ്ട്",
-        "റൺസ്",
-        "ജയത്തിനു",
-        "പിന്നാലെ",
-        "മത്സരം",
-        "ഗൂഗിളിൽ",
-        "ട്രെൻഡിങ്",
-        "Google Trends",
-        "Indian Express"
       ],
       "summary_method": "rss_fallback"
     },
@@ -653,28 +576,28 @@
       "summary_method": "rss_fallback"
     },
     {
-      "id": "bcf23fd6a9dd03ed",
-      "title": "യു.എസ് - ഇറാൻ സംഘർഷം 'പശ്ചിമേഷ്യയിൽ ' പ്രതീക്ഷ യു.എന്നിൽ ആദ്യ റൗണ്ട് ചർച്ച നടന്നു മികച്ച കൂടിക്കാഴ്ചയെന്ന് ട്രംപ് ഉപാധികൾ ഖത്തറിനെ അറിയിച്ച് ഇറാൻ - keralakaumudi.com",
-      "summary": "യു.എസ് - ഇറാൻ സംഘർഷം 'പശ്ചിമേഷ്യയിൽ ' പ്രതീക്ഷ യു.എന്നിൽ ആദ്യ റൗണ്ട് ചർച്ച നടന്നു മികച്ച കൂടിക്കാഴ്ചയെന്ന് ട്രംപ് ഉപാധികൾ ഖത്തറിനെ അറിയിച്ച് ഇറാൻ keralakaumudi.com",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5HY1NXdS0zSUFILTM2WXY1ZldxTTdKaUtJNl9ZTEZxN1RXaHFDU1FOX09kSEVnU3cwTzd1bGpPemRvVE5xRUJrZXlvLXo1Ty1WTGN5OGtJbElJdXlUSFJXY1JPTmI?oc=5",
-      "source": "keralakaumudi.com",
+      "id": "5f37d4fe1a9bd9b9",
+      "title": "Google Trends: ഇന്ത്യയെ വിറപ്പിച്ച് ജപ്പാൻ; രണ്ട് റൺസ് ജയത്തിനു പിന്നാലെ മത്സരം ഗൂഗിളിൽ ട്രെൻഡിങ് - Indian Express - Malayalam",
+      "summary": "Google Trends: ഇന്ത്യയെ വിറപ്പിച്ച് ജപ്പാൻ; രണ്ട് റൺസ് ജയത്തിനു പിന്നാലെ മത്സരം ഗൂഗിളിൽ ട്രെൻഡിങ് Indian Express - Malayalam",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPcURPS2VtR2IySlUxaDNjNlhzVUM1akl2Z091c2o3dUZZRm9qbl9EcVQ2a1ItX09LejB0WXRSVXZUTVpDSzBUaTJYX3loT0E5NHBpOE4zWVpJRVNKMkhoRS1wRUlTanBOS0tpTldPa0cxejZHYWZlZlcyeEp3cTBObUxXSUU4OS1iVWZDMXV4YUXSAZABQVVfeXFMT3FET0tlbUdiMkpVMWgzYzZYc1VDNWpJdmdPdXNqN3VGWUZvam5fRHFUNmtSLV9PS3owdFl0UlV2VE1aQ0swVGkyWF95aE9BOTRwaThOM1laSUVTSjJIaEUtcEVJU2pwTktLaU5XT2tHMXo2R2FmZWZXMnhKd3EwTm1MV0lFODktYlVmQzF1eGFF?oc=5",
+      "source": "Indian Express - Malayalam",
       "category": "general",
-      "published_at": "2026-09-23T20:28:25+00:00",
+      "published_at": "2026-09-22T12:41:16+00:00",
       "importance": 3,
       "personal_score": 3.25,
       "entities": [
-        "എസ്",
-        "ഇറാൻ",
-        "സംഘർഷം",
-        "പശ്ചിമേഷ്യയിൽ",
-        "പ്രതീക്ഷ",
-        "എന്നിൽ",
-        "ആദ്യ",
-        "റൗണ്ട്",
-        "ചർച്ച",
-        "നടന്നു",
-        "മികച്ച",
-        "കൂടിക്കാഴ്ചയെന്ന്"
+        "ഇന്ത്യയെ",
+        "വിറപ്പിച്ച്",
+        "ജപ്പാൻ",
+        "രണ്ട്",
+        "റൺസ്",
+        "ജയത്തിനു",
+        "പിന്നാലെ",
+        "മത്സരം",
+        "ഗൂഗിളിൽ",
+        "ട്രെൻഡിങ്",
+        "Google Trends",
+        "Indian Express"
       ],
       "summary_method": "rss_fallback"
     },
@@ -697,32 +620,6 @@
         "ലെജൻഡ്സിന്",
         "ജയം",
         "Twentyfournews.com"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
-      "id": "d8234e1645088c6f",
-      "title": "Kerala Rain: സംസ്ഥാനത്ത് ഇന്നും ശക്തമായ മഴ തുടരും; 7 ജില്ലകളിൽ മഞ്ഞ അലർട്ട്; ഇടിമിന്നൽ ജാഗ്രത - Indian Express - Malayalam",
-      "summary": "Kerala Rain: സംസ്ഥാനത്ത് ഇന്നും ശക്തമായ മഴ തുടരും; 7 ജില്ലകളിൽ മഞ്ഞ അലർട്ട്; ഇടിമിന്നൽ ജാഗ്രത Indian Express - Malayalam",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdVRhR2lKUkNld2pSZ01MaFNOMVFPSVdFX2tFTi1HVHZIYVIwVTMtRGs1QUNFZHVNeml2cHo3OTJHaGFET1pUVVE1TV9vT1hrUGhmYk1sUHdpWF91emgtWXZJMXFiQU1pLVEtMGtWOFE3RmttdDZwakhPeUhwMzBiY0EwRk1oUDRmcHpBSkFYNTU1WGvSAZMBQVVfeXFMT3VUYUdpSlJDZXdqUmdNTGhTTjFRT0lXRV9rRU4tR1R2SGFSMFUzLURrNUFDRWR1TXppdnB6NzkyR2hhRE9aVFVRNU1fb09Ya1BoZmJNbFB3aVhfdXpoLVl2STFxYkFNaS1RLTBrVjhRN0ZrbXQ2cGpIT3lIcDMwYmNBMEZNaFA0ZnB6QUpBWDU1NVhr?oc=5",
-      "source": "Indian Express - Malayalam",
-      "category": "general",
-      "published_at": "2026-09-23T03:01:32+00:00",
-      "importance": 3,
-      "personal_score": 3.25,
-      "entities": [
-        "സംസ്ഥാനത്ത്",
-        "ഇന്നും",
-        "ശക്തമായ",
-        "തുടരും",
-        "ജില്ലകളിൽ",
-        "മഞ്ഞ",
-        "അലർട്ട്",
-        "ഇടിമിന്നൽ",
-        "ജാഗ്രത",
-        "Kerala Rain",
-        "Indian Express",
-        "Malayalam Kerala Rain"
       ],
       "summary_method": "rss_fallback"
     },
@@ -776,6 +673,32 @@
       "summary_method": "rss_fallback"
     },
     {
+      "id": "ec2a2a965f3491bb",
+      "title": "യു.എസ് - ഇറാൻ സംഘർഷം 'പശ്ചിമേഷ്യയിൽ ' പ്രതീക്ഷ യു.എന്നിൽ ആദ്യ റൗണ്ട് ചർച്ച നടന്നു മികച്ച കൂടിക്കാഴ്ചയെന്ന് ട്രംപ് ഉപാധികൾ ഖത്തറിനെ അറിയിച്ച് ഇറാൻ - Kerala Kaumudi",
+      "summary": "യു.എസ് - ഇറാൻ സംഘർഷം 'പശ്ചിമേഷ്യയിൽ ' പ്രതീക്ഷ യു.എന്നിൽ ആദ്യ റൗണ്ട് ചർച്ച നടന്നു മികച്ച കൂടിക്കാഴ്ചയെന്ന് ട്രംപ് ഉപാധികൾ ഖത്തറിനെ അറിയിച്ച് ഇറാൻ Kerala Kaumudi",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5HY1NXdS0zSUFILTM2WXY1ZldxTTdKaUtJNl9ZTEZxN1RXaHFDU1FOX09kSEVnU3cwTzd1bGpPemRvVE5xRUJrZXlvLXo1Ty1WTGN5OGtJbElJdXlUSFJXY1JPTmI?oc=5",
+      "source": "Kerala Kaumudi",
+      "category": "general",
+      "published_at": "2026-09-23T20:28:25+00:00",
+      "importance": 3,
+      "personal_score": 3.25,
+      "entities": [
+        "എസ്",
+        "ഇറാൻ",
+        "സംഘർഷം",
+        "പശ്ചിമേഷ്യയിൽ",
+        "പ്രതീക്ഷ",
+        "എന്നിൽ",
+        "ആദ്യ",
+        "റൗണ്ട്",
+        "ചർച്ച",
+        "നടന്നു",
+        "മികച്ച",
+        "കൂടിക്കാഴ്ചയെന്ന്"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
       "id": "0f65699d83fa6827",
       "title": "ഒമാൻ തീരത്ത് ഇന്ത്യയിലേക്ക് വരികയായിരുന്ന കപ്പലിന് നേരെ ടോർപിഡോ ആക്രമണം; ഇന്ത്യൻ നാവികൻ കൊല്ലപ്പെട്ടു - Mangalam",
       "summary": "ഒമാൻ തീരത്ത് ഇന്ത്യയിലേക്ക് വരികയായിരുന്ന കപ്പലിന് നേരെ ടോർപിഡോ ആക്രമണം; ഇന്ത്യൻ നാവികൻ കൊല്ലപ്പെട്ടു Mangalam",
@@ -802,11 +725,11 @@
       "summary_method": "rss_fallback"
     },
     {
-      "id": "5c809f3cbac5ae30",
-      "title": "ഹോർമുസിൽ ചരക്ക് കപ്പലിന് നേരെ ആക്രമണം,​ രണ്ട് നാവികർ കൊല്ലപ്പെട്ടു - keralakaumudi.com",
-      "summary": "ഹോർമുസിൽ ചരക്ക് കപ്പലിന് നേരെ ആക്രമണം,​ രണ്ട് നാവികർ കൊല്ലപ്പെട്ടു keralakaumudi.com",
+      "id": "8c28da8e1c37e7fe",
+      "title": "ഹോർമുസിൽ ചരക്ക് കപ്പലിന് നേരെ ആക്രമണം,​ രണ്ട് നാവികർ കൊല്ലപ്പെട്ടു - Kerala Kaumudi",
+      "summary": "ഹോർമുസിൽ ചരക്ക് കപ്പലിന് നേരെ ആക്രമണം,​ രണ്ട് നാവികർ കൊല്ലപ്പെട്ടു Kerala Kaumudi",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9nRnRROUtxdjloQ21RbTU1bDVvSG5mbENSSTMyTWpETkRLcGIzWkM1WDVuWUkyWVc4QWY1R3RRaWZpSVp2N0pkMmxqX21fTG0wU25ueVlCbE44ZjV3OVRiZjVTVTc4M0VHYzdlajRhZTlYaG1PNEZtOTJWX0g?oc=5",
-      "source": "keralakaumudi.com",
+      "source": "Kerala Kaumudi",
       "category": "general",
       "published_at": "2026-09-23T14:38:43+00:00",
       "importance": 3,
@@ -819,16 +742,60 @@
         "ആക്രമണം",
         "രണ്ട്",
         "നാവികർ",
-        "കൊല്ലപ്പെട്ടു"
+        "കൊല്ലപ്പെട്ടു",
+        "Kerala Kaumudi"
       ],
       "summary_method": "rss_fallback"
     },
     {
-      "id": "edb9d4a4ffa101d5",
-      "title": "നഗോയയി​ൽ നിന്ന് നാലു മെഡൽ കൂടി - NEWS 360 - WORLD - keralakaumudi.com",
-      "summary": "നഗോയയി​ൽ നിന്ന് നാലു മെഡൽ കൂടി - NEWS 360 - WORLD keralakaumudi.com",
+      "id": "6c925663b616d90e",
+      "title": "പ്രസംഗവേദിയിൽ എർദോഗൻ; അൽ-ഷറിന്റെ 'റീൽസ്' സ്ക്രോൾ വൈറൽ - NEWS 360 - WORLD - Kerala Kaumudi",
+      "summary": "പ്രസംഗവേദിയിൽ എർദോഗൻ; അൽ-ഷറിന്റെ 'റീൽസ്' സ്ക്രോൾ വൈറൽ - NEWS 360 - WORLD Kerala Kaumudi",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5EUk9OQ2tPNHkyeEpWRWtaRmd4cEtFamN4NDVFbUxmUDJtTzFsS1pzYTFzMmI2MHVsUkFuQ2xwZDg2ZW53QzI4c3VoZDdTcDAxdmlfY3FBWnhPeWhWdk9EdmNnQW0?oc=5",
+      "source": "Kerala Kaumudi",
+      "category": "general",
+      "published_at": "2026-09-23T20:42:12+00:00",
+      "importance": 3,
+      "personal_score": 3.25,
+      "entities": [
+        "പ്രസംഗവേദിയിൽ",
+        "എർദോഗൻ",
+        "ഷറിന്റെ",
+        "റീൽസ്",
+        "സ്ക്രോൾ",
+        "വൈറൽ",
+        "Kerala Kaumudi",
+        "WORLD Kerala Kaumudi"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
+      "id": "855ad073222a4881",
+      "title": "ഹോർമുസിലെ കപ്പൽ ആക്രമണത്തിൽ കൊല്ലപ്പെട്ടവരിൽ ഇന്ത്യക്കാരനും - NEWS 360 - WORLD - Kerala Kaumudi",
+      "summary": "ഹോർമുസിലെ കപ്പൽ ആക്രമണത്തിൽ കൊല്ലപ്പെട്ടവരിൽ ഇന്ത്യക്കാരനും - NEWS 360 - WORLD Kerala Kaumudi",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZ1g2cnJraDB6Ti1fY3RPdmZzUy1aSmlxTG5VNm5GSnpnOGdWTUZIM2stXzhUdWdrQTNMbFU0eExFc1NTWGhMb19QSk9lTE1IV3k2ZHBJUEVBM3pOLXpuYmxSSU03Vm9CdWIzbnptTmZicDg1bW45TjItcHRwRGlnRTFZRm1qTVgz?oc=5",
+      "source": "Kerala Kaumudi",
+      "category": "general",
+      "published_at": "2026-09-23T19:04:52+00:00",
+      "importance": 3,
+      "personal_score": 3.25,
+      "entities": [
+        "ഹോർമുസിലെ",
+        "കപ്പൽ",
+        "ആക്രമണത്തിൽ",
+        "കൊല്ലപ്പെട്ടവരിൽ",
+        "ഇന്ത്യക്കാരനും",
+        "Kerala Kaumudi",
+        "WORLD Kerala Kaumudi"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
+      "id": "01863e4412780b60",
+      "title": "നഗോയയി​ൽ നിന്ന് നാലു മെഡൽ കൂടി - NEWS 360 - WORLD - Kerala Kaumudi",
+      "summary": "നഗോയയി​ൽ നിന്ന് നാലു മെഡൽ കൂടി - NEWS 360 - WORLD Kerala Kaumudi",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5YaHhKR2NoNFZQSEFwMGUxbkdFSjBjTGhuMGhxRDNLeFZHZFBzRktCdjhmTTBZWFk2YWxrVHk3WVZ5WjdNSFROUkxEWGRWWVRVNGRwM1hKWTV6N1hybk9XckRURmI?oc=5",
-      "source": "keralakaumudi.com",
+      "source": "Kerala Kaumudi",
       "category": "general",
       "published_at": "2026-09-23T15:18:36+00:00",
       "importance": 3,
@@ -838,23 +805,47 @@
         "നിന്ന്",
         "നാലു",
         "മെഡൽ",
-        "കൂടി"
+        "കൂടി",
+        "Kerala Kaumudi",
+        "WORLD Kerala Kaumudi"
       ],
       "summary_method": "rss_fallback"
     },
     {
-      "id": "d1986b0964fa64eb",
-      "title": "ലോകനേതാക്കൾ യുഎസിലേക്ക് - NEWS 360 - WORLD - keralakaumudi.com",
-      "summary": "ലോകനേതാക്കൾ യുഎസിലേക്ക് - NEWS 360 - WORLD keralakaumudi.com",
+      "id": "67cdf00ac7401757",
+      "title": "യു.എന്നിൽ 'കാശ്മീർ ' ഉയർത്തി തുർക്കി - NEWS 360 - WORLD - Kerala Kaumudi",
+      "summary": "യു.എന്നിൽ 'കാശ്മീർ ' ഉയർത്തി തുർക്കി - NEWS 360 - WORLD Kerala Kaumudi",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0zaU50aXp4QVJ1V2x2c1ZSb2ZuZUU5M2pUTnVWeWx6ZWNIM1pVc2ctdnhMZHI0RkRfb3A5WElVbmhXV2xCOVBDMFNnMmFZMzM1M09VbzRVdDk3enRZMzZENXVseWk?oc=5",
+      "source": "Kerala Kaumudi",
+      "category": "general",
+      "published_at": "2026-09-23T20:46:53+00:00",
+      "importance": 3,
+      "personal_score": 3.25,
+      "entities": [
+        "എന്നിൽ",
+        "കാശ്മീർ",
+        "ഉയർത്തി",
+        "തുർക്കി",
+        "Kerala Kaumudi",
+        "WORLD Kerala Kaumudi"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
+      "id": "6562b9448bb9ae16",
+      "title": "ലോകനേതാക്കൾ യുഎസിലേക്ക് - NEWS 360 - WORLD - Kerala Kaumudi",
+      "summary": "ലോകനേതാക്കൾ യുഎസിലേക്ക് - NEWS 360 - WORLD Kerala Kaumudi",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9RMW4tUmFXZkRWVFBIdkdSMHVPbUxWVDhMejd0dmllZEYyX3N6Wk1hc0JLQ01iLTBpN1M2WHBNbk1zWjhuUllsX2NFTDZWanctVDVHd1dVR3hxWEFzRmNOUWdGLTA?oc=5",
-      "source": "keralakaumudi.com",
+      "source": "Kerala Kaumudi",
       "category": "general",
       "published_at": "2026-09-23T15:07:49+00:00",
       "importance": 3,
       "personal_score": 3.25,
       "entities": [
         "ലോകനേതാക്കൾ",
-        "യുഎസിലേക്ക്"
+        "യുഎസിലേക്ക്",
+        "Kerala Kaumudi",
+        "WORLD Kerala Kaumudi"
       ],
       "summary_method": "rss_fallback"
     },
@@ -881,59 +872,34 @@
       "summary_method": "rss_fallback"
     },
     {
-      "id": "29a17aeafc485abd",
-      "title": "ജാവദേക്കറെ മാറ്റി; നാഗരാജ ബിജെപി കേരള പ്രഭാരി, കെ.സുരേന്ദ്രന് പുതുച്ചേരിയുടെ ചുമതല; ബിജെപി പ്രഭാരിമാരെ പുനസംഘടിപ്പിച്ചു - Twentyfournews.com",
-      "summary": "ജാവദേക്കറെ മാറ്റി; നാഗരാജ ബിജെപി കേരള പ്രഭാരി, കെ.സുരേന്ദ്രന് പുതുച്ചേരിയുടെ ചുമതല; ബിജെപി പ്രഭാരിമാരെ പുനസംഘടിപ്പിച്ചു Twentyfournews.com",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcDI5OU9qM3VqZHNVVDdxQXpGWlZXSmNPblVCa3Jkd3U0NEpsOFpxT1g1Rm9JMFI2TGg1bFNuZnZrOXAwU1BrS3N3T1FYOGNrRU9mcWx4RkJmaXpXRl9XU0VCaGZqSEdZNzBuSVFpVm8tNUVZdVlPdm5zTmtnLS12RjFjN0xqa1pBQlh6TtIBjAFBVV95cUxOcDI5OU9qM3VqZHNVVDdxQXpGWlZXSmNPblVCa3Jkd3U0NEpsOFpxT1g1Rm9JMFI2TGg1bFNuZnZrOXAwU1BrS3N3T1FYOGNrRU9mcWx4RkJmaXpXRl9XU0VCaGZqSEdZNzBuSVFpVm8tNUVZdVlPdm5zTmtnLS12RjFjN0xqa1pBQlh6Tg?oc=5",
-      "source": "Twentyfournews.com",
+      "id": "62f07052727c3e91",
+      "title": "ദാമ്പത്യപ്രശ്നം പരിഹരിക്കാൻ എത്തിയ യുവതിയെ പീഡിപ്പിച്ചു: വ്യാജ സിദ്ധൻ അറസ്റ്റിൽ - Kerala Kaumudi",
+      "summary": "ദാമ്പത്യപ്രശ്നം പരിഹരിക്കാൻ എത്തിയ യുവതിയെ പീഡിപ്പിച്ചു: വ്യാജ സിദ്ധൻ അറസ്റ്റിൽ Kerala Kaumudi",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPMFFUd2Ixak8yMFh1eUJMbV9hTmthOS03V3E5Y0lrdWRQdzRDWl9HNnhPdTJVa2RDaHhvaTlieWtQNERmaFJXT05DQ3phZUl0Y0ZfUDJheVVRVTN0cG42RzAwdFJkMWs5YzVVbDIzOGJWZm1qaXN1ejFoSXBLemxmTEQ1TU9kUlp1TmpSWkZMYi1FZUxfS3lvLTZqdjZmZU9hazFkU0xiN0FMZkliWld3WmtpczdMU0IyNDBueXJHbVo1RFRuZVozdlFWN1BtNFdKekE2SlNoWEVNNG82M2JMSg?oc=5",
+      "source": "Kerala Kaumudi",
       "category": "general",
-      "published_at": "2026-09-23T11:12:29+00:00",
-      "importance": 3,
-      "personal_score": 3.25,
-      "entities": [
-        "ജാവദേക്കറെ",
-        "മാറ്റി",
-        "നാഗരാജ",
-        "ബിജെപി",
-        "കേരള",
-        "പ്രഭാരി",
-        "സുരേന്ദ്രന്",
-        "പുതുച്ചേരിയുടെ",
-        "ചുമതല",
-        "പ്രഭാരിമാരെ",
-        "പുനസംഘടിപ്പിച്ചു",
-        "Twentyfournews.com"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
-      "id": "58f68abfcaac9c9e",
-      "title": "യു.എസിനെ നേരിട്ടറിയിച്ച് ഇന്ത്യ: തീരുവ വർദ്ധന ഉഭയകക്ഷി ബന്ധത്തെ ബാധിക്കും - keralakaumudi.com",
-      "summary": "യു.എസിനെ നേരിട്ടറിയിച്ച് ഇന്ത്യ: തീരുവ വർദ്ധന ഉഭയകക്ഷി ബന്ധത്തെ ബാധിക്കും keralakaumudi.com",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBweVkzcFg2aXgxTU9QVWRkV0NXVFlJckN0eHo1MTJJaUN3MXlrdW14TkVpYW1tX1ZuMFNYSHRJVlE4OUgyQUp0T21JTE5UNng3cUhqTWlJOFNZeUVJYk1iZUxRTW8?oc=5",
-      "source": "keralakaumudi.com",
-      "category": "general",
-      "published_at": "2026-09-23T02:28:04+00:00",
+      "published_at": "2026-09-23T10:49:34+00:00",
       "importance": 2,
       "personal_score": 2.25,
       "entities": [
-        "എസിനെ",
-        "നേരിട്ടറിയിച്ച്",
-        "ഇന്ത്യ",
-        "തീരുവ",
-        "വർദ്ധന",
-        "ഉഭയകക്ഷി",
-        "ബന്ധത്തെ",
-        "ബാധിക്കും"
+        "ദാമ്പത്യപ്രശ്നം",
+        "പരിഹരിക്കാൻ",
+        "എത്തിയ",
+        "യുവതിയെ",
+        "പീഡിപ്പിച്ചു",
+        "വ്യാജ",
+        "സിദ്ധൻ",
+        "അറസ്റ്റിൽ",
+        "Kerala Kaumudi"
       ],
       "summary_method": "rss_fallback"
     },
     {
-      "id": "86d033caf034bfe7",
-      "title": "ഹോർമൂസ് കടലിടുക്ക് ഏഴ് ദിവസത്തിനുള്ളിൽ തുറക്കാം; അമേരിക്കയുമായി ചർച്ചയ്ക്ക് തയ്യാറെന്ന് ഇറാൻ - keralakaumudi.com",
-      "summary": "ഹോർമൂസ് കടലിടുക്ക് ഏഴ് ദിവസത്തിനുള്ളിൽ തുറക്കാം; അമേരിക്കയുമായി ചർച്ചയ്ക്ക് തയ്യാറെന്ന് ഇറാൻ keralakaumudi.com",
+      "id": "0f823a3a677d8754",
+      "title": "ഹോർമൂസ് കടലിടുക്ക് ഏഴ് ദിവസത്തിനുള്ളിൽ തുറക്കാം; അമേരിക്കയുമായി ചർച്ചയ്ക്ക് തയ്യാറെന്ന് ഇറാൻ - Kerala Kaumudi",
+      "summary": "ഹോർമൂസ് കടലിടുക്ക് ഏഴ് ദിവസത്തിനുള്ളിൽ തുറക്കാം; അമേരിക്കയുമായി ചർച്ചയ്ക്ക് തയ്യാറെന്ന് ഇറാൻ Kerala Kaumudi",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdnNzcUw1N0hIZzRnN2pGMGszV003NHpTZmY5Zld3QkVWY3htQS1EOXZjYUJtaVE2LUhCRlJvV2lqZUs0aWF5RXlaODF2ekZ0bTNmZVVFczcwRUlpbTRqaF9tRWhhZG9mSXoyNXFWTktERXh3Z29qNjAzRHhRM2o0U285UkYzdzNfOG1sczJYWkZXeUtBNHpBZGdYSWR6Yy1lZmNQUGt4UlBYSE10OEVnMjQ4UlpvMUMxU0gtTHMyOGMyODA?oc=5",
-      "source": "keralakaumudi.com",
+      "source": "Kerala Kaumudi",
       "category": "general",
       "published_at": "2026-09-22T14:01:13+00:00",
       "importance": 2,
@@ -947,38 +913,90 @@
         "അമേരിക്കയുമായി",
         "ചർച്ചയ്ക്ക്",
         "തയ്യാറെന്ന്",
-        "ഇറാൻ"
+        "ഇറാൻ",
+        "Kerala Kaumudi"
       ],
       "summary_method": "rss_fallback"
     },
     {
-      "id": "046615b24653f60c",
-      "title": "റൂബിക്‌സ് ക്യൂബിൽ ചൈനീസ് വിസ്‌മയം  റെക്കാഡുമായി ആറു വയസുകാരി - NEWS 360 - WORLD - keralakaumudi.com",
-      "summary": "റൂബിക്‌സ് ക്യൂബിൽ ചൈനീസ് വിസ്‌മയം  റെക്കാഡുമായി ആറു വയസുകാരി - NEWS 360 - WORLD keralakaumudi.com",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE41cGVpclJXWWVxYk9UX0pXY3B5ZmNUdWlyUTV0Y1lpUHdDMlA0Mkl2NDZCS2VTMk4xMU1waENSZG0yMzV6SUNyN0hLTDlxeGNGQUlnOXdjQ2xXaDl0clFFNFpPSnI?oc=5",
-      "source": "keralakaumudi.com",
+      "id": "ac67fb5faeb62447",
+      "title": "Kerala Weatherupdate : സംസ്ഥാനത്ത് ഇന്ന് ശക്തമായ മഴയ്ക്ക് സാധ്യത ; 7 ജില്ലകളിൽ യെല്ലോ അലർട്ട് - News18 Malayalam",
+      "summary": "Kerala Weatherupdate : സംസ്ഥാനത്ത് ഇന്ന് ശക്തമായ മഴയ്ക്ക് സാധ്യത ; 7 ജില്ലകളിൽ യെല്ലോ അലർട്ട് News18 Malayalam",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPaTVISmN3X0dqcmxpclRCbjE3U3pNSGV2X2NDcU9famk2ZFAyY3RIUW5GQnNqRzA0NU5NdXk2MVJHNEVMcVl6LVhnOHBxclluZDZMS3pwbkdtT0ZUeDMtVHhlY0diMURURXBvbHRibFVfT09pY0hpc3p2Z3FRMlcwTE4yeVBjdW5wSmtQQWYxdUNQeE52TlFrWUl3YjZjWkQzSVBZRkJHYU92QmdGMHdseDVZckdiVVJ3b0hsOGJoSDJTalE?oc=5",
+      "source": "News18 Malayalam",
       "category": "general",
-      "published_at": "2026-09-23T02:28:06+00:00",
+      "published_at": "2026-09-23T01:06:29+00:00",
       "importance": 2,
       "personal_score": 2.25,
       "entities": [
-        "റൂബിക്",
-        "ക്യൂബിൽ",
-        "ചൈനീസ്",
-        "വിസ്",
-        "മയം",
-        "റെക്കാഡുമായി",
-        "ആറു",
-        "വയസുകാരി"
+        "സംസ്ഥാനത്ത്",
+        "ഇന്ന്",
+        "ശക്തമായ",
+        "മഴയ്ക്ക്",
+        "സാധ്യത",
+        "ജില്ലകളിൽ",
+        "യെല്ലോ",
+        "അലർട്ട്",
+        "Kerala Weatherupdate",
+        "News18 Malayalam Kerala Weatherupdate",
+        "News18 Malayalam"
       ],
       "summary_method": "rss_fallback"
     },
     {
-      "id": "229149daf3e13573",
-      "title": "മരിച്ചെന്ന് കരുതിയ വൃദ്ധ കണ്ണുതുറന്നു, ഞെട്ടി ബന്ധുക്കൾ ! - NEWS 360 - WORLD - keralakaumudi.com",
-      "summary": "മരിച്ചെന്ന് കരുതിയ വൃദ്ധ കണ്ണുതുറന്നു, ഞെട്ടി ബന്ധുക്കൾ ! - NEWS 360 - WORLD keralakaumudi.com",
+      "id": "30a25b916ebb1fdc",
+      "title": "യു.എസിനെ നേരിട്ടറിയിച്ച് ഇന്ത്യ: തീരുവ വർദ്ധന ഉഭയകക്ഷി ബന്ധത്തെ ബാധിക്കും - Kerala Kaumudi",
+      "summary": "യു.എസിനെ നേരിട്ടറിയിച്ച് ഇന്ത്യ: തീരുവ വർദ്ധന ഉഭയകക്ഷി ബന്ധത്തെ ബാധിക്കും Kerala Kaumudi",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBweVkzcFg2aXgxTU9QVWRkV0NXVFlJckN0eHo1MTJJaUN3MXlrdW14TkVpYW1tX1ZuMFNYSHRJVlE4OUgyQUp0T21JTE5UNng3cUhqTWlJOFNZeUVJYk1iZUxRTW8?oc=5",
+      "source": "Kerala Kaumudi",
+      "category": "general",
+      "published_at": "2026-09-23T02:28:04+00:00",
+      "importance": 2,
+      "personal_score": 2.25,
+      "entities": [
+        "എസിനെ",
+        "നേരിട്ടറിയിച്ച്",
+        "ഇന്ത്യ",
+        "തീരുവ",
+        "വർദ്ധന",
+        "ഉഭയകക്ഷി",
+        "ബന്ധത്തെ",
+        "ബാധിക്കും",
+        "Kerala Kaumudi"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
+      "id": "c964372b76f31421",
+      "title": "വെറും നാല് സെക്കൻഡ് മാത്രം; ആറാം വയസിൽ ലോക റെക്കോർഡ് തകർത്ത് ലിയാൻ - Kerala Kaumudi",
+      "summary": "വെറും നാല് സെക്കൻഡ് മാത്രം; ആറാം വയസിൽ ലോക റെക്കോർഡ് തകർത്ത് ലിയാൻ Kerala Kaumudi",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNLUV5czBwWWVKanpQbzVyelRwbVo1M0c2RzdaTkZvRHFRTmx3YkpaWi1taUlrd3JGVE9JSklJcDU5QmRnbWNvVzZFZkZBMkhwa2RQMFdkbDYwLWxzQzhZeF84MmRlRERWNmZGNTJ1anJnNkxjUFNHUzktRkpTOTdlNnZFMFI0ZGxLa0tKQ0w5YnZpYUpzTmhsNQ?oc=5",
+      "source": "Kerala Kaumudi",
+      "category": "general",
+      "published_at": "2026-09-23T11:14:44+00:00",
+      "importance": 2,
+      "personal_score": 2.25,
+      "entities": [
+        "വെറും",
+        "നാല്",
+        "സെക്കൻഡ്",
+        "മാത്രം",
+        "ആറാം",
+        "വയസിൽ",
+        "ലോക",
+        "റെക്കോർഡ്",
+        "തകർത്ത്",
+        "ലിയാൻ",
+        "Kerala Kaumudi"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
+      "id": "d73dd995620010ac",
+      "title": "മരിച്ചെന്ന് കരുതിയ വൃദ്ധ കണ്ണുതുറന്നു, ഞെട്ടി ബന്ധുക്കൾ ! - NEWS 360 - WORLD - Kerala Kaumudi",
+      "summary": "മരിച്ചെന്ന് കരുതിയ വൃദ്ധ കണ്ണുതുറന്നു, ഞെട്ടി ബന്ധുക്കൾ ! - NEWS 360 - WORLD Kerala Kaumudi",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFByV1JlM3A5dXFEWUlYOUhVcmtlMFdRTWtqakNod2Q5TFc1UlBVak1zUjN6N2N6a1BGQm1IVGUtOXNkcllfVXVBLVN3R1MxUEFuQktRVUd2a2laT3NKd0ZpcVNTaXU?oc=5",
-      "source": "keralakaumudi.com",
+      "source": "Kerala Kaumudi",
       "category": "general",
       "published_at": "2026-09-23T02:20:08+00:00",
       "importance": 2,
@@ -989,16 +1007,18 @@
         "വൃദ്ധ",
         "കണ്ണുതുറന്നു",
         "ഞെട്ടി",
-        "ബന്ധുക്കൾ"
+        "ബന്ധുക്കൾ",
+        "Kerala Kaumudi",
+        "WORLD Kerala Kaumudi"
       ],
       "summary_method": "rss_fallback"
     },
     {
-      "id": "f9d3177330d37907",
-      "title": "പേര് മാറ്റി ട്രംപ്: എ.ഐ ഇനി 'സൂപ്പർ ഇന്റലിജൻസ് ' - NEWS 360 - WORLD - keralakaumudi.com",
-      "summary": "പേര് മാറ്റി ട്രംപ്: എ.ഐ ഇനി 'സൂപ്പർ ഇന്റലിജൻസ് ' - NEWS 360 - WORLD keralakaumudi.com",
+      "id": "661a4f5523ad1167",
+      "title": "പേര് മാറ്റി ട്രംപ്: എ.ഐ ഇനി 'സൂപ്പർ ഇന്റലിജൻസ് ' - NEWS 360 - WORLD - Kerala Kaumudi",
+      "summary": "പേര് മാറ്റി ട്രംപ്: എ.ഐ ഇനി 'സൂപ്പർ ഇന്റലിജൻസ് ' - NEWS 360 - WORLD Kerala Kaumudi",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9rUnNZUld3b05oSlNCdkZHcDRTclgwNjBMVDFOYzJrenM1MDlNX01ZUW9iQThwYnZMc19nQ3dWOVhMZWZrLVFiOUFNcktMZjhVSlZnMHo2QUNWTExkUnZiQXBucU8?oc=5",
-      "source": "keralakaumudi.com",
+      "source": "Kerala Kaumudi",
       "category": "general",
       "published_at": "2026-09-23T02:20:05+00:00",
       "importance": 2,
@@ -1009,16 +1029,18 @@
         "ട്രംപ്",
         "ഇനി",
         "സൂപ്പർ",
-        "ഇന്റലിജൻസ്"
+        "ഇന്റലിജൻസ്",
+        "Kerala Kaumudi",
+        "WORLD Kerala Kaumudi"
       ],
       "summary_method": "rss_fallback"
     },
     {
-      "id": "c844a242351d9a3a",
-      "title": "ബെർലിൻ മേയറാകാൻ ഇടതു നേതാവ് - NEWS 360 - WORLD - keralakaumudi.com",
-      "summary": "ബെർലിൻ മേയറാകാൻ ഇടതു നേതാവ് - NEWS 360 - WORLD keralakaumudi.com",
+      "id": "1e934625ce943ab5",
+      "title": "ബെർലിൻ മേയറാകാൻ ഇടതു നേതാവ് - NEWS 360 - WORLD - Kerala Kaumudi",
+      "summary": "ബെർലിൻ മേയറാകാൻ ഇടതു നേതാവ് - NEWS 360 - WORLD Kerala Kaumudi",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE45VF9pNjdpcVBhU25KajhKbnpTOWwwQlAwT1IxZHdZS2xHSWF0YW9IcTNZMEVXNnNlck1LTmlpdWlJTkEyS0hTU0JOS19pLUZHREU0VmlncHlZYzJqajdKeXVTUzQ?oc=5",
-      "source": "keralakaumudi.com",
+      "source": "Kerala Kaumudi",
       "category": "general",
       "published_at": "2026-09-23T02:20:10+00:00",
       "importance": 2,
@@ -1027,16 +1049,18 @@
         "ബെർലിൻ",
         "മേയറാകാൻ",
         "ഇടതു",
-        "നേതാവ്"
+        "നേതാവ്",
+        "Kerala Kaumudi",
+        "WORLD Kerala Kaumudi"
       ],
       "summary_method": "rss_fallback"
     },
     {
-      "id": "a76d69f5deea498c",
-      "title": "പുട്ടിന്റെ പാർട്ടിക്ക് ജയം - NEWS 360 - WORLD - keralakaumudi.com",
-      "summary": "പുട്ടിന്റെ പാർട്ടിക്ക് ജയം - NEWS 360 - WORLD keralakaumudi.com",
+      "id": "948ac4a885523892",
+      "title": "പുട്ടിന്റെ പാർട്ടിക്ക് ജയം - NEWS 360 - WORLD - Kerala Kaumudi",
+      "summary": "പുട്ടിന്റെ പാർട്ടിക്ക് ജയം - NEWS 360 - WORLD Kerala Kaumudi",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5MSEVmcXpmdzZJdXdQelQzUGVtMFItUHRwMVVVdkdWZ2NlcWptV3JScEIwNGJKbXRZcm1XUXZmd01hbExJekNKeXhtZ1Y2Sl9yanNCbGJQX3NlRWcwYVJBR2VYcVM?oc=5",
-      "source": "keralakaumudi.com",
+      "source": "Kerala Kaumudi",
       "category": "general",
       "published_at": "2026-09-23T04:59:27+00:00",
       "importance": 2,
@@ -1044,7 +1068,35 @@
       "entities": [
         "പുട്ടിന്റെ",
         "പാർട്ടിക്ക്",
-        "ജയം"
+        "ജയം",
+        "Kerala Kaumudi",
+        "WORLD Kerala Kaumudi"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
+      "id": "29a17aeafc485abd",
+      "title": "ജാവദേക്കറെ മാറ്റി; നാഗരാജ ബിജെപി കേരള പ്രഭാരി, കെ.സുരേന്ദ്രന് പുതുച്ചേരിയുടെ ചുമതല; ബിജെപി പ്രഭാരിമാരെ പുനസംഘടിപ്പിച്ചു - Twentyfournews.com",
+      "summary": "ജാവദേക്കറെ മാറ്റി; നാഗരാജ ബിജെപി കേരള പ്രഭാരി, കെ.സുരേന്ദ്രന് പുതുച്ചേരിയുടെ ചുമതല; ബിജെപി പ്രഭാരിമാരെ പുനസംഘടിപ്പിച്ചു Twentyfournews.com",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcDI5OU9qM3VqZHNVVDdxQXpGWlZXSmNPblVCa3Jkd3U0NEpsOFpxT1g1Rm9JMFI2TGg1bFNuZnZrOXAwU1BrS3N3T1FYOGNrRU9mcWx4RkJmaXpXRl9XU0VCaGZqSEdZNzBuSVFpVm8tNUVZdVlPdm5zTmtnLS12RjFjN0xqa1pBQlh6TtIBjAFBVV95cUxOcDI5OU9qM3VqZHNVVDdxQXpGWlZXSmNPblVCa3Jkd3U0NEpsOFpxT1g1Rm9JMFI2TGg1bFNuZnZrOXAwU1BrS3N3T1FYOGNrRU9mcWx4RkJmaXpXRl9XU0VCaGZqSEdZNzBuSVFpVm8tNUVZdVlPdm5zTmtnLS12RjFjN0xqa1pBQlh6Tg?oc=5",
+      "source": "Twentyfournews.com",
+      "category": "general",
+      "published_at": "2026-09-23T11:12:29+00:00",
+      "importance": 2,
+      "personal_score": 2.25,
+      "entities": [
+        "ജാവദേക്കറെ",
+        "മാറ്റി",
+        "നാഗരാജ",
+        "ബിജെപി",
+        "കേരള",
+        "പ്രഭാരി",
+        "സുരേന്ദ്രന്",
+        "പുതുച്ചേരിയുടെ",
+        "ചുമതല",
+        "പ്രഭാരിമാരെ",
+        "പുനസംഘടിപ്പിച്ചു",
+        "Twentyfournews.com"
       ],
       "summary_method": "rss_fallback"
     },
@@ -1068,11 +1120,11 @@
       "summary_method": "rss_fallback"
     },
     {
-      "id": "e0c575f9cb5b8ed3",
-      "title": "Kerala Science Slam 26 – ഗവേഷകർക്കുള്ള രജിസ്ട്രേഷൻ ആരംഭിച്ചു - luca.co.in",
-      "summary": "Kerala Science Slam 26 – ഗവേഷകർക്കുള്ള രജിസ്ട്രേഷൻ ആരംഭിച്ചു luca.co.in",
+      "id": "1a422c336773e9f6",
+      "title": "Kerala Science Slam 26 – ഗവേഷകർക്കുള്ള രജിസ്ട്രേഷൻ ആരംഭിച്ചു - LUCA Science Magazine",
+      "summary": "Kerala Science Slam 26 – ഗവേഷകർക്കുള്ള രജിസ്ട്രേഷൻ ആരംഭിച്ചു LUCA Science Magazine",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5vUGhvT1NnZFh5RDR1ZXpTcThnN1RKYWprMV9jeVFqRkh0cEZUUWE4ZURLYTFNb1RsUEpEVUcwNGNFQVdJVDRUV2p5N2JaS1A5Q2pETg?oc=5",
-      "source": "luca.co.in",
+      "source": "LUCA Science Magazine",
       "category": "general",
       "published_at": "2026-09-15T09:55:01+00:00",
       "importance": 1,
@@ -1081,59 +1133,19 @@
         "ഗവേഷകർക്കുള്ള",
         "രജിസ്ട്രേഷൻ",
         "ആരംഭിച്ചു",
-        "Kerala Science Slam"
+        "Kerala Science Slam",
+        "LUCA Science Magazine Kerala",
+        "Science Slam",
+        "LUCA Science Magazine"
       ],
       "summary_method": "rss_fallback"
     },
     {
-      "id": "18e32df2e7c2d387",
-      "title": "ബുർഖ, നിഖാബ് എന്നിവയ്ക്ക് നിരോധനമേർപ്പെടുത്താൻ ഇറ്റലി; വിദേശ വിദ്യാർത്ഥികളുടെ എണ്ണത്തിനും പരിധി - keralakaumudi.com",
-      "summary": "ബുർഖ, നിഖാബ് എന്നിവയ്ക്ക് നിരോധനമേർപ്പെടുത്താൻ ഇറ്റലി; വിദേശ വിദ്യാർത്ഥികളുടെ എണ്ണത്തിനും പരിധി keralakaumudi.com",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTXN3TnY5VW9wcmhhYjRrdm9IVjQ4TjcyZDJOVzMxaXRyZWpHeHcyRWpuWjAyUkYyOWhfX1BkZVM3bmZEaUhob1pibnprenZ5NGF3Y2RpaUx1d0drVHU5YUhOb256cVoxdU1fcUxPeWRsOE9QSHUtU18zZFd0YllVby10QQ?oc=5",
-      "source": "keralakaumudi.com",
-      "category": "general",
-      "published_at": "2026-09-21T11:38:33+00:00",
-      "importance": 1,
-      "personal_score": 1.25,
-      "entities": [
-        "ബുർഖ",
-        "നിഖാബ്",
-        "എന്നിവയ്ക്ക്",
-        "നിരോധനമേർപ്പെടുത്താൻ",
-        "ഇറ്റലി",
-        "വിദേശ",
-        "വിദ്യാർത്ഥികളുടെ",
-        "എണ്ണത്തിനും",
-        "പരിധി"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
-      "id": "56d3aa33dd2e363e",
-      "title": "പ്രതീക്ഷയോടെ പശ്ചിമേഷ്യ: ഇറാൻ പ്രസിഡന്റിനെ ട്രംപ് നേരിട്ടുകണ്ടേക്കും - keralakaumudi.com",
-      "summary": "പ്രതീക്ഷയോടെ പശ്ചിമേഷ്യ: ഇറാൻ പ്രസിഡന്റിനെ ട്രംപ് നേരിട്ടുകണ്ടേക്കും keralakaumudi.com",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBXN3oyYnNCMHg1SzhQWlQwekF5Sl9KTVZ6aDlHQkd2UkhNbHY0djBkaTlVRi1xdVRQdHYzNmpPU2s4U0dBVURqSWRYZHNzSUdhV1hSZHlYTEtXNU4zZE4tNnpEdHk?oc=5",
-      "source": "keralakaumudi.com",
-      "category": "general",
-      "published_at": "2026-09-22T01:57:18+00:00",
-      "importance": 1,
-      "personal_score": 1.25,
-      "entities": [
-        "പ്രതീക്ഷയോടെ",
-        "പശ്ചിമേഷ്യ",
-        "ഇറാൻ",
-        "പ്രസിഡന്റിനെ",
-        "ട്രംപ്",
-        "നേരിട്ടുകണ്ടേക്കും"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
-      "id": "edbc0cc777b7bdbb",
-      "title": "ബിഗ്ഫൂട്ട് ഉണ്ടോ ? തെളിവ് തന്നാൽ 10 ലക്ഷം ഡോളർ സമ്മാനം - NEWS 360 - WORLD - keralakaumudi.com",
-      "summary": "ബിഗ്ഫൂട്ട് ഉണ്ടോ ? തെളിവ് തന്നാൽ 10 ലക്ഷം ഡോളർ സമ്മാനം - NEWS 360 - WORLD keralakaumudi.com",
+      "id": "8459af014ab7b396",
+      "title": "ബിഗ്ഫൂട്ട് ഉണ്ടോ ? തെളിവ് തന്നാൽ 10 ലക്ഷം ഡോളർ സമ്മാനം - NEWS 360 - WORLD - Kerala Kaumudi",
+      "summary": "ബിഗ്ഫൂട്ട് ഉണ്ടോ ? തെളിവ് തന്നാൽ 10 ലക്ഷം ഡോളർ സമ്മാനം - NEWS 360 - WORLD Kerala Kaumudi",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBIZTk1RHJ0ZWtORWxQcndQTXV4TjlyV1NTUDhsU1Atc1BIMmR6OGZnRXdXdTB6aVp0eVlKbjczTkR0ODBVQVlmR1pSTGtaalZnMHNJaDA1aHZvRUx2aE5fU0ZIUW0?oc=5",
-      "source": "keralakaumudi.com",
+      "source": "Kerala Kaumudi",
       "category": "general",
       "published_at": "2026-09-22T01:49:05+00:00",
       "importance": 1,
@@ -1145,16 +1157,18 @@
         "തന്നാൽ",
         "ലക്ഷം",
         "ഡോളർ",
-        "സമ്മാനം"
+        "സമ്മാനം",
+        "Kerala Kaumudi",
+        "WORLD Kerala Kaumudi"
       ],
       "summary_method": "rss_fallback"
     },
     {
-      "id": "8b40a40de830636c",
-      "title": "അന്താരാഷ്ട്ര ക്രിമിനൽ കോടതിക്ക് ഉപരോധം ചുമത്താൻ യു.എസ് - NEWS 360 - WORLD - keralakaumudi.com",
-      "summary": "അന്താരാഷ്ട്ര ക്രിമിനൽ കോടതിക്ക് ഉപരോധം ചുമത്താൻ യു.എസ് - NEWS 360 - WORLD keralakaumudi.com",
+      "id": "64fbda71a80ff38c",
+      "title": "അന്താരാഷ്ട്ര ക്രിമിനൽ കോടതിക്ക് ഉപരോധം ചുമത്താൻ യു.എസ് - NEWS 360 - WORLD - Kerala Kaumudi",
+      "summary": "അന്താരാഷ്ട്ര ക്രിമിനൽ കോടതിക്ക് ഉപരോധം ചുമത്താൻ യു.എസ് - NEWS 360 - WORLD Kerala Kaumudi",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1aQWZmOEVkNVlUUjNfZ1MxcTVZRzgyOVlIUFJkTERDMkJOSWQ1d0F2U2NmZDMyZkdUTm9lNzVtYVVKMlVGdzl6c3RtVUxidThrY19BcTk3ZEdtbXpTUlZ1bU5WX2M?oc=5",
-      "source": "keralakaumudi.com",
+      "source": "Kerala Kaumudi",
       "category": "general",
       "published_at": "2026-09-22T01:51:08+00:00",
       "importance": 1,
@@ -1165,16 +1179,18 @@
         "കോടതിക്ക്",
         "ഉപരോധം",
         "ചുമത്താൻ",
-        "എസ്"
+        "എസ്",
+        "Kerala Kaumudi",
+        "WORLD Kerala Kaumudi"
       ],
       "summary_method": "rss_fallback"
     },
     {
-      "id": "0e8be2b80346970a",
-      "title": "പാക് ആക്രമണം: അഫ്ഗാനിൽ 3 മരണം - NEWS 360 - WORLD - keralakaumudi.com",
-      "summary": "പാക് ആക്രമണം: അഫ്ഗാനിൽ 3 മരണം - NEWS 360 - WORLD keralakaumudi.com",
+      "id": "1f71a18151159896",
+      "title": "പാക് ആക്രമണം: അഫ്ഗാനിൽ 3 മരണം - NEWS 360 - WORLD - Kerala Kaumudi",
+      "summary": "പാക് ആക്രമണം: അഫ്ഗാനിൽ 3 മരണം - NEWS 360 - WORLD Kerala Kaumudi",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBfUDZveThseXVZc3lQUS0tbHBNT011dlpjRjV6Ul9nRXBjUnhOTTU3bVJkUWVZcXZtSlZvWWUxcm5QRnNyYmhWa0VlV2hQZ1JUY0h5elF4cUdhckdEdUdYLWwxNDg?oc=5",
-      "source": "keralakaumudi.com",
+      "source": "Kerala Kaumudi",
       "category": "general",
       "published_at": "2026-09-22T01:58:45+00:00",
       "importance": 1,
@@ -1183,7 +1199,9 @@
         "പാക്",
         "ആക്രമണം",
         "അഫ്ഗാനിൽ",
-        "മരണം"
+        "മരണം",
+        "Kerala Kaumudi",
+        "WORLD Kerala Kaumudi"
       ],
       "summary_method": "rss_fallback"
     }
@@ -1207,6 +1225,28 @@
       "summary_method": "rss_fallback"
     },
     {
+      "id": "6f19b2ced8adc75a",
+      "title": "Meta's Muse AI Agent 0-Day Vulnerability Allows Attackers to Hijack the Tool and Inject Malware - CyberSecurityNews",
+      "summary": "Meta's Muse AI Agent 0-Day Vulnerability Allows Attackers to Hijack the Tool and Inject Malware CyberSecurityNews",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9DWmxlMW1WY1gxRk00OW5LWjI5NHJna2lTNXVpdHg2dHhnY3RHZzd4ZVRVWmNuV3Rvd1lxdHJoR280M0dtTW5JUllYUnN6NTg1aERTRHJCU19sbzZZSElBb2tOcE1OM1NxcnB1OW1hZGxHZmFYRG5NaXNR0gF_QVVfeXFMUDJ2Sk1CZEtLOXJlZ2U5OUJiNlRUYXFsUkR3VzdKSExvbFl6YW1SN29OZWFUUlV0UnBxZ2p3eHh5SGhleDROQzUtd1B4YUhNZU5JTlRTUWVuOG1XRlhlRzNpOTRLbm5IamFTV3FtRWo5MWNpMXNueXpDY2tpRzdJSQ?oc=5",
+      "source": "CyberSecurityNews",
+      "category": "tech",
+      "published_at": "2026-09-23T21:10:50+00:00",
+      "importance": 10,
+      "personal_score": 10.0,
+      "entities": [
+        "Meta",
+        "Muse AI Agent",
+        "Day Vulnerability Allows Attackers",
+        "Hijack",
+        "Tool",
+        "Inject Malware",
+        "CyberSecurityNews Meta",
+        "Inject Malware CyberSecurityNews"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
       "id": "9a3b78b8d2d4593a",
       "title": "Platform power and research security: Why we need free software - TIB-Blog",
       "summary": "Platform power and research security: Why we need free software TIB-Blog",
@@ -1225,19 +1265,16 @@
       "summary_method": "rss_fallback"
     },
     {
-      "id": "336f66b723477bf0",
-      "title": "AI leaders warn UN of security risks as systems grow more powerful - Reuters",
-      "summary": "AI leaders warn UN of security risks as systems grow more powerful Reuters",
+      "id": "b4e2ee034746e1d1",
+      "title": "AI leaders warn UN of security risks as systems grow more powerful - reuters.com",
+      "summary": "AI leaders warn UN of security risks as systems grow more powerful reuters.com",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOazV6Q242LXE0TVZZRV9wcXl4UmJlMHp2ZHMtX0h4RGlPeGlUbkhGQklJTDhuN0FKaFdzUUs3cS0zN1ZsTVR1Mk51M190NFFuVjdZekJVSjlXMXpuaDAwVGVaSl9LbnpKMWlmMG1YaUVOQ3lqTXl4ck5nZm94RlMxaFA2N091TUxyNWJCSkpLOER1TDAtRF94TWZ6NVNIM01lcWxvOUJaWTVHYUZ3WlJjSm16WWtUSldqcHdWOFNR?oc=5",
-      "source": "Reuters",
+      "source": "reuters.com",
       "category": "tech",
-      "published_at": "2026-09-23T20:11:10+00:00",
+      "published_at": "2026-09-23T21:18:57+00:00",
       "importance": 10,
       "personal_score": 10.0,
-      "entities": [
-        "Reuters AI",
-        "Reuters"
-      ],
+      "entities": [],
       "summary_method": "rss_fallback"
     },
     {
@@ -1258,21 +1295,18 @@
       "summary_method": "rss_fallback"
     },
     {
-      "id": "669fde2d38144687",
-      "title": "NEWSLETTER: Funding frenzy, chip wars, and robot dreams: Inside China‘s AI boom - Reuters",
-      "summary": "NEWSLETTER: Funding frenzy, chip wars, and robot dreams: Inside China‘s AI boom Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQQ1hSZVA3UXRLNWE3RU8wUWRTN3Z5SGRTQWkzRGRScVVHdDhfWFliZXdLSXlDdzdoX3NhN3BjdzNEUTJ2NmJRMVYyN2RteUdidHd0ejNtS1hZSlFPUWw5Si1GblRRQktKM055MDQ3V2kzWlVuREpNSmJZelozbFZuVGU2MW1STXdqN09mUEJRa3hHUkNXbEdRUEhBV0gzVHg4RjRmQ0VRcExrNURXZnExcURyWmVheEQwSTVDTEhCODJGZUNWV09OSUFn?oc=5",
-      "source": "Reuters",
+      "id": "d53007f543df34b8",
+      "title": "CSO30 Awards 2026 honour Australia’s cybersecurity leaders - csoonline.com",
+      "summary": "CSO30 Awards 2026 honour Australia’s cybersecurity leaders csoonline.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMzhoODFyMGt3OUFQR2VDRE9PWEtXYVNaZ0EtRDdwMzhwZW5wMjhvTG5NR2cxam13bTF1WUhUR3czVGlFMnU4Um5UQU5adF9xdUFWUGsyejZqMzBnOEVGYmczZ0l3cmFESEZIZG9mYzRHUTZ6N3JEWjIzRXpuU0JKaS1SR2lDQWlpWmViYXUyeTk1cTRVUEt4bHRfNjJPblZWaUhDTEg1UQ?oc=5",
+      "source": "csoonline.com",
       "category": "tech",
-      "published_at": "2026-09-23T20:11:03+00:00",
+      "published_at": "2026-09-23T22:20:39+00:00",
       "importance": 9,
       "personal_score": 9.0,
       "entities": [
-        "NEWSLETTER",
-        "Funding",
-        "Inside China",
-        "Reuters NEWSLETTER",
-        "Reuters"
+        "CSO30 Awards",
+        "Australia"
       ],
       "summary_method": "rss_fallback"
     },
@@ -1292,6 +1326,23 @@
         "Wallet Attacks",
         "Kaspersky Cybersecurity Tokenomics",
         "Wallet Attacks Kaspersky"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
+      "id": "e5a7ac729e06cc28",
+      "title": "NEWSLETTER: Funding frenzy, chip wars, and robot dreams: Inside China‘s AI boom - reuters.com",
+      "summary": "NEWSLETTER: Funding frenzy, chip wars, and robot dreams: Inside China‘s AI boom reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQQ1hSZVA3UXRLNWE3RU8wUWRTN3Z5SGRTQWkzRGRScVVHdDhfWFliZXdLSXlDdzdoX3NhN3BjdzNEUTJ2NmJRMVYyN2RteUdidHd0ejNtS1hZSlFPUWw5Si1GblRRQktKM055MDQ3V2kzWlVuREpNSmJZelozbFZuVGU2MW1STXdqN09mUEJRa3hHUkNXbEdRUEhBV0gzVHg4RjRmQ0VRcExrNURXZnExcURyWmVheEQwSTVDTEhCODJGZUNWV09OSUFn?oc=5",
+      "source": "reuters.com",
+      "category": "tech",
+      "published_at": "2026-09-23T20:11:03+00:00",
+      "importance": 9,
+      "personal_score": 9.0,
+      "entities": [
+        "NEWSLETTER",
+        "Funding",
+        "Inside China"
       ],
       "summary_method": "rss_fallback"
     },
@@ -1349,75 +1400,35 @@
       "summary_method": "rss_fallback"
     },
     {
-      "id": "e4a798c9b67b4f82",
-      "title": "Check Point Software Appoints Krishnan V V To Lead India And South Asia Operations - Rediff",
-      "summary": "Check Point Software Appoints Krishnan V V To Lead India And South Asia Operations Rediff",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMDR4anVjWk9BU2xsUXpuNG9TRlZOQ1FRVmY2eDVZTm5iTjFVclFrYXI0MlZsZmlIa3h1cjZhY2UxdldxT1lIZ0pCaWRhdDBqbnpwc1pwNWVKS3NzNHVZLWpQdV9VU0k1WkRFSm0tQ09PTTdyWUlodkp6RGVlNnppNEdXLWMwNlotbmI5dU4xcGg1VWs1QmFQbU0yR0prX0tuVHdQanFTLWdMcGh4NC1F0gGyAUFVX3lxTE5xMEY5Um8yOURaSm5paDJrZFYydlpiSkZuSTJDU2w2b3R1eDFyNnlNSDgzWmJNaFlqS1FONGF5Y3Fyb3BCejMtWVc2blBxT1RLMFhrV0xRbXE1eFZ6V1RRNTd4ZV9lcE9RZHdMV1Y2QzBnU1ZQXzJuQUgzOXU0MTQ5dDlCUVJQVVNieEdPUlJuMEpNX1FaY1l0M1ZoX0xRRnNQSHFpWEVLZ3JmRXEwanhHUEE?oc=5",
-      "source": "Rediff",
+      "id": "66392b870e6915b1",
+      "title": "Q.ANT gives away the software for its light-powered AI chips in a CUDA-style bet on developers - The New Stack",
+      "summary": "Q.ANT gives away the software for its light-powered AI chips in a CUDA-style bet on developers The New Stack",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE45TUJ4bFp4Vnpza2VQUlAxQWtLM3JISF9BWUl5RTV2RUJkNXhzYUg2V1dwLWl1MmJZWXl5Z3ZvVW9KLXQwWHJrT2FlZGxOUXFTbTdlSEdpNjZqcGM?oc=5",
+      "source": "The New Stack",
       "category": "tech",
-      "published_at": "2026-09-23T09:49:35+00:00",
+      "published_at": "2026-09-23T22:25:38+00:00",
       "importance": 8,
       "personal_score": 8.0,
       "entities": [
-        "Check Point Software Appoints",
-        "Krishnan V V To",
-        "Lead India And South",
-        "Asia Operations",
-        "Rediff Check Point Software",
-        "Appoints Krishnan V V",
-        "To Lead India And",
-        "South Asia Operations Rediff"
+        "Q.ANT",
+        "CUDA-style",
+        "The New Stack Q.ANT",
+        "The New Stack"
       ],
       "summary_method": "rss_fallback"
     },
     {
-      "id": "b1928b067bbcd53b",
-      "title": "Zoho's Sridhar Vembu says AI could make software developers up to 10 times more productive - CNBC TV18",
-      "summary": "Zoho's Sridhar Vembu says AI could make software developers up to 10 times more productive CNBC TV18",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNYkVjWXlXemRreTgxZGllejlNdVE5ZlVRUmQtSXJZREp5YTRMQ24wWUx3MUQtTkx4TkEyN2lVTTFRODNhYWNmR0JiUXJKMkVGd3JUcTVxRUt6U2JxYkdueWRiRlpybDVoMmNtdGNrSnhBbjN3M3dEZ1Vrc2hoTU1QTUxfV3kzZVF4N0paU2p0X1VzcU5wLV9UZTdfcHl4WVY0bXlmcU92Q0llakZKa25KRlR3bXJ1LXpoZnBYZFRUU1dHWUdHVmd4RHN5MkIzaWZDRVlTdNIB2gFBVV95cUxOSnhmN1gtaDVUSDg4MUtJVkljcm8tM1hOd19IY1pSSEFfSEdUTzJKNlBkak1NNGhOdHdNTnpNT0pVa2tVa3pLZ1VESHBkOU5UTnd1dXFTR2piaEJOeDY2cGpiZ2VMUTE2NmotTmo1TXpKWVlfZy14ZkhzY3JwZGNzX0J0d2FmWF9iaUM0WENSQWNzVHlYZWNkZVRKWW0zd2VibXlSb0EySUY5SXhXY3lWaXlmenhURTJaOWVhbGpvbS1UVEIyUjY0NFpnaU55R1NXc1V1d0EzQ0RhQQ?oc=5",
-      "source": "CNBC TV18",
+      "id": "4cb0557407fd6782",
+      "title": "AI in cybersecurity: Balancing automation and talent development - msspalert.com",
+      "summary": "AI in cybersecurity: Balancing automation and talent development msspalert.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUGlzeEozTm9sX28zMFAzc0xjUmlnNFh5UmVMOUxLbmJuQm5heWhBczdVV0dmMmpXMzZQWEE3SE9rdGQ5eHNYelNjNmxkLXA4bG5aMG5zc21GaTc5amdVbnJMcEcyNXpzMTdfRkZqRE4xaWZXWHVUTUFqNUlacHkwbW5uT3VhbVY2NDdpYjFPRTEzYXBsR2FieUt1UQ?oc=5",
+      "source": "msspalert.com",
       "category": "tech",
-      "published_at": "2026-09-23T10:13:01+00:00",
+      "published_at": "2026-09-23T13:52:45+00:00",
       "importance": 8,
       "personal_score": 8.0,
       "entities": [
-        "Zoho",
-        "Sridhar Vembu",
-        "CNBC TV18 Zoho",
-        "CNBC TV18"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
-      "id": "a768ff6266884d63",
-      "title": "The old cybersecurity model is breaking - TechCrunch",
-      "summary": "The old cybersecurity model is breaking TechCrunch",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5HSlRncmtfeFFXNy1MaFE2S2tpOG9TSVM5V2NDSFg2ZzQxeUJTRHMzWE81M0tlOTJMTnh4end5S0ZsdmJ4NjNtMVBHNThvS1VwNU9XVU9oanJXZzctdy1yTnpYZ0VKb3VnblQ2d0pBYXk1YzYwVnNUTQ?oc=5",
-      "source": "TechCrunch",
-      "category": "tech",
-      "published_at": "2026-09-23T17:44:02+00:00",
-      "importance": 8,
-      "personal_score": 8.0,
-      "entities": [
-        "TechCrunch The",
-        "TechCrunch"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
-      "id": "5b3765f0992bf7c9",
-      "title": "Software dependencies are running away from us - InfoWorld",
-      "summary": "Software dependencies are running away from us InfoWorld",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQYXhiRTVDd0I1Wk1SQUU5d2w1VnVuZ3FlOEdEZHJKdE9odEJ0T0xJTjFzUC1CdUhvbVZqYzFzUmFLREsyQTFjZXJyczlSOWJScHBtRWRicXJCVmRpREJpVzVEa2JUYVJEMm9MNTJqaTJINlpqMGJZVGFvNG85dzluT0JxOUZtUTZJMGVYMENQNE9PcmFYT3ZEaQ?oc=5",
-      "source": "InfoWorld",
-      "category": "tech",
-      "published_at": "2026-09-23T09:03:04+00:00",
-      "importance": 8,
-      "personal_score": 8.0,
-      "entities": [
-        "Software",
-        "InfoWorld Software",
-        "InfoWorld"
+        "Balancing"
       ],
       "summary_method": "rss_fallback"
     },
@@ -1439,6 +1450,22 @@
       "summary_method": "rss_fallback"
     },
     {
+      "id": "a768ff6266884d63",
+      "title": "The old cybersecurity model is breaking - TechCrunch",
+      "summary": "The old cybersecurity model is breaking TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5HSlRncmtfeFFXNy1MaFE2S2tpOG9TSVM5V2NDSFg2ZzQxeUJTRHMzWE81M0tlOTJMTnh4end5S0ZsdmJ4NjNtMVBHNThvS1VwNU9XVU9oanJXZzctdy1yTnpYZ0VKb3VnblQ2d0pBYXk1YzYwVnNUTQ?oc=5",
+      "source": "TechCrunch",
+      "category": "tech",
+      "published_at": "2026-09-23T17:44:02+00:00",
+      "importance": 8,
+      "personal_score": 8.0,
+      "entities": [
+        "TechCrunch The",
+        "TechCrunch"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
       "id": "adcd403abe3c24cd",
       "title": "Holibob launches software development kit for embedding experiences storefronts - PhocusWire",
       "summary": "Holibob launches software development kit for embedding experiences storefronts PhocusWire",
@@ -1452,6 +1479,25 @@
         "Holibob",
         "PhocusWire Holibob",
         "PhocusWire"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
+      "id": "89d4a11aceea33d5",
+      "title": "Developers want more efficient software. Here’s what over 1000 GitHub users told us they need. - The GitHub Blog",
+      "summary": "Developers want more efficient software. Here’s what over 1000 GitHub users told us they need. The GitHub Blog",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOUDkwczlxNl9hb1RFTEN1U3NPb3Z5YzEwX0RXczhGeWZEUnp3c2trTFRZVUJqbjN5MlNYa2lEVDFkVkpSdVJod0s0UkNjMWVqVTBEZU9TTXVabnUxb3NsZnROQllsdzBHNG5ROFJ0aXpNVjZMSnVubm9iMXZVM1ZsWU53V3M0c0pRSXF5aG1VdE1nZEt3N1p5eGZxTlBzZkFndXk5dXB3OUpiaExGWW55cEZ5V2d5aWpVVDMxLTBaU054Mi15em5KelBVY0FTaXlF?oc=5",
+      "source": "The GitHub Blog",
+      "category": "tech",
+      "published_at": "2026-09-23T13:48:47+00:00",
+      "importance": 8,
+      "personal_score": 8.0,
+      "entities": [
+        "Developers",
+        "Here",
+        "GitHub",
+        "The GitHub Blog Developers",
+        "The GitHub Blog"
       ],
       "summary_method": "rss_fallback"
     },
@@ -1470,23 +1516,6 @@
         "JetBrains Air",
         "InfoWorld JetBrains",
         "InfoWorld"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
-      "id": "e554912679d82ae8",
-      "title": "Developers want more efficient software. Here’s what over 1000 GitHub users told us they need. - github.blog",
-      "summary": "Developers want more efficient software. Here’s what over 1000 GitHub users told us they need. github.blog",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOUDkwczlxNl9hb1RFTEN1U3NPb3Z5YzEwX0RXczhGeWZEUnp3c2trTFRZVUJqbjN5MlNYa2lEVDFkVkpSdVJod0s0UkNjMWVqVTBEZU9TTXVabnUxb3NsZnROQllsdzBHNG5ROFJ0aXpNVjZMSnVubm9iMXZVM1ZsWU53V3M0c0pRSXF5aG1VdE1nZEt3N1p5eGZxTlBzZkFndXk5dXB3OUpiaExGWW55cEZ5V2d5aWpVVDMxLTBaU054Mi15em5KelBVY0FTaXlF?oc=5",
-      "source": "github.blog",
-      "category": "tech",
-      "published_at": "2026-09-23T13:48:47+00:00",
-      "importance": 8,
-      "personal_score": 8.0,
-      "entities": [
-        "Developers",
-        "Here",
-        "GitHub"
       ],
       "summary_method": "rss_fallback"
     },
@@ -1547,19 +1576,19 @@
       "summary_method": "rss_fallback"
     },
     {
-      "id": "bd9515235e681d58",
-      "title": "What is open-source AI? A software engineering researcher explains - The Conversation",
-      "summary": "What is open-source AI? A software engineering researcher explains The Conversation",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOM3Y4U2t5T2I0cDVaYzM1eHBxZ2RHZVV5SzR3bHR0WkFPLXFzMWRDSW40TW4tdEJ0S3BwVkkxVkZsMko1RTd0NTVsRlJmVjZOaDluS3UtVV9TRG82ZVNUQkhNT3RCTF9vUFhIaEozMXhPNGhjb3QyX0p1bGhobXlONEZXYkdXdkZnN1hXZUprMk9vUE54UzlZaWZwOXJLNEpUV3c?oc=5",
-      "source": "The Conversation",
+      "id": "d7a05d18a0cbf281",
+      "title": "CodeSupply Announces R and D Grants for Open-Source Software Security - fundsforNGOs",
+      "summary": "CodeSupply Announces R and D Grants for Open-Source Software Security fundsforNGOs",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMnRmZVhRYVBJeFBmLTZHZGdRSDFpVVFMaWtweEkyT01WeUhVZGhSU2t5emhqaGF2ajFlTXBXRWR5NnlKNVBuTWFqM29kX3lyaDlXdmZWa0g1bVFHcXd1WjRFTDZrNWFlZ3BSRmVyWGdTQjFDRU9wUk5GbXNBclFMRDMyS1d3TVRIb2E2VGhlZGRxNjZyMTAzLUdMSkhzS2tSSGtyTFpHVFRvMVFBLW10cVBB0gG3AUFVX3lxTFBXbmlhc1R3QlZYOXR5MmFZYmc5S1lCYjd1bTV2WE5XWTFkenlvV0E3eXhZR3JOWkJTdjhtVWN4N0VEVFhZeHRZd1VvdEhHaGdOVUl4NHBjdjFFRkRMUVBESVdJTVNfRDlXNlpCa21KMlRTYTFPS3VTWHV2TnVTYjNadHN4S1VFWkJCemVrNktrbnRJSzdtSHQzZjAyRlFDeXhXN1dObWVOS2Fkb2tRZmdaWUROd201SQ?oc=5",
+      "source": "fundsforNGOs",
       "category": "tech",
-      "published_at": "2026-07-23T07:00:00+00:00",
+      "published_at": "2026-09-20T21:54:11+00:00",
       "importance": 8,
       "personal_score": 8.0,
       "entities": [
-        "What",
-        "The Conversation What",
-        "The Conversation"
+        "CodeSupply Announces R",
+        "D Grants",
+        "Open-Source Software Security"
       ],
       "summary_method": "rss_fallback"
     },
@@ -1586,110 +1615,6 @@
       "summary_method": "rss_fallback"
     },
     {
-      "id": "f3a27b222f51ce98",
-      "title": "TIGCasino Strengthens Platform Offering to Support End-to-End Casino Software Delivery - markets.businessinsider.com",
-      "summary": "TIGCasino Strengthens Platform Offering to Support End-to-End Casino Software Delivery markets.businessinsider.com",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOYmR5eC1zZEJGSVMwSndZOGZVS1JwRXNJaFA5aHU2OG15Q0tadTVNRVA1WkJRV3BQalAwckRVT2huaWZjemhfOGlnUUpjTnJtSFBReERRM3RJcExxR3B1QVZDaXZnUWlXVWxTLVNKangwNHFYVU5ITkhsSHdlMGJ0NHRFNWZuRFpBSVFLaG00bEtlR3diUWxDLWNhTURYLWNKU1g1azlCQllhRkxrNXJINzU4Y3BBcGlRVWROcGxnRDRUQ0VyMkdPbTFuYjFHbWktR2hfR2NZaGZCb3BfakE?oc=5",
-      "source": "markets.businessinsider.com",
-      "category": "tech",
-      "published_at": "2026-09-23T16:06:26+00:00",
-      "importance": 8,
-      "personal_score": 8.0,
-      "entities": [
-        "TIGCasino Strengthens Platform Offering",
-        "Support End-to-End Casino Software",
-        "Delivery"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
-      "id": "d7a05d18a0cbf281",
-      "title": "CodeSupply Announces R and D Grants for Open-Source Software Security - fundsforNGOs",
-      "summary": "CodeSupply Announces R and D Grants for Open-Source Software Security fundsforNGOs",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMnRmZVhRYVBJeFBmLTZHZGdRSDFpVVFMaWtweEkyT01WeUhVZGhSU2t5emhqaGF2ajFlTXBXRWR5NnlKNVBuTWFqM29kX3lyaDlXdmZWa0g1bVFHcXd1WjRFTDZrNWFlZ3BSRmVyWGdTQjFDRU9wUk5GbXNBclFMRDMyS1d3TVRIb2E2VGhlZGRxNjZyMTAzLUdMSkhzS2tSSGtyTFpHVFRvMVFBLW10cVBB0gG3AUFVX3lxTFBXbmlhc1R3QlZYOXR5MmFZYmc5S1lCYjd1bTV2WE5XWTFkenlvV0E3eXhZR3JOWkJTdjhtVWN4N0VEVFhZeHRZd1VvdEhHaGdOVUl4NHBjdjFFRkRMUVBESVdJTVNfRDlXNlpCa21KMlRTYTFPS3VTWHV2TnVTYjNadHN4S1VFWkJCemVrNktrbnRJSzdtSHQzZjAyRlFDeXhXN1dObWVOS2Fkb2tRZmdaWUROd201SQ?oc=5",
-      "source": "fundsforNGOs",
-      "category": "tech",
-      "published_at": "2026-09-20T21:54:11+00:00",
-      "importance": 8,
-      "personal_score": 8.0,
-      "entities": [
-        "CodeSupply Announces R",
-        "D Grants",
-        "Open-Source Software Security"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
-      "id": "9846572f2f35af36",
-      "title": "CISA lays out new guidance for using open-source software - Help Net Security",
-      "summary": "CISA lays out new guidance for using open-source software Help Net Security",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9iLXhFNFlHbUg5eV9vZUs1RzhpUnVOTW95VVpCLVk1YTVIZFdRTUdBR3JMOXFBS1NuTnlMTmI2Tmh0OGducVpUWklxZXM0WnNGVXZxLWFYbE85THZLQU5EbmtMY1hPWnliWEliYUhPNzNqMnhIUUdPODBn?oc=5",
-      "source": "Help Net Security",
-      "category": "tech",
-      "published_at": "2026-08-03T07:00:00+00:00",
-      "importance": 8,
-      "personal_score": 8.0,
-      "entities": [
-        "CISA",
-        "Help Net Security CISA",
-        "Help Net Security"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
-      "id": "5f473ff1370a4156",
-      "title": "AI in cybersecurity: Balancing automation and talent development - MSSP Alert",
-      "summary": "AI in cybersecurity: Balancing automation and talent development MSSP Alert",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUGlzeEozTm9sX28zMFAzc0xjUmlnNFh5UmVMOUxLbmJuQm5heWhBczdVV0dmMmpXMzZQWEE3SE9rdGQ5eHNYelNjNmxkLXA4bG5aMG5zc21GaTc5amdVbnJMcEcyNXpzMTdfRkZqRE4xaWZXWHVUTUFqNUlacHkwbW5uT3VhbVY2NDdpYjFPRTEzYXBsR2FieUt1UQ?oc=5",
-      "source": "MSSP Alert",
-      "category": "tech",
-      "published_at": "2026-09-23T13:52:45+00:00",
-      "importance": 8,
-      "personal_score": 8.0,
-      "entities": [
-        "Balancing",
-        "MSSP Alert AI",
-        "MSSP Alert"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
-      "id": "b2662b1dd4763ced",
-      "title": "New quantum and cybersecurity show to launch at GISEC Global 2027 - MSSP Alert",
-      "summary": "New quantum and cybersecurity show to launch at GISEC Global 2027 MSSP Alert",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWlh5Y1R0cUNlbEZEcDdmUThxVGZKcjQ3V2dwYktOMTZHVG02UkRYUWhkaXhYamhCbl9OSzlyb2J6bDIySHMzeml1V2lOWmt2RjFTa052bTlRalRwSWZ6Y3o2Sy0yb19hNUVfWTlwTlVZRmRJOW1wbi1IMlNOXzloS0xRX3A1Y3dOdzVNY2pKdkxlTXMxQnRrSlJQN2JXZw?oc=5",
-      "source": "MSSP Alert",
-      "category": "tech",
-      "published_at": "2026-09-23T13:02:17+00:00",
-      "importance": 8,
-      "personal_score": 8.0,
-      "entities": [
-        "New",
-        "GISEC Global",
-        "MSSP Alert New",
-        "MSSP Alert"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
-      "id": "90118063e682bd52",
-      "title": "French DGA awards 25 year PARACOM contract - Airbus",
-      "summary": "French DGA awards 25 year PARACOM contract Airbus",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQaE95MGJqNURxQzdjam5MM1NjX2lXcksyYzRzTF9GUzFuU01jWlpnd0NtLWMzMXNjanE3ajVnQTlEYzBTNV94NG03OGpybE95dXRsQ0R5TWR1SU1iVXA1YnlSZ2EweUc0RnZCTy1aWThMbVNZclVYVU4xTmVmZTNJQjlxcmpDSnE3dWJVWm5US1VCVmg3aUM3bjRsY01HNEUxUXpEX1BEZ2dXZUMwZ0tBbXRDbnJrT2N3aGZieGhvZmR3aTVWWWk0TU9UWnNUWF9XdmxEZDVyeUdBZ0FFd2hNOC13?oc=5",
-      "source": "Airbus",
-      "category": "tech",
-      "published_at": "2026-09-23T07:00:00+00:00",
-      "importance": 7,
-      "personal_score": 7.0,
-      "entities": [
-        "French DGA",
-        "PARACOM",
-        "Airbus French DGA",
-        "Airbus"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
       "id": "40cfb502c830c534",
       "title": "New RatHat malware detected in Android phones: Here's how to safeguard your device - Deccan Herald",
       "summary": "New RatHat malware detected in Android phones: Here's how to safeguard your device Deccan Herald",
@@ -1705,6 +1630,28 @@
         "Here",
         "Deccan Herald New RatHat",
         "Deccan Herald"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
+      "id": "e4a798c9b67b4f82",
+      "title": "Check Point Software Appoints Krishnan V V To Lead India And South Asia Operations - Rediff",
+      "summary": "Check Point Software Appoints Krishnan V V To Lead India And South Asia Operations Rediff",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMDR4anVjWk9BU2xsUXpuNG9TRlZOQ1FRVmY2eDVZTm5iTjFVclFrYXI0MlZsZmlIa3h1cjZhY2UxdldxT1lIZ0pCaWRhdDBqbnpwc1pwNWVKS3NzNHVZLWpQdV9VU0k1WkRFSm0tQ09PTTdyWUlodkp6RGVlNnppNEdXLWMwNlotbmI5dU4xcGg1VWs1QmFQbU0yR0prX0tuVHdQanFTLWdMcGh4NC1F0gGyAUFVX3lxTE5xMEY5Um8yOURaSm5paDJrZFYydlpiSkZuSTJDU2w2b3R1eDFyNnlNSDgzWmJNaFlqS1FONGF5Y3Fyb3BCejMtWVc2blBxT1RLMFhrV0xRbXE1eFZ6V1RRNTd4ZV9lcE9RZHdMV1Y2QzBnU1ZQXzJuQUgzOXU0MTQ5dDlCUVJQVVNieEdPUlJuMEpNX1FaY1l0M1ZoX0xRRnNQSHFpWEVLZ3JmRXEwanhHUEE?oc=5",
+      "source": "Rediff",
+      "category": "tech",
+      "published_at": "2026-09-23T09:49:35+00:00",
+      "importance": 7,
+      "personal_score": 7.0,
+      "entities": [
+        "Check Point Software Appoints",
+        "Krishnan V V To",
+        "Lead India And South",
+        "Asia Operations",
+        "Rediff Check Point Software",
+        "Appoints Krishnan V V",
+        "To Lead India And",
+        "South Asia Operations Rediff"
       ],
       "summary_method": "rss_fallback"
     },
@@ -1729,19 +1676,77 @@
       "summary_method": "rss_fallback"
     },
     {
-      "id": "44adcce549d798b8",
-      "title": "Over ₹134 crore spent on proprietary software at premier institutes, says open source collective - The Hindu",
-      "summary": "Over ₹134 crore spent on proprietary software at premier institutes, says open source collective The Hindu",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNZkdfMlBfR2JscmI5T2g4T3hFU2hIUjJ6NnBMQ0RiS2lQUXYtYnZwSm1COUlpWF9lYkVtelRXTFhjbG4yT256TXZPOTZJdG1fTHp4d0Zkbl9kVU1vcTRQN01aU1lseG5RbGNldUhVVm1XTUhXS3VyQU5DUDVZZDlHel9uUUZjWnJkOVUyM1hadW9rZXRnNlM4SDlKUU80cFR4aGI0bnlyYkZicXNNdVdJYXY4cHZpR1hmMzhTcDN1OVRuYl82czlkQTBkaVY5MC1pZXNhdXZacHk0bVRnZFExMVF5Z1VnbEgtYk5pLS1SeFPSAfcBQVVfeXFMTVdRUkdCeGMzRlJBbDlPckZLZm5TZTR3U1llNzV4MTl3SXQtWnF3WEdacDhRbElrUmRnc1JwcHp0VDNkcDNlNU13b2xmbjZtMzRBNndRTmNmdUNKNVY4Y2FOYXpMRDJVR3hpVWM5T1hYS2JOLThiTWxOTXl2T0VwX2JhbWdLLS1ueFM5VmNveHBFOW9Hc01hdkFZeEtmTC1ZcHBpdFVENEUyQXl4dnk0aXdsaURPV3hQU2NIblIyMHk0Y2NOYWVMQUdJMDJrQWh4QVZtaElpNnJsZlZ2N0N2R1lDcUd6WlJkd2lZQWYzSDBYUVFWQm1RTQ?oc=5",
-      "source": "The Hindu",
+      "id": "90118063e682bd52",
+      "title": "French DGA awards 25 year PARACOM contract - Airbus",
+      "summary": "French DGA awards 25 year PARACOM contract Airbus",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQaE95MGJqNURxQzdjam5MM1NjX2lXcksyYzRzTF9GUzFuU01jWlpnd0NtLWMzMXNjanE3ajVnQTlEYzBTNV94NG03OGpybE95dXRsQ0R5TWR1SU1iVXA1YnlSZ2EweUc0RnZCTy1aWThMbVNZclVYVU4xTmVmZTNJQjlxcmpDSnE3dWJVWm5US1VCVmg3aUM3bjRsY01HNEUxUXpEX1BEZ2dXZUMwZ0tBbXRDbnJrT2N3aGZieGhvZmR3aTVWWWk0TU9UWnNUWF9XdmxEZDVyeUdBZ0FFd2hNOC13?oc=5",
+      "source": "Airbus",
       "category": "tech",
-      "published_at": "2026-09-04T07:00:00+00:00",
+      "published_at": "2026-09-23T07:00:00+00:00",
       "importance": 7,
       "personal_score": 7.0,
       "entities": [
-        "Over",
-        "The Hindu Over",
-        "The Hindu"
+        "French DGA",
+        "PARACOM",
+        "Airbus French DGA",
+        "Airbus"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
+      "id": "64acc560d1c9cb71",
+      "title": "Instruction Set Migration at Warehouse Scale - Communications of the ACM",
+      "summary": "Instruction Set Migration at Warehouse Scale Communications of the ACM",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMTIyUjZOSnJPdERBZ1Nlek9VSnF3aVJ3UWpUZjBPSVdUb2F5NXVsSFlUQ0ZwQkNnallsbXNuMlgzeDlqTU9ZZHdoVThPeTBLdGZrOTMybFhuUndaUFUtRC15dkNfNTQ5amhOTVRlWVVFLU4tWmhOVXJrQVpWMjdRNw?oc=5",
+      "source": "Communications of the ACM",
+      "category": "tech",
+      "published_at": "2026-09-23T21:43:36+00:00",
+      "importance": 7,
+      "personal_score": 7.0,
+      "entities": [
+        "Instruction Set Migration",
+        "Warehouse Scale",
+        "Communications",
+        "ACM Instruction Set Migration",
+        "Warehouse Scale Communications",
+        "ACM"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
+      "id": "b1928b067bbcd53b",
+      "title": "Zoho's Sridhar Vembu says AI could make software developers up to 10 times more productive - CNBC TV18",
+      "summary": "Zoho's Sridhar Vembu says AI could make software developers up to 10 times more productive CNBC TV18",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNYkVjWXlXemRreTgxZGllejlNdVE5ZlVRUmQtSXJZREp5YTRMQ24wWUx3MUQtTkx4TkEyN2lVTTFRODNhYWNmR0JiUXJKMkVGd3JUcTVxRUt6U2JxYkdueWRiRlpybDVoMmNtdGNrSnhBbjN3M3dEZ1Vrc2hoTU1QTUxfV3kzZVF4N0paU2p0X1VzcU5wLV9UZTdfcHl4WVY0bXlmcU92Q0llakZKa25KRlR3bXJ1LXpoZnBYZFRUU1dHWUdHVmd4RHN5MkIzaWZDRVlTdNIB2gFBVV95cUxOSnhmN1gtaDVUSDg4MUtJVkljcm8tM1hOd19IY1pSSEFfSEdUTzJKNlBkak1NNGhOdHdNTnpNT0pVa2tVa3pLZ1VESHBkOU5UTnd1dXFTR2piaEJOeDY2cGpiZ2VMUTE2NmotTmo1TXpKWVlfZy14ZkhzY3JwZGNzX0J0d2FmWF9iaUM0WENSQWNzVHlYZWNkZVRKWW0zd2VibXlSb0EySUY5SXhXY3lWaXlmenhURTJaOWVhbGpvbS1UVEIyUjY0NFpnaU55R1NXc1V1d0EzQ0RhQQ?oc=5",
+      "source": "CNBC TV18",
+      "category": "tech",
+      "published_at": "2026-09-23T10:13:01+00:00",
+      "importance": 7,
+      "personal_score": 7.0,
+      "entities": [
+        "Zoho",
+        "Sridhar Vembu",
+        "CNBC TV18 Zoho",
+        "CNBC TV18"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
+      "id": "045639efc521cfd8",
+      "title": "As AI Transforms Science and Research, Indiana University Cybersecurity Experts Protect Against Hidden Risks | Newswise - newswise.com",
+      "summary": "As AI Transforms Science and Research, Indiana University Cybersecurity Experts Protect Against Hidden Risks | Newswise newswise.com",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZHdKWTRHbG9qMnkzX2x1bUJIZEg0aGxWeE10WXRlSjhwT0lRNHlMQ2JrNms5ZnlDMTFtYmpzYzdrQWtTaVRXbEhadlhpWXZSblBTSEx4U1U5TlpWbnlFYTZGSEpvanJqUTNJV0xGdEcyUUFjUkI3U2YtcWM5aktfSjdzc24tN1RON1JCM1RJakRiZHltc0JMQm42dG04Ti12R1pIaThGdnp6WFEtMURwR01mYTZma0NhRkE5d0JrdUQ3dDTSAcMBQVVfeXFMT2R3Slk0R2xvajJ5M19sdW1CSGRINGhsVnhNdFl0ZUo4cE9JUTR5TENiazZrOWZ5QzExbWJqc2M3a0FrU2lUV2xIWnZYaVl2Um5QU0hMeFNVOU5aVm55RWE2RkhKb2pyalEzSVdMRnRHMlFBY1JCN1NmLXFjOWpLX0o3c3NuLTdUTjdSQjNUSWpEYmR5bXNCTEJuNnRtOE4tdkdaSGk4RnZ6elhRLTFEcEdNZmE2ZmtDYUZBOXdCa3VEN3Q0?oc=5",
+      "source": "newswise.com",
+      "category": "tech",
+      "published_at": "2026-09-23T22:30:00+00:00",
+      "importance": 7,
+      "personal_score": 7.0,
+      "entities": [
+        "As AI Transforms Science",
+        "Research",
+        "Indiana University Cybersecurity Experts",
+        "Protect Against Hidden Risks",
+        "Newswise"
       ],
       "summary_method": "rss_fallback"
     },
@@ -1762,6 +1767,24 @@
         "Artificial Intelligence",
         "UNESCO Call",
         "Artificial Intelligence UNESCO"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
+      "id": "8a5ad5fd72715c26",
+      "title": "Robotiq launches open-source software tools for physical AI and robot manipulation - Robotics & Automation News",
+      "summary": "Robotiq launches open-source software tools for physical AI and robot manipulation Robotics & Automation News",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPeTRSVUlHZjA5TEF0aVQ5eHlEcE9SbWNiSWtpSEQtU01ta0JtclVjU2dXU0draC1zTjRNTUI5ZmdRU2NSRjB4cjBTMnRzNHN1amhOaFNaTVV2bEJHZk5melhXejBrRWlIS29hbl9tQllwN084ZnYyZmVSUU0yR01YakdsS09GRlFrTU1EZGNZcWgzVWFlNHc4cndJM3hGeS1yVDhDT1d0WDlZWVNXZlpnWE1iLWU2VjE0VXJTQVU3eVN5OUlyWTR6UHkwSjRUaTNrTkc3STd1VF9Vb25aMERmNkpzNmI3VEEzb2ww?oc=5",
+      "source": "Robotics & Automation News",
+      "category": "tech",
+      "published_at": "2026-09-23T09:25:46+00:00",
+      "importance": 7,
+      "personal_score": 7.0,
+      "entities": [
+        "Robotiq",
+        "Robotics",
+        "Automation News Robotiq",
+        "Automation News"
       ],
       "summary_method": "rss_fallback"
     },
@@ -1787,27 +1810,11 @@
       "summary_method": "rss_fallback"
     },
     {
-      "id": "65ab68111af3a072",
-      "title": "The Future of Software Development Is Human + AI - community.nasscom.in",
-      "summary": "The Future of Software Development Is Human + AI community.nasscom.in",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOb2hNUTE0Zk54bWtPV2l5LW5lYWNWYml5Ny1zUThkcGxmSXhNZTFIWk9pYVBKYksxSGFzRHhndGVnZFN5SHViQ0hHWUdQMGtaNWJRU1BoTmwyNFJWLU80ZzdjWXZ5V1QwM3lsdHkzWXRYZEo5WE04OTIyOUVzcnFUVzVhRTJ3TUE?oc=5",
-      "source": "community.nasscom.in",
-      "category": "tech",
-      "published_at": "2026-09-20T13:19:21+00:00",
-      "importance": 6,
-      "personal_score": 6.0,
-      "entities": [
-        "The Future",
-        "Software Development Is Human"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
-      "id": "9a773150416e9a95",
-      "title": "Modern Software’s Hidden Cost: Managing Risk in the Open-Source Ecosystem - hkcert.org",
-      "summary": "Modern Software’s Hidden Cost: Managing Risk in the Open-Source Ecosystem hkcert.org",
+      "id": "372d448929eaaffe",
+      "title": "Modern Software’s Hidden Cost: Managing Risk in the Open-Source Ecosystem - Hong Kong Computer Emergency Response Team Coordination Centre",
+      "summary": "Modern Software’s Hidden Cost: Managing Risk in the Open-Source Ecosystem Hong Kong Computer Emergency Response Team Coordination Centre",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOelVCTzZPZF9RZFVLbkZMaUNMbk1lWVhwMWxabUs3cWsycWt0SVZXaUY4Smx5N25Kc0tiNHBLcF85REFYU21uVmdUb3lwSExwV1h5NXQ3WUNXQzNncFd1eVhqZTBaVzNEMWhsOTh5NDFnZHF0TkFUUlhlZV80dHVNbTZiYUdMWktBaXBjWV9BWng3UkdSZ3NuY3Z3a054T0NvOUE?oc=5",
-      "source": "hkcert.org",
+      "source": "Hong Kong Computer Emergency Response Team Coordination Centre",
       "category": "tech",
       "published_at": "2026-07-17T07:00:00+00:00",
       "importance": 6,
@@ -1816,7 +1823,45 @@
         "Modern Software",
         "Hidden Cost",
         "Managing Risk",
-        "Open-Source Ecosystem"
+        "Open-Source Ecosystem",
+        "Hong Kong Computer Emergency",
+        "Response Team Coordination Centre",
+        "Open-Source Ecosystem Hong Kong",
+        "Computer Emergency Response Team",
+        "Coordination Centre"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
+      "id": "3ca643fa0ff12511",
+      "title": "Over ₹134 crore spent on proprietary software at premier institutes, says open source collective - thehindu.com",
+      "summary": "Over ₹134 crore spent on proprietary software at premier institutes, says open source collective thehindu.com",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNZkdfMlBfR2JscmI5T2g4T3hFU2hIUjJ6NnBMQ0RiS2lQUXYtYnZwSm1COUlpWF9lYkVtelRXTFhjbG4yT256TXZPOTZJdG1fTHp4d0Zkbl9kVU1vcTRQN01aU1lseG5RbGNldUhVVm1XTUhXS3VyQU5DUDVZZDlHel9uUUZjWnJkOVUyM1hadW9rZXRnNlM4SDlKUU80cFR4aGI0bnlyYkZicXNNdVdJYXY4cHZpR1hmMzhTcDN1OVRuYl82czlkQTBkaVY5MC1pZXNhdXZacHk0bVRnZFExMVF5Z1VnbEgtYk5pLS1SeFPSAfcBQVVfeXFMTVdRUkdCeGMzRlJBbDlPckZLZm5TZTR3U1llNzV4MTl3SXQtWnF3WEdacDhRbElrUmRnc1JwcHp0VDNkcDNlNU13b2xmbjZtMzRBNndRTmNmdUNKNVY4Y2FOYXpMRDJVR3hpVWM5T1hYS2JOLThiTWxOTXl2T0VwX2JhbWdLLS1ueFM5VmNveHBFOW9Hc01hdkFZeEtmTC1ZcHBpdFVENEUyQXl4dnk0aXdsaURPV3hQU2NIblIyMHk0Y2NOYWVMQUdJMDJrQWh4QVZtaElpNnJsZlZ2N0N2R1lDcUd6WlJkd2lZQWYzSDBYUVFWQm1RTQ?oc=5",
+      "source": "thehindu.com",
+      "category": "tech",
+      "published_at": "2026-09-04T07:00:00+00:00",
+      "importance": 6,
+      "personal_score": 6.0,
+      "entities": [
+        "Over"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
+      "id": "6b8d92eeaacc3c96",
+      "title": "The Future of Software Development Is Human + AI - Nasscom",
+      "summary": "The Future of Software Development Is Human + AI Nasscom",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOb2hNUTE0Zk54bWtPV2l5LW5lYWNWYml5Ny1zUThkcGxmSXhNZTFIWk9pYVBKYksxSGFzRHhndGVnZFN5SHViQ0hHWUdQMGtaNWJRU1BoTmwyNFJWLU80ZzdjWXZ5V1QwM3lsdHkzWXRYZEo5WE04OTIyOUVzcnFUVzVhRTJ3TUE?oc=5",
+      "source": "Nasscom",
+      "category": "tech",
+      "published_at": "2026-09-20T13:19:21+00:00",
+      "importance": 6,
+      "personal_score": 6.0,
+      "entities": [
+        "The Future",
+        "Software Development Is Human",
+        "Nasscom The Future",
+        "AI Nasscom"
       ],
       "summary_method": "rss_fallback"
     },
@@ -1843,21 +1888,24 @@
       "summary_method": "rss_fallback"
     },
     {
-      "id": "d95df5235003d1e9",
-      "title": "The Economic Value of Open Source Software Contributions - Linux Foundation",
-      "summary": "The Economic Value of Open Source Software Contributions Linux Foundation",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPa1R1aThUVTFCRzhjdU5uelVMemJ2d2JEMEhIazNSdnRqdXZnV0Y3TzZLaElqWWtIWnV1UXJyWDJiX1JsNlIzRVNyaElfR2R0ZkRUczNNQlc4cTZVUFNCZXcyY1pZYnJSenBqSS1oanNOWHYxLVdSaEk4RGxJLTNTbVgxdFVVVjVCUG4zZEQ2dHRiU3F3c2VKQtIBqAFBVV95cUxOVTI0enQyWEJfVGZ5OXlkODJsSk5ENjJVRmV3NUNpNkEwS2pfbE9RbWdRd0czZUpEWnc3OWNJVjduaGw0eVU0NUxFXzVtUjZYVTd2c1ZmQUJSbXRTXzBHMGpmZjB6eUhjSXNjYTNBVkduRzJCM2tTNy1xcFVRZFZDNjVsdlNWZ3FZbWRsMTN3SlRKcmxJSzVIWkMyeWlpbUVjbkJXSlBfMEY?oc=5",
-      "source": "Linux Foundation",
+      "id": "e18aa1c0e7d3e31a",
+      "title": "2026 Global Information Society Watch Special Edition - Free/libre and open source software: Visions of openness from the Global South - Association for Progressive Communications",
+      "summary": "2026 Global Information Society Watch Special Edition - Free/libre and open source software: Visions of openness from the Global South Association for Progressive Communications",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVWVTVWdabGFaYUN5di1kYS1URmhQSmZXRE52OXNkNlA0UFJDc3ZOekJ1SXFSdmxxbDJ3QWZlOXgxMFFnaFhKZFNTMU4tRDhDTjJXREVEdmlGeFg1X1RwQm1WUGNpX2VvSzJLM3YteF95Q0tOUFRRdDc5LW5FSHZKUVpvQ0YwOXdDRExOUmZuWi1raUxmY1dmcHlrV2ZkWVFFRjZ1N28ydUJCbnc4TTFjVG1hYnk2NGc?oc=5",
+      "source": "Association for Progressive Communications",
       "category": "tech",
-      "published_at": "2026-03-26T07:00:00+00:00",
+      "published_at": "2026-09-09T07:00:00+00:00",
       "importance": 6,
       "personal_score": 6.0,
       "entities": [
-        "The Economic Value",
-        "Open Source Software Contributions",
-        "Linux Foundation The Economic",
-        "Value",
-        "Linux Foundation"
+        "Global Information Society Watch",
+        "Special Edition",
+        "Free",
+        "Visions",
+        "Global South",
+        "Association",
+        "Progressive Communications",
+        "Global South Association"
       ],
       "summary_method": "rss_fallback"
     },
@@ -1897,50 +1945,31 @@
       "summary_method": "rss_fallback"
     },
     {
-      "id": "7d02432d41ca6c18",
-      "title": "Linux Foundation Launches Akrites to Protect Critical Open Source Software from AI-Powered Threats - infoq.com",
-      "summary": "Linux Foundation Launches Akrites to Protect Critical Open Source Software from AI-Powered Threats infoq.com",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBsak91UEZTbjNtajROSjg3VzdJNzl0eFVrd3h2emIwRkZTV21KMXBzRVlRU1RTX2xfUEk5TG9KWHEzZDVXSmZ1X0kyeUhwNThjeDRfc01MVTlfNjMxVGlBeGFJOFQtN1RjNUtzam9nNUpncnZj?oc=5",
-      "source": "infoq.com",
+      "id": "393cc0f74d762e68",
+      "title": "Accenture, Google Cloud Advance Automotive AI Software Development With Volvo Cars - TradingView",
+      "summary": "Accenture, Google Cloud Advance Automotive AI Software Development With Volvo Cars TradingView",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOXzhzdGhDeFBhak5JSHBEdXhoblJfdEFESC1kVGxHV3hXTnljV05RMGZuLXd0WXFqSEhSTlljN1U2SWNZcUFSR3pyMkZRNXFvOEd1OE85S2dpQ3dmbTVNMmNYbGtleUFmMzQxQWlyZ1BlalZEczNiZmZ4WmkzVi1lbll6WGsyYmdyODRfNjZpSjdGdlNhX3pZNk5Wem51el9SMXBOTXpDY0lLUjNwbXNtR1RBbnVIWk9PMnNIQ3NhVjNramlOTkgzZnpxaGw0STVuUGpGZGdhcw?oc=5",
+      "source": "TradingView",
       "category": "tech",
-      "published_at": "2026-07-10T07:00:00+00:00",
+      "published_at": "2026-09-22T11:01:13+00:00",
       "importance": 6,
       "personal_score": 6.0,
       "entities": [
-        "Linux Foundation Launches Akrites",
-        "Protect Critical Open Source",
-        "Software",
-        "AI-Powered Threats"
+        "Accenture",
+        "Google Cloud Advance Automotive",
+        "AI Software Development With",
+        "Volvo Cars",
+        "TradingView Accenture",
+        "Volvo Cars TradingView"
       ],
       "summary_method": "rss_fallback"
     },
     {
-      "id": "8d0f4b93f8bbe64d",
-      "title": "Linux Foundation and Industry Leaders Launch Akrites to Defend Critical Open Source Software Against AI-Enabled Cyber Threats - Linux Foundation",
-      "summary": "Linux Foundation and Industry Leaders Launch Akrites to Defend Critical Open Source Software Against AI-Enabled Cyber Threats Linux Foundation",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOVFJpUjhOZHF3TFVOekI2RVJVUHM2cUU5X3B2TGs2X19yRUMzVUY3UDByblN6VjJnV2s1cFZmaVJiZVZCLXh4NTVjd0ptdkNRa3RpOW8waVA1Mlo3bXdteWY1U1MybXJXaTBubVg2Z25nUHpsS0QtZXU0STdDLVZTRlM4bnpmRVltejVSOGtiS3QwMndYa3pteTJURUdTbU5nWl81TlVHdTdTM0dvNHF3TnVLanZ6bVRxWUFTN3l5T1lyeHhoQ2VMNzZKemRzTWZKa1R0ZVY5RzAyX1RxUW9kUVlMc2Z4TlNkRFJVSkROaHp6ZGlXWmfSAYYCQVVfeXFMT2VtR0RMWkhPMVZFUUx5bGJONXk0Yi1UZFBlNDF1WnB6eDdqRHA1TF82Z2ZmNlJmYU1TWl8ya3ZWRTZwdVZQcWp5MXhiU1Q1TFh4ZlJPcUg5WGlCUVg3LU5Wc3N6UzlXWFhLTGJwaEhlR3p5RW15Z1FsZ0RKRVhXSTVHNVJ1eXJzSUt1WWJJSmRfWDFiZDFsVUdTTVVkNzVia21HSHluYlhBMHJfY0FTMnhiWUx2ZkxZemxlck5pSDdIdDhIRW9RaHVULUFFSHhWeUZiNWxONnpkM2J0VXRMbUNpVFZ0Y0o3WWt5cVFLdVZLUkh6ZTF5WWVfRzZpblFIdWRUQk01dw?oc=5",
-      "source": "Linux Foundation",
-      "category": "tech",
-      "published_at": "2026-06-25T07:00:00+00:00",
-      "importance": 6,
-      "personal_score": 6.0,
-      "entities": [
-        "Linux Foundation",
-        "Industry Leaders Launch Akrites",
-        "Defend Critical Open Source",
-        "Software Against AI-Enabled Cyber",
-        "Threats",
-        "Linux Foundation Linux Foundation",
-        "Threats Linux Foundation"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
-      "id": "95928ce4e609d8b7",
-      "title": "Accenture and Google Cloud Transform Software Development with Volvo Cars - Google Cloud Press Corner",
-      "summary": "Accenture and Google Cloud Transform Software Development with Volvo Cars Google Cloud Press Corner",
+      "id": "74d4e386a1d899e3",
+      "title": "Accenture and Google Cloud Transform Software Development with Volvo Cars - googlecloudpresscorner.com",
+      "summary": "Accenture and Google Cloud Transform Software Development with Volvo Cars googlecloudpresscorner.com",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdnBFTVhqVUVKZzd1b2I2ajFHNTkwWDNVV0dwRjR3Q2lzZVdCZHFDakJOeUtYT2tVc0dCOF8zbkJ1cnNILTNPSmRkZFFDZTZIakV0R0tRSUxCQnpZQnRMSEtpZi03OHFqUnc2RlZLaVRPOGY3ZmZ3LXhReTNiTlE1bzNTaDBNSVZQMGZIRU9Gekw4Vk9BUlkya2lOSlZYUlJCS2wwZHR1TVhBdm9lSkNvbTFpeDYzRmVMTDFlaDZKQmI?oc=5",
-      "source": "Google Cloud Press Corner",
+      "source": "googlecloudpresscorner.com",
       "category": "tech",
       "published_at": "2026-09-22T06:02:14+00:00",
       "importance": 6,
@@ -1949,10 +1978,7 @@
         "Accenture",
         "Google Cloud Transform Software",
         "Development",
-        "Volvo Cars",
-        "Google Cloud Press Corner",
-        "Volvo Cars Google Cloud",
-        "Press Corner"
+        "Volvo Cars"
       ],
       "summary_method": "rss_fallback"
     },
@@ -1977,6 +2003,79 @@
       "summary_method": "rss_fallback"
     },
     {
+      "id": "130e7a3d1495eea3",
+      "title": "IRS cybersecurity framework ‘not effective’ in key categories - CFO Brew",
+      "summary": "IRS cybersecurity framework ‘not effective’ in key categories CFO Brew",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNRDZtMkdzbWdpQTEzQ1JiTG4zRUlOTHJYUG1peW5YckR6dTM0el82NlNwX04wS05xVVprNXNnTFl1OC1aclh6XzJibXNOWVIyNWJ5VEt3YnE1WUNWWjVOZjF3R0tzS1BMTlVwRWQ3a3hYV09ZRHNWYXdMMk9sQ3J1RFNuN0NXbFUxMzh1MXFLZFV5UQ?oc=5",
+      "source": "CFO Brew",
+      "category": "tech",
+      "published_at": "2026-09-23T22:56:01+00:00",
+      "importance": 5,
+      "personal_score": 5.0,
+      "entities": [
+        "IRS",
+        "CFO Brew IRS",
+        "CFO Brew"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
+      "id": "8f738d7864d0be68",
+      "title": "Epic shifts focus to cybersecurity while AI, interoperability agenda still on track, company says - Fierce Healthcare",
+      "summary": "Epic shifts focus to cybersecurity while AI, interoperability agenda still on track, company says Fierce Healthcare",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcEhmc1QyTWFLQXdHblozTUVNcW1KeXdsZDlIdXFjQkU4VlR5TVhrSzc5aGxZZ1lfeUJCUmtwNWVTNUt3TzAzU0ZZWUpVUC1fX29iN1pPbHpYWEZDMUx4N21yaHM2V2xEX1M1X1NDZGZNMlZpNWZqT1d5dC1jNHd3b1p3N24wR2YtQWpFNUNqUkNOTktxYXdXRTk4Q0oyaXJPZzVwYl95akI5bVJYT2FubEkxYkthS3NVRUFSNHRjbWNac1k?oc=5",
+      "source": "Fierce Healthcare",
+      "category": "tech",
+      "published_at": "2026-09-23T15:00:00+00:00",
+      "importance": 5,
+      "personal_score": 5.0,
+      "entities": [
+        "Epic",
+        "Fierce Healthcare Epic",
+        "Fierce Healthcare"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
+      "id": "09ef065c869cc96d",
+      "title": "From cybersecurity to AI to Taiwan, what's at stake in Trump's summit with Xi - npr.org",
+      "summary": "From cybersecurity to AI to Taiwan, what's at stake in Trump's summit with Xi npr.org",
+      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQeGdKak9KYWkzRUVTb2V6NEplejRrYnlOMnhWbXZoNVdHbThDX0ZHb3pjSHFCVmZNT1VuSzBYT2F4Sm92QjZPbWhXVDZmVG5JODFXcDNnOU9pU0M2X3l0c0hTTHdtQXJsZ1U3dWZXN2JxUk8zOVlXYkVOMzVoTVVsSG8xVWowNGlRNlp3VmxuQU82cVFZYXJhTEN5RlpGNV81eC1hQXEwN2RfRnA5N2p1SFBWbmhYaVV1YjdDa1NPOWVBcGpuWXVNdWFvYnRCWGJZTm8wOEJOYmF6YXZOMDRCQTZSZ1VCaDBFREQxS1dsY3N1MU9LbHI4b2I4cDhWTXZncXIwYWU0TlE4WE1iaWNLQlgtaU5zWEwxdWtCeQ?oc=5",
+      "source": "npr.org",
+      "category": "tech",
+      "published_at": "2026-09-23T16:13:52+00:00",
+      "importance": 5,
+      "personal_score": 5.0,
+      "entities": [
+        "From",
+        "Taiwan",
+        "Trump"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
+      "id": "f2107b39242d42e8",
+      "title": "Solutions Review Releases The State of AI-Native Cybersecurity Report, Reintroducing Its Vendor Map Series - Solutions Review",
+      "summary": "Solutions Review Releases The State of AI-Native Cybersecurity Report, Reintroducing Its Vendor Map Series Solutions Review",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOZEhxNXFfbXhIcUkxWWtPc1pCSGlmdnB6S2JpVnlsNXZaR3BOM2FqR3lTQkRqejg2SkNyeF9Qby0yQm5qRk5GNThLQzhieFBIS1BZYTcyODhUbFJuUlBSVEZqNzRCWG03c2twNkpuTnZ5SmhKbk4ybWQ1cEduVGdmRHZVRXdiU0E5TjZwdnd5VkxLM1hpV3BZYlBiWFZycklpSEtndE5vbmlhVlZCRE1SUm9yZnNadHJNMnhKUjhSN2lJR3ZQSlNYaU9Jb0RBaVk?oc=5",
+      "source": "Solutions Review",
+      "category": "tech",
+      "published_at": "2026-09-23T14:24:31+00:00",
+      "importance": 5,
+      "personal_score": 5.0,
+      "entities": [
+        "Solutions Review Releases The",
+        "State",
+        "AI-Native Cybersecurity Report",
+        "Reintroducing Its Vendor Map",
+        "Series",
+        "Solutions Review Solutions Review",
+        "Releases The State",
+        "Series Solutions Review"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
       "id": "3a5b9842c25d0551",
       "title": "Microsoft Deepening Partnerships With Cybersecurity Authorities In Kuwait, Qatar, Saudi Arabia - TradingView",
       "summary": "Microsoft Deepening Partnerships With Cybersecurity Authorities In Kuwait, Qatar, Saudi Arabia TradingView",
@@ -1995,45 +2094,6 @@
         "With Cybersecurity Authorities In",
         "Kuwait",
         "Saudi Arabia TradingView"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
-      "id": "bbaf09e62df9d793",
-      "title": "From cybersecurity to AI to Taiwan, what's at stake in Trump's summit with Xi - NPR",
-      "summary": "From cybersecurity to AI to Taiwan, what's at stake in Trump's summit with Xi NPR",
-      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQeGdKak9KYWkzRUVTb2V6NEplejRrYnlOMnhWbXZoNVdHbThDX0ZHb3pjSHFCVmZNT1VuSzBYT2F4Sm92QjZPbWhXVDZmVG5JODFXcDNnOU9pU0M2X3l0c0hTTHdtQXJsZ1U3dWZXN2JxUk8zOVlXYkVOMzVoTVVsSG8xVWowNGlRNlp3VmxuQU82cVFZYXJhTEN5RlpGNV81eC1hQXEwN2RfRnA5N2p1SFBWbmhYaVV1YjdDa1NPOWVBcGpuWXVNdWFvYnRCWGJZTm8wOEJOYmF6YXZOMDRCQTZSZ1VCaDBFREQxS1dsY3N1MU9LbHI4b2I4cDhWTXZncXIwYWU0TlE4WE1iaWNLQlgtaU5zWEwxdWtCeQ?oc=5",
-      "source": "NPR",
-      "category": "tech",
-      "published_at": "2026-09-23T16:13:52+00:00",
-      "importance": 5,
-      "personal_score": 5.0,
-      "entities": [
-        "From",
-        "Taiwan",
-        "Trump",
-        "NPR From",
-        "Xi NPR"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
-      "id": "4a28ef454619a4d6",
-      "title": "\"The Word Artificial Makes It Sound Fake\": Trump Tells UN He's Renaming AI to \"Super Intelligence\" - LawStreet Journal",
-      "summary": "\"The Word Artificial Makes It Sound Fake\": Trump Tells UN He's Renaming AI to \"Super Intelligence\" LawStreet Journal",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPXzhSdVpBNmwwVzZXc1ZWd2kyS1VuVWRJRmczT1JBNHpjRkJtME0xMHg2NEpJby1CaHBTN1dFemhTZ3Axdk44M2phTU1lS1QzVFBUMWdkMTJ0eVlzeTVTeHFYdHA1VVRlLTVyTmF4SFB2NjRidS1pVDVNQkdDbzJ5X2hWZm9WVVV6TGZCWXJVYW16eUdMOWtPVjVQV3ZsOFVCcXY1SHh6RXZ0QXdLRkwzT2xTMWR2V2UzcnktWFdDZUxxeW16Z0E?oc=5",
-      "source": "LawStreet Journal",
-      "category": "tech",
-      "published_at": "2026-09-23T08:32:22+00:00",
-      "importance": 5,
-      "personal_score": 5.0,
-      "entities": [
-        "The Word Artificial Makes",
-        "It Sound Fake",
-        "Trump Tells UN He",
-        "Renaming AI",
-        "Super Intelligence",
-        "LawStreet Journal"
       ],
       "summary_method": "rss_fallback"
     },
@@ -2072,41 +2132,6 @@
         "Artificial Intelligence",
         "Telegraph India The Assistant",
         "Telegraph India"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
-      "id": "ab65b8bf9a67b09f",
-      "title": "Information Security for Executives Addresses AI-Driven and Other Cybersecurity Risks for Business Leaders - markets.businessinsider.com",
-      "summary": "Information Security for Executives Addresses AI-Driven and Other Cybersecurity Risks for Business Leaders markets.businessinsider.com",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQWGdERzN3Y0x2ZjlwRzZmQ1l0TlBlM1c4eFNhQ1M4Mjl6WnM1alY1cE1UbmIyQktDREY2emZpT2FZVFhiS3QzdlVQakpBN2U1d3V2NmRkNUJnMmZRZ1AtZHRnbUxQN0dRWVpLVmlRaGRlQm43REtSaFZSUE8zN3IwU24wV1VFa0xaV3lEVUNORi1PYllsa2N5NXdFN2pXeEpKaW03Rmc5X2pUZXk4WUgxR1I2ZWtkUjBaQVNVVjBpYWx0NGFiV1JmU0dDUnB4ZGRRbWtzQ2V3dm5NdjFRbzNfNmg1WFJIblNpVmRENFRZNm1nclB5dmFESw?oc=5",
-      "source": "markets.businessinsider.com",
-      "category": "tech",
-      "published_at": "2026-09-23T20:01:13+00:00",
-      "importance": 5,
-      "personal_score": 5.0,
-      "entities": [
-        "Information Security",
-        "Executives Addresses AI-Driven",
-        "Other Cybersecurity Risks",
-        "Business Leaders"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
-      "id": "380ba9dd5acbfe5f",
-      "title": "AI, EVs, cybersecurity on course list as Haryana upgrades govt ITIs - timesofindia.indiatimes.com",
-      "summary": "AI, EVs, cybersecurity on course list as Haryana upgrades govt ITIs timesofindia.indiatimes.com",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNSWd1NzRHMC14VTNrN01vcUJaSk44dFE4ZDMxRGJ5VHFyMjhsYzNWWm1sMERDQUh4TFZqTXFqczl0SWdXeWtPQjBoRVROallfUDdNUW1aU25lVkdWVS1qTlhwZGpxWkpvb0c5Z3lkU01hb1JHQlotdUdqZFRYTURjUFlaMlJaaUowZ1ZiSWhXYjIwWlBuRWVEVWF0S1N6cVBxRGphbTlLMloxbVZHdXg4cms0Nmxzci13ZWk0SmVMZVAzTkhuUVFLTjhoakVYSW5iWnlMb0hVWdIB3AFBVV95cUxOZThxeHlOejYzU0hYeHBiU2RRVjdjYi1iOEhld0pQaTQtMEpJNmFKUnhKWEJhNkF0MW4yaV8tVUVCcjV5d3JVYmU5dnBjYUNIWl9YSzVGM1pjZzMzYW1tYjgyaDNvLVpwa1B5bDRGQUIxc3BsZnBVc1NTSFVXNzl0NDJtaWczbHA5LWZPUkc4QlBIbFcyUjFybFlBRjJqNGsyMHVyWFJYTlRjX3I3LWRORks1c3c5dExkQmd6MnVVaWQ0elcxdTcwaTZhb0xiYU1rV3VELVd1LWQ4OU9O?oc=5",
-      "source": "timesofindia.indiatimes.com",
-      "category": "tech",
-      "published_at": "2026-09-22T19:49:00+00:00",
-      "importance": 4,
-      "personal_score": 4.0,
-      "entities": [
-        "EVs",
-        "Haryana",
-        "ITIs"
       ],
       "summary_method": "rss_fallback"
     }
