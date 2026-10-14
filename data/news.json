@@ -1,6 +1,6 @@
 {
   "version": 7,
-  "updated_at": "2026-10-14T19:46:23.273728+00:00",
+  "updated_at": "2026-10-14T22:44:27.067223+00:00",
   "ai_engine": {
     "enabled": true,
     "type": "mathematical_ml",
@@ -47,28 +47,72 @@
   },
   "general": [
     {
-      "id": "58dee53f1557f828",
-      "title": "എസ്ഐആർ; രാഹുൽ ഗാന്ധിയുടെയും ഇന്ത്യ സഖ്യത്തിന്റെയും ഹർജി നാളെ പരിഗണിച്ചേക്കും, സൂചനനൽകി കോടതി വെബ്സൈറ്റ് - Mathrubhumi",
-      "summary": "എസ്ഐആർ; രാഹുൽ ഗാന്ധിയുടെയും ഇന്ത്യ സഖ്യത്തിന്റെയും ഹർജി നാളെ പരിഗണിച്ചേക്കും, സൂചനനൽകി കോടതി വെബ്സൈറ്റ് Mathrubhumi",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVWRFRFZIU21zSTVPY21WVjR5SldKdlk0UjlzZTNvaFdlODQ4Mjd5TEE2NkJYS1Z3YWw3WTNLczNIcVRBLW1fTzd2NlkydGJaeUVUdVpWRV9uV0k5OFcxSHB1NWVJNlQ4aURfRmpzY0RBZFFpNjZuckNzRnRCTnZHbXJXREhsRmNaN1RMcTk2dmpFSFRlaDVuRk5FYVZxTjhybklr0gGoAUFVX3lxTFAzT2RYX1BpcUNKQUMtZlE1OUYwbWo3bGtVQ0ZUbjVnXzVlOW1xNlN2MGFvajNTVy0xM0NRMkdSY3RMNEtCSXBKLWtaSlhZanF0OG5xbUg4bnRNVVZraDdrSnN4alJVekN1bjNxZ2ozNWRoZ01qaXFMLUVXTFdyYmdWaTRRYVhpV2dSVmw4RXVZdS1jTXFoTWMyY255V0gyUjVWWG82aDdoUA?oc=5",
-      "source": "Mathrubhumi",
+      "id": "e4e1f86d5a32d5df",
+      "title": "ലോക ഗുണനിലവാര ദിനാചരണം: കൊച്ചിയിൽ ബിഐഎസ് സെമിനാർ - Manorama News",
+      "summary": "ലോക ഗുണനിലവാര ദിനാചരണം: കൊച്ചിയിൽ ബിഐഎസ് സെമിനാർ Manorama News",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQmpnQkRqSnhUckQ0RUdzaUlLelRxX2V6RG8wZUxpSlRhLW4wSDg2eGJoTGxma1RnVklwQ0lvdVVCN0dMYTJnMVhvVUJOVFFoZ1BvZmRmX1J3NnNtaFNIekRoYUptcF9aX2VTalM4NGpFQ1ZrVVBuemlIVUVxRVNyUWQzZDZhWUE3UWgySm5VTjFjMUNqVUdTUVBGU1NYUG1TTTA5bFJYbkR1SXZKN3lsUW5IaDRYZTl5TEFXTkUzRm7SAcYBQVVfeXFMT1ZMWW1aN1V0SVZPSkk4TGpPTWNGS0tieVFBdEpkU05ydkhJaU9XUjNSeVlyS2cxY2xGUUxQTThKaDdGOEJnZ3VTU1N0b1ZiaFRNUmtyQVBWQWVTS1hSd0ZXZ0FvcFNFcHJyaGF5NUtpb3FVUnBIQVo0NHBsekN0dGJJbDZCYmNuT0RNTUJsSVFMYjRFcGpjNE81RjVIVVp6QmNNeURoTF9KVVpaRU81dzdHdnV1OUZpa00taWNMc0dCVVZxeXlB?oc=5",
+      "source": "Manorama News",
       "category": "general",
-      "published_at": "2026-10-14T16:20:06+00:00",
+      "published_at": "2026-10-14T12:05:50+00:00",
       "importance": 4,
       "personal_score": 4.25,
       "entities": [
-        "എസ്ഐആർ",
-        "രാഹുൽ",
-        "ഗാന്ധിയുടെയും",
-        "ഇന്ത്യ",
-        "സഖ്യത്തിന്റെയും",
-        "ഹർജി",
-        "നാളെ",
-        "പരിഗണിച്ചേക്കും",
-        "സൂചനനൽകി",
-        "കോടതി",
-        "വെബ്സൈറ്റ്",
+        "ലോക",
+        "ഗുണനിലവാര",
+        "ദിനാചരണം",
+        "കൊച്ചിയിൽ",
+        "ബിഐഎസ്",
+        "സെമിനാർ",
+        "Manorama News"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
+      "id": "74a80fd46aaa5bc6",
+      "title": "CMRL-എക്‌സാലോജിക് ഇടപാട്: പിണറായിക്കും റിയാസിനുമെതിരേ കേസെടുത്ത് ഇ.ഡി - Mathrubhumi",
+      "summary": "CMRL-എക്‌സാലോജിക് ഇടപാട്: പിണറായിക്കും റിയാസിനുമെതിരേ കേസെടുത്ത് ഇ.ഡി Mathrubhumi",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNeHlfV1lxSm1ZS05TR2k2Y1ZlSWpkQjhKaVlwNjUtSnpPSGZxX1liOVBBRGg5OHVpU1BxTFIxU2FTRlg0Z0JBQWtPcU9mMVB2bGNTMkJiQlpIam56S0dHRFdfa2kwWmM3bjRySGxqSXNYNEFtRW5pZnlkdW11djZhZ1NFR2xlbmd1elpIY3QxYTd1NVZRNERERkNtb282Y3M4eUJBZjg2enRaY1BlMnp0ZlJ30gG3AUFVX3lxTE1zRTM5YkliVkY1M3FuSmJKZl91T2tZdHRURE1NazduQlJCeFFoSTh0ZTFoTTVLMzZNOWMxelY2by1LTXlSZ2gtWS15dVhVWmZmM0lPdGVSLTlTNncwTHVLbDRCWjV6MFo3SG52ZG1obU8wU2xad19fS2V6QlRIcC1kMV9sYUVNNzFRRmZDbkEyanQ4YWxhYjlrdUl5TzBySXRySlBnbGFtNWI2RXBROF9vWlRXbUxocw?oc=5",
+      "source": "Mathrubhumi",
+      "category": "general",
+      "published_at": "2026-10-14T17:39:24+00:00",
+      "importance": 4,
+      "personal_score": 4.25,
+      "entities": [
+        "എക്",
+        "സാലോജിക്",
+        "ഇടപാട്",
+        "പിണറായിക്കും",
+        "റിയാസിനുമെതിരേ",
+        "കേസെടുത്ത്",
+        "CMRL-",
+        "Mathrubhumi CMRL-",
         "Mathrubhumi"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
+      "id": "e3c4a7e7441437fd",
+      "title": "സഞ്ജു സാംസൺ 23 പന്തിൽ 56, കീമോ പോളിന് അഞ്ച് വിക്കറ്റ്, നാലാം ട്വന്റി20യിൽ ഇന്ത്യയ്ക്കു തോൽവി - Manorama Online",
+      "summary": "സഞ്ജു സാംസൺ 23 പന്തിൽ 56, കീമോ പോളിന് അഞ്ച് വിക്കറ്റ്, നാലാം ട്വന്റി20യിൽ ഇന്ത്യയ്ക്കു തോൽവി Manorama Online",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWW9FWWNQSWZDNjNNQXJJajVQcFZUMWctMHhZOFc1WlJ0dHZXc3B0a3JxWE83azc3ZENrMDdTaFBQZ2hVZ3kwQnJLRGVOZjFUV1Jmd0k5cTlOM3pudHRBWVNsaHd2NkFOdXNUd2duN21seGkwaXFseWh6VVFnY3h5YWF0SGtOcFRRVmFmaUhfMDNwVlF4RF9VTHdYSGJUWVNzS1dHVmhOQU4zMTFVMjVUNnJHWnRqQQ?oc=5",
+      "source": "Manorama Online",
+      "category": "general",
+      "published_at": "2026-10-14T13:48:45+00:00",
+      "importance": 4,
+      "personal_score": 4.25,
+      "entities": [
+        "സഞ്ജു",
+        "സാംസൺ",
+        "പന്തിൽ",
+        "കീമോ",
+        "പോളിന്",
+        "അഞ്ച്",
+        "വിക്കറ്റ്",
+        "നാലാം",
+        "ട്വന്റി",
+        "യിൽ",
+        "ഇന്ത്യയ്ക്കു",
+        "തോൽവി"
       ],
       "summary_method": "rss_fallback"
     },
@@ -95,6 +139,53 @@
         "പരിശോധിച്ച്",
         "വിൻഡീസ്",
         "ക്യാപ്റ്റൻ"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
+      "id": "81d4c35efc60c84e",
+      "title": "എസ്‌ഐആർ; ഇന്ത്യസഖ്യത്തിന്റെ ഹർജി ഇന്ന് സുപ്രീംകോടതിയിൽ - Mathrubhumi",
+      "summary": "എസ്‌ഐആർ; ഇന്ത്യസഖ്യത്തിന്റെ ഹർജി ഇന്ന് സുപ്രീംകോടതിയിൽ Mathrubhumi",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNd3Z6ZkdRUk5DcERmTHAxaVc5aUJ5VGw0SmhpNlVDd1pVSS1rZ3ZRRmxlOG5HMlBma3BFY3BKYjgtMVVQalRvZk9KTmtXc3JFd1pndlR0RHlaUTBXejh0Uk5rNURVem1nUENXSTBPbTZmeXJCQWpIaXB2bWRhb2V5am1MS3pNSG1YR1AtRWtuaWtnUWlLQnNnNtIBngFBVV95cUxQa0JCb0dvZ2hKajJ4VXpTdTViNWJTdGVicWxVbGhiRURpU0VQTERSbHFWYUFkN0hTX3VMbkplMkpBVmQzdDlXM0NfdTB0ekxEYTBGSlpTVTR3VjFuSzBuaXVmZVVuTVJPTGF5UWJtNE9jcjZEcG56dFBjX3YtU0F6c0RpT3ZmYm9rSG5CcDN4RmlIemVVMk54NlNtcWNBdw?oc=5",
+      "source": "Mathrubhumi",
+      "category": "general",
+      "published_at": "2026-10-14T22:26:46+00:00",
+      "importance": 4,
+      "personal_score": 4.25,
+      "entities": [
+        "എസ്",
+        "ഐആർ",
+        "ഇന്ത്യസഖ്യത്തിന്റെ",
+        "ഹർജി",
+        "ഇന്ന്",
+        "സുപ്രീംകോടതിയിൽ",
+        "Mathrubhumi"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
+      "id": "58dee53f1557f828",
+      "title": "എസ്ഐആർ; രാഹുൽ ഗാന്ധിയുടെയും ഇന്ത്യ സഖ്യത്തിന്റെയും ഹർജി നാളെ പരിഗണിച്ചേക്കും, സൂചനനൽകി കോടതി വെബ്സൈറ്റ് - Mathrubhumi",
+      "summary": "എസ്ഐആർ; രാഹുൽ ഗാന്ധിയുടെയും ഇന്ത്യ സഖ്യത്തിന്റെയും ഹർജി നാളെ പരിഗണിച്ചേക്കും, സൂചനനൽകി കോടതി വെബ്സൈറ്റ് Mathrubhumi",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVWRFRFZIU21zSTVPY21WVjR5SldKdlk0UjlzZTNvaFdlODQ4Mjd5TEE2NkJYS1Z3YWw3WTNLczNIcVRBLW1fTzd2NlkydGJaeUVUdVpWRV9uV0k5OFcxSHB1NWVJNlQ4aURfRmpzY0RBZFFpNjZuckNzRnRCTnZHbXJXREhsRmNaN1RMcTk2dmpFSFRlaDVuRk5FYVZxTjhybklr0gGoAUFVX3lxTFAzT2RYX1BpcUNKQUMtZlE1OUYwbWo3bGtVQ0ZUbjVnXzVlOW1xNlN2MGFvajNTVy0xM0NRMkdSY3RMNEtCSXBKLWtaSlhZanF0OG5xbUg4bnRNVVZraDdrSnN4alJVekN1bjNxZ2ozNWRoZ01qaXFMLUVXTFdyYmdWaTRRYVhpV2dSVmw4RXVZdS1jTXFoTWMyY255V0gyUjVWWG82aDdoUA?oc=5",
+      "source": "Mathrubhumi",
+      "category": "general",
+      "published_at": "2026-10-14T16:20:06+00:00",
+      "importance": 4,
+      "personal_score": 4.25,
+      "entities": [
+        "എസ്ഐആർ",
+        "രാഹുൽ",
+        "ഗാന്ധിയുടെയും",
+        "ഇന്ത്യ",
+        "സഖ്യത്തിന്റെയും",
+        "ഹർജി",
+        "നാളെ",
+        "പരിഗണിച്ചേക്കും",
+        "സൂചനനൽകി",
+        "കോടതി",
+        "വെബ്സൈറ്റ്",
+        "Mathrubhumi"
       ],
       "summary_method": "rss_fallback"
     },
@@ -171,49 +262,6 @@
       "summary_method": "rss_fallback"
     },
     {
-      "id": "0af31067c7acc9ce",
-      "title": "ജെസ്നക്ക് ശേഷം കാര്യസ്ഥന്‍; ബ്രെയിന്‍ മാപ്പിങ്ങില്‍ പൊളിഞ്ഞ കള്ളങ്ങള്‍ - Manorama News",
-      "summary": "ജെസ്നക്ക് ശേഷം കാര്യസ്ഥന്‍; ബ്രെയിന്‍ മാപ്പിങ്ങില്‍ പൊളിഞ്ഞ കള്ളങ്ങള്‍ Manorama News",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPM0hpaEg0eDR6Mm5WbmJ6RjNodEw4blU5REd2LU10OTRXR1g5dlBSeDdLR1Q4QjBpdXByX0xKSkJIclZJUEhiZWdyLVlKR0o5SlZNeTlfaTFzZ3dabnN6NTZJTFRFcG9DZzhWX3hHdlV6TXIwU2tvSnA4MlNhbUpnS1M2R00yNVVnN0pLQ3BMcFl5d05mbjZHRlV1d3dLdzluY1HSAacBQVVfeXFMT0J0TGhER2ljM3FwdUFodkc2bzBnTW1iRFFuQnY3VnFOTW9OX29WQ2NBMDZKTDREVHdRcnJzZzYzYkljTDdQWmh4T1VsOGhBS2l3T0FWM3NsbmVyeEZNVElMWEVEakxpWjc0QU5KOGNVZ3oybEZsWXJ0STU4cjFicmVsSF9VT0xKeXBoN0JrR1lRWWw4V29kMzVheWJmTTczYjVHTDZjOWM?oc=5",
-      "source": "Manorama News",
-      "category": "general",
-      "published_at": "2026-10-14T17:45:55+00:00",
-      "importance": 4,
-      "personal_score": 4.25,
-      "entities": [
-        "ജെസ്നക്ക്",
-        "ശേഷം",
-        "കാര്യസ്ഥന്",
-        "ബ്രെയിന്",
-        "മാപ്പിങ്ങില്",
-        "പൊളിഞ്ഞ",
-        "കള്ളങ്ങള്",
-        "Manorama News"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
-      "id": "e4e1f86d5a32d5df",
-      "title": "ലോക ഗുണനിലവാര ദിനാചരണം: കൊച്ചിയിൽ ബിഐഎസ് സെമിനാർ - Manorama News",
-      "summary": "ലോക ഗുണനിലവാര ദിനാചരണം: കൊച്ചിയിൽ ബിഐഎസ് സെമിനാർ Manorama News",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQmpnQkRqSnhUckQ0RUdzaUlLelRxX2V6RG8wZUxpSlRhLW4wSDg2eGJoTGxma1RnVklwQ0lvdVVCN0dMYTJnMVhvVUJOVFFoZ1BvZmRmX1J3NnNtaFNIekRoYUptcF9aX2VTalM4NGpFQ1ZrVVBuemlIVUVxRVNyUWQzZDZhWUE3UWgySm5VTjFjMUNqVUdTUVBGU1NYUG1TTTA5bFJYbkR1SXZKN3lsUW5IaDRYZTl5TEFXTkUzRm7SAcYBQVVfeXFMT1ZMWW1aN1V0SVZPSkk4TGpPTWNGS0tieVFBdEpkU05ydkhJaU9XUjNSeVlyS2cxY2xGUUxQTThKaDdGOEJnZ3VTU1N0b1ZiaFRNUmtyQVBWQWVTS1hSd0ZXZ0FvcFNFcHJyaGF5NUtpb3FVUnBIQVo0NHBsekN0dGJJbDZCYmNuT0RNTUJsSVFMYjRFcGpjNE81RjVIVVp6QmNNeURoTF9KVVpaRU81dzdHdnV1OUZpa00taWNMc0dCVVZxeXlB?oc=5",
-      "source": "Manorama News",
-      "category": "general",
-      "published_at": "2026-10-14T12:05:50+00:00",
-      "importance": 4,
-      "personal_score": 4.25,
-      "entities": [
-        "ലോക",
-        "ഗുണനിലവാര",
-        "ദിനാചരണം",
-        "കൊച്ചിയിൽ",
-        "ബിഐഎസ്",
-        "സെമിനാർ",
-        "Manorama News"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
       "id": "8af6cd2df7be9172",
       "title": "Kerala News Today Live Updates: നെടുമ്പാശേരി മിനി കൂപ്പർ അപകടം; സുഹൈലിന്റെ ലൈസൻസ് റദ്ദാക്കാൻ മോട്ടോർ വാഹന വകുപ്പ് - Indian Express - Malayalam",
       "summary": "Kerala News Today Live Updates: നെടുമ്പാശേരി മിനി കൂപ്പർ അപകടം; സുഹൈലിന്റെ ലൈസൻസ് റദ്ദാക്കാൻ മോട്ടോർ വാഹന വകുപ്പ് Indian Express - Malayalam",
@@ -236,31 +284,6 @@
         "വകുപ്പ്",
         "Kerala News Today Live",
         "Updates"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
-      "id": "dffd4f25aa9cf757",
-      "title": "തുലാവർഷം എത്തുന്നു, കേരളത്തിൽ അതിശക്തമായ മഴയും ഇടിമിന്നലും! അടുത്ത അഞ്ച് ദിവസങ്ങളിൽ വൻ ജാഗ്രത - Manorama Online",
-      "summary": "തുലാവർഷം എത്തുന്നു, കേരളത്തിൽ അതിശക്തമായ മഴയും ഇടിമിന്നലും! അടുത്ത അഞ്ച് ദിവസങ്ങളിൽ വൻ ജാഗ്രത Manorama Online",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNUs5VzNYVDZRN2JiNUxHYktaTzVhaVFmTDVzS3Vvc2EtMDVpenE5MmhRSTRPUkFnUlBUejZERHBINzZ0dVlXYnhCM2plbHQzRWlhSEwtdGJubzRsS0QydC1jQWNrZ2lEMUp2Y0x1MzNwajFYYmM5ckt3cTloQ19reHh4eFM4MEhkdkNibndfU1Z1QVY3Q3phUlB1OUxzN0VfR0ZNQWFLSm1FdzRWa3RB?oc=5",
-      "source": "Manorama Online",
-      "category": "general",
-      "published_at": "2026-10-14T11:50:50+00:00",
-      "importance": 4,
-      "personal_score": 4.25,
-      "entities": [
-        "തുലാവർഷം",
-        "എത്തുന്നു",
-        "കേരളത്തിൽ",
-        "അതിശക്തമായ",
-        "മഴയും",
-        "ഇടിമിന്നലും",
-        "അടുത്ത",
-        "അഞ്ച്",
-        "ദിവസങ്ങളിൽ",
-        "ജാഗ്രത",
-        "Manorama Online"
       ],
       "summary_method": "rss_fallback"
     },
@@ -342,29 +365,6 @@
       "summary_method": "rss_fallback"
     },
     {
-      "id": "e0a8969c16e3b369",
-      "title": "പയ്യന്നൂര്‍ ധനരാജ് വധക്കേസില്‍ അന്തിമവാദം പൂര്‍ത്തിയായി; വിധി നവംബര്‍ 25ന് - Suprabhaatham Online",
-      "summary": "പയ്യന്നൂര്‍ ധനരാജ് വധക്കേസില്‍ അന്തിമവാദം പൂര്‍ത്തിയായി; വിധി നവംബര്‍ 25ന് Suprabhaatham Online",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9vRDlwQXgxcVRkdVBQSUxIVTIxTUZ1WjZJUTJSSkJNbzN3anVZSDVLMGtySkZ3ajRFZ3VQREt6RUljc3JHcEI2cHRJU0xvUnZKRUtuTEc2Zw?oc=5",
-      "source": "Suprabhaatham Online",
-      "category": "general",
-      "published_at": "2026-10-14T12:03:33+00:00",
-      "importance": 3,
-      "personal_score": 3.25,
-      "entities": [
-        "പയ്യന്നൂര്",
-        "ധനരാജ്",
-        "വധക്കേസില്",
-        "അന്തിമവാദം",
-        "പൂര്",
-        "ത്തിയായി",
-        "വിധി",
-        "നവംബര്",
-        "Suprabhaatham Online"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
       "id": "f55f99416f2667bf",
       "title": "നെടുമ്പാശ്ശേരി വാഹനാപകടം: 19കാരനായ പ്രതിക്ക് മദ്യം നൽകിയ മൂന്ന് ബാറുകളുടെ ലൈസൻസ് സസ്പെൻഡ് ചെയ്തു - Reporter Tv",
       "summary": "നെടുമ്പാശ്ശേരി വാഹനാപകടം: 19കാരനായ പ്രതിക്ക് മദ്യം നൽകിയ മൂന്ന് ബാറുകളുടെ ലൈസൻസ് സസ്പെൻഡ് ചെയ്തു Reporter Tv",
@@ -391,49 +391,24 @@
       "summary_method": "rss_fallback"
     },
     {
-      "id": "e268064fdb35bccc",
-      "title": "കേരള കേന്ദ്ര സർവകലാശാലയിൽ രജിസ്ട്രാറായി നിയമിച്ചത് ലൈംഗികാതിക്രമ കേസിലെ ആരോപണ വിധേയനെ - Deshabhimani",
-      "summary": "കേരള കേന്ദ്ര സർവകലാശാലയിൽ രജിസ്ട്രാറായി നിയമിച്ചത് ലൈംഗികാതിക്രമ കേസിലെ ആരോപണ വിധേയനെ Deshabhimani",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQR2sxdDl4QVU1c3NYMk9PREpneHg5emJ6MjlRUjZFck4wczd4bWJadXdrT1huelJfNWRSWHgzWWQtSkJ4Ym1oMFBsNFk2S2FrdVhXZGdtZ3hZVDB3a1ZlazJvVUVtSGYxUjhpcDFfN19lRTJCVVRBai1BOWg5a0RWRVJ5ZjF3ZUtQVUgyYnlGbGhvR083OG44X081NzNGWWNzQ1k5anJ0dmljTjV5Y2RRRmNtczNsMVNlWGN1UnZUNnpYbkRqVEdJSE1nNGJVSW1y?oc=5",
+      "id": "0971a91e2906633c",
+      "title": "ട്രെന്‍ഡ്‌സ് ഇംപ്രസാരിയോ മിസ് കേരള ഗ്രാന്‍ഡ് ഫിനാലെ നാളെ - Deshabhimani",
+      "summary": "ട്രെന്‍ഡ്‌സ് ഇംപ്രസാരിയോ മിസ് കേരള ഗ്രാന്‍ഡ് ഫിനാലെ നാളെ Deshabhimani",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNV1hxUlBlbVZ6UkQ4eWZuUkNpNjhNSzJadllyMG9XMG5jWG1QbDNRcGV3X29yS2xaWjFYVGJlOEtjdmxBLUJBUVJkajNzbmMtTW54aWtBdHhsa2lfUjd1bGp4cHpuLWJtMUhkamVyUEJ6SDItX2g1Rk1Lc0c1YThZVzdUeEw?oc=5",
       "source": "Deshabhimani",
       "category": "general",
-      "published_at": "2026-10-14T12:12:58+00:00",
+      "published_at": "2026-10-14T21:13:28+00:00",
       "importance": 3,
       "personal_score": 3.25,
       "entities": [
+        "ട്രെന്",
+        "ഇംപ്രസാരിയോ",
+        "മിസ്",
         "കേരള",
-        "കേന്ദ്ര",
-        "സർവകലാശാലയിൽ",
-        "രജിസ്ട്രാറായി",
-        "നിയമിച്ചത്",
-        "ലൈംഗികാതിക്രമ",
-        "കേസിലെ",
-        "ആരോപണ",
-        "വിധേയനെ",
+        "ഗ്രാന്",
+        "ഫിനാലെ",
+        "നാളെ",
         "Deshabhimani"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
-      "id": "beaa5cf4d67e6018",
-      "title": "സൗദിക്ക് നേരെയുള്ള ഹൂതി ആക്രമണം; അപലപിച്ച് മുസ്‍ലിം വേൾഡ് ലീ​​ഗ് - Media One",
-      "summary": "സൗദിക്ക് നേരെയുള്ള ഹൂതി ആക്രമണം; അപലപിച്ച് മുസ്‍ലിം വേൾഡ് ലീ​​ഗ് Media One",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNndVMWd3dmlOQlJaZ3EzVGsxUUJPMWhTblZ5XzlrN0psVER2M3BYTmQ2UUtHNzQxU1ZwRVBORVFBb1JTWmhVdVA0UG9tYVVDSVo1ZmxCdVZmYl9rYng5emRwcGhqdFFsR2gydVdybDdTdnhzeWdCbFQxV2stamVRMXE3ZEl6U0FZbHZMMVpjWWU5WmY5NjVrc3RSaFEyN3Jpb0Y4ZDE0bDZBQTFXX0V6V0F1Y2hLRy1x0gG-AUFVX3lxTFBnT25NV0xhU3pMWGdSczktMkZNRWRCb2lZUWtyMlFaUklyU25JdVpIMnN5NjBLMFpOcFhzckRFMVJXTXMtUlVCTEE3al9TOGZUVXJPeGNIYnhyak14cjVCemZBVVBtZDlLNGNfcExkb2NYVXY1NDkzVDVoOWFUcFFFbnl5WGREOHBzYURkZ3R3UnFmZ25kOWg0NnNCZ0dNU2FzYXdWTm1GOVlpYkZsc0FWN0lkVDdLMkprUGxzYUE?oc=5",
-      "source": "Media One",
-      "category": "general",
-      "published_at": "2026-10-14T11:34:59+00:00",
-      "importance": 3,
-      "personal_score": 3.25,
-      "entities": [
-        "സൗദിക്ക്",
-        "നേരെയുള്ള",
-        "ഹൂതി",
-        "ആക്രമണം",
-        "അപലപിച്ച്",
-        "മുസ്",
-        "ലിം",
-        "വേൾഡ്",
-        "Media One"
       ],
       "summary_method": "rss_fallback"
     },
@@ -464,6 +439,55 @@
       "summary_method": "rss_fallback"
     },
     {
+      "id": "ddd673ea7ed91a79",
+      "title": "മാസപ്പടിയിൽ ഇ‌ഡിയുടെ നിർണായക നീക്കം,​ പിണറായിക്കും മുഹമ്മദ് റിയാസിനുമെതിരെ കേസെടുത്തു - Kerala Kaumudi",
+      "summary": "മാസപ്പടിയിൽ ഇ‌ഡിയുടെ നിർണായക നീക്കം,​ പിണറായിക്കും മുഹമ്മദ് റിയാസിനുമെതിരെ കേസെടുത്തു Kerala Kaumudi",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUHJUUFNpQVlzX3N6M195R204d01rUTZ1Vm5IT1Nhd2ZxeW5FNFVvRXVxREQ0UFNrRWI1TFh0NHJjcVNzR1RYYkpfUWxvWXQxblBlM0ZyS2hQX1dfUVM5R1FlZTlTYkRzQmhfeXFxTHBpNlN0eHR4OEVNYUs1YVZsRjdCNGg1TlplX1pnSW02WkZaLTZrdzZDSzIyaUxnYVRtcUFleGM2d3g4a1hNX2wzZGpYWGxmRGV3ZEQ5alhnY3k2Yk4yR3c?oc=5",
+      "source": "Kerala Kaumudi",
+      "category": "general",
+      "published_at": "2026-10-14T18:01:47+00:00",
+      "importance": 3,
+      "personal_score": 3.25,
+      "entities": [
+        "മാസപ്പടിയിൽ",
+        "ഡിയുടെ",
+        "നിർണായക",
+        "നീക്കം",
+        "പിണറായിക്കും",
+        "മുഹമ്മദ്",
+        "റിയാസിനുമെതിരെ",
+        "കേസെടുത്തു",
+        "Kerala Kaumudi"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
+      "id": "730589e9d5313065",
+      "title": "'അനുമതിയില്ലാതെ എൻ്റെ പേര് ഉപയോഗിച്ചു': വേൾഡ് ടി20 കോണ്ടിനന്റ് കപ്പ് സംഘാടകർക്കെതിരെ നിയമ നടപടിയെന്ന് ശിഖർ ധവാൻ | Shikhar Dhawan - Times Kerala",
+      "summary": "'അനുമതിയില്ലാതെ എൻ്റെ പേര് ഉപയോഗിച്ചു': വേൾഡ് ടി20 കോണ്ടിനന്റ് കപ്പ് സംഘാടകർക്കെതിരെ നിയമ നടപടിയെന്ന് ശിഖർ ധവാൻ | Shikhar Dhawan Times Kerala",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTndqNTRON0JWaVV2RHhaVjhhS1ZHR3FjdU40VHhraFg4UFlUQzA5UlZneDhlWEFTcnRFemVFWGRhNkgwY29MV1dvODBlSXRJX2QwZHNSc21xcVEzR2ZjRjN6dVZOU1ktYXdXaWxaNEdJcmRXS1JsOGRXMDZyMmx5NnhPODRObUlrZ2w4MFJ1M18zeGhSYlNVNU5tclZjcDJIQzd3Q2Jja3Y2d1RiTVpfYjdfWWpKOWhV?oc=5",
+      "source": "Times Kerala",
+      "category": "general",
+      "published_at": "2026-10-14T10:50:52+00:00",
+      "importance": 3,
+      "personal_score": 3.25,
+      "entities": [
+        "അനുമതിയില്ലാതെ",
+        "എൻ്റെ",
+        "പേര്",
+        "ഉപയോഗിച്ചു",
+        "വേൾഡ്",
+        "കോണ്ടിനന്റ്",
+        "കപ്പ്",
+        "സംഘാടകർക്കെതിരെ",
+        "നിയമ",
+        "നടപടിയെന്ന്",
+        "ശിഖർ",
+        "ധവാൻ"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
       "id": "f47bcabe188176bf",
       "title": "ഫ്ലൈദുബായ് സംഭവം; പാകിസ്താനടക്കമുള്ള 31 രാജ്യങ്ങളിലെ ജീവനക്കാർ വിമാനത്തിൽ ഉണ്ടാകരുതെന്ന് ഇസ്രായേൽ, സമ്മതമറിയിച്ച് എയർ ഫ്രാൻസ് - Samayam Malayalam",
       "summary": "ഫ്ലൈദുബായ് സംഭവം; പാകിസ്താനടക്കമുള്ള 31 രാജ്യങ്ങളിലെ ജീവനക്കാർ വിമാനത്തിൽ ഉണ്ടാകരുതെന്ന് ഇസ്രായേൽ, സമ്മതമറിയിച്ച് എയർ ഫ്രാൻസ് Samayam Malayalam",
@@ -490,32 +514,6 @@
       "summary_method": "rss_fallback"
     },
     {
-      "id": "8d1782dabbccf48c",
-      "title": "Kerala Blasters FC: തന്ത്രം മാറ്റി കേരള ബ്ലാസ്റ്റേഴ്സ്, നോർത്ത് ഈസ്റ്റിനെ വീഴ്ത്താൻ മാസ്റ്റർപ്ലാൻ ഇതാ, ലൂണയെ ക്യാപ്റ്റനാക്കി കൊമ്പന്മാരിറങ്ങും - Samayam Malayalam",
-      "summary": "Kerala Blasters FC: തന്ത്രം മാറ്റി കേരള ബ്ലാസ്റ്റേഴ്സ്, നോർത്ത് ഈസ്റ്റിനെ വീഴ്ത്താൻ മാസ്റ്റർപ്ലാൻ ഇതാ, ലൂണയെ ക്യാപ്റ്റനാക്കി കൊമ്പന്മാരിറങ്ങും Samayam Malayalam",
-      "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxOSFBnVHQ3Tm0xNlp4Z1VyLVVLQzZIZEtRSHUzNkliVVNZQnZYR3M1S3VjNFo0NEwzOFE5al9WRUhTOW4zZkdrUDhhMUNzRk5TSWJ6RTJxU0xwT2hEUTcta3A2emwyRFZDOU9GRmRfalBXajg2TUhmRTF4TmE5ZnNvR05faUlkNzQySmV6eVBHUlRKb1ROMkYtUXd3ZndEcE1GZXA3MTBCRFptY1I5NFhpakhtVjQxSnV1ZTVrS2cwU0RMdS1zZTM3NE1adkg4LW1WUURrZl9KTGVreFRkS1dzNy01TG5aQVVQLVpLVDNrVnZVaHhtUkw0ZnpNaWN4TjI1YVNDOVNaT2NSTGRBTUZrb3RCTzAxMFV1WWNKYXpGdjJkMHV0c09TRFB3Zl9QLXNTZWk2TVM0OA?oc=5",
-      "source": "Samayam Malayalam",
-      "category": "general",
-      "published_at": "2026-10-14T10:28:42+00:00",
-      "importance": 3,
-      "personal_score": 3.25,
-      "entities": [
-        "തന്ത്രം",
-        "മാറ്റി",
-        "കേരള",
-        "ബ്ലാസ്റ്റേഴ്സ്",
-        "നോർത്ത്",
-        "ഈസ്റ്റിനെ",
-        "വീഴ്ത്താൻ",
-        "മാസ്റ്റർപ്ലാൻ",
-        "ഇതാ",
-        "ലൂണയെ",
-        "ക്യാപ്റ്റനാക്കി",
-        "കൊമ്പന്മാരിറങ്ങും"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
       "id": "d96e91513ce28796",
       "title": "അങ്കിത ഭണ്ഡാരി കേസ്: ഇന്ത്യ ഗേറ്റില്‍ രാഹുല്‍ ഗാന്ധിയുടെയും പ്രിയങ്ക ഗാന്ധിയുടെയും നേതൃത്വത്തില്‍ മിന്നല്‍ പ്രതിഷേധം - ChandrikaDaily",
       "summary": "അങ്കിത ഭണ്ഡാരി കേസ്: ഇന്ത്യ ഗേറ്റില്‍ രാഹുല്‍ ഗാന്ധിയുടെയും പ്രിയങ്ക ഗാന്ധിയുടെയും നേതൃത്വത്തില്‍ മിന്നല്‍ പ്രതിഷേധം ChandrikaDaily",
@@ -538,6 +536,32 @@
         "മിന്നല്",
         "പ്രതിഷേധം",
         "ChandrikaDaily"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
+      "id": "7515f7066d8b3b73",
+      "title": "ദേശീയ പതാകയുമായി എത്തണം; വെള്ളിയാഴ്ച വൈകീട്ട് അഞ്ചിന് ഡല്‍ഹിയില്‍ പ്രതിഷേധം പ്രഖ്യാപിച്ച് സിജെപി - Samakalika Malayalam",
+      "summary": "ദേശീയ പതാകയുമായി എത്തണം; വെള്ളിയാഴ്ച വൈകീട്ട് അഞ്ചിന് ഡല്‍ഹിയില്‍ പ്രതിഷേധം പ്രഖ്യാപിച്ച് സിജെപി Samakalika Malayalam",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPeTZ5VkN1VVhGUHhRLURielNyV2NjWG1PaXBIWlZKa0VzRUFvRjhpTkJsUnBUOHFzbnBLQVJyNm9fRGQ5OVdUX0FJTTNldlJ2Z2JiZXlQN2FLWGVGNnU2b2ltdnRST1dXb3FSRGl0UGh3OHZGcXA2eElJWkVTeF9IVnlvUnRQWEpsNEk4SjA5ZEdpbU8xaEFOTHBpYVAyYUllbE9fUnNnVlZOWUFiSFVNRUFhSmVtNEgwRnhfNFF5Z9IBzAFBVV95cUxPT0R4Tkk5WVBzeFVxY1JPaW42VHRIX1hoaUFhM256OGhVUGRQWGp6Ylo2OWd2MDZHRDk4M1ZQS1VrYU9Jc3BJbXZmQjJuN1lYTGNrSDhQel9fUXNRaF93T1cwd2RabDQxdkE0b3BuaWJoVTBjUEJwUmNsY2lxbFVqTHpsbS0tR1NoR2MxNUZMZVJLbWUtTUVyUkl3aGtJSi1RdWZFV3hteDByamhaYW83Z0J3SWRGNHhJLTJaTzMyOWRMWS1NSVdMRndhUGM?oc=5",
+      "source": "Samakalika Malayalam",
+      "category": "general",
+      "published_at": "2026-10-14T14:38:21+00:00",
+      "importance": 3,
+      "personal_score": 3.25,
+      "entities": [
+        "ദേശീയ",
+        "പതാകയുമായി",
+        "എത്തണം",
+        "വെള്ളിയാഴ്ച",
+        "വൈകീട്ട്",
+        "അഞ്ചിന്",
+        "ഡല്",
+        "ഹിയില്",
+        "പ്രതിഷേധം",
+        "പ്രഖ്യാപിച്ച്",
+        "സിജെപി",
+        "Samakalika Malayalam"
       ],
       "summary_method": "rss_fallback"
     },
@@ -591,75 +615,53 @@
       "summary_method": "rss_fallback"
     },
     {
-      "id": "730589e9d5313065",
-      "title": "'അനുമതിയില്ലാതെ എൻ്റെ പേര് ഉപയോഗിച്ചു': വേൾഡ് ടി20 കോണ്ടിനന്റ് കപ്പ് സംഘാടകർക്കെതിരെ നിയമ നടപടിയെന്ന് ശിഖർ ധവാൻ | Shikhar Dhawan - Times Kerala",
-      "summary": "'അനുമതിയില്ലാതെ എൻ്റെ പേര് ഉപയോഗിച്ചു': വേൾഡ് ടി20 കോണ്ടിനന്റ് കപ്പ് സംഘാടകർക്കെതിരെ നിയമ നടപടിയെന്ന് ശിഖർ ധവാൻ | Shikhar Dhawan Times Kerala",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTndqNTRON0JWaVV2RHhaVjhhS1ZHR3FjdU40VHhraFg4UFlUQzA5UlZneDhlWEFTcnRFemVFWGRhNkgwY29MV1dvODBlSXRJX2QwZHNSc21xcVEzR2ZjRjN6dVZOU1ktYXdXaWxaNEdJcmRXS1JsOGRXMDZyMmx5NnhPODRObUlrZ2w4MFJ1M18zeGhSYlNVNU5tclZjcDJIQzd3Q2Jja3Y2d1RiTVpfYjdfWWpKOWhV?oc=5",
-      "source": "Times Kerala",
-      "category": "general",
-      "published_at": "2026-10-14T10:50:52+00:00",
-      "importance": 3,
-      "personal_score": 3.25,
-      "entities": [
-        "അനുമതിയില്ലാതെ",
-        "എൻ്റെ",
-        "പേര്",
-        "ഉപയോഗിച്ചു",
-        "വേൾഡ്",
-        "കോണ്ടിനന്റ്",
-        "കപ്പ്",
-        "സംഘാടകർക്കെതിരെ",
-        "നിയമ",
-        "നടപടിയെന്ന്",
-        "ശിഖർ",
-        "ധവാൻ"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
-      "id": "285763a5ba059241",
-      "title": "ഇന്ദിരാഗാന്ധി ഔട്ട്! കേന്ദ്രത്തിന്റെ നാല് സാമൂഹിക സുരക്ഷാ പദ്ധതികള്‍ക്ക് പുതിയ പേര് - News18 Malayalam",
-      "summary": "ഇന്ദിരാഗാന്ധി ഔട്ട്! കേന്ദ്രത്തിന്റെ നാല് സാമൂഹിക സുരക്ഷാ പദ്ധതികള്‍ക്ക് പുതിയ പേര് News18 Malayalam",
-      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNTWItcjhpQmppeXB4UDJmTXJHVGRydktUb0M3bm1ySUtlb1RyM01jNzRtWkJiMG0yQ3hKZlZvS1VhR1d4LVVic0NMQ3Njd0ZvSDFDcFI2WU84d1didUJoMEN2Q2tWckdzWW52dlhrWFJyY0pQX0hTMng2dzM3QzYyb3liVm1RT1l1RW03NzgyYkFWaEVpcVVBanhDckdhWHl2ZnVINmwxbVdUYzZFQWNtTlZvRElzQnlEWnNqLXg5Zks5UVh4UzlHUllCMVAtWm5HYXhRcmlXUXl2eWdUZFVyTkxPWDB5MUZjVXRidHkyOTZzVHN6Q1BYVkl6czV2VVRy?oc=5",
-      "source": "News18 Malayalam",
-      "category": "general",
-      "published_at": "2026-10-14T16:02:47+00:00",
-      "importance": 3,
-      "personal_score": 3.25,
-      "entities": [
-        "ഇന്ദിരാഗാന്ധി",
-        "ഔട്ട്",
-        "കേന്ദ്രത്തിന്റെ",
-        "നാല്",
-        "സാമൂഹിക",
-        "സുരക്ഷാ",
-        "പദ്ധതികള്",
-        "ക്ക്",
-        "പുതിയ",
-        "പേര്",
-        "News18 Malayalam"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
-      "id": "4c62f5da5d578bbc",
-      "title": "വോൾവോയുടെ പുതിയ ആഡംബര ഇവി ഇന്ത്യയിൽ; എന്താണ് പ്രത്യേകത? - Asianet News Malayalam",
-      "summary": "വോൾവോയുടെ പുതിയ ആഡംബര ഇവി ഇന്ത്യയിൽ; എന്താണ് പ്രത്യേകത? Asianet News Malayalam",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSEdRM2ppUVowVWh1R2laRWJpcnM3MkI5SWI0Y2ZNMWlXSEhYSHhvQ2FoM2FmZldjdzhLU1gtRm95MnhzZVlrMEVfWW1JREg5TkY1N3QyQzRJMEtoX2hVTVF5MGRybWNfZ2VDWXRxcThCOE80aHJOWG1wT1F3MVRENGNsNGdiRE5oYWczNk5sMmxVLXVETVJZMzloRXF0dENDZWfSAacBQVVfeXFMTWc0UklXbTY2V3JPOHlnYnlJSjg0V0p4THQzRFpOUGh2TTVHUW82aXhRSVFkaWtZaE1FV0tTSGoxUGNYWHNaMl85eF9VVTVfMWR2cFl2R2Q3MFpRSFFENzAzTHZzcXljTHQ4WG1fUGFWUmpORFlETkhOWk1BbWxXTmtuRy1vbG5sd1JTcXlDZmVnNmdFYlNhTGJEdVBSUnRBOXNySWxjTjA?oc=5",
+      "id": "cc19e82a855b89dd",
+      "title": "സഞ്ജുവിന്‍റെ വെടിക്കെട്ട് ഫിഫ്റ്റി പാഴായി, നാലാം ടി20യില്‍ വിന്‍ഡീസിനെതിരെ അടിതെറ്റി ഇന്ത്യ, തോല്‍വി 24 റണ്‍സിന് - Asianet News Malayalam",
+      "summary": "സഞ്ജുവിന്‍റെ വെടിക്കെട്ട് ഫിഫ്റ്റി പാഴായി, നാലാം ടി20യില്‍ വിന്‍ഡീസിനെതിരെ അടിതെറ്റി ഇന്ത്യ, തോല്‍വി 24 റണ്‍സിന് Asianet News Malayalam ഇന്ത്യ അവസാനം ഇവിടെ കളിച്ചപ്പോൾ സഞ്ജു സെഞ്ചറിയടിച്ചു; കരുത്തർക്കെതിരെ നിർണായക പോരാട്ടം, ബോളിങ്ങിൽ ആശങ്ക Manorama Online ഇന്ത്യ-വിൻഡീസ് ടി20-യുടെ സൗജന്യ പാസുകൾ 6,000 രൂപയ്ക്ക് വിറ്റു; HCA അംഗം ഉൾപ്പെടെ നാല് പേർ അറസ്റ്റിൽ Mathrubhumi",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOQnQ2a09JRFExUjdlNG40emJpNTN0ZTlkb0tlaDZEemRkSmdTcUhuQklJX1BuaTJGeU5KOUp6ZC0xd0Y5RktYZEVPSkdybl80VnVCbFRTcjVXMEVtN3gzTk90cTR0Yjh2TThjMU04WUtpclNGVk1MS1p5b1N1RU42M3lMdkdPNkpjRXdjSGhLa0dsamwwNGhOUG1CTzRaU2oxeThMZkE4TGRoZlhveEEtVU9RZmFzdGZEeG9iTGhacjhVVDNXWUxROEVFV09NMWNyaFdaeEFJSzdJaHNIUTFOR2VXbTQyeXpWRzVfN0xiLUlFLUFIZXfSAfsBQVVfeXFMTk00cXNOYl9uSmVTMEVTZ05mRXMtb0RleDJaXzBwZGZGQjctWVpxbzduN0o0aHNfRUNtM3I4OHRtSjA0RHI5LUxZQUhnd25Lc200M3FtY3RsUmFQN18tT05YXzBRWGllMEl5QnVkOHhweXhDQml2VC1kbDdtYkJkVzNyT2RaT2p3RXBzMUdRel9ERVFpWnRWQ0pVWHZyOWR1NGhoQ3piaWRHRmV4eEZmaXRaS25xTUxoYjRKSTdrU01FcmYyazZDM3FJdkZnQ3NtblZwWTQ2N0REOFpxOW01U1k5Q0REcEdmdVloMkVuYTRHZVFfMXBGNEw5aHc?oc=5",
       "source": "Asianet News Malayalam",
       "category": "general",
-      "published_at": "2026-10-14T11:10:43+00:00",
+      "published_at": "2026-10-14T17:42:54+00:00",
       "importance": 3,
       "personal_score": 3.25,
       "entities": [
-        "വോൾവോയുടെ",
-        "പുതിയ",
-        "ആഡംബര",
-        "ഇവി",
-        "ഇന്ത്യയിൽ",
-        "എന്താണ്",
-        "പ്രത്യേകത",
-        "Asianet News Malayalam"
+        "സഞ്ജുവിന്",
+        "വെടിക്കെട്ട്",
+        "ഫിഫ്റ്റി",
+        "പാഴായി",
+        "നാലാം",
+        "യില്",
+        "വിന്",
+        "ഡീസിനെതിരെ",
+        "അടിതെറ്റി",
+        "ഇന്ത്യ",
+        "തോല്",
+        "റണ്"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
+      "id": "1b02a6850b6747a9",
+      "title": "കൊടുങ്ങല്ലൂരിലെ 18കാരന്റെ മരണം; പൊലീസിനെതിരെ ​ഗുരുതര ആരോപണം | Thrissur | Kerala Police - Asianet News Malayalam",
+      "summary": "കൊടുങ്ങല്ലൂരിലെ 18കാരന്റെ മരണം; പൊലീസിനെതിരെ ​ഗുരുതര ആരോപണം | Thrissur | Kerala Police Asianet News Malayalam",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNT04xbGlvaE41eXZ4Y05xT3k1NHFXNEdWNThaeVcteEQ0NGdheDdzdlNfOWliRUV5ei1yb2twblJTWlNDUldBZGIyZkhrYTFjUnFQSDltSFZKbmZmQmhzYWJYR1NqM0dwbUMwbTV1d0lRcS02TWRfVHdSSEZyU3VUekFqQTRIVzhyb3BJZ2hhcDVCSTBFX3lqZE9BOUNLSkRmSXdTdVE2bTJNbW0tVjhHVdIBtgFBVV95cUxNdDhzbkY3eTY3RTM3ZW12NzZUYjkwZ2haTy0tWHY0emxHWEk4NEpnYmtJSjdyVGNBVmhRNEFSSUJfcGVUOGtNVHpNUTQybVAtenRlUlg2MEphLVUwWmhKczhqd19obDdaR0RxYXJFVTRpam9GNDljR0VvWF9ueHN1clZ0dkR6dVNtQTMydndHX21Kc09XZjFDM2xRZEtyT0w1b2gyZFNxWkdRanlHSUg4aU9KbktNZw?oc=5",
+      "source": "Asianet News Malayalam",
+      "category": "general",
+      "published_at": "2026-10-14T14:49:22+00:00",
+      "importance": 3,
+      "personal_score": 3.25,
+      "entities": [
+        "കൊടുങ്ങല്ലൂരിലെ",
+        "കാരന്റെ",
+        "മരണം",
+        "പൊലീസിനെതിരെ",
+        "ഗുരുതര",
+        "ആരോപണം",
+        "Thrissur",
+        "Kerala Police",
+        "Asianet News Malayalam",
+        "Kerala Police Asianet News",
+        "Malayalam"
       ],
       "summary_method": "rss_fallback"
     },
@@ -687,72 +689,112 @@
       "summary_method": "rss_fallback"
     },
     {
-      "id": "e1d9fc2ee9a7b53e",
-      "title": "Kerala Weatherupdate : സംസ്ഥാനത്ത് മഴ കനക്കും ; 4 ജില്ലകളിൽ ഓറഞ്ച് അലർട്ട് - News18 Malayalam",
-      "summary": "Kerala Weatherupdate : സംസ്ഥാനത്ത് മഴ കനക്കും ; 4 ജില്ലകളിൽ ഓറഞ്ച് അലർട്ട് News18 Malayalam",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOODZGQmtQLWdLM2NiZWlZbjhUQnVsNzMxMGJVdjJiR2puRkI5TTg2VWRSNmd1QVRfQnpTYjlGWFlYeUdLU3lwYlJaaVdZblRxQWNlVXlKSmtua0ZmdWRBUFB5dUl4eTgyXzIzNENpNHUxV19GbktGSWVpdk4tYW5BWVBLOVFUeVZXRERZb0o3TG9sS0lvYm9hYTlUYmpzeFoxQWg5T3hnRWdMOTVkank2cWd6OTdYZE51YUtuU1E5WjNQUWY0eXc?oc=5",
-      "source": "News18 Malayalam",
+      "id": "edde2d37bee60377",
+      "title": "ജർമ്മനിയിൽ തീപിടിത്തം; 3 മലയാളി വിദ്യാർത്ഥികൾക്ക് ദാരുണാന്ത്യം  അഞ്ചുപേർക്ക് പരിക്ക്  സംഭവത്തിൽ 41കാരൻ അറസ്റ്റിൽ - Kerala Kaumudi",
+      "summary": "ജർമ്മനിയിൽ തീപിടിത്തം; 3 മലയാളി വിദ്യാർത്ഥികൾക്ക് ദാരുണാന്ത്യം  അഞ്ചുപേർക്ക് പരിക്ക്  സംഭവത്തിൽ 41കാരൻ അറസ്റ്റിൽ Kerala Kaumudi",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBHclFMMkpFY0hnREQ0dnZLb2N3TWIwUXh4T19ybUVVd0FZXy04YlJUMUMwZjhFQ3IwQUhVTlVFX3ZudFljdHJHVWFYYkhoWWt4bEVOdkFsZ09FdG42c0VQUlJ2WHo?oc=5",
+      "source": "Kerala Kaumudi",
       "category": "general",
-      "published_at": "2026-10-14T09:36:23+00:00",
+      "published_at": "2026-10-14T21:15:07+00:00",
       "importance": 3,
       "personal_score": 3.25,
       "entities": [
-        "സംസ്ഥാനത്ത്",
-        "കനക്കും",
-        "ജില്ലകളിൽ",
-        "ഓറഞ്ച്",
-        "അലർട്ട്",
-        "Kerala Weatherupdate",
-        "News18 Malayalam Kerala Weatherupdate",
-        "News18 Malayalam"
+        "ജർമ്മനിയിൽ",
+        "തീപിടിത്തം",
+        "മലയാളി",
+        "വിദ്യാർത്ഥികൾക്ക്",
+        "ദാരുണാന്ത്യം",
+        "അഞ്ചുപേർക്ക്",
+        "പരിക്ക്",
+        "സംഭവത്തിൽ",
+        "കാരൻ",
+        "അറസ്റ്റിൽ",
+        "Kerala Kaumudi"
       ],
       "summary_method": "rss_fallback"
     },
     {
-      "id": "cc19e82a855b89dd",
-      "title": "സഞ്ജുവിന്‍റെ വെടിക്കെട്ട് ഫിഫ്റ്റി പാഴായി, നാലാം ടി20യില്‍ വിന്‍ഡീസിനെതിരെ അടിതെറ്റി ഇന്ത്യ, തോല്‍വി 24 റണ്‍സിന് - Asianet News Malayalam",
-      "summary": "സഞ്ജുവിന്‍റെ വെടിക്കെട്ട് ഫിഫ്റ്റി പാഴായി, നാലാം ടി20യില്‍ വിന്‍ഡീസിനെതിരെ അടിതെറ്റി ഇന്ത്യ, തോല്‍വി 24 റണ്‍സിന് Asianet News Malayalam സഞ്ജു സാംസൺ 23 പന്തിൽ 56, കീമോ പോളിന് അഞ്ച് വിക്കറ്റ്, നാലാം ട്വന്റി20യിൽ ഇന്ത്യയ്ക്കു തോൽവി Manorama Online കീമോ പോളിന് അഞ്ചുവിക്കറ്റ്, ഇന്ത്യക്ക് തോൽവി; പരമ്പരയിൽ ഒപ്പമെത്തി വിൻഡീസ് Mathrubhumi",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOQnQ2a09JRFExUjdlNG40emJpNTN0ZTlkb0tlaDZEemRkSmdTcUhuQklJX1BuaTJGeU5KOUp6ZC0xd0Y5RktYZEVPSkdybl80VnVCbFRTcjVXMEVtN3gzTk90cTR0Yjh2TThjMU04WUtpclNGVk1MS1p5b1N1RU42M3lMdkdPNkpjRXdjSGhLa0dsamwwNGhOUG1CTzRaU2oxeThMZkE4TGRoZlhveEEtVU9RZmFzdGZEeG9iTGhacjhVVDNXWUxROEVFV09NMWNyaFdaeEFJSzdJaHNIUTFOR2VXbTQyeXpWRzVfN0xiLUlFLUFIZXfSAfsBQVVfeXFMTk00cXNOYl9uSmVTMEVTZ05mRXMtb0RleDJaXzBwZGZGQjctWVpxbzduN0o0aHNfRUNtM3I4OHRtSjA0RHI5LUxZQUhnd25Lc200M3FtY3RsUmFQN18tT05YXzBRWGllMEl5QnVkOHhweXhDQml2VC1kbDdtYkJkVzNyT2RaT2p3RXBzMUdRel9ERVFpWnRWQ0pVWHZyOWR1NGhoQ3piaWRHRmV4eEZmaXRaS25xTUxoYjRKSTdrU01FcmYyazZDM3FJdkZnQ3NtblZwWTQ2N0REOFpxOW01U1k5Q0REcEdmdVloMkVuYTRHZVFfMXBGNEw5aHc?oc=5",
-      "source": "Asianet News Malayalam",
+      "id": "817112c3bc83ef6a",
+      "title": "പാകിസ്ഥാനിൽ ട്രെയിൻ പാളം തെറ്റി 6 മരണം - NEWS 360 - WORLD - Kerala Kaumudi",
+      "summary": "പാകിസ്ഥാനിൽ ട്രെയിൻ പാളം തെറ്റി 6 മരണം - NEWS 360 - WORLD Kerala Kaumudi",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE56TDhSSTB2S2VxNFU2OHVLMjBHLW4yMjI3XzBLZDUtUlBzUEFuRzhJYmNfbWhxaHpJVjdfUDdqeldQLUota2lZXzV4OTg5T1pQd0pFeHg0X3FBV0Y5d25WT2lNY2M?oc=5",
+      "source": "Kerala Kaumudi",
       "category": "general",
-      "published_at": "2026-10-14T17:42:54+00:00",
+      "published_at": "2026-10-14T19:45:19+00:00",
       "importance": 3,
       "personal_score": 3.25,
       "entities": [
-        "സഞ്ജുവിന്",
-        "വെടിക്കെട്ട്",
-        "ഫിഫ്റ്റി",
-        "പാഴായി",
-        "നാലാം",
-        "യില്",
-        "വിന്",
-        "ഡീസിനെതിരെ",
-        "അടിതെറ്റി",
-        "ഇന്ത്യ",
-        "തോല്",
-        "റണ്"
+        "പാകിസ്ഥാനിൽ",
+        "ട്രെയിൻ",
+        "പാളം",
+        "തെറ്റി",
+        "മരണം",
+        "Kerala Kaumudi",
+        "WORLD Kerala Kaumudi"
       ],
       "summary_method": "rss_fallback"
     },
     {
-      "id": "adcf0312bf1d5596",
-      "title": "വിന്‍ഡീസിനെതിരെ നാലാം ടി20: ഇന്ത്യക്ക് ടോസ്, ലക്ഷ്യം പരമ്പര - Asianet News Malayalam",
-      "summary": "വിന്‍ഡീസിനെതിരെ നാലാം ടി20: ഇന്ത്യക്ക് ടോസ്, ലക്ഷ്യം പരമ്പര Asianet News Malayalam",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcEZCZkpoSWo2QXJUcEFIamh1YjMzR001TkFiYTB3ZW1rdkp3bkhMTng1QWFiZ2RvbW9wZFhYMFVFTFRwUl9vbnNPbDhJdThqc04zVDBHdGFkeE54bjEtb05NSnRIYVo1N21HYlJjbG1vMjg4TjJKa2ZQWm54Q0dxMHJMaGFsV0dRX1pJcTBzdVZ3YmFUR3J2RjFuTDBjS1RSSThtempCdHdxUdIBrwFBVV95cUxOWUY5ZXBDa2hCVnlVakZ1cllwYnhLMWd6Skx6bi1xUU41RTlxY3FYLXg5ME5hUWhndTduN09FYllpblMwSmc4UEdlbnR2ZFBCQkI4Z0lrMzUxZHpPTnlmQVNYT25vamdLTTlkR2FHUlhqZW5WSTIyZXRmWnI5LU8ycHpodW44d3pRZE1EY2dfRTFQemlleGNMMFU0ZUN1STZnbTdma0x6SjBXVDlWZE53?oc=5",
-      "source": "Asianet News Malayalam",
+      "id": "ad5591c368958a20",
+      "title": "ക്യാൻസർ: മാർപാപ്പ സുഖം പ്രാപിക്കുന്നു - NEWS 360 - WORLD - Kerala Kaumudi",
+      "summary": "ക്യാൻസർ: മാർപാപ്പ സുഖം പ്രാപിക്കുന്നു - NEWS 360 - WORLD Kerala Kaumudi",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9wYmp1eExqYkN1MFBpUFFfNnFmNWNFamIwQU8xcmZVV3VGX2l1QmJicFo1NEdBYUNQanpaQmVXNE05QUhFa2dYMnhETm5Dc3hDdUJwQXRibGVWZUYxcjZudFZhcl8?oc=5",
+      "source": "Kerala Kaumudi",
       "category": "general",
-      "published_at": "2026-10-14T13:09:28+00:00",
+      "published_at": "2026-10-14T20:36:51+00:00",
       "importance": 3,
       "personal_score": 3.25,
       "entities": [
-        "വിന്",
-        "ഡീസിനെതിരെ",
-        "നാലാം",
-        "ഇന്ത്യക്ക്",
-        "ടോസ്",
-        "ലക്ഷ്യം",
-        "പരമ്പര",
-        "Asianet News Malayalam"
+        "ക്യാൻസർ",
+        "മാർപാപ്പ",
+        "സുഖം",
+        "പ്രാപിക്കുന്നു",
+        "Kerala Kaumudi",
+        "WORLD Kerala Kaumudi"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
+      "id": "e9e5848575211f3d",
+      "title": "വ്യാജ വാർത്ത പ്രചരിപ്പിച്ചു: ചൈനയിൽ 73കാരൻ അറസ്റ്റിൽ - NEWS 360 - WORLD - Kerala Kaumudi",
+      "summary": "വ്യാജ വാർത്ത പ്രചരിപ്പിച്ചു: ചൈനയിൽ 73കാരൻ അറസ്റ്റിൽ - NEWS 360 - WORLD Kerala Kaumudi",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1RQjh5eHlqVGRONVIwaFpaYlFXZG44TU1sMW1iQWNUNzlqdlAxc1VmSmJqTmZjV0d2RF9mZUp4LTdHanFzOXhrblZBaHNLdlRXUlNtdkVtT3ppZ1RySnhPeXE3MmM?oc=5",
+      "source": "Kerala Kaumudi",
+      "category": "general",
+      "published_at": "2026-10-14T18:20:20+00:00",
+      "importance": 3,
+      "personal_score": 3.25,
+      "entities": [
+        "വ്യാജ",
+        "വാർത്ത",
+        "പ്രചരിപ്പിച്ചു",
+        "ചൈനയിൽ",
+        "കാരൻ",
+        "അറസ്റ്റിൽ",
+        "Kerala Kaumudi",
+        "WORLD Kerala Kaumudi"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
+      "id": "0802d0ec5b034d70",
+      "title": "ഓപ്പൺ എ.ഐയിൽ ചാരപ്പണി: സൗദി പൗരൻ അറസ്റ്റിൽ - NEWS 360 - WORLD - Kerala Kaumudi",
+      "summary": "ഓപ്പൺ എ.ഐയിൽ ചാരപ്പണി: സൗദി പൗരൻ അറസ്റ്റിൽ - NEWS 360 - WORLD Kerala Kaumudi",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB1Wi1HSDV6SzJBb2pCWXR2aHpZRTRLVjQzdW9oQURiOWtpTGFjN0NVYzQzRGdHZ0k4MFpOUTZlZzBRektSbVBaOF9QQ2djRzlkN05EbHh2Y3c5RXdqMkdlTDRUSUY?oc=5",
+      "source": "Kerala Kaumudi",
+      "category": "general",
+      "published_at": "2026-10-14T20:37:17+00:00",
+      "importance": 3,
+      "personal_score": 3.25,
+      "entities": [
+        "ഓപ്പൺ",
+        "ഐയിൽ",
+        "ചാരപ്പണി",
+        "സൗദി",
+        "പൗരൻ",
+        "അറസ്റ്റിൽ",
+        "Kerala Kaumudi",
+        "WORLD Kerala Kaumudi"
       ],
       "summary_method": "rss_fallback"
     },
@@ -822,6 +864,30 @@
       "summary_method": "rss_fallback"
     },
     {
+      "id": "fb0d4d575f6f0465",
+      "title": "Kerala Goldrate : സ്വർണവില ഇന്നും ഇടിഞ്ഞു; പവന് ഒരു ലക്ഷത്തോട് അടുക്കുമോ ? - News18 Malayalam",
+      "summary": "Kerala Goldrate : സ്വർണവില ഇന്നും ഇടിഞ്ഞു; പവന് ഒരു ലക്ഷത്തോട് അടുക്കുമോ ? News18 Malayalam",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOV1B5ZmQ2VFdIWGp0UVF2WUczUDRiN0lKUmFYRGp0b0VzNDY3R1lORWctVzJ4ZHQ5SGZjNW5rby1HX3JVbEdVSUJhMHJBYTNLNUJoX1hYX19hUjVFRVdpUlN4TkFGQWxYV1BCQXpmdnkybTdVTDh6bnVhTlZpX3EzVDdMbnNfcWNGeDl6T2VJVDdRdjUxc1NweG0xYVVEWlNKVHYyV3lCQkwzN196dHJULWlJd0VJR1NBVkE?oc=5",
+      "source": "News18 Malayalam",
+      "category": "general",
+      "published_at": "2026-10-14T05:28:44+00:00",
+      "importance": 2,
+      "personal_score": 2.25,
+      "entities": [
+        "സ്വർണവില",
+        "ഇന്നും",
+        "ഇടിഞ്ഞു",
+        "പവന്",
+        "ഒരു",
+        "ലക്ഷത്തോട്",
+        "അടുക്കുമോ",
+        "Kerala Goldrate",
+        "News18 Malayalam Kerala Goldrate",
+        "News18 Malayalam"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
       "id": "1b0abd5ec05b626d",
       "title": "11-ാം നിലയിൽനിന്ന് ചാടി; താഴെയുണ്ടായിരുന്ന 23കാരി മരിച്ചു, യുവാവിനെതിരെ കൊലക്കുറ്റം ചുമത്തണമെന്ന് ആവശ്യം - Kerala Kaumudi",
       "summary": "11-ാം നിലയിൽനിന്ന് ചാടി; താഴെയുണ്ടായിരുന്ന 23കാരി മരിച്ചു, യുവാവിനെതിരെ കൊലക്കുറ്റം ചുമത്തണമെന്ന് ആവശ്യം Kerala Kaumudi",
@@ -872,73 +938,28 @@
       "summary_method": "rss_fallback"
     },
     {
-      "id": "960a3fd26d266635",
-      "title": "ആൾക്കൂട്ട കൊലപാതകം; വീട്ടുമുറ്റത്ത് ഉറങ്ങിയതിൽ വൈരാഗ്യം, യുവാവിന് സംസാരശേഷി ഇല്ലായിരുന്നെന്ന് സംശയം - Kerala Kaumudi",
-      "summary": "ആൾക്കൂട്ട കൊലപാതകം; വീട്ടുമുറ്റത്ത് ഉറങ്ങിയതിൽ വൈരാഗ്യം, യുവാവിന് സംസാരശേഷി ഇല്ലായിരുന്നെന്ന് സംശയം Kerala Kaumudi",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeFVsMjl3aWFxcUFuV2tTN0ZUYV9qaEhkVFJNYXJWeWo3dmpSRnFUWGxDMDRvRTIzVzVhMnFoT2tXZG01Zl9iQ3BLdFFZZ244dlZVaXBxbWhYWHU2X0FGd3B5LS1HZVlXVlZlWEdmcjR5UXoyUXZCR1U5OHdXNkF1VHVyLTRUak5Da2pfYkQ3MDByaUlkR1lSc2lpRExaak5mSTFkaGs0UjQ4NzBYZHh0MERLY0RrYUFfMEl3WVVTZjg?oc=5",
-      "source": "Kerala Kaumudi",
+      "id": "8d1782dabbccf48c",
+      "title": "Kerala Blasters FC: തന്ത്രം മാറ്റി കേരള ബ്ലാസ്റ്റേഴ്സ്, നോർത്ത് ഈസ്റ്റിനെ വീഴ്ത്താൻ മാസ്റ്റർപ്ലാൻ ഇതാ, ലൂണയെ ക്യാപ്റ്റനാക്കി കൊമ്പന്മാരിറങ്ങും - Samayam Malayalam",
+      "summary": "Kerala Blasters FC: തന്ത്രം മാറ്റി കേരള ബ്ലാസ്റ്റേഴ്സ്, നോർത്ത് ഈസ്റ്റിനെ വീഴ്ത്താൻ മാസ്റ്റർപ്ലാൻ ഇതാ, ലൂണയെ ക്യാപ്റ്റനാക്കി കൊമ്പന്മാരിറങ്ങും Samayam Malayalam",
+      "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxOSFBnVHQ3Tm0xNlp4Z1VyLVVLQzZIZEtRSHUzNkliVVNZQnZYR3M1S3VjNFo0NEwzOFE5al9WRUhTOW4zZkdrUDhhMUNzRk5TSWJ6RTJxU0xwT2hEUTcta3A2emwyRFZDOU9GRmRfalBXajg2TUhmRTF4TmE5ZnNvR05faUlkNzQySmV6eVBHUlRKb1ROMkYtUXd3ZndEcE1GZXA3MTBCRFptY1I5NFhpakhtVjQxSnV1ZTVrS2cwU0RMdS1zZTM3NE1adkg4LW1WUURrZl9KTGVreFRkS1dzNy01TG5aQVVQLVpLVDNrVnZVaHhtUkw0ZnpNaWN4TjI1YVNDOVNaT2NSTGRBTUZrb3RCTzAxMFV1WWNKYXpGdjJkMHV0c09TRFB3Zl9QLXNTZWk2TVM0OA?oc=5",
+      "source": "Samayam Malayalam",
       "category": "general",
-      "published_at": "2026-10-14T02:29:55+00:00",
+      "published_at": "2026-10-14T10:28:42+00:00",
       "importance": 2,
       "personal_score": 2.25,
       "entities": [
-        "ആൾക്കൂട്ട",
-        "കൊലപാതകം",
-        "വീട്ടുമുറ്റത്ത്",
-        "ഉറങ്ങിയതിൽ",
-        "വൈരാഗ്യം",
-        "യുവാവിന്",
-        "സംസാരശേഷി",
-        "ഇല്ലായിരുന്നെന്ന്",
-        "സംശയം",
-        "Kerala Kaumudi"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
-      "id": "2387ca8776055a54",
-      "title": "സഞ്ചാരികളുടെ സ്വകാര്യവസ്‌തുക്കൾ മണത്തുനോക്കി പരിശോധിച്ചു; പാക്‌ പൊലീസിനെ പരിഹസിച്ച് സോഷ്യൽ മീഡിയ - Kerala Kaumudi",
-      "summary": "സഞ്ചാരികളുടെ സ്വകാര്യവസ്‌തുക്കൾ മണത്തുനോക്കി പരിശോധിച്ചു; പാക്‌ പൊലീസിനെ പരിഹസിച്ച് സോഷ്യൽ മീഡിയ Kerala Kaumudi",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRWx2d2FITHY4aURCc2RPUWx0LWo4YWVqSTFoSkxkeG9xQmUyd0s1X0xmNWtNSlBiYVBlZ0xSNkJiRnc4ZHNURFVkMlEtY2ZDaXlENWt2Q3hoSENLbnBtOU4tdnBLMEdrdUg2UlNhZjVJS0FFS1daZDRxUUZyVFQweDU3dlJPQlFhN1lRN0h6b2dWM0gtSW9icmpDbUlOdW5scUxCeVhOZFRaWUU?oc=5",
-      "source": "Kerala Kaumudi",
-      "category": "general",
-      "published_at": "2026-10-13T10:29:19+00:00",
-      "importance": 2,
-      "personal_score": 2.25,
-      "entities": [
-        "സഞ്ചാരികളുടെ",
-        "സ്വകാര്യവസ്",
-        "തുക്കൾ",
-        "മണത്തുനോക്കി",
-        "പരിശോധിച്ചു",
-        "പാക്",
-        "പൊലീസിനെ",
-        "പരിഹസിച്ച്",
-        "സോഷ്യൽ",
-        "മീഡിയ",
-        "Kerala Kaumudi"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
-      "id": "d0ca898d33c5610c",
-      "title": "15 വർഷത്തിനിടെ 7 ദുരൂഹ മരണം: കൂടത്തിൽ കേസിൽ കാര്യസ്ഥൻ അറസ്റ്റിൽ - Kerala Kaumudi",
-      "summary": "15 വർഷത്തിനിടെ 7 ദുരൂഹ മരണം: കൂടത്തിൽ കേസിൽ കാര്യസ്ഥൻ അറസ്റ്റിൽ Kerala Kaumudi",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1sTnRPWnY2c1kyaEQ2b3A0N3c5NDZTZ1RmcjRNeHhsREtWOGU1TGFoV01mLUpMbFhJSTFTTERUakFBMGx4bjFsRlVXOUx2dGcyYjJlVE9QU3ByU0pDWTkw?oc=5",
-      "source": "Kerala Kaumudi",
-      "category": "general",
-      "published_at": "2026-10-13T18:48:00+00:00",
-      "importance": 2,
-      "personal_score": 2.25,
-      "entities": [
-        "വർഷത്തിനിടെ",
-        "ദുരൂഹ",
-        "മരണം",
-        "കൂടത്തിൽ",
-        "കേസിൽ",
-        "കാര്യസ്ഥൻ",
-        "അറസ്റ്റിൽ",
-        "Kerala Kaumudi"
+        "തന്ത്രം",
+        "മാറ്റി",
+        "കേരള",
+        "ബ്ലാസ്റ്റേഴ്സ്",
+        "നോർത്ത്",
+        "ഈസ്റ്റിനെ",
+        "വീഴ്ത്താൻ",
+        "മാസ്റ്റർപ്ലാൻ",
+        "ഇതാ",
+        "ലൂണയെ",
+        "ക്യാപ്റ്റനാക്കി",
+        "കൊമ്പന്മാരിറങ്ങും"
       ],
       "summary_method": "rss_fallback"
     },
@@ -969,21 +990,20 @@
       "summary_method": "rss_fallback"
     },
     {
-      "id": "817112c3bc83ef6a",
-      "title": "പാകിസ്ഥാനിൽ ട്രെയിൻ പാളം തെറ്റി 6 മരണം - NEWS 360 - WORLD - Kerala Kaumudi",
-      "summary": "പാകിസ്ഥാനിൽ ട്രെയിൻ പാളം തെറ്റി 6 മരണം - NEWS 360 - WORLD Kerala Kaumudi",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE56TDhSSTB2S2VxNFU2OHVLMjBHLW4yMjI3XzBLZDUtUlBzUEFuRzhJYmNfbWhxaHpJVjdfUDdqeldQLUota2lZXzV4OTg5T1pQd0pFeHg0X3FBV0Y5d25WT2lNY2M?oc=5",
+      "id": "3ed6ef59502a502f",
+      "title": "അമേരിക്കൻ നടൻ ആ‌ർ.ജെ മിറ്റി ജീവനൊടുക്കി - NEWS 360 - WORLD - Kerala Kaumudi",
+      "summary": "അമേരിക്കൻ നടൻ ആ‌ർ.ജെ മിറ്റി ജീവനൊടുക്കി - NEWS 360 - WORLD Kerala Kaumudi",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5pWWZXQ0l1blN1aFkzRlpCRm1xajEwcVBFR0ZiMjRxbGFVSGJIQXE5TjRUTFlvR0E3U3Y2bXdTTklkUEFpLUpEdTd2SmVBUUxnTWxVMjFJdWo2S0JJWWMweEs3SGI?oc=5",
       "source": "Kerala Kaumudi",
       "category": "general",
-      "published_at": "2026-10-14T02:31:35+00:00",
+      "published_at": "2026-10-14T02:34:49+00:00",
       "importance": 2,
       "personal_score": 2.25,
       "entities": [
-        "പാകിസ്ഥാനിൽ",
-        "ട്രെയിൻ",
-        "പാളം",
-        "തെറ്റി",
-        "മരണം",
+        "അമേരിക്കൻ",
+        "നടൻ",
+        "മിറ്റി",
+        "ജീവനൊടുക്കി",
         "Kerala Kaumudi",
         "WORLD Kerala Kaumudi"
       ],
@@ -1004,28 +1024,6 @@
         "ദുബായ്",
         "രണ്ട്",
         "പൈലറ്റുമാർ",
-        "അറസ്റ്റിൽ",
-        "Kerala Kaumudi",
-        "WORLD Kerala Kaumudi"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
-      "id": "e9e5848575211f3d",
-      "title": "വ്യാജ വാർത്ത പ്രചരിപ്പിച്ചു: ചൈനയിൽ 73കാരൻ അറസ്റ്റിൽ - NEWS 360 - WORLD - Kerala Kaumudi",
-      "summary": "വ്യാജ വാർത്ത പ്രചരിപ്പിച്ചു: ചൈനയിൽ 73കാരൻ അറസ്റ്റിൽ - NEWS 360 - WORLD Kerala Kaumudi",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1RQjh5eHlqVGRONVIwaFpaYlFXZG44TU1sMW1iQWNUNzlqdlAxc1VmSmJqTmZjV0d2RF9mZUp4LTdHanFzOXhrblZBaHNLdlRXUlNtdkVtT3ppZ1RySnhPeXE3MmM?oc=5",
-      "source": "Kerala Kaumudi",
-      "category": "general",
-      "published_at": "2026-10-13T21:33:50+00:00",
-      "importance": 2,
-      "personal_score": 2.25,
-      "entities": [
-        "വ്യാജ",
-        "വാർത്ത",
-        "പ്രചരിപ്പിച്ചു",
-        "ചൈനയിൽ",
-        "കാരൻ",
         "അറസ്റ്റിൽ",
         "Kerala Kaumudi",
         "WORLD Kerala Kaumudi"
@@ -1092,22 +1090,27 @@
       "summary_method": "rss_fallback"
     },
     {
-      "id": "a7823bad8534f7ad",
-      "title": "Keralam govt sanctions compensation for Muthanga police torture victim KK Surendran - The News Minute",
-      "summary": "Keralam govt sanctions compensation for Muthanga police torture victim KK Surendran The News Minute",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTmxqT3lPZEJHNXB6dVFzVEQ4WHR1LXk1MEFoWXUxd1RtSnJacjl0YkdieGdiUVlaUG50NC1VU0FIWFE0Y0pRS3NHLURzOTFJUzdiUGpEeng2UWJZenQ4N1ZMZ1AxUTEybTdRM1Q1b3VaSDM5ZVQ2QktuT3J4b1E4ZGdLdVhOeS1EOWZhUW1nSlFYdy1qWWdIcnYxQ0t3bXRxWFlROWZhYllyZlhGTWU4ampmYmtqRHAwZFc3dNIBygFBVV95cUxOcU9PVWZNMEladWVvcVF4SmVjbnJlem14YXQ3bnRyZmVFT2dsX1BXV0VvTk5nLW1SbVA1V0NjMmUtYUJLNWtnMHhSTFZFT3NpcGFTMjdjVkdYRHR6dmxnM2ZfVUNqYlJSamZIQkZZQnk0cnlhdTF1WFhUQ010R3I3ZVhVdjF0VHZCdnVHNlJzRlN4LV9tOWU3UnNlbzl5N3lYbGJOemxBekJOTnJiT3l5MFZOM215NHpkZElvaExPWlV6UUZmZ2tYdTRB?oc=5",
-      "source": "The News Minute",
+      "id": "2387ca8776055a54",
+      "title": "സഞ്ചാരികളുടെ സ്വകാര്യവസ്‌തുക്കൾ മണത്തുനോക്കി പരിശോധിച്ചു; പാക്‌ പൊലീസിനെ പരിഹസിച്ച് സോഷ്യൽ മീഡിയ - Kerala Kaumudi",
+      "summary": "സഞ്ചാരികളുടെ സ്വകാര്യവസ്‌തുക്കൾ മണത്തുനോക്കി പരിശോധിച്ചു; പാക്‌ പൊലീസിനെ പരിഹസിച്ച് സോഷ്യൽ മീഡിയ Kerala Kaumudi",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRWx2d2FITHY4aURCc2RPUWx0LWo4YWVqSTFoSkxkeG9xQmUyd0s1X0xmNWtNSlBiYVBlZ0xSNkJiRnc4ZHNURFVkMlEtY2ZDaXlENWt2Q3hoSENLbnBtOU4tdnBLMEdrdUg2UlNhZjVJS0FFS1daZDRxUUZyVFQweDU3dlJPQlFhN1lRN0h6b2dWM0gtSW9icmpDbUlOdW5scUxCeVhOZFRaWUU?oc=5",
+      "source": "Kerala Kaumudi",
       "category": "general",
-      "published_at": "2026-10-12T05:24:18+00:00",
+      "published_at": "2026-10-13T10:29:19+00:00",
       "importance": 1,
       "personal_score": 1.25,
       "entities": [
-        "Keralam",
-        "Muthanga",
-        "KK Surendran",
-        "The News Minute Keralam",
-        "KK Surendran The News",
-        "Minute"
+        "സഞ്ചാരികളുടെ",
+        "സ്വകാര്യവസ്",
+        "തുക്കൾ",
+        "മണത്തുനോക്കി",
+        "പരിശോധിച്ചു",
+        "പാക്",
+        "പൊലീസിനെ",
+        "പരിഹസിച്ച്",
+        "സോഷ്യൽ",
+        "മീഡിയ",
+        "Kerala Kaumudi"
       ],
       "summary_method": "rss_fallback"
     },
@@ -1134,25 +1137,23 @@
       "summary_method": "rss_fallback"
     },
     {
-      "id": "b096bdbc664dff55",
-      "title": "ബലൂചിസ്ഥാനിൽ പാക് സൈനിക വിമാനം തകർന്നുവീണു,​ രണ്ട് പൈലറ്റുമാർക്ക് ദാരുണാന്ത്യം - Kerala Kaumudi",
-      "summary": "ബലൂചിസ്ഥാനിൽ പാക് സൈനിക വിമാനം തകർന്നുവീണു,​ രണ്ട് പൈലറ്റുമാർക്ക് ദാരുണാന്ത്യം Kerala Kaumudi",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTDhuZWdBcEtPY0ZyWVJQX2tIOTZpZ3FlQVJoR2x2ZGk2UE9CRHRTdVdsUnM2WlNMamo3SlVUVkpKa1dkZXNwZGY0TllmSEc4NjVUR3lDMVdHbGp5WXdjYnd3RTVlRUZYZ21kUkwzMERkM2ZnZFkzUGdLeGctall0UjhueXR6N2x1MjhoVGE5ay1jZGIyODVPSU1mY0RHRzhpRk56cFVVb251QVc4akJF?oc=5",
+      "id": "fd7a0c6db812466d",
+      "title": "അമേലിയ എയർഹാർട്ടിനെ തേടി യു.എസ് അന്വേഷണം - NEWS 360 - WORLD - Kerala Kaumudi",
+      "summary": "അമേലിയ എയർഹാർട്ടിനെ തേടി യു.എസ് അന്വേഷണം - NEWS 360 - WORLD Kerala Kaumudi",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5FUE5aVWQ1OFlMbmNHaWx1SjJETnhLbmkzLWk0dzQ3TXBfOC1uN2NSU0IyMDhyV295amlCNF9VRmdDSFcxeVBwTUp2TlVJczBKSEk5TnFxQkZPU0dkYzNGMlRaLXc?oc=5",
       "source": "Kerala Kaumudi",
       "category": "general",
-      "published_at": "2026-10-12T14:22:01+00:00",
+      "published_at": "2026-10-13T02:27:27+00:00",
       "importance": 1,
       "personal_score": 1.25,
       "entities": [
-        "ബലൂചിസ്ഥാനിൽ",
-        "പാക്",
-        "സൈനിക",
-        "വിമാനം",
-        "തകർന്നുവീണു",
-        "രണ്ട്",
-        "പൈലറ്റുമാർക്ക്",
-        "ദാരുണാന്ത്യം",
-        "Kerala Kaumudi"
+        "അമേലിയ",
+        "എയർഹാർട്ടിനെ",
+        "തേടി",
+        "എസ്",
+        "അന്വേഷണം",
+        "Kerala Kaumudi",
+        "WORLD Kerala Kaumudi"
       ],
       "summary_method": "rss_fallback"
     },
@@ -1256,26 +1257,6 @@
       "summary_method": "rss_fallback"
     },
     {
-      "id": "3fa96bae46f75ce5",
-      "title": "Broadcom CEO Delivers Stark Warning on Artificial Intelligence - TradingView",
-      "summary": "Broadcom CEO Delivers Stark Warning on Artificial Intelligence TradingView",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRlp6YmlIWmY1Zk4zWDMwYV80QTBzSk55cnItMkxNOWlYT1dLZV9iZ1lQRG5rblB6d0RjbG5ud1J3cjUwUFExaU9LdjAwTWNWZFZKc1VaNFBpY1hhR0QweFRtZUlRUm9ON0hQal9ra2FmNFpuYlI2SjlkMnFvUnJycUZUZ1NhX2w5OXZyTk5DeEF1ZDVxZk9zejk5bG9leEtibFBCS3RZQk1mY3dXY016VW5uZ0ViWTBZNWxxa0N2cw?oc=5",
-      "source": "TradingView",
-      "category": "tech",
-      "published_at": "2026-10-14T12:38:59+00:00",
-      "importance": 10,
-      "personal_score": 10.0,
-      "entities": [
-        "Broadcom CEO Delivers Stark",
-        "Warning",
-        "Artificial Intelligence",
-        "TradingView Broadcom CEO Delivers",
-        "Stark Warning",
-        "Artificial Intelligence TradingView"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
       "id": "8e5a20898bd49954",
       "title": "OpenAI's CFO warned businesses that Chinese AI models pose cybersecurity risks - Quartz",
       "summary": "OpenAI's CFO warned businesses that Chinese AI models pose cybersecurity risks Quartz",
@@ -1312,24 +1293,20 @@
       "summary_method": "rss_fallback"
     },
     {
-      "id": "9b61d8bf7ed8e8ef",
-      "title": "Medical Care Technologies Inc. (OTCID:MDCE) Converts AI Development Into First Paid Software Contract - Newswire.com",
-      "summary": "Medical Care Technologies Inc. (OTCID:MDCE) Converts AI Development Into First Paid Software Contract Newswire.com",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaXhUUXNoQjRvanNTSW5Ic0s5dzlXRngzd2Z0X2U5Vjg3NzA4TnpjVlZ3U193X0VGTDVTV0V0ZkxqWmJzSm5qbjE3eFpzREV5cjhyZ3Jnc1ZrVGdSX20wZVVMYkZaWkZvZjd0UDRaVUcyeUNTR0t6UmE1Sk1DZ0tpWXIzdDlHVW9rc185SldJSlVnTnJvQy1nY21mYlhtVTB6SmttMnNxZU4?oc=5",
-      "source": "Newswire.com",
+      "id": "192043c94821ec13",
+      "title": "When vehicles become software, Volvo’s engineering challenge goes beyond code - Express Computer",
+      "summary": "When vehicles become software, Volvo’s engineering challenge goes beyond code Express Computer",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdVB2czgzQWZoYkxIUjc5UEc4OHdQRUxlc2tQZ0pFM1VvaURFcUxacllIYy1md0toWnoyZmVHamR0U3VMWUJGT2RsTTlCa01ia2hLaURWZkZ2WDFXYnFTY1hwZFZ1QkFYY3drX1p0MFVuWXduVWFkeE1iLXJjNTRNNUQ3LTQ4LVA2bWhmYUJQVXNTaU03ank4V3A1VVVTVDc2SUxLSm0taVY2RXZ4RUdMY2JZTUZZLUhQaVJyN3VuNVo1RXM?oc=5",
+      "source": "Express Computer",
       "category": "tech",
-      "published_at": "2026-10-14T12:50:00+00:00",
+      "published_at": "2026-10-14T11:59:53+00:00",
       "importance": 8,
       "personal_score": 8.0,
       "entities": [
-        "Medical Care Technologies Inc",
-        "OTCID",
-        "MDCE",
-        "Converts AI Development Into",
-        "First Paid Software Contract",
-        "Newswire.com Medical Care Technologies",
-        "Inc",
-        "Newswire.com"
+        "When",
+        "Volvo",
+        "Express Computer When",
+        "Express Computer"
       ],
       "summary_method": "rss_fallback"
     },
@@ -1394,18 +1371,40 @@
       "summary_method": "rss_fallback"
     },
     {
-      "id": "836ac9bdebc5b3c3",
-      "title": "The value of software is approaching $0 - InfoWorld",
-      "summary": "The value of software is approaching $0 InfoWorld",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbXJ5VVVuOUI0eWw3WWZkVERmaXYtRW1iWFhRTERHOFNmc1VUa0NrZkFQX192aTBkSUcyWVlFd1VSWGxxbUhhdUVidkhyOVd1VW5Pb05zM1preWplanJuVUtKTkJkcE5pTThfTWhXcG9tVk14aktXT3VaTnp5NXpIZmdod2lkMkdZUXVyOEgyRG15Zw?oc=5",
-      "source": "InfoWorld",
+      "id": "974452b6e54df7fb",
+      "title": "Software development and rules stability: Prototype racing in 2030 - Ars Technica",
+      "summary": "Software development and rules stability: Prototype racing in 2030 Ars Technica",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObU13Y1NQT1p3MmdNNVdZNHhRYzJaWHFVU2hOT1lmVzB6eUM1akIxbG5TaDYxTGduNWh6dW8zeGlQbkpKa2xXdlVqbUNJVkU3allJZkRpUDFNYXhHWUVvNU9jQnpvdjVDY3pPRzVqMFo5VTBod2wzRDBXX2hGYmRkYXk4Y2FjeWU0ZHZ2MktGUWVHanlPY1A3SEw5dXd5b3BiV2tYRkln?oc=5",
+      "source": "Ars Technica",
       "category": "tech",
-      "published_at": "2026-10-14T09:02:23+00:00",
+      "published_at": "2026-10-14T19:44:26+00:00",
       "importance": 8,
       "personal_score": 8.0,
       "entities": [
-        "InfoWorld The",
-        "InfoWorld"
+        "Software",
+        "Prototype",
+        "Ars Technica Software",
+        "Ars Technica"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
+      "id": "6712baf8f16e3118",
+      "title": "How SolarWinds Used An AI Agent To 5x Its Software Engineering Output - Forbes",
+      "summary": "How SolarWinds Used An AI Agent To 5x Its Software Engineering Output Forbes",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMkN1ZEI2UVdhU3ZxemR4UW5lTjNFWDVUdEhPenRXQlB3NVBmZVltU0ZfTlhBNkU4c2dFeDBmWV9GVFdveExmOTRGR1I0WnBGV2lpNFJEX2JzRUtyakt4V3BGTzJ3aGhhNE5Nb1Vkelp3T2dhQS0ydmdXeFFHZkFTUnBiLVp6ZUg1T0x4UVMzOXRDaU5BaWNvSHdHdHdPcHFWcXdyNzZCUUpiNkNUUFVqbkdNNHBEM3FVOFBV?oc=5",
+      "source": "Forbes",
+      "category": "tech",
+      "published_at": "2026-10-14T19:39:31+00:00",
+      "importance": 8,
+      "personal_score": 8.0,
+      "entities": [
+        "How SolarWinds Used An",
+        "AI Agent To",
+        "Its Software Engineering Output",
+        "Forbes How SolarWinds Used",
+        "An AI Agent To",
+        "Forbes"
       ],
       "summary_method": "rss_fallback"
     },
@@ -1427,6 +1426,28 @@
         "VibeCon",
         "And AI-Powered Software Development",
         "Pulse"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
+      "id": "492d1fbe329b01fc",
+      "title": "Cognizant Named a Leader in the 2026 Gartner® Magic Quadrant™ for Custom Software Development Services - Cognizant Technology Solutions",
+      "summary": "Cognizant Named a Leader in the 2026 Gartner® Magic Quadrant™ for Custom Software Development Services Cognizant Technology Solutions",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQYzFRSXAwaXFkMlVneDZRSXdyeGVFbGxOdElyOHhXVzRGRXlSOE1aN0hWekVTdmtfVjhJLVgyNk1VRWl6NDV3VEN1MUE5UDE5ZGVXOTFfaHNzWlRRLWFYSkxvSEhNN0tsWXZGZlh6cWF0UFY3Y2FsQk9uNnl0Z2d1ajFEUk5sV0NqdUFjdk80aUIwZDV3Z1kzMld4V3pLRm9ucVRfZUNUdFVVUzR2N2IydXM4X3ZENzRsSU1sUUpXWkJ6MEZ0MERzOUpGcFhIWnktaUV5ZlJVWjdnb2c?oc=5",
+      "source": "Cognizant Technology Solutions",
+      "category": "tech",
+      "published_at": "2026-10-14T17:02:17+00:00",
+      "importance": 8,
+      "personal_score": 8.0,
+      "entities": [
+        "Cognizant Named",
+        "Leader",
+        "Gartner",
+        "Magic Quadrant",
+        "Custom Software Development Services",
+        "Cognizant Technology Solutions Cognizant",
+        "Named",
+        "Cognizant Technology Solutions"
       ],
       "summary_method": "rss_fallback"
     },
@@ -1467,43 +1488,6 @@
       "summary_method": "rss_fallback"
     },
     {
-      "id": "16b71c961681c3b4",
-      "title": "Finlogixx Unveils Next-Generation Software Development Initiatives for 2026 - USA Today",
-      "summary": "Finlogixx Unveils Next-Generation Software Development Initiatives for 2026 USA Today",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNXy1YMWR5cTVGU3I5ZmxMNTV4dWhMVkxvQVVBUW1jZDdTaFBaTVBBanZLWVpVZWdUQ3FfcWtPMUZVaTZlRGZtc2JRM3BycExtSG81QnlHMlVFVTJLeHFfSW04UGhLTGl0V3lMRWdVU29uc1F0NjFabjBZandDa1ViajFaUy1Dd0hsS1lmU3BjZG9UZFowQ2Y3Y0R2RlN2amZYVUFvUUJUYUFIQmp0NU1xN0NlTktYRlBPN1VUazVYa2VpMkh1NVE?oc=5",
-      "source": "USA Today",
-      "category": "tech",
-      "published_at": "2026-10-14T16:38:52+00:00",
-      "importance": 8,
-      "personal_score": 8.0,
-      "entities": [
-        "Finlogixx Unveils Next-Generation Software",
-        "Development Initiatives",
-        "USA Today Finlogixx Unveils",
-        "Next-Generation Software Development Initiatives",
-        "USA Today"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
-      "id": "8c453b45ae256175",
-      "title": "TechCrunch Disrupt: What’s next for AI and software development - InfoWorld",
-      "summary": "TechCrunch Disrupt: What’s next for AI and software development InfoWorld",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPaXA3S2V5NHByVm9pWC1JYjZNbVY1aXdXWWdGUW12eXhqV3BaclVEWVFWZ0h3cUVjRHJ3b01aNngzcVpJaThBQno1WDc2SUlpODN5cFJrV3hpMWtkWjlaTjd3YjRDdGMxSko3dlhEbTlfVkFZckxUSkt1M1lKSlRvMFI3eW5tNkVKM0wzQWRsUzM0eHE3NXFLRkMtWFdILVRuRnZsQ0VGR2QxU2Rz?oc=5",
-      "source": "InfoWorld",
-      "category": "tech",
-      "published_at": "2026-10-14T09:03:49+00:00",
-      "importance": 8,
-      "personal_score": 8.0,
-      "entities": [
-        "TechCrunch Disrupt",
-        "What",
-        "InfoWorld TechCrunch Disrupt",
-        "InfoWorld"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
       "id": "776b5520402e1ab6",
       "title": "Open Source Software Security Concerns with Spike Curtis - DevOps.com",
       "summary": "Open Source Software Security Concerns with Spike Curtis DevOps.com",
@@ -1538,6 +1522,42 @@
         "AI-powered",
         "The Times",
         "India Anthropic"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
+      "id": "16b71c961681c3b4",
+      "title": "Finlogixx Unveils Next-Generation Software Development Initiatives for 2026 - USA Today",
+      "summary": "Finlogixx Unveils Next-Generation Software Development Initiatives for 2026 USA Today",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNXy1YMWR5cTVGU3I5ZmxMNTV4dWhMVkxvQVVBUW1jZDdTaFBaTVBBanZLWVpVZWdUQ3FfcWtPMUZVaTZlRGZtc2JRM3BycExtSG81QnlHMlVFVTJLeHFfSW04UGhLTGl0V3lMRWdVU29uc1F0NjFabjBZandDa1ViajFaUy1Dd0hsS1lmU3BjZG9UZFowQ2Y3Y0R2RlN2amZYVUFvUUJUYUFIQmp0NU1xN0NlTktYRlBPN1VUazVYa2VpMkh1NVE?oc=5",
+      "source": "USA Today",
+      "category": "tech",
+      "published_at": "2026-10-14T16:38:52+00:00",
+      "importance": 8,
+      "personal_score": 8.0,
+      "entities": [
+        "Finlogixx Unveils Next-Generation Software",
+        "Development Initiatives",
+        "USA Today Finlogixx Unveils",
+        "Next-Generation Software Development Initiatives",
+        "USA Today"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
+      "id": "13778f00c735624d",
+      "title": "Mission adopts policy for artificial intelligence usage in city business - MyRGV.com",
+      "summary": "Mission adopts policy for artificial intelligence usage in city business MyRGV.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbFhaZTBOYVE1bDZLa05VekJCbEJJeFVhUmpETnprMzdTbkhUUXMtbklQTnRzQWVqNEdVYUMtWk5SR2xuMnJwcHF4UmlVNWFWYUVWUktTaXZOYTFxcUxSUS1yNGU0U3JuUkpaNWNva1c4dlhaVjc4b1ozUlp2aWlldkpkQlFXd2h3ZE1PRXZnV2tyMnBtNjYwR29pX3N6MTBldV91SFlhV1JjYWFRRUFhR010VQ?oc=5",
+      "source": "MyRGV.com",
+      "category": "tech",
+      "published_at": "2026-10-14T22:05:00+00:00",
+      "importance": 8,
+      "personal_score": 8.0,
+      "entities": [
+        "Mission",
+        "MyRGV.com Mission",
+        "MyRGV.com"
       ],
       "summary_method": "rss_fallback"
     },
@@ -1599,6 +1619,22 @@
       "summary_method": "rss_fallback"
     },
     {
+      "id": "836ac9bdebc5b3c3",
+      "title": "The value of software is approaching $0 - InfoWorld",
+      "summary": "The value of software is approaching $0 InfoWorld",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbXJ5VVVuOUI0eWw3WWZkVERmaXYtRW1iWFhRTERHOFNmc1VUa0NrZkFQX192aTBkSUcyWVlFd1VSWGxxbUhhdUVidkhyOVd1VW5Pb05zM1preWplanJuVUtKTkJkcE5pTThfTWhXcG9tVk14aktXT3VaTnp5NXpIZmdod2lkMkdZUXVyOEgyRG15Zw?oc=5",
+      "source": "InfoWorld",
+      "category": "tech",
+      "published_at": "2026-10-14T09:02:23+00:00",
+      "importance": 7,
+      "personal_score": 7.0,
+      "entities": [
+        "InfoWorld The",
+        "InfoWorld"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
       "id": "44adcce549d798b8",
       "title": "Over ₹134 crore spent on proprietary software at premier institutes, says open source collective - The Hindu",
       "summary": "Over ₹134 crore spent on proprietary software at premier institutes, says open source collective The Hindu",
@@ -1616,19 +1652,20 @@
       "summary_method": "rss_fallback"
     },
     {
-      "id": "1884efa2e61f601d",
-      "title": "McKinsey sees AI boosting jobs like software development - IT Brew",
-      "summary": "McKinsey sees AI boosting jobs like software development IT Brew",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWHgwd2lScG5VbW1jdnA3ZXpUcjFxWXJJd0UwcWJGbkJEVHlyby05UTRHTjRsMXFBNkhNSWhwZUVHejVlOF9IdGZFaHBFUHMyaHNmZ2hWZmpyRzRJam4wYTRXZl9iMU1UR3V5cjZ5YWluUVhDUjlCQk9qaDZHaXJZY1RaOVJ2RzR3VWlRRTVOOTE?oc=5",
-      "source": "IT Brew",
+      "id": "8c453b45ae256175",
+      "title": "TechCrunch Disrupt: What’s next for AI and software development - InfoWorld",
+      "summary": "TechCrunch Disrupt: What’s next for AI and software development InfoWorld",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPaXA3S2V5NHByVm9pWC1JYjZNbVY1aXdXWWdGUW12eXhqV3BaclVEWVFWZ0h3cUVjRHJ3b01aNngzcVpJaThBQno1WDc2SUlpODN5cFJrV3hpMWtkWjlaTjd3YjRDdGMxSko3dlhEbTlfVkFZckxUSkt1M1lKSlRvMFI3eW5tNkVKM0wzQWRsUzM0eHE3NXFLRkMtWFdILVRuRnZsQ0VGR2QxU2Rz?oc=5",
+      "source": "InfoWorld",
       "category": "tech",
-      "published_at": "2026-10-13T17:44:29+00:00",
+      "published_at": "2026-10-14T09:03:49+00:00",
       "importance": 7,
       "personal_score": 7.0,
       "entities": [
-        "McKinsey",
-        "IT Brew McKinsey",
-        "IT Brew"
+        "TechCrunch Disrupt",
+        "What",
+        "InfoWorld TechCrunch Disrupt",
+        "InfoWorld"
       ],
       "summary_method": "rss_fallback"
     },
@@ -1691,23 +1728,6 @@
       "summary_method": "rss_fallback"
     },
     {
-      "id": "dd19d7371989771a",
-      "title": "Software engineering is making a comeback — but early-career workers are being left behind - Business Insider",
-      "summary": "Software engineering is making a comeback — but early-career workers are being left behind Business Insider",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQVRGQTNxak1FVTdNcEwtUmtpRnVuX3V1Ql9BVnJrUlV2ai1DNVBhV2dwYTh0R0xLamRXd2c4TzJrYW5tb0lFU3NvcGNWVTJzR0FuVUZkeldqNkRKNVdBSnpERGpfNGxvRkVNOUZYOUJudDgtUlBjczd3LXFOQkhzVzZNRHJqMlI5VWlUd21YS2xkbko5MlQ5OFIxczJ4b3VMSElfQTNLR2JaMHhf?oc=5",
-      "source": "Business Insider",
-      "category": "tech",
-      "published_at": "2026-08-24T07:00:00+00:00",
-      "importance": 6,
-      "personal_score": 6.0,
-      "entities": [
-        "Software",
-        "Business Insider Software",
-        "Business Insider"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
       "id": "2c62b343ef6cc53e",
       "title": "How did hackers overheat French supermarket fridges — and could we see more cyberattacks on the food system? - CBC",
       "summary": "How did hackers overheat French supermarket fridges — and could we see more cyberattacks on the food system? CBC",
@@ -1722,25 +1742,6 @@
         "French",
         "CBC How",
         "CBC"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
-      "id": "23a59acbf5f90ccf",
-      "title": "Google launches Gemini 4 Argon, targets complex coding, cybersecurity and scientific research - BusinessLine",
-      "summary": "Google launches Gemini 4 Argon, targets complex coding, cybersecurity and scientific research BusinessLine",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOanMyZXJXTHRCLUVrV19JSC05dEVYd3c1d2lYYkowRDR5QlJLcmFKWGhyUlNid3I5eXgwTVF3MXN6WmZhS0xST3VOaWx4YlBoTEkzQkJscmpDQkQ0NXFNSWtici1icDFCUHU1Yks1NWc1UGVLY0hQY1gtdkpEa0xzMHAzLTUzV1N0UFd6eHdZS3RYTVZsMWpIc2pfNHdvSkdBRDItOEp1amhvQUxXMXIyTndZZGVhMmFMWXdyVmJydnBza3ExcXFCVkxMNW9jZkRhbXFZVnhKVDRBTjlFYVlmT1AtQ3ktUndpU0VQUTl3b9IB9gFBVV95cUxQNExwV0gwSnZOTFJwREVQNjJSaGpzd2UxQ0hRUldIX25ZWDVPaHZWcXREZ3R2enJubzNMWTdmWmVQbTU3WVUtOUhDNUNVT25WTExRMGNuZmpQZFZRQWV4R3AwTGNRREZUUTVOOVc4Z0hsQk5xc1BIMWNZdXF2alVseDI2N2NYTXVOLTM5bUZCS01NVWh6MGh6bF9kZDF0cEt1aGJuZmljS3gxWlRHWEdDdmxySUw2ajVUazZIR290LWM5dUJma2ZEakFUVl9kdGppcURZeGI0TTZMZUlFMHREeXY0M2pOcUs2eTJVZ0VwSUEwZ0xjWmc?oc=5",
-      "source": "BusinessLine",
-      "category": "tech",
-      "published_at": "2026-10-14T05:19:09+00:00",
-      "importance": 6,
-      "personal_score": 6.0,
-      "entities": [
-        "Google",
-        "Gemini",
-        "Argon",
-        "BusinessLine Google",
-        "BusinessLine"
       ],
       "summary_method": "rss_fallback"
     },
@@ -1787,6 +1788,23 @@
       "summary_method": "rss_fallback"
     },
     {
+      "id": "02855dc0830d450f",
+      "title": "CraftifAI is using agentic AI to speed up software development for physical devices - YourStory.com",
+      "summary": "CraftifAI is using agentic AI to speed up software development for physical devices YourStory.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZ01kNWdFSktKbTdtZEc1VENFRFlCWjU1dWNsSHNqMlNoVGFUZE1rOUpjS3pPNE1aeHBzNXlSSXg1ZGk0M1BIanpKV3l6cG9USm02aXdEeEVCcmNyV0FKVjdSSmdBNm5MYWd6SzQxb0dYZUd2YWJpSE9TUHRJTS1vbnpUa3gzb0dLdllSOHB3elZfSjkwQkNQTmV4bw?oc=5",
+      "source": "YourStory.com",
+      "category": "tech",
+      "published_at": "2026-10-13T07:18:40+00:00",
+      "importance": 6,
+      "personal_score": 6.0,
+      "entities": [
+        "CraftifAI",
+        "YourStory.com CraftifAI",
+        "YourStory.com"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
       "id": "854887e70b5732fd",
       "title": "Margaret Hamilton, computing pioneer who led software development for the Apollo program, dies at 90 - MIT News",
       "summary": "Margaret Hamilton, computing pioneer who led software development for the Apollo program, dies at 90 MIT News",
@@ -1821,28 +1839,6 @@
       "summary_method": "rss_fallback"
     },
     {
-      "id": "c92c3528a8d33bf0",
-      "title": "LTM Collaborates with IBM and Red Hat on Lightwell to Advance AI-Driven Open-Source Software Remediation - IBM Newsroom",
-      "summary": "LTM Collaborates with IBM and Red Hat on Lightwell to Advance AI-Driven Open-Source Software Remediation IBM Newsroom",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOdDR1aHBjeVZPX1JBMnFGZGREMjMxSm81alFNU28zd3pQa0NtbmlJSkpJUG9XaHRibnEtQW1WWEpZa245UFRlclNaS19qOHh5V1pMQTYwN2h2NlVWVHJsakFOc1RUbXM3dVJYUzV2RnNsWEQ2ckx5MkQ3bkRsSncwMU5STkZRS1JpQ1RacjlKNmp3aGVpSWJsZkRHekVtZXd6eFExQUloRXlNM0kzN0JWS2VvcHdxa24xYmpGLUU4Y3RON3dtWFYwbmk5emNVYzlCTkdabTdZWQ?oc=5",
-      "source": "IBM Newsroom",
-      "category": "tech",
-      "published_at": "2026-09-09T07:00:00+00:00",
-      "importance": 6,
-      "personal_score": 6.0,
-      "entities": [
-        "LTM Collaborates",
-        "IBM",
-        "Red Hat",
-        "Lightwell",
-        "Advance AI-Driven Open-Source Software",
-        "Remediation",
-        "IBM Newsroom LTM Collaborates",
-        "Remediation IBM Newsroom"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
       "id": "372d448929eaaffe",
       "title": "Modern Software’s Hidden Cost: Managing Risk in the Open-Source Ecosystem - Hong Kong Computer Emergency Response Team Coordination Centre",
       "summary": "Modern Software’s Hidden Cost: Managing Risk in the Open-Source Ecosystem Hong Kong Computer Emergency Response Team Coordination Centre",
@@ -1862,6 +1858,28 @@
         "Open-Source Ecosystem Hong Kong",
         "Computer Emergency Response Team",
         "Coordination Centre"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
+      "id": "c92c3528a8d33bf0",
+      "title": "LTM Collaborates with IBM and Red Hat on Lightwell to Advance AI-Driven Open-Source Software Remediation - IBM Newsroom",
+      "summary": "LTM Collaborates with IBM and Red Hat on Lightwell to Advance AI-Driven Open-Source Software Remediation IBM Newsroom",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOdDR1aHBjeVZPX1JBMnFGZGREMjMxSm81alFNU28zd3pQa0NtbmlJSkpJUG9XaHRibnEtQW1WWEpZa245UFRlclNaS19qOHh5V1pMQTYwN2h2NlVWVHJsakFOc1RUbXM3dVJYUzV2RnNsWEQ2ckx5MkQ3bkRsSncwMU5STkZRS1JpQ1RacjlKNmp3aGVpSWJsZkRHekVtZXd6eFExQUloRXlNM0kzN0JWS2VvcHdxa24xYmpGLUU4Y3RON3dtWFYwbmk5emNVYzlCTkdabTdZWQ?oc=5",
+      "source": "IBM Newsroom",
+      "category": "tech",
+      "published_at": "2026-09-09T07:00:00+00:00",
+      "importance": 6,
+      "personal_score": 6.0,
+      "entities": [
+        "LTM Collaborates",
+        "IBM",
+        "Red Hat",
+        "Lightwell",
+        "Advance AI-Driven Open-Source Software",
+        "Remediation",
+        "IBM Newsroom LTM Collaborates",
+        "Remediation IBM Newsroom"
       ],
       "summary_method": "rss_fallback"
     },
@@ -1938,60 +1956,6 @@
       "summary_method": "rss_fallback"
     },
     {
-      "id": "809c2f638d0e1483",
-      "title": "Join Discerning AI: Exploring artificial intelligence through Marquette’s mission - Marquette Today",
-      "summary": "Join Discerning AI: Exploring artificial intelligence through Marquette’s mission Marquette Today",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYk1iX2MzblotazVsNWhPZTMybklfdGNwQ0d1UlF0eGs4djU2MmdhM2F3cjc5YjRDNER0el9OSThQSlphWU81V21oNEp1WDJiV1RVZS1Jek4zdXlaRXZ5V3RHWWoyYnNGczgwU3dqUEpNSUlQbmFuamhhUk42R1FuaVQ4cG53eWRQNkx6WHhJOTlhRmJmQ25IWUk5d1NWNDlNci10NGlDcEJQa2RIcWdpSmJBaGpkbU0?oc=5",
-      "source": "Marquette Today",
-      "category": "tech",
-      "published_at": "2026-10-14T15:48:02+00:00",
-      "importance": 6,
-      "personal_score": 6.0,
-      "entities": [
-        "Join Discerning AI",
-        "Exploring",
-        "Marquette",
-        "Marquette Today Join Discerning",
-        "Marquette Today"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
-      "id": "02855dc0830d450f",
-      "title": "CraftifAI is using agentic AI to speed up software development for physical devices - YourStory.com",
-      "summary": "CraftifAI is using agentic AI to speed up software development for physical devices YourStory.com",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZ01kNWdFSktKbTdtZEc1VENFRFlCWjU1dWNsSHNqMlNoVGFUZE1rOUpjS3pPNE1aeHBzNXlSSXg1ZGk0M1BIanpKV3l6cG9USm02aXdEeEVCcmNyV0FKVjdSSmdBNm5MYWd6SzQxb0dYZUd2YWJpSE9TUHRJTS1vbnpUa3gzb0dLdllSOHB3elZfSjkwQkNQTmV4bw?oc=5",
-      "source": "YourStory.com",
-      "category": "tech",
-      "published_at": "2026-10-13T07:18:40+00:00",
-      "importance": 6,
-      "personal_score": 6.0,
-      "entities": [
-        "CraftifAI",
-        "YourStory.com CraftifAI",
-        "YourStory.com"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
-      "id": "2e8e005448263c8f",
-      "title": "The Missing Architecture for Agentic Software Development - Bain",
-      "summary": "The Missing Architecture for Agentic Software Development Bain",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUVZNdnpwZXJoSF8xeXZCUDdJTHlTTW1laDIzWU1nLVNXRk9iVjZidWpiUnh5empjeFJTd1pGVG9QT3N1WWc2TjdTazE5d2RrYkZEeUVJd1Zfdk9IeEZTNmMzQmxFNnJsRnRnTVpkWHVDMUstNUdvOFd5OHB1WW1hUG5UMjlQZmVkRXlrNi1KY0JmUXREM1dTQkJPZnNqWmpfSVhEYlFGVkxlbzhQcFMzRg?oc=5",
-      "source": "Bain",
-      "category": "tech",
-      "published_at": "2026-09-29T07:00:00+00:00",
-      "importance": 6,
-      "personal_score": 6.0,
-      "entities": [
-        "The Missing Architecture",
-        "Agentic Software Development",
-        "Bain The Missing Architecture",
-        "Agentic Software Development Bain"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
       "id": "9545675d1b9eb745",
       "title": "ChatGPT-6 Explained: The Future of Artificial Intelligence - www.daily-sun.com",
       "summary": "ChatGPT-6 Explained: The Future of Artificial Intelligence www.daily-sun.com",
@@ -2009,61 +1973,39 @@
       "summary_method": "rss_fallback"
     },
     {
-      "id": "0388c0c9975df70e",
-      "title": "Food Lion, Stop & Shop and Hannaford websites face outages after cybersecurity issue - FOX 26 Houston",
-      "summary": "Food Lion, Stop & Shop and Hannaford websites face outages after cybersecurity issue FOX 26 Houston",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWUpGS2ZjNDQ1eWlkbnJEMWFyVm5obzI4WURUVmpCTkhfWmZTXzlmY3ZxUHJFay1yeHE4dTBOampVcDdDM1lSRU1WSXk5WFExSjhCVnJ0S1UxWTFJT3F2anIwT0hMUE5SZV9jdk5MdTc4amF6MGo3VjhHckU2MURBRzVKTWpHeEE3X1ctZDVqMW9WRUoycG93?oc=5",
-      "source": "FOX 26 Houston",
+      "id": "809c2f638d0e1483",
+      "title": "Join Discerning AI: Exploring artificial intelligence through Marquette’s mission - Marquette Today",
+      "summary": "Join Discerning AI: Exploring artificial intelligence through Marquette’s mission Marquette Today",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYk1iX2MzblotazVsNWhPZTMybklfdGNwQ0d1UlF0eGs4djU2MmdhM2F3cjc5YjRDNER0el9OSThQSlphWU81V21oNEp1WDJiV1RVZS1Jek4zdXlaRXZ5V3RHWWoyYnNGczgwU3dqUEpNSUlQbmFuamhhUk42R1FuaVQ4cG53eWRQNkx6WHhJOTlhRmJmQ25IWUk5d1NWNDlNci10NGlDcEJQa2RIcWdpSmJBaGpkbU0?oc=5",
+      "source": "Marquette Today",
       "category": "tech",
-      "published_at": "2026-10-14T14:47:43+00:00",
-      "importance": 5,
-      "personal_score": 5.0,
+      "published_at": "2026-10-14T18:31:35+00:00",
+      "importance": 6,
+      "personal_score": 6.0,
       "entities": [
-        "Food Lion",
-        "Stop",
-        "Shop",
-        "Hannaford",
-        "FOX",
-        "Houston Food Lion",
-        "Houston"
+        "Join Discerning AI",
+        "Exploring",
+        "Marquette",
+        "Marquette Today Join Discerning",
+        "Marquette Today"
       ],
       "summary_method": "rss_fallback"
     },
     {
-      "id": "0dde86a4748fc80a",
-      "title": "Cycurion relaunches as predictive cybersecurity firm By Investing.com - Investing.com India",
-      "summary": "Cycurion relaunches as predictive cybersecurity firm By Investing.com Investing.com India",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYjVhbFBLMFlfRnBTME85b0JvR3g0SXJ1b19JVE50Q1BaOGdVSi0wSFpVaVQ1V3pKWng3NlFpTk5JN3I2SzhzeVdGN1BJVVhmVGhYZVBCYk1wU0htR2tPV2VYSVAySFdXdkNQbTZWQmcteU82M0p4bVhfNWprT29RS2lHWlVUbnVLZGllVjM0VWRjTmJSdDRFeEVNVnNoT2JqOU0zNllRdXRwSkVfWlpzbW1yNA?oc=5",
-      "source": "Investing.com India",
+      "id": "3b9b81240ecabb89",
+      "title": "Cybersecurity workshop for micro, small and medium enterprises held in Bengaluru - The Hindu",
+      "summary": "Cybersecurity workshop for micro, small and medium enterprises held in Bengaluru The Hindu",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQSldRZnpEZllqS2VvSEo3cUNqUVd3cmwzMnBHb2s5NnZwYnVzODN5WVh4UUh5aTcyUzRNY0dfUk9lc3JwZ2VZMGpORUNmZDl4OTYwRnByNHRjdng0azFTTWUxcm9Nejl0eXhoQnN6bGI3dnMzZjdCTzVtZE5KU3hidUxPRmFlRnYtRUJ1cFVISmdmUF9fUEhqUkc1eXBqZlNtbUE2R1BJS29HekJZa3U5Y0xabmVkTUpSZXlKa3prSXVlYm1tcnZlUHFQUjVLRnRKLWYxZ0pCTTB3VGI4WHBv0gHmAUFVX3lxTE9xYmNPeGxnaWk4T3d3U1lPZzYyMzh1aHc5NTk1alpQVmRXQUlTQ0tOcTdONUlTYjhzOXRVTGV5YkhUNTh6MFNlcGI2UHlvUFJiN2RwYVdoTXZPRk1namI5b3RfaGJEeV8tclJWNmFXTXlkXy1OMnFzRVR2TGtBUkZ1VlZOTUQ0cDNJWjBVeDRvOFNCVkJrOEJfdHZVV084cGprVDNHUEF5SGlwRUtfNlBOUjBQUmtBQ0x1ZU1KZmNEb2pPbFJFRHF6elVhYmthdE95NDhwcFpjeXMwSEFMWGVUNGdBSU1n?oc=5",
+      "source": "The Hindu",
       "category": "tech",
-      "published_at": "2026-10-14T12:37:34+00:00",
-      "importance": 5,
-      "personal_score": 5.0,
+      "published_at": "2026-10-14T14:38:02+00:00",
+      "importance": 6,
+      "personal_score": 6.0,
       "entities": [
-        "Cycurion",
-        "By Investing.com",
-        "Investing.com India Cycurion",
-        "By Investing.com Investing.com India"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
-      "id": "d911b1b0295c324c",
-      "title": "The Cybersecurity Landscape in 2026: AI Became the Foundation - Solutions Review",
-      "summary": "The Cybersecurity Landscape in 2026: AI Became the Foundation Solutions Review",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObl9CYks5djNnUjNCaXpoN21LQ19FXzUyd2dxbGRESW9hOE9qbGtKWjhnT0JWS0FLeWFrS2lfeHdPVDZEcGpPYjZiRE1zZjZJQ3FTZFFzQjVJVzJvVjRQS053VW13cXc0LWp5T0l1Tm5HenlBd2lRcnlISWpIaktTZVMxSE9ub0lPc0RuQktIcjVNNVhmZDdNU0xqWXFlSDlCZndWSko5WEh6MTA?oc=5",
-      "source": "Solutions Review",
-      "category": "tech",
-      "published_at": "2026-10-14T15:52:40+00:00",
-      "importance": 5,
-      "personal_score": 5.0,
-      "entities": [
-        "The Cybersecurity Landscape",
-        "AI Became",
-        "Foundation",
-        "Solutions Review The Cybersecurity",
-        "Landscape",
-        "Foundation Solutions Review"
+        "Cybersecurity",
+        "Bengaluru",
+        "The Hindu Cybersecurity",
+        "Bengaluru The Hindu"
       ],
       "summary_method": "rss_fallback"
     },
@@ -2086,25 +2028,95 @@
       "summary_method": "rss_fallback"
     },
     {
-      "id": "a0b6a6f3f83e8c3d",
-      "title": "Creator of free Adobe clones unveils open-source Microsoft Office Excel, PowerPoint, and Word replications — Autodesk tools and other subscription-based services may come next - Tom's Hardware",
-      "summary": "Creator of free Adobe clones unveils open-source Microsoft Office Excel, PowerPoint, and Word replications — Autodesk tools and other subscription-based services may come next Tom's Hardware",
-      "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxPZXFnamVUTGhncWhKYUVqWXBVZ2F5by1UbmRaaWVya1BubXRmZWlpSXRGc3BvMVJuN0VrY1drelNOS3lzODBhQ2VxdzluZVBPQlBFTXN1UEE2YTRGdHU4NVFOZlZmbFEtSnE4UEMycGRJMl9idHc4RWZScFVzSEJSVkw3RTBRWUtQaDluaUtGSzdIWTdNUG85MjlJc19ZbDVhRDhkbmkwZGFzbGJVeVF0OVM3QVVCN2d4ZVZselcwVnlINHRkTzN1YXhkVFg5b2dOQ082bHNCSk96SkVEbTh4M2RKTXVqSF8zYkRWUDZ2QzlYdjZfV1RyUDdTQ2tEQ3Q5UFdld1QxSkZNclRHMmxyWW1tZG84VUt6TmVNa0F1RGpRSll5TUZDZ1hoOTNTSVNIV3BNcVRfMDNBMzJxYUJyTDJrVHNmTS1QaHc?oc=5",
-      "source": "Tom's Hardware",
+      "id": "f6c1b29d9aec5aed",
+      "title": "Albert Heijn outage very likely a cyber attack, experts say - NL Times",
+      "summary": "Albert Heijn outage very likely a cyber attack, experts say NL Times",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZHhBRjE5dzhLdXptSDROaE1hMzdoMWFBVThRVjl6ZzFGS1hjVzB5ZGd3UFNNcUtTWl9aTWxjclQxRGd4R0M1b0Rkd3doeDJFTUl3ZVZvVkk2dVB2QnZHOXdVSUExV05QNVlmR292VFd3M1NLWHBtZmlHY080QVc3amh0aHh6R0VO?oc=5",
+      "source": "NL Times",
       "category": "tech",
-      "published_at": "2026-10-11T10:50:00+00:00",
+      "published_at": "2026-10-13T06:43:50+00:00",
       "importance": 5,
       "personal_score": 5.0,
       "entities": [
-        "Creator",
-        "Adobe",
-        "Microsoft Office Excel",
-        "PowerPoint",
-        "Word",
-        "Autodesk",
-        "Tom",
-        "Hardware Creator",
-        "Hardware"
+        "Albert Heijn",
+        "NL Times Albert Heijn",
+        "NL Times"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
+      "id": "0dde86a4748fc80a",
+      "title": "Cycurion relaunches as predictive cybersecurity firm By Investing.com - Investing.com India",
+      "summary": "Cycurion relaunches as predictive cybersecurity firm By Investing.com Investing.com India",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYjVhbFBLMFlfRnBTME85b0JvR3g0SXJ1b19JVE50Q1BaOGdVSi0wSFpVaVQ1V3pKWng3NlFpTk5JN3I2SzhzeVdGN1BJVVhmVGhYZVBCYk1wU0htR2tPV2VYSVAySFdXdkNQbTZWQmcteU82M0p4bVhfNWprT29RS2lHWlVUbnVLZGllVjM0VWRjTmJSdDRFeEVNVnNoT2JqOU0zNllRdXRwSkVfWlpzbW1yNA?oc=5",
+      "source": "Investing.com India",
+      "category": "tech",
+      "published_at": "2026-10-14T12:37:34+00:00",
+      "importance": 5,
+      "personal_score": 5.0,
+      "entities": [
+        "Cycurion",
+        "By Investing.com",
+        "Investing.com India Cycurion",
+        "By Investing.com Investing.com India"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
+      "id": "8f4efb028347b7e2",
+      "title": "ARAI first in India to offer full-spectrum vehicle cybersecurity | Hindustan Times - Hindustan Times",
+      "summary": "ARAI first in India to offer full-spectrum vehicle cybersecurity | Hindustan Times Hindustan Times",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPMDJGaTBtVm01VHNVS3d4bGxZbXFQenlOOG9tQkdZNTNBUEE2aWM2OTFGczFfZEl4a20zWXJackxJNm5DaTJ1Mk9aSUpLMHpPNFNiSmhURHRkdV9zbHRsc1RJcjloT203ZUZCSVhNdC1QaGNRMEVQai1ZOGJWWC1uWjhxTEprcGIxRFloNy0xYkJPVmJpRmFhUWhPUXJka2p6M3ZnMkVzUExJeXNXTG43RElPTm1vTlhaLWE3Z3JLVVhMWWVyMHFRZHg5bXZ2d9IB0wFBVV95cUxPWDVXb0VfQ3B1Rmc0WTJPdUkyVEY0UjNZaXlRYlNhakw5ZFN2MVM2M1NLdnQwMWJFYzVBM2ZkRlRJWkJ5U0Q1X3pHT3diZV9Pdkljc2NWYm5JQlFmWWNNWDlrRmRhUmJUcTJYVjhXd0FZdmJuZkNXOEVzclVPVDZWUjlTc1N2NDBlWFNNV19DWU1raXdOSmpiNFl0UkRHVjlXOFdFTGNDNWlNQ0JOdDdfU05SM1lYODNKUTBlMHQ5MDZNcnhYdXoyNkZ1dm5GSktnX0U0?oc=5",
+      "source": "Hindustan Times",
+      "category": "tech",
+      "published_at": "2026-10-14T17:05:00+00:00",
+      "importance": 5,
+      "personal_score": 5.0,
+      "entities": [
+        "ARAI",
+        "Hindustan Times",
+        "Hindustan Times ARAI",
+        "Hindustan Times Hindustan Times"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
+      "id": "d911b1b0295c324c",
+      "title": "The Cybersecurity Landscape in 2026: AI Became the Foundation - Solutions Review",
+      "summary": "The Cybersecurity Landscape in 2026: AI Became the Foundation Solutions Review",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObl9CYks5djNnUjNCaXpoN21LQ19FXzUyd2dxbGRESW9hOE9qbGtKWjhnT0JWS0FLeWFrS2lfeHdPVDZEcGpPYjZiRE1zZjZJQ3FTZFFzQjVJVzJvVjRQS053VW13cXc0LWp5T0l1Tm5HenlBd2lRcnlISWpIaktTZVMxSE9ub0lPc0RuQktIcjVNNVhmZDdNU0xqWXFlSDlCZndWSko5WEh6MTA?oc=5",
+      "source": "Solutions Review",
+      "category": "tech",
+      "published_at": "2026-10-14T15:55:47+00:00",
+      "importance": 5,
+      "personal_score": 5.0,
+      "entities": [
+        "The Cybersecurity Landscape",
+        "AI Became",
+        "Foundation",
+        "Solutions Review The Cybersecurity",
+        "Landscape",
+        "Foundation Solutions Review"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
+      "id": "1cd7e064ca2490e9",
+      "title": "Cyber Shikshit Bharat workshop enhances cybersecurity at Rashtrapati Bhavan - The News Mill",
+      "summary": "Cyber Shikshit Bharat workshop enhances cybersecurity at Rashtrapati Bhavan The News Mill",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUWowUjBuc2lVM0wwQXg4MzlJUWhkcGVNbmpWZ04zajJpMTZKczBPTUE1TkJyTVF4Y094Q2NxRWxnekprRGpHbVN0UzBlZnctMGdoUWhwSFVIWFVNbVZEQU1BMzVHTDZkSHNlNW5jeG1KRzZqQTRuaWktWjB5YTUzSTRvbW5kS28wcTlnY1dack55T1AxaUVBaDAyczV5SkMzUGJBZHdZeFlUMTZ6?oc=5",
+      "source": "The News Mill",
+      "category": "tech",
+      "published_at": "2026-10-14T14:42:53+00:00",
+      "importance": 5,
+      "personal_score": 5.0,
+      "entities": [
+        "Cyber Shikshit Bharat",
+        "Rashtrapati Bhavan",
+        "The News Mill Cyber",
+        "Shikshit Bharat",
+        "Rashtrapati Bhavan The News",
+        "Mill"
       ],
       "summary_method": "rss_fallback"
     },
@@ -2133,40 +2145,21 @@
       "summary_method": "rss_fallback"
     },
     {
-      "id": "8f4efb028347b7e2",
-      "title": "ARAI first in India to offer full-spectrum vehicle cybersecurity | Hindustan Times - Hindustan Times",
-      "summary": "ARAI first in India to offer full-spectrum vehicle cybersecurity | Hindustan Times Hindustan Times",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPMDJGaTBtVm01VHNVS3d4bGxZbXFQenlOOG9tQkdZNTNBUEE2aWM2OTFGczFfZEl4a20zWXJackxJNm5DaTJ1Mk9aSUpLMHpPNFNiSmhURHRkdV9zbHRsc1RJcjloT203ZUZCSVhNdC1QaGNRMEVQai1ZOGJWWC1uWjhxTEprcGIxRFloNy0xYkJPVmJpRmFhUWhPUXJka2p6M3ZnMkVzUExJeXNXTG43RElPTm1vTlhaLWE3Z3JLVVhMWWVyMHFRZHg5bXZ2d9IB0wFBVV95cUxPWDVXb0VfQ3B1Rmc0WTJPdUkyVEY0UjNZaXlRYlNhakw5ZFN2MVM2M1NLdnQwMWJFYzVBM2ZkRlRJWkJ5U0Q1X3pHT3diZV9Pdkljc2NWYm5JQlFmWWNNWDlrRmRhUmJUcTJYVjhXd0FZdmJuZkNXOEVzclVPVDZWUjlTc1N2NDBlWFNNV19DWU1raXdOSmpiNFl0UkRHVjlXOFdFTGNDNWlNQ0JOdDdfU05SM1lYODNKUTBlMHQ5MDZNcnhYdXoyNkZ1dm5GSktnX0U0?oc=5",
-      "source": "Hindustan Times",
+      "id": "4968a3cac0b1cc92",
+      "title": "Houthis used Claude to develop missiles, test-fired rocket: Anthropic - Business Standard",
+      "summary": "Houthis used Claude to develop missiles, test-fired rocket: Anthropic Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNS1pBZXFfUThVbzNtcUNUUkhFdV9yRGxlNG8yZFo4MEo5QXFzN0NSckVjbEN5MHRqRkV6VnJUeHlzMXJnVHg0LVp2QUxUdVdIV2pWVmRLeVdUNUM1LVhNNHE0N1NDY2FtdjJwS0xEQVpXVldJOXZQNXB6RWdpaFRUdHJwNWxET24xRy1adFJXZUFvcFQtRXZCTDZnTlJ2b2d5elJQTU9vVEQ2Nm02LUhkMDZFb3YtRGQ2Q1RSaUxNM3FmX0VIN0hXVW5aMWZuY1V6WmszLTZZUFJWMG5HLTFxbXRPTFoxYmtINTRLT9IB8gFBVV95cUxQeG5CVG1jZVlJa2ZDdUdFZFN3ZVIxQ2FZYi1Ia21LbHA0VjAtYVdYZi12Sl9BSVZ6c1RUM0lwU2VWWW9sLXBLUGtRelRIaFFKOFpUWWhFa2xrRHVlNFFNOVdSdUViYXhUdF9HSnFyYzhpR0IyalVYbEpVSWxRWUlFMDRwY015QjRtUDRHTWRKZmV5ekdiZUJCQ0tTOVhPT0kxdTFycDVodTNXdldqRXVVejU1Z1lpRHd5TXk1a1YwVldBUF9uUEJNVEphUFpFLXZmVm40amZmdGljQ1AzZ0l3R2RIN0NBcE1fMmJuNlRBR3RKQQ?oc=5",
+      "source": "Business Standard",
       "category": "tech",
-      "published_at": "2026-10-14T17:05:00+00:00",
+      "published_at": "2026-10-13T04:25:19+00:00",
       "importance": 5,
       "personal_score": 5.0,
       "entities": [
-        "ARAI",
-        "Hindustan Times",
-        "Hindustan Times ARAI",
-        "Hindustan Times Hindustan Times"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
-      "id": "1cd7e064ca2490e9",
-      "title": "Cyber Shikshit Bharat workshop enhances cybersecurity at Rashtrapati Bhavan - The News Mill",
-      "summary": "Cyber Shikshit Bharat workshop enhances cybersecurity at Rashtrapati Bhavan The News Mill",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUWowUjBuc2lVM0wwQXg4MzlJUWhkcGVNbmpWZ04zajJpMTZKczBPTUE1TkJyTVF4Y094Q2NxRWxnekprRGpHbVN0UzBlZnctMGdoUWhwSFVIWFVNbVZEQU1BMzVHTDZkSHNlNW5jeG1KRzZqQTRuaWktWjB5YTUzSTRvbW5kS28wcTlnY1dack55T1AxaUVBaDAyczV5SkMzUGJBZHdZeFlUMTZ6?oc=5",
-      "source": "The News Mill",
-      "category": "tech",
-      "published_at": "2026-10-14T14:42:53+00:00",
-      "importance": 5,
-      "personal_score": 5.0,
-      "entities": [
-        "Cyber Shikshit Bharat",
-        "Rashtrapati Bhavan",
-        "The News Mill Cyber",
-        "Shikshit Bharat",
-        "Rashtrapati Bhavan The News",
-        "Mill"
+        "Houthis",
+        "Claude",
+        "Anthropic",
+        "Business Standard Houthis",
+        "Anthropic Business Standard"
       ],
       "summary_method": "rss_fallback"
     }
