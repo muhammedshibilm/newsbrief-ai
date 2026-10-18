@@ -1,6 +1,6 @@
 {
   "version": 7,
-  "updated_at": "2026-10-18T21:57:45.021061+00:00",
+  "updated_at": "2026-10-18T23:49:44.402715+00:00",
   "ai_engine": {
     "enabled": true,
     "type": "mathematical_ml",
@@ -47,32 +47,6 @@
   },
   "general": [
     {
-      "id": "1083ad400f21e868",
-      "title": "‘ഫ്രാൻസ് കത്തുന്നു’, കുടിയേറ്റക്കാർ ആ രാജ്യത്തെ തകർത്തെന്ന് ട്രംപ്; വൈകും മുന്നേ അതിർത്തികൾ അടയ്ക്കാൻ ആഹ്വാനം - Mathrubhumi",
-      "summary": "‘ഫ്രാൻസ് കത്തുന്നു’, കുടിയേറ്റക്കാർ ആ രാജ്യത്തെ തകർത്തെന്ന് ട്രംപ്; വൈകും മുന്നേ അതിർത്തികൾ അടയ്ക്കാൻ ആഹ്വാനം Mathrubhumi",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTkp3aEw0WFA3VHRfbzBEbEVKdnpuZVFqQ3pjLWtiMW1pZ2JUZEU3UVRWcnVvODhTNTZyYlE3ZzdVYm9BRDl5UHNGbGExSmhmM2ZVOG9ZMFBsSmsyV0VDeTVNaXFKTElQOXZ5NVVCRDhvRHNmaktqZHI0LXdBQUtzdElPZDd2MWN4YTBrajUxTWXSAZYBQVVfeXFMUGRMZW5uVXFZODJoeVRkdF9jcGJfazNPUmt0cm1ZR2NJeUlzR0xJZ3VlbjRSYzhVZEZMdzFUZFpZUUpCZENnSVB4ZXljWG1Xd2o0WGlZdEtNdGRyWlRZdHdfQlA3MVlWYnA3VG1OUjg0MHZPSDNZQ0hRMWZTdVg3Z1ZQNXBINFl5MnduWnhMVHY4c20tMm9n?oc=5",
-      "source": "Mathrubhumi",
-      "category": "general",
-      "published_at": "2026-10-18T15:13:41+00:00",
-      "importance": 4,
-      "personal_score": 4.25,
-      "entities": [
-        "ഫ്രാൻസ്",
-        "കത്തുന്നു",
-        "കുടിയേറ്റക്കാർ",
-        "രാജ്യത്തെ",
-        "തകർത്തെന്ന്",
-        "ട്രംപ്",
-        "വൈകും",
-        "മുന്നേ",
-        "അതിർത്തികൾ",
-        "അടയ്ക്കാൻ",
-        "ആഹ്വാനം",
-        "Mathrubhumi"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
       "id": "502b224f700fa178",
       "title": "'ഇങ്ങനെയാകുമെന്ന് പറഞ്ഞിട്ടും ചെവിക്കൊണ്ടില്ല', ഫ്രാൻസിലെ പ്രതിഷേധത്തിന് കാരണം കുടിയേറ്റമെന്ന് വാൻസ്; അമേരിക്കക്കാർക്ക് മുന്നറിയിപ്പ് - Mathrubhumi",
       "summary": "'ഇങ്ങനെയാകുമെന്ന് പറഞ്ഞിട്ടും ചെവിക്കൊണ്ടില്ല', ഫ്രാൻസിലെ പ്രതിഷേധത്തിന് കാരണം കുടിയേറ്റമെന്ന് വാൻസ്; അമേരിക്കക്കാർക്ക് മുന്നറിയിപ്പ് Mathrubhumi",
@@ -98,26 +72,25 @@
       "summary_method": "rss_fallback"
     },
     {
-      "id": "c8485af6c079362b",
-      "title": "ചൊവ്വയുടെ ഉപഗ്രഹമായ ഫോബോസിൽനിന്ന് സാമ്പിളുകൾ ശേഖരിക്കാൻ ജപ്പാൻ; എംഎംഎക്സ് ദൗത്യം ഒക്ടോബർ 20ന് വിക്ഷേപിക്കും - Mathrubhumi",
-      "summary": "ചൊവ്വയുടെ ഉപഗ്രഹമായ ഫോബോസിൽനിന്ന് സാമ്പിളുകൾ ശേഖരിക്കാൻ ജപ്പാൻ; എംഎംഎക്സ് ദൗത്യം ഒക്ടോബർ 20ന് വിക്ഷേപിക്കും Mathrubhumi",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdmJzbi11bkE2LWRRTDVvR1JBNGNhZFE0OHBGaGExVTVqYk1FTzQzbDFYSTFHYnpaV0dRaC1MQTVYZHY0TWNmbFkxYXB6NlRMTzJKcm1nbVF3LUJOem0xT1hyTnFzc0l3Q3BIdWViYXduaE5BTmd4Z2ZZS216aU0yMXU5ZmMxR04tM0ttV0Q1dDMyMXR3c2xhOFNFUzBaX0XSAZ8BQVVfeXFMTXZic24tdW5BNi1kUUw1b0dSQTRjYWRRNDhwRmhhMVU1amJNRU80M2wxWEkxR2J6WldHUWgtTEE1WGR2NE1jZmxZMWFwejZUTE8ySnJtZ21Rdy1CTnptMU9Yck5xc3NJd0NwSHVlYmF3bmhOQU5neGdmWUttemlNMjF1OWZjMUdOLTNLbVdENXQzMjF0d3NsYThTRVMwWl9F?oc=5",
+      "id": "36b56b87ee00f6d0",
+      "title": "നിയന്ത്രണംവിട്ട കാർ തൊഴിലുറപ്പ് തൊഴിലാളികൾക്കിടയിലേക്ക് പാഞ്ഞുകയറി; 8 പേർക്ക് ദാരുണാന്ത്യം, സംഭവം പഞ്ചാബിൽ - Mathrubhumi",
+      "summary": "നിയന്ത്രണംവിട്ട കാർ തൊഴിലുറപ്പ് തൊഴിലാളികൾക്കിടയിലേക്ക് പാഞ്ഞുകയറി; 8 പേർക്ക് ദാരുണാന്ത്യം, സംഭവം പഞ്ചാബിൽ Mathrubhumi",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVWlTR2NicC1FX3k1VU5rM2tHOFNMRndzV09rOXpuVERBMnZZRDQzSjJTbVhVLTJMdlU3STM0SnV3YXBJYWJRYW9BRERZbnZRYnV3X094bHpVM3d5SVgwdU9sTEQ3TGY3aHFDSjYxRlJrOS1oWHllazBDWXZ5eml2bURSb2I2Q0FfT1ZV0gGQAUFVX3lxTE5QaWZIcDF2WkhuVU1jLW5tamxTd1RXenpraDE4STZCMWJ1bE0zVENJYTdRMU9VV0hjYUd3TmdNbDJCZGlWaExSNVZFcWEzYWFaWURhcEtQcjRZUHBUU2c1SThnbE9QYTlWR2VQVHY5X1RaQ0l5Nk9vWjRCSmFqS19GZFFydHduMXozNlhsVjcxSA?oc=5",
       "source": "Mathrubhumi",
       "category": "general",
-      "published_at": "2026-10-18T10:43:10+00:00",
+      "published_at": "2026-10-18T16:15:39+00:00",
       "importance": 4,
       "personal_score": 4.25,
       "entities": [
-        "ചൊവ്വയുടെ",
-        "ഉപഗ്രഹമായ",
-        "ഫോബോസിൽനിന്ന്",
-        "സാമ്പിളുകൾ",
-        "ശേഖരിക്കാൻ",
-        "ജപ്പാൻ",
-        "എംഎംഎക്സ്",
-        "ദൗത്യം",
-        "ഒക്ടോബർ",
-        "വിക്ഷേപിക്കും",
+        "നിയന്ത്രണംവിട്ട",
+        "കാർ",
+        "തൊഴിലുറപ്പ്",
+        "തൊഴിലാളികൾക്കിടയിലേക്ക്",
+        "പാഞ്ഞുകയറി",
+        "പേർക്ക്",
+        "ദാരുണാന്ത്യം",
+        "സംഭവം",
+        "പഞ്ചാബിൽ",
         "Mathrubhumi"
       ],
       "summary_method": "rss_fallback"
@@ -149,25 +122,27 @@
       "summary_method": "rss_fallback"
     },
     {
-      "id": "b5af31ff5447c3d1",
-      "title": "‘നിങ്ങൾ ഈ നഗരം നശിപ്പിക്കുകയാണ്’; മയക്കുമരുന്നു വിൽപനകേന്ദ്രത്തിലേക്ക് തോക്കുമായി റെയ്ഡിനെത്തി ബംഗ്ലാദേശ് മന്ത്രി - Mathrubhumi",
-      "summary": "‘നിങ്ങൾ ഈ നഗരം നശിപ്പിക്കുകയാണ്’; മയക്കുമരുന്നു വിൽപനകേന്ദ്രത്തിലേക്ക് തോക്കുമായി റെയ്ഡിനെത്തി ബംഗ്ലാദേശ് മന്ത്രി Mathrubhumi",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPX0R6a1NZcWVwYWwxMkozUkhLd1VIZ2RBX2NUVUJhaW1UUjZxdGw0MnpJc004aFlwRXgxdGxHTGR2eFM3dDkwUzlrN0l1YzhMVDV5SVEzQ0xaNnJSZllPV2NwQXM1SC0tYVZLMFFhd0UzX0RsREpFYTNOQW9vbHZyUlpNRUJ3ajR3ZV9JVHNwUHpjbl9PbVd2Z2dhdmxuZkJqR25iStIBqgFBVV95cUxQR09GZkplSUp2Y00xTWN6YjBkWTFSMkthbW9WR2Q5czIxdU9zczlUZnAzM0ZkQ2I3NnJaV2NkZmNzblhrVDlQUEVUWVUzSk9ON3VCd3hlR1lUbHp3S21qdXBWLTNFcUszTGw4X0tWU0RfcEZQdi1aS1d3U18xNEJ2VDRlOFZCQW1MdHlJMk84cGd6NS1zSTFnVWxCTHpSMGE1YTBGamxZRVpiQQ?oc=5",
+      "id": "1083ad400f21e868",
+      "title": "‘ഫ്രാൻസ് കത്തുന്നു’, കുടിയേറ്റക്കാർ ആ രാജ്യത്തെ തകർത്തെന്ന് ട്രംപ്; വൈകും മുന്നേ അതിർത്തികൾ അടയ്ക്കാൻ ആഹ്വാനം - Mathrubhumi",
+      "summary": "‘ഫ്രാൻസ് കത്തുന്നു’, കുടിയേറ്റക്കാർ ആ രാജ്യത്തെ തകർത്തെന്ന് ട്രംപ്; വൈകും മുന്നേ അതിർത്തികൾ അടയ്ക്കാൻ ആഹ്വാനം Mathrubhumi",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTkp3aEw0WFA3VHRfbzBEbEVKdnpuZVFqQ3pjLWtiMW1pZ2JUZEU3UVRWcnVvODhTNTZyYlE3ZzdVYm9BRDl5UHNGbGExSmhmM2ZVOG9ZMFBsSmsyV0VDeTVNaXFKTElQOXZ5NVVCRDhvRHNmaktqZHI0LXdBQUtzdElPZDd2MWN4YTBrajUxTWXSAZYBQVVfeXFMUGRMZW5uVXFZODJoeVRkdF9jcGJfazNPUmt0cm1ZR2NJeUlzR0xJZ3VlbjRSYzhVZEZMdzFUZFpZUUpCZENnSVB4ZXljWG1Xd2o0WGlZdEtNdGRyWlRZdHdfQlA3MVlWYnA3VG1OUjg0MHZPSDNZQ0hRMWZTdVg3Z1ZQNXBINFl5MnduWnhMVHY4c20tMm9n?oc=5",
       "source": "Mathrubhumi",
       "category": "general",
-      "published_at": "2026-10-18T10:30:48+00:00",
+      "published_at": "2026-10-18T15:13:41+00:00",
       "importance": 4,
       "personal_score": 4.25,
       "entities": [
-        "നിങ്ങൾ",
-        "നഗരം",
-        "നശിപ്പിക്കുകയാണ്",
-        "മയക്കുമരുന്നു",
-        "വിൽപനകേന്ദ്രത്തിലേക്ക്",
-        "തോക്കുമായി",
-        "റെയ്ഡിനെത്തി",
-        "ബംഗ്ലാദേശ്",
-        "മന്ത്രി",
+        "ഫ്രാൻസ്",
+        "കത്തുന്നു",
+        "കുടിയേറ്റക്കാർ",
+        "രാജ്യത്തെ",
+        "തകർത്തെന്ന്",
+        "ട്രംപ്",
+        "വൈകും",
+        "മുന്നേ",
+        "അതിർത്തികൾ",
+        "അടയ്ക്കാൻ",
+        "ആഹ്വാനം",
         "Mathrubhumi"
       ],
       "summary_method": "rss_fallback"
@@ -197,25 +172,26 @@
       "summary_method": "rss_fallback"
     },
     {
-      "id": "9fea5878e0e1703f",
-      "title": "സബാഷ് ഷെഫാലി, സൂപ്പര്‍ സ്മൃതി; വനിതാ ട്വന്റി20 പരമ്പര ഇന്ത്യയ്ക്ക് - Manorama News",
-      "summary": "സബാഷ് ഷെഫാലി, സൂപ്പര്‍ സ്മൃതി; വനിതാ ട്വന്റി20 പരമ്പര ഇന്ത്യയ്ക്ക് Manorama News",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZnhkeFRkVFVaOExWd0lkaURaT3FFTDd0cUhkek5iWTIyd0xMaGFVZ1Z2azRVZlR6ekowYzVEZVByMDBvem1OdGVMV0tYaDZCdTdCQ3FzNWNyejFBMEJ5bzJCMVh3azcxMUxkN2xKSXQ2eDltWEU5TUt4dVdnYlVIZi1YMU1mMUtTSHdHUjBTNWZHMHpISlVoeDBJdTBwT180WTNiMUFB0gGrAUFVX3lxTE9jRm9iM3ZDTGU5Sll0NnQxR0h6Y2lIWHpselktYzBBeWFnSzlfUDMyeVFya3RMa19FbllYb1lZb1h0QVA1U3U2dmFzaTNHNTV1RmVJb2VXcjNJQVFGejktcV96Y1Jsb2lnN3JUcWdjNVJSZnN3bVNrdG9wNlhQWXUxOUx1ZEhjTF85MmFNR0JxZkxaTFpkTEpJLW42WUMyTXBVbjE0WG5BUWRlUQ?oc=5",
-      "source": "Manorama News",
+      "id": "752fd20f4ad9ed2d",
+      "title": "കേരളം ഇടിമിന്നലിന്റെ ഹോട്ട്സ്പോട്ടോ? എങ്ങനെയാണ് മിന്നൽ ഉണ്ടാകുന്നത്? | Kerala Monsoon | Lightning - Manorama Online",
+      "summary": "കേരളം ഇടിമിന്നലിന്റെ ഹോട്ട്സ്പോട്ടോ? എങ്ങനെയാണ് മിന്നൽ ഉണ്ടാകുന്നത്? | Kerala Monsoon | Lightning Manorama Online",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNRHEyWUNTakl4c09fUVRZZnBpeHgwS2Myd0hJeFVhU1pBVkxGV1lPaS1kZDk4dTBOMXNWTG9JYl9sNTBNX0tBMzk4UTFlQzF5WmJvUEtZTmdoeGxHVXhIVlRBbjVYbTRlRnRnZ0F4eTZrMnJBQ3BFa09OTUQyTXU0QTUwRXFYbnpzb21XNVZweWhGWndHV1Foa2VHeUxFcFRUSndQckdkakpnMHJiM2hpY3F1S3ZtT0txQklCcWhGakZjUFpKd2xFeVRsNTRjQQ?oc=5",
+      "source": "Manorama Online",
       "category": "general",
-      "published_at": "2026-10-18T17:31:22+00:00",
+      "published_at": "2026-10-18T13:03:27+00:00",
       "importance": 4,
       "personal_score": 4.25,
       "entities": [
-        "സബാഷ്",
-        "ഷെഫാലി",
-        "സൂപ്പര്",
-        "സ്മൃതി",
-        "വനിതാ",
-        "ട്വന്റി",
-        "പരമ്പര",
-        "ഇന്ത്യയ്ക്ക്",
-        "Manorama News"
+        "കേരളം",
+        "ഇടിമിന്നലിന്റെ",
+        "ഹോട്ട്സ്പോട്ടോ",
+        "എങ്ങനെയാണ്",
+        "മിന്നൽ",
+        "ഉണ്ടാകുന്നത്",
+        "Kerala Monsoon",
+        "Lightning",
+        "Manorama Online",
+        "Lightning Manorama Online"
       ],
       "summary_method": "rss_fallback"
     },
@@ -238,6 +214,53 @@
         "ഐഒസിയുടെ",
         "പ്രതിഷേധം",
         "Manorama Online"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
+      "id": "fe5c764de0e66f58",
+      "title": "വഖഫ് ബോർഡ് ഭരണസമിതി പിരിച്ചുവിട്ട യുഡിഎഫ് സർക്കാർ നടപടിക്കെതിരെ പ്രതിപക്ഷ നേതാവ് - Mathrubhumi",
+      "summary": "വഖഫ് ബോർഡ് ഭരണസമിതി പിരിച്ചുവിട്ട യുഡിഎഫ് സർക്കാർ നടപടിക്കെതിരെ പ്രതിപക്ഷ നേതാവ് Mathrubhumi",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPY0NXdURTT1lWNjVqM1kzT2QzaUd5eUF2eHZhOHhrTElPcldiakRENWlFVzNWbkd6LUtFMDVONlFERTJyY0o0YUdSVzlocFkwNC12LUw1Q25HY1lDVDZRdVVXUHROWENsV3JjNXg1dkphLTg2QW1FRHBhY2M0Rm0zS1VheUItZFdTek13cXh1dWpJVTRfQ256NHotZm5KdW1RMEFMTzBlRVRqZ9IBrwFBVV95cUxNM0k3TzRnSS1YNWQ1T2pzWm9TVzhvU252MmhDRUVaVFNzVzg3NThhaUlnNFZmeUpaN2ZJSUV3YlgzQVhRa2o3RzlucEpIRUZMSUIxeXVNRnYySWNOVlpGcktNUTJ3MjNmYUVGTFJiY01VNHJESjBKNlZ0TURVN2VISVhIMS1Hc2d4eDl1T1BmdUprTkQ1S29YZkhLanRrVG5MVjF6VFBmX292RnB3Nk80?oc=5",
+      "source": "Mathrubhumi",
+      "category": "general",
+      "published_at": "2026-10-18T12:56:32+00:00",
+      "importance": 4,
+      "personal_score": 4.25,
+      "entities": [
+        "വഖഫ്",
+        "ബോർഡ്",
+        "ഭരണസമിതി",
+        "പിരിച്ചുവിട്ട",
+        "യുഡിഎഫ്",
+        "സർക്കാർ",
+        "നടപടിക്കെതിരെ",
+        "പ്രതിപക്ഷ",
+        "നേതാവ്",
+        "Mathrubhumi"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
+      "id": "9fea5878e0e1703f",
+      "title": "സബാഷ് ഷെഫാലി, സൂപ്പര്‍ സ്മൃതി; വനിതാ ട്വന്റി20 പരമ്പര ഇന്ത്യയ്ക്ക് - Manorama News",
+      "summary": "സബാഷ് ഷെഫാലി, സൂപ്പര്‍ സ്മൃതി; വനിതാ ട്വന്റി20 പരമ്പര ഇന്ത്യയ്ക്ക് Manorama News",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZnhkeFRkVFVaOExWd0lkaURaT3FFTDd0cUhkek5iWTIyd0xMaGFVZ1Z2azRVZlR6ekowYzVEZVByMDBvem1OdGVMV0tYaDZCdTdCQ3FzNWNyejFBMEJ5bzJCMVh3azcxMUxkN2xKSXQ2eDltWEU5TUt4dVdnYlVIZi1YMU1mMUtTSHdHUjBTNWZHMHpISlVoeDBJdTBwT180WTNiMUFB0gGrAUFVX3lxTE9jRm9iM3ZDTGU5Sll0NnQxR0h6Y2lIWHpselktYzBBeWFnSzlfUDMyeVFya3RMa19FbllYb1lZb1h0QVA1U3U2dmFzaTNHNTV1RmVJb2VXcjNJQVFGejktcV96Y1Jsb2lnN3JUcWdjNVJSZnN3bVNrdG9wNlhQWXUxOUx1ZEhjTF85MmFNR0JxZkxaTFpkTEpJLW42WUMyTXBVbjE0WG5BUWRlUQ?oc=5",
+      "source": "Manorama News",
+      "category": "general",
+      "published_at": "2026-10-18T17:31:22+00:00",
+      "importance": 4,
+      "personal_score": 4.25,
+      "entities": [
+        "സബാഷ്",
+        "ഷെഫാലി",
+        "സൂപ്പര്",
+        "സ്മൃതി",
+        "വനിതാ",
+        "ട്വന്റി",
+        "പരമ്പര",
+        "ഇന്ത്യയ്ക്ക്",
+        "Manorama News"
       ],
       "summary_method": "rss_fallback"
     },
@@ -268,74 +291,27 @@
       "summary_method": "rss_fallback"
     },
     {
-      "id": "fe5c764de0e66f58",
-      "title": "വഖഫ് ബോർഡ് ഭരണസമിതി പിരിച്ചുവിട്ട യുഡിഎഫ് സർക്കാർ നടപടിക്കെതിരെ പ്രതിപക്ഷ നേതാവ് - Mathrubhumi",
-      "summary": "വഖഫ് ബോർഡ് ഭരണസമിതി പിരിച്ചുവിട്ട യുഡിഎഫ് സർക്കാർ നടപടിക്കെതിരെ പ്രതിപക്ഷ നേതാവ് Mathrubhumi",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPY0NXdURTT1lWNjVqM1kzT2QzaUd5eUF2eHZhOHhrTElPcldiakRENWlFVzNWbkd6LUtFMDVONlFERTJyY0o0YUdSVzlocFkwNC12LUw1Q25HY1lDVDZRdVVXUHROWENsV3JjNXg1dkphLTg2QW1FRHBhY2M0Rm0zS1VheUItZFdTek13cXh1dWpJVTRfQ256NHotZm5KdW1RMEFMTzBlRVRqZ9IBrwFBVV95cUxNM0k3TzRnSS1YNWQ1T2pzWm9TVzhvU252MmhDRUVaVFNzVzg3NThhaUlnNFZmeUpaN2ZJSUV3YlgzQVhRa2o3RzlucEpIRUZMSUIxeXVNRnYySWNOVlpGcktNUTJ3MjNmYUVGTFJiY01VNHJESjBKNlZ0TURVN2VISVhIMS1Hc2d4eDl1T1BmdUprTkQ1S29YZkhLanRrVG5MVjF6VFBmX292RnB3Nk80?oc=5",
-      "source": "Mathrubhumi",
+      "id": "31cdf7faed811ef1",
+      "title": "തുലാമഴയുടെ റഡാറിൽ കേരളം; അഞ്ച് ദിവസം ജാഗ്രത, വിവിധ ജില്ലകളിൽ യെല്ലോ അലർട്ട് - Indian Express Malayalam",
+      "summary": "തുലാമഴയുടെ റഡാറിൽ കേരളം; അഞ്ച് ദിവസം ജാഗ്രത, വിവിധ ജില്ലകളിൽ യെല്ലോ അലർട്ട് Indian Express Malayalam",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNnVxZzRfcTl1VVROVGxoZjQxdGptVGs2N0Y3WXlXMEVGTTQ0SDhGeFVaXzhQNnQ0VkZtSG5QSmswQ0pPQnBxcDdQcjhyQmFlR2lqZWo5ckZYRUpTOGlYeFR5ZExUQ0JUSVJYb1MwMzJ2dlR3Y3RFWlRUVmFPWHVsM2pOV3ZtRDhOdl9GV0JpMlVVOWxpdzRGcldaMGhEcWE0MDctd0Q4RTVnMmJqWUFDbUlmNmtibElTX0HSAboBQVVfeXFMUDZ1cWc0X3E5dVVUTlRsaGY0MXRqbVRrNjdGN1l5VzBFRk00NEg4RnhVWl84UDZ0NFZGbUhuUEprMENKT0JwcXA3UHI4ckJhZUdpamVqOXJGWEVKUzhpWHhUeWRMVENCVElSWG9TMDMydnZUd2N0RVpUVFZhT1h1bDNqTld2bUQ4TnZfRldCaTJVVTlsaXc0RnJXWjBoRHFhNDA3LXdEOEU1ZzJiallBQ21JZjZrYmxJU19B?oc=5",
+      "source": "Indian Express Malayalam",
       "category": "general",
-      "published_at": "2026-10-18T12:56:32+00:00",
+      "published_at": "2026-10-18T13:02:57+00:00",
       "importance": 4,
       "personal_score": 4.25,
       "entities": [
-        "വഖഫ്",
-        "ബോർഡ്",
-        "ഭരണസമിതി",
-        "പിരിച്ചുവിട്ട",
-        "യുഡിഎഫ്",
-        "സർക്കാർ",
-        "നടപടിക്കെതിരെ",
-        "പ്രതിപക്ഷ",
-        "നേതാവ്",
-        "Mathrubhumi"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
-      "id": "9f301410cb680df2",
-      "title": "കേരള അസോസിയേഷൻ ഓഫ് ഡാലസിന്റെ ഗോൾഡൻ ജൂബിലി ആഘോഷം: സൈബർ സുരക്ഷാ സെമിനാർ ഇന്ന് - Manorama Online",
-      "summary": "കേരള അസോസിയേഷൻ ഓഫ് ഡാലസിന്റെ ഗോൾഡൻ ജൂബിലി ആഘോഷം: സൈബർ സുരക്ഷാ സെമിനാർ ഇന്ന് Manorama Online",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVjhhcGJRZS05VkdHcDVGbnptckwyTkNQeXlRRGdsc1lyTHptNTlBVkc4UmxObE5yMGg2eWF2WTFsOWFjd0E1dmlfZGN2MEw4OU1HM2c5NFpOM0xTc3Blc1EtWFJ2SlNXd3dVVGpTVHpBb1Jfc3lvdUFZekhvWGpNU0VlS0JVYy1xV21kOWFKdTdobUJLMk1lMEFaOUFPMVFDOEt2MjZvZkRIN2pvdGpqZVh0QTVZTXhT?oc=5",
-      "source": "Manorama Online",
-      "category": "general",
-      "published_at": "2026-10-18T10:56:46+00:00",
-      "importance": 4,
-      "personal_score": 4.25,
-      "entities": [
-        "കേരള",
-        "അസോസിയേഷൻ",
-        "ഓഫ്",
-        "ഡാലസിന്റെ",
-        "ഗോൾഡൻ",
-        "ജൂബിലി",
-        "ആഘോഷം",
-        "സൈബർ",
-        "സുരക്ഷാ",
-        "സെമിനാർ",
-        "ഇന്ന്",
-        "Manorama Online"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
-      "id": "47937ce45336cf6b",
-      "title": "മിന്നട്ടെ! ഐഎസ്എലിൽ നോർത്ത് ഈസ്റ്റ് യുണൈറ്റഡിനെതിരെ കേരള ബ്ലാസ്റ്റേഴ്സ് - Manorama Online",
-      "summary": "മിന്നട്ടെ! ഐഎസ്എലിൽ നോർത്ത് ഈസ്റ്റ് യുണൈറ്റഡിനെതിരെ കേരള ബ്ലാസ്റ്റേഴ്സ് Manorama Online",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNX0JHUHRxLVZDTU9zdGx3VVZYRlFKS2hpSEpYcGRRbHczcENoZmVsZUxDYmRPSE5DOFlQZVp0cnZpaUNNbWptSFVLaHNGN2ctT2NBTndaVG5kemZ2WnZqczFXR0ZpSkFWSnd3bDZ1WXBVSm1MSTczSTRKQWx2bUV1X05JWEJtUG0yT3BxTm5LZ1B1YlJRVnQ2LW43ZjVlYXI1WmRaZ3NGa3hHbFU?oc=5",
-      "source": "Manorama Online",
-      "category": "general",
-      "published_at": "2026-10-18T09:59:00+00:00",
-      "importance": 4,
-      "personal_score": 4.25,
-      "entities": [
-        "മിന്നട്ടെ",
-        "ഐഎസ്എലിൽ",
-        "നോർത്ത്",
-        "ഈസ്റ്റ്",
-        "യുണൈറ്റഡിനെതിരെ",
-        "കേരള",
-        "ബ്ലാസ്റ്റേഴ്സ്",
-        "Manorama Online"
+        "തുലാമഴയുടെ",
+        "റഡാറിൽ",
+        "കേരളം",
+        "അഞ്ച്",
+        "ദിവസം",
+        "ജാഗ്രത",
+        "വിവിധ",
+        "ജില്ലകളിൽ",
+        "യെല്ലോ",
+        "അലർട്ട്",
+        "Indian Express Malayalam"
       ],
       "summary_method": "rss_fallback"
     },
@@ -366,6 +342,28 @@
       "summary_method": "rss_fallback"
     },
     {
+      "id": "4de44b318f13a026",
+      "title": "സൂപ്പർതാരം പുറത്ത്; വിൻഡീസിനെതിരെ പഴയ വജ്രായുധത്തെ കളത്തിലിറക്കാൻ ഇന്ത്യ - Chandrika Daily",
+      "summary": "സൂപ്പർതാരം പുറത്ത്; വിൻഡീസിനെതിരെ പഴയ വജ്രായുധത്തെ കളത്തിലിറക്കാൻ ഇന്ത്യ Chandrika Daily",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNjA1anEwcllla05LVVpvSWQ2UWFMcmY4MnJFV1E3Z1dKVV90eEN2Ylkwamw0QlFDWnhjMDRyRHlQa2hkOUFTa1FVaFY5QUFEb2hPMUt4UGdzN3VWdzUweXJHN0pjZzRTNTNfRU9fME1NWFNUZU11UTZ2X0JvYkgwZG94eWlsTjMzTmJySnlMRjRIQXpQUVVlVQ?oc=5",
+      "source": "Chandrika Daily",
+      "category": "general",
+      "published_at": "2026-10-18T19:17:08+00:00",
+      "importance": 3,
+      "personal_score": 3.25,
+      "entities": [
+        "സൂപ്പർതാരം",
+        "പുറത്ത്",
+        "വിൻഡീസിനെതിരെ",
+        "പഴയ",
+        "വജ്രായുധത്തെ",
+        "കളത്തിലിറക്കാൻ",
+        "ഇന്ത്യ",
+        "Chandrika Daily"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
       "id": "53868f689e6cd5ff",
       "title": "എ​ഥ​​നോ​ൾ ഉ​ൽ​പാ​ദ​ന​ത്തി​ന് പ​ഞ്ച​സാ​ര​യും ക​രി​മ്പും ഉ​പ​യോ​ഗിക്കുന്നത് ഒ​രു വ​ർ​ഷ​ത്തേ​ക്ക് വിലക്കി |... - Madhyamam",
       "summary": "എ​ഥ​​നോ​ൾ ഉ​ൽ​പാ​ദ​ന​ത്തി​ന് പ​ഞ്ച​സാ​ര​യും ക​രി​മ്പും ഉ​പ​യോ​ഗിക്കുന്നത് ഒ​രു വ​ർ​ഷ​ത്തേ​ക്ക് വിലക്കി |... Madhyamam",
@@ -389,69 +387,27 @@
       "summary_method": "rss_fallback"
     },
     {
-      "id": "3f1323bb058c9da2",
-      "title": "ഉപരോധ രാജ്യങ്ങളിലേക്ക് എണ്ണ കയറ്റുമതി ചെയ്‌ത് ഇന്ത്യ; ഇന്ധന കയറ്റുമതിയിൽ 43 ശതമാനം വർധനവ് - ETV Bharat",
-      "summary": "ഉപരോധ രാജ്യങ്ങളിലേക്ക് എണ്ണ കയറ്റുമതി ചെയ്‌ത് ഇന്ത്യ; ഇന്ധന കയറ്റുമതിയിൽ 43 ശതമാനം വർധനവ് ETV Bharat",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdUZveFVlRGloQVJUR0JMdDVselBaa0dCTnFhVzlzei1WOFRuUmFjUDNtRnVZRVNTV2p0NVNrZnVJY3dXNG9lV3hyRVBsbUgtbVdZZzZ5X3VQVTVHd2FOSHk4ZDlOaXhqNVhrWHFYZW0yZVZtQ2JaTWhsWENNcVFWd0xKMVVvZ2d4VXZSNXlkUE9VM2JjQmVv0gGcAUFVX3lxTE9EemxFRGtrZlhHUy03QUNISzZGcVVhRUlKcnFEV0ZmVW5fUzJxcVd3eUxaU0xjc05NNV9penFscU04VWlZX3lmY0FiV2xDbFlBRDMwaWVqQjhweXV3eG05cjdVd0NYa2FySzY5UlNGUEVQeGx4OEswVEhnUU5mN2NBeDNJQWl3eTlZdUpGaU81VU5yMk1KQVJSNFh2VA?oc=5",
-      "source": "ETV Bharat",
+      "id": "c8485af6c079362b",
+      "title": "ചൊവ്വയുടെ ഉപഗ്രഹമായ ഫോബോസിൽനിന്ന് സാമ്പിളുകൾ ശേഖരിക്കാൻ ജപ്പാൻ; എംഎംഎക്സ് ദൗത്യം ഒക്ടോബർ 20ന് വിക്ഷേപിക്കും - Mathrubhumi",
+      "summary": "ചൊവ്വയുടെ ഉപഗ്രഹമായ ഫോബോസിൽനിന്ന് സാമ്പിളുകൾ ശേഖരിക്കാൻ ജപ്പാൻ; എംഎംഎക്സ് ദൗത്യം ഒക്ടോബർ 20ന് വിക്ഷേപിക്കും Mathrubhumi",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdmJzbi11bkE2LWRRTDVvR1JBNGNhZFE0OHBGaGExVTVqYk1FTzQzbDFYSTFHYnpaV0dRaC1MQTVYZHY0TWNmbFkxYXB6NlRMTzJKcm1nbVF3LUJOem0xT1hyTnFzc0l3Q3BIdWViYXduaE5BTmd4Z2ZZS216aU0yMXU5ZmMxR04tM0ttV0Q1dDMyMXR3c2xhOFNFUzBaX0XSAZ8BQVVfeXFMTXZic24tdW5BNi1kUUw1b0dSQTRjYWRRNDhwRmhhMVU1amJNRU80M2wxWEkxR2J6WldHUWgtTEE1WGR2NE1jZmxZMWFwejZUTE8ySnJtZ21Rdy1CTnptMU9Yck5xc3NJd0NwSHVlYmF3bmhOQU5neGdmWUttemlNMjF1OWZjMUdOLTNLbVdENXQzMjF0d3NsYThTRVMwWl9F?oc=5",
+      "source": "Mathrubhumi",
       "category": "general",
-      "published_at": "2026-10-18T10:21:51+00:00",
+      "published_at": "2026-10-18T10:43:10+00:00",
       "importance": 3,
       "personal_score": 3.25,
       "entities": [
-        "ഉപരോധ",
-        "രാജ്യങ്ങളിലേക്ക്",
-        "എണ്ണ",
-        "കയറ്റുമതി",
-        "ചെയ്",
-        "ഇന്ത്യ",
-        "ഇന്ധന",
-        "കയറ്റുമതിയിൽ",
-        "ശതമാനം",
-        "വർധനവ്",
-        "ETV Bharat"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
-      "id": "5e8fb825b0ff9379",
-      "title": "ക്രൈസ്റ്റ്ചർച്ചിൽ ഇന്ത്യയുടെ പ്ലേയിംഗ് ഇലവൻ: ഇടങ്കയ്യൻമാരെ ഉൾപ്പെടുത്തുന്നത് ടീമിന് ഗുണകരമാകുമോ? - myKhel malayalam",
-      "summary": "ക്രൈസ്റ്റ്ചർച്ചിൽ ഇന്ത്യയുടെ പ്ലേയിംഗ് ഇലവൻ: ഇടങ്കയ്യൻമാരെ ഉൾപ്പെടുത്തുന്നത് ടീമിന് ഗുണകരമാകുമോ? myKhel malayalam",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOeW9pYVNlYWpBZ2hfU0pjOE5SMFBHSlBLYjBTZGwtdldLMkc0YmFQdGN1MFVIbDhxRmozTWtVbTF5M0tRTUtOVmxBQWN4TmJlb0tHU3FSVFhUU1hybVhmQklmR0JudXVQSGdIVXNMcVlIU1BJQ0k0ZkFId082YlRCNEo3TXpWelVrN1V4MkZrd2kzbUQ4OHhxVlpmR2FQTTRuU0VGdzBvQQ?oc=5",
-      "source": "myKhel malayalam",
-      "category": "general",
-      "published_at": "2026-10-18T11:25:24+00:00",
-      "importance": 3,
-      "personal_score": 3.25,
-      "entities": [
-        "ക്രൈസ്റ്റ്ചർച്ചിൽ",
-        "ഇന്ത്യയുടെ",
-        "പ്ലേയിംഗ്",
-        "ഇലവൻ",
-        "ഇടങ്കയ്യൻമാരെ",
-        "ഉൾപ്പെടുത്തുന്നത്",
-        "ടീമിന്",
-        "ഗുണകരമാകുമോ"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
-      "id": "6d9131d9c6738f2b",
-      "title": "UPI: Transforming India's Payment Landscape - Press Information Bureau",
-      "summary": "UPI: Transforming India's Payment Landscape Press Information Bureau",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0zSjJjbWpRUEJuMklGV1RKeWJncGFoTjNQa0hkYUU3Mm9IWGpPMTVxTTlrTm4wcGNKSkRLUlpRRUFWWVBaLW5zME84ZlpqUjlhX25oaEhuVUdzWlNHN2d1R1Bhb25GR0IwV3JCaWlhYzFOSTJoeGNvNQ?oc=5",
-      "source": "Press Information Bureau",
-      "category": "general",
-      "published_at": "2026-10-18T18:00:37+00:00",
-      "importance": 3,
-      "personal_score": 3.25,
-      "entities": [
-        "UPI",
-        "Transforming India",
-        "Payment Landscape",
-        "Press Information Bureau UPI",
-        "Payment Landscape Press Information",
-        "Bureau"
+        "ചൊവ്വയുടെ",
+        "ഉപഗ്രഹമായ",
+        "ഫോബോസിൽനിന്ന്",
+        "സാമ്പിളുകൾ",
+        "ശേഖരിക്കാൻ",
+        "ജപ്പാൻ",
+        "എംഎംഎക്സ്",
+        "ദൗത്യം",
+        "ഒക്ടോബർ",
+        "വിക്ഷേപിക്കും",
+        "Mathrubhumi"
       ],
       "summary_method": "rss_fallback"
     },
@@ -481,6 +437,50 @@
       "summary_method": "rss_fallback"
     },
     {
+      "id": "b5af31ff5447c3d1",
+      "title": "‘നിങ്ങൾ ഈ നഗരം നശിപ്പിക്കുകയാണ്’; മയക്കുമരുന്നു വിൽപനകേന്ദ്രത്തിലേക്ക് തോക്കുമായി റെയ്ഡിനെത്തി ബംഗ്ലാദേശ് മന്ത്രി - Mathrubhumi",
+      "summary": "‘നിങ്ങൾ ഈ നഗരം നശിപ്പിക്കുകയാണ്’; മയക്കുമരുന്നു വിൽപനകേന്ദ്രത്തിലേക്ക് തോക്കുമായി റെയ്ഡിനെത്തി ബംഗ്ലാദേശ് മന്ത്രി Mathrubhumi",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPX0R6a1NZcWVwYWwxMkozUkhLd1VIZ2RBX2NUVUJhaW1UUjZxdGw0MnpJc004aFlwRXgxdGxHTGR2eFM3dDkwUzlrN0l1YzhMVDV5SVEzQ0xaNnJSZllPV2NwQXM1SC0tYVZLMFFhd0UzX0RsREpFYTNOQW9vbHZyUlpNRUJ3ajR3ZV9JVHNwUHpjbl9PbVd2Z2dhdmxuZkJqR25iStIBqgFBVV95cUxQR09GZkplSUp2Y00xTWN6YjBkWTFSMkthbW9WR2Q5czIxdU9zczlUZnAzM0ZkQ2I3NnJaV2NkZmNzblhrVDlQUEVUWVUzSk9ON3VCd3hlR1lUbHp3S21qdXBWLTNFcUszTGw4X0tWU0RfcEZQdi1aS1d3U18xNEJ2VDRlOFZCQW1MdHlJMk84cGd6NS1zSTFnVWxCTHpSMGE1YTBGamxZRVpiQQ?oc=5",
+      "source": "Mathrubhumi",
+      "category": "general",
+      "published_at": "2026-10-18T10:30:48+00:00",
+      "importance": 3,
+      "personal_score": 3.25,
+      "entities": [
+        "നിങ്ങൾ",
+        "നഗരം",
+        "നശിപ്പിക്കുകയാണ്",
+        "മയക്കുമരുന്നു",
+        "വിൽപനകേന്ദ്രത്തിലേക്ക്",
+        "തോക്കുമായി",
+        "റെയ്ഡിനെത്തി",
+        "ബംഗ്ലാദേശ്",
+        "മന്ത്രി",
+        "Mathrubhumi"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
+      "id": "6d9131d9c6738f2b",
+      "title": "UPI: Transforming India's Payment Landscape - Press Information Bureau",
+      "summary": "UPI: Transforming India's Payment Landscape Press Information Bureau",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0zSjJjbWpRUEJuMklGV1RKeWJncGFoTjNQa0hkYUU3Mm9IWGpPMTVxTTlrTm4wcGNKSkRLUlpRRUFWWVBaLW5zME84ZlpqUjlhX25oaEhuVUdzWlNHN2d1R1Bhb25GR0IwV3JCaWlhYzFOSTJoeGNvNQ?oc=5",
+      "source": "Press Information Bureau",
+      "category": "general",
+      "published_at": "2026-10-18T18:00:37+00:00",
+      "importance": 3,
+      "personal_score": 3.25,
+      "entities": [
+        "UPI",
+        "Transforming India",
+        "Payment Landscape",
+        "Press Information Bureau UPI",
+        "Payment Landscape Press Information",
+        "Bureau"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
       "id": "83009ff5f3d2c8e9",
       "title": "ശബരിമല തീർഥാടകർക്ക് യാത്രാ സൗകര്യമൊരുക്കി കേരള പൊലീസ്; റോഡ് പണി, താളംതെറ്റി കെ.എസ്.ആർ.ടി.സി സർവിസുകൾ |... - Madhyamam",
       "summary": "ശബരിമല തീർഥാടകർക്ക് യാത്രാ സൗകര്യമൊരുക്കി കേരള പൊലീസ്; റോഡ് പണി, താളംതെറ്റി കെ.എസ്.ആർ.ടി.സി സർവിസുകൾ |... Madhyamam",
@@ -503,26 +503,6 @@
         "എസ്",
         "സർവിസുകൾ",
         "Madhyamam"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
-      "id": "3020cf31a569bd22",
-      "title": "കേരള ബാങ്കിനെ ലക്ഷ്യം വയ്‌ക്കുന്നവരോട്‌ - Deshabhimani",
-      "summary": "കേരള ബാങ്കിനെ ലക്ഷ്യം വയ്‌ക്കുന്നവരോട്‌ Deshabhimani",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTE9MTlU2UTdFVzNHbjFNUFdnNDZzbjRDX0Nkc2dBVXZkQWhNd1BnNzJfa1lkazJpV3ZvWGhrak51NXFaQ2VzUmVScHdUU0V3RTBYd0p2elhVbmlGMXNESS0teUZQMGpMNzRPN0d5LVBVWHl6OURDSURoajBqSlRJRE1nNzE5czFFbHV3ZA?oc=5",
-      "source": "Deshabhimani",
-      "category": "general",
-      "published_at": "2026-10-18T21:40:26+00:00",
-      "importance": 3,
-      "personal_score": 3.25,
-      "entities": [
-        "കേരള",
-        "ബാങ്കിനെ",
-        "ലക്ഷ്യം",
-        "വയ്",
-        "ക്കുന്നവരോട്",
-        "Deshabhimani"
       ],
       "summary_method": "rss_fallback"
     },
@@ -624,32 +604,6 @@
       "summary_method": "rss_fallback"
     },
     {
-      "id": "e63f6d8fa8a2b052",
-      "title": "സിംബാബ്‌വെയെ തകർത്ത് ഇന്ത്യൻ പെൺപടയ്ക്ക് പരമ്പരജയം; രണ്ടാം ട്വന്റി20യിൽ ഒൻപത് വിക്കറ്റ് വിജയം - Deshabhimani",
-      "summary": "സിംബാബ്‌വെയെ തകർത്ത് ഇന്ത്യൻ പെൺപടയ്ക്ക് പരമ്പരജയം; രണ്ടാം ട്വന്റി20യിൽ ഒൻപത് വിക്കറ്റ് വിജയം Deshabhimani",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOeWRSaUhmQnpEeE1uVTZTWkxDSzE4dGtvbzQ1UjFXb2tGNlBIY3VqXzBUeE80eXZaSVVBN1hhNExoVVdTeE16YXRsdDV4TW9fV2lreC01aS1qSUlsX0xCZjdJbzl3N0ZUZXBBWEJOVl9RNzZTLXZpQ3FNSmJjODhXRV8wUnBmT2NBdkc4REljSUdiTS1zMENuQ1pUbkFRTDQ?oc=5",
-      "source": "Deshabhimani",
-      "category": "general",
-      "published_at": "2026-10-18T16:11:05+00:00",
-      "importance": 3,
-      "personal_score": 3.25,
-      "entities": [
-        "സിംബാബ്",
-        "വെയെ",
-        "തകർത്ത്",
-        "ഇന്ത്യൻ",
-        "പെൺപടയ്ക്ക്",
-        "പരമ്പരജയം",
-        "രണ്ടാം",
-        "ട്വന്റി",
-        "യിൽ",
-        "ഒൻപത്",
-        "വിക്കറ്റ്",
-        "വിജയം"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
       "id": "be10c2a1899eba84",
       "title": "കേരള ബ്ലാസ്റ്റേഴ്‌സിനെ ഗോളില്‍ മുക്കി നോര്‍ത്ത് ഈസ്റ്റ് യുണൈറ്റഡ്; ഒന്നിനെതിരെ നാല് ഗോളിന് കനത്ത തോല്‍വി - Asianet News Malayalam",
       "summary": "കേരള ബ്ലാസ്റ്റേഴ്‌സിനെ ഗോളില്‍ മുക്കി നോര്‍ത്ത് ഈസ്റ്റ് യുണൈറ്റഡ്; ഒന്നിനെതിരെ നാല് ഗോളിന് കനത്ത തോല്‍വി Asianet News Malayalam",
@@ -698,6 +652,32 @@
         "ജയം",
         "ഒമ്പത്",
         "വിക്കറ്റിന്"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
+      "id": "9f301410cb680df2",
+      "title": "കേരള അസോസിയേഷൻ ഓഫ് ഡാലസിന്റെ ഗോൾഡൻ ജൂബിലി ആഘോഷം: സൈബർ സുരക്ഷാ സെമിനാർ ഇന്ന് - Manorama Online",
+      "summary": "കേരള അസോസിയേഷൻ ഓഫ് ഡാലസിന്റെ ഗോൾഡൻ ജൂബിലി ആഘോഷം: സൈബർ സുരക്ഷാ സെമിനാർ ഇന്ന് Manorama Online",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVjhhcGJRZS05VkdHcDVGbnptckwyTkNQeXlRRGdsc1lyTHptNTlBVkc4UmxObE5yMGg2eWF2WTFsOWFjd0E1dmlfZGN2MEw4OU1HM2c5NFpOM0xTc3Blc1EtWFJ2SlNXd3dVVGpTVHpBb1Jfc3lvdUFZekhvWGpNU0VlS0JVYy1xV21kOWFKdTdobUJLMk1lMEFaOUFPMVFDOEt2MjZvZkRIN2pvdGpqZVh0QTVZTXhT?oc=5",
+      "source": "Manorama Online",
+      "category": "general",
+      "published_at": "2026-10-18T10:56:46+00:00",
+      "importance": 3,
+      "personal_score": 3.25,
+      "entities": [
+        "കേരള",
+        "അസോസിയേഷൻ",
+        "ഓഫ്",
+        "ഡാലസിന്റെ",
+        "ഗോൾഡൻ",
+        "ജൂബിലി",
+        "ആഘോഷം",
+        "സൈബർ",
+        "സുരക്ഷാ",
+        "സെമിനാർ",
+        "ഇന്ന്",
+        "Manorama Online"
       ],
       "summary_method": "rss_fallback"
     },
@@ -754,94 +734,25 @@
       "summary_method": "rss_fallback"
     },
     {
-      "id": "a8f4db1bfdceb4f7",
-      "title": "ഭർത്താവിനെ കൊന്നത് ഭാര്യയും ആൺ സുഹൃത്തും ചേർന്ന്; പാമ്പുകടിയെന്ന നാടകം! ഒടുവിൽ വധശിക്ഷ - Media One",
-      "summary": "ഭർത്താവിനെ കൊന്നത് ഭാര്യയും ആൺ സുഹൃത്തും ചേർന്ന്; പാമ്പുകടിയെന്ന നാടകം! ഒടുവിൽ വധശിക്ഷ Media One",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBIRUYtTWxYRkFsbzhNZkg5M3JadFROaHVBWWROQ19CdmdmY2Z1b0UzcnNTNVlaTFR5NDh0QkhfaTJwTE1HUFNVb09MQ0I2ZUpIZl9aaHZ3UFR1M3hzeVJ3R25McDVqUGdVUmJwbi05WFXSAXZBVV95cUxOUnAyZ09uMzczV1VPTHc5QjJ2MGEwYkkwRlppblNIMDE5UXdPUXoyVl9GQWFzcGxieHJBUUhkVHBhSzR4ak11UGdJRVl5REpBaWNHOXdPYmtiZG1DZ2FGRDB6Z1lmQVVuU0ZNeW4xakF6VndlWVZB?oc=5",
-      "source": "Media One",
+      "id": "8bfae3aedc757a74",
+      "title": "രണ്ടാം ട്വന്റി20; സിംബാബ്‌വെയെ തകർത്ത് ഇന്ത്യൻ പെൺപടയ്ക്ക് പരമ്പരജയം - Deshabhimani",
+      "summary": "രണ്ടാം ട്വന്റി20; സിംബാബ്‌വെയെ തകർത്ത് ഇന്ത്യൻ പെൺപടയ്ക്ക് പരമ്പരജയം Deshabhimani",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOeWRSaUhmQnpEeE1uVTZTWkxDSzE4dGtvbzQ1UjFXb2tGNlBIY3VqXzBUeE80eXZaSVVBN1hhNExoVVdTeE16YXRsdDV4TW9fV2lreC01aS1qSUlsX0xCZjdJbzl3N0ZUZXBBWEJOVl9RNzZTLXZpQ3FNSmJjODhXRV8wUnBmT2NBdkc4REljSUdiTS1zMENuQ1pUbkFRTDQ?oc=5",
+      "source": "Deshabhimani",
       "category": "general",
-      "published_at": "2026-10-18T11:15:34+00:00",
+      "published_at": "2026-10-18T16:14:43+00:00",
       "importance": 3,
       "personal_score": 3.25,
       "entities": [
-        "ഭർത്താവിനെ",
-        "കൊന്നത്",
-        "ഭാര്യയും",
-        "സുഹൃത്തും",
-        "ചേർന്ന്",
-        "പാമ്പുകടിയെന്ന",
-        "നാടകം",
-        "ഒടുവിൽ",
-        "വധശിക്ഷ",
-        "Media One"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
-      "id": "2bba78c2e539419c",
-      "title": "സ്പേസ് ഡോക്കിംഗ് പരീക്ഷണം നടത്താനുപയോഗിച്ച ഉപഗ്രഹങ്ങൾ തിരികെ ഭൂമിയിലെത്തി - Asianet News Malayalam",
-      "summary": "സ്പേസ് ഡോക്കിംഗ് പരീക്ഷണം നടത്താനുപയോഗിച്ച ഉപഗ്രഹങ്ങൾ തിരികെ ഭൂമിയിലെത്തി Asianet News Malayalam",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQbzRsRWhJclhqbFpmUlBaUmhmRWdfQmFXTGhjRG5Wak5mY0V5RDg3enc3cHoxelFZN2Q5Ym1NNmpLY1I0czFseFktNlFZUnRldkNJTzZoQzZPdFMwQ0llME5vU3pNaXZxM2dISS1IN3c1QmZDQUE1LVZVajVsZ0JNMDNnbmdtcFhnem5mLWRRcEc1LXUyaTJMRzdnQ3lEMGRMa0wxVkJNVDlESWtxR2FhZHJmQVlWS2Z0QUNNZ2czeHJFck9YeWtZTUtKNlI4T1Bxa09USnNwNkpEWHE2ZXNnOTRR0gHnAUFVX3lxTFBHRUxaWEJEbUZjbk11dkFpMmZHQXR0Z3laMFVvUnNFNHVLaHR0SFBaRHlIdmxtWHVaOERuODBvQ3g3cExKLW05aS13MGpVS0dnM0R4UGM3blFJenhQN0lmdU9haUU1SVB2WFd3R2tKZm5Gc3A4Z01uWWt6X3p0cjY4akRiYmtyaVRqUGR1Y3FHQzE3QTBPekN5anYxZkF0aW9Ldi1Jb292QUt3NmZrMElfM0RiZ2d6aVVLb2FsVXd0cGNxc1lBVUdrdXZYUHdkeURfSlQ5TjNTUkkxSVg4YzUzb0FVdmVtVQ?oc=5",
-      "source": "Asianet News Malayalam",
-      "category": "general",
-      "published_at": "2026-10-18T13:35:37+00:00",
-      "importance": 3,
-      "personal_score": 3.25,
-      "entities": [
-        "സ്പേസ്",
-        "ഡോക്കിംഗ്",
-        "പരീക്ഷണം",
-        "നടത്താനുപയോഗിച്ച",
-        "ഉപഗ്രഹങ്ങൾ",
-        "തിരികെ",
-        "ഭൂമിയിലെത്തി",
-        "Asianet News Malayalam"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
-      "id": "f276e35b1000aa74",
-      "title": "സ്വർണം വാങ്ങിക്കൂട്ടുന്നു! ഡോളറിനെ തകർക്കാൻ ചൈനയുടെ നീക്കമോ?! - Media One",
-      "summary": "സ്വർണം വാങ്ങിക്കൂട്ടുന്നു! ഡോളറിനെ തകർക്കാൻ ചൈനയുടെ നീക്കമോ?! Media One",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9xeWhUcngxV2gyTzlVZWQyRFpfWkw5UkN6bWF1ZU5VZHlvSWh3SGd5MGd4TjZHeUFDTmQ4cUFLYXJ2cDBEeVRBODNOb2RrVHlwZGdXUlZybF9NZVBueXZ2MXVfWTFNUdIBa0FVX3lxTE9wQ3pTOEh1RnF3d2hmWWZreHhXcDlsQmM0eDZ4X25TaTB0encxZlM2THkwb05IRFNORXk2cklOa0pOX0U5YlpTRjZyTXEwT0M4dmY3cmJiX2F6ZU81NHBNVzhXYkZtQ3VqWXRZ?oc=5",
-      "source": "Media One",
-      "category": "general",
-      "published_at": "2026-10-18T11:13:53+00:00",
-      "importance": 3,
-      "personal_score": 3.25,
-      "entities": [
-        "സ്വർണം",
-        "വാങ്ങിക്കൂട്ടുന്നു",
-        "ഡോളറിനെ",
-        "തകർക്കാൻ",
-        "ചൈനയുടെ",
-        "നീക്കമോ",
-        "Media One"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
-      "id": "f8541e5e5a015dfd",
-      "title": "'ഇമ്രാന്‍ ഖാൻ്റെ പ്രതിഷേധം അംഗീകരിക്കാനാവില്ല'; 'ലീവ് ഇന്ത്യ' നോട്ടീസിനെ പിന്തുണച്ച് കേന്ദ്ര മന്ത്രി... - Media One",
-      "summary": "'ഇമ്രാന്‍ ഖാൻ്റെ പ്രതിഷേധം അംഗീകരിക്കാനാവില്ല'; 'ലീവ് ഇന്ത്യ' നോട്ടീസിനെ പിന്തുണച്ച് കേന്ദ്ര മന്ത്രി... Media One",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZGFRWk9TU1hpTjc4VlhKVUdQRXVCdHVmXzdMd0g5Sk5HbFk1eTJjbE12RDFobzRRTVdveGd3UUVsQk95QThqbnBpbmdUd2E3Q2pCN09pOHZNOEwwSVM0azZDOVREa0I1S3czVnZCdy1xdkxfR0dteDFKcXhsWU1Qendic0Y5VlIwRS1yUlJmZ284Mk8xQThrM0FUbnZHUU8t0gGmAUFVX3lxTE1hcXg2MFFBTXQtUUtwbWgtbUR6MDljWWhJVkhfb1BNeHlTSWlSRTNDbjVCNHNRWF93b1JYVWtJZFJuVlRuTGo1cVN4clUzT2drZmJzczBJNW82S2VGQVp0OG5SOUI1OGlwcTc3NmFzZnI4TW9tTTQ4RXJ5V2ZnUW5uRC0yVnVFWTJ2TUJTMzlqV0ZFcHZNc1VEWHZKbG5mSllGWmFadGc?oc=5",
-      "source": "Media One",
-      "category": "general",
-      "published_at": "2026-10-18T11:11:48+00:00",
-      "importance": 3,
-      "personal_score": 3.25,
-      "entities": [
-        "ഇമ്രാന്",
-        "ഖാൻ്റെ",
-        "പ്രതിഷേധം",
-        "അംഗീകരിക്കാനാവില്ല",
-        "ലീവ്",
-        "ഇന്ത്യ",
-        "നോട്ടീസിനെ",
-        "പിന്തുണച്ച്",
-        "കേന്ദ്ര",
-        "മന്ത്രി",
-        "Media One"
+        "രണ്ടാം",
+        "ട്വന്റി",
+        "സിംബാബ്",
+        "വെയെ",
+        "തകർത്ത്",
+        "ഇന്ത്യൻ",
+        "പെൺപടയ്ക്ക്",
+        "പരമ്പരജയം",
+        "Deshabhimani"
       ],
       "summary_method": "rss_fallback"
     },
@@ -872,75 +783,144 @@
       "summary_method": "rss_fallback"
     },
     {
-      "id": "4de44b318f13a026",
-      "title": "സൂപ്പർതാരം പുറത്ത്; വിൻഡീസിനെതിരെ പഴയ വജ്രായുധത്തെ കളത്തിലിറക്കാൻ ഇന്ത്യ - Chandrika Daily",
-      "summary": "സൂപ്പർതാരം പുറത്ത്; വിൻഡീസിനെതിരെ പഴയ വജ്രായുധത്തെ കളത്തിലിറക്കാൻ ഇന്ത്യ Chandrika Daily",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNjA1anEwcllla05LVVpvSWQ2UWFMcmY4MnJFV1E3Z1dKVV90eEN2Ylkwamw0QlFDWnhjMDRyRHlQa2hkOUFTa1FVaFY5QUFEb2hPMUt4UGdzN3VWdzUweXJHN0pjZzRTNTNfRU9fME1NWFNUZU11UTZ2X0JvYkgwZG94eWlsTjMzTmJySnlMRjRIQXpQUVVlVQ?oc=5",
-      "source": "Chandrika Daily",
+      "id": "47937ce45336cf6b",
+      "title": "മിന്നട്ടെ! ഐഎസ്എലിൽ നോർത്ത് ഈസ്റ്റ് യുണൈറ്റഡിനെതിരെ കേരള ബ്ലാസ്റ്റേഴ്സ് - Manorama Online",
+      "summary": "മിന്നട്ടെ! ഐഎസ്എലിൽ നോർത്ത് ഈസ്റ്റ് യുണൈറ്റഡിനെതിരെ കേരള ബ്ലാസ്റ്റേഴ്സ് Manorama Online",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNX0JHUHRxLVZDTU9zdGx3VVZYRlFKS2hpSEpYcGRRbHczcENoZmVsZUxDYmRPSE5DOFlQZVp0cnZpaUNNbWptSFVLaHNGN2ctT2NBTndaVG5kemZ2WnZqczFXR0ZpSkFWSnd3bDZ1WXBVSm1MSTczSTRKQWx2bUV1X05JWEJtUG0yT3BxTm5LZ1B1YlJRVnQ2LW43ZjVlYXI1WmRaZ3NGa3hHbFU?oc=5",
+      "source": "Manorama Online",
       "category": "general",
-      "published_at": "2026-10-18T19:17:08+00:00",
+      "published_at": "2026-10-18T09:59:00+00:00",
       "importance": 3,
       "personal_score": 3.25,
       "entities": [
-        "സൂപ്പർതാരം",
-        "പുറത്ത്",
-        "വിൻഡീസിനെതിരെ",
-        "പഴയ",
-        "വജ്രായുധത്തെ",
-        "കളത്തിലിറക്കാൻ",
-        "ഇന്ത്യ",
-        "Chandrika Daily"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
-      "id": "2e14e9057c157c67",
-      "title": "മൊബൈൽ റീചാർജിനെച്ചൊല്ലി തർക്കം; കേരള കോൺഗ്രസ് നേതാവിന്റെ മരണം കൊലപാതകം, മകൻ അറസ്റ്റിൽ - SouthLive",
-      "summary": "മൊബൈൽ റീചാർജിനെച്ചൊല്ലി തർക്കം; കേരള കോൺഗ്രസ് നേതാവിന്റെ മരണം കൊലപാതകം, മകൻ അറസ്റ്റിൽ SouthLive",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTWE3b19HRTQ1NHVVaXVjbDRYWHAycWt1c1FoYXRWOEZ5Vm15ZVp0RXRaMGpoaGViTWV0NU5aRkhudDl4MXFJaDJCemphNDV2YWU4SEZJYUN4Q1EySlRsZ05wQzM0SnNuTHo0ZEVFcUdPS1RTTnRVVjBwbi1hcFE1WWNObHJjdXhEQkh0V3F4ZU1kd0hkMkZzTVliaWl4SVlRdk1XVFZkVWUzMklKUG1VZjdn?oc=5",
-      "source": "SouthLive",
-      "category": "general",
-      "published_at": "2026-10-18T11:40:00+00:00",
-      "importance": 3,
-      "personal_score": 3.25,
-      "entities": [
-        "മൊബൈൽ",
-        "റീചാർജിനെച്ചൊല്ലി",
-        "തർക്കം",
+        "മിന്നട്ടെ",
+        "ഐഎസ്എലിൽ",
+        "നോർത്ത്",
+        "ഈസ്റ്റ്",
+        "യുണൈറ്റഡിനെതിരെ",
         "കേരള",
-        "കോൺഗ്രസ്",
-        "നേതാവിന്റെ",
-        "മരണം",
-        "കൊലപാതകം",
-        "മകൻ",
-        "അറസ്റ്റിൽ",
-        "SouthLive"
+        "ബ്ലാസ്റ്റേഴ്സ്",
+        "Manorama Online"
       ],
       "summary_method": "rss_fallback"
     },
     {
-      "id": "b96876241c89844b",
-      "title": "ആരോഗ്യത്തിന് അവഗണന: ഇന്ത്യയുടെ കാലാവസ്ഥാ നയത്തിന് 2 പോയിന്റ് മാത്രം; ആഗോള പട്ടികയിൽ ഏറ്റവും പിന്നിൽ - Azhimukham",
-      "summary": "ആരോഗ്യത്തിന് അവഗണന: ഇന്ത്യയുടെ കാലാവസ്ഥാ നയത്തിന് 2 പോയിന്റ് മാത്രം; ആഗോള പട്ടികയിൽ ഏറ്റവും പിന്നിൽ Azhimukham",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA2Vk9fOXpqRlZJNjNmVmh4Tm4zZzBibEtJbnRiTmw3eExLbVYwQjd2ZEVVdk5QZ2kyYkpPSUhMNXphVkJsZ2kwOHpoUUJycGxMS0N3Z2RlRmd2TS1lZ2pIVm1ZOE9pejRLS0U5dzNqR1Z6eVlQ?oc=5",
-      "source": "Azhimukham",
+      "id": "2bba78c2e539419c",
+      "title": "സ്പേസ് ഡോക്കിംഗ് പരീക്ഷണം നടത്താനുപയോഗിച്ച ഉപഗ്രഹങ്ങൾ തിരികെ ഭൂമിയിലെത്തി - Asianet News Malayalam",
+      "summary": "സ്പേസ് ഡോക്കിംഗ് പരീക്ഷണം നടത്താനുപയോഗിച്ച ഉപഗ്രഹങ്ങൾ തിരികെ ഭൂമിയിലെത്തി Asianet News Malayalam",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQbzRsRWhJclhqbFpmUlBaUmhmRWdfQmFXTGhjRG5Wak5mY0V5RDg3enc3cHoxelFZN2Q5Ym1NNmpLY1I0czFseFktNlFZUnRldkNJTzZoQzZPdFMwQ0llME5vU3pNaXZxM2dISS1IN3c1QmZDQUE1LVZVajVsZ0JNMDNnbmdtcFhnem5mLWRRcEc1LXUyaTJMRzdnQ3lEMGRMa0wxVkJNVDlESWtxR2FhZHJmQVlWS2Z0QUNNZ2czeHJFck9YeWtZTUtKNlI4T1Bxa09USnNwNkpEWHE2ZXNnOTRR0gHnAUFVX3lxTFBHRUxaWEJEbUZjbk11dkFpMmZHQXR0Z3laMFVvUnNFNHVLaHR0SFBaRHlIdmxtWHVaOERuODBvQ3g3cExKLW05aS13MGpVS0dnM0R4UGM3blFJenhQN0lmdU9haUU1SVB2WFd3R2tKZm5Gc3A4Z01uWWt6X3p0cjY4akRiYmtyaVRqUGR1Y3FHQzE3QTBPekN5anYxZkF0aW9Ldi1Jb292QUt3NmZrMElfM0RiZ2d6aVVLb2FsVXd0cGNxc1lBVUdrdXZYUHdkeURfSlQ5TjNTUkkxSVg4YzUzb0FVdmVtVQ?oc=5",
+      "source": "Asianet News Malayalam",
       "category": "general",
-      "published_at": "2026-10-18T09:27:29+00:00",
+      "published_at": "2026-10-18T13:35:37+00:00",
+      "importance": 3,
+      "personal_score": 3.25,
+      "entities": [
+        "സ്പേസ്",
+        "ഡോക്കിംഗ്",
+        "പരീക്ഷണം",
+        "നടത്താനുപയോഗിച്ച",
+        "ഉപഗ്രഹങ്ങൾ",
+        "തിരികെ",
+        "ഭൂമിയിലെത്തി",
+        "Asianet News Malayalam"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
+      "id": "3f25590e6713a84a",
+      "title": "അടുത്ത 10 വർഷത്തെ ഓഹരി വിപണി: ഏത് പുതിയ മേഖലകൾ നിർണായകമാകും? - DhanamOnline",
+      "summary": "അടുത്ത 10 വർഷത്തെ ഓഹരി വിപണി: ഏത് പുതിയ മേഖലകൾ നിർണായകമാകും? DhanamOnline",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQUFUMjg1ek85VzVMckk4dm5kMnFQN1I2aXQ5NTNpUHNqMjc0UlZOT3lCdGEyMHBUVTFrRnd4dDJQRHU4N3dmZjVoQUZkMHlza3Q4R196MkxuUDJJeFZUeXRnNlE2Zy1icjA5QW1Gc2ZTbHFOM0ZrYWczY1gwR0pVLVo3UVJIU2JMeHNpRmR1Tk5wblhBVTAw0gGkAUFVX3lxTE5QVE9xZWRuZTltM3FZMmhfNFNpS2dWVmZaOGFic0R2XzlzdG13akp3Vld6Z1pNcTVjek5GNzNLUGtjOTJlc29nUWlpd2JENlZmbWJoeUl6Z3JocHgzOXVVeU1IM1NCaHR1VTU5ZXdnQmRxRU8tQjVhWncxclZxVlBYY2VuMG5HaTNfbTI3RWpoTEd2Q0x4R1puSkhjMnJieFozYVRV?oc=5",
+      "source": "DhanamOnline",
+      "category": "general",
+      "published_at": "2026-10-18T10:30:00+00:00",
       "importance": 2,
       "personal_score": 2.25,
       "entities": [
-        "ആരോഗ്യത്തിന്",
-        "അവഗണന",
-        "ഇന്ത്യയുടെ",
-        "കാലാവസ്ഥാ",
-        "നയത്തിന്",
-        "പോയിന്റ്",
-        "മാത്രം",
-        "ആഗോള",
-        "പട്ടികയിൽ",
-        "ഏറ്റവും",
-        "പിന്നിൽ",
-        "Azhimukham"
+        "അടുത്ത",
+        "വർഷത്തെ",
+        "ഓഹരി",
+        "വിപണി",
+        "ഏത്",
+        "പുതിയ",
+        "മേഖലകൾ",
+        "നിർണായകമാകും",
+        "DhanamOnline"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
+      "id": "3f1323bb058c9da2",
+      "title": "ഉപരോധ രാജ്യങ്ങളിലേക്ക് എണ്ണ കയറ്റുമതി ചെയ്‌ത് ഇന്ത്യ; ഇന്ധന കയറ്റുമതിയിൽ 43 ശതമാനം വർധനവ് - ETV Bharat",
+      "summary": "ഉപരോധ രാജ്യങ്ങളിലേക്ക് എണ്ണ കയറ്റുമതി ചെയ്‌ത് ഇന്ത്യ; ഇന്ധന കയറ്റുമതിയിൽ 43 ശതമാനം വർധനവ് ETV Bharat",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdUZveFVlRGloQVJUR0JMdDVselBaa0dCTnFhVzlzei1WOFRuUmFjUDNtRnVZRVNTV2p0NVNrZnVJY3dXNG9lV3hyRVBsbUgtbVdZZzZ5X3VQVTVHd2FOSHk4ZDlOaXhqNVhrWHFYZW0yZVZtQ2JaTWhsWENNcVFWd0xKMVVvZ2d4VXZSNXlkUE9VM2JjQmVv0gGcAUFVX3lxTE9EemxFRGtrZlhHUy03QUNISzZGcVVhRUlKcnFEV0ZmVW5fUzJxcVd3eUxaU0xjc05NNV9penFscU04VWlZX3lmY0FiV2xDbFlBRDMwaWVqQjhweXV3eG05cjdVd0NYa2FySzY5UlNGUEVQeGx4OEswVEhnUU5mN2NBeDNJQWl3eTlZdUpGaU81VU5yMk1KQVJSNFh2VA?oc=5",
+      "source": "ETV Bharat",
+      "category": "general",
+      "published_at": "2026-10-18T10:21:51+00:00",
+      "importance": 2,
+      "personal_score": 2.25,
+      "entities": [
+        "ഉപരോധ",
+        "രാജ്യങ്ങളിലേക്ക്",
+        "എണ്ണ",
+        "കയറ്റുമതി",
+        "ചെയ്",
+        "ഇന്ത്യ",
+        "ഇന്ധന",
+        "കയറ്റുമതിയിൽ",
+        "ശതമാനം",
+        "വർധനവ്",
+        "ETV Bharat"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
+      "id": "db35de85d431e847",
+      "title": "‘ജന്തർ മന്തർ എല്ലായിടത്തും’; ഗ്യാനേഷ് കുമാറിന്റെ രാജി ആവശ്യം ഇന്ത്യക്ക് പുറത്തേക്കും, വിവിധ രാജ്യങ്ങളിൽ... - Madhyamam",
+      "summary": "‘ജന്തർ മന്തർ എല്ലായിടത്തും’; ഗ്യാനേഷ് കുമാറിന്റെ രാജി ആവശ്യം ഇന്ത്യക്ക് പുറത്തേക്കും, വിവിധ രാജ്യങ്ങളിൽ... Madhyamam",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB2R1N3SWNwTi1JTGVheWVoRUJFSW1rRHZIYkwwMV9pRGdwY1IzSDQ3b2pBcnJzSmplckVHUlM3bXlRVlZIcEo5NVFUd244Q3BuVnpPNVJLT204eGZNOUFkb1VIRnR6YUJlV193TTFpSTJfa29uQWpmdmFMekzSAYIBQVVfeXFMTnNwb3FIX1hlWWkyQXFwaDgzVVZhNTZlYWlCYUZ5MFFGcnQ1T0tyV2VBQlp0alM4THZ6RjBtX0M0UmRMSXNEckMxUGFsb3UxSTMzUmp5NGZqckc5d2R6c1FDVFIzRTMxb3RLYW15bTRNdm5Mc01GcUFOSDVnUjVNMlVrUQ?oc=5",
+      "source": "Madhyamam",
+      "category": "general",
+      "published_at": "2026-10-18T10:37:04+00:00",
+      "importance": 2,
+      "personal_score": 2.25,
+      "entities": [
+        "ജന്തർ",
+        "മന്തർ",
+        "എല്ലായിടത്തും",
+        "ഗ്യാനേഷ്",
+        "കുമാറിന്റെ",
+        "രാജി",
+        "ആവശ്യം",
+        "ഇന്ത്യക്ക്",
+        "പുറത്തേക്കും",
+        "വിവിധ",
+        "രാജ്യങ്ങളിൽ",
+        "Madhyamam"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
+      "id": "f348d29a37f1f9d8",
+      "title": "കുടിയേറ്റത്തിന്റെ ഇന്ത്യ: തൊഴിൽ തേടി പുറപ്പെടുന്ന മനുഷ്യരും വികസനത്തിന്റെ മറച്ചുവെച്ച ചെലവുകളും - SouthLive",
+      "summary": "കുടിയേറ്റത്തിന്റെ ഇന്ത്യ: തൊഴിൽ തേടി പുറപ്പെടുന്ന മനുഷ്യരും വികസനത്തിന്റെ മറച്ചുവെച്ച ചെലവുകളും SouthLive",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVWl4LUlvRnlhUkpiR0NVUnJtSVJjUW5LLUdGWG15M2k3cXJKMnhkZ0szUnVJRmN2blpoUjlFSFpFWThPMFJTc0JWeGVkUFVhcTc4QXhyRGtNLWtXZzhvUGdQaFlzN2Fxc0htRjNfX1FtTkhseDlpNkp2dXZ5NWR5YXNSSW41cVZLa0g1bUNPOXBuQmFDS2l5T3JUMkZOM2tiQ2lEZ1BoR0JZVndJOUhxYXRSWURwd2xt?oc=5",
+      "source": "SouthLive",
+      "category": "general",
+      "published_at": "2026-10-18T06:15:00+00:00",
+      "importance": 2,
+      "personal_score": 2.25,
+      "entities": [
+        "കുടിയേറ്റത്തിന്റെ",
+        "ഇന്ത്യ",
+        "തൊഴിൽ",
+        "തേടി",
+        "പുറപ്പെടുന്ന",
+        "മനുഷ്യരും",
+        "വികസനത്തിന്റെ",
+        "മറച്ചുവെച്ച",
+        "ചെലവുകളും",
+        "SouthLive"
       ],
       "summary_method": "rss_fallback"
     },
@@ -1017,49 +997,72 @@
       "summary_method": "rss_fallback"
     },
     {
-      "id": "590d80f3a8fc582f",
-      "title": "രഞ്ജി ട്രോഫി: ഒഡിഷയുടെ ബോളിംഗ് കരുത്തിന് മുന്നിൽ പതറി കേരളം; നാല് വിക്കറ്റ് നഷ്ടം - Asianet News Malayalam",
-      "summary": "രഞ്ജി ട്രോഫി: ഒഡിഷയുടെ ബോളിംഗ് കരുത്തിന് മുന്നിൽ പതറി കേരളം; നാല് വിക്കറ്റ് നഷ്ടം Asianet News Malayalam",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNb29POUpPRGxvT0ZPYmlWTXVDMlNYUXAxQld6dU1QekNIX3BGN1VidGp1ajVuLXREUXJvUkdBVmhSd2RnbGFkcFBodkoyRGhmdGk0THFSNEtqVnhlU2tjWjhhMktuNUNrUVM2MnZLOVB6RmNrYno3RnM3ZTJoMVdkbVBjdEpNYi13Wkt3VTR6ZXdZRHBYUlByX3JtUVZZcXpIN2ExTTVBc20xVjNycDdFWFAyVXk1OUN2NGhlT29iYVd5UFBKSXo5Y0J0Z9IB0AFBVV95cUxPU1V4dk9YUE9qWmRpX2xNVEkwOVRuRWNXdk5mSGFXeUxxUWREemRLZW5GclViR0tzdGg5NGpSRGUtTWQ1NVhXaktyeFdKRy1FOWlwd1R0QmZrRHRTaTNSU0lzZnU3RHRPTHNCcnZhQ0p4XzdEa3A3TUtmZ2pTeWV2RjMyMmlnNGRVNVBKTVByQnpYaTJCMkljekFIZFZnckNIUW0xR1E2WV9qWEcwWVg4YUtKTG9qRDFKcHU3aVVJMVlrNXRweGJYVDBuODJFaWJi?oc=5",
-      "source": "Asianet News Malayalam",
+      "id": "a8f4db1bfdceb4f7",
+      "title": "ഭർത്താവിനെ കൊന്നത് ഭാര്യയും ആൺ സുഹൃത്തും ചേർന്ന്; പാമ്പുകടിയെന്ന നാടകം! ഒടുവിൽ വധശിക്ഷ - Media One",
+      "summary": "ഭർത്താവിനെ കൊന്നത് ഭാര്യയും ആൺ സുഹൃത്തും ചേർന്ന്; പാമ്പുകടിയെന്ന നാടകം! ഒടുവിൽ വധശിക്ഷ Media One",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBIRUYtTWxYRkFsbzhNZkg5M3JadFROaHVBWWROQ19CdmdmY2Z1b0UzcnNTNVlaTFR5NDh0QkhfaTJwTE1HUFNVb09MQ0I2ZUpIZl9aaHZ3UFR1M3hzeVJ3R25McDVqUGdVUmJwbi05WFXSAXZBVV95cUxOUnAyZ09uMzczV1VPTHc5QjJ2MGEwYkkwRlppblNIMDE5UXdPUXoyVl9GQWFzcGxieHJBUUhkVHBhSzR4ak11UGdJRVl5REpBaWNHOXdPYmtiZG1DZ2FGRDB6Z1lmQVVuU0ZNeW4xakF6VndlWVZB?oc=5",
+      "source": "Media One",
       "category": "general",
-      "published_at": "2026-10-18T07:07:26+00:00",
+      "published_at": "2026-10-18T11:15:34+00:00",
       "importance": 2,
       "personal_score": 2.25,
       "entities": [
-        "രഞ്ജി",
-        "ട്രോഫി",
-        "ഒഡിഷയുടെ",
-        "ബോളിംഗ്",
-        "കരുത്തിന്",
-        "മുന്നിൽ",
-        "പതറി",
-        "കേരളം",
-        "നാല്",
-        "വിക്കറ്റ്",
-        "നഷ്ടം",
-        "Asianet News Malayalam"
+        "ഭർത്താവിനെ",
+        "കൊന്നത്",
+        "ഭാര്യയും",
+        "സുഹൃത്തും",
+        "ചേർന്ന്",
+        "പാമ്പുകടിയെന്ന",
+        "നാടകം",
+        "ഒടുവിൽ",
+        "വധശിക്ഷ",
+        "Media One"
       ],
       "summary_method": "rss_fallback"
     },
     {
-      "id": "db45bc52748396b8",
-      "title": "ഒരുകോടിയുടെ സമൃദ്ധി SM-77 ലോട്ടറി ഫലം പ്രഖ്യാപിച്ചു - Asianet News Malayalam",
-      "summary": "ഒരുകോടിയുടെ സമൃദ്ധി SM-77 ലോട്ടറി ഫലം പ്രഖ്യാപിച്ചു Asianet News Malayalam",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNcVdxanhaREJwaEc3Y1RfU2Y0RFB3QlpBTDdQODdnaWxmUUNRWWh4TWZSWkVBd3lLcTJjOENRQ3NKWW9hYnFIRVYtVkx5VjhxTVBqcFZKVkNaeUpoM1RnZDl3d19mXzlLbWluZjltbWhTMDJCYzJQVE1PUWtRRjF6cWZvRzdsN2xRRFc0Szc2dGhxTHV5M1ZqdzZYQUhfUFFBdkJaemJIYWg2TG41VXZMQVdaTXBFRDA1MTJUYlVhWWc0M19jSzJaQlpjNENITkRCQ2pLS0lYTjkxUdIB3wFBVV95cUxNbU1oYUl4dnZDQmJFTzVJLUltYmEzRWtaR2txejhvZDlPMTZYVVpSUXh6X255d0JIQ1NFU0dBc1BGRVY0YnVhT2c1Y0J5ejJvaUxIMEt3Tmo3cUV2cXBKbC1oZHdaOHJvTW54OVkxXzZHWUQ0OVpIdENiaXpySkd5WS1nS3l4WjV0Szhib0N0M0szc0FuRzlmY19raHdrS1M2MDRsUjJLRzg2dTctT3JYYkZZR2NaT3ZPdWNfelhteWowNUx2MG81cFFjdmZqSUlleXF6TkU2TlNrS1pKek1n?oc=5",
-      "source": "Asianet News Malayalam",
+      "id": "f276e35b1000aa74",
+      "title": "സ്വർണം വാങ്ങിക്കൂട്ടുന്നു! ഡോളറിനെ തകർക്കാൻ ചൈനയുടെ നീക്കമോ?! - Media One",
+      "summary": "സ്വർണം വാങ്ങിക്കൂട്ടുന്നു! ഡോളറിനെ തകർക്കാൻ ചൈനയുടെ നീക്കമോ?! Media One",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9xeWhUcngxV2gyTzlVZWQyRFpfWkw5UkN6bWF1ZU5VZHlvSWh3SGd5MGd4TjZHeUFDTmQ4cUFLYXJ2cDBEeVRBODNOb2RrVHlwZGdXUlZybF9NZVBueXZ2MXVfWTFNUdIBa0FVX3lxTE9wQ3pTOEh1RnF3d2hmWWZreHhXcDlsQmM0eDZ4X25TaTB0encxZlM2THkwb05IRFNORXk2cklOa0pOX0U5YlpTRjZyTXEwT0M4dmY3cmJiX2F6ZU81NHBNVzhXYkZtQ3VqWXRZ?oc=5",
+      "source": "Media One",
       "category": "general",
-      "published_at": "2026-10-18T09:40:48+00:00",
+      "published_at": "2026-10-18T11:13:53+00:00",
       "importance": 2,
       "personal_score": 2.25,
       "entities": [
-        "ഒരുകോടിയുടെ",
-        "സമൃദ്ധി",
-        "ലോട്ടറി",
-        "ഫലം",
-        "പ്രഖ്യാപിച്ചു",
-        "SM-77",
-        "Asianet News Malayalam"
+        "സ്വർണം",
+        "വാങ്ങിക്കൂട്ടുന്നു",
+        "ഡോളറിനെ",
+        "തകർക്കാൻ",
+        "ചൈനയുടെ",
+        "നീക്കമോ",
+        "Media One"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
+      "id": "f8541e5e5a015dfd",
+      "title": "'ഇമ്രാന്‍ ഖാൻ്റെ പ്രതിഷേധം അംഗീകരിക്കാനാവില്ല'; 'ലീവ് ഇന്ത്യ' നോട്ടീസിനെ പിന്തുണച്ച് കേന്ദ്ര മന്ത്രി... - Media One",
+      "summary": "'ഇമ്രാന്‍ ഖാൻ്റെ പ്രതിഷേധം അംഗീകരിക്കാനാവില്ല'; 'ലീവ് ഇന്ത്യ' നോട്ടീസിനെ പിന്തുണച്ച് കേന്ദ്ര മന്ത്രി... Media One",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZGFRWk9TU1hpTjc4VlhKVUdQRXVCdHVmXzdMd0g5Sk5HbFk1eTJjbE12RDFobzRRTVdveGd3UUVsQk95QThqbnBpbmdUd2E3Q2pCN09pOHZNOEwwSVM0azZDOVREa0I1S3czVnZCdy1xdkxfR0dteDFKcXhsWU1Qendic0Y5VlIwRS1yUlJmZ284Mk8xQThrM0FUbnZHUU8t0gGmAUFVX3lxTE1hcXg2MFFBTXQtUUtwbWgtbUR6MDljWWhJVkhfb1BNeHlTSWlSRTNDbjVCNHNRWF93b1JYVWtJZFJuVlRuTGo1cVN4clUzT2drZmJzczBJNW82S2VGQVp0OG5SOUI1OGlwcTc3NmFzZnI4TW9tTTQ4RXJ5V2ZnUW5uRC0yVnVFWTJ2TUJTMzlqV0ZFcHZNc1VEWHZKbG5mSllGWmFadGc?oc=5",
+      "source": "Media One",
+      "category": "general",
+      "published_at": "2026-10-18T11:11:48+00:00",
+      "importance": 2,
+      "personal_score": 2.25,
+      "entities": [
+        "ഇമ്രാന്",
+        "ഖാൻ്റെ",
+        "പ്രതിഷേധം",
+        "അംഗീകരിക്കാനാവില്ല",
+        "ലീവ്",
+        "ഇന്ത്യ",
+        "നോട്ടീസിനെ",
+        "പിന്തുണച്ച്",
+        "കേന്ദ്ര",
+        "മന്ത്രി",
+        "Media One"
       ],
       "summary_method": "rss_fallback"
     },
@@ -1086,24 +1089,27 @@
       "summary_method": "rss_fallback"
     },
     {
-      "id": "8c9aed0d314402e2",
-      "title": "തിരുവനന്തപുരം മുതൽ ബെംഗളൂരു വരെ; 10 ഓവറുകളിൽ വീഴാത്ത ഇന്ത്യ - Chandrika Daily",
-      "summary": "തിരുവനന്തപുരം മുതൽ ബെംഗളൂരു വരെ; 10 ഓവറുകളിൽ വീഴാത്ത ഇന്ത്യ Chandrika Daily",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNbDMzdmIwV25zQ1V4YldCVzFzYzdSclBxR1dYdDZQMlR0ZEJkZ3k3WFhyNFF3WFBsRUIzOVNsaUh3UWxuWmptR2dxY3FUMEE1ZnAwSVZnZm0yeGNtSU1OV3RiU2lsZ2dNXzJWR2s2ZlBXSHFWVEFLWjJPN1VncF9nTDNzYzVnRDhKdGIyM2VlQnd6V2M?oc=5",
-      "source": "Chandrika Daily",
+      "id": "2e14e9057c157c67",
+      "title": "മൊബൈൽ റീചാർജിനെച്ചൊല്ലി തർക്കം; കേരള കോൺഗ്രസ് നേതാവിന്റെ മരണം കൊലപാതകം, മകൻ അറസ്റ്റിൽ - SouthLive",
+      "summary": "മൊബൈൽ റീചാർജിനെച്ചൊല്ലി തർക്കം; കേരള കോൺഗ്രസ് നേതാവിന്റെ മരണം കൊലപാതകം, മകൻ അറസ്റ്റിൽ SouthLive",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTWE3b19HRTQ1NHVVaXVjbDRYWHAycWt1c1FoYXRWOEZ5Vm15ZVp0RXRaMGpoaGViTWV0NU5aRkhudDl4MXFJaDJCemphNDV2YWU4SEZJYUN4Q1EySlRsZ05wQzM0SnNuTHo0ZEVFcUdPS1RTTnRVVjBwbi1hcFE1WWNObHJjdXhEQkh0V3F4ZU1kd0hkMkZzTVliaWl4SVlRdk1XVFZkVWUzMklKUG1VZjdn?oc=5",
+      "source": "SouthLive",
       "category": "general",
-      "published_at": "2026-10-18T08:57:10+00:00",
+      "published_at": "2026-10-18T11:40:00+00:00",
       "importance": 2,
       "personal_score": 2.25,
       "entities": [
-        "തിരുവനന്തപുരം",
-        "മുതൽ",
-        "ബെംഗളൂരു",
-        "വരെ",
-        "ഓവറുകളിൽ",
-        "വീഴാത്ത",
-        "ഇന്ത്യ",
-        "Chandrika Daily"
+        "മൊബൈൽ",
+        "റീചാർജിനെച്ചൊല്ലി",
+        "തർക്കം",
+        "കേരള",
+        "കോൺഗ്രസ്",
+        "നേതാവിന്റെ",
+        "മരണം",
+        "കൊലപാതകം",
+        "മകൻ",
+        "അറസ്റ്റിൽ",
+        "SouthLive"
       ],
       "summary_method": "rss_fallback"
     },
@@ -1154,30 +1160,6 @@
       "summary_method": "rss_fallback"
     },
     {
-      "id": "cae9e8b2fde72707",
-      "title": "വായ്പയ്ക്കായി കാത്തിരിക്കുന്ന പാകിസ്ഥാന് ഐഎംഎഫ്–ലോകബാങ്ക് അധ്യക്ഷപദവി; ചരിത്രനേട്ടമെന്ന് ഇസ്ലാമാബാദ് | Pakistan IMF World Bank chairmanship - Times Kerala",
-      "summary": "വായ്പയ്ക്കായി കാത്തിരിക്കുന്ന പാകിസ്ഥാന് ഐഎംഎഫ്–ലോകബാങ്ക് അധ്യക്ഷപദവി; ചരിത്രനേട്ടമെന്ന് ഇസ്ലാമാബാദ് | Pakistan IMF World Bank chairmanship Times Kerala",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1FZzVlSnc0cXBzVGoxWmhEeWNXaFRrMkVHODhwa3VFTFdfRFVWSWVmbzJHMmpRTmZKSTBvY3dXeWY3SlVuUWtsRklwV3N5Ukt6VHNXY1U0eXc3Mk8welBPbFl4VlVpZGVkRkJOaVphMnpwTmY1aFE?oc=5",
-      "source": "Times Kerala",
-      "category": "general",
-      "published_at": "2026-10-17T05:38:17+00:00",
-      "importance": 1,
-      "personal_score": 1.25,
-      "entities": [
-        "വായ്പയ്ക്കായി",
-        "കാത്തിരിക്കുന്ന",
-        "പാകിസ്ഥാന്",
-        "ഐഎംഎഫ്",
-        "ലോകബാങ്ക്",
-        "അധ്യക്ഷപദവി",
-        "ചരിത്രനേട്ടമെന്ന്",
-        "ഇസ്ലാമാബാദ്",
-        "Pakistan IMF World Bank",
-        "Times Kerala"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
       "id": "f022aee229110625",
       "title": "റിയാദ് എയർപോർട്ടിന് നേരെ 20 ഹൂതി ആക്രമണങ്ങൾ - NEWS 360 - WORLD - Kerala Kaumudi",
       "summary": "റിയാദ് എയർപോർട്ടിന് നേരെ 20 ഹൂതി ആക്രമണങ്ങൾ - NEWS 360 - WORLD Kerala Kaumudi",
@@ -1220,6 +1202,26 @@
       "summary_method": "rss_fallback"
     },
     {
+      "id": "d7ddf386939dc59e",
+      "title": "പരസ്യ വധശിക്ഷ വേണ്ട: ട്രംപ് - NEWS 360 - WORLD - Kerala Kaumudi",
+      "summary": "പരസ്യ വധശിക്ഷ വേണ്ട: ട്രംപ് - NEWS 360 - WORLD Kerala Kaumudi",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBRb1BkY0dmY0t3NjN4WGthTmFhMmdtc3ZPM0xTaTJkbHBRVm9NX1N5dTZMZlNseWN4TmVEVzZDTDVMdEV6ME1hSV9pb09jQWRaOC11eG1pNy0yZVlEVk1ab0RhMVQ?oc=5",
+      "source": "Kerala Kaumudi",
+      "category": "general",
+      "published_at": "2026-10-16T02:16:54+00:00",
+      "importance": 1,
+      "personal_score": 1.25,
+      "entities": [
+        "പരസ്യ",
+        "വധശിക്ഷ",
+        "വേണ്ട",
+        "ട്രംപ്",
+        "Kerala Kaumudi",
+        "WORLD Kerala Kaumudi"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
       "id": "ad5591c368958a20",
       "title": "ക്യാൻസർ: മാർപാപ്പ സുഖം പ്രാപിക്കുന്നു - NEWS 360 - WORLD - Kerala Kaumudi",
       "summary": "ക്യാൻസർ: മാർപാപ്പ സുഖം പ്രാപിക്കുന്നു - NEWS 360 - WORLD Kerala Kaumudi",
@@ -1241,6 +1243,26 @@
     }
   ],
   "tech": [
+    {
+      "id": "e690140571d2ccdc",
+      "title": "Can Artificial Intelligence Help Sweden Predict Disasters and Protect Its Critical Services? - Devdiscourse",
+      "summary": "Can Artificial Intelligence Help Sweden Predict Disasters and Protect Its Critical Services? Devdiscourse",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPM2V1WUlfdkw5QlIzSS1TNlVxTU51d0ZWV0xkSlJoVEg5VzN0VVM3Zm4taTVITk5vRHdyeHRic2tVeThOMWx1NzNKdjJFRktHWFdMc1Z5NWdoQmM0cWVpV0dsVWt1MkNmYk1XRGNUV2VpMnl3NE5mYmZOUGVPdm5ZazJnTWw5Nm9VUkt0a2xDX2pLSjNoRlpObk5QcEM0UHloRFV4VmhxeFJMN3hSTXd2MVlfMkl2MXdVb1ItNG9zNFVWdGctQVhRTDNrclVqMG90QmNGTE9vRlZWSTItT1lOdENWQ0RSOW82czZnS9IB8gFBVV95cUxNeWo2WXlFRFRsUGpXR1RYNEVHaVNyOUo5V2NqWG1JdTVFcE96Slp5SjlvdnpQWHJESVBTV0RUQ1ktckJ6S3NlTUozS2hldC01SVllcWpzdjBuWDE0aTluOWxpcU0tbEwzTW1xY3FmcTVaUnVvOHNlUlpWT2FhbzZSWmhGS2tEUDJ3X3RFc2JCaGs0RXhrLW9WUU1KUFI1emJFMExuc1pWV3FGOTczcUc2MnRpYXNxLXpGUjBZY05UdDhJS1NobmxHd1BwUVhpWjNkdUZ5ZXc5Z3VOS0t2TkFfd3p5MC1WcVBDaEVYdldJYzRXZw?oc=5",
+      "source": "Devdiscourse",
+      "category": "tech",
+      "published_at": "2026-10-18T18:16:06+00:00",
+      "importance": 10,
+      "personal_score": 10.0,
+      "entities": [
+        "Can Artificial Intelligence Help",
+        "Sweden Predict Disasters",
+        "Protect Its Critical Services",
+        "Devdiscourse Can Artificial Intelligence",
+        "Help Sweden Predict Disasters",
+        "Devdiscourse"
+      ],
+      "summary_method": "rss_fallback"
+    },
     {
       "id": "ef1f1eda0c9f2cf5",
       "title": "How Israeli firm’s ‘zero-click’ malware attack poses global security risk - Al Jazeera",
@@ -1338,40 +1360,19 @@
       "summary_method": "rss_fallback"
     },
     {
-      "id": "d100a3652615729f",
-      "title": "Margaret Hamilton, Apollo software pioneer, dies at 90 — The Guardian - UA.NEWS",
-      "summary": "Margaret Hamilton, Apollo software pioneer, dies at 90 — The Guardian UA.NEWS",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVnh6LXo0dkVkX0RnNS10cFpHWUwzazByZWo5aHM3MndobnBuOEhaRjJkdlRDUk1QTzJVN2gwbC1qZk5mVDNKcXhlMkRDOTFPYjdRbXVHUGk5eThTOXRYVTVoTW4yV0M4OUJ5bW5XcEV0RmpJakh3SkNGckhuOTU1TG9QbHp6bWVxM2RETUZWazVObkdZd0FHNWFpQTNpOTFyaDBBZ1V3SnJRaWpXVkZHaDlkNA?oc=5",
-      "source": "UA.NEWS",
+      "id": "6ec04bf086d4e923",
+      "title": "AI Reverse Engineering Replicates Adobe, Microsoft Software - 조선일보",
+      "summary": "AI Reverse Engineering Replicates Adobe, Microsoft Software 조선일보",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWGRUdEI2NVV4NDBrM3JJNWVvU3d4TzVqZmhZNWxxd2ZzVXBOM01pZnY2RnlpUW1ZSWVqUEdQTDl6b056M19NTFpHYUliUUtCeDFDd05DTWNza2ZQSXdUM0hTYndJX1VPSTBVeXJBSjlHYnFqcF9FanVrNno4RWVlQVA1TEttTVA5?oc=5",
+      "source": "조선일보",
       "category": "tech",
-      "published_at": "2026-10-18T11:07:05+00:00",
+      "published_at": "2026-10-18T22:12:21+00:00",
       "importance": 8,
       "personal_score": 8.0,
       "entities": [
-        "Margaret Hamilton",
-        "Apollo",
-        "The Guardian",
-        "UA.NEWS Margaret Hamilton",
-        "The Guardian UA.NEWS"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
-      "id": "d935f4df665e1565",
-      "title": "Anthropic’s proposed AI safety bill only kicks in if 50 deaths or $1 billion in damages are on the line — proposal would effectively make the Commerce Department the only agency capable of stopping an AI model - Tom's Hardware",
-      "summary": "Anthropic’s proposed AI safety bill only kicks in if 50 deaths or $1 billion in damages are on the line — proposal would effectively make the Commerce Department the only agency capable of stopping an AI model Tom's Hardware",
-      "url": "https://news.google.com/rss/articles/CBMiiwNBVV95cUxOZzBaVmx3ZGk3YlBaUW1pR0FwLVdwWFlwaVlUeVFVdHY4dVhqRExLeV91blg0ZmNyRERfMFpQNmY5NlZtaW8xUDVwbEVlVWFMLUNkUnFiRk9KMEtsNThBR2loVXRxWkZiekxNYllWaEZpTzZBNUMtNndZUnVvTzQzZFJWS2d4NTE2eldDUzR0R2RDNHhuZ3p0cW9ib2puME5nQ2xpR2RRQkRkMmxjTmw2NV9Jck1tZjVCUDZwYjlYb0NyMS1MbWV0cE00SzlBbzZWcFB6M1FnRkFveFQxV0o2QS11MWtzOEUtQkx2NG40S3RJM0lOMUNBZjkzelBLdk94QzA3LUl6cDlPMFF3ZUM2MDYzSDRtQVlWR0pEeTVoY0JDdEN0WUxiUDl1eFpGTDBObUtZRHVlb0pyYzdMOFdTVUIxTXRQNnV5eGFlMWJIbEJhQWpKUDZEX1psZWxNakkzdWp2ekE3V3VFNWNXT21oYnA4c0w5bHZCTHNVUGNkLXRJU3pwMlV6V1p2aw?oc=5",
-      "source": "Tom's Hardware",
-      "category": "tech",
-      "published_at": "2026-10-18T11:25:00+00:00",
-      "importance": 8,
-      "personal_score": 8.0,
-      "entities": [
-        "Anthropic",
-        "Commerce Department",
-        "Tom",
-        "Hardware Anthropic",
-        "Hardware"
+        "AI Reverse Engineering Replicates",
+        "Adobe",
+        "Microsoft Software"
       ],
       "summary_method": "rss_fallback"
     },
@@ -1393,6 +1394,24 @@
       "summary_method": "rss_fallback"
     },
     {
+      "id": "da27e52f01c5f62d",
+      "title": "Anthropic launches free AI-powered security scanner for open-source software projects - The Times of India",
+      "summary": "Anthropic launches free AI-powered security scanner for open-source software projects The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQZmlnYV8yLVVScU5yUU9rbHROODROTWkzdmd0aVFmZFMtdlZadG1MVnRvTldTWE5MNVJTLWUydkpsWTNXRTR3U0lxenlhemVHWHBKY3kxaFhrOE5IZEM5dzNCTHNONjJKclV0N19vOXp2SkpIY0FkTVdKcV82amxZU2tWb0dTWkdZRWlzdmpGNWVDNEhRTEVqRVlBRl9qRlRKLWRCRTRWUTdsSnJXaDBaYzhPWnZ2MUV6cm1td080TkhfbXlPMy1RamRYWWtOVWY2OHVCT3huNTlCVFB3a2xkTjR1NGFoa3R1bEVlanE3cHlaR3ZfUzRyb2twWDTSAYICQVVfeXFMTWhBOTVqZG44SWxYQjRubTMtdEdtaXlqRWxkVUNRbmNlUTlvUEpTek1YZW1fYzh5UVUxU1V0NXNzbHgyc2J4ZnE0SlZ5dXdJbTdyam5mWjV6QWRCd085a296cE9yS0lDVHJTaGd6U1l4NVNIMUhrY3U3VlN6YnpyYm9Ua0JHRTVoajRxVUJablMwZVkyRFB2c3FvQ202Tm5UVWwybElOUEFzdmVwa2R2S1lmampDN3N1NzRHaW5ra0s3aW5xbjB1LVVYd2VJZjRYSFYtdEllMjJfRXR4Y2x6U0hMNl9vSTZMdVdMM1dHWHByaFE2Xy1tVUVWQkpLS1FzclJB?oc=5",
+      "source": "The Times of India",
+      "category": "tech",
+      "published_at": "2026-10-09T07:31:00+00:00",
+      "importance": 8,
+      "personal_score": 8.0,
+      "entities": [
+        "Anthropic",
+        "AI-powered",
+        "The Times",
+        "India Anthropic"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
       "id": "776b5520402e1ab6",
       "title": "Open Source Software Security Concerns with Spike Curtis - DevOps.com",
       "summary": "Open Source Software Security Concerns with Spike Curtis DevOps.com",
@@ -1409,24 +1428,6 @@
         "DevOps.com Open Source Software",
         "Security Concerns",
         "Spike Curtis DevOps.com"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
-      "id": "da27e52f01c5f62d",
-      "title": "Anthropic launches free AI-powered security scanner for open-source software projects - The Times of India",
-      "summary": "Anthropic launches free AI-powered security scanner for open-source software projects The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQZmlnYV8yLVVScU5yUU9rbHROODROTWkzdmd0aVFmZFMtdlZadG1MVnRvTldTWE5MNVJTLWUydkpsWTNXRTR3U0lxenlhemVHWHBKY3kxaFhrOE5IZEM5dzNCTHNONjJKclV0N19vOXp2SkpIY0FkTVdKcV82amxZU2tWb0dTWkdZRWlzdmpGNWVDNEhRTEVqRVlBRl9qRlRKLWRCRTRWUTdsSnJXaDBaYzhPWnZ2MUV6cm1td080TkhfbXlPMy1RamRYWWtOVWY2OHVCT3huNTlCVFB3a2xkTjR1NGFoa3R1bEVlanE3cHlaR3ZfUzRyb2twWDTSAYICQVVfeXFMTWhBOTVqZG44SWxYQjRubTMtdEdtaXlqRWxkVUNRbmNlUTlvUEpTek1YZW1fYzh5UVUxU1V0NXNzbHgyc2J4ZnE0SlZ5dXdJbTdyam5mWjV6QWRCd085a296cE9yS0lDVHJTaGd6U1l4NVNIMUhrY3U3VlN6YnpyYm9Ua0JHRTVoajRxVUJablMwZVkyRFB2c3FvQ202Tm5UVWwybElOUEFzdmVwa2R2S1lmampDN3N1NzRHaW5ra0s3aW5xbjB1LVVYd2VJZjRYSFYtdEllMjJfRXR4Y2x6U0hMNl9vSTZMdVdMM1dHWHByaFE2Xy1tVUVWQkpLS1FzclJB?oc=5",
-      "source": "The Times of India",
-      "category": "tech",
-      "published_at": "2026-10-09T07:31:00+00:00",
-      "importance": 8,
-      "personal_score": 8.0,
-      "entities": [
-        "Anthropic",
-        "AI-powered",
-        "The Times",
-        "India Anthropic"
       ],
       "summary_method": "rss_fallback"
     },
@@ -1464,24 +1465,6 @@
       "summary_method": "rss_fallback"
     },
     {
-      "id": "cd39458a9d5e437b",
-      "title": "'Read business records, personal and confidential material': National cybersecurity agency warns about AI agents accessing data of Indian organisations - OpIndia",
-      "summary": "'Read business records, personal and confidential material': National cybersecurity agency warns about AI agents accessing data of Indian organisations OpIndia",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPdDQ1M21yWTRpTHI0Z2J2Y28zNmJUc1p4ekw2cW5obVNnSjNtLVpfLUhzYjdFOE5aLXNUU3BTYU9vamd1X2R1NXp1bUFmVDliRmh0eFVoTkRaRjNKNXZMQ2hkYjFYa2NURHhCY0hNenNKbFIxUkZfdkV3MWtxZTBnSEI1RGd1V3gyUW03WmFEZ2hJZ1Rzb1prZTM4Sms0MUNWUFdLQ1VWR3M4dXVRSUplRGpucG5odHh4QjZDWDhlTWVOTnNVRzhj?oc=5",
-      "source": "OpIndia",
-      "category": "tech",
-      "published_at": "2026-10-16T07:56:11+00:00",
-      "importance": 8,
-      "personal_score": 8.0,
-      "entities": [
-        "Read",
-        "National",
-        "Indian",
-        "OpIndia"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
       "id": "8c32c4a4f12c3589",
       "title": "LF Energy Research Finds Open Source Software Can Deliver 2-5x Greater Net Value for Grid Operators - Linux Foundation",
       "summary": "LF Energy Research Finds Open Source Software Can Deliver 2-5x Greater Net Value for Grid Operators Linux Foundation",
@@ -1505,19 +1488,21 @@
       "summary_method": "rss_fallback"
     },
     {
-      "id": "2130747d8a15e50e",
-      "title": "AI Reverse Engineering Replicates Software, Sparks Controversy - 조선일보",
-      "summary": "AI Reverse Engineering Replicates Software, Sparks Controversy 조선일보",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWGRUdEI2NVV4NDBrM3JJNWVvU3d4TzVqZmhZNWxxd2ZzVXBOM01pZnY2RnlpUW1ZSWVqUEdQTDl6b056M19NTFpHYUliUUtCeDFDd05DTWNza2ZQSXdUM0hTYndJX1VPSTBVeXJBSjlHYnFqcF9FanVrNno4RWVlQVA1TEttTVA5?oc=5",
-      "source": "조선일보",
+      "id": "d100a3652615729f",
+      "title": "Margaret Hamilton, Apollo software pioneer, dies at 90 — The Guardian - UA.NEWS",
+      "summary": "Margaret Hamilton, Apollo software pioneer, dies at 90 — The Guardian UA.NEWS",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVnh6LXo0dkVkX0RnNS10cFpHWUwzazByZWo5aHM3MndobnBuOEhaRjJkdlRDUk1QTzJVN2gwbC1qZk5mVDNKcXhlMkRDOTFPYjdRbXVHUGk5eThTOXRYVTVoTW4yV0M4OUJ5bW5XcEV0RmpJakh3SkNGckhuOTU1TG9QbHp6bWVxM2RETUZWazVObkdZd0FHNWFpQTNpOTFyaDBBZ1V3SnJRaWpXVkZHaDlkNA?oc=5",
+      "source": "UA.NEWS",
       "category": "tech",
-      "published_at": "2026-10-18T15:37:33+00:00",
-      "importance": 8,
-      "personal_score": 8.0,
+      "published_at": "2026-10-18T11:07:05+00:00",
+      "importance": 7,
+      "personal_score": 7.0,
       "entities": [
-        "AI Reverse Engineering Replicates",
-        "Software",
-        "Sparks Controversy"
+        "Margaret Hamilton",
+        "Apollo",
+        "The Guardian",
+        "UA.NEWS Margaret Hamilton",
+        "The Guardian UA.NEWS"
       ],
       "summary_method": "rss_fallback"
     },
@@ -1565,6 +1550,42 @@
       "summary_method": "rss_fallback"
     },
     {
+      "id": "d935f4df665e1565",
+      "title": "Anthropic’s proposed AI safety bill only kicks in if 50 deaths or $1 billion in damages are on the line — proposal would effectively make the Commerce Department the only agency capable of stopping an AI model - Tom's Hardware",
+      "summary": "Anthropic’s proposed AI safety bill only kicks in if 50 deaths or $1 billion in damages are on the line — proposal would effectively make the Commerce Department the only agency capable of stopping an AI model Tom's Hardware",
+      "url": "https://news.google.com/rss/articles/CBMiiwNBVV95cUxOZzBaVmx3ZGk3YlBaUW1pR0FwLVdwWFlwaVlUeVFVdHY4dVhqRExLeV91blg0ZmNyRERfMFpQNmY5NlZtaW8xUDVwbEVlVWFMLUNkUnFiRk9KMEtsNThBR2loVXRxWkZiekxNYllWaEZpTzZBNUMtNndZUnVvTzQzZFJWS2d4NTE2eldDUzR0R2RDNHhuZ3p0cW9ib2puME5nQ2xpR2RRQkRkMmxjTmw2NV9Jck1tZjVCUDZwYjlYb0NyMS1MbWV0cE00SzlBbzZWcFB6M1FnRkFveFQxV0o2QS11MWtzOEUtQkx2NG40S3RJM0lOMUNBZjkzelBLdk94QzA3LUl6cDlPMFF3ZUM2MDYzSDRtQVlWR0pEeTVoY0JDdEN0WUxiUDl1eFpGTDBObUtZRHVlb0pyYzdMOFdTVUIxTXRQNnV5eGFlMWJIbEJhQWpKUDZEX1psZWxNakkzdWp2ekE3V3VFNWNXT21oYnA4c0w5bHZCTHNVUGNkLXRJU3pwMlV6V1p2aw?oc=5",
+      "source": "Tom's Hardware",
+      "category": "tech",
+      "published_at": "2026-10-18T11:25:00+00:00",
+      "importance": 7,
+      "personal_score": 7.0,
+      "entities": [
+        "Anthropic",
+        "Commerce Department",
+        "Tom",
+        "Hardware Anthropic",
+        "Hardware"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
+      "id": "44adcce549d798b8",
+      "title": "Over ₹134 crore spent on proprietary software at premier institutes, says open source collective - The Hindu",
+      "summary": "Over ₹134 crore spent on proprietary software at premier institutes, says open source collective The Hindu",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNZkdfMlBfR2JscmI5T2g4T3hFU2hIUjJ6NnBMQ0RiS2lQUXYtYnZwSm1COUlpWF9lYkVtelRXTFhjbG4yT256TXZPOTZJdG1fTHp4d0Zkbl9kVU1vcTRQN01aU1lseG5RbGNldUhVVm1XTUhXS3VyQU5DUDVZZDlHel9uUUZjWnJkOVUyM1hadW9rZXRnNlM4SDlKUU80cFR4aGI0bnlyYkZicXNNdVdJYXY4cHZpR1hmMzhTcDN1OVRuYl82czlkQTBkaVY5MC1pZXNhdXZacHk0bVRnZFExMVF5Z1VnbEgtYk5pLS1SeFPSAfcBQVVfeXFMTVdRUkdCeGMzRlJBbDlPckZLZm5TZTR3U1llNzV4MTl3SXQtWnF3WEdacDhRbElrUmRnc1JwcHp0VDNkcDNlNU13b2xmbjZtMzRBNndRTmNmdUNKNVY4Y2FOYXpMRDJVR3hpVWM5T1hYS2JOLThiTWxOTXl2T0VwX2JhbWdLLS1ueFM5VmNveHBFOW9Hc01hdkFZeEtmTC1ZcHBpdFVENEUyQXl4dnk0aXdsaURPV3hQU2NIblIyMHk0Y2NOYWVMQUdJMDJrQWh4QVZtaElpNnJsZlZ2N0N2R1lDcUd6WlJkd2lZQWYzSDBYUVFWQm1RTQ?oc=5",
+      "source": "The Hindu",
+      "category": "tech",
+      "published_at": "2026-09-04T07:00:00+00:00",
+      "importance": 7,
+      "personal_score": 7.0,
+      "entities": [
+        "Over",
+        "The Hindu Over",
+        "The Hindu"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
       "id": "ab690511f686330e",
       "title": "Use of Artificial Intelligence by Bangladeshi Doctors and Its Impact on Medical Learning, Research, and Clinical Practice: An Internet-Based Pilot Survey - Cureus",
       "summary": "Use of Artificial Intelligence by Bangladeshi Doctors and Its Impact on Medical Learning, Research, and Clinical Practice: An Internet-Based Pilot Survey Cureus",
@@ -1589,23 +1610,6 @@
       "summary_method": "rss_fallback"
     },
     {
-      "id": "44adcce549d798b8",
-      "title": "Over ₹134 crore spent on proprietary software at premier institutes, says open source collective - The Hindu",
-      "summary": "Over ₹134 crore spent on proprietary software at premier institutes, says open source collective The Hindu",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNZkdfMlBfR2JscmI5T2g4T3hFU2hIUjJ6NnBMQ0RiS2lQUXYtYnZwSm1COUlpWF9lYkVtelRXTFhjbG4yT256TXZPOTZJdG1fTHp4d0Zkbl9kVU1vcTRQN01aU1lseG5RbGNldUhVVm1XTUhXS3VyQU5DUDVZZDlHel9uUUZjWnJkOVUyM1hadW9rZXRnNlM4SDlKUU80cFR4aGI0bnlyYkZicXNNdVdJYXY4cHZpR1hmMzhTcDN1OVRuYl82czlkQTBkaVY5MC1pZXNhdXZacHk0bVRnZFExMVF5Z1VnbEgtYk5pLS1SeFPSAfcBQVVfeXFMTVdRUkdCeGMzRlJBbDlPckZLZm5TZTR3U1llNzV4MTl3SXQtWnF3WEdacDhRbElrUmRnc1JwcHp0VDNkcDNlNU13b2xmbjZtMzRBNndRTmNmdUNKNVY4Y2FOYXpMRDJVR3hpVWM5T1hYS2JOLThiTWxOTXl2T0VwX2JhbWdLLS1ueFM5VmNveHBFOW9Hc01hdkFZeEtmTC1ZcHBpdFVENEUyQXl4dnk0aXdsaURPV3hQU2NIblIyMHk0Y2NOYWVMQUdJMDJrQWh4QVZtaElpNnJsZlZ2N0N2R1lDcUd6WlJkd2lZQWYzSDBYUVFWQm1RTQ?oc=5",
-      "source": "The Hindu",
-      "category": "tech",
-      "published_at": "2026-09-04T07:00:00+00:00",
-      "importance": 7,
-      "personal_score": 7.0,
-      "entities": [
-        "Over",
-        "The Hindu Over",
-        "The Hindu"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
       "id": "428a05fadf8dc4f9",
       "title": "AI agents access confidential data, India's cybersecurity agency issues 'critical' alert - The New Indian Express",
       "summary": "AI agents access confidential data, India's cybersecurity agency issues 'critical' alert The New Indian Express",
@@ -1617,23 +1621,6 @@
       "personal_score": 7.0,
       "entities": [
         "The New Indian Express"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
-      "id": "dc42dc2979f5137e",
-      "title": "AI Reverse Engineering Replicates Adobe, Microsoft Software - 조선일보",
-      "summary": "AI Reverse Engineering Replicates Adobe, Microsoft Software 조선일보",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcFphOWlDWVdCWl9LUnlaWGdoX2JuUUNaODVxaVR6YmdHMHZldVd3WFpJendhSWxCcW9zWkZwV250bk1LRy1nR2JFXy1XWUpkdUphZlpaQnZRMGFmc2RDRnU0aGRDdV9fNWpCYzVCemREcU84dkVKV1ZXUjhlTWtQS25XVm5PTlpr?oc=5",
-      "source": "조선일보",
-      "category": "tech",
-      "published_at": "2026-10-18T06:53:42+00:00",
-      "importance": 7,
-      "personal_score": 7.0,
-      "entities": [
-        "AI Reverse Engineering Replicates",
-        "Adobe",
-        "Microsoft Software"
       ],
       "summary_method": "rss_fallback"
     },
@@ -1849,24 +1836,6 @@
       "summary_method": "rss_fallback"
     },
     {
-      "id": "8c453b45ae256175",
-      "title": "TechCrunch Disrupt: What’s next for AI and software development - InfoWorld",
-      "summary": "TechCrunch Disrupt: What’s next for AI and software development InfoWorld",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPaXA3S2V5NHByVm9pWC1JYjZNbVY1aXdXWWdGUW12eXhqV3BaclVEWVFWZ0h3cUVjRHJ3b01aNngzcVpJaThBQno1WDc2SUlpODN5cFJrV3hpMWtkWjlaTjd3YjRDdGMxSko3dlhEbTlfVkFZckxUSkt1M1lKSlRvMFI3eW5tNkVKM0wzQWRsUzM0eHE3NXFLRkMtWFdILVRuRnZsQ0VGR2QxU2Rz?oc=5",
-      "source": "InfoWorld",
-      "category": "tech",
-      "published_at": "2026-10-13T07:00:00+00:00",
-      "importance": 6,
-      "personal_score": 6.0,
-      "entities": [
-        "TechCrunch Disrupt",
-        "What",
-        "InfoWorld TechCrunch Disrupt",
-        "InfoWorld"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
       "id": "f8cec30f524dbf28",
       "title": "Securing Open-Source Software in the Frontier AI Era - Palo Alto Networks",
       "summary": "Securing Open-Source Software in the Frontier AI Era Palo Alto Networks",
@@ -1887,6 +1856,24 @@
       "summary_method": "rss_fallback"
     },
     {
+      "id": "8c453b45ae256175",
+      "title": "TechCrunch Disrupt: What’s next for AI and software development - InfoWorld",
+      "summary": "TechCrunch Disrupt: What’s next for AI and software development InfoWorld",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPaXA3S2V5NHByVm9pWC1JYjZNbVY1aXdXWWdGUW12eXhqV3BaclVEWVFWZ0h3cUVjRHJ3b01aNngzcVpJaThBQno1WDc2SUlpODN5cFJrV3hpMWtkWjlaTjd3YjRDdGMxSko3dlhEbTlfVkFZckxUSkt1M1lKSlRvMFI3eW5tNkVKM0wzQWRsUzM0eHE3NXFLRkMtWFdILVRuRnZsQ0VGR2QxU2Rz?oc=5",
+      "source": "InfoWorld",
+      "category": "tech",
+      "published_at": "2026-10-13T07:00:00+00:00",
+      "importance": 6,
+      "personal_score": 6.0,
+      "entities": [
+        "TechCrunch Disrupt",
+        "What",
+        "InfoWorld TechCrunch Disrupt",
+        "InfoWorld"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
       "id": "21e43bb84768f9bc",
       "title": "How much does it cost to use open source software? - blog.google",
       "summary": "How much does it cost to use open source software? blog.google",
@@ -1898,23 +1885,6 @@
       "personal_score": 6.0,
       "entities": [
         "How"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
-      "id": "b7213582fe680853",
-      "title": "Introducing GitLab's agent orchestration for software development - GitLab",
-      "summary": "Introducing GitLab's agent orchestration for software development GitLab",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAycFA2dXhQUGNUR3AwX25XTG5PYzhEcEJsQndzS08yU0FEcVdpWmVPNVQ1c21VVy1weE05eHFFQTNMSWlFT3VjNlZDcHR5SGdhMlh6aHR2dTlJUTU1Q0EtQWxXcGY4Q29Z?oc=5",
-      "source": "GitLab",
-      "category": "tech",
-      "published_at": "2026-10-13T16:34:35+00:00",
-      "importance": 6,
-      "personal_score": 6.0,
-      "entities": [
-        "Introducing GitLab",
-        "GitLab Introducing GitLab",
-        "GitLab"
       ],
       "summary_method": "rss_fallback"
     },
@@ -1932,6 +1902,23 @@
         "CraftifAI",
         "YourStory.com CraftifAI",
         "YourStory.com"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
+      "id": "b7213582fe680853",
+      "title": "Introducing GitLab's agent orchestration for software development - GitLab",
+      "summary": "Introducing GitLab's agent orchestration for software development GitLab",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAycFA2dXhQUGNUR3AwX25XTG5PYzhEcEJsQndzS08yU0FEcVdpWmVPNVQ1c21VVy1weE05eHFFQTNMSWlFT3VjNlZDcHR5SGdhMlh6aHR2dTlJUTU1Q0EtQWxXcGY4Q29Z?oc=5",
+      "source": "GitLab",
+      "category": "tech",
+      "published_at": "2026-10-13T16:34:35+00:00",
+      "importance": 6,
+      "personal_score": 6.0,
+      "entities": [
+        "Introducing GitLab",
+        "GitLab Introducing GitLab",
+        "GitLab"
       ],
       "summary_method": "rss_fallback"
     },
@@ -2024,26 +2011,6 @@
       "summary_method": "rss_fallback"
     },
     {
-      "id": "d4254b9f4009d81a",
-      "title": "ELISA Expands Open Source Ecosystem for Safety-Critical Software - Linux Foundation",
-      "summary": "ELISA Expands Open Source Ecosystem for Safety-Critical Software Linux Foundation",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZWFkbkExYUM1Q00zTEUtOUZNVWp5cjk1bGk2NEltX3hCVzFDakpFSHg1QXc3RERidDl5OGdEZXFURV9HX216cGZMTDFic1hrUktib3NKMlg2SzNnakpkZ2VzVGtwS1BFN2k4RGJnYTdkTm50YWE3dWVPTGctS2dKWVZ6dExjM1VRU29ZUkdUb1J1RkVVWHIxM19vUnMxc0wyR0pjddIBtAFBVV95cUxQLVdJZlllVWQzQTNMWTR6ZWxjaWw5WkQ4TE55anRjM2I1OEpNZEpqTjIyek1DcTdVeHg2VzIwY2JudjljU3AyMnZaNXQwalZNejVnZDlsSllSNGt4enQ1ZEdONU9YTGVqbjlBY19wbHpEME5wX25xYVBnZjE0a2g5Mi1rNFdEbEJvd2VqT2tNSjNzZC1paC1VaXNXWjI0cnhBLTZYbDgtZGpjVktDcUFiSVNFTDY?oc=5",
-      "source": "Linux Foundation",
-      "category": "tech",
-      "published_at": "2026-10-05T17:37:49+00:00",
-      "importance": 6,
-      "personal_score": 6.0,
-      "entities": [
-        "ELISA Expands Open Source",
-        "Ecosystem",
-        "Safety-Critical Software",
-        "Linux Foundation ELISA Expands",
-        "Open Source Ecosystem",
-        "Safety-Critical Software Linux Foundation"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
       "id": "d95df5235003d1e9",
       "title": "The Economic Value of Open Source Software Contributions - Linux Foundation",
       "summary": "The Economic Value of Open Source Software Contributions Linux Foundation",
@@ -2102,6 +2069,29 @@
       "summary_method": "rss_fallback"
     },
     {
+      "id": "a0b6a6f3f83e8c3d",
+      "title": "Creator of free Adobe clones unveils open-source Microsoft Office Excel, PowerPoint, and Word replications — Autodesk tools and other subscription-based services may come next - Tom's Hardware",
+      "summary": "Creator of free Adobe clones unveils open-source Microsoft Office Excel, PowerPoint, and Word replications — Autodesk tools and other subscription-based services may come next Tom's Hardware",
+      "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxPZXFnamVUTGhncWhKYUVqWXBVZ2F5by1UbmRaaWVya1BubXRmZWlpSXRGc3BvMVJuN0VrY1drelNOS3lzODBhQ2VxdzluZVBPQlBFTXN1UEE2YTRGdHU4NVFOZlZmbFEtSnE4UEMycGRJMl9idHc4RWZScFVzSEJSVkw3RTBRWUtQaDluaUtGSzdIWTdNUG85MjlJc19ZbDVhRDhkbmkwZGFzbGJVeVF0OVM3QVVCN2d4ZVZselcwVnlINHRkTzN1YXhkVFg5b2dOQ082bHNCSk96SkVEbTh4M2RKTXVqSF8zYkRWUDZ2QzlYdjZfV1RyUDdTQ2tEQ3Q5UFdld1QxSkZNclRHMmxyWW1tZG84VUt6TmVNa0F1RGpRSll5TUZDZ1hoOTNTSVNIV3BNcVRfMDNBMzJxYUJyTDJrVHNmTS1QaHc?oc=5",
+      "source": "Tom's Hardware",
+      "category": "tech",
+      "published_at": "2026-10-11T10:50:00+00:00",
+      "importance": 5,
+      "personal_score": 5.0,
+      "entities": [
+        "Creator",
+        "Adobe",
+        "Microsoft Office Excel",
+        "PowerPoint",
+        "Word",
+        "Autodesk",
+        "Tom",
+        "Hardware Creator",
+        "Hardware"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
       "id": "f4813df284334352",
       "title": "India’s Fraud Problem Has Moved Into the Phone. Our Defences Need to Follow. - Cybersecurity Insiders",
       "summary": "India’s Fraud Problem Has Moved Into the Phone. Our Defences Need to Follow. Cybersecurity Insiders",
@@ -2156,6 +2146,23 @@
         "Australia",
         "Appinventiv How",
         "Australia Appinventiv"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
+      "id": "aacc07844696b2b2",
+      "title": "Saudi cybersecurity market grows 10.7% to $4.35bn as digital economy expands - Arab News",
+      "summary": "Saudi cybersecurity market grows 10.7% to $4.35bn as digital economy expands Arab News",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPM3ZqMUJzVEZVbzB2cGlYa0E2U1BjeU56SjVPRkZIMkZFeExWWW5SMDNzbVNhdzF5dlhUX2JUWVpoSTA2NVk4NWFyRzBSYzYyZmdma0R2OG5sajdyT3JRVHo3Nlp4WXBHSEhnUWhXbnBocG8xSktYYmhLU25pam9wRmNZUm9xdUIycElIQmdHWlByRVpCU3k2TzRkaHlQUGhTcVJMRVNRaXBVTEhlZXpjcWg2LWU?oc=5",
+      "source": "Arab News",
+      "category": "tech",
+      "published_at": "2026-10-17T08:16:00+00:00",
+      "importance": 4,
+      "personal_score": 4.0,
+      "entities": [
+        "Saudi",
+        "Arab News Saudi",
+        "Arab News"
       ],
       "summary_method": "rss_fallback"
     },
