@@ -1,6 +1,6 @@
 {
   "version": 7,
-  "updated_at": "2026-10-22T23:43:09.443957+00:00",
+  "updated_at": "2026-10-23T02:04:10.650788+00:00",
   "ai_engine": {
     "enabled": true,
     "type": "mathematical_ml",
@@ -46,32 +46,6 @@
     "image_url_stored": false
   },
   "general": [
-    {
-      "id": "52ffed6bc374134f",
-      "title": "കറന്റ് കട്ടിൽ ഔദ്യോഗിക വാട്‌സാപ്പ് ഗ്രൂപ്പിൽ ട്രോൾ; ജില്ലാ വിദ്യാഭ്യാസ ഓഫീസിൽ അന്വേഷണം - Mathrubhumi",
-      "summary": "കറന്റ് കട്ടിൽ ഔദ്യോഗിക വാട്‌സാപ്പ് ഗ്രൂപ്പിൽ ട്രോൾ; ജില്ലാ വിദ്യാഭ്യാസ ഓഫീസിൽ അന്വേഷണം Mathrubhumi",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOb0YzYzRJTVJDcGxESHlGelhvLWUydmhmZTBqdGJraUxNckUyVXpES3VQZmlwSVRBMHpnc3ZTX1Z6VWF6WGxyU2dBV3pDRTlCM1dqRS1hd0pfSVUwandvVnZTaGxob2luOHJMc2J2eVlTTE9FekRTMThsV3QzZUpMRzdxQnVXUmd4dktpSEVqd2NYejZtU1lubE5oYUh3QdIBowFBVV95cUxPRmVOZUZmQmVzci11cFZ2bXhvSU5HLV9vbTlGQlFQWE9LMDM2Zl9KWS04bTZLeG5kOEwtclFZU2RVTW52SlhPM1JYSVpoLUItaGJwZ1RBbURRZTJuNy10N3JFbjJ4cEJEZEROWHRDN3pYUkt2cG9MdFBNTG85cUJJRzhqSkt4SkF2eDFkWGJNMzZiYzhPZG9zWTRCczE1TzM1cjZr?oc=5",
-      "source": "Mathrubhumi",
-      "category": "general",
-      "published_at": "2026-10-22T23:16:54+00:00",
-      "importance": 4,
-      "personal_score": 4.25,
-      "entities": [
-        "കറന്റ്",
-        "കട്ടിൽ",
-        "ഔദ്യോഗിക",
-        "വാട്",
-        "സാപ്പ്",
-        "ഗ്രൂപ്പിൽ",
-        "ട്രോൾ",
-        "ജില്ലാ",
-        "വിദ്യാഭ്യാസ",
-        "ഓഫീസിൽ",
-        "അന്വേഷണം",
-        "Mathrubhumi"
-      ],
-      "summary_method": "rss_fallback"
-    },
     {
       "id": "16e1c9c73525e36c",
       "title": "ലൈവ്സ്ട്രീമിനിടെ സ്വയം തീകൊളുത്തി; സ്റ്റിക്ക് റൺ ഗെയിം സ്രഷ്ടാവ് മാനുവൽ ഒട്ടോ ജീവനൊടുക്കി - Mathrubhumi",
@@ -122,31 +96,6 @@
       "summary_method": "rss_fallback"
     },
     {
-      "id": "04ecbb24b854713d",
-      "title": "'മുരളി ആരോഗ്യമന്ത്രിയായതോടെ പ്രശ്നങ്ങള്‍ തുടങ്ങി'; രൂക്ഷവിമര്‍ശനവുമായി മുന്‍മന്ത്രിമാര്‍ ; പുല്ലുവിലയെന്ന് മുരളീധരന്‍ - Manorama News",
-      "summary": "'മുരളി ആരോഗ്യമന്ത്രിയായതോടെ പ്രശ്നങ്ങള്‍ തുടങ്ങി'; രൂക്ഷവിമര്‍ശനവുമായി മുന്‍മന്ത്രിമാര്‍ ; പുല്ലുവിലയെന്ന് മുരളീധരന്‍ Manorama News",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPQ2hRU1kwTWUwTkFiWGtUbUNsRXhGb3ZOZGNRVnQxaUlsdTFKN2RZOTdtQWtXVjZsZ01RdmZ3NjI5aFMxWGpBcF9GNjlYWVV6SWQ2MnlvekRXS2xHWHFxTTVteWlSMkdQVVdSRHA0R2pQOFJWbjdZVHhiSi1EVXRxRU9ZYlhwSUZEdWhXVVNaSk1CLXBteWpaTTljaWNaeF8xakplNDc3NnFlUWcxNl9hME12R1VaaHVKdkdaejloTFVuUlp2ZzFZSUtn0gHPAUFVX3lxTFBkbEd2UkdUZ0owMlNkYjctYmZOWXJycTVabmllM1lmSEdzRGpJNGUyODBuQ0c1TUlkQnJsaFI4dko1Q3lrVTBtSjlWeE9aV0tIZVMwZEM0YVBYaUVYVWYtUDdkc3dxOUNPcGo4dU92Qk9FMUNHSG5SNG1OTVA1a3Z4QlF0WUVta2FzN0taQXBMalFfR0d2M1pyalJkOWt1MlRpTndCZjVKZ0gyOFRDc2IxZnRaUi1sSTAxUnBTdW1FZXJkWmtKSlU1dzVqOHFYcw?oc=5",
-      "source": "Manorama News",
-      "category": "general",
-      "published_at": "2026-10-22T13:48:14+00:00",
-      "importance": 4,
-      "personal_score": 4.25,
-      "entities": [
-        "മുരളി",
-        "ആരോഗ്യമന്ത്രിയായതോടെ",
-        "പ്രശ്നങ്ങള്",
-        "തുടങ്ങി",
-        "രൂക്ഷവിമര്",
-        "ശനവുമായി",
-        "മുന്",
-        "മന്ത്രിമാര്",
-        "പുല്ലുവിലയെന്ന്",
-        "മുരളീധരന്",
-        "Manorama News"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
       "id": "2340a72a7393faf0",
       "title": "ചോദ്യം ചെയ്യലിന് ഹാജരാകില്ലെന്ന് ഇ.ഡി.യെ അറിയിച്ചു;പിണറായിയുടെ അപ്പീൽ വീണ്ടും പരിഗണിക്കും - Mathrubhumi",
       "summary": "ചോദ്യം ചെയ്യലിന് ഹാജരാകില്ലെന്ന് ഇ.ഡി.യെ അറിയിച്ചു;പിണറായിയുടെ അപ്പീൽ വീണ്ടും പരിഗണിക്കും Mathrubhumi",
@@ -166,6 +115,31 @@
         "വീണ്ടും",
         "പരിഗണിക്കും",
         "Mathrubhumi"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
+      "id": "31e45a72c69fd322",
+      "title": "‘അവധി പ്ലീസ്’; കോഴിക്കോട് ഓറഞ്ച് അലര്‍ട്ട്, കലക്ടറുടെ പേജില്‍ കമന്റുകളുടെ പെരുമഴ - Manorama News",
+      "summary": "‘അവധി പ്ലീസ്’; കോഴിക്കോട് ഓറഞ്ച് അലര്‍ട്ട്, കലക്ടറുടെ പേജില്‍ കമന്റുകളുടെ പെരുമഴ Manorama News",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVGlMUHRQQ0lTYzRJNDdVNVhrQWdDYS1NejRxamFickNEUF9kMWtwQllOMEtpcTU1QzBadWVicXd6cUJ4d3JOWllkcU9VWHpySmFSMlhZYjRtT1dHRDVISHU5MUdqS2J4QXIxYnRWdl9saWp5Um5WNTYwTjdoT0pSZ2t5cXlpQlFtNGRyTHI0UmZaX283MFJnYThIMkZRYXJZWFFhdkZXSdIBrAFBVV95cUxPa0ltS3VfUnpoVzhWeGtYNVQwQmgxcjA0MmdFSFhMd3ZZZjFRQ0E5VjE3RWhDelhGdWo4aWdSLTRhZjRBaGlLRUNtbmR4RTQweFdnQldPTnF4a0Nwc016amNmSWt3Vk9fRm9pMjdVOEtBdzV4YkZucTlJOHNaNnpvX2RTaGlCeE9VaUpnWlJZQm5sTmxjOXNURkJJd3ZRdWhOMFVoTFN5dGM5LUJW?oc=5",
+      "source": "Manorama News",
+      "category": "general",
+      "published_at": "2026-10-23T01:27:12+00:00",
+      "importance": 4,
+      "personal_score": 4.25,
+      "entities": [
+        "അവധി",
+        "പ്ലീസ്",
+        "കോഴിക്കോട്",
+        "ഓറഞ്ച്",
+        "അലര്",
+        "ട്ട്",
+        "കലക്ടറുടെ",
+        "പേജില്",
+        "കമന്റുകളുടെ",
+        "പെരുമഴ",
+        "Manorama News"
       ],
       "summary_method": "rss_fallback"
     },
@@ -195,28 +169,28 @@
       "summary_method": "rss_fallback"
     },
     {
-      "id": "7d9ed6e33c64b4e7",
-      "title": "സഞ്ജുവിന്റെ വെടിക്കെട്ടിൽ ഇന്ത്യയുടെ ‘പവർ പ്ലേ’, പിന്തുടർന്നു ജയിക്കുന്ന ഉയർന്ന സ്കോർ, ക്രൈസ്റ്റ് ചർച്ചിൽ തകർന്ന റെക്കോർഡുകൾ ഇതാ.... - Manorama Online",
-      "summary": "സഞ്ജുവിന്റെ വെടിക്കെട്ടിൽ ഇന്ത്യയുടെ ‘പവർ പ്ലേ’, പിന്തുടർന്നു ജയിക്കുന്ന ഉയർന്ന സ്കോർ, ക്രൈസ്റ്റ് ചർച്ചിൽ തകർന്ന റെക്കോർഡുകൾ ഇതാ.... Manorama Online",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQckRzWWlrQTd0anVNWVhTMm01VWtxM3cwVGtLRE5taVRwTXRNWkNpdGtkaEwyTDJhODdZVGVPNU1nTmo4MnhaLXZJbmE2UnBZbHZjQ0s0MFFOT2tNZ0tCb2pqZ3p3SG1mdUlGNjVoaFRjWUR0NGswem1zbTZhNVlKSDB4bnhTVHhCT185Z0dRVXhsbmpYWS13VnRQdWdxVFF5LXFEQVRHdUhyQzc1LU4zVm94NHg2ZkdZcnRmcXltYUdHVDMwUFE?oc=5",
+      "id": "7830a3a4f6918a9e",
+      "title": "മത്സ്യവും മാംസവും വേണ്ട: ലോക്ഭവന്റെ അടുക്കള ഇനി വെജിറ്റേറിയൻ; നിർദേശം നൽകി നിയുക്ത ഗവർണർ - Manorama Online",
+      "summary": "മത്സ്യവും മാംസവും വേണ്ട: ലോക്ഭവന്റെ അടുക്കള ഇനി വെജിറ്റേറിയൻ; നിർദേശം നൽകി നിയുക്ത ഗവർണർ Manorama Online",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPaEw5c3IwaDI5MFVmdkVCSUUxTkJDTUNxV3pJWC1jZGtPbFYyYXFUYzBDZTYycDNaeWs2NmZTSG5iakFqdVFnem1BSXdyVE1jaVF2LWdaY05MY1VJRnFRX0NWYWFfSERGdE84eEtraXkwaThWQUIwbmRqalNOX292Nkl4UnFxQTBtMWJITHNXam5tWGxseWlMTGM5Q1JQYUNmejRuRjUwZHVCWkxwQjdZMjNZcUtvZzJwdEdXb01lWEFLaFJRbkhCZW5zWXZJcC1LOUhrR2QyTkxPTUFBRDBUNGpsMA?oc=5",
       "source": "Manorama Online",
       "category": "general",
-      "published_at": "2026-10-22T13:20:45+00:00",
+      "published_at": "2026-10-22T15:08:25+00:00",
       "importance": 4,
       "personal_score": 4.25,
       "entities": [
-        "സഞ്ജുവിന്റെ",
-        "വെടിക്കെട്ടിൽ",
-        "ഇന്ത്യയുടെ",
-        "പവർ",
-        "പ്ലേ",
-        "പിന്തുടർന്നു",
-        "ജയിക്കുന്ന",
-        "ഉയർന്ന",
-        "സ്കോർ",
-        "ക്രൈസ്റ്റ്",
-        "ചർച്ചിൽ",
-        "തകർന്ന"
+        "മത്സ്യവും",
+        "മാംസവും",
+        "വേണ്ട",
+        "ലോക്ഭവന്റെ",
+        "അടുക്കള",
+        "ഇനി",
+        "വെജിറ്റേറിയൻ",
+        "നിർദേശം",
+        "നൽകി",
+        "നിയുക്ത",
+        "ഗവർണർ",
+        "Manorama Online"
       ],
       "summary_method": "rss_fallback"
     },
@@ -246,26 +220,28 @@
       "summary_method": "rss_fallback"
     },
     {
-      "id": "4ea98984f048e555",
-      "title": "തുലാമഴയിൽ കുതിരുമോ സംസ്ഥാന കായികമേള? കോഴിക്കോട് ജില്ലയിൽ 25 വരെ ഓറഞ്ച് മുന്നറിയിപ്പ് - Manorama Online",
-      "summary": "തുലാമഴയിൽ കുതിരുമോ സംസ്ഥാന കായികമേള? കോഴിക്കോട് ജില്ലയിൽ 25 വരെ ഓറഞ്ച് മുന്നറിയിപ്പ് Manorama Online",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRGdpNnVsbDVxRVFRWUI4dWJFUUdoMFJRWWVneFlrdjBTWXl2N2R3d0luQXBKWmtrM3JiaDM5U1p4SHZ4LXFIMVNvUllDQ0kzanJIc3ozeVJxNDNyYUZWTTNCNkRoZktQMVFQVTdMbjlrSTJzdGNGVmppb0J6Vy0tMXdETmJOUlE4Wm0xOUlYVDB6TDdxVTdTZVRiSzV1aDllRlM2RG1TSUx0SEhZdWhWUDNsTjVHWGFK?oc=5",
-      "source": "Manorama Online",
+      "id": "1a516bf6c8e807a1",
+      "title": "KERALA BUDGET 2026: ആരോഗ്യ മേഖലയെ മെച്ചപ്പെടുത്തും; കേരള ഹെൽത്ത് ആൻഡ് ലൈഫ് സയൻസ് സിറ്റിക്ക് 100 കോടി - Samayam Malayalam",
+      "summary": "KERALA BUDGET 2026: ആരോഗ്യ മേഖലയെ മെച്ചപ്പെടുത്തും; കേരള ഹെൽത്ത് ആൻഡ് ലൈഫ് സയൻസ് സിറ്റിക്ക് 100 കോടി Samayam Malayalam",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPeUtMQmRyUUxScndIbnR1bkliZllIelhVNmJ0Y3BDdjNkelQzLXk3bUpjY2FxV2gwZHRkVjRPQlpBLW15NS1VM0I1SkZ3aWRCQlFjTXlzU05JR2xrTEpvbW5tcTZiOHpqYVhuU0Jhb1lZYjUtV0xScUdRdFFKWGp4bWF1TnhWYmxRd0duWDM5LXBBWUUyQlJMNXJudlA1SXNkczMxSlJ3Qzkzc0lSUUlyQXJBYlBfTFZLUXlyWktTRUkwSDFvMk1kZDJodlVNMGczdnhYalg3QVhYSGV0X0IwYtIB5gFBVV95cUxOSEhCUWlEQU9UOWNKOGJ4NVdXNW93X2luWG9wa3pLUG1GX0VKR255cDc3Q2wwdlBrLTAtMy1zM3M3TTNqWnA2dE9vSmdYcFZ0TFlxUWpsajFfOEc1bkpsNkFqM2VaYzlXX09JN3hlMk1yUTVaX0NxcktHSlNRZmQ5V1dkWmJmU2pZWEVfMnhSeWttNVoyUjRoNU12VzZTOUxoZzZyYXN2ZVVQWDFNU044eHB6MjdERjFPSmJJcDI3cmZOcW04ZHJfemRyT2ZVVXVwalVHdm9jTkNoeU1OaXE1MThQZlVCZw?oc=5",
+      "source": "Samayam Malayalam",
       "category": "general",
-      "published_at": "2026-10-22T16:35:07+00:00",
+      "published_at": "2026-06-19T07:00:00+00:00",
       "importance": 4,
       "personal_score": 4.25,
       "entities": [
-        "തുലാമഴയിൽ",
-        "കുതിരുമോ",
-        "സംസ്ഥാന",
-        "കായികമേള",
-        "കോഴിക്കോട്",
-        "ജില്ലയിൽ",
-        "വരെ",
-        "ഓറഞ്ച്",
-        "മുന്നറിയിപ്പ്",
-        "Manorama Online"
+        "ആരോഗ്യ",
+        "മേഖലയെ",
+        "മെച്ചപ്പെടുത്തും",
+        "കേരള",
+        "ഹെൽത്ത്",
+        "ആൻഡ്",
+        "ലൈഫ്",
+        "സയൻസ്",
+        "സിറ്റിക്ക്",
+        "കോടി",
+        "KERALA BUDGET",
+        "Samayam Malayalam KERALA BUDGET"
       ],
       "summary_method": "rss_fallback"
     },
@@ -322,50 +298,47 @@
       "summary_method": "rss_fallback"
     },
     {
-      "id": "ae8fd23cb774b967",
-      "title": "സഞ്ജു തുടങ്ങി, ധീർ തീർത്തു; ഇന്ത്യക്ക് റെക്കോഡ് ജയം - Metro Vaartha",
-      "summary": "സഞ്ജു തുടങ്ങി, ധീർ തീർത്തു; ഇന്ത്യക്ക് റെക്കോഡ് ജയം Metro Vaartha",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE16cXZUbzl5Ri1UcGR4OHc3dnEzUW11UEFLaEl5REY1Y0dIMVlxazNHQ1RNdmk0a09Zb2hrRVJfbHB3cGxlVmdNc0J2di1Lb05sblVCZDZTV2w0TnhZZWJHcVRQVmo5MG1MZ0JPVzh2YWI5Z9IBf0FVX3lxTFBpM0MyVDE0azY2YTZPUnZiRUVPUGlQSHM2T0NFcG1feVo1THBJRnQ5VERabkE2SXBjUFhEckJUYmNxSlV0Tk5JWjVadGFqS1lGTVg4MUtaY2Q0d2F4MVc3UUROeDJJMndNVTd6aDU2SGRjUkxNbWdKSTF4WjRnUnc?oc=5",
-      "source": "Metro Vaartha",
+      "id": "c9f027923a60a4e6",
+      "title": "'പൊതുജനാരോഗ്യ മേഖല തകർന്നു പോകുമോ എന്ന് ഭയം' മരുന്ന് വിവാദത്തിൽ മന്ത്രി മുരളീധരനെതിരെ മുൻ ആരോഗ്യമന്ത്രിമാർ - News18 Malayalam",
+      "summary": "'പൊതുജനാരോഗ്യ മേഖല തകർന്നു പോകുമോ എന്ന് ഭയം' മരുന്ന് വിവാദത്തിൽ മന്ത്രി മുരളീധരനെതിരെ മുൻ ആരോഗ്യമന്ത്രിമാർ News18 Malayalam",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQNmlqc29tVTNyMDJlRGRBeXlSZEMzdjd5b1JaZmtmTEJiWGZWNS0yR0Q1LVliWUlLSHY1b3YtVmxGLVVGQlJqRU00VE56cmozdUxsOVNMakpMY25BdXJJOS1XcW1XTEdYNnBLZ0NDM2tRclA5SzVWUDgtUjNkTmloc0JVQWpVbzNVb0xPdHRDcVMwZU1QMzNWU21vM0pWYThGYTZDODF1TExsVkVyNUJvaUZ4czVsbTJzU2gycERha0IwcjkwRHZn?oc=5",
+      "source": "News18 Malayalam",
       "category": "general",
-      "published_at": "2026-10-22T12:09:14+00:00",
+      "published_at": "2026-10-23T01:51:33+00:00",
       "importance": 3,
       "personal_score": 3.25,
       "entities": [
-        "സഞ്ജു",
-        "തുടങ്ങി",
-        "ധീർ",
-        "തീർത്തു",
-        "ഇന്ത്യക്ക്",
-        "റെക്കോഡ്",
-        "ജയം",
-        "Metro Vaartha"
+        "പൊതുജനാരോഗ്യ",
+        "മേഖല",
+        "തകർന്നു",
+        "പോകുമോ",
+        "എന്ന്",
+        "ഭയം",
+        "മരുന്ന്",
+        "വിവാദത്തിൽ",
+        "മന്ത്രി",
+        "മുരളീധരനെതിരെ",
+        "മുൻ",
+        "ആരോഗ്യമന്ത്രിമാർ"
       ],
       "summary_method": "rss_fallback"
     },
     {
-      "id": "2dc336d8d99aff50",
-      "title": "ഹൂതി ആക്രമണവും ഇറാൻ-അമേരിക്ക സംഘർഷവും ചർച്ചയാകും; ഏഴ് രാജ്യങ്ങളുടെ ഉന്നതതല യോഗം നാളെ ഇസ്താംബൂളിൽ - SouthLive",
-      "summary": "ഹൂതി ആക്രമണവും ഇറാൻ-അമേരിക്ക സംഘർഷവും ചർച്ചയാകും; ഏഴ് രാജ്യങ്ങളുടെ ഉന്നതതല യോഗം നാളെ ഇസ്താംബൂളിൽ SouthLive",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSUxSQnBiNDdjZFZFaWxHSV9uS2tiQnhPcWtrR2VTRjdMRWhsVHFESjV6eU1pamtLWkMtT1Z5UEVJZkx6UzN2R0kxWExSOUVwdWlYRDlYZkdKYlNSbkRYQXYtYk9EZk9wdU00a2lVRUpGVlY3Y0JnSHNiVWdPYXRkYjBBN2hWR0UxRkUzYw?oc=5",
-      "source": "SouthLive",
+      "id": "50517da2b02d85c9",
+      "title": "സൈബർ ലോകത്തെ നടുക്കി സുരക്ഷാവീഴ്ച - Deshabhimani",
+      "summary": "സൈബർ ലോകത്തെ നടുക്കി സുരക്ഷാവീഴ്ച Deshabhimani",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQX2RpenJSOUlTNFZMWDlmTE5CX0xBOEhWREx0LXZmVkN4UUI3WjJCRnlPSWtnZVhXTFZRTmxVWXpyOUFZSzZkYW1fVEVYTTZGZWFobXN6VW9mdjNNR0J4d253bVI0QWZLNHh3YXk5c2dRV0w1TnFCNWhGNDBxUFRaaFpiMzFzNFhiLTVv?oc=5",
+      "source": "Deshabhimani",
       "category": "general",
-      "published_at": "2026-10-22T12:29:00+00:00",
+      "published_at": "2026-10-22T18:31:12+00:00",
       "importance": 3,
       "personal_score": 3.25,
       "entities": [
-        "ഹൂതി",
-        "ആക്രമണവും",
-        "ഇറാൻ",
-        "അമേരിക്ക",
-        "സംഘർഷവും",
-        "ചർച്ചയാകും",
-        "ഏഴ്",
-        "രാജ്യങ്ങളുടെ",
-        "ഉന്നതതല",
-        "യോഗം",
-        "നാളെ",
-        "ഇസ്താംബൂളിൽ"
+        "സൈബർ",
+        "ലോകത്തെ",
+        "നടുക്കി",
+        "സുരക്ഷാവീഴ്ച",
+        "Deshabhimani"
       ],
       "summary_method": "rss_fallback"
     },
@@ -388,54 +361,6 @@
         "ഇന്ത്യ",
         "സ്ഥാനത്ത്",
         "Deshabhimani"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
-      "id": "98c5c63c411b262c",
-      "title": "റയ്ഹാൻ വാദ്രയെ കേരളത്തിലേക്ക് ക്ഷണിച്ച് മുഖ്യമന്ത്രി; ‘ചിത്രപ്രദർശനം നടത്തുന്നതിൽ അഭിമാനം, യാതൊരു... - Madhyamam",
-      "summary": "റയ്ഹാൻ വാദ്രയെ കേരളത്തിലേക്ക് ക്ഷണിച്ച് മുഖ്യമന്ത്രി; ‘ചിത്രപ്രദർശനം നടത്തുന്നതിൽ അഭിമാനം, യാതൊരു... Madhyamam",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQS3c0MnVoM183WXlOZVR2blFyU1k4QjA0aXVRaXlWLTNtMzRSYm80M0hwR1RoRkcydnBnNnU1QWxRUGlWRWEzdmJvWEpFTVlNY3c0eTlCdGM3Yk9OcjZGZE82cjZGenhFTlNFUEZSZjlqYkFrSllrZUJEM0FDV3JEZjA4SU50S2lyMG4tckFPMlhPa0Vy0gGUAUFVX3lxTFBLdzQydWgzXzdZeU5lVHZuUXJTWThCMDRpdVFpeVYtM20zNFJibzQzSHBHVGhGRzJ2cGc2dTVBbFFQaVZFYTN2Ym9YSkVNWU1jdzR5OUJ0YzdiT05yNkZkTzZyNkZ6eEVOU0VQRlJmOWpiQWtKWWtlQkQzQUNXckRmMDhJTnRLaXIwbi1yQU8yWE9rRXI?oc=5",
-      "source": "Madhyamam",
-      "category": "general",
-      "published_at": "2026-10-22T12:44:26+00:00",
-      "importance": 3,
-      "personal_score": 3.25,
-      "entities": [
-        "റയ്ഹാൻ",
-        "വാദ്രയെ",
-        "കേരളത്തിലേക്ക്",
-        "ക്ഷണിച്ച്",
-        "മുഖ്യമന്ത്രി",
-        "ചിത്രപ്രദർശനം",
-        "നടത്തുന്നതിൽ",
-        "അഭിമാനം",
-        "യാതൊരു",
-        "Madhyamam"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
-      "id": "cc6bf9854a3eb3e5",
-      "title": "സംസ്ഥാന സ്കൂൾ കായികമേള: യാത്രാവിവരങ്ങൾ തത്സമയം അറിയാൻ 'ഒളിമ്പിക്സ് എക്സ്പ്രസ്' ആപ്പ് - Samayam Malayalam",
-      "summary": "സംസ്ഥാന സ്കൂൾ കായികമേള: യാത്രാവിവരങ്ങൾ തത്സമയം അറിയാൻ 'ഒളിമ്പിക്സ് എക്സ്പ്രസ്' ആപ്പ് Samayam Malayalam",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPWV8xSWJCSGJObFFqZWVSMTU5T2JhTnBpOXo3eXpDdW0xYlZhanJ2NkhLRWhnYmlSNEZTS0RrcEpaUkFVeVpuQ3RTU25WQklQSWQ5VXVINWl2REpEV3I5T3daeW9uUUlIZE9WdGZKM1ZHa0ZCNmlrTnpqMGtnMGx4bkhfU3VhUG9sQkRqNFY0dzN2VlFBaWlkVkFoRmc2eDNlYVVxQ2g4RmVVcWJKN045Qmt4TF9ndGNGSlhFU0pzOHk5SG1fVl90dEJFWnVFcGJ0YmdiWk9UM1pJLVRfY3RyVk1sc2JIWnVUTEZHdlZ1OA?oc=5",
-      "source": "Samayam Malayalam",
-      "category": "general",
-      "published_at": "2026-10-22T12:03:22+00:00",
-      "importance": 3,
-      "personal_score": 3.25,
-      "entities": [
-        "സംസ്ഥാന",
-        "സ്കൂൾ",
-        "കായികമേള",
-        "യാത്രാവിവരങ്ങൾ",
-        "തത്സമയം",
-        "അറിയാൻ",
-        "ഒളിമ്പിക്സ്",
-        "എക്സ്പ്രസ്",
-        "ആപ്പ്",
-        "Samayam Malayalam"
       ],
       "summary_method": "rss_fallback"
     },
@@ -466,64 +391,78 @@
       "summary_method": "rss_fallback"
     },
     {
-      "id": "f393e5db4f2ee9eb",
-      "title": "കുതിപ്പിനൊരുങ്ങി ക‍ൗമാര കേരളം - Deshabhimani",
-      "summary": "കുതിപ്പിനൊരുങ്ങി ക‍ൗമാര കേരളം Deshabhimani",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB3WGlvUGpkclgxRUR4QWYzMTZFaWVxQTJrUzE5aUF2aDlRSWtDcjNleHh2VTR3M2lBYjMzN21tRWNJcG9kckQ1ZUFjQzBQMW5LT3dfMVJoVWRWSzZKVkVBVFB3YTlVRUs2R1drUXd4YmlUcVU?oc=5",
-      "source": "Deshabhimani",
+      "id": "b3eb9f9f1ff8ebff",
+      "title": "ഡി–കമ്പനിയുടെ ആസ്ഥാനം ഇന്ത്യയല്ല, ദാവൂദ് പാക്കിസ്ഥാനിൽ; യുഎന്നിൽ കടുത്ത ആശങ്ക രേഖപ്പെടുത്തി ഇന്ത്യൻ പ്രതിനിധി - Manorama Online",
+      "summary": "ഡി–കമ്പനിയുടെ ആസ്ഥാനം ഇന്ത്യയല്ല, ദാവൂദ് പാക്കിസ്ഥാനിൽ; യുഎന്നിൽ കടുത്ത ആശങ്ക രേഖപ്പെടുത്തി ഇന്ത്യൻ പ്രതിനിധി Manorama Online",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNbHBITUROZzJJbkx5R2t6Q01NdTBHZWNWX1pHaXBDTGRDajB6cFVaWXdza1dYTWIwazMxRjJlYXR0c19CSVRnYko3emc0YlhmUkkzSmhTZHlIUUVJaUNacS1PeU96d1RXd2xsMjFSOUp0LWFEMmc4c0V5WGFvclZ3dnlGbURremFDSDhibV9TOW41RlEwVFoxNmlQUjZuZTBRaTVBOXJEbjlOXzhhWTQ5Mk5LODNUTU1TMUJkTk9FLU4tUVM0?oc=5",
+      "source": "Manorama Online",
       "category": "general",
-      "published_at": "2026-10-22T20:05:59+00:00",
+      "published_at": "2026-10-22T07:56:27+00:00",
       "importance": 3,
       "personal_score": 3.25,
       "entities": [
-        "കുതിപ്പിനൊരുങ്ങി",
-        "ൗമാര",
-        "കേരളം",
-        "Deshabhimani"
+        "കമ്പനിയുടെ",
+        "ആസ്ഥാനം",
+        "ഇന്ത്യയല്ല",
+        "ദാവൂദ്",
+        "പാക്കിസ്ഥാനിൽ",
+        "യുഎന്നിൽ",
+        "കടുത്ത",
+        "ആശങ്ക",
+        "രേഖപ്പെടുത്തി",
+        "ഇന്ത്യൻ",
+        "പ്രതിനിധി",
+        "Manorama Online"
       ],
       "summary_method": "rss_fallback"
     },
     {
-      "id": "50517da2b02d85c9",
-      "title": "സൈബർ ലോകത്തെ നടുക്കി സുരക്ഷാവീഴ്ച - Deshabhimani",
-      "summary": "സൈബർ ലോകത്തെ നടുക്കി സുരക്ഷാവീഴ്ച Deshabhimani",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQX2RpenJSOUlTNFZMWDlmTE5CX0xBOEhWREx0LXZmVkN4UUI3WjJCRnlPSWtnZVhXTFZRTmxVWXpyOUFZSzZkYW1fVEVYTTZGZWFobXN6VW9mdjNNR0J4d253bVI0QWZLNHh3YXk5c2dRV0w1TnFCNWhGNDBxUFRaaFpiMzFzNFhiLTVv?oc=5",
-      "source": "Deshabhimani",
+      "id": "7d9ed6e33c64b4e7",
+      "title": "സഞ്ജുവിന്റെ വെടിക്കെട്ടിൽ ഇന്ത്യയുടെ ‘പവർ പ്ലേ’, പിന്തുടർന്നു ജയിക്കുന്ന ഉയർന്ന സ്കോർ, ക്രൈസ്റ്റ് ചർച്ചിൽ തകർന്ന റെക്കോർഡുകൾ ഇതാ.... - Manorama Online",
+      "summary": "സഞ്ജുവിന്റെ വെടിക്കെട്ടിൽ ഇന്ത്യയുടെ ‘പവർ പ്ലേ’, പിന്തുടർന്നു ജയിക്കുന്ന ഉയർന്ന സ്കോർ, ക്രൈസ്റ്റ് ചർച്ചിൽ തകർന്ന റെക്കോർഡുകൾ ഇതാ.... Manorama Online ഇന്ത്യ-ന്യൂസിലൻഡ് ടി20 പരമ്പരയ്ക്ക് നാളെ ക്രൈസ്റ്റ്‌ചര്‍ച്ചില്‍ തുടക്കം, മത്സരം കാണാനുള്ള വഴികള്‍, ഇന്ത്യൻ സമയം Asianet News Malayalam ന്യൂസിലാൻഡിനൊപ്പം സൗത്ത് ആഫ്രിക്കയും തകർന്നു; ലോക റെക്കോർഡ് തൂക്കി ഇന്ത്യ Chandrika Daily",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQckRzWWlrQTd0anVNWVhTMm01VWtxM3cwVGtLRE5taVRwTXRNWkNpdGtkaEwyTDJhODdZVGVPNU1nTmo4MnhaLXZJbmE2UnBZbHZjQ0s0MFFOT2tNZ0tCb2pqZ3p3SG1mdUlGNjVoaFRjWUR0NGswem1zbTZhNVlKSDB4bnhTVHhCT185Z0dRVXhsbmpYWS13VnRQdWdxVFF5LXFEQVRHdUhyQzc1LU4zVm94NHg2ZkdZcnRmcXltYUdHVDMwUFE?oc=5",
+      "source": "Manorama Online",
       "category": "general",
-      "published_at": "2026-10-22T18:31:12+00:00",
+      "published_at": "2026-10-22T13:20:45+00:00",
       "importance": 3,
       "personal_score": 3.25,
       "entities": [
-        "സൈബർ",
-        "ലോകത്തെ",
-        "നടുക്കി",
-        "സുരക്ഷാവീഴ്ച",
-        "Deshabhimani"
+        "സഞ്ജുവിന്റെ",
+        "വെടിക്കെട്ടിൽ",
+        "ഇന്ത്യയുടെ",
+        "പവർ",
+        "പ്ലേ",
+        "പിന്തുടർന്നു",
+        "ജയിക്കുന്ന",
+        "ഉയർന്ന",
+        "സ്കോർ",
+        "ക്രൈസ്റ്റ്",
+        "ചർച്ചിൽ",
+        "തകർന്ന"
       ],
       "summary_method": "rss_fallback"
     },
     {
-      "id": "e3bba8931f4e13bb",
-      "title": "ഗവര്‍ണര്‍ രാജേന്ദ്ര ആര്‍ലേക്കറിന് യാത്രയയപ്പ് നല്‍കി മുഖ്യമന്ത്രിയും മന്ത്രിമാരും; ആര്‍ലേക്കറുമായി... - Marunadan Malayali",
-      "summary": "ഗവര്‍ണര്‍ രാജേന്ദ്ര ആര്‍ലേക്കറിന് യാത്രയയപ്പ് നല്‍കി മുഖ്യമന്ത്രിയും മന്ത്രിമാരും; ആര്‍ലേക്കറുമായി... Marunadan Malayali",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbERmN3ptdkhlUjdkeHFiaTFtOVQ2cHFaSFZzVk1CLTVVOHBLRFB4dU51a0RkWGxWOUlUZHQ0eVFSS0FJb2dOVGlOYTdoOVhBeTdfOG9zSjRvQmZDOGdIc2ZicHRrMU5teDRIMDduYmhQZkZlTGFtQnhMeXlkb1ZUZVpDT2VuZ05HaWdEVXE2Q1AwU09VZmxjMndNclBwdWpRYkl1cjMyei1vdDl1MjZR0gG0AUFVX3lxTE82QkJKdkJJQzM2d3RFMkdDMUNKbXZUUnJDbEh0b25DVDRKclA5UUR4QWZ5X2NfRVAyLWVKNFpwN2JxVlRIX19VdUNROE42ZzFzX3BrR2R4dXpxLVhUUDJRWmJvWWFFWUI3N0tvSHY4SDZrOGNWMU5wUl9SWlhwM041d09MbXFlTmdKNmVOcjBCa1F4WnlwNGJIZEFVTVQzZkFqNVpyVkJmQUVGSFlReUQ1a2FpQg?oc=5",
-      "source": "Marunadan Malayali",
+      "id": "12b90f4ff10d8a32",
+      "title": "കൊച്ചിയിലെ ആദ്യ മത്സരം ഞായറാഴ്ച, ടിക്കറ്റ് വിൽപന തുടങ്ങാതെ കേരള ബ്ലാസ്റ്റേഴ്സ് - Manorama Online",
+      "summary": "കൊച്ചിയിലെ ആദ്യ മത്സരം ഞായറാഴ്ച, ടിക്കറ്റ് വിൽപന തുടങ്ങാതെ കേരള ബ്ലാസ്റ്റേഴ്സ് Manorama Online",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOYkVBajctcENrZXBFNms0Q0RzM1lVNWV3OHJmY0lTeVR0SGVkTTZVSjludG1TQ1RHZm9iRkJlVmxQNWFIX09zaEJvQnAtd1IyTEQ0Zl9od3BoZzVxREVreGpIem92Nkw4YTlsajNQTmRUYlIxT2htSG03QnV5U3pmVlh2Y2VZMXNWT1NLa1BaclNUNHNUU2I2MTZFcUlzZzVq?oc=5",
+      "source": "Manorama Online",
       "category": "general",
-      "published_at": "2026-10-22T17:05:29+00:00",
+      "published_at": "2026-10-22T10:42:42+00:00",
       "importance": 3,
       "personal_score": 3.25,
       "entities": [
-        "ഗവര്",
-        "ണര്",
-        "രാജേന്ദ്ര",
-        "ആര്",
-        "ലേക്കറിന്",
-        "യാത്രയയപ്പ്",
-        "നല്",
-        "മുഖ്യമന്ത്രിയും",
-        "മന്ത്രിമാരും",
-        "ലേക്കറുമായി",
-        "Marunadan Malayali"
+        "കൊച്ചിയിലെ",
+        "ആദ്യ",
+        "മത്സരം",
+        "ഞായറാഴ്ച",
+        "ടിക്കറ്റ്",
+        "വിൽപന",
+        "തുടങ്ങാതെ",
+        "കേരള",
+        "ബ്ലാസ്റ്റേഴ്സ്",
+        "Manorama Online"
       ],
       "summary_method": "rss_fallback"
     },
@@ -547,6 +486,56 @@
         "ആദ്യ",
         "വിസ്റ്റാഡോം",
         "യാത്ര",
+        "Asianet News Malayalam"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
+      "id": "ae9496bc557896fc",
+      "title": "ഓം പ്രകാശ് മാഥൂർ കേരള ​ഗവർണറായി ഇന്ന് സത്യപ്രതിജ്ഞ ചെയ്യും; ഹൈക്കോടതി ചീഫ് ജസ്റ്റിസ് സത്യവാചകം ചൊല്ലിക്കൊടുക്കും, ചടങ്ങിൽ മുഖ്യമന്ത്രിയും മന്ത്രിമാരും പങ്കെടുക്കും - Asianet News Malayalam",
+      "summary": "ഓം പ്രകാശ് മാഥൂർ കേരള ​ഗവർണറായി ഇന്ന് സത്യപ്രതിജ്ഞ ചെയ്യും; ഹൈക്കോടതി ചീഫ് ജസ്റ്റിസ് സത്യവാചകം ചൊല്ലിക്കൊടുക്കും, ചടങ്ങിൽ മുഖ്യമന്ത്രിയും മന്ത്രിമാരും പങ്കെടുക്കും Asianet News Malayalam",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZVdDUVgyTkNCZVVRVE5rYjN6MW9xOWtEalFhbnNXX2NSenV6Z1I5MTlkTEhiVmQxMld1LXFBX29FXzRDa0toOEgwajZUeHBDMkVjc3hSR1FZcFVONmtVNEZ6eXlmZk5VSHFLT0dFS19WTTRPN09yVHZzNE9SazJBSkpGcmphUFpqdDJlUnhQZERRVVBPWGU4ZHRUZUlKLUJnMnhLVDBQRE14Q1FhVVpaVUFFdmRsVmpFRVBodFJhQ2xkN2w5Y19v0gHMAUFVX3lxTE9pSG9ZeTFxRE9LcDFvT0NwQzN5QlNsczRDaDhLc3dPU1FrRVhubmJ2MzlDSEZiNVZFYkpwNzJxeGdjcFE3dDZSempqbU9fVWlZS0RLR016c1ZXWHNfeE9BaXVEelA1UElraWp4REcySFRGdU5rM0JVODdDLXcyODNaYmNneVg2SDQzLUtaeVJKZlpDN052bWVzTFdiVncxb3FhSzVhSDlLNHIxVzdhSk9XSndpeEI5bGxaT291Uzc1dS1DMHNKblpjNmp6UQ?oc=5",
+      "source": "Asianet News Malayalam",
+      "category": "general",
+      "published_at": "2026-10-23T01:29:20+00:00",
+      "importance": 3,
+      "personal_score": 3.25,
+      "entities": [
+        "പ്രകാശ്",
+        "മാഥൂർ",
+        "കേരള",
+        "ഗവർണറായി",
+        "ഇന്ന്",
+        "സത്യപ്രതിജ്ഞ",
+        "ചെയ്യും",
+        "ഹൈക്കോടതി",
+        "ചീഫ്",
+        "ജസ്റ്റിസ്",
+        "സത്യവാചകം",
+        "ചൊല്ലിക്കൊടുക്കും"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
+      "id": "f49515d8cc944310",
+      "title": "കാർമേഘങ്ങൾ തുടരുന്നു; കേരളത്തിൽ മഴ കനക്കുന്നു, ഇന്ന് ഒൻപത് ജില്ലകളിൽ ഓറഞ്ച് അലർട്ട് - Asianet News Malayalam",
+      "summary": "കാർമേഘങ്ങൾ തുടരുന്നു; കേരളത്തിൽ മഴ കനക്കുന്നു, ഇന്ന് ഒൻപത് ജില്ലകളിൽ ഓറഞ്ച് അലർട്ട് Asianet News Malayalam",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNcFJZQmFtX3BQXzF4MGFsM3BxTTJ4OTNjT2xPQjA3ajFYYkxVbjJ6TGFkNWJJemtpUWo2VUdFQ0d6MDJfSV9BTmRzeE9zLUZYS0RHcXRvbmoxMkF0R0lzeS00VV9KQmRXa3JlRFZTZS1PVDlLUEwwc2tsVDNrVmhtRHNhbHNlVnVZN1Z1MTZYWlJkempxQUZfMXgwUG5pSVJPU0h2THlNbGRmQTl5OHAwV2dwX0YtcnN0R1ZPVEZjYnc3TDU0aFRmNWZwaUlQZ9IB0wFBVV95cUxOOHFGMkt0R0lxZUUxVG9ZTE9mcTRFUDNhb3N4UEZHMDR5RGUwb2xNVEtyZHhudWZYcWhXM1RKZC1rZk9jXzNfckFaUm1CRkM0Q04wdGJ3aE5KU3B1OGUxUWNWbXo0R3doWmVlbzBpbXRCM2wtOU1WLWNHSTJ5bnVhUjhrdEtjWUlTdUpuTlI0S1ZQQTk2NlVhLXJVRVNQSk9iQWRQT2ZEcFU2OG5qcFU5QTMwakZHMk1wZWs4MTJjOFNERWRFQXRCOUtzR2prZDllRm80?oc=5",
+      "source": "Asianet News Malayalam",
+      "category": "general",
+      "published_at": "2026-10-23T01:32:29+00:00",
+      "importance": 3,
+      "personal_score": 3.25,
+      "entities": [
+        "കാർമേഘങ്ങൾ",
+        "തുടരുന്നു",
+        "കേരളത്തിൽ",
+        "കനക്കുന്നു",
+        "ഇന്ന്",
+        "ഒൻപത്",
+        "ജില്ലകളിൽ",
+        "ഓറഞ്ച്",
+        "അലർട്ട്",
         "Asianet News Malayalam"
       ],
       "summary_method": "rss_fallback"
@@ -601,50 +590,6 @@
       "summary_method": "rss_fallback"
     },
     {
-      "id": "f7574073e6f9ebf8",
-      "title": "മഴകനക്കും; 9 ജില്ലയിൽ നാളെ ഓറഞ്ച്‌ അലർട്ട്‌ - Deshabhimani",
-      "summary": "മഴകനക്കും; 9 ജില്ലയിൽ നാളെ ഓറഞ്ച്‌ അലർട്ട്‌ Deshabhimani",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOY2ZGTm1EWW5jQWtjZzh3WTY4cEJNcG5sVk9DejBzclc4RnFLNVc1Mmx5Q0o4Q3RoTlliMDdncmdscWo0clRxdnhUa1RZYjZRVVJ2a0hXZ2tLdFpxZXdvSE1rZGVfT2tJT3N6eFFyVFMxam9jemMyUFMtdkRFYUtGbmw4eERYRW9ES3p2cXBUWWdDQnBFbFhHa2Q0TkhMUExUNUNYZVBSVW1pVjA?oc=5",
-      "source": "Deshabhimani",
-      "category": "general",
-      "published_at": "2026-10-22T14:35:24+00:00",
-      "importance": 3,
-      "personal_score": 3.25,
-      "entities": [
-        "മഴകനക്കും",
-        "ജില്ലയിൽ",
-        "നാളെ",
-        "ഓറഞ്ച്",
-        "അലർട്ട്",
-        "Deshabhimani"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
-      "id": "b7ab39ea80bcfaf8",
-      "title": "ടി20യില്‍ ഇങ്ങനെ ഒന്ന് ആദ്യം, ഇന്ത്യൻ ബൗളിങിന്‌ 'നാണക്കേട് റെക്കോർഡ്' ഭാരം! - Samakalika Malayalam",
-      "summary": "ടി20യില്‍ ഇങ്ങനെ ഒന്ന് ആദ്യം, ഇന്ത്യൻ ബൗളിങിന്‌ 'നാണക്കേട് റെക്കോർഡ്' ഭാരം! Samakalika Malayalam",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOOUZLN2tBOGJ2ZUw4bWwxSWlpVGJlbzN4cmtPdmhGUWlSeURueF9tczFDTWxiV29jczhhUEY4dU5WdGlfbWpHSUdWNVptRFJ5ZU5yLWZMVnlOZzhUeUdiVUc2UEw1RzZoZklHZUdidzRMd2lRQVd4V25Wamxzb0hZcVpnT0JVQ0ZQZ0JwSjFxUkhPcnpuTVJuZ0dYbW5ibHFOUTEta9IBsgFBVV95cUxQVDF2Z0JQRlRBY3dEUDBWOUoxc183eHk0aW43S0FRUFR5YVR5SnQyY2pCR1YwWXp5MThVajNwVHZKSTJIcmVFb0ZJamJ0Z0hWbFJQNWpVVWhzR1hROUlkZlJHcWlGTlJwUUpkQW1pTnBDa0xBUC1HZG9kT1JpckJSRG1HZURrOGZudDBLMklqQVJ5X0l3bVBTSms4c3JDakF1bko0LTlGSWtZMlBoeElJS2pR?oc=5",
-      "source": "Samakalika Malayalam",
-      "category": "general",
-      "published_at": "2026-10-22T12:16:14+00:00",
-      "importance": 3,
-      "personal_score": 3.25,
-      "entities": [
-        "യില്",
-        "ഇങ്ങനെ",
-        "ഒന്ന്",
-        "ആദ്യം",
-        "ഇന്ത്യൻ",
-        "ബൗളിങിന്",
-        "നാണക്കേട്",
-        "റെക്കോർഡ്",
-        "ഭാരം",
-        "Samakalika Malayalam"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
       "id": "0efc6fb590ab2616",
       "title": "ഇന്ത്യ-യുഎസ് വ്യാപാര കരാറിനെതിരേ അഖിലേന്ത്യാ കിസാന്‍ സഭ പ്രക്ഷോഭത്തിന് - Deepika.com",
       "summary": "ഇന്ത്യ-യുഎസ് വ്യാപാര കരാറിനെതിരേ അഖിലേന്ത്യാ കിസാന്‍ സഭ പ്രക്ഷോഭത്തിന് Deepika.com",
@@ -692,58 +637,6 @@
       "summary_method": "rss_fallback"
     },
     {
-      "id": "c28cbbc0cb985d21",
-      "title": "കേരള ലോക്ഭവനില്‍ ഇനി വെജിറ്റേറിയന്‍ ഭക്ഷണം മാത്രം; നിര്‍ദേശവുമായി നിയുക്ത ഗവര്‍ണര്‍ ഓം പ്രകാശ് മാഥൂര്‍ - Suprabhaatham",
-      "summary": "കേരള ലോക്ഭവനില്‍ ഇനി വെജിറ്റേറിയന്‍ ഭക്ഷണം മാത്രം; നിര്‍ദേശവുമായി നിയുക്ത ഗവര്‍ണര്‍ ഓം പ്രകാശ് മാഥൂര്‍ Suprabhaatham",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBZSjZGdzBHQUY2aWdBMDFMb0ZRbmtjZlJDa0pDWVg2ODloaS1rcjhnZkdBWF9JRnItd21uTm9yVTd2V2g1Z0JZZTFOZjBoeURqY2tPcmNkbw?oc=5",
-      "source": "Suprabhaatham",
-      "category": "general",
-      "published_at": "2026-10-22T13:24:30+00:00",
-      "importance": 3,
-      "personal_score": 3.25,
-      "entities": [
-        "കേരള",
-        "ലോക്ഭവനില്",
-        "ഇനി",
-        "വെജിറ്റേറിയന്",
-        "ഭക്ഷണം",
-        "മാത്രം",
-        "നിര്",
-        "ദേശവുമായി",
-        "നിയുക്ത",
-        "ഗവര്",
-        "ണര്",
-        "പ്രകാശ്"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
-      "id": "d6a3f583df1ef8c8",
-      "title": "കേരള ലോക്ഭവനിൽ ഇനി വെജിറ്റേറിയൻ ഭക്ഷണം മാത്രം; നിയുക്ത ഗവർണ്ണർ ഓം പ്രകാശ് മാഥൂറിന്റെ പുതിയ നിർദ്ദേശം - Asianet News Malayalam",
-      "summary": "കേരള ലോക്ഭവനിൽ ഇനി വെജിറ്റേറിയൻ ഭക്ഷണം മാത്രം; നിയുക്ത ഗവർണ്ണർ ഓം പ്രകാശ് മാഥൂറിന്റെ പുതിയ നിർദ്ദേശം Asianet News Malayalam",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNNVR4SjdqMmt1Y1hKYTJQdVU4SGdiQklkaDFnN0dhcVUtSGJTam1oOV9TOXlzRmduTmVfQ21HV2NsdGR5TFdoMW1fN2pwTVVYR3JEMFhSa3dFTUJXQVdldVhXVWdFVmhzYzl0N2I2SThieDdCeEdJcTJfOW5DdURZeWJnTzN6T3Jja1Rta0UyVmIwbXNhekNYQnhfalNSX3g4NXZJZFpFMno2OWtiZU45SHpoeHRuaVRxd0drU1FjcXBvZnF5OURYdXF3c09EdGNpd0VYcHF3ajRqQ3FIWjExbDhjcHpzMS04dXfSAe8BQVVfeXFMTjlKeVlsNUJYeW1lMTU2MW9ycE1Ca09OeUZXRTUwVE9vLUtYSzBFLVJYc29vSGptWl9wd0hDdDZQeHV3WUREUldHUUgwb19TbHdMeXNfQVc3eFZ5WWZ6SHpYQzd2NWhDRHhqR0dYNWFpNnhoa3hNaFFrYkxxSWJwb3ZobmpwWVpoSjhPWDEwc3RFdTVsSUF4ZGdMY2x5MVo0U1ZXX1Ewb1M4cW9UbldSdzJUVmFDdmNrY0l1RW93REV1OGItckhVZXdjNFB0R2VHMFFCbzdOajBxN2xpVlNfRjgtZmc1TFp5ZDhQMU0zYWc?oc=5",
-      "source": "Asianet News Malayalam",
-      "category": "general",
-      "published_at": "2026-10-22T12:26:04+00:00",
-      "importance": 3,
-      "personal_score": 3.25,
-      "entities": [
-        "കേരള",
-        "ലോക്ഭവനിൽ",
-        "ഇനി",
-        "വെജിറ്റേറിയൻ",
-        "ഭക്ഷണം",
-        "മാത്രം",
-        "നിയുക്ത",
-        "ഗവർണ്ണർ",
-        "പ്രകാശ്",
-        "മാഥൂറിന്റെ",
-        "പുതിയ",
-        "നിർദ്ദേശം"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
       "id": "ecdebc92d72bfae4",
       "title": "ഇന്ത്യ- യുഎസ് വ്യാപാര കരാർ അന്തിമഘട്ടത്തിലെന്ന് ട്രംപ്; റിലയൻസുമായി ധാരണയുണ്ടാക്കി റൂബിയോ| India -US - Asianet News Malayalam",
       "summary": "ഇന്ത്യ- യുഎസ് വ്യാപാര കരാർ അന്തിമഘട്ടത്തിലെന്ന് ട്രംപ്; റിലയൻസുമായി ധാരണയുണ്ടാക്കി റൂബിയോ| India -US Asianet News Malayalam",
@@ -769,28 +662,98 @@
       "summary_method": "rss_fallback"
     },
     {
-      "id": "4550ef395216153c",
-      "title": "'കാര്യങ്ങൾ വളച്ചൊടിക്കരുത്'; മിനി കൂപ്പർ അപകടത്തിലെ പരാമർശത്തെക്കുറിച്ച് വ്യക്തത വരുത്തി നടി മഞ്ജു പിള്ള - Kerala Kaumudi",
-      "summary": "'കാര്യങ്ങൾ വളച്ചൊടിക്കരുത്'; മിനി കൂപ്പർ അപകടത്തിലെ പരാമർശത്തെക്കുറിച്ച് വ്യക്തത വരുത്തി നടി മഞ്ജു പിള്ള Kerala Kaumudi",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZUliVUJXbE9ZRE1UQnBLM0wyZHpTbTV4enNha1JJT3JvUExRbG51N3ZBenRaYTlwbmdwc2hCZFFuOFZpR2Ryb1loek1VQ3NiaC1rbi12Q052ZlZ3ajBjOGY2UFg5UG5GMHZYRWpDQzg3ZlhaNkZ6MFZ4aDFCZVhIMTJaWWpscWFYLXR2RGNOVS03YVZVOGg1WmFn?oc=5",
-      "source": "Kerala Kaumudi",
+      "id": "2dc336d8d99aff50",
+      "title": "ഹൂതി ആക്രമണവും ഇറാൻ-അമേരിക്ക സംഘർഷവും ചർച്ചയാകും; ഏഴ് രാജ്യങ്ങളുടെ ഉന്നതതല യോഗം നാളെ ഇസ്താംബൂളിൽ - SouthLive",
+      "summary": "ഹൂതി ആക്രമണവും ഇറാൻ-അമേരിക്ക സംഘർഷവും ചർച്ചയാകും; ഏഴ് രാജ്യങ്ങളുടെ ഉന്നതതല യോഗം നാളെ ഇസ്താംബൂളിൽ SouthLive",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSUxSQnBiNDdjZFZFaWxHSV9uS2tiQnhPcWtrR2VTRjdMRWhsVHFESjV6eU1pamtLWkMtT1Z5UEVJZkx6UzN2R0kxWExSOUVwdWlYRDlYZkdKYlNSbkRYQXYtYk9EZk9wdU00a2lVRUpGVlY3Y0JnSHNiVWdPYXRkYjBBN2hWR0UxRkUzYw?oc=5",
+      "source": "SouthLive",
       "category": "general",
-      "published_at": "2026-10-22T11:03:52+00:00",
+      "published_at": "2026-10-22T12:29:00+00:00",
       "importance": 2,
       "personal_score": 2.25,
       "entities": [
-        "കാര്യങ്ങൾ",
-        "വളച്ചൊടിക്കരുത്",
-        "മിനി",
-        "കൂപ്പർ",
-        "അപകടത്തിലെ",
-        "പരാമർശത്തെക്കുറിച്ച്",
-        "വ്യക്തത",
-        "വരുത്തി",
-        "നടി",
-        "മഞ്ജു",
-        "പിള്ള",
-        "Kerala Kaumudi"
+        "ഹൂതി",
+        "ആക്രമണവും",
+        "ഇറാൻ",
+        "അമേരിക്ക",
+        "സംഘർഷവും",
+        "ചർച്ചയാകും",
+        "ഏഴ്",
+        "രാജ്യങ്ങളുടെ",
+        "ഉന്നതതല",
+        "യോഗം",
+        "നാളെ",
+        "ഇസ്താംബൂളിൽ"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
+      "id": "fe9c98e47d72077e",
+      "title": "മാസപ്പടിക്കേസ്; നാളെ ഇ.ഡിക്ക് മുമ്പിൽ ഹാജരാകാന്‍ കഴിയില്ല, കത്തയച്ച് പിണറായി വിജയന്‍ | Madhyamam - Madhyamam",
+      "summary": "മാസപ്പടിക്കേസ്; നാളെ ഇ.ഡിക്ക് മുമ്പിൽ ഹാജരാകാന്‍ കഴിയില്ല, കത്തയച്ച് പിണറായി വിജയന്‍ | Madhyamam Madhyamam",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBHVkhGTlNWMEU0b3c1VmlRUkdzTHE2a3ZUWVJIdXdERWt2TEMyNk1kV01PZ1N0SUJDT3F2ZE9TVW5FQklrakh6TVVWUWc5QlAtb3V3WWpxODU3NU81WWVvaG4yVVc4czZoaThsaUZqY252VkF3Um83YWpPaWNuOU3SAYQBQVVfeXFMTk5fOUhSc2JxbG9VTkN1NGZCQlZlSGJyVW9teXFPZ0NiN3JQWHRNN1kxZjV6Y2FGck9kNUQ1VUJ6RUV1VVlrblQ3UVVvZ3VWTXhTMFJPQzVPUVQzR0thUEdSRDRNeC01UlZPNG94Wk5YbHhzSjd2MG5RemxmYzR2YVVUVjd2?oc=5",
+      "source": "Madhyamam",
+      "category": "general",
+      "published_at": "2026-10-22T10:19:25+00:00",
+      "importance": 2,
+      "personal_score": 2.25,
+      "entities": [
+        "മാസപ്പടിക്കേസ്",
+        "നാളെ",
+        "ഡിക്ക്",
+        "മുമ്പിൽ",
+        "ഹാജരാകാന്",
+        "കഴിയില്ല",
+        "കത്തയച്ച്",
+        "പിണറായി",
+        "വിജയന്",
+        "Madhyamam",
+        "Madhyamam Madhyamam"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
+      "id": "ae8fd23cb774b967",
+      "title": "സഞ്ജു തുടങ്ങി, ധീർ തീർത്തു; ഇന്ത്യക്ക് റെക്കോഡ് ജയം - Metro Vaartha",
+      "summary": "സഞ്ജു തുടങ്ങി, ധീർ തീർത്തു; ഇന്ത്യക്ക് റെക്കോഡ് ജയം Metro Vaartha",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE16cXZUbzl5Ri1UcGR4OHc3dnEzUW11UEFLaEl5REY1Y0dIMVlxazNHQ1RNdmk0a09Zb2hrRVJfbHB3cGxlVmdNc0J2di1Lb05sblVCZDZTV2w0TnhZZWJHcVRQVmo5MG1MZ0JPVzh2YWI5Z9IBf0FVX3lxTFBpM0MyVDE0azY2YTZPUnZiRUVPUGlQSHM2T0NFcG1feVo1THBJRnQ5VERabkE2SXBjUFhEckJUYmNxSlV0Tk5JWjVadGFqS1lGTVg4MUtaY2Q0d2F4MVc3UUROeDJJMndNVTd6aDU2SGRjUkxNbWdKSTF4WjRnUnc?oc=5",
+      "source": "Metro Vaartha",
+      "category": "general",
+      "published_at": "2026-10-22T12:09:14+00:00",
+      "importance": 2,
+      "personal_score": 2.25,
+      "entities": [
+        "സഞ്ജു",
+        "തുടങ്ങി",
+        "ധീർ",
+        "തീർത്തു",
+        "ഇന്ത്യക്ക്",
+        "റെക്കോഡ്",
+        "ജയം",
+        "Metro Vaartha"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
+      "id": "1f23015e68ee7462",
+      "title": "മൈസൂരു ദസറയിൽ ചരിത്രം കുറിച്ച് കേരളം; ജംബൂസവാരിയെ ഇളക്കിമറിച്ച് ആ കാഴ്ച! - BengaluruVartha",
+      "summary": "മൈസൂരു ദസറയിൽ ചരിത്രം കുറിച്ച് കേരളം; ജംബൂസവാരിയെ ഇളക്കിമറിച്ച് ആ കാഴ്ച! BengaluruVartha",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1yMjJQR1Nwa0ZOWThLZUR3V0luRGVyd290TnJnMlNMemdyUDdxS1ZJZjRKa0pWQl9TTDZySkszYTZQb0xDQndlUWE4TzYtNF84bHRGOEhVRHJ4UFdpenN2NldVd3lkNGc?oc=5",
+      "source": "BengaluruVartha",
+      "category": "general",
+      "published_at": "2026-10-22T10:30:05+00:00",
+      "importance": 2,
+      "personal_score": 2.25,
+      "entities": [
+        "മൈസൂരു",
+        "ദസറയിൽ",
+        "ചരിത്രം",
+        "കുറിച്ച്",
+        "കേരളം",
+        "ജംബൂസവാരിയെ",
+        "ഇളക്കിമറിച്ച്",
+        "കാഴ്ച",
+        "BengaluruVartha"
       ],
       "summary_method": "rss_fallback"
     },
@@ -821,52 +784,27 @@
       "summary_method": "rss_fallback"
     },
     {
-      "id": "fe9c98e47d72077e",
-      "title": "മാസപ്പടിക്കേസ്; നാളെ ഇ.ഡിക്ക് മുമ്പിൽ ഹാജരാകാന്‍ കഴിയില്ല, കത്തയച്ച് പിണറായി വിജയന്‍ | Madhyamam - Madhyamam",
-      "summary": "മാസപ്പടിക്കേസ്; നാളെ ഇ.ഡിക്ക് മുമ്പിൽ ഹാജരാകാന്‍ കഴിയില്ല, കത്തയച്ച് പിണറായി വിജയന്‍ | Madhyamam Madhyamam",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBHVkhGTlNWMEU0b3c1VmlRUkdzTHE2a3ZUWVJIdXdERWt2TEMyNk1kV01PZ1N0SUJDT3F2ZE9TVW5FQklrakh6TVVWUWc5QlAtb3V3WWpxODU3NU81WWVvaG4yVVc4czZoaThsaUZqY252VkF3Um83YWpPaWNuOU3SAYQBQVVfeXFMTk5fOUhSc2JxbG9VTkN1NGZCQlZlSGJyVW9teXFPZ0NiN3JQWHRNN1kxZjV6Y2FGck9kNUQ1VUJ6RUV1VVlrblQ3UVVvZ3VWTXhTMFJPQzVPUVQzR0thUEdSRDRNeC01UlZPNG94Wk5YbHhzSjd2MG5RemxmYzR2YVVUVjd2?oc=5",
-      "source": "Madhyamam",
-      "category": "general",
-      "published_at": "2026-10-22T10:19:25+00:00",
-      "importance": 2,
-      "personal_score": 2.25,
-      "entities": [
-        "മാസപ്പടിക്കേസ്",
-        "നാളെ",
-        "ഡിക്ക്",
-        "മുമ്പിൽ",
-        "ഹാജരാകാന്",
-        "കഴിയില്ല",
-        "കത്തയച്ച്",
-        "പിണറായി",
-        "വിജയന്",
-        "Madhyamam",
-        "Madhyamam Madhyamam"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
-      "id": "35df6cedd435b110",
-      "title": "കേരള ​ഗവർണർ പദവിയിൽ അവസാന ദിനം; കേരളത്തിൽ കിട്ടിയത് വലിയ സ്വീകാര്യതയെന്ന് രാജേന്ദ്ര ആർലേക്കർ - News18 Malayalam",
-      "summary": "കേരള ​ഗവർണർ പദവിയിൽ അവസാന ദിനം; കേരളത്തിൽ കിട്ടിയത് വലിയ സ്വീകാര്യതയെന്ന് രാജേന്ദ്ര ആർലേക്കർ News18 Malayalam",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOZzNCM1N5QzZzWUQ1Rk5XZXNtdWJLVGxQSDhUVmZ4eVVPWlhEUHNTU255OTViTjhQVndVaHFlcEowSXd1ZHZVdmRHMUwtTDlpR2ltYXRMcGxhUUlscy1WVzFQYTdIekppdkdsRld2c1lZaU5wUy1uMTBGT2tmRm5vdFVGck1SV0VlY2UzejBxUlNJM3BGRGRYWlNFd0hhVDNDYkdiQ294NThoWTZGVU5LV0ViVHBDNzZEc2lCNmkyZk4zbDJ4amRfZmlOQ1doeUc4?oc=5",
+      "id": "5ed74bda4da9ed23",
+      "title": "Kerala Gold Price| കുത്തനെ ഇടിഞ്ഞ് സ്വർണവില; ഇന്ന് ഒറ്റയടിക്ക് കുറ‍ഞ്ഞത് 1,240 രൂപ - News18 Malayalam",
+      "summary": "Kerala Gold Price| കുത്തനെ ഇടിഞ്ഞ് സ്വർണവില; ഇന്ന് ഒറ്റയടിക്ക് കുറ‍ഞ്ഞത് 1,240 രൂപ News18 Malayalam",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNLWNSZ3VuZWRPbkhHSnNmc3dsdVZBSmQtandXUVNSclFoQVNFUldhMnJJYXJNWHduUW95b1BkbjE0RHl6VDVnOW0wYXNtak9uXzVRd1c2SWpnX1FnUHI1UmlQNjZGcjFabnNjdUtuSm12S2FVWUMzZGljdXR3bWp1ZnltTjdtLUF5bUw5aUJwaEVESTk0OHNhRlIteFFHdk92OVlVX0ZmYlhUQ2M5cGxXTE5wcjZ1U1d0S2c?oc=5",
       "source": "News18 Malayalam",
       "category": "general",
-      "published_at": "2026-10-22T09:16:20+00:00",
+      "published_at": "2026-10-22T07:06:03+00:00",
       "importance": 2,
       "personal_score": 2.25,
       "entities": [
-        "കേരള",
-        "ഗവർണർ",
-        "പദവിയിൽ",
-        "അവസാന",
-        "ദിനം",
-        "കേരളത്തിൽ",
-        "കിട്ടിയത്",
-        "വലിയ",
-        "സ്വീകാര്യതയെന്ന്",
-        "രാജേന്ദ്ര",
-        "ആർലേക്കർ",
+        "കുത്തനെ",
+        "ഇടിഞ്ഞ്",
+        "സ്വർണവില",
+        "ഇന്ന്",
+        "ഒറ്റയടിക്ക്",
+        "കുറ",
+        "ഞ്ഞത്",
+        "രൂപ",
+        "Kerala Gold Price",
+        "News18 Malayalam Kerala Gold",
+        "Price",
         "News18 Malayalam"
       ],
       "summary_method": "rss_fallback"
@@ -919,54 +857,6 @@
       "summary_method": "rss_fallback"
     },
     {
-      "id": "5ed74bda4da9ed23",
-      "title": "Kerala Gold Price| കുത്തനെ ഇടിഞ്ഞ് സ്വർണവില; ഇന്ന് ഒറ്റയടിക്ക് കുറ‍ഞ്ഞത് 1,240 രൂപ - News18 Malayalam",
-      "summary": "Kerala Gold Price| കുത്തനെ ഇടിഞ്ഞ് സ്വർണവില; ഇന്ന് ഒറ്റയടിക്ക് കുറ‍ഞ്ഞത് 1,240 രൂപ News18 Malayalam",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNLWNSZ3VuZWRPbkhHSnNmc3dsdVZBSmQtandXUVNSclFoQVNFUldhMnJJYXJNWHduUW95b1BkbjE0RHl6VDVnOW0wYXNtak9uXzVRd1c2SWpnX1FnUHI1UmlQNjZGcjFabnNjdUtuSm12S2FVWUMzZGljdXR3bWp1ZnltTjdtLUF5bUw5aUJwaEVESTk0OHNhRlIteFFHdk92OVlVX0ZmYlhUQ2M5cGxXTE5wcjZ1U1d0S2c?oc=5",
-      "source": "News18 Malayalam",
-      "category": "general",
-      "published_at": "2026-10-22T07:06:03+00:00",
-      "importance": 2,
-      "personal_score": 2.25,
-      "entities": [
-        "കുത്തനെ",
-        "ഇടിഞ്ഞ്",
-        "സ്വർണവില",
-        "ഇന്ന്",
-        "ഒറ്റയടിക്ക്",
-        "കുറ",
-        "ഞ്ഞത്",
-        "രൂപ",
-        "Kerala Gold Price",
-        "News18 Malayalam Kerala Gold",
-        "Price",
-        "News18 Malayalam"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
-      "id": "319e2de5adc54f7e",
-      "title": "ചോദ്യം ചോദിക്കുന്നവരെ രാജ്യവിരുദ്ധരാക്കാന്‍ ശ്രമമെന്ന് അണ്ണാമലൈ; ഇരട്ടത്താപ്പെന്ന് ബിജെപി - Samakalika Malayalam",
-      "summary": "ചോദ്യം ചോദിക്കുന്നവരെ രാജ്യവിരുദ്ധരാക്കാന്‍ ശ്രമമെന്ന് അണ്ണാമലൈ; ഇരട്ടത്താപ്പെന്ന് ബിജെപി Samakalika Malayalam",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNd0lkeTRrSkNRZDZjMzlZNEtJZXJNRTVMZzB1Q3U1TTQ4N0lyM1lwbWtOd29BNEx2U2JwM25fQWU2NlNuYXdSMjh3UktYYjJiUHVJQkRRTnMzdEtQY3dWUWJMVnBvdHdGNzBZSXNkWmxXRzhqTmNWR3NHQ1hLQTJ4RldKLU9VbHg5c2d0NXlBS2ZxUFV5WHlFdllzY9IBqAFBVV95cUxOT0xuSWNqRllPQ1Z5V0xyUHVzclE2TWRpS0VOdTZRTjN1X0MzYnM5U05FaThsU3FWcXNHc0lFNm5vc2dSV3JDelhuVk55NzBmUUZCVDMxdlcwcnFMcy1wNDZHS1pWbFpCd0hRbjlvSzJQZlBmXzRsYnJZRFRDSkhwdXNtclJ6VV9PbmJWWl9peE1rbG9sd0VXUVg3VmVCcG9kU2RHczFIVmk?oc=5",
-      "source": "Samakalika Malayalam",
-      "category": "general",
-      "published_at": "2026-10-22T09:10:32+00:00",
-      "importance": 2,
-      "personal_score": 2.25,
-      "entities": [
-        "ചോദ്യം",
-        "ചോദിക്കുന്നവരെ",
-        "രാജ്യവിരുദ്ധരാക്കാന്",
-        "ശ്രമമെന്ന്",
-        "അണ്ണാമലൈ",
-        "ഇരട്ടത്താപ്പെന്ന്",
-        "ബിജെപി",
-        "Samakalika Malayalam"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
       "id": "2cadc89db937d4bf",
       "title": "വേൾഡ് മലയാളി കൗൺസിൽ റോം പ്രവിശ്യയുടെ നേതൃത്വത്തിൽ മന്ത്രി മോൻസ് ജോസഫിന് ഉജ്ജ്വല സ്വീകരണം - Asianet News Malayalam",
       "summary": "വേൾഡ് മലയാളി കൗൺസിൽ റോം പ്രവിശ്യയുടെ നേതൃത്വത്തിൽ മന്ത്രി മോൻസ് ജോസഫിന് ഉജ്ജ്വല സ്വീകരണം Asianet News Malayalam",
@@ -989,29 +879,6 @@
         "ഉജ്ജ്വല",
         "സ്വീകരണം",
         "Asianet News Malayalam"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
-      "id": "b23a378378e28020",
-      "title": "ഹാക്കിങ് ഭീതി; ലോകം എമ്പാടുമുള്ള വെബ്സൈറ്റുകള്‍ കുഴപ്പത്തില്‍; സര്‍ക്കാര്‍ വെബ്സൈറ്റുകള്‍... - Marunadan Malayali",
-      "summary": "ഹാക്കിങ് ഭീതി; ലോകം എമ്പാടുമുള്ള വെബ്സൈറ്റുകള്‍ കുഴപ്പത്തില്‍; സര്‍ക്കാര്‍ വെബ്സൈറ്റുകള്‍... Marunadan Malayali",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPVjE3VUFIX25fb3hIOWxwLXBITUNrTTdSRGlrdktYa2VVNVRUanBOeGpEcGVoR3VMRTZhblZHSWcwbThQZDhnaTVOTVgxdkZidFZRSVpsSUFERktHZ2NoZmpXcVZWQktUSW9TS1Z5MktDUE9mV0JJNTQ3RU9nSU5lTDhZTnNUQ1FwaFlzYmdOYXF0elFwUUVLR0g4NHFQMDhqOEZNSGRWWnpFWFVDempFZ0NRN1FNSGhxS3JxekQ2NmpPOVRxS0xRTmhDM1BjYmxUbkpMb09R0gHbAUFVX3lxTE9UQnhjOUtpYU5Ebm9Xc05iSWxBSFp2Y1A3aWpOaWpfTVZFNmNwd0N6ejRUdFgyUnZvd3pSLU1RYTM2V19HZEYzd0hrWWdGa2tUTWpNdEJ2XzNodzZtVEx3aVVLTkRNTTVJU2s1TDJkUnItZENRbE1Nd0FfTlhHWjVWLWxSUC1Oc2l5V0JxSEo2VUpXUWhKWXRGc1NXV3Y4eFRRRlR2NnNJZVB3bkFZOVVBZGpEd1hKaURQMmUyakxUZVpsYlpia0ZCejVqQWJiTXJHRWlodjYyMS1sdw?oc=5",
-      "source": "Marunadan Malayali",
-      "category": "general",
-      "published_at": "2026-10-22T09:28:24+00:00",
-      "importance": 2,
-      "personal_score": 2.25,
-      "entities": [
-        "ഹാക്കിങ്",
-        "ഭീതി",
-        "ലോകം",
-        "എമ്പാടുമുള്ള",
-        "വെബ്സൈറ്റുകള്",
-        "കുഴപ്പത്തില്",
-        "സര്",
-        "ക്കാര്",
-        "Marunadan Malayali"
       ],
       "summary_method": "rss_fallback"
     },
@@ -1060,25 +927,125 @@
       "summary_method": "rss_fallback"
     },
     {
-      "id": "5031a5a542dd433f",
-      "title": "കിവികളെ പറത്തി... സഞ്ജു, ശ്രേയസ്, നമാൻ ധിർ! ത്രില്ലറിൽ 'ഇന്ത്യ' - Samakalika Malayalam",
-      "summary": "കിവികളെ പറത്തി... സഞ്ജു, ശ്രേയസ്, നമാൻ ധിർ! ത്രില്ലറിൽ 'ഇന്ത്യ' Samakalika Malayalam",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbHlIcERzOXRuV2RRMlluUVJuSFpSREUtMWdzZndLdHVDMjkzWXdDQ1c2ZXgxaFhVLXZLazdFY1hZX04taTZfZUFwR2lxWUlTMlQ3V2o0QlhTTEc1RUJ0LVZlY2syYlo1V2xzTWJTeGtQMGZaYXpJNDZkRjJKZHJTMF8yTjNwTGVTTHlwZkZHOG5QX19vSjRra0lBZmRKLUg1N083cXVRT1NxUmUyd3k2YVp30gG_AUFVX3lxTE4xRXpKZmRVa1NUc1FwNl9za0dYWDVzSC01Nzh6RVdZQ1l2T21kS0JlemtNc2dPaXlwVjBXTmdjbHRTd29XaEtPNEctRE9jUmREWDgzcDhweUJ3b2pMTUl6N2ViWE4tV0M2Wmp2bG04N2kyaTFRQ1VFcDI4cEdwV0pDUmtDWFJyWkMweUQ0WXo4WEVfSHpCS1VlNWJJUm45TU5Qenh5NVBieW41ZWhkTXFzb1JYWkYwcUZjZWhTUE9z?oc=5",
+      "id": "319e2de5adc54f7e",
+      "title": "ചോദ്യം ചോദിക്കുന്നവരെ രാജ്യവിരുദ്ധരാക്കാന്‍ ശ്രമമെന്ന് അണ്ണാമലൈ; ഇരട്ടത്താപ്പെന്ന് ബിജെപി - Samakalika Malayalam",
+      "summary": "ചോദ്യം ചോദിക്കുന്നവരെ രാജ്യവിരുദ്ധരാക്കാന്‍ ശ്രമമെന്ന് അണ്ണാമലൈ; ഇരട്ടത്താപ്പെന്ന് ബിജെപി Samakalika Malayalam",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNd0lkeTRrSkNRZDZjMzlZNEtJZXJNRTVMZzB1Q3U1TTQ4N0lyM1lwbWtOd29BNEx2U2JwM25fQWU2NlNuYXdSMjh3UktYYjJiUHVJQkRRTnMzdEtQY3dWUWJMVnBvdHdGNzBZSXNkWmxXRzhqTmNWR3NHQ1hLQTJ4RldKLU9VbHg5c2d0NXlBS2ZxUFV5WHlFdllzY9IBqAFBVV95cUxOT0xuSWNqRllPQ1Z5V0xyUHVzclE2TWRpS0VOdTZRTjN1X0MzYnM5U05FaThsU3FWcXNHc0lFNm5vc2dSV3JDelhuVk55NzBmUUZCVDMxdlcwcnFMcy1wNDZHS1pWbFpCd0hRbjlvSzJQZlBmXzRsYnJZRFRDSkhwdXNtclJ6VV9PbmJWWl9peE1rbG9sd0VXUVg3VmVCcG9kU2RHczFIVmk?oc=5",
       "source": "Samakalika Malayalam",
       "category": "general",
-      "published_at": "2026-10-22T11:21:26+00:00",
+      "published_at": "2026-10-22T09:10:32+00:00",
       "importance": 2,
       "personal_score": 2.25,
       "entities": [
-        "കിവികളെ",
-        "പറത്തി",
-        "സഞ്ജു",
-        "ശ്രേയസ്",
-        "നമാൻ",
-        "ധിർ",
-        "ത്രില്ലറിൽ",
-        "ഇന്ത്യ",
+        "ചോദ്യം",
+        "ചോദിക്കുന്നവരെ",
+        "രാജ്യവിരുദ്ധരാക്കാന്",
+        "ശ്രമമെന്ന്",
+        "അണ്ണാമലൈ",
+        "ഇരട്ടത്താപ്പെന്ന്",
+        "ബിജെപി",
         "Samakalika Malayalam"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
+      "id": "4f1c7beb2f26447b",
+      "title": "Kerala Blasters FC: അഡ്രിയാൻ ലൂണ ക്യാപ്റ്റൻ, ഒപ്പം വിനീതും സഹലും; പ്രതിരോധത്തിൽ ജിങ്കൻ, കേരള ബ്ലാസ്റ്റേഴ്സ് ആരാധകരുടെ ‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌ഓൾ ടെെം ബെസ്റ്റ് 11 - Samayam Malayalam",
+      "summary": "Kerala Blasters FC: അഡ്രിയാൻ ലൂണ ക്യാപ്റ്റൻ, ഒപ്പം വിനീതും സഹലും; പ്രതിരോധത്തിൽ ജിങ്കൻ, കേരള ബ്ലാസ്റ്റേഴ്സ് ആരാധകരുടെ ‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌ഓൾ ടെെം ബെസ്റ്റ് 11 Samayam Malayalam",
+      "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxOLUlIQjkzajFuUk1scE1FTmpkWFI5aFlBMnRZemdkbnRhbVlwLUxXaVBNR0tQajFCSW83YXNQVXh0QkhRaTIwY001eUxBdW9yaktTZ3cxMmRFZFhacnZNOUhWbDdIN2JhRnR5V3BIYkUwTnBSN29hNmNvZlFOVE1mT01CTTNLWG1xS0ktZlNnRU55azkyeUtoaXlRNzJMM0FMb0lmaGxaWk93MWwwOFlSY0hFbm1VMEhwLXFKT2pZMmlLZ1AwSDdXcEZXSGtqOU9peXNLQnhnblp4dHZBRENTb3FOS2x0WmI2cThDbFZ6NGN3SjQ0Tm1jVGVFYVNtc2lQbi1fTU9Zb2g2aGZTZWZEWEcxenlldlA2azg3TUNPd21zbFBfRmJwS0p4OTBIeUlG?oc=5",
+      "source": "Samayam Malayalam",
+      "category": "general",
+      "published_at": "2026-10-22T01:46:38+00:00",
+      "importance": 2,
+      "personal_score": 2.25,
+      "entities": [
+        "അഡ്രിയാൻ",
+        "ലൂണ",
+        "ക്യാപ്റ്റൻ",
+        "ഒപ്പം",
+        "വിനീതും",
+        "സഹലും",
+        "പ്രതിരോധത്തിൽ",
+        "ജിങ്കൻ",
+        "കേരള",
+        "ബ്ലാസ്റ്റേഴ്സ്",
+        "ആരാധകരുടെ",
+        "ടെെം"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
+      "id": "c28cbbc0cb985d21",
+      "title": "കേരള ലോക്ഭവനില്‍ ഇനി വെജിറ്റേറിയന്‍ ഭക്ഷണം മാത്രം; നിര്‍ദേശവുമായി നിയുക്ത ഗവര്‍ണര്‍ ഓം പ്രകാശ് മാഥൂര്‍ - Suprabhaatham",
+      "summary": "കേരള ലോക്ഭവനില്‍ ഇനി വെജിറ്റേറിയന്‍ ഭക്ഷണം മാത്രം; നിര്‍ദേശവുമായി നിയുക്ത ഗവര്‍ണര്‍ ഓം പ്രകാശ് മാഥൂര്‍ Suprabhaatham",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBZSjZGdzBHQUY2aWdBMDFMb0ZRbmtjZlJDa0pDWVg2ODloaS1rcjhnZkdBWF9JRnItd21uTm9yVTd2V2g1Z0JZZTFOZjBoeURqY2tPcmNkbw?oc=5",
+      "source": "Suprabhaatham",
+      "category": "general",
+      "published_at": "2026-10-22T13:24:30+00:00",
+      "importance": 2,
+      "personal_score": 2.25,
+      "entities": [
+        "കേരള",
+        "ലോക്ഭവനില്",
+        "ഇനി",
+        "വെജിറ്റേറിയന്",
+        "ഭക്ഷണം",
+        "മാത്രം",
+        "നിര്",
+        "ദേശവുമായി",
+        "നിയുക്ത",
+        "ഗവര്",
+        "ണര്",
+        "പ്രകാശ്"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
+      "id": "7d987cc27000f8f0",
+      "title": "കേരള ​ഗവർണർ പദവിയിൽ അവസാന ദിനം; കേരളത്തിൽ പിന്നിട്ടത് ക്രിയാത്മകമായ കാലഘട്ടമെന്ന് രാജേന്ദ്ര ആർലേക്കർ - Asianet News Malayalam",
+      "summary": "കേരള ​ഗവർണർ പദവിയിൽ അവസാന ദിനം; കേരളത്തിൽ പിന്നിട്ടത് ക്രിയാത്മകമായ കാലഘട്ടമെന്ന് രാജേന്ദ്ര ആർലേക്കർ Asianet News Malayalam",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQbEN5RWhFUHRwUEhQUU5wdE9vdEpRbUNGeTVlNTlGSVZCWWdQUzUweVdDc25HUU5Od0hKMlM1OUhNYXBCTFBrRkd4Q0xlWTJISzFmdFd1dkMxWDU0dXVzc1pQOU1oS3lXUnVuTV95VUFxYTJxTDRUUWUyQ09MVWdfMkJ4S2huZlJXZENEZU85UzBkdF9wX3NuakduNzdzcmZ5M296WVJFSmpvZUt5VS1zNjVjTEd5ZDVhVE5tdGNQWXFUTmlEaXBNYU5ySmR3a1V1VHBNc0FnS0hGdXc3TFR5SVd5RzRfTndRb3fSAe8BQVVfeXFMUGF0YU5CWVJpX3BMQlBmZHhEQUtybHZZeVRnMkJuYmxNaWZfRjkwVDZlcTVMb3dUcy0yRkVKT2xxMXNEQkozNUd1eS1xWkVZcXhxeldhUlAzRXRrYVg0U19RMjFCcUd4eWEtMlBkalVMYjFLSDJqa3c5NUxmWHQxY2RqaF85djBJalhmMHctTWhoUHlfMVYwVGxGbHVwM01yOU9rOUlDMmFhNXY1LVlRQlduTVRZRkxHUF9fZDZZbXA2RlZQbGZROUE5QmlGdXlMWVJtTzNENElpLUIxMldubzl1WDFVZ3ViTGVTWUVLNlU?oc=5",
+      "source": "Asianet News Malayalam",
+      "category": "general",
+      "published_at": "2026-10-22T07:09:18+00:00",
+      "importance": 2,
+      "personal_score": 2.25,
+      "entities": [
+        "കേരള",
+        "ഗവർണർ",
+        "പദവിയിൽ",
+        "അവസാന",
+        "ദിനം",
+        "കേരളത്തിൽ",
+        "പിന്നിട്ടത്",
+        "ക്രിയാത്മകമായ",
+        "കാലഘട്ടമെന്ന്",
+        "രാജേന്ദ്ര",
+        "ആർലേക്കർ",
+        "Asianet News Malayalam"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
+      "id": "b23a378378e28020",
+      "title": "ഹാക്കിങ് ഭീതി; ലോകം എമ്പാടുമുള്ള വെബ്സൈറ്റുകള്‍ കുഴപ്പത്തില്‍; സര്‍ക്കാര്‍ വെബ്സൈറ്റുകള്‍... - Marunadan Malayali",
+      "summary": "ഹാക്കിങ് ഭീതി; ലോകം എമ്പാടുമുള്ള വെബ്സൈറ്റുകള്‍ കുഴപ്പത്തില്‍; സര്‍ക്കാര്‍ വെബ്സൈറ്റുകള്‍... Marunadan Malayali",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPVjE3VUFIX25fb3hIOWxwLXBITUNrTTdSRGlrdktYa2VVNVRUanBOeGpEcGVoR3VMRTZhblZHSWcwbThQZDhnaTVOTVgxdkZidFZRSVpsSUFERktHZ2NoZmpXcVZWQktUSW9TS1Z5MktDUE9mV0JJNTQ3RU9nSU5lTDhZTnNUQ1FwaFlzYmdOYXF0elFwUUVLR0g4NHFQMDhqOEZNSGRWWnpFWFVDempFZ0NRN1FNSGhxS3JxekQ2NmpPOVRxS0xRTmhDM1BjYmxUbkpMb09R0gHbAUFVX3lxTE9UQnhjOUtpYU5Ebm9Xc05iSWxBSFp2Y1A3aWpOaWpfTVZFNmNwd0N6ejRUdFgyUnZvd3pSLU1RYTM2V19HZEYzd0hrWWdGa2tUTWpNdEJ2XzNodzZtVEx3aVVLTkRNTTVJU2s1TDJkUnItZENRbE1Nd0FfTlhHWjVWLWxSUC1Oc2l5V0JxSEo2VUpXUWhKWXRGc1NXV3Y4eFRRRlR2NnNJZVB3bkFZOVVBZGpEd1hKaURQMmUyakxUZVpsYlpia0ZCejVqQWJiTXJHRWlodjYyMS1sdw?oc=5",
+      "source": "Marunadan Malayali",
+      "category": "general",
+      "published_at": "2026-10-22T09:28:24+00:00",
+      "importance": 2,
+      "personal_score": 2.25,
+      "entities": [
+        "ഹാക്കിങ്",
+        "ഭീതി",
+        "ലോകം",
+        "എമ്പാടുമുള്ള",
+        "വെബ്സൈറ്റുകള്",
+        "കുഴപ്പത്തില്",
+        "സര്",
+        "ക്കാര്",
+        "Marunadan Malayali"
       ],
       "summary_method": "rss_fallback"
     },
@@ -1109,28 +1076,49 @@
       "summary_method": "rss_fallback"
     },
     {
-      "id": "80f45b8bad7385d1",
-      "title": "Kerala Weather: മഴ മുന്നറിയിപ്പിൽ മാറ്റം; അടുത്ത അഞ്ച് ദിവസം അതിശക്തമായ മഴ തുടരും; ഓറഞ്ച് അലർട്ട് - News18 Malayalam",
-      "summary": "Kerala Weather: മഴ മുന്നറിയിപ്പിൽ മാറ്റം; അടുത്ത അഞ്ച് ദിവസം അതിശക്തമായ മഴ തുടരും; ഓറഞ്ച് അലർട്ട് News18 Malayalam",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNaFhfdU1XRVc4UXcyYlhVVHZEeFo2Q0Z5b3pYa1NtZHA3OHhJdWV5NElzODBlUkhYLWRRalFtZlFuZjNuR0FhTGZkenVldUdhMzdha0xYdzZaM01WaGR1LXY0cVM2YWF2cm9NOXN6LWJicUdIM0tzQzdtWGR4Wjl0emJaWmp2MWZEd200dENIS3BkUGk4QUEtZXhISmMyMEtYblIwLXpFb2RrNF9QWWZBQ0FibHlQVkNVVnlsakZseUQ1MW1WOGRyR2tMWlQ3NEJ4NUJxWURsVmFaX2hINFA0V0FENXN6dExkMkt4WDFGWQ?oc=5",
-      "source": "News18 Malayalam",
+      "id": "5031a5a542dd433f",
+      "title": "കിവികളെ പറത്തി... സഞ്ജു, ശ്രേയസ്, നമാൻ ധിർ! ത്രില്ലറിൽ 'ഇന്ത്യ' - Samakalika Malayalam",
+      "summary": "കിവികളെ പറത്തി... സഞ്ജു, ശ്രേയസ്, നമാൻ ധിർ! ത്രില്ലറിൽ 'ഇന്ത്യ' Samakalika Malayalam",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbHlIcERzOXRuV2RRMlluUVJuSFpSREUtMWdzZndLdHVDMjkzWXdDQ1c2ZXgxaFhVLXZLazdFY1hZX04taTZfZUFwR2lxWUlTMlQ3V2o0QlhTTEc1RUJ0LVZlY2syYlo1V2xzTWJTeGtQMGZaYXpJNDZkRjJKZHJTMF8yTjNwTGVTTHlwZkZHOG5QX19vSjRra0lBZmRKLUg1N083cXVRT1NxUmUyd3k2YVp30gG_AUFVX3lxTE4xRXpKZmRVa1NUc1FwNl9za0dYWDVzSC01Nzh6RVdZQ1l2T21kS0JlemtNc2dPaXlwVjBXTmdjbHRTd29XaEtPNEctRE9jUmREWDgzcDhweUJ3b2pMTUl6N2ViWE4tV0M2Wmp2bG04N2kyaTFRQ1VFcDI4cEdwV0pDUmtDWFJyWkMweUQ0WXo4WEVfSHpCS1VlNWJJUm45TU5Qenh5NVBieW41ZWhkTXFzb1JYWkYwcUZjZWhTUE9z?oc=5",
+      "source": "Samakalika Malayalam",
       "category": "general",
-      "published_at": "2026-10-22T09:16:42+00:00",
+      "published_at": "2026-10-22T11:21:26+00:00",
       "importance": 2,
       "personal_score": 2.25,
       "entities": [
-        "മുന്നറിയിപ്പിൽ",
-        "മാറ്റം",
-        "അടുത്ത",
-        "അഞ്ച്",
-        "ദിവസം",
-        "അതിശക്തമായ",
-        "തുടരും",
-        "ഓറഞ്ച്",
-        "അലർട്ട്",
-        "Kerala Weather",
-        "News18 Malayalam Kerala Weather",
-        "News18 Malayalam"
+        "കിവികളെ",
+        "പറത്തി",
+        "സഞ്ജു",
+        "ശ്രേയസ്",
+        "നമാൻ",
+        "ധിർ",
+        "ത്രില്ലറിൽ",
+        "ഇന്ത്യ",
+        "Samakalika Malayalam"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
+      "id": "b7ab39ea80bcfaf8",
+      "title": "ടി20യില്‍ ഇങ്ങനെ ഒന്ന് ആദ്യം, ഇന്ത്യൻ ബൗളിങിന്‌ 'നാണക്കേട് റെക്കോർഡ്' ഭാരം! - Samakalika Malayalam",
+      "summary": "ടി20യില്‍ ഇങ്ങനെ ഒന്ന് ആദ്യം, ഇന്ത്യൻ ബൗളിങിന്‌ 'നാണക്കേട് റെക്കോർഡ്' ഭാരം! Samakalika Malayalam",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOOUZLN2tBOGJ2ZUw4bWwxSWlpVGJlbzN4cmtPdmhGUWlSeURueF9tczFDTWxiV29jczhhUEY4dU5WdGlfbWpHSUdWNVptRFJ5ZU5yLWZMVnlOZzhUeUdiVUc2UEw1RzZoZklHZUdidzRMd2lRQVd4V25Wamxzb0hZcVpnT0JVQ0ZQZ0JwSjFxUkhPcnpuTVJuZ0dYbW5ibHFOUTEta9IBsgFBVV95cUxQVDF2Z0JQRlRBY3dEUDBWOUoxc183eHk0aW43S0FRUFR5YVR5SnQyY2pCR1YwWXp5MThVajNwVHZKSTJIcmVFb0ZJamJ0Z0hWbFJQNWpVVWhzR1hROUlkZlJHcWlGTlJwUUpkQW1pTnBDa0xBUC1HZG9kT1JpckJSRG1HZURrOGZudDBLMklqQVJ5X0l3bVBTSms4c3JDakF1bko0LTlGSWtZMlBoeElJS2pR?oc=5",
+      "source": "Samakalika Malayalam",
+      "category": "general",
+      "published_at": "2026-10-22T12:16:14+00:00",
+      "importance": 2,
+      "personal_score": 2.25,
+      "entities": [
+        "യില്",
+        "ഇങ്ങനെ",
+        "ഒന്ന്",
+        "ആദ്യം",
+        "ഇന്ത്യൻ",
+        "ബൗളിങിന്",
+        "നാണക്കേട്",
+        "റെക്കോർഡ്",
+        "ഭാരം",
+        "Samakalika Malayalam"
       ],
       "summary_method": "rss_fallback"
     },
@@ -1258,17 +1246,63 @@
         "LUCA Science Magazine"
       ],
       "summary_method": "rss_fallback"
+    },
+    {
+      "id": "61d12bbb77089c3a",
+      "title": "Vistamdome in Keralam: കേരളത്തിൽ ആദ്യമായെത്തുന്ന വിസ്റ്റാഡോം കോച്ചിന്റെ റൂട്ടും ടിക്കറ്റ് നിരക്കും - News18 Malayalam",
+      "summary": "Vistamdome in Keralam: കേരളത്തിൽ ആദ്യമായെത്തുന്ന വിസ്റ്റാഡോം കോച്ചിന്റെ റൂട്ടും ടിക്കറ്റ് നിരക്കും News18 Malayalam",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQNXpMSjVuTzNRNFFtTElXNEZEZ2V0a2xwZ2hIQUNlYzk1ZTBhbUZOY3c1TG0yaXlDMmNIV0NLWTJ6OF9pV0pCdXNfSWlnckpJRnpGUnc2cEtaRHhzUXAtR1dXY0x6UmxvYnlGX0RxRF9yQlNEYXFNVzZwUXU1V1k3UGkxT1NnWGdrQ3FOUDI2SmczMnNIZHBfMkphaWhBNWhBWFp4LUwyeUdzeEZ1d0h0RVJxSUYtcmRnc0ZTVjg2aWNUUk9yVzZWQzNWdXZvVjNZT2c?oc=5",
+      "source": "News18 Malayalam",
+      "category": "general",
+      "published_at": "2026-10-20T04:25:07+00:00",
+      "importance": 1,
+      "personal_score": 1.25,
+      "entities": [
+        "കേരളത്തിൽ",
+        "ആദ്യമായെത്തുന്ന",
+        "വിസ്റ്റാഡോം",
+        "കോച്ചിന്റെ",
+        "റൂട്ടും",
+        "ടിക്കറ്റ്",
+        "നിരക്കും",
+        "Vistamdome",
+        "Keralam",
+        "News18 Malayalam Vistamdome",
+        "News18 Malayalam"
+      ],
+      "summary_method": "rss_fallback"
     }
   ],
   "tech": [
     {
+      "id": "b954b5f9d66501a5",
+      "title": "Europe Websites Go Dark After Major Cybersecurity Flaw Sparks Hacker Warning - The Times of India",
+      "summary": "Europe Websites Go Dark After Major Cybersecurity Flaw Sparks Hacker Warning The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOMU5CTDNLTGxnNlRhY1ZrcDhQVWpHZXdtVFZRZHRETnJLYW1iQURQdkJBY1N1eml1b2QwTXhxczFVX0JsclB3cS1ldDJQSHE5VDBTMHg3Y3JWQWN2MDlMa0Yyby1kQXMxa1ZYRlg1QUE1cTRpVVJBZEVLaG1KOW5MUnJxa1ZOTlNVcU1KdE5JYkIwRDBwSkRWVDZ5V0VSV2xpeTMtTG1aQVNsdGNTckhRYnQzV0F1ZDV1SjEwNFZYcHZ4T0pjQVRFS2hZSW5xVzBEOFB0QzJOLTFKNTg2SmwzdU5Sd3hOOGRkU01BT0tR0gHzAUFVX3lxTE1kYnkwVUZIQkFwOXl5R0V2WkRaNXZjZFpzdFJEbElJXy1EQTFDTXNuNzU3RWRhMWJWeklrZ0lrMzhxVHA4a2thUXlqdGg5T00tcE9JRXhoQWNQNGhVZGlDNFlDR0xKNXRCNnpCcDJIQlI4VDFVSWFlcWpHRi1SWF9VVFBnUGdBeUo5SFQtQldQR3VhZVFZTUxHN1Z3TkVlc3d3UXhCbkdyY0FldzJkLWFlWldJMTU1bWpUS1R2OTRTcklCVFYyZ3JmNkZMUm5WT2N6Y0h0UU8yZTBXNzkwdktJS3pLQllCRUV1Nk9hYnhBWGRfTQ?oc=5",
+      "source": "The Times of India",
+      "category": "tech",
+      "published_at": "2026-10-23T00:02:45+00:00",
+      "importance": 10,
+      "personal_score": 10.0,
+      "entities": [
+        "Europe Websites Go Dark",
+        "After Major Cybersecurity Flaw",
+        "Sparks Hacker Warning",
+        "The Times",
+        "India Europe Websites Go",
+        "Dark After Major Cybersecurity",
+        "Flaw Sparks Hacker Warning"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
       "id": "4569721959723746",
       "title": "⁠Scale of cyber-security flaw 'unprecedented' but no sign of breaches, says expert - BBC",
-      "summary": "⁠Scale of cyber-security flaw 'unprecedented' but no sign of breaches, says expert BBC Critical security issue affecting PHP National Cyber Security Centre PHP internet warning latest: 'Staggering' flaws found in software used by 70% of websites - as global alert issued Sky News",
+      "summary": "⁠Scale of cyber-security flaw 'unprecedented' but no sign of breaches, says expert BBC Critical security issue affecting PHP National Cyber Security Centre Websites shut down globally after AI finds cybersecurity flaw affecting 70% of the internet CNN",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ycTdlVXpFamFHX29wQVg4MUFseTBkZmhxeEhtbXdtRVo5R096R05fMWFjYThHR0xpU3hxMXhianZWSW11dEpMTmFrcVpKNWEzV2hFbGR3?oc=5",
       "source": "BBC",
       "category": "tech",
-      "published_at": "2026-10-22T13:42:26+00:00",
+      "published_at": "2026-10-22T06:20:39+00:00",
       "importance": 10,
       "personal_score": 10.0,
       "entities": [
@@ -1276,28 +1310,8 @@
         "BBC",
         "BBC Critical",
         "PHP National Cyber Security",
-        "Centre PHP",
-        "Staggering",
-        "Sky News"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
-      "id": "7878c93cfde0fe4b",
-      "title": "China-nexus actor linked to attack on ConnectWise Cloud Backup - Cybersecurity Dive",
-      "summary": "China-nexus actor linked to attack on ConnectWise Cloud Backup Cybersecurity Dive",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWk1UeURGYmZqNk91NlBsWkVxMXFHUGRhNngyVksyUXlzR08ycVBTTzZ5SjZWLTBnU01NX0RvTzAtSllFdjdKdGdZRVVnVHlVS1dZeHBaTFhvNWs2M1Z0dTc1UmJVSWVuSlNUN3I5TUprMmJrLW83S0lnVnA3czhpN09TMi16NDdsRlk4RnM2Y09Pazd0VXZmZE5NTEk?oc=5",
-      "source": "Cybersecurity Dive",
-      "category": "tech",
-      "published_at": "2026-10-22T16:13:20+00:00",
-      "importance": 9,
-      "personal_score": 9.0,
-      "entities": [
-        "China-nexus",
-        "ConnectWise Cloud Backup",
-        "Cybersecurity Dive China-nexus",
-        "ConnectWise Cloud Backup Cybersecurity",
-        "Dive"
+        "Centre Websites",
+        "CNN"
       ],
       "summary_method": "rss_fallback"
     },
@@ -1316,6 +1330,25 @@
         "PET",
         "Medical Xpress Open-source",
         "Medical Xpress"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
+      "id": "61ec3332b1c7ba68",
+      "title": "RBI Orders Banks to Tighten Cybersecurity as AI-Driven Attacks Rise - The420.in",
+      "summary": "RBI Orders Banks to Tighten Cybersecurity as AI-Driven Attacks Rise The420.in",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBCVFpST0JxTExTaGh1RjhLNlNMX3RzNnJlQVVVLTdwVmtOQ3hTanlRQ3JWaG91WmxYMHRLc1laUC1CWnEwY1BKc2t6Z1B6RDRObkVHZjhCQzRYRU5PQmUwc0RXd3o?oc=5",
+      "source": "The420.in",
+      "category": "tech",
+      "published_at": "2026-10-23T01:57:20+00:00",
+      "importance": 9,
+      "personal_score": 9.0,
+      "entities": [
+        "RBI Orders Banks",
+        "Tighten Cybersecurity",
+        "AI-Driven Attacks Rise",
+        "The420.in RBI Orders Banks",
+        "AI-Driven Attacks Rise The420.in"
       ],
       "summary_method": "rss_fallback"
     },
@@ -1357,6 +1390,22 @@
       "summary_method": "rss_fallback"
     },
     {
+      "id": "48b79809656d1828",
+      "title": "This design software reimagines everyday objects as self-aware devices - MIT News",
+      "summary": "This design software reimagines everyday objects as self-aware devices MIT News",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSlJkUWJCblV0M1U3Y0NGeVZRSkpnREthY1FkYXk5a1hPS1BicHlTTDUySVV3dGcwWFhfdGVCSVlwcEI2WFpGTUpHTjJ6OXhKaXpjT3BtUmxHSU9pdGtBb1BCeUQ4ZUFsS1p6MnVsQmw3QVF4eXgwaXRpUkx4ajlhaFJkTThmRjBrOGNxUGxoWDZWeVFQN1I3Ul9zTXY?oc=5",
+      "source": "MIT News",
+      "category": "tech",
+      "published_at": "2026-10-22T20:45:00+00:00",
+      "importance": 8,
+      "personal_score": 8.0,
+      "entities": [
+        "MIT News This",
+        "MIT News"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
       "id": "657f2c19b79303a3",
       "title": "LLMs are making formal software verification feasible at a much larger scale - Anthropic",
       "summary": "LLMs are making formal software verification feasible at a much larger scale Anthropic",
@@ -1370,26 +1419,6 @@
         "LLMs",
         "Anthropic LLMs",
         "Anthropic"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
-      "id": "3a563dd795cb97cc",
-      "title": "Security, Quality, Speed Concern Auto Software Developers In QNX Survey - Forbes",
-      "summary": "Security, Quality, Speed Concern Auto Software Developers In QNX Survey Forbes",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSEFjd2x3dTJCX2hFYzZPMzlfb2wwUzdEYUVIZFM0MDlxSHVxeWF0bHlPUHZPNUw2SW9XbVFDOWRZTlV4bnVDMmxFNW0zZzhoZm1qQUhRckw1SnZJaHlLZEFsd2h3cEE4VVczZjV1YkRqV3gxdXg4LTJ1RlFiM2VvUFUzcm5YNVpJRlV1NmFzWXVwa3NpNkt1N0hCQkszajRFWUY3NE9EVlAzbnBHcWUwSGR0djVvazh2ME9MNw?oc=5",
-      "source": "Forbes",
-      "category": "tech",
-      "published_at": "2026-10-20T11:00:00+00:00",
-      "importance": 8,
-      "personal_score": 8.0,
-      "entities": [
-        "Security",
-        "Quality",
-        "Speed Concern Auto Software",
-        "Developers In QNX Survey",
-        "Forbes Security",
-        "Forbes"
       ],
       "summary_method": "rss_fallback"
     },
@@ -1411,47 +1440,6 @@
         "Minutes",
         "Broadcom TrueSource",
         "Minutes Broadcom"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
-      "id": "c1132c27b863cfc5",
-      "title": "Apply for the ION Group 2027 Leadership Development Program: Software Developer in India - Global South Opportunities",
-      "summary": "Apply for the ION Group 2027 Leadership Development Program: Software Developer in India Global South Opportunities",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA2ajRfUjcyUkEtM3EzUmFxSFRXdnRWMko3SXM0aTY0RHUwWExhdDgycFFyYU5FNGVTNzNOSjY5TGdTQ1dkSDhtQ04wZmFHQXNFMXk3MlhjTlYteWlPMXpZZ2czeVBaSlRCOWVobVJNWHdkbG1pcFE?oc=5",
-      "source": "Global South Opportunities",
-      "category": "tech",
-      "published_at": "2026-10-22T21:47:02+00:00",
-      "importance": 8,
-      "personal_score": 8.0,
-      "entities": [
-        "Apply",
-        "ION Group",
-        "Leadership Development Program",
-        "Software Developer",
-        "Global South Opportunities Apply",
-        "India Global South Opportunities"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
-      "id": "4cce1c4b3a3e10e1",
-      "title": "Thoughtworks Positioned as a Visionary in the 2026 Gartner® Magic Quadrant™ for Custom Software Development Services - PR Newswire",
-      "summary": "Thoughtworks Positioned as a Visionary in the 2026 Gartner® Magic Quadrant™ for Custom Software Development Services PR Newswire",
-      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQY3FYVFBrUUxCNDlzMVdVZlFRdnhNNkZCU3kxaUNSMmNBV0VpRGNuLUhwbXEzSWFyNEhpUjVWTVZSdTF5SkE0aUVSU19RVFdZR2pVeW50aHJXMFRReDJTV2xZR0FmTEJqMjhzR0FmdERfeXRWaHRKMGhjcUFYQXZUellhLWI3QUY4V09uR2JWQmw0cHN2TlJYelZHLUJjTTJlMWhaM2VsaHozcDNkdm9JeU9IaHdzOGR4YUFIejhOV1JkbnpsVGdsSGxnOG5JMEZkWkdDS2huQVFfSll0a1FyNWxXY0hSMUEyaFpFTkoxaTQtallDUUlVbVd3ZnZrUmc?oc=5",
-      "source": "PR Newswire",
-      "category": "tech",
-      "published_at": "2026-10-22T12:00:00+00:00",
-      "importance": 8,
-      "personal_score": 8.0,
-      "entities": [
-        "Thoughtworks Positioned",
-        "Visionary",
-        "Gartner",
-        "Magic Quadrant",
-        "Custom Software Development Services",
-        "PR Newswire Thoughtworks Positioned",
-        "PR Newswire"
       ],
       "summary_method": "rss_fallback"
     },
@@ -1489,6 +1477,26 @@
       "summary_method": "rss_fallback"
     },
     {
+      "id": "3a563dd795cb97cc",
+      "title": "Security, Quality, Speed Concern Auto Software Developers In QNX Survey - Forbes",
+      "summary": "Security, Quality, Speed Concern Auto Software Developers In QNX Survey Forbes",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSEFjd2x3dTJCX2hFYzZPMzlfb2wwUzdEYUVIZFM0MDlxSHVxeWF0bHlPUHZPNUw2SW9XbVFDOWRZTlV4bnVDMmxFNW0zZzhoZm1qQUhRckw1SnZJaHlLZEFsd2h3cEE4VVczZjV1YkRqV3gxdXg4LTJ1RlFiM2VvUFUzcm5YNVpJRlV1NmFzWXVwa3NpNkt1N0hCQkszajRFWUY3NE9EVlAzbnBHcWUwSGR0djVvazh2ME9MNw?oc=5",
+      "source": "Forbes",
+      "category": "tech",
+      "published_at": "2026-10-20T11:00:00+00:00",
+      "importance": 8,
+      "personal_score": 8.0,
+      "entities": [
+        "Security",
+        "Quality",
+        "Speed Concern Auto Software",
+        "Developers In QNX Survey",
+        "Forbes Security",
+        "Forbes"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
       "id": "b3469ac249a9d6af",
       "title": "Lee Enterprises and BLOX Digital sign software development agreements with Quintype - Investing.com India",
       "summary": "Lee Enterprises and BLOX Digital sign software development agreements with Quintype Investing.com India",
@@ -1504,27 +1512,6 @@
         "Quintype",
         "Investing.com India Lee Enterprises",
         "Quintype Investing.com India"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
-      "id": "7fc31d423ca946f7",
-      "title": "Tech Mahindra, Elon Musk’s SpaceXSI join hands to accelerate AI-led software development - ET Enterprise AI",
-      "summary": "Tech Mahindra, Elon Musk’s SpaceXSI join hands to accelerate AI-led software development ET Enterprise AI",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNTWk0cXNmOHJ1Wmd1d1ZsYWQzQTVPdHc2VzV3UmVHUWs3djJyWVVsamhwOE9iWmpCVjNEMXJLbFhvNTFNYXZReXlXeDdIVjRZVDg3ZUlocVRIUDgxVVpISnFUUDN5c080YThNQklZT1RfWWJCNmdGUWtlUVpGb1dldEZicjM5UnpWUzlCd09TSG45M2J2Mmp0VFBhYXUtbmNyNXR4R2U2ZUtwUFpOa3hPSU93QkhHckVxVWNaNjZjcUtPRDdJSUw1SDNLZHJNbWZrbF93Q0hSN2paci0teGpLS0hqamNybVZKa1gwTWwxbXJfd9IB9wFBVV95cUxQWkdQQnZFT0FEMHhVdDRXNXRrdmV2eDNTbnF6VDBXVUVJQ2ZmWDFqSzlFSlVqWml1cFExWkVWU1pHcy1pRzZmYTBGU2FrS0ZYVVMwcTd1Q3dyT1VZRFdxZXZGT2l4VDFHaXlDeWpCQmhPZ2hOa3hpa0l6RDdzdGczcktCMXYtNzd2RWVUQVhnMHo2X1F4LTdQY2hyejVuRnRYTVVzY2hhdHlSRVJoenpnMFBTNjlVQjdYbUFtN1ZmYlhjS0hvTXZYaG5jc0REbTN4TnhobHM5YnBNSm9qWTdtNS1DLXZEWFVqRGNqd2l1UXEtSlBmc000?oc=5",
-      "source": "ET Enterprise AI",
-      "category": "tech",
-      "published_at": "2026-10-22T11:44:14+00:00",
-      "importance": 8,
-      "personal_score": 8.0,
-      "entities": [
-        "Tech Mahindra",
-        "Elon Musk",
-        "SpaceXSI",
-        "AI-led",
-        "ET Enterprise AI Tech",
-        "Mahindra",
-        "ET Enterprise AI"
       ],
       "summary_method": "rss_fallback"
     },
@@ -1604,24 +1591,6 @@
       "summary_method": "rss_fallback"
     },
     {
-      "id": "a085482cd886bce4",
-      "title": "JFrog’s recovery defies the SaaS sell-off as AI makes its software more essential - CTech",
-      "summary": "JFrog’s recovery defies the SaaS sell-off as AI makes its software more essential CTech",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBaQlJ5N3JjZjNmb0ZBWnVXdlZIZkJDT2VTTzRzZ2pMUWpiU25PMXZFMHlfaF9kTE9weU5qb2xJQXB1MVU0aWJMNWJ0R2FVZkNZU2M0R3JxdUdfemkwb3NIMUx1dHRzTEk?oc=5",
-      "source": "CTech",
-      "category": "tech",
-      "published_at": "2026-10-22T09:42:00+00:00",
-      "importance": 7,
-      "personal_score": 7.0,
-      "entities": [
-        "JFrog",
-        "SaaS",
-        "CTech JFrog",
-        "CTech"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
       "id": "ee9f46b5cac4c65a",
       "title": "Amazon targets Nvidia’s software edge with new AI tool - The Hindu",
       "summary": "Amazon targets Nvidia’s software edge with new AI tool The Hindu",
@@ -1636,23 +1605,6 @@
         "Nvidia",
         "The Hindu Amazon",
         "The Hindu"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
-      "id": "5e83ed0e83517d81",
-      "title": "Organisations tap AI to speed up software development, but caution is needed - FutureCIO",
-      "summary": "Organisations tap AI to speed up software development, but caution is needed FutureCIO",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdUlnclpDNGdsMVctWUwxelhKRWVDZlpUX1B3OW5aTzRKenJUQ3JpWlE1M05tR1VoVXVWMHRHTFpYU2g0MzNjUGJTb0pQOG9mN3FmN3BHS2swV0s1Q3I4Wjd1U0FINGwtZTAzYzRCOGx4WmpYRG9sZk9TZThyRHlJbXJWRV9sU0tKbTBIUzZpRG1YNkJ2Z1BLX3RMUDJsQ1lV?oc=5",
-      "source": "FutureCIO",
-      "category": "tech",
-      "published_at": "2026-10-22T03:00:00+00:00",
-      "importance": 7,
-      "personal_score": 7.0,
-      "entities": [
-        "Organisations",
-        "FutureCIO Organisations",
-        "FutureCIO"
       ],
       "summary_method": "rss_fallback"
     },
@@ -1675,21 +1627,37 @@
       "summary_method": "rss_fallback"
     },
     {
-      "id": "7ce62632e959e47a",
-      "title": "Battlefield of the future: How AI is transforming warfare | Hindustan Times - Hindustan Times",
-      "summary": "Battlefield of the future: How AI is transforming warfare | Hindustan Times Hindustan Times",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQTlp3cFprdlhhc21MOGt3akdMbzFJS1JGNWQ1YlhhYU1qbks1VHNPZWQwNUg5VnV5QlQxMy1wNWJTSkZaTG1pY29ObFI5VUVHeVVRWnJtZ25LMGF1cWRhcVNLc3l3UERLaFlocmpxNmM4akFpTzBWemhsUWZFOE5YdC1zcFljQXRFRGwyTDltZTZQNGk2Wm50QXZGWjZ5ZW5QbFRWSlhfczloSG9Wc19QUHFqTEtjNjlyTW5RTk9sTXBZa3JWa1l2OHdqUdIB0AFBVV95cUxOMnY3QTk0TFFPWVhJa0JYM01adFNKUC02R2V4c3VIUHV5aERERmFJbWE3d1Nudk05djN4Q2xSWWxaR2pXb1hHSms2Zk5vblJ1ckkzdFVtVk1yV3ZuY1M2bS13QUE0Q0NXV3R3TW1HS1lOYkdrZUJqcjF6X0lESkpLZ0NnSHJNUEhVd2tVb3pCR0kxQkNBYXJRWHJpSHNTYndnaXMwRHMwdVFYRzEyVFFla0pYaUE4LUt3SkQzbFlxSVhWTXFtRWN6ckx2U05OWE82?oc=5",
-      "source": "Hindustan Times",
+      "id": "5e83ed0e83517d81",
+      "title": "Organisations tap AI to speed up software development, but caution is needed - FutureCIO",
+      "summary": "Organisations tap AI to speed up software development, but caution is needed FutureCIO",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdUlnclpDNGdsMVctWUwxelhKRWVDZlpUX1B3OW5aTzRKenJUQ3JpWlE1M05tR1VoVXVWMHRHTFpYU2g0MzNjUGJTb0pQOG9mN3FmN3BHS2swV0s1Q3I4Wjd1U0FINGwtZTAzYzRCOGx4WmpYRG9sZk9TZThyRHlJbXJWRV9sU0tKbTBIUzZpRG1YNkJ2Z1BLX3RMUDJsQ1lV?oc=5",
+      "source": "FutureCIO",
       "category": "tech",
-      "published_at": "2026-10-22T10:46:30+00:00",
+      "published_at": "2026-10-22T03:00:00+00:00",
       "importance": 7,
       "personal_score": 7.0,
       "entities": [
-        "Battlefield",
-        "How AI",
-        "Hindustan Times",
-        "Hindustan Times Battlefield",
-        "Hindustan Times Hindustan Times"
+        "Organisations",
+        "FutureCIO Organisations",
+        "FutureCIO"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
+      "id": "a085482cd886bce4",
+      "title": "JFrog’s recovery defies the SaaS sell-off as AI makes its software more essential - CTech",
+      "summary": "JFrog’s recovery defies the SaaS sell-off as AI makes its software more essential CTech",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBaQlJ5N3JjZjNmb0ZBWnVXdlZIZkJDT2VTTzRzZ2pMUWpiU25PMXZFMHlfaF9kTE9weU5qb2xJQXB1MVU0aWJMNWJ0R2FVZkNZU2M0R3JxdUdfemkwb3NIMUx1dHRzTEk?oc=5",
+      "source": "CTech",
+      "category": "tech",
+      "published_at": "2026-10-22T09:42:00+00:00",
+      "importance": 7,
+      "personal_score": 7.0,
+      "entities": [
+        "JFrog",
+        "SaaS",
+        "CTech JFrog",
+        "CTech"
       ],
       "summary_method": "rss_fallback"
     },
@@ -1710,6 +1678,64 @@
         "The Quantum Insider RhymeQ",
         "Secures",
         "The Quantum Insider"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
+      "id": "4cce1c4b3a3e10e1",
+      "title": "Thoughtworks Positioned as a Visionary in the 2026 Gartner® Magic Quadrant™ for Custom Software Development Services - PR Newswire",
+      "summary": "Thoughtworks Positioned as a Visionary in the 2026 Gartner® Magic Quadrant™ for Custom Software Development Services PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQY3FYVFBrUUxCNDlzMVdVZlFRdnhNNkZCU3kxaUNSMmNBV0VpRGNuLUhwbXEzSWFyNEhpUjVWTVZSdTF5SkE0aUVSU19RVFdZR2pVeW50aHJXMFRReDJTV2xZR0FmTEJqMjhzR0FmdERfeXRWaHRKMGhjcUFYQXZUellhLWI3QUY4V09uR2JWQmw0cHN2TlJYelZHLUJjTTJlMWhaM2VsaHozcDNkdm9JeU9IaHdzOGR4YUFIejhOV1JkbnpsVGdsSGxnOG5JMEZkWkdDS2huQVFfSll0a1FyNWxXY0hSMUEyaFpFTkoxaTQtallDUUlVbVd3ZnZrUmc?oc=5",
+      "source": "PR Newswire",
+      "category": "tech",
+      "published_at": "2026-10-22T12:00:00+00:00",
+      "importance": 7,
+      "personal_score": 7.0,
+      "entities": [
+        "Thoughtworks Positioned",
+        "Visionary",
+        "Gartner",
+        "Magic Quadrant",
+        "Custom Software Development Services",
+        "PR Newswire Thoughtworks Positioned",
+        "PR Newswire"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
+      "id": "6a3d5bcba828a7c0",
+      "title": "Top 5 Healthcare Analytics Software Development Companies in 2026 - Technology Org",
+      "summary": "Top 5 Healthcare Analytics Software Development Companies in 2026 Technology Org",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYjFhMzNKa3Y3aFBSM2FzUF9tUk5WcXhlamZWN0RrVnBObVVaZldwQ25iZ1NhTWFSVkFDMlRoMjJnSHpYRHhER09KZ3pmS2I5MDNxMDFOMVY0dEExSWlLZFdJY051V2w0Q19QaHFnR3lOM1Nwa0F0b0VybmUxQzYzR0VMT282MU1TYkQ0TVdSWGNMNGpXM2tvNExaMUpvWnlJNWJCMWlTbw?oc=5",
+      "source": "Technology Org",
+      "category": "tech",
+      "published_at": "2026-10-22T08:26:58+00:00",
+      "importance": 7,
+      "personal_score": 7.0,
+      "entities": [
+        "Top",
+        "Healthcare Analytics Software Development",
+        "Companies",
+        "Technology Org Top",
+        "Technology Org"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
+      "id": "745809e322d65fc5",
+      "title": "Here's how to protect your information from the PHP flaw, according to cybersecurity pros - Business Insider",
+      "summary": "Here's how to protect your information from the PHP flaw, according to cybersecurity pros Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOS3VaOGt2dWFuSFlRd2tscS1HRDF6R1A5VUhZODR1SHZyZ05pUlZuYTNXa3ZvYVJvcDh5TzhhWVlGR1czN0ctQ3U1RV9FWFFzcy1RakxKd1BVTVhqZG9mSDBjWF9sZjdwR095U2N4RTNsVDZfZE5kODFtRWtVWHZJcWE4dF9NZHdNRVQxaHpPdWtfZTJqOW1HTDN1X1k0WFU?oc=5",
+      "source": "Business Insider",
+      "category": "tech",
+      "published_at": "2026-10-22T21:13:00+00:00",
+      "importance": 7,
+      "personal_score": 7.0,
+      "entities": [
+        "Here",
+        "PHP",
+        "Business Insider Here",
+        "Business Insider"
       ],
       "summary_method": "rss_fallback"
     },
@@ -1803,25 +1829,6 @@
       "summary_method": "rss_fallback"
     },
     {
-      "id": "6a3d5bcba828a7c0",
-      "title": "Top 5 Healthcare Analytics Software Development Companies in 2026 - Technology Org",
-      "summary": "Top 5 Healthcare Analytics Software Development Companies in 2026 Technology Org",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYjFhMzNKa3Y3aFBSM2FzUF9tUk5WcXhlamZWN0RrVnBObVVaZldwQ25iZ1NhTWFSVkFDMlRoMjJnSHpYRHhER09KZ3pmS2I5MDNxMDFOMVY0dEExSWlLZFdJY051V2w0Q19QaHFnR3lOM1Nwa0F0b0VybmUxQzYzR0VMT282MU1TYkQ0TVdSWGNMNGpXM2tvNExaMUpvWnlJNWJCMWlTbw?oc=5",
-      "source": "Technology Org",
-      "category": "tech",
-      "published_at": "2026-10-22T08:26:58+00:00",
-      "importance": 7,
-      "personal_score": 7.0,
-      "entities": [
-        "Top",
-        "Healthcare Analytics Software Development",
-        "Companies",
-        "Technology Org Top",
-        "Technology Org"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
       "id": "24d5485d57755cb6",
       "title": "Japanese cybersecurity stocks rally as PHP flaw spurs demand - Investing.com India",
       "summary": "Japanese cybersecurity stocks rally as PHP flaw spurs demand Investing.com India",
@@ -1836,22 +1843,6 @@
         "PHP",
         "Investing.com India Japanese",
         "Investing.com India"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
-      "id": "fad0d8c686ee480c",
-      "title": "A critical flaw affecting 70% of all websites has the cybersecurity world panicked - The Conversation",
-      "summary": "A critical flaw affecting 70% of all websites has the cybersecurity world panicked The Conversation",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONnQ3ZjBSMm9BY0c1S2F3TDROVkdnRy1qVjUyTFdDYW92cnRWZUpxNklXYmUtZFFQdm5QR1hZWHBkS3lfVF9jWEtwbHV6bXY1ek00SUJaMlVPLUhISUQwNmRWczhqeldiY2dUNUs4bVljZEVhVjF4UGdZeV84UjJXdm0wSEpqNHp2VVoxTVZuVjdPWFVNaFdkWmhYTVphZEU5UEZtazJtWEpNekd0S0ZVR21zc3J0cjg?oc=5",
-      "source": "The Conversation",
-      "category": "tech",
-      "published_at": "2026-10-22T00:43:00+00:00",
-      "importance": 7,
-      "personal_score": 7.0,
-      "entities": [
-        "The Conversation A",
-        "The Conversation"
       ],
       "summary_method": "rss_fallback"
     },
@@ -1893,6 +1884,24 @@
       "summary_method": "rss_fallback"
     },
     {
+      "id": "974452b6e54df7fb",
+      "title": "Software development and rules stability: Prototype racing in 2030 - Ars Technica",
+      "summary": "Software development and rules stability: Prototype racing in 2030 Ars Technica",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObU13Y1NQT1p3MmdNNVdZNHhRYzJaWHFVU2hOT1lmVzB6eUM1akIxbG5TaDYxTGduNWh6dW8zeGlQbkpKa2xXdlVqbUNJVkU3allJZkRpUDFNYXhHWUVvNU9jQnpvdjVDY3pPRzVqMFo5VTBod2wzRDBXX2hGYmRkYXk4Y2FjeWU0ZHZ2MktGUWVHanlPY1A3SEw5dXd5b3BiV2tYRkln?oc=5",
+      "source": "Ars Technica",
+      "category": "tech",
+      "published_at": "2026-10-14T19:44:26+00:00",
+      "importance": 6,
+      "personal_score": 6.0,
+      "entities": [
+        "Software",
+        "Prototype",
+        "Ars Technica Software",
+        "Ars Technica"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
       "id": "332c30944688ed6a",
       "title": "AI is automating coding. So why are software developer job postings on the rise? - CNBC",
       "summary": "AI is automating coding. So why are software developer job postings on the rise? CNBC",
@@ -1909,42 +1918,19 @@
       "summary_method": "rss_fallback"
     },
     {
-      "id": "c93c520fc1f53c79",
-      "title": "“Software is over”: Bold AI developer takes aim at Adobe with open source clones - Ars Technica",
-      "summary": "“Software is over”: Bold AI developer takes aim at Adobe with open source clones Ars Technica",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbnlQeEF0azJTVURrX1dtX3JUVjFRd0R0Z0t1S0hjQ1ZwSXh0TlhaVnFndEJHbzQtVU1PUFZVbmlzNGlCZmEyMGl6Wnc3NDFsMTdLVFQ0M0R0cHJDeWRGakJFUm93Vjh6ODVxTzR3MTJadGQyYnhXSnVwaUhsTzk1ZzFlVHJqa29rRlRmR3lOZUFWQ2p2Ymt5U3p6Ti1OQW5pclI5d3lycXBUZGYxSk53cWdiNA?oc=5",
-      "source": "Ars Technica",
+      "id": "3d1d7c445135f5a6",
+      "title": "Eight reasons coding agents are better than software developers - InfoWorld",
+      "summary": "Eight reasons coding agents are better than software developers InfoWorld",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZEtNUEI2dXVxZTNRVERveDdNWTJFeW9jZW9KbTE3eURUdVVmakxWemlVeG85QUI2bi1MZXJqZXJ5U0JsT3pZWlc2VnVDV1pPampzLVBtcHMtaExZOGRBT1JiSnloTXRXaUJ3R3lmRTE5ZDlQZGMtclpMYzhYRF94ZG9yTE9aUFozMWJlZDNOTGdxVWNUN1Q1NmZDVllBVV82eXp3U0hybEdUZ0dPZWw4?oc=5",
+      "source": "InfoWorld",
       "category": "tech",
-      "published_at": "2026-10-07T07:00:00+00:00",
+      "published_at": "2026-10-21T09:02:14+00:00",
       "importance": 6,
       "personal_score": 6.0,
       "entities": [
-        "Software",
-        "Bold AI",
-        "Adobe",
-        "Ars Technica"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
-      "id": "0f60e7887adf205c",
-      "title": "Major Banks Back OSERA to Deliver Industry Wide Remediation Standards and Fixes to Secure Open Source Software - Linux Foundation",
-      "summary": "Major Banks Back OSERA to Deliver Industry Wide Remediation Standards and Fixes to Secure Open Source Software Linux Foundation",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPZ0VmSDI3Znpkd3JOSHpldFNnQmc0RzV0YnBvSGtWVERENUFseFl0SXJlYnRVX3czdk1yUnVXVTRkOWFXRUtfek5yX19oYWhFX3doWGtYR3diZ1JPcXdTTXNzbXhYdG1veDdxUGtTbWplVXowWE84aDVnTURMTWJpN1pIdHdFdmZCY0lHMXkteDNNXzBMeEMwM0F1emdIWGFOU0pmcHNWOWFHZnh5TkwyZXo4Y2ZKRUlHdDdsRkFxSmF3OGFUUFQtc3J5OVVJZjZwQTVBWUpPR0N2TTItRTZrWWV30gHyAUFVX3lxTE5iS3dfM3lzNDdMMG13Nzl5dWhEQmR1LXFqWExNOEwydjEwa1k1WE1Pd3lSUFBPWWZmZkNDNnpWcGYyR2FxRkhMOEZ4Um5DaWIzVGxyMXFwZV96Q1B6UnhOM1JnWkt6dG9YTHZxTVh2X0xVREhjTHI2YXNaeXhfUkRYcGNQZE91dTEzLWRnSU1oLVdiTkNtSGU1SmRVaHJhdm9DSVh2bFVuczZFQkwxOVh6ZUFBUnAySjhRQ3JiT3lnR2o0dDUteWdRd0hxRU03UW9CVVp6Tm0zaTkxOEZzanp2dnpBeXAtdHB5d0d2UThnMHh3?oc=5",
-      "source": "Linux Foundation",
-      "category": "tech",
-      "published_at": "2026-10-07T09:30:49+00:00",
-      "importance": 6,
-      "personal_score": 6.0,
-      "entities": [
-        "Major Banks Back OSERA",
-        "Deliver Industry Wide Remediation",
-        "Standards",
-        "Fixes",
-        "Secure Open Source Software",
-        "Linux Foundation Major Banks",
-        "Back OSERA",
-        "Linux Foundation"
+        "Eight",
+        "InfoWorld Eight",
+        "InfoWorld"
       ],
       "summary_method": "rss_fallback"
     },
@@ -2009,20 +1995,60 @@
       "summary_method": "rss_fallback"
     },
     {
-      "id": "fd6ae46236b220c3",
-      "title": "AI and Human Expertise: Redefining Software Development in 2026 - Nasscom",
-      "summary": "AI and Human Expertise: Redefining Software Development in 2026 Nasscom",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTVVVSUxOTDVrNUZVSFJualg4TDQyQzRQODJCRW03OHRiUm4tQ25QOEZ1eHRkQ25GMGlhcTJRdGhuOE82TTBoSUZkRkw1TlFyWGtPN0JqQzFjYmdqcWJlM2lkTUVHd2t6NGFFZzlwRHlVZHZhdFR1SGpyT3AxQmtkeGdUN01NM0NZcDJSSXYxOEVJVzhva0RYVWtlUlVpM0RtTjduQVp3?oc=5",
-      "source": "Nasscom",
+      "id": "fad0d8c686ee480c",
+      "title": "A critical flaw affecting 70% of all websites has the cybersecurity world panicked - The Conversation",
+      "summary": "A critical flaw affecting 70% of all websites has the cybersecurity world panicked The Conversation",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONnQ3ZjBSMm9BY0c1S2F3TDROVkdnRy1qVjUyTFdDYW92cnRWZUpxNklXYmUtZFFQdm5QR1hZWHBkS3lfVF9jWEtwbHV6bXY1ek00SUJaMlVPLUhISUQwNmRWczhqeldiY2dUNUs4bVljZEVhVjF4UGdZeV84UjJXdm0wSEpqNHp2VVoxTVZuVjdPWFVNaFdkWmhYTVphZEU5UEZtazJtWEpNekd0S0ZVR21zc3J0cjg?oc=5",
+      "source": "The Conversation",
       "category": "tech",
-      "published_at": "2026-10-19T09:20:31+00:00",
+      "published_at": "2026-10-22T00:43:00+00:00",
       "importance": 6,
       "personal_score": 6.0,
       "entities": [
-        "Human Expertise",
-        "Redefining Software Development",
-        "Nasscom AI",
-        "Nasscom"
+        "The Conversation A",
+        "The Conversation"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
+      "id": "0f60e7887adf205c",
+      "title": "Major Banks Back OSERA to Deliver Industry Wide Remediation Standards and Fixes to Secure Open Source Software - Linux Foundation",
+      "summary": "Major Banks Back OSERA to Deliver Industry Wide Remediation Standards and Fixes to Secure Open Source Software Linux Foundation",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPZ0VmSDI3Znpkd3JOSHpldFNnQmc0RzV0YnBvSGtWVERENUFseFl0SXJlYnRVX3czdk1yUnVXVTRkOWFXRUtfek5yX19oYWhFX3doWGtYR3diZ1JPcXdTTXNzbXhYdG1veDdxUGtTbWplVXowWE84aDVnTURMTWJpN1pIdHdFdmZCY0lHMXkteDNNXzBMeEMwM0F1emdIWGFOU0pmcHNWOWFHZnh5TkwyZXo4Y2ZKRUlHdDdsRkFxSmF3OGFUUFQtc3J5OVVJZjZwQTVBWUpPR0N2TTItRTZrWWV30gHyAUFVX3lxTE5iS3dfM3lzNDdMMG13Nzl5dWhEQmR1LXFqWExNOEwydjEwa1k1WE1Pd3lSUFBPWWZmZkNDNnpWcGYyR2FxRkhMOEZ4Um5DaWIzVGxyMXFwZV96Q1B6UnhOM1JnWkt6dG9YTHZxTVh2X0xVREhjTHI2YXNaeXhfUkRYcGNQZE91dTEzLWRnSU1oLVdiTkNtSGU1SmRVaHJhdm9DSVh2bFVuczZFQkwxOVh6ZUFBUnAySjhRQ3JiT3lnR2o0dDUteWdRd0hxRU03UW9CVVp6Tm0zaTkxOEZzanp2dnpBeXAtdHB5d0d2UThnMHh3?oc=5",
+      "source": "Linux Foundation",
+      "category": "tech",
+      "published_at": "2026-10-07T09:30:49+00:00",
+      "importance": 6,
+      "personal_score": 6.0,
+      "entities": [
+        "Major Banks Back OSERA",
+        "Deliver Industry Wide Remediation",
+        "Standards",
+        "Fixes",
+        "Secure Open Source Software",
+        "Linux Foundation Major Banks",
+        "Back OSERA",
+        "Linux Foundation"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
+      "id": "d4254b9f4009d81a",
+      "title": "ELISA Expands Open Source Ecosystem for Safety-Critical Software - Linux Foundation",
+      "summary": "ELISA Expands Open Source Ecosystem for Safety-Critical Software Linux Foundation",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZWFkbkExYUM1Q00zTEUtOUZNVWp5cjk1bGk2NEltX3hCVzFDakpFSHg1QXc3RERidDl5OGdEZXFURV9HX216cGZMTDFic1hrUktib3NKMlg2SzNnakpkZ2VzVGtwS1BFN2k4RGJnYTdkTm50YWE3dWVPTGctS2dKWVZ6dExjM1VRU29ZUkdUb1J1RkVVWHIxM19vUnMxc0wyR0pjddIBtAFBVV95cUxQLVdJZlllVWQzQTNMWTR6ZWxjaWw5WkQ4TE55anRjM2I1OEpNZEpqTjIyek1DcTdVeHg2VzIwY2JudjljU3AyMnZaNXQwalZNejVnZDlsSllSNGt4enQ1ZEdONU9YTGVqbjlBY19wbHpEME5wX25xYVBnZjE0a2g5Mi1rNFdEbEJvd2VqT2tNSjNzZC1paC1VaXNXWjI0cnhBLTZYbDgtZGpjVktDcUFiSVNFTDY?oc=5",
+      "source": "Linux Foundation",
+      "category": "tech",
+      "published_at": "2026-10-05T17:37:49+00:00",
+      "importance": 6,
+      "personal_score": 6.0,
+      "entities": [
+        "ELISA Expands Open Source",
+        "Ecosystem",
+        "Safety-Critical Software",
+        "Linux Foundation ELISA Expands",
+        "Open Source Ecosystem",
+        "Safety-Critical Software Linux Foundation"
       ],
       "summary_method": "rss_fallback"
     },
@@ -2078,23 +2104,6 @@
       "entities": [
         "How",
         "Google Open Source Blog"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
-      "id": "1272cd8c860cf54e",
-      "title": "Websites shut down globally after AI finds cybersecurity flaw affecting 70% of the internet - CNN",
-      "summary": "Websites shut down globally after AI finds cybersecurity flaw affecting 70% of the internet CNN",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9VMi1odVpCeldBLWZwZjdGVkE5am16cTZfeHlkbno4SzdGSmg4TVVTcVkxRnF5aUZvbV9DOEVpbGdSa05IX2VocHE5ZEdIa1M4cVoxVVZwX290REZNZFhRNGFRMkQ4ZzRJTC0xWHI0MlI5dDg4WVE?oc=5",
-      "source": "CNN",
-      "category": "tech",
-      "published_at": "2026-10-21T16:36:24+00:00",
-      "importance": 6,
-      "personal_score": 6.0,
-      "entities": [
-        "Websites",
-        "CNN Websites",
-        "CNN"
       ],
       "summary_method": "rss_fallback"
     },
@@ -2162,7 +2171,7 @@
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQLTNWQTE5Y1liQ2p3Tk5GUkRLT0dSdEdhYUR2bVNvbGlLcmluUHdpWldEYVZ2VFRLSk43cllxRDdVeEFJVVl6ZktJLVd5a3cwZ1IwQU5MVklZQWoyeGxPWVNVczd0U3hrYmt4bVhGRW9LZWpaTkRJVW1YcXhJU0lKTk11LWZvaDVsci1rMWstcFdPYk9sVUE?oc=5",
       "source": "App Developer Magazine",
       "category": "tech",
-      "published_at": "2026-10-22T18:16:30+00:00",
+      "published_at": "2026-10-22T18:16:45+00:00",
       "importance": 5,
       "personal_score": 5.0,
       "entities": [
