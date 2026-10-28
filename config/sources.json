@@ -31,6 +31,30 @@
     {
       "name": "Indian Express Kerala",
       "url": "https://indianexpress.com/section/india/kerala/feed/"
+    },
+    {
+      "name": "India News English",
+      "url": "https://news.google.com/rss/search?q=India&hl=en-IN&gl=IN&ceid=IN:en"
+    },
+    {
+      "name": "World News English",
+      "url": "https://news.google.com/rss/search?q=world+news&hl=en-IN&gl=IN&ceid=IN:en"
+    },
+    {
+      "name": "Science and Research",
+      "url": "https://news.google.com/rss/search?q=science+research+discoveries&hl=en-IN&gl=IN&ceid=IN:en"
+    },
+    {
+      "name": "Space and Astronomy",
+      "url": "https://news.google.com/rss/search?q=space+astronomy+NASA&hl=en-IN&gl=IN&ceid=IN:en"
+    },
+    {
+      "name": "Environment and Climate",
+      "url": "https://news.google.com/rss/search?q=climate+environment+research&hl=en-IN&gl=IN&ceid=IN:en"
+    },
+    {
+      "name": "Education and Learning",
+      "url": "https://news.google.com/rss/search?q=education+learning+research&hl=en-IN&gl=IN&ceid=IN:en"
     }
   ],
   "tech": [
@@ -39,8 +63,44 @@
       "url": "https://news.google.com/rss/search?q=artificial+intelligence&hl=en-IN&gl=IN&ceid=IN:en"
     },
     {
-      "name": "Software Development",
-      "url": "https://news.google.com/rss/search?q=software+development&hl=en-IN&gl=IN&ceid=IN:en"
+      "name": "Machine Learning Research",
+      "url": "https://news.google.com/rss/search?q=machine+learning+research&hl=en-IN&gl=IN&ceid=IN:en"
+    },
+    {
+      "name": "Software Engineering",
+      "url": "https://news.google.com/rss/search?q=software+engineering&hl=en-IN&gl=IN&ceid=IN:en"
+    },
+    {
+      "name": "System Design and Architecture",
+      "url": "https://news.google.com/rss/search?q=system+design+software+architecture&hl=en-IN&gl=IN&ceid=IN:en"
+    },
+    {
+      "name": "Programming Languages",
+      "url": "https://news.google.com/rss/search?q=programming+languages+developer&hl=en-IN&gl=IN&ceid=IN:en"
+    },
+    {
+      "name": "Backend and APIs",
+      "url": "https://news.google.com/rss/search?q=backend+development+API+engineering&hl=en-IN&gl=IN&ceid=IN:en"
+    },
+    {
+      "name": "Frontend and Web Development",
+      "url": "https://news.google.com/rss/search?q=frontend+web+development&hl=en-IN&gl=IN&ceid=IN:en"
+    },
+    {
+      "name": "Mobile Development",
+      "url": "https://news.google.com/rss/search?q=Android+mobile+app+development&hl=en-IN&gl=IN&ceid=IN:en"
+    },
+    {
+      "name": "Databases and Data Engineering",
+      "url": "https://news.google.com/rss/search?q=database+engineering+data+engineering&hl=en-IN&gl=IN&ceid=IN:en"
+    },
+    {
+      "name": "DevOps and Platform Engineering",
+      "url": "https://news.google.com/rss/search?q=DevOps+platform+engineering+Kubernetes&hl=en-IN&gl=IN&ceid=IN:en"
+    },
+    {
+      "name": "Cloud Computing",
+      "url": "https://news.google.com/rss/search?q=cloud+computing+engineering&hl=en-IN&gl=IN&ceid=IN:en"
     },
     {
       "name": "Cybersecurity",
@@ -55,16 +115,104 @@
       "url": "https://news.google.com/rss/search?q=Android&hl=en-IN&gl=IN&ceid=IN:en"
     },
     {
-      "name": "The Hindu Science and Technology",
-      "url": "https://www.thehindu.com/sci-tech/feeder/default.rss"
+      "name": "Hacker News",
+      "url": "https://news.ycombinator.com/rss"
     },
     {
-      "name": "The Hindu Science",
-      "url": "https://www.thehindu.com/sci-tech/science/feeder/default.rss"
+      "name": "Lobsters Programming Community",
+      "url": "https://lobste.rs/rss"
     },
     {
-      "name": "The Hindu Technology",
-      "url": "https://www.thehindu.com/sci-tech/technology/feeder/default.rss"
+      "name": "GitHub Blog",
+      "url": "https://github.blog/feed/"
+    },
+    {
+      "name": "Stack Overflow Blog",
+      "url": "https://stackoverflow.blog/feed/"
+    },
+    {
+      "name": "InfoQ Programming",
+      "url": "https://feed.infoq.com/"
+    },
+    {
+      "name": "Python Blog",
+      "url": "https://blog.python.org/feeds/posts/default"
+    },
+    {
+      "name": "Go Blog",
+      "url": "https://go.dev/blog/feed.atom"
+    },
+    {
+      "name": "Node.js Blog",
+      "url": "https://nodejs.org/en/feed/blog.xml"
+    },
+    {
+      "name": "Rust Blog",
+      "url": "https://blog.rust-lang.org/feed.xml"
+    },
+    {
+      "name": "TypeScript Blog",
+      "url": "https://devblogs.microsoft.com/typescript/feed/"
+    },
+    {
+      "name": "Kotlin Blog",
+      "url": "https://blog.jetbrains.com/kotlin/feed/"
+    },
+    {
+      "name": "React Blog",
+      "url": "https://react.dev/rss.xml"
+    },
+    {
+      "name": "Next.js Blog",
+      "url": "https://nextjs.org/feed.xml"
+    },
+    {
+      "name": "Tailwind CSS Blog",
+      "url": "https://tailwindcss.com/feeds/feed.xml"
+    },
+    {
+      "name": "Google Developers Blog",
+      "url": "https://developers.googleblog.com/feeds/posts/default/"
+    },
+    {
+      "name": "Mozilla Hacks",
+      "url": "https://hacks.mozilla.org/feed/"
+    },
+    {
+      "name": "Cloudflare Engineering",
+      "url": "https://blog.cloudflare.com/rss/"
+    },
+    {
+      "name": "AWS News Blog",
+      "url": "https://aws.amazon.com/blogs/aws/feed/"
+    },
+    {
+      "name": "Google Cloud Blog",
+      "url": "https://cloudblog.withgoogle.com/rss/"
+    },
+    {
+      "name": "Kubernetes Blog",
+      "url": "https://kubernetes.io/feed.xml"
+    },
+    {
+      "name": "Vercel Blog",
+      "url": "https://vercel.com/atom"
+    },
+    {
+      "name": "Martin Fowler - Software Design",
+      "url": "https://martinfowler.com/feed.atom"
+    },
+    {
+      "name": "Simon Willison - AI and Software",
+      "url": "https://simonwillison.net/atom/everything/"
+    },
+    {
+      "name": "Dev.to Developer Community",
+      "url": "https://dev.to/feed"
+    },
+    {
+      "name": "freeCodeCamp Developer Articles",
+      "url": "https://www.freecodecamp.org/news/rss/"
     },
     {
       "name": "Indian Express Technology",
@@ -75,16 +223,16 @@
       "url": "https://indianexpress.com/section/technology/science/feed/"
     },
     {
+      "name": "The Hindu Science and Technology",
+      "url": "https://www.thehindu.com/sci-tech/feeder/default.rss"
+    },
+    {
       "name": "Malayalam Gizbot Technology",
       "url": "https://malayalam.gizbot.com/rss/feeds/gizbot-malayalam-fb.xml"
     },
     {
       "name": "Malayalam Gizbot Science and Technology",
       "url": "https://malayalam.gizbot.com/rss/feeds/malayalam-scitech-fb.xml"
-    },
-    {
-      "name": "Oneindia Artificial Intelligence",
-      "url": "https://malayalam.oneindia.com/rss/feeds/artificial-intelligence-fb.xml"
     }
   ]
 }
