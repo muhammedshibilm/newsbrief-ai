@@ -15,6 +15,22 @@
     {
       "name": "Science Malayalam News",
       "url": "https://news.google.com/rss/search?q=Science&hl=ml&gl=IN&ceid=IN:ml"
+    },
+    {
+      "name": "Oneindia Malayalam",
+      "url": "https://malayalam.oneindia.com/rss/feeds/oneindia-malayalam-fb.xml"
+    },
+    {
+      "name": "Oneindia Malayalam News",
+      "url": "https://malayalam.oneindia.com/rss/feeds/malayalam-news-fb.xml"
+    },
+    {
+      "name": "The Hindu Kerala",
+      "url": "https://www.thehindu.com/news/national/kerala/feeder/default.rss"
+    },
+    {
+      "name": "Indian Express Kerala",
+      "url": "https://indianexpress.com/section/india/kerala/feed/"
     }
   ],
   "tech": [
@@ -37,6 +53,38 @@
     {
       "name": "Android",
       "url": "https://news.google.com/rss/search?q=Android&hl=en-IN&gl=IN&ceid=IN:en"
+    },
+    {
+      "name": "The Hindu Science and Technology",
+      "url": "https://www.thehindu.com/sci-tech/feeder/default.rss"
+    },
+    {
+      "name": "The Hindu Science",
+      "url": "https://www.thehindu.com/sci-tech/science/feeder/default.rss"
+    },
+    {
+      "name": "The Hindu Technology",
+      "url": "https://www.thehindu.com/sci-tech/technology/feeder/default.rss"
+    },
+    {
+      "name": "Indian Express Technology",
+      "url": "https://indianexpress.com/section/technology/feed/"
+    },
+    {
+      "name": "Indian Express Science",
+      "url": "https://indianexpress.com/section/technology/science/feed/"
+    },
+    {
+      "name": "Malayalam Gizbot Technology",
+      "url": "https://malayalam.gizbot.com/rss/feeds/gizbot-malayalam-fb.xml"
+    },
+    {
+      "name": "Malayalam Gizbot Science and Technology",
+      "url": "https://malayalam.gizbot.com/rss/feeds/malayalam-scitech-fb.xml"
+    },
+    {
+      "name": "Oneindia Artificial Intelligence",
+      "url": "https://malayalam.oneindia.com/rss/feeds/artificial-intelligence-fb.xml"
     }
   ]
 }
