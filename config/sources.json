@@ -25,10 +25,6 @@
       "url": "https://malayalam.oneindia.com/rss/feeds/malayalam-news-fb.xml"
     },
     {
-      "name": "Janabhoomi Kerala News",
-      "url": "https://janabhoominews.com/rss/category/kerala"
-    },
-    {
       "name": "The Hindu Kerala",
       "url": "https://www.thehindu.com/news/national/kerala/feeder/default.rss"
     },
@@ -57,6 +53,18 @@
     {
       "name": "Android",
       "url": "https://news.google.com/rss/search?q=Android&hl=en-IN&gl=IN&ceid=IN:en"
+    },
+    {
+      "name": "The Hindu Science and Technology",
+      "url": "https://www.thehindu.com/sci-tech/feeder/default.rss"
+    },
+    {
+      "name": "The Hindu Science",
+      "url": "https://www.thehindu.com/sci-tech/science/feeder/default.rss"
+    },
+    {
+      "name": "The Hindu Technology",
+      "url": "https://www.thehindu.com/sci-tech/technology/feeder/default.rss"
     },
     {
       "name": "Indian Express Technology",
