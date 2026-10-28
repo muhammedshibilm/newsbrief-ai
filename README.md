@@ -1,338 +1,173 @@
 # NewsBrief AI
 
-A personal AI-assisted news briefing system focused on **important Malayalam/general news** and **technology news**.
+**A personal news-intelligence pipeline for Malayalam/general news and technology news.**
 
-The project reduces information overload by collecting news automatically, removing duplicates, analysing importance, learning from user feedback, and producing a ranked feed for a future mobile app.
+NewsBrief AI collects stories from configured RSS feeds, normalizes and deduplicates them, extracts and summarizes article content where available, scores stories, and publishes a ranked JSON feed. An optional feedback loop uses Firebase Firestore and a lightweight machine-learning model to personalize relevance.
+
+> **Project status:** The repository currently contains the automated Python feed pipeline and feedback-learning components. The mobile application described in the roadmap is planned work, not part of the current pipeline.
+
+## What it does
+
+- Collects news from configurable RSS sources covering Kerala, India, world news, science, AI, software development, cybersecurity, open source, and Android.
+- Normalizes article titles and URLs and removes exact duplicates.
+- Attempts to extract readable publisher article text and summarizes it with an optional OpenAI API integration or an extractive fallback.
+- Computes TF-IDF-based text features, similarity, topic estimates, novelty signals, and importance scores.
+- Optionally detects near-duplicate stories with sentence-transformers embeddings.
+- Syncs user feedback from Firestore and uses like/skip signals to personalize ranking when enough examples are available.
+- Writes the generated feed to `data/news.json`.
 
 ## Architecture
 
-The architecture is shown as connected processing boxes so the data flow is explicit:
-
 ```mermaid
 flowchart TD
-    A[RSS Sources] --> B[Fetch + Normalize]
-    B --> C[Exact Deduplication]
-    C --> D[Mathematical AI Engine]
-
-    D --> D1[TF-IDF 1-2 grams]
-    D1 --> D2[Cosine Similarity]
-    D2 --> D3[Topic Classification]
-    D3 --> D4[Novelty Detection]
-    D4 --> D5[Importance Scoring]
-
-    D5 --> E[Semantic Intelligence]
-    E --> E1[Entity Extraction]
-    E1 --> E2[Semantic Deduplication]
-
-    E2 --> F[Personal Learning]
-    F --> F1[Firebase Firestore Feedback]
-    F1 --> F2[Logistic Regression]
-    F2 --> F3[Adaptive Source Reliability]
-
-    F3 --> G[Personalized Ranking]
-    G --> H[data/news.json]
-    H --> I[Future Mobile App]
-
-    I --> J[Like / Skip]
-    J --> K[Firebase Authentication]
-    K --> F1
+    A[RSS feeds<br/>config/sources.json] --> B[Fetch and normalize]
+    B --> C[Exact URL/title deduplication]
+    C --> D[Select candidate articles]
+    D --> E[Extract publisher article text]
+    E --> F[Summarize article]
+    F --> G[Text intelligence]
+    G --> G1[TF-IDF and cosine similarity]
+    G --> G2[Topic estimate and novelty]
+    G --> G3[Importance scoring]
+    G1 --> H[Candidate ranking]
+    G2 --> H
+    G3 --> H
+    H --> I[Optional semantic deduplication]
+    I --> J[Personalization signals]
+    K[Firestore feedback] --> L[GitHub Actions feedback sync]
+    L --> J
+    J --> M[Final ranked feed]
+    M --> N[data/news.json]
 ```
 
-### Pipeline
+GitHub Actions orchestrates the scheduled or manual run. It installs dependencies, authenticates to Google Cloud to sync feedback, runs the feed pipeline, validates the generated JSON, and commits changes to `data/news.json`.
 
-```text
-RSS Sources
-     │
-     ▼
-┌──────────────────────┐
-│ Fetch + Normalize    │
-└──────────┬───────────┘
-           │
-           ▼
-┌──────────────────────┐
-│ Exact Deduplication  │
-└──────────┬───────────┘
-           │
-           ▼
-┌──────────────────────┐
-│ Mathematical AI      │
-│ • TF-IDF 1–2 grams   │
-│ • Cosine similarity  │
-│ • Classification     │
-│ • Novelty            │
-│ • Importance         │
-└──────────┬───────────┘
-           │
-           ▼
-┌──────────────────────┐
-│ Semantic Intelligence│
-│ • Entity extraction  │
-│ • Semantic dedup     │
-└──────────┬───────────┘
-           │
-           ▼
-┌────────────────────────────┐
-│ Personal Learning          │
-│ • Firestore feedback       │
-│ • Logistic Regression      │
-│ • Source reliability       │
-└────────────┬───────────────┘
-             │
-             ▼
-┌──────────────────────┐
-│ Personalized Ranking │
-└──────────┬───────────┘
-           │
-           ▼
-┌──────────────────────┐
-│ data/news.json       │
-└──────────┬───────────┘
-           │
-           ▼
-┌──────────────────────┐
-│ Future Mobile App    │
-└──────────┬───────────┘
-           │
-       Like / Skip
-           │
-           ▼
-┌──────────────────────┐
-│ Firebase Auth +      │
-│ Firestore            │
-└──────────┬───────────┘
-           │
-           └──────────────► Personal Learning
-```
+For the detailed data flow, module responsibilities, and design trade-offs, see [Architecture and data flow](docs/architecture.md).
 
-## AI / Machine Learning
+## Technology stack
 
-NewsBrief AI starts with transparent, lightweight mathematical methods rather than a hosted LLM. This keeps the core pipeline inexpensive and suitable for GitHub Actions.
+- **Language:** Python 3.10+ (the GitHub Actions workflow uses Python 3.12)
+- **Ingestion:** RSS with `feedparser`, HTTP requests with `requests`
+- **Parsing:** Beautiful Soup and `python-dateutil`
+- **Text ranking:** scikit-learn TF-IDF and logistic regression
+- **Feedback storage:** Firebase Firestore
+- **Optional summarization:** OpenAI API, configured through environment variables
+- **Automation:** GitHub Actions
 
-### TF-IDF with 1–2 grams
-
-Article text is converted into numerical features using unigrams and bigrams. This captures individual terms and useful phrases such as `artificial intelligence` and `open source`.
-
-### Cosine similarity and novelty
-
-Cosine similarity measures how closely stories are related. Novelty scoring uses this signal to identify repetitive versus distinct stories.
-
-### Topic classification
-
-A mathematical prototype classifier estimates whether an article is `general` or `tech`, using the feed category as a small prior.
-
-### Importance scoring
-
-Importance combines important-event signals, topic relevance, source quality, and recency.
-
-## Personal Intelligence
-
-### Personal classifier
-
-`src/learning.py` trains a **Logistic Regression** classifier from `like` and `skip` feedback after enough examples from both classes exist. It uses TF-IDF 1–2 gram features and produces a personal relevance score.
-
-Until there is enough feedback, the deterministic ranking system remains active. This avoids overfitting a tiny personal dataset.
-
-### Adaptive source reliability
-
-Source reliability is estimated from historical feedback using Bayesian smoothing. A source therefore becomes more or less influential gradually rather than changing drastically after one interaction.
-
-### Entity extraction
-
-`src/entity_extractor.py` extracts English and Malayalam entity candidates using lightweight Unicode-aware rules. These entities can support topic clustering, entity pages, and personalization.
-
-### Semantic deduplication
-
-`src/semantic_dedup.py` supports embedding-based duplicate detection with `sentence-transformers` and `all-MiniLM-L6-v2`. A similarity threshold of `0.88` flags near-duplicate stories.
-
-The embedding dependency is intentionally optional because downloading a transformer model on every GitHub Actions run would significantly increase build time. When it is unavailable, exact/title deduplication and TF-IDF similarity remain the fallback.
-
-## Firebase Feedback
-
-Firebase is used only as the feedback store for the personal learning loop. News collection and ML processing remain in GitHub Actions.
-
-### Authentication
-
-The mobile app uses **Firebase Anonymous Authentication**, so users can submit feedback without creating a login account. Firestore rules require authentication and validate feedback fields.
-
-### Firestore collection
-
-Feedback is stored in the `feedback` collection. A feedback document can contain:
-
-```json
-{
-  "article_id": "example-001",
-  "action": "like",
-  "title": "Example article title",
-  "summary": "Short article summary",
-  "category": "tech",
-  "source": "Example Source",
-  "timestamp": "server timestamp"
-}
-```
-
-`action` is restricted to `like` or `skip` by the Firestore security rules.
-
-### GitHub Actions integration
-
-The workflow authenticates to Google Cloud using the GitHub Actions secret:
-
-```text
-FIREBASE_SERVICE_ACCOUNT_JSON
-```
-
-The private service-account JSON is **not stored in the repository**. GitHub Actions obtains a temporary access token, runs `src/sync_feedback.py`, and loads the Firestore feedback into the temporary `data/feedback.json` file used by the ML pipeline.
-
-The feedback file is not committed back to the repository. This keeps personal feedback out of the public news feed repository.
-
-## Project Structure
+## Project structure
 
 ```text
 newsbrief-ai/
 ├── .github/
 │   └── workflows/
-│       └── news.yml
+│       └── news.yml           # Scheduled/manual pipeline workflow
 ├── config/
-│   └── sources.json
+│   └── sources.json           # RSS feed configuration
 ├── data/
-│   ├── news.json
-│   └── feedback.json
+│   ├── news.json              # Generated feed
+│   └── feedback.json          # Runtime feedback data; do not publish user feedback
 ├── src/
-│   ├── ai_engine.py
-│   ├── entity_extractor.py
-│   ├── fetch_news.py
-│   ├── learning.py
-│   ├── semantic_dedup.py
-│   └── sync_feedback.py
-├── .gitignore
+│   ├── fetch_news.py          # Pipeline orchestration and feed generation
+│   ├── article_extractor.py   # Publisher-page article extraction
+│   ├── summarizer.py          # LLM and extractive summary paths
+│   ├── ai_engine.py           # TF-IDF features, classification, novelty, importance
+│   ├── semantic_dedup.py      # Optional embedding-based duplicate detection
+│   ├── entity_extractor.py    # Lightweight Malayalam/English entity candidates
+│   ├── learning.py            # Feedback-based classifier and source signals
+│   └── sync_feedback.py       # Firestore feedback synchronization
 ├── requirements.txt
 └── README.md
 ```
 
-## Personal Learning Flow
+## Run locally
 
-```mermaid
-flowchart LR
-    A[User reads article] --> B[Like / Skip]
-    B --> C[Firebase Anonymous Auth]
-    C --> D[Firestore feedback]
-    D --> E[GitHub Actions sync]
-    E --> F[TF-IDF 1-2 gram features]
-    F --> G[Logistic Regression]
-    G --> H[Personal relevance score]
-    H --> I[Personalized ranking]
-    I --> A
-```
+### Prerequisites
 
-## Run Locally
+- Python 3.10 or newer
+- Network access to the configured RSS feeds
+- Optional credentials for integrations described below
+
+### 1. Clone and install
 
 ```bash
+git clone https://github.com/muhammedshibilm/newsbrief-ai.git
+cd newsbrief-ai
+
 python -m venv .venv
 source .venv/bin/activate
-pip install -r requirements.txt
+python -m pip install --upgrade pip
+python -m pip install -r requirements.txt
+```
+
+On Windows PowerShell, activate the environment with:
+
+```powershell
+.venv\Scripts\Activate.ps1
+```
+
+### 2. Run the pipeline
+
+```bash
 python src/fetch_news.py
 ```
 
-The generated feed is written to `data/news.json`.
+The pipeline is expected to write its feed to `data/news.json`. Inspect the logs if a feed or publisher page cannot be reached; availability and article-extraction quality depend on external sites.
 
-For optional embedding-based semantic deduplication:
+### Optional integrations
+
+**OpenAI summarization:** Set `OPENAI_API_KEY` to enable the API-backed summary path. `OPENAI_MODEL` can override the model configured by the code. Without a usable API-backed summary, the summarizer can fall back to extractive summarization or RSS-provided text.
+
+**Semantic deduplication:** Install `sentence-transformers` if you want to enable the optional embedding-based duplicate-detection path:
 
 ```bash
-pip install sentence-transformers
+python -m pip install sentence-transformers
 ```
 
-The Firestore feedback sync is intended for GitHub Actions. Local execution of `src/sync_feedback.py` requires Google Cloud credentials and the corresponding environment variables.
+**Firestore feedback sync:** `src/sync_feedback.py` needs Google Cloud credentials and the environment variables expected by that module. The automated workflow configures authentication for this step. Do not commit service-account credentials or user feedback.
 
 ## GitHub Actions
 
-The workflow checks out the repository, installs dependencies, authenticates to Google Cloud, obtains a temporary Firestore access token, syncs feedback, fetches RSS feeds, runs the AI and personal-learning pipeline, validates `data/news.json`, and commits only the generated news feed.
+The workflow is defined in [`.github/workflows/news.yml`](.github/workflows/news.yml).
 
-It supports manual execution and is scheduled every **30 minutes**.
+- **Trigger:** manual dispatch or an hourly schedule at minute 0 (`0 */1 * * *`).
+- **Runtime:** Ubuntu runner with Python 3.12.
+- **Feedback:** authenticates to Google Cloud and syncs Firestore feedback before collecting news.
+- **Validation:** parses `data/news.json` with Python's JSON tool.
+- **Publishing:** commits the generated feed only when the file has changed.
 
-The workflow uses the repository secret `FIREBASE_SERVICE_ACCOUNT_JSON`. The secret must never be committed to the repository.
+The workflow expects the repository secret `FIREBASE_SERVICE_ACCOUNT_JSON`. The OpenAI summarization key is supplied through the optional `OPENAI_API_KEY` secret. Configure the `OPENAI_MODEL` repository variable if you need to select a specific model. Never put API keys, service-account JSON, or other credentials in source control.
 
-## News Sources
+## How personalization works
 
-Sources are configured in `config/sources.json` and currently cover:
+The feedback loop uses `like` and `skip` actions synced from Firestore. The classifier in `src/learning.py` uses TF-IDF features and logistic regression, and only trains when it has enough labelled examples from both classes. Before that threshold is met, the pipeline can continue using its non-personalized ranking signals.
 
-- Kerala
-- India
-- World
-- Science
-- Artificial Intelligence
-- Software Development
-- Cybersecurity
-- Open Source
-- Android
+Source-reliability estimates use Bayesian smoothing so a small number of interactions does not cause an extreme shift. See [Architecture and data flow](docs/architecture.md) for further detail.
 
-## Data Model
+## Limitations
 
-Original source information is preserved while AI-derived information is stored separately.
-
-Example AI fields:
-
-```json
-{
-  "ai_category": "tech",
-  "ai_confidence": 0.82,
-  "ai_importance": 8,
-  "ai_novelty": 0.71,
-  "entities": ["Example Entity"],
-  "source_reliability": 1.02,
-  "personal_model_score": 0.64,
-  "personal_score": 9.28
-}
-```
+- Feed availability, publication timestamps, article extraction, and RSS summaries depend on external publishers and services.
+- The TF-IDF topic classifier is a lightweight heuristic/prototype, not a trained general-purpose language understanding model.
+- Personalization quality depends on the quantity and representativeness of feedback. It should be evaluated with a larger dataset before making strong claims about recommendation quality.
+- Embedding-based semantic deduplication is optional and may be skipped when its dependency/model is unavailable.
+- The mobile app and its user-facing feedback interface remain roadmap items.
 
 ## Roadmap
 
-### Phase 1 — Collection
-
-- [x] RSS collection
-- [x] Text normalization
-- [x] URL/title deduplication
-- [x] Automated GitHub Actions execution
-
-### Phase 2 — Mathematical AI
-
-- [x] TF-IDF vectorization
-- [x] 1–2 gram features
-- [x] Cosine similarity
-- [x] Topic classification
-- [x] Novelty detection
-- [x] Importance ranking
-
-### Phase 2.5 — Personal Intelligence
-
-- [x] Firebase Firestore feedback storage
-- [x] Firebase Anonymous Authentication
-- [x] GitHub Actions Firestore feedback sync
-- [x] Personal Logistic Regression classifier
-- [x] Adaptive source reliability
-- [x] Lightweight Malayalam/English entity extraction
+- [x] RSS ingestion and URL/title deduplication
+- [x] TF-IDF-based text signals and importance ranking
+- [x] Firestore feedback synchronization
+- [x] Feedback-based logistic-regression classifier
 - [x] Optional embedding-based semantic deduplication
-- [ ] Mobile feedback submission
-- [ ] Larger feedback evaluation dataset
-- [ ] Ranking calibration and offline evaluation
+- [ ] Automated unit tests and ranking evaluation
+- [ ] Better monitoring and clearer pipeline failure reporting
+- [ ] Larger feedback evaluation dataset and ranking calibration
+- [ ] Mobile app with article browsing and like/skip feedback
+- [ ] Offline/cache support and optional notifications
 
-### Phase 3 — Language Intelligence
+## Design goal
 
-Future versions may add a small local language model for Malayalam titles, summaries, detailed summaries, stronger multilingual understanding, and advanced entity linking.
+The goal is not to collect the largest possible number of stories. It is to surface a smaller, more useful selection while preserving source links so readers can verify the original reporting.
 
-The language model will remain separate from the mathematical ranking layer.
+## License
 
-### Phase 4 — Mobile Delivery
-
-- [ ] Mobile application
-- [ ] General/Malayalam news tab
-- [ ] Technology news tab
-- [ ] News images
-- [ ] Source links
-- [ ] Offline/cache support
-- [ ] User feedback controls
-- [ ] Optional notifications
-
-## Design Goal
-
-The goal is **not to collect more news**. It is to identify a small number of useful stories while preserving the original source for verification.
-
-The project combines explainable mathematical ranking with progressively learned personal preferences. Larger AI models are optional rather than fundamental to the architecture.
+See [LICENSE](LICENSE).
