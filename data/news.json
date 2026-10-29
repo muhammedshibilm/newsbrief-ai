@@ -1,6 +1,6 @@
 {
   "version": 7,
-  "updated_at": "2026-10-28T23:40:35.753247+00:00",
+  "updated_at": "2026-10-29T02:58:16.795139+00:00",
   "ai_engine": {
     "enabled": true,
     "type": "mathematical_ml",
@@ -99,33 +99,19 @@
       "summary_method": "tfidf_extractive_full_article"
     },
     {
-      "id": "9a3eac374a0a3806",
-      "title": "Sreekaryam flyover: CM flags project lapses, warns of cost escalation",
-      "summary": "Satheesan attributed the delay in the construction of the Sreekaryam flyover in Thiruvananthapuram to serious lapses in project execution and warned that the delay could lead to additional expenditure of crores of rupees from the State exchequer. Muraleedharan, while raising the issue, pointed out that the project had been envisaged as part of the metro corridor and that land acquisition had cost nearly ₹98 crore, while around ₹72 crore had been earmarked for construction. Vincent regarding the proposed railway overbridge at Balaramapuram, the Chief Minister informed the Assembly that the project was still awaiting the final Detailed Project Report (DRP), despite receiving administrative sanction in 2018. Vincent, the project has been pending for eight years and that the closure of the railway level crossing caused long queues of vehicles, inconveniencing the public and sometimes leaving ambulances stuck in traffic.",
-      "url": "https://www.thehindu.com/news/cities/Thiruvananthapuram/sreekaryam-flyover-cm-flags-project-lapses-warns-of-cost-escalation/article71635965.ece",
+      "id": "49f07c7133ad1fac",
+      "title": "KSU leader serves legal notice on private firm MD in Kannur",
+      "summary": "Mohammed Shammas has initiated legal action against Muhammad Asif, managing director (MD) of Carton India Alliance, over what he described as false and defamatory allegations that he had demanded ₹5 lakh to settle a dispute. The dispute comes amid a wider controversy surrounding Carton India Alliance and allegations of irregularities in contracts awarded during the tenure of former Kannur district panchayat president P.P. Shammas has demanded that Asif withdraw the allegations and issue a public apology on the same visual and social media platforms through which they were circulated. The legal notice warns that failure to comply with the demands within seven days of receiving it will prompt Mr.",
+      "url": "https://www.thehindu.com/news/national/kerala/ksu-leader-serves-legal-notice-on-private-firm-md-in-kannur/article71634595.ece",
       "source": "The Hindu Kerala",
       "category": "general",
-      "published_at": "2026-10-28T14:05:04+00:00",
+      "published_at": "2026-10-28T19:38:34+00:00",
       "importance": 8,
       "personal_score": 8.25,
       "entities": [
-        "Sreekaryam"
-      ],
-      "summary_method": "tfidf_extractive_full_article"
-    },
-    {
-      "id": "9a384cb5ba1ce56f",
-      "title": "Health workers to lead stroke awareness drive in Palakkad",
-      "summary": "PALAKKAD Nursing officers in the district received training on stroke symptoms and treatment ahead of World Stroke Day which falls on October 29. Sudden weakness or numbness on one side of the body, facial drooping, difficulty in speaking, loss of balance and sudden vision problems are common symptoms. The training covered the two main types of stroke: ischaemic stroke, caused by a blockage in a blood vessel supplying the brain, and haemorrhagic stroke, caused by bleeding when a blood vessel ruptures. Health institutions in the district will conduct awareness programmes based on the ‘BE FAST’ method to help people recognise stroke symptoms.",
-      "url": "https://www.thehindu.com/news/national/kerala/health-workers-to-lead-stroke-awareness-drive-in-palakkad/article71635826.ece",
-      "source": "The Hindu Kerala",
-      "category": "general",
-      "published_at": "2026-10-28T13:30:22+00:00",
-      "importance": 8,
-      "personal_score": 8.25,
-      "entities": [
-        "Health",
-        "Palakkad The"
+        "KSU",
+        "Kannur The",
+        "Kannur"
       ],
       "summary_method": "tfidf_extractive_full_article"
     },
@@ -148,68 +134,17 @@
       "summary_method": "tfidf_extractive_full_article"
     },
     {
-      "id": "4ba62a7f6ef4bbc5",
-      "title": "On the question of KIIFB’s future",
-      "summary": "Also Read: Keralam Assembly: Opposition walks out over alleged bid to scuttle KIIFB; CM says ongoing projects will continue https://www.thehindu.com/news/national/kerala/keralam-assembly-opposition-walks-out-over-alleged-bid-to-scuttle-kiifb-cm-says-ongoing-projects-will-continue/article71634997.ece Apparently critical of KIIFB’s functioning, the committee has recommended winding it up; absorbing its functions and capabilities into the State government, news reports say. A disputed investment model KIIFB, restructured by the LDF government, reportedly boosted the State’s infrastructure investment by raising extra-budgetary resources, including securing soft loans known as “Masala Bonds” from international agencies after the disastrous floods of 2019. Rationale for off-budget borrowing In the good/bad old days of “planning”, State finances broadly followed the “gap-filling” approach; meaning the Centre made up the difference between a State’s projected revenue growth and its “developmental needs” as per the State plans. However, if the State-level SPVs borrow from external sources for social purposes or green financing, which usually have lower interest rates for longer maturities, they need to be assessed differently, as they involve exchange rate risk.",
-      "url": "https://www.thehindu.com/news/national/kerala/on-the-question-of-kiifbs-future/article71633074.ece",
+      "id": "9a3eac374a0a3806",
+      "title": "Sreekaryam flyover: CM flags project lapses, warns of cost escalation",
+      "summary": "Satheesan attributed the delay in the construction of the Sreekaryam flyover in Thiruvananthapuram to serious lapses in project execution and warned that the delay could lead to additional expenditure of crores of rupees from the State exchequer. Muraleedharan, while raising the issue, pointed out that the project had been envisaged as part of the metro corridor and that land acquisition had cost nearly ₹98 crore, while around ₹72 crore had been earmarked for construction. Vincent regarding the proposed railway overbridge at Balaramapuram, the Chief Minister informed the Assembly that the project was still awaiting the final Detailed Project Report (DRP), despite receiving administrative sanction in 2018. Vincent, the project has been pending for eight years and that the closure of the railway level crossing caused long queues of vehicles, inconveniencing the public and sometimes leaving ambulances stuck in traffic.",
+      "url": "https://www.thehindu.com/news/cities/Thiruvananthapuram/sreekaryam-flyover-cm-flags-project-lapses-warns-of-cost-escalation/article71635965.ece",
       "source": "The Hindu Kerala",
       "category": "general",
-      "published_at": "2026-10-28T12:54:42+00:00",
-      "importance": 8,
-      "personal_score": 8.25,
-      "entities": [
-        "KIIFB",
-        "Keralam",
-        "UDF",
-        "State",
-        "States"
-      ],
-      "summary_method": "tfidf_extractive_full_article"
-    },
-    {
-      "id": "a6a36ea284cfe3b9",
-      "title": "ഇറാന്‍ ആക്രമിക്കാന്‍ യുഎസ് പ്ലാന്‍; ഗള്‍ഫ് രാജ്യങ്ങളെ അറിയിച്ചു, 4700 കോടി ചോര്‍ന്നിട്ടും പിന്നോട്ടില്ല",
-      "summary": "ഇനിയും ഇറാനെ ആക്രമിക്കാന്‍ ഒരുങ്ങുകയാണ് അമേരിക്ക.ഖത്തറില്‍ രണ്ടര ലക്ഷം ശമ്പളമുള്ള ജോലി ഉപേക്ഷിച്ചു; മൈസൂരില്‍ സെറ്റില്‍ ആയി, യുവാവ് പറയുന്നുഅമേരിക്കയില്‍ ഇടക്കാല തിരഞ്ഞെടുപ്പാണ്. ശക്തമായ തിരിച്ചടിക്കുമെന്ന് ഇറാന്‍ ആവര്‍ത്തിച്ചു.ആക്രമണം നടത്തിയാല്‍ ഇറാന്‍ തിരിച്ചടിക്കുന്ന സ്ഥലങ്ങള്‍ അമേരിക്കക്ക് അറിയാം. ഇതില്‍ ഇറാന്റെ ആക്രമണത്തില്‍ തകര്‍ന്ന യുഎസ് താവളങ്ങളുടെ അറ്റക്കുറ്റ പണിക്കുള്ള ചെലവും ഉള്‍പ്പെടുമോ എന്ന് വ്യക്തമല്ല.സൈനിക ചെലവ് അമേരിക്കക്ക് വര്‍ധിച്ചു എന്നത് മാത്രമല്ല ഇറാന്‍ യുദ്ധത്തിന്റെ ഫലം. എന്നാല്‍ ക്രൂഡ് ഓയില്‍, വാതക കയറ്റുമതിയില്‍ അമേരിക്കക്ക് മുന്നേറാന്‍ സാധിച്ചു എന്നത് യുദ്ധത്തിനിടെയുണ്ടായ ലാഭമാണ്.നിവിന്‍ പോളിക്ക് എതിരായ കേസ് ഹൈക്കോടതി റദ്ദാക്കി; 1.9 കോടി രൂപയുടെ വഞ്ചനാ കേസ് ഇനിയില്ലഇസ്രായേല്‍ ഇനിയും ആക്രമിച്ചാല്‍ ആഗോള വിപണിയില്‍ അതിന്റെ പ്രതിഫലനമുണ്ടാകുമെന്ന് ഇറാന്‍ വിദേശകാര്യ മന്ത്രി അബ്ബാസ് അരഗ്ചി മുന്നറിയിപ്പ് നല്‍കി.",
-      "url": "https://malayalam.oneindia.com/gulf/us-mulls-strike-again-iran-after-election-report-reveals-us-costs-of-iran-war-rise-to-47-billion-602535.html",
-      "source": "Oneindia Malayalam",
-      "category": "general",
-      "published_at": "2026-10-28T12:25:51+00:00",
+      "published_at": "2026-10-28T14:05:04+00:00",
       "importance": 7,
       "personal_score": 7.25,
       "entities": [
-        "ഇറാന്",
-        "ആക്രമിക്കാന്",
-        "യുഎസ്",
-        "പ്ലാന്",
-        "ഗള്",
-        "രാജ്യങ്ങളെ",
-        "അറിയിച്ചു",
-        "കോടി",
-        "ചോര്",
-        "ന്നിട്ടും",
-        "പിന്നോട്ടില്ല",
-        "യുദ്ധം"
-      ],
-      "summary_method": "tfidf_extractive_full_article"
-    },
-    {
-      "id": "5ea82b8814169272",
-      "title": "30-acre land at Kinfra’s Petrochemicals Park in Ambalamugal proposed for Keralam govt’s J.C. Daniel Film City project",
-      "summary": "Daniel International Film City in Kochi: Expansive studio floors, entertainment zone, exhibition centre among facilities on the anvil storyline 1 The proposal has been forwarded to the Keralam government, which plans to set up the film city under a public-private partnership (PPP) model. Daniel international film city proposed in revised Budget Government considering multiple locations in Ernakulam to establish its ambitious venture aimed at creating a one-stop destination for film shooting Kerala govt plans PPP model for J.C. Better connectivity Though multiple revenue land options were considered in the initial stage, the authorities zeroed in on the Kinfra’s land in Ambalamugal in view of its improved connectivity and access as the project is being planned as a one-stop destination for film shooting. Daniel film city project at Kinfra’s Petrochemicals Park in Ambalamugal https://www.thehindu.com/news/national/kerala/keralam-govt-approves-jc-daniel-film-city-project-at-kinfras-petrochemicals-park-in-ambalamugal/article71634590.ece The Department of Culture had sought the feedback of stakeholders in Malayalam cinema on shortlisting an ideal location for the film city project.",
-      "url": "https://www.thehindu.com/news/national/kerala/30-acre-land-at-kinfras-petrochemicals-park-in-ambalamugal-proposed-for-keralam-govts-jc-daniel-film-city-project/article71583120.ece",
-      "source": "The Hindu Kerala",
-      "category": "general",
-      "published_at": "2026-10-28T11:29:45+00:00",
-      "importance": 7,
-      "personal_score": 7.25,
-      "entities": [
-        "Kinfra",
-        "Petrochemicals Park",
-        "Ambalamugal",
-        "Keralam",
-        "J.C. Daniel Film City",
-        "Ernakulam",
-        "PPP"
+        "Sreekaryam"
       ],
       "summary_method": "tfidf_extractive_full_article"
     },
@@ -235,6 +170,32 @@
         "P. Jayarajan",
         "SNDP Yogam General Secretary",
         "Vellappally Natesan"
+      ],
+      "summary_method": "tfidf_extractive_full_article"
+    },
+    {
+      "id": "a6a36ea284cfe3b9",
+      "title": "ഇറാന്‍ ആക്രമിക്കാന്‍ യുഎസ് പ്ലാന്‍; ഗള്‍ഫ് രാജ്യങ്ങളെ അറിയിച്ചു, 4700 കോടി ചോര്‍ന്നിട്ടും പിന്നോട്ടില്ല",
+      "summary": "ഇനിയും ഇറാനെ ആക്രമിക്കാന്‍ ഒരുങ്ങുകയാണ് അമേരിക്ക.ഖത്തറില്‍ രണ്ടര ലക്ഷം ശമ്പളമുള്ള ജോലി ഉപേക്ഷിച്ചു; മൈസൂരില്‍ സെറ്റില്‍ ആയി, യുവാവ് പറയുന്നുഅമേരിക്കയില്‍ ഇടക്കാല തിരഞ്ഞെടുപ്പാണ്. ശക്തമായ തിരിച്ചടിക്കുമെന്ന് ഇറാന്‍ ആവര്‍ത്തിച്ചു.ആക്രമണം നടത്തിയാല്‍ ഇറാന്‍ തിരിച്ചടിക്കുന്ന സ്ഥലങ്ങള്‍ അമേരിക്കക്ക് അറിയാം. ഇതില്‍ ഇറാന്റെ ആക്രമണത്തില്‍ തകര്‍ന്ന യുഎസ് താവളങ്ങളുടെ അറ്റക്കുറ്റ പണിക്കുള്ള ചെലവും ഉള്‍പ്പെടുമോ എന്ന് വ്യക്തമല്ല.സൈനിക ചെലവ് അമേരിക്കക്ക് വര്‍ധിച്ചു എന്നത് മാത്രമല്ല ഇറാന്‍ യുദ്ധത്തിന്റെ ഫലം. എന്നാല്‍ ക്രൂഡ് ഓയില്‍, വാതക കയറ്റുമതിയില്‍ അമേരിക്കക്ക് മുന്നേറാന്‍ സാധിച്ചു എന്നത് യുദ്ധത്തിനിടെയുണ്ടായ ലാഭമാണ്.നിവിന്‍ പോളിക്ക് എതിരായ കേസ് ഹൈക്കോടതി റദ്ദാക്കി; 1.9 കോടി രൂപയുടെ വഞ്ചനാ കേസ് ഇനിയില്ലഇസ്രായേല്‍ ഇനിയും ആക്രമിച്ചാല്‍ ആഗോള വിപണിയില്‍ അതിന്റെ പ്രതിഫലനമുണ്ടാകുമെന്ന് ഇറാന്‍ വിദേശകാര്യ മന്ത്രി അബ്ബാസ് അരഗ്ചി മുന്നറിയിപ്പ് നല്‍കി.",
+      "url": "https://malayalam.oneindia.com/gulf/us-mulls-strike-again-iran-after-election-report-reveals-us-costs-of-iran-war-rise-to-47-billion-602535.html",
+      "source": "Oneindia Malayalam",
+      "category": "general",
+      "published_at": "2026-10-28T12:25:51+00:00",
+      "importance": 6,
+      "personal_score": 6.25,
+      "entities": [
+        "ഇറാന്",
+        "ആക്രമിക്കാന്",
+        "യുഎസ്",
+        "പ്ലാന്",
+        "ഗള്",
+        "രാജ്യങ്ങളെ",
+        "അറിയിച്ചു",
+        "കോടി",
+        "ചോര്",
+        "ന്നിട്ടും",
+        "പിന്നോട്ടില്ല",
+        "യുദ്ധം"
       ],
       "summary_method": "tfidf_extractive_full_article"
     },
@@ -269,7 +230,7 @@
       "title": "കോണ്‍ഗ്രസ് അടപടലം വീണു; കര്‍ണാടകയില്‍ എല്ലാ സീറ്റിലും ബിജെപി സഖ്യം, ശക്തി കൂട്ടാന്‍ മറ്റൊരു വഴി",
       "summary": "അധ്യാപകര്‍ക്കും ബിരുദധാരികള്‍ക്കും സംവരണം ചെയ്ത മണ്ഡലങ്ങളിലായിരുന്നു തിരഞ്ഞെടുപ്പ്.കോട്ടയം വെട്ടിത്തിളങ്ങും; വിഴിഞ്ഞം തുറമുഖത്തേക്ക് വിശാല ജലപാത, ചെലവില്ലാതെ ലാഭംകൊയ്യാംമുന്‍ഗണനാ വോട്ടെടുപ്പ് രീതി ആയതിനാല്‍ ബാലറ്റ് പേപ്പര്‍ ഉപയോഗിച്ചായിരുന്നു പോളിങ്. കോണ്‍ഗ്രസ് ദേശീയ അധ്യക്ഷന്‍ മല്ലികാര്‍ജുന്‍ ഖാര്‍ഗെയുടെ നാടായ കലബുറഗി ഉള്‍പ്പെടുന്ന മണ്ഡലത്തിലാണ് നമോഷി തുടര്‍ച്ചയായ അഞ്ചാംതവണ ജയിക്കുന്നത്.പാര്‍ലമെന്റിലെ ലോക്‌സഭാ-രാജ്യസഭാ എന്ന പോലെ കര്‍ണാടകയില്‍ നിയമനിര്‍മാണ സഭയും നിയമനിര്‍മാണ കൗണ്‍സിലുമുണ്ട്. കൂടാതെ സര്‍ക്കാര്‍ നാമ നിര്‍ദേശം ചെയ്യുന്ന അംഗങ്ങളും കൗണ്‍സിലിലുണ്ടാകും.സ്വര്‍ണം ഇന്നും വില വര്‍ധിച്ചു; വിപണിയില്‍ ട്വിസ്റ്റ്, ആശ്വാസ ഘടകങ്ങള്‍ ബാക്കി, ഇന്നത്തെ പവന്‍ വിലനിലവില്‍ രണ്ട് അധ്യാപക മണ്ഡലത്തിലേക്കും രണ്ട് ബിരുദധാരികകളുടെ മണ്ഡലങ്ങളിലേക്കുമായിരുന്നു വോട്ടെടുപ്പ്. വരാനിരിക്കുന്ന ബെംഗളൂരു കോര്‍പറേഷന്‍ തിരഞ്ഞെടുപ്പിലും നിയമസഭാ തിരഞ്ഞെടുപ്പിലും എന്താണ് ജനവികാരം എന്ന് ഇതില്‍ നിന്ന് മനസിലാക്കാമെന്ന് ബിജെപി ആത്മവിശ്വാസം പ്രകടിപ്പിക്കുന്നു.നിയമസഭാ കൗണ്‍സിലെ അംഗബലം ഇങ്ങനെ75 അംഗ കൗണ്‍സിലില്‍ 38 കോണ്‍ഗ്രസ് അംഗങ്ങളുണ്ട്.",
       "url": "https://malayalam.oneindia.com/news/india/karnataka-mlc-election-result-congress-collapse-bjp-alliance-sweeps-all-seats-details-check-602501.html",
-      "source": "Oneindia Malayalam",
+      "source": "Oneindia Malayalam News",
       "category": "general",
       "published_at": "2026-10-28T06:16:51+00:00",
       "importance": 6,
@@ -369,6 +330,32 @@
       "summary_method": "tfidf_extractive_full_article"
     },
     {
+      "id": "a1a88c07e364e5e5",
+      "title": "Kerala Rain Alert Today: ഇന്ന് കനത്ത പെയ്‌ത്തോ ? ; കേന്ദ്ര കാലാവസ്ഥ വകുപ്പ് പറയുന്നത് ഇങ്ങനെ - Times Now Malayalam",
+      "summary": "Kerala Rain Alert Today: ഇന്ന് കനത്ത പെയ്‌ത്തോ ? ; കേന്ദ്ര കാലാവസ്ഥ വകുപ്പ് പറയുന്നത് ഇങ്ങനെ Times Now Malayalam",
+      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOZUVTbW5qSWVnb0NkVXM1YmRtREpySVBMTEU2UlB0Z29PTmhkN283SHF2Y290N2FuZEVqSjRVLXNSbl9pY2poRkkwOFAyNTBjRUxoWERiUmtSZERWeHpBMXFvMjl3SmlnVVFJMlZ5MUI0T0lGLWtsX0UwM3h2bHJoMEczYVZjMy1HX1RzNFQzU1JFM0pkejQwOEtUa3RzZHRoTUtsVmdEVER6cHhCTnZMRjlPbVRtcnl2RE85Ni1rSnkzWTN2VVh3d25VQVhCNklNS3RCZXRBSXZoU3E3MVhWRU93SzN0VkVuWl9lTkxzaHBXQlNOOGVQZ2pucGVlNWNncVhUMy05WlNrR1dZLTN3X3F2a3RVVTdRazdIR9IBogJBVV95cUxPWW9XbXJZQWVMTk5fVWpISkNOS01PZjdxeDF1ZFlNUmYxRzI4VG92Si1jcmNCcWdudUs1RGZWVnk2WmpySDNkYl9UNUdscUtEdl9KMlJvVWdUT25WVHBvbFJtaklZX1hicElFbS1yY05RWG5IMTFhb2NqS1psTXgwTW1mU3Rjd2duZUlCa2o2dnpfUmhiRVZ2dWttSU1nSzltX2Y1V2trOUk5SUhQTjdqYUpSZ0RtYXc0WFIyWUNQRjdROVZBWHNXRE9HdXJSbVlDZHJvQUhCaUllbmE2X3ZOUTY3MmFhNDIwQ0N6RWVEc2tUdlZJck00R0J1UnQ2VDBFcjcwRWQ2em5YMktEZVhMQkJYX1llUldyUlZaV3VqNW9aUQ?oc=5",
+      "source": "Times Now Malayalam",
+      "category": "general",
+      "published_at": "2026-10-28T19:30:00+00:00",
+      "importance": 5,
+      "personal_score": 5.25,
+      "entities": [
+        "ഇന്ന്",
+        "കനത്ത",
+        "പെയ്",
+        "ത്തോ",
+        "കേന്ദ്ര",
+        "കാലാവസ്ഥ",
+        "വകുപ്പ്",
+        "പറയുന്നത്",
+        "ഇങ്ങനെ",
+        "Kerala Rain Alert Today",
+        "Times Now Malayalam Kerala",
+        "Rain Alert Today"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
       "id": "43323df6416fd814",
       "title": "അറബ് വോട്ടർമാർ കൂട്ടത്തോടെ പോളിംഗ് ബൂത്തിലേക്ക്, ഇസ്രായേലിൽ റെക്കോർഡ് പോളിംഗ്, വിറച്ച് നെതന്യാഹു",
       "summary": "തിരഞ്ഞെടുപ്പ് അട്ടിമറിക്കാനുളള ശ്രമം നടക്കുന്നതായും ലികുഡ് പാര്‍ട്ടി ആരോപിച്ചു.എന്നാല്‍ വോട്ടെടുപ്പ് ക്രമക്കേടിന് ഒരു തെളിവും ഇല്ലെന്നാണ് തിരഞ്ഞെടുപ്പ് കമ്മീഷന്‍ വ്യക്തമാക്കുന്നത്. അറബ് വോട്ടര്‍മാരടക്കമുളളവര്‍ വലിയ തോതില്‍ വോട്ട് ചെയ്യാന്‍ എത്തുന്ന പശ്ചാത്തലത്തില്‍ ലികുഡ് പാര്‍ട്ടി അനുഭാവികളെല്ലാം വോട്ട് ചെയ്യാനെത്തണമെന്ന് നെതന്യാഹു ആഹ്വാനം ചെയ്തു.അവര്‍ നമ്മളില്‍ നിന്ന് തിരഞ്ഞെടുപ്പ് തട്ടിയെടുക്കാന്‍ ശ്രമിക്കുകയാണ്, വീഡിയോ സന്ദേശത്തില്‍ നെതന്യാഹു പറഞ്ഞു. 2023 ഒക്ടോബറിലെ ഹമാസ് ആക്രമണത്തിന് ശേഷവും ഗാസ യുദ്ധത്തിന് ശേഷവും നടക്കുന്ന തിരഞ്ഞെടുപ്പ് എന്ന നിലയ്ക്ക് നെഹന്യാഹു സര്‍ക്കാരിന്റെ വിധിയെഴുത്തായാണ് ഈ തിരഞ്ഞെടുപ്പ് വിലയിരുത്തപ്പെടുന്നത്.നെതന്യാഹു സര്‍ക്കാര്‍ വീഴും എന്നാണ് മിക്ക അഭിപ്രായ സര്‍വ്വേകളും ഇതിനകം പ്രവചിച്ചിട്ടുളളത്. അമേരിക്കന്‍ പ്രസിഡണ്ട് ഡൊണാള്‍ഡ് ട്രംപിന്റെ വലിയ പിന്തുണ നെതന്യാഹുവിന് ഉണ്ടെങ്കിലും വ്യക്തിപരമായും രാഷ്ട്രീയപരമായും ഈ തിരഞ്ഞെടുപ്പ് അദ്ദേഹത്തിന് വലിയ വെല്ലുവിളിയാണ്.അതിതീവ്ര ചുഴലിക്കാറ്റായി അർണാബ് കരയിലേക്ക്, കനത്ത കാറ്റും മഴയും, 65 ട്രെയിനുകളും 21 വിമാനങ്ങളും റദ്ദാക്കി മൂന്ന് അഴിമതിക്കേസുകളില്‍ ബെഞ്ചമിന്‍ നെതന്യാഹു ആരോപണ വിധേയനാണ്.",
@@ -395,46 +382,28 @@
       "summary_method": "tfidf_extractive_full_article"
     },
     {
-      "id": "94681d6c5ea2742e",
-      "title": "മാർത്താണ്ഡവർമ പാലം അറ്റകുറ്റപ്പണി - Mathrubhumi",
-      "summary": "മാർത്താണ്ഡവർമ പാലം അറ്റകുറ്റപ്പണി Mathrubhumi",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVTljM1p6UXhvVkxFUU1sXzl0WlBPNTM2Nmc2OExLcHd1dkdLaUUyTWF3MVdYNE9DMWtkZzFLNEhvQUhVRzl1MkRGc1doN3FLMS03WTNON0tONTA5cXJhYzBQMVlHRjBMWm9SbWhCSHJ2T1MtS1JrVTN0NXFqaF9aYk1EVzlFLUNZTWNaYTl5bGhqU3ZiYjZxSU42ZF8xQzIwMTZPWTd30gGrAUFVX3lxTE00UktmdHpVMF9CU003aG0tMEpvUGZKNEtwV21aeVZNMmJob1RnUUpoeGhlZFBQX3hpOHoyT1BmdXBNT1g4MFoyQ1JyMExCb2s1TTZmNFh3OUplRmdOOXFGeDIyR25zRk52YkowQkdOX3Brbl9KQzJ3YjhfczJ6cUl2bWJOdllsN1JCMHphTXhWVVFZYzBXdnJ2V3pEOE9DRzdZU0M4bUFrTF8wdw?oc=5",
-      "source": "Mathrubhumi",
-      "category": "general",
-      "published_at": "2026-10-28T22:52:34+00:00",
-      "importance": 4,
-      "personal_score": 4.25,
-      "entities": [
-        "മാർത്താണ്ഡവർമ",
-        "പാലം",
-        "അറ്റകുറ്റപ്പണി",
-        "Mathrubhumi"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
-      "id": "06f7666a6a5ef695",
-      "title": "മാസം 3 ലക്ഷം വരുമാനം; 30% ലാഭം, പിതാവ് വാക്കുകേട്ട് വേറിട്ട ബിസിനസ്, റിനി ഇബ്രാഹിമിന് ഇത് സ്വപ്ന സാക്ഷാത്കാരം - Manorama Online",
-      "summary": "മാസം 3 ലക്ഷം വരുമാനം; 30% ലാഭം, പിതാവ് വാക്കുകേട്ട് വേറിട്ട ബിസിനസ്, റിനി ഇബ്രാഹിമിന് ഇത് സ്വപ്ന സാക്ഷാത്കാരം Manorama Online",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQRDR1ZEZ3WWM1UlhFVm1pTUxkdmk1Y1A5TWFibjc3VGE4SV9FenlQUHlia2JZRWdYbFhhRnZ5bGZYZDd5NkRWdElNUFJINEZPV252MTlDemVUX1k1eG5aalVaVkM3Nks3NmpJSWVnYWxWRVFoaTB6VHhMODY3VE9hdnFNVWFzRHF4RGthcGhxenRlMG5ZNHE4T19WSEFueWYyRk1hdTc5XzZhZ1o3NzdwQk5fVm91bGtmYXJzcHFibEI5RU5OWE5UYTRNRVQ2N0NqWWswSFBtWHZtUlRyOHVicGlOVy1FZXJ1UUE?oc=5",
+      "id": "28cdac0f3dea1e7e",
+      "title": "'തുറിച്ചുനോട്ടവും തലയാട്ടലും കണ്ട് പേടിക്കണ്ട'; ഒറ്റയ്ക്ക് ഇന്ത്യ ചുറ്റിക്കണ്ട ജർമ്മൻ വ്ലോഗറുടെ രസകരമായ യാത്രാനുഭവങ്ങൾ! - Manorama Online",
+      "summary": "'തുറിച്ചുനോട്ടവും തലയാട്ടലും കണ്ട് പേടിക്കണ്ട'; ഒറ്റയ്ക്ക് ഇന്ത്യ ചുറ്റിക്കണ്ട ജർമ്മൻ വ്ലോഗറുടെ രസകരമായ യാത്രാനുഭവങ്ങൾ! Manorama Online",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUkUzUF9JdC1nbmxoUzhSdlhDa2hlTk1jc1NiNjk3Z2U4eURFOHRUNTZpMmJoVWdyU0hEWEFXeFJxcm9lbTJOU0s3MVpUT2dGS1ZjdVd5QTJESmROeFZYU0ExaTBINXBwYk51VEJvUGw4bkJRUXNwT2RVaDlTWmdVRGVwNUtTcUloRXh5ZDRuQk1XOFRfajVpNk0xMEZMams?oc=5",
       "source": "Manorama Online",
       "category": "general",
-      "published_at": "2026-10-28T23:25:00+00:00",
+      "published_at": "2026-10-29T01:38:01+00:00",
       "importance": 4,
       "personal_score": 4.25,
       "entities": [
-        "മാസം",
-        "ലക്ഷം",
-        "വരുമാനം",
-        "ലാഭം",
-        "പിതാവ്",
-        "വാക്കുകേട്ട്",
-        "വേറിട്ട",
-        "ബിസിനസ്",
-        "റിനി",
-        "ഇബ്രാഹിമിന്",
-        "ഇത്",
-        "സ്വപ്ന"
+        "തുറിച്ചുനോട്ടവും",
+        "തലയാട്ടലും",
+        "കണ്ട്",
+        "പേടിക്കണ്ട",
+        "ഒറ്റയ്ക്ക്",
+        "ഇന്ത്യ",
+        "ചുറ്റിക്കണ്ട",
+        "ജർമ്മൻ",
+        "വ്ലോഗറുടെ",
+        "രസകരമായ",
+        "യാത്രാനുഭവങ്ങൾ",
+        "Manorama Online"
       ],
       "summary_method": "rss_fallback"
     },
@@ -465,61 +434,41 @@
       "summary_method": "tfidf_extractive_full_article"
     },
     {
-      "id": "d4f3a61cb87e8241",
-      "title": "Water Resources dept. to work with PWD, LSGD to speed up road restoration works, says Keralam Minister",
-      "summary": "THIRUVANANTHAPURAM The Water Resources department is working in coordination with the Public Works and Local Self-Government departments to reduce public inconvenience caused by road excavations for drinking water projects and subsequent delays in road restoration, Water Resources Minister Mons Joseph informed the Assembly on Wednesday. The department has already permitted the Public Works and Local Self-Government departments to carry out restoration works, and the amount spent would be reimbursed by the Water Resources department. Further, remedial measures are being implemented through coordination meetings, chaired by the District Collector and supervised by elected representatives, with the participation of senior officials from the departments concerned as well as through platforms like the District Infrastructure Coordination Committee and the District Development Committee. If there was any delay due to lapses on the part of the contractors, action, including the imposition of penalties, will be taken in accordance with the terms of the contract, the Minister said.",
-      "url": "https://www.thehindu.com/news/national/kerala/water-resources-dept-to-work-with-pwd-lsgd-to-speed-up-road-restoration-works-says-keralam-minister/article71636390.ece",
+      "id": "7f2959e460bb581e",
+      "title": "Kochi residents flag worsening air quality, especially at night",
+      "summary": "Citing data available on the AQI tracker in Google Maps, they have reported poor air quality in areas such as Edayar, Eroor, Kaloor, Kathrikadavu, Mamangalam, Thripunithura, Vennala and Vyttila. He said air pollution could lead to health complications, including asthma and other respiratory diseases, and have an adverse impact, particularly on the elderly and children. He urged the authorities to check the Air Quality Index (AQI) and examine the operational efficiency of the systems used to assess pollution levels. The Kerala State Pollution Control Board has been unable to gather real-time AQI data as its Continuous Ambient Air Quality Monitoring Stations (CAAQMS) at Vyttila and Kaloor remain non-functional.",
+      "url": "https://www.thehindu.com/news/national/kerala/kochi-residents-flag-worsening-air-quality-especially-at-night/article71637668.ece",
       "source": "The Hindu Kerala",
       "category": "general",
-      "published_at": "2026-10-28T14:06:33+00:00",
+      "published_at": "2026-10-28T19:45:19+00:00",
       "importance": 4,
       "personal_score": 4.25,
       "entities": [
-        "Water Resources",
-        "PWD",
-        "LSGD",
-        "Keralam Minister"
+        "Kochi",
+        "MLA",
+        "Chief Minister",
+        "Pollution",
+        "AQI",
+        "Vyttila",
+        "Kaloor"
       ],
       "summary_method": "tfidf_extractive_full_article"
     },
     {
-      "id": "0cd05273d53e54b8",
-      "title": "Kerala News Today Highlights: സംസ്ഥാനത്ത് നവംബറിൽ വീണ്ടും ലോഡ്ഷെഡിങ് ഭീഷണി; പുറത്തുനിന്ന് വൈദ്യുതി വാങ്ങുന്നതിൽ അന്തിമ തീരുമാനമായില്ല - Indian Express Malayalam",
-      "summary": "Kerala News Today Highlights: സംസ്ഥാനത്ത് നവംബറിൽ വീണ്ടും ലോഡ്ഷെഡിങ് ഭീഷണി; പുറത്തുനിന്ന് വൈദ്യുതി വാങ്ങുന്നതിൽ അന്തിമ തീരുമാനമായില്ല Indian Express Malayalam",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNaEtJM1RSb0J1ek1Wa2x6WG5MeXpNWDkxSGU0cC05VGNHbnFSd29IbGdITVAzYnNwMnNua240bmpwZkdLTFlhN00yRGRhTW94SEZLcXlQU2dyMTQ2RDNYd0JZd1E0bC1HU1hlQWpDc2V1eTBOcWhyX1IxajNBN1J0WE5SVTNZamFSN2RyaTJDWHU2eUx1WjRVdndZZGk3Q29XS2o1ZWdiSmtrdlFfUi0xa0ZMMTl2OWxXcldxUUJRVkVlTWNmVXpXNkNyUExOcEpOT0J3cEF4Q1JWN3lWTEN2WC10Rkt6cVBESG5WMtIB7AFBVV95cUxNaEtJM1RSb0J1ek1Wa2x6WG5MeXpNWDkxSGU0cC05VGNHbnFSd29IbGdITVAzYnNwMnNua240bmpwZkdLTFlhN00yRGRhTW94SEZLcXlQU2dyMTQ2RDNYd0JZd1E0bC1HU1hlQWpDc2V1eTBOcWhyX1IxajNBN1J0WE5SVTNZamFSN2RyaTJDWHU2eUx1WjRVdndZZGk3Q29XS2o1ZWdiSmtrdlFfUi0xa0ZMMTl2OWxXcldxUUJRVkVlTWNmVXpXNkNyUExOcEpOT0J3cEF4Q1JWN3lWTEN2WC10Rkt6cVBESG5WMg?oc=5",
-      "source": "Indian Express Malayalam",
-      "category": "general",
-      "published_at": "2026-10-28T14:05:45+00:00",
-      "importance": 4,
-      "personal_score": 4.25,
-      "entities": [
-        "സംസ്ഥാനത്ത്",
-        "നവംബറിൽ",
-        "വീണ്ടും",
-        "ലോഡ്ഷെഡിങ്",
-        "ഭീഷണി",
-        "പുറത്തുനിന്ന്",
-        "വൈദ്യുതി",
-        "വാങ്ങുന്നതിൽ",
-        "അന്തിമ",
-        "തീരുമാനമായില്ല",
-        "Kerala News Today Highlights",
-        "Indian Express Malayalam Kerala"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
-      "id": "bf7f983d73e33f37",
-      "title": "CM to release book co-authored by late B. Madhusoodana Kurup",
-      "summary": "Madhusoodana Kurup, founder Vice-Chancellor of the Kerala University of Fisheries and Ocean Studies and former Director of the School of Industrial Fisheries, Cusat, at a function in Kochi on Friday (October 29, 2026). The book, Exploring the Legacy of Fishing and Farming Below Sea Level: Vembanad-Kole Wetlands of Southern India, has been co-authored by Dr. The School of Industrial Fisheries, Cusat, will organise the function in memory of Dr. Abdul Gafoor will preside over the event, which will be held at BTH Hotel at 3.15 p.m.",
-      "url": "https://www.thehindu.com/news/national/kerala/cm-to-release-book-co-authored-by-late-b-madhusoodana-kurup/article71637430.ece",
+      "id": "91170a8f35d3905e",
+      "title": "Kurinji app to ease trip to Meeshapulimala in Keralam’s Munnar",
+      "summary": "IDUKKI As Meeshapulimala in Munnar, which is witnessing the blooming of Neelakurinji flowers, opened to tourists on October 26, forest officials have launched a dedicated mobile application called “Kurinji” to manage the influx of visitors. This is the first time in India that Geographic Information System (GIS) technology and real-time monitoring are being leveraged in the ecotourism sector to enhance visitor experience and safety, said officials. A parking management feature allows officials to organise vehicle movement efficiently, while an emergency support feature lets visitors call for immediate help during accidents or emergencies,” said Allen Shaji, co-founder and chief operating officer of Leopard Tech Labs, the firm that developed the app. Primary goal “The primary goal of this initiative is to leverage modern technology to make visitor experiences more convenient and secure while simultaneously enhancing tourism management to ensure the protection of forests and wildlife,” said Sujith P.K., KFDC district manager.",
+      "url": "https://www.thehindu.com/news/national/kerala/kurinji-app-to-ease-trip-to-meeshapulimala-in-keralams-munnar/article71636211.ece",
       "source": "The Hindu Kerala",
       "category": "general",
-      "published_at": "2026-10-28T19:52:00+00:00",
+      "published_at": "2026-10-28T15:15:02+00:00",
       "importance": 4,
       "personal_score": 4.25,
       "entities": [
-        "B. Madhusoodana Kurup"
+        "Kurinji",
+        "Meeshapulimala",
+        "Keralam",
+        "Munnar To"
       ],
       "summary_method": "tfidf_extractive_full_article"
     },
@@ -542,21 +491,42 @@
       "summary_method": "tfidf_extractive_full_article"
     },
     {
-      "id": "b55d3f33c4db6752",
-      "title": "Kerala HC directs panel to resume negotiations with MSC Elsa 3 owners to assess compensation, other costs",
-      "summary": "KOCHI The Kerala High Court has directed a committee led by the Additional Chief Secretary, Finance department, to resume negotiations with Mediterranean Shipping Company to assess the compensation for the environmental damage caused by the sinking of Liberian-flagged MSC Elsa 3, a container ship that sank off the Alappuzha coast in May 2025. The Keralam government had formed a committee to assess the extent of the environmental damage and negotiate the compensation for the remedial works and other economic loss to the State, its ecology, and to the fishing community. Jayakumar was considering a batch of public interest litigations seeking the removal of the hazardous wreckage of the sunken vessel and the compensation to fishers affected by the sinking of the ship. The court stated that the committee was intended to facilitate a coordinated response to the environmental damage and to enable the State to pursue the necessary assessment and restoration measures without undue delay.",
-      "url": "https://www.thehindu.com/news/national/kerala/kerala-high-court-directs-state-committee-to-resume-negotiations-with-msc-elsa-3-owners-to-release-funds-deposited-for-risk-assessment-and-other-costs/article71632332.ece",
+      "id": "d43a0f7a3ace5135",
+      "title": "Keralam Assembly passes Kerala Motor Vehicles Taxation (Amendment) Bill",
+      "summary": "Thiruvananthapuram The Assembly on Wednesday passed the Kerala Motor Vehicles Taxation (Amendment) Bill, 2026 that provides for setting up approved vehicle seizure yards in all taluks in Keralam to store vehicles seized for non-payment of tax within the State. The Left Democratic Front (LDF), who opposed the Bill, alleged that the financial memorandum claimed the Bill would not involve any additional expenditure from the consolidated fund of the State even though takeover of land or day-to-day functioning of the yard would entail expenses. Moreover, the Bill was silent on whether the newly introduced renewal fee and storage fee would be considered as government income and added to the consolidated fund or the private yard operators would get it. The maximum fee that could be charged or the guidelines for it had not been included in the Bill and would result in excessive power to the executive.",
+      "url": "https://www.thehindu.com/news/national/kerala/keralam-assembly-passes-kerala-motor-vehicles-taxation-amendment-bill/article71636610.ece",
       "source": "The Hindu Kerala",
       "category": "general",
-      "published_at": "2026-10-28T15:14:36+00:00",
+      "published_at": "2026-10-28T15:17:45+00:00",
       "importance": 4,
       "personal_score": 4.25,
       "entities": [
-        "Kerala HC",
-        "MSC Elsa",
-        "The Liberian-flagged",
+        "Keralam Assembly",
+        "Kerala Motor Vehicles Taxation",
+        "Amendment",
+        "Bill The Bill",
         "Keralam",
-        "Tamil Nadu"
+        "State"
+      ],
+      "summary_method": "tfidf_extractive_full_article"
+    },
+    {
+      "id": "1a551650d2ae00d9",
+      "title": "Crime Branch records first arrest in PSC exam scam case; Kerala PSC chairperson questioned by SIT",
+      "summary": "Satheesh, who was recently named an accused in the case pertaining to a Kerala State Planning Board examination, was apprehended from his home in Kozhikode to record the first arrest in the case. The accused, who had retired from service last year, was reportedly in charge of the PSC’s examination wing and responsible for the evaluation process of the controversial examination. The controversy relates to an examination conducted by the Kerala PSC on July 13, 2023, for three senior positions in the State Planning Board: Chief of Industry and Infrastructure, Chief of Perspective Planning, and Chief of Planning Coordination. The issue came to light when some candidates sought copies of their answer scripts under the Right to Information (RTI) Act and discovered that several descriptive answers had not been evaluated during the digital on-screen marking process.",
+      "url": "https://www.thehindu.com/news/national/kerala/crime-branch-records-first-arrest-in-psc-exam-scam-case-kerala-psc-chairperson-questioned-by-sit/article71637168.ece",
+      "source": "The Hindu Kerala",
+      "category": "general",
+      "published_at": "2026-10-28T16:07:36+00:00",
+      "importance": 4,
+      "personal_score": 4.25,
+      "entities": [
+        "Crime Branch",
+        "PSC",
+        "Kerala PSC",
+        "SIT P. Satheesh",
+        "Kerala State Planning Board",
+        "Kozhikode"
       ],
       "summary_method": "tfidf_extractive_full_article"
     },
@@ -576,6 +546,25 @@
         "KIIFB",
         "Kannur",
         "Sudha Pillai"
+      ],
+      "summary_method": "tfidf_extractive_full_article"
+    },
+    {
+      "id": "b55d3f33c4db6752",
+      "title": "Kerala HC directs panel to resume negotiations with MSC Elsa 3 owners to assess compensation, other costs",
+      "summary": "KOCHI The Kerala High Court has directed a committee led by the Additional Chief Secretary, Finance department, to resume negotiations with Mediterranean Shipping Company to assess the compensation for the environmental damage caused by the sinking of Liberian-flagged MSC Elsa 3, a container ship that sank off the Alappuzha coast in May 2025. The Keralam government had formed a committee to assess the extent of the environmental damage and negotiate the compensation for the remedial works and other economic loss to the State, its ecology, and to the fishing community. Jayakumar was considering a batch of public interest litigations seeking the removal of the hazardous wreckage of the sunken vessel and the compensation to fishers affected by the sinking of the ship. The court stated that the committee was intended to facilitate a coordinated response to the environmental damage and to enable the State to pursue the necessary assessment and restoration measures without undue delay.",
+      "url": "https://www.thehindu.com/news/national/kerala/kerala-high-court-directs-state-committee-to-resume-negotiations-with-msc-elsa-3-owners-to-release-funds-deposited-for-risk-assessment-and-other-costs/article71632332.ece",
+      "source": "The Hindu Kerala",
+      "category": "general",
+      "published_at": "2026-10-28T15:14:36+00:00",
+      "importance": 4,
+      "personal_score": 4.25,
+      "entities": [
+        "Kerala HC",
+        "MSC Elsa",
+        "The Liberian-flagged",
+        "Keralam",
+        "Tamil Nadu"
       ],
       "summary_method": "tfidf_extractive_full_article"
     },
@@ -632,88 +621,52 @@
       "summary_method": "tfidf_extractive_full_article"
     },
     {
-      "id": "658978d5cdc1edaa",
-      "title": "Maritime Board (Amendment) Bill passed in Assembly amid Opposition walkout",
-      "summary": "The Bill, which provides for reconstitution of the board to establish a centralised decision-making mechanism and enhance operational efficiency, had been reported to a subject committee. Opposing the Bill, Leader of the Opposition Pinarayi Vijayan said it dealt a blow to the right to life and to livelihood of coastal people guaranteed by the Constitution. The provision to constitute a State Maritime Land Bank, comprising the land under the control of the State government, for development of township and other projects would lead to their eviction from land where they parked boats, dried nets, and repaired vessels. Satheesan had said the Bill would empower the Kerala Maritime Board in tune with the times as the existing legislation lacked the necessary legal provisions to enable the board to discharge various responsibilities entrusted to it.",
-      "url": "https://www.thehindu.com/news/national/kerala/maritime-board-amendment-bill-passed-in-assembly-amid-opposition-walkout/article71637382.ece",
-      "source": "The Hindu Kerala",
+      "id": "e8fb0aef6a0a6a0f",
+      "title": "ഇന്ത്യ-യു.എസ് ബന്ധത്തില്‍ കരിനിഴല്‍ വീഴ്ത്തി ട്രംപിന്റെ നയങ്ങള്‍; വരാനിരിക്കുന്ന യു.എസ് ഇടക്കാല... - Marunadan Malayali",
+      "summary": "ഇന്ത്യ-യു.എസ് ബന്ധത്തില്‍ കരിനിഴല്‍ വീഴ്ത്തി ട്രംപിന്റെ നയങ്ങള്‍; വരാനിരിക്കുന്ന യു.എസ് ഇടക്കാല... Marunadan Malayali",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1wWnVHVkNlRy1HcGM5eWp0RDE0YmhsQU1QN01XbGJUbGRrVllkaDBoTUs0bHVES3lrdkNHbVY5SF9MZFhOZ002cTN5RDJOU3dYcW1mMUxwNFVSQnM5V0FkT3ljZC1BNUk2WTVsMWJFZTJZczRYTXfSAXtBVV95cUxPSjJoYkVGdVFwY2VMdHE0bDB4dzhFaUE2MzZYeVhyZjA2M2hZUnRLVW0yZVZiNF9fd3E4Vzlzb2pGZWUyVFFpU1otU2R1MV9TYU5oNXJaZ3dITGdhV1l1R3RzWlhqbmpUSlJHZ09Ic3UtYkJITVBxU2tkZGs?oc=5",
+      "source": "Marunadan Malayali",
       "category": "general",
-      "published_at": "2026-10-28T19:01:47+00:00",
-      "importance": 4,
-      "personal_score": 4.25,
-      "entities": [
-        "Maritime Board",
-        "Amendment",
-        "Bill",
-        "Assembly",
-        "Opposition",
-        "The Bill"
-      ],
-      "summary_method": "tfidf_extractive_full_article"
-    },
-    {
-      "id": "d43a0f7a3ace5135",
-      "title": "Keralam Assembly passes Kerala Motor Vehicles Taxation (Amendment) Bill",
-      "summary": "Thiruvananthapuram The Assembly on Wednesday passed the Kerala Motor Vehicles Taxation (Amendment) Bill, 2026 that provides for setting up approved vehicle seizure yards in all taluks in Keralam to store vehicles seized for non-payment of tax within the State. The Left Democratic Front (LDF), who opposed the Bill, alleged that the financial memorandum claimed the Bill would not involve any additional expenditure from the consolidated fund of the State even though takeover of land or day-to-day functioning of the yard would entail expenses. Moreover, the Bill was silent on whether the newly introduced renewal fee and storage fee would be considered as government income and added to the consolidated fund or the private yard operators would get it. The maximum fee that could be charged or the guidelines for it had not been included in the Bill and would result in excessive power to the executive.",
-      "url": "https://www.thehindu.com/news/national/kerala/keralam-assembly-passes-kerala-motor-vehicles-taxation-amendment-bill/article71636610.ece",
-      "source": "The Hindu Kerala",
-      "category": "general",
-      "published_at": "2026-10-28T15:17:45+00:00",
-      "importance": 4,
-      "personal_score": 4.25,
-      "entities": [
-        "Keralam Assembly",
-        "Kerala Motor Vehicles Taxation",
-        "Amendment",
-        "Bill The Bill",
-        "Keralam",
-        "State"
-      ],
-      "summary_method": "tfidf_extractive_full_article"
-    },
-    {
-      "id": "1a551650d2ae00d9",
-      "title": "Crime Branch records first arrest in PSC exam scam case; Kerala PSC chairperson questioned by SIT",
-      "summary": "Satheesh, who was recently named an accused in the case pertaining to a Kerala State Planning Board examination, was apprehended from his home in Kozhikode to record the first arrest in the case. The accused, who had retired from service last year, was reportedly in charge of the PSC’s examination wing and responsible for the evaluation process of the controversial examination. The controversy relates to an examination conducted by the Kerala PSC on July 13, 2023, for three senior positions in the State Planning Board: Chief of Industry and Infrastructure, Chief of Perspective Planning, and Chief of Planning Coordination. The issue came to light when some candidates sought copies of their answer scripts under the Right to Information (RTI) Act and discovered that several descriptive answers had not been evaluated during the digital on-screen marking process.",
-      "url": "https://www.thehindu.com/news/national/kerala/crime-branch-records-first-arrest-in-psc-exam-scam-case-kerala-psc-chairperson-questioned-by-sit/article71637168.ece",
-      "source": "The Hindu Kerala",
-      "category": "general",
-      "published_at": "2026-10-28T16:07:36+00:00",
-      "importance": 4,
-      "personal_score": 4.25,
-      "entities": [
-        "Crime Branch",
-        "PSC",
-        "Kerala PSC",
-        "SIT P. Satheesh",
-        "Kerala State Planning Board",
-        "Kozhikode"
-      ],
-      "summary_method": "tfidf_extractive_full_article"
-    },
-    {
-      "id": "9b100a9faaad54fa",
-      "title": "മുടി ചീകുന്നത് ശരിയല്ലെങ്കിൽ മുടി കൊഴിച്ചിൽ കൂടും, എങ്ങനെ വേണം മുടി ചീകാൻ?",
-      "summary": "ഇന്നത്തെ കാലത്ത് മുടി കൊഴിച്ചിലിന് പ്രായവ്യത്യാസങ്ങളൊന്നും ഇല്ലെന്ന് പറയേണ്ടി വരും. നാം ഉപയോഗിക്കുന്ന ഷാംപൂകളും മറ്റ് കെമിക്കൽ അടങ്ങിയ ഹെയർ ഉത്പന്നങ്ങളും കാലാവസ്ഥയും ആരോഗ്യാവസ്ഥയുമെല്ലാം മുടി കൊഴിച്ചിലിന് കാരണമാകാം.ഇതൊന്നും കൂടാതെ നിങ്ങൾ മുടി ചീകുന്ന രീതിയും മുടി കൊഴിച്ചിലിനെ വലിയ അളവിൽ സ്വാധീനിക്കുന്നുണ്ട്. എങ്ങനെ ശരിയായി മുടി ചീകാമെന്ന് അറിയാം.കട്ടി കൂടിയ, അകലമില്ലാത്ത പല്ലുകളോട് കൂടിയ ചീർപ്പുകൾ ഉപയോഗിക്കുന്നത് ഒഴിവാക്കണം. എപ്പോഴും മുടി നന്നായി ഉണങ്ങിയ ശേഷം മാത്രം ചീകുന്നതാണ് നല്ലത്.സമ്പാദിക്കുന്ന കോടികൾ മമ്മൂട്ടി എന്ത് ചെയ്യുന്നു?",
-      "url": "https://malayalam.oneindia.com/lifestyle/improper-hair-brushing-can-increase-hair-fall-what-is-the-right-way-to-comb-your-hair-602569.html",
-      "source": "Oneindia Malayalam",
-      "category": "general",
-      "published_at": "2026-10-28T17:50:21+00:00",
+      "published_at": "2026-10-29T01:27:21+00:00",
       "importance": 3,
       "personal_score": 3.25,
       "entities": [
-        "മുടി",
-        "ചീകുന്നത്",
-        "ശരിയല്ലെങ്കിൽ",
-        "കൊഴിച്ചിൽ",
-        "കൂടും",
-        "എങ്ങനെ",
-        "വേണം",
-        "ചീകാൻ",
-        "Improper Hair Brushing Can",
-        "Increase Hair Fall",
-        "What Is",
-        "Right Way"
+        "ഇന്ത്യ",
+        "എസ്",
+        "ബന്ധത്തില്",
+        "കരിനിഴല്",
+        "വീഴ്ത്തി",
+        "ട്രംപിന്റെ",
+        "നയങ്ങള്",
+        "വരാനിരിക്കുന്ന",
+        "ഇടക്കാല",
+        "Marunadan Malayali"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
+      "id": "abd76d001dbe5bbb",
+      "title": "ലക്ഷ്‌മിനാരായണ രാജയോഗം വന്നു; മുടങ്ങിയ വീടുപണി വീണ്ടും തുടങ്ങും, പ്രണയം പൂവണിയും, ഈ രാശിക്കാരാണോ?",
+      "summary": "അത്രയധികം സ്വാധീനം ചെലുത്താൻ ശേഷിയുള്ള യോഗമാണിത്.സൂര്യൻ ചോതി നക്ഷത്രത്തിൽ; നവംബർ 6 വരെ ഈ രാശിക്കാർക്ക് നല്ല കാലം, പ്രണയം വിവാഹത്തിൽ എത്തും!ലക്ഷ്‌മി നാരായണ രാജ യോഗം നാല് രാശികളിൽ ഉള്ളവർക്ക് ഭാഗ്യം കൊണ്ടുവരുമെന്ന് ജ്യോതിഷികൾ പറയുന്നു. ഏതൊക്കെ രാശികൾക്ക് ലക്ഷ്‌മി നാരായണ രാജയോഗത്തിലൂടെ എന്തൊക്കെ നേട്ടങ്ങൾ ലഭിക്കുമെന്ന് അറിയാം.ഇടവംഇവരുടെ സാമ്പത്തിക സ്ഥിതി എന്നത്തേക്കാളും ശക്തമാകും. ബന്ധങ്ങളിൽ സന്തോഷം നിലനിർത്താൻ ഒരുമിച്ച് പദ്ധതികൾ തയ്യാറാക്കുകയും സൗഹൃദപരമായ മനോഭാവം നിലനിർത്തുകയും ചെയ്യേണ്ടത് അത്യാവശ്യമാണ്. സുപ്രധാന തീരുമാനങ്ങളിൽ അവരുടെ ഉപദേശങ്ങൾ ഗൗരവമായി കേൾക്കുന്നതും അവരുടെ അഭിപ്രായങ്ങൾ പരിഗണിക്കുന്നതും ഗുണം ചെയ്യും.",
+      "url": "https://malayalam.oneindia.com/astrology/lakshmi-narayana-rajayogam-2026-these-zodiacs-will-get-immense-wealth-and-happy-love-life-602581.html",
+      "source": "Oneindia Malayalam",
+      "category": "general",
+      "published_at": "2026-10-29T01:30:35+00:00",
+      "importance": 3,
+      "personal_score": 3.25,
+      "entities": [
+        "ലക്ഷ്",
+        "മിനാരായണ",
+        "രാജയോഗം",
+        "വന്നു",
+        "മുടങ്ങിയ",
+        "വീടുപണി",
+        "വീണ്ടും",
+        "തുടങ്ങും",
+        "പ്രണയം",
+        "പൂവണിയും",
+        "രാശിക്കാരാണോ",
+        "തുടങ്ങാൻ"
       ],
       "summary_method": "tfidf_extractive_full_article"
     },
@@ -743,54 +696,28 @@
       "summary_method": "tfidf_extractive_full_article"
     },
     {
-      "id": "f05ffd6e36017f27",
-      "title": "പട്ടികജാതി വികസന വകുപ്പിൽ ജോലി നേടാൻ അവസരം; ഈ യോഗ്യതയുണ്ടോ? അപേക്ഷിക്കാം",
-      "summary": "യോഗ്യത, ശമ്പളം തുടങ്ങിയ വിശദാംശങ്ങൾ അറിയാംബിരുദവും കമ്പ്യൂട്ടർ പരിജ്ഞാനവുമുള്ള പട്ടികജാതി വിഭാഗം യുവതി യുവാക്കൾക്കാണ് അപേക്ഷിക്കാനാകുക.ആറ് മാസത്തിൽ കുറയാത്ത പി.എസ്.സി അംഗീകൃത കമ്പ്യൂട്ടർ കോഴ്‌സ് പാസായിരിക്കണം.അപേക്ഷിക്കാനുള്ള പ്രായപരിധി - 21 - 35 വയസ് ആണ്.യോഗ്യതാ കോഴ്‌സ് വിജയകരമായി പൂർത്തിയാക്കിയവർക്ക് മാത്രമായിരിക്കും അപേക്ഷിക്കാൻ സാധിക്കുക. അഭിമുഖത്തിലൂടെയാണ് നിയമനം.ജാതി, വിദ്യാഭ്യാസയോഗ്യത, പ്രായം എന്നിവ തെളിയിക്കുന്ന സർട്ടിഫിക്കറ്റുകളുടെ പകർപ്പ്, പാസ്‌പോർട്ട് സൈസ് ഫോട്ടോ എന്നിവ സഹിതം ബന്ധപ്പെട്ട ജില്ലാ പട്ടികജാതി വികസന ഓഫീസുകളിലാണ് അപേക്ഷ സമർപ്പിക്കേണ്ടതാണ്. കൂടുതൽ വിവരങ്ങൾക്കും അപേക്ഷയുടെ മാതൃകയ്ക്കും അതത് പട്ടികജാതി വികസന ഓഫീസ്, ബ്ലോക്ക്/മുൻസിപ്പാലിറ്റി/കോർപ്പറേഷൻ പട്ടികജാതി വികസന ഓഫീസുകൾ, ജില്ലാ പട്ടികജാതി വികസന ഓഫീസുകൾ എന്നിവിടങ്ങളിൽ നിന്നും ലഭിക്കുന്നതാണെന്ന് അധികൃതർ അറിയിച്ചു.അപേക്ഷ സമർപ്പിക്കേണ്ട അവസാന തീയതി നവംബർ 13. കൂടുതൽ വിവരങ്ങൾക്ക് https://www.scdd.kerala.gov.in/images/pdf/pdf2025/pdf2026/CLERICAL_ASST__NOTIFICATION.pdfസംസ്ഥാന സർക്കാരിന് കീഴിൽ വേറേയും താത്കാലിക ഒഴിവുകൾജൂനിയർ ഇൻസ്ട്രക്ടർ ജോലി നേടാംതിരുവനന്തപുരം ചാല സർക്കാർ ഐടിഐയിൽ ഒഴിവ്.",
-      "url": "https://malayalam.oneindia.com/jobs/job-opportunity-in-the-scheduled-caste-development-department-do-you-have-these-qualifications-apply-602575.html",
-      "source": "Oneindia Malayalam",
+      "id": "76285a7582f67d62",
+      "title": "കാരണം കേട്ട് ഞെട്ടി! ലോകം ചുറ്റാൻ പുറപ്പെട്ട ആഡംബര കപ്പൽ പാതിവഴിയിൽ കുടുങ്ങി; 203 യാത്രക്കാർ പ്രതിസന്ധിയിൽ - Express Kerala",
+      "summary": "കാരണം കേട്ട് ഞെട്ടി! ലോകം ചുറ്റാൻ പുറപ്പെട്ട ആഡംബര കപ്പൽ പാതിവഴിയിൽ കുടുങ്ങി; 203 യാത്രക്കാർ പ്രതിസന്ധിയിൽ Express Kerala",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxONnhUY3hScG9LSTVVWjlrNnk0LXp5U3RFMjV4V3NlNXZ0bTR2ZEpRWWpkb3ZZbVhfd2V6em5zQkYtTHlOS0E1TV96eWVqQk9HZzhpbkVyZEZFd3BwS1p4WEJwNjFsb0I1dmZNczlWV2dBYVV3V1RtWnVNd1RWaHFSRm4wVWpTNDhZUXdhWHRwLVFlUGt2NDdUczdWeVEydWtnMFZtQWotZnpkektxcjNpVTJINHRZcWJNWE1HQ05TUTJQSFI3Rmo2b2JnOWdNcWVfZ2dKRWRTODJyZ3FCVVdRVDVsOFRBR21CRFJDNFYzMC1tMXM?oc=5",
+      "source": "Express Kerala",
       "category": "general",
-      "published_at": "2026-10-28T19:03:32+00:00",
+      "published_at": "2026-10-29T02:01:55+00:00",
       "importance": 3,
       "personal_score": 3.25,
       "entities": [
-        "പട്ടികജാതി",
-        "വികസന",
-        "വകുപ്പിൽ",
-        "ജോലി",
-        "നേടാൻ",
-        "അവസരം",
-        "യോഗ്യതയുണ്ടോ",
-        "അപേക്ഷിക്കാം",
-        "Job Opportunity",
-        "Scheduled Caste Development Department",
-        "Do You Have These",
-        "Qualifications"
-      ],
-      "summary_method": "tfidf_extractive_full_article"
-    },
-    {
-      "id": "4c0d115eaa6446cb",
-      "title": "കൊച്ചിയിൽ സ്കൂൾ വിദ്യാർത്ഥിനിക്കുനേരെ ലൈംഗികാതിക്രമം; സ്വകാര്യ ബസ് കണ്ടക്ടർ പിടിയിൽ, പോക്സോ കേസ്, അറസ്റ്റ് - Kerala Vision News",
-      "summary": "കൊച്ചിയിൽ സ്കൂൾ വിദ്യാർത്ഥിനിക്കുനേരെ ലൈംഗികാതിക്രമം; സ്വകാര്യ ബസ് കണ്ടക്ടർ പിടിയിൽ, പോക്സോ കേസ്, അറസ്റ്റ് Kerala Vision News",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQU2w0T2xmX1BHR0d5NXhDNk03ZWdNZEF1UHp6ajdEYWN2Yk91V0ZXbzZnaGc0RFptWjc5QldDaUdhUl93cmVaT0lwMGRMbkwyZGFpTmRDdUI4TFE3ZVp3Q2RJSHVUUFRySzlPYWpqR2hhbzMwQmh0WFViaHhWM1hnNk4tbUNwell2dmItUmROOVRPQlhONXZ1aUVua0VjeEw4OXpN?oc=5",
-      "source": "Kerala Vision News",
-      "category": "general",
-      "published_at": "2026-10-28T15:12:19+00:00",
-      "importance": 3,
-      "personal_score": 3.25,
-      "entities": [
-        "കൊച്ചിയിൽ",
-        "സ്കൂൾ",
-        "വിദ്യാർത്ഥിനിക്കുനേരെ",
-        "ലൈംഗികാതിക്രമം",
-        "സ്വകാര്യ",
-        "ബസ്",
-        "കണ്ടക്ടർ",
-        "പിടിയിൽ",
-        "പോക്സോ",
-        "കേസ്",
-        "അറസ്റ്റ്",
-        "Kerala Vision News"
+        "കാരണം",
+        "കേട്ട്",
+        "ഞെട്ടി",
+        "ലോകം",
+        "ചുറ്റാൻ",
+        "പുറപ്പെട്ട",
+        "ആഡംബര",
+        "കപ്പൽ",
+        "പാതിവഴിയിൽ",
+        "കുടുങ്ങി",
+        "യാത്രക്കാർ",
+        "പ്രതിസന്ധിയിൽ"
       ],
       "summary_method": "rss_fallback"
     },
@@ -820,53 +747,173 @@
       "summary_method": "rss_fallback"
     },
     {
-      "id": "ee184d6ae182fb6c",
-      "title": "'മമ്മൂട്ടി ചെയ്ത ഒരു 'കൊലച്ചതി', കുറഞ്ഞപക്ഷം അയാളോടെങ്കിലും പറയാമായിരുന്നു'; ശാന്തിവിള ദിനേശ്",
-      "summary": "സംവിധായകൻ്റെ വക്കുകളിലേക്ക്ഒരുപാട് സന്തോഷത്തോടെയാണ് സുകൃതം ഷോർണൂറിൽ തുടക്കം കുറിച്ചത് .ഹരികുമാർ സാർ ആദ്യമായി എം ടി വാസുദേവൻ നായരുടെ ഒരു തിരക്കഥയിൽ സിനിമ ചെയ്യുന്ന ത്രില്ലിലാണ്. ആ താടിയും മുടിയും ആരോടും ആലോചിക്കാതെ മീശ അടക്കം വടിച്ചു കളഞ്ഞിട്ടാണ് മമ്മുക്ക ബോംബക്ക് പോയത് .ഏറ്റവും ചുരുങ്ങിയത് മേക്കപ്പ്മാനായ പട്ടണം റഷീദിനോടെങ്കിലും ഇക്കാര്യം മമ്മുക്ക പറയണമായിരുന്നു. വെയിലായി എന്ന് ഹരികുമാർ സാർ പറഞ്ഞപ്പോൾ ഒന്നും പറയാതെ അദ്ദേഹ ഒരക്ഷരം മറുപടി പറഞ്ഞില്ല.മമ്മൂട്ടിയുടെ ലുക്കിനായി പഠിച്ചതൊക്കെ പരമാവധി പരീക്ഷിച്ചു നോക്കി പട്ടണം റഷീദ്. ഇതിൽ അപകടം എന്താണെന്ന് വെച്ചാൽ ഒറിജിനലും ഡ്യൂപ്ലിക്കേറ്റുമായ താടിയും തലമുടിയും മീശയും ഒക്കെ സിനിമയിൽ നന്നായിട്ട് ജമ്പ് അടിച്ചു.ഉദാഹരണത്തിന് സീൻ നമ്പർ 16 അതില് മമ്മുക്ക ഒറിജിനൽ താടി ഒറിജിനൽ മീശ ഒറിജിനൽ തലമുടി, സീൻ നമ്പർ 17 കൃത്രിമ താടി കൃത്രിമ മീശ കൃത്രിമ തലമുടി.",
-      "url": "https://malayalam.oneindia.com/movie-news/santhivila-dinesh-says-what-mammootty-did-was-a-betrayal-he-could-have-at-least-told-that-guy-602571.html",
+      "id": "4801157a6bae4bf4",
+      "title": "2.5 ലക്ഷം ശമ്പളമുള്ള ഖത്തര്‍ ജോലി ഉപേക്ഷിച്ചു; മൈസൂരില്‍ സെറ്റില്‍ ആയി, യുവാവ് പറയുന്നു",
+      "summary": "അതേസമം, ലക്ഷങ്ങള്‍ ശമ്പളമുള്ള ജോലി ഉപേക്ഷിച്ച യുവാവിന്റെ തുറന്നുപറച്ചില്‍ സോഷ്യല്‍ മീഡിയയില്‍ ചര്‍ച്ചയാകുകയാണ്.കേന്ദ്ര സര്‍ക്കാര്‍ ജീവനക്കാരുടെ ഡിഎ മൂന്ന് ശതമാനം ഉയര്‍ത്തി; ശമ്പളം എത്ര വര്‍ധിക്കും? ജോലി സമ്മര്‍ദ്ദങ്ങളുണ്ടായാലും കുടുംബത്തെയും മറ്റും ആലോചിച്ച് ജോലിയില്‍ പിടിച്ചുനില്‍ക്കുന്നവരാണ് കൂടുതല്‍.ഖത്തറിലെ ഉയര്‍ന്ന ശമ്പളമുള്ള ജോലി ഉപേക്ഷിക്കാന്‍ ആദിത്യ സിങ് തീരുമാനിച്ചു. എന്നാല്‍ കടുത്ത സമ്മര്‍ദ്ദത്തിലുള്ള ജോലി വേണ്ട എന്ന് യുവാവ് തീരുമാനിക്കുകയായിരുന്നു.നിവിന്‍ പോളിക്ക് എതിരായ കേസ് ഹൈക്കോടതി റദ്ദാക്കി; 1.9 കോടി രൂപയുടെ വഞ്ചനാ കേസ് ഇനിയില്ലശേഷം നാട്ടിലേക്ക് വന്നു. രാജ്യത്തെ ശുചത്വമുള്ള നഗരത്തിലാണ് ഇപ്പോഴുള്ളത് എന്നതും നേട്ടമായി ആദിത്യ സിങ് പറയുന്നു.സര്‍ക്കാര്‍ ജീവനക്കാര്‍ക്ക് 20 ശതമാനം ബോണസ് പ്രഖ്യാപിച്ച് വിജയ്; തമിഴ്‌നാട്ടില്‍ ഓട്ടോ കൂലി കൂട്ടിപണം പ്രധാനമാണ്, എങ്കിലും പണത്തിന് വേണ്ടി ജീവിതം മുഴുവന്‍ ഉഴിഞ്ഞുവെക്കുന്ന രീതി പലരും പ്രോല്‍സാഹിപ്പിക്കില്ല.",
+      "url": "https://malayalam.oneindia.com/gulf/qatar-job-with-salary-of-2-5-lakh-left-and-settled-in-mysuru-young-man-explain-then-what-happened-602527.html",
       "source": "Oneindia Malayalam",
       "category": "general",
-      "published_at": "2026-10-28T19:35:52+00:00",
+      "published_at": "2026-10-29T02:27:19+00:00",
       "importance": 3,
       "personal_score": 3.25,
       "entities": [
-        "മമ്മൂട്ടി",
-        "ചെയ്ത",
-        "ഒരു",
-        "കൊലച്ചതി",
-        "കുറഞ്ഞപക്ഷം",
-        "അയാളോടെങ്കിലും",
-        "പറയാമായിരുന്നു",
-        "ശാന്തിവിള",
-        "ദിനേശ്",
-        "Dinesh Reveals How Mammootty",
-        "Betrayal"
+        "ലക്ഷം",
+        "ശമ്പളമുള്ള",
+        "ഖത്തര്",
+        "ജോലി",
+        "ഉപേക്ഷിച്ചു",
+        "മൈസൂരില്",
+        "സെറ്റില്",
+        "ആയി",
+        "യുവാവ്",
+        "പറയുന്നു",
+        "ഖത്തറിലെ",
+        "വിമാന"
       ],
       "summary_method": "tfidf_extractive_full_article"
     },
     {
-      "id": "908cb3cb082dd3e6",
-      "title": "മല്ലിക ചേച്ചിക്ക് എന്തിൻ്റെ ദീനമാണ്? അവരുടെ സ്വഭാവഗുണം എന്നിൽ ചാരിതായകും'; വീണ്ടും ശാന്തിവിള ദിനേശ്",
-      "summary": "കൊടിയേരി ബാലകൃഷ്ണനാണ് കേരളത്തിലെ ആഭ്യന്തര വകുപ്പ് മന്ത്രിയെങ്കിൽ നീ എന്റെ കൂടെ പറന്നിരിക്കും എന്ന് ലെനയോട് മല്ലിക ചേച്ചി പറഞ്ഞു. സ്വന്തം സ്വഭാവഗുണം എന്നിൽ ചാരിയതാകണം എന്നാണ് ഞാൻ ആശ്വസിക്കുന്നത്.അതുപോലെ പൃഥവിരാജിനെ ഞാൻ മോശമായി പറഞ്ഞത്രേ. നിങ്ങൾക്ക് പൃഥവിരാജിനെ പറയാനുള്ള യോഗ്യതയില്ല എന്ന് പറഞ്ഞ് സംസാരിച്ചു തുടങ്ങിയിടത്താണ് പട്ടാളം രവീന്ദ്രനുമായി പ്രശ്നം തുടങ്ങുന്നത്.ചില്ലുവിളക്കിലെ നായിക ലെന അമേരിക്കയിൽ നിന്നും വിളിച്ചു ചോദിച്ചത്രേ ചേച്ചി ഞാനും ചേച്ചിയുമായിട്ട് എന്തെങ്കിലും പ്രശ്നമം ഉണ്ടോ എന്ന് . കണ്ടവരുടെ കാശിന് ഇവർ സീരിയൽ പ്രൊഡ്യൂസ് ചെയ്തതതും ലെനയെ ബുക്ക് ചെയ്തതും ഒരു ലക്ഷം ഇവർ അഡ്വാൻസ് കൊടുത്തതും അവരുടെ കുഴപ്പം കൊണ്ട് പറഞ്ഞ മാസം ഒന്നും സീരിയൽ തുടങ്ങാത്തതും ചില്ലുവിളക്കിന്റെ സെറ്റിൽ നിന്നും ലെനയെ ആഭ്യന്തര വകുപ്പ് മന്ത്രി കൊടിയേരി ആണെങ്കിൽ കൊണ്ടുപോയിരിക്കും എന്ന് ഭീഷണിപ്പെടുത്തിയതിന് വിജയൻ മുഖത്തല എന്ന എക്സിക്യൂട്ടീവ് സാക്ഷിയാണ്.",
-      "url": "https://malayalam.oneindia.com/movie-news/santhivila-speaks-against-mallika-sukumaran-says-i-dont-know-why-she-is-taking-against-me-602573.html",
-      "source": "Oneindia Malayalam",
+      "id": "0ce7d96b34e72ee3",
+      "title": "ക്ലീന്‍ സ്വീപ്: മൂന്നില്‍ മൂന്നും ജയിച്ച് ഇന്ത്യ, മന്ധാനയുടെ നായകത്വത്തിന് ഗംഭീര തുടക്കം - Samakalika Malayalam",
+      "summary": "ക്ലീന്‍ സ്വീപ്: മൂന്നില്‍ മൂന്നും ജയിച്ച് ഇന്ത്യ, മന്ധാനയുടെ നായകത്വത്തിന് ഗംഭീര തുടക്കം Samakalika Malayalam",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUUhpRkpTUnpsLW1mNEZBOXFwT1hlZ1JZQjJoNXh6am5FZlFDRHlCWUt4T3ljblh6LWtnM25JT0gwMGw1RW4wbWJsYVQ3VHRpSnB5b1BhaF9tNDZiQkRQT3JnZUVzczEtaFVOZW5CZDZITkZQR2N2Rzl6S1ZhZHlKRTlzQ3dXMFZnb3lQdk56VUhUbzBib2lGVTNsNWlCVkctd19FSVp3MHdnOXdGempfVHNnX1dBeVFmdXfSAccBQVVfeXFMT0tIQmVlX01SN2phRWFZY0tmM21aVUEyMlYzWlJFQ1hJM0FkVzBGTzdxdXFhcjI4azIyWk16RWVQS19SU1hSTTlXdFJFb1FueWhjU0NwYXFBTWJXamRNZFA4dGYyRUdwOUJXLVR0cWgzVWxMcm9iVTJ0M1pyUFdxdG1XVVJwZkZZRmVaWm9ZWmx0cXRzNV9FeVRMamhub1NoMHdGVnY3R0hSbWFkeG1OdHd3SHF3WlZWOEpuM0JxNk9VaWF6MzA2SQ?oc=5",
+      "source": "Samakalika Malayalam",
       "category": "general",
-      "published_at": "2026-10-28T18:36:50+00:00",
+      "published_at": "2026-10-29T01:48:10+00:00",
       "importance": 3,
       "personal_score": 3.25,
       "entities": [
-        "മല്ലിക",
-        "ചേച്ചിക്ക്",
-        "എന്തിൻ്റെ",
-        "ദീനമാണ്",
-        "അവരുടെ",
-        "സ്വഭാവഗുണം",
-        "എന്നിൽ",
-        "ചാരിതായകും",
+        "ക്ലീന്",
+        "സ്വീപ്",
+        "മൂന്നില്",
+        "മൂന്നും",
+        "ജയിച്ച്",
+        "ഇന്ത്യ",
+        "മന്ധാനയുടെ",
+        "നായകത്വത്തിന്",
+        "ഗംഭീര",
+        "തുടക്കം",
+        "Samakalika Malayalam"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
+      "id": "5ce33489c1c21b05",
+      "title": "\" HGS (India) Ltd. അലോട്മെന്റ് തിയ്യതി, സബ്സ്ക്രിപ്ഷൻ സ്റ്റാറ്റസ് ചെക്ക്, ലിസ്റ്റിങ് പ്രൈസ് വിവരങ്ങൾ\" - The Economic Times Malayalam",
+      "summary": "\" HGS (India) Ltd. അലോട്മെന്റ് തിയ്യതി, സബ്സ്ക്രിപ്ഷൻ സ്റ്റാറ്റസ് ചെക്ക്, ലിസ്റ്റിങ് പ്രൈസ് വിവരങ്ങൾ\" The Economic Times Malayalam",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9RMHJ0R1RLMFluYzctaExmSVJhVUlEZW1FWkpBOWh4TTFLb2t0eEJNZjZ6Z255Q1djSE5uRmFuaVFIX1Z4dnp4T0xPT3Ata01xVExoVnpVSWVyRUxpS3A1SUlGY2NTYms1NW5wNkxIUHBPTGxIelFkeHM4SlJYMnM?oc=5",
+      "source": "The Economic Times Malayalam",
+      "category": "general",
+      "published_at": "2026-10-28T23:03:33+00:00",
+      "importance": 3,
+      "personal_score": 3.25,
+      "entities": [
+        "അലോട്മെന്റ്",
+        "തിയ്യതി",
+        "സബ്സ്ക്രിപ്ഷൻ",
+        "സ്റ്റാറ്റസ്",
+        "ചെക്ക്",
+        "ലിസ്റ്റിങ്",
+        "പ്രൈസ്",
+        "വിവരങ്ങൾ",
+        "HGS",
+        "Ltd",
+        "The Economic Times Malayalam"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
+      "id": "d4f3a61cb87e8241",
+      "title": "Water Resources dept. to work with PWD, LSGD to speed up road restoration works, says Keralam Minister",
+      "summary": "THIRUVANANTHAPURAM The Water Resources department is working in coordination with the Public Works and Local Self-Government departments to reduce public inconvenience caused by road excavations for drinking water projects and subsequent delays in road restoration, Water Resources Minister Mons Joseph informed the Assembly on Wednesday. The department has already permitted the Public Works and Local Self-Government departments to carry out restoration works, and the amount spent would be reimbursed by the Water Resources department. Further, remedial measures are being implemented through coordination meetings, chaired by the District Collector and supervised by elected representatives, with the participation of senior officials from the departments concerned as well as through platforms like the District Infrastructure Coordination Committee and the District Development Committee. If there was any delay due to lapses on the part of the contractors, action, including the imposition of penalties, will be taken in accordance with the terms of the contract, the Minister said.",
+      "url": "https://www.thehindu.com/news/national/kerala/water-resources-dept-to-work-with-pwd-lsgd-to-speed-up-road-restoration-works-says-keralam-minister/article71636390.ece",
+      "source": "The Hindu Kerala",
+      "category": "general",
+      "published_at": "2026-10-28T14:06:33+00:00",
+      "importance": 3,
+      "personal_score": 3.25,
+      "entities": [
+        "Water Resources",
+        "PWD",
+        "LSGD",
+        "Keralam Minister"
+      ],
+      "summary_method": "tfidf_extractive_full_article"
+    },
+    {
+      "id": "e884d0164f4dd4c4",
+      "title": "ഈഡൻ പാർക്കിൽ ആര് പന്തെറിയും? ഭുവനേശ്വറിന്റെ സ്വിങ്ങോ മയാങ്കിന്റെ വേഗതയോ? ഇന്ത്യയുടെ പവർപ്ലേ പരീക്ഷണം! - myKhel malayalam",
+      "summary": "ഈഡൻ പാർക്കിൽ ആര് പന്തെറിയും? ഭുവനേശ്വറിന്റെ സ്വിങ്ങോ മയാങ്കിന്റെ വേഗതയോ? ഇന്ത്യയുടെ പവർപ്ലേ പരീക്ഷണം! myKhel malayalam",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQUGNMSmtqVWdya010cjJvejVDYUxaRWs1N19LMzRBVlZ3bmtjMXJfNWhxRjh6d3kzZGhxOHEzLXBkR0VuOXYzX1VrMU0zUUpTeTJ0eW9vWGtzdWJ0eFp6ckRYXzFWYW1LcGlRUUV0Tm5wZTlxTzkxMmxPc1VjVEdFYm5aRXYyZ0FRTnh0aEhLMFNCLWlNVmZIXzFoeF9uWGlNYWJpOUI5MXVIR05ZRlpvb2dfUGRpa0M1YUdLYzA1RzVoWFNiN1dQOHFhNEpuN1l4cHpKVjJVUDczRGJQRlc2QzJTUQ?oc=5",
+      "source": "myKhel malayalam",
+      "category": "general",
+      "published_at": "2026-10-29T02:15:23+00:00",
+      "importance": 3,
+      "personal_score": 3.25,
+      "entities": [
+        "ഈഡൻ",
+        "പാർക്കിൽ",
+        "ആര്",
+        "പന്തെറിയും",
+        "ഭുവനേശ്വറിന്റെ",
+        "സ്വിങ്ങോ",
+        "മയാങ്കിന്റെ",
+        "വേഗതയോ",
+        "ഇന്ത്യയുടെ",
+        "പവർപ്ലേ",
+        "പരീക്ഷണം"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
+      "id": "0cd05273d53e54b8",
+      "title": "Kerala News Today Highlights: സംസ്ഥാനത്ത് നവംബറിൽ വീണ്ടും ലോഡ്ഷെഡിങ് ഭീഷണി; പുറത്തുനിന്ന് വൈദ്യുതി വാങ്ങുന്നതിൽ അന്തിമ തീരുമാനമായില്ല - Indian Express Malayalam",
+      "summary": "Kerala News Today Highlights: സംസ്ഥാനത്ത് നവംബറിൽ വീണ്ടും ലോഡ്ഷെഡിങ് ഭീഷണി; പുറത്തുനിന്ന് വൈദ്യുതി വാങ്ങുന്നതിൽ അന്തിമ തീരുമാനമായില്ല Indian Express Malayalam",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNaEtJM1RSb0J1ek1Wa2x6WG5MeXpNWDkxSGU0cC05VGNHbnFSd29IbGdITVAzYnNwMnNua240bmpwZkdLTFlhN00yRGRhTW94SEZLcXlQU2dyMTQ2RDNYd0JZd1E0bC1HU1hlQWpDc2V1eTBOcWhyX1IxajNBN1J0WE5SVTNZamFSN2RyaTJDWHU2eUx1WjRVdndZZGk3Q29XS2o1ZWdiSmtrdlFfUi0xa0ZMMTl2OWxXcldxUUJRVkVlTWNmVXpXNkNyUExOcEpOT0J3cEF4Q1JWN3lWTEN2WC10Rkt6cVBESG5WMtIB7AFBVV95cUxNaEtJM1RSb0J1ek1Wa2x6WG5MeXpNWDkxSGU0cC05VGNHbnFSd29IbGdITVAzYnNwMnNua240bmpwZkdLTFlhN00yRGRhTW94SEZLcXlQU2dyMTQ2RDNYd0JZd1E0bC1HU1hlQWpDc2V1eTBOcWhyX1IxajNBN1J0WE5SVTNZamFSN2RyaTJDWHU2eUx1WjRVdndZZGk3Q29XS2o1ZWdiSmtrdlFfUi0xa0ZMMTl2OWxXcldxUUJRVkVlTWNmVXpXNkNyUExOcEpOT0J3cEF4Q1JWN3lWTEN2WC10Rkt6cVBESG5WMg?oc=5",
+      "source": "Indian Express Malayalam",
+      "category": "general",
+      "published_at": "2026-10-28T14:05:45+00:00",
+      "importance": 3,
+      "personal_score": 3.25,
+      "entities": [
+        "സംസ്ഥാനത്ത്",
+        "നവംബറിൽ",
         "വീണ്ടും",
-        "ശാന്തിവിള",
-        "ദിനേശ്",
-        "Mallika Sukumaran-santhivila Dineshe Issue"
+        "ലോഡ്ഷെഡിങ്",
+        "ഭീഷണി",
+        "പുറത്തുനിന്ന്",
+        "വൈദ്യുതി",
+        "വാങ്ങുന്നതിൽ",
+        "അന്തിമ",
+        "തീരുമാനമായില്ല",
+        "Kerala News Today Highlights",
+        "Indian Express Malayalam Kerala"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
+      "id": "a9a6bb783d6730b3",
+      "title": "ബെംഗളൂരു മെട്രോ പിങ്ക് ലൈൻ എലിവേറ്റഡ് ഉദ്‌ഘാടനം വൈകില്ല? നവംബർ 15ന് മോദി എത്തുമെന്ന് സൂചന",
+      "summary": "അടിസ്ഥാന സൗകര്യങ്ങൾ, സിഗ്നലിംഗ് സംവിധാനങ്ങൾ, റോളിംഗ് സ്‌റ്റോക്ക്, യാത്രക്കാരുടെ സുരക്ഷാ ക്രമീകരണങ്ങൾ എന്നിവയുടെ പരിശോധനകൾ, വേഗതാ പരീക്ഷണങ്ങൾ, വിലയിരുത്തലുകൾ എന്നിവയ്ക്ക് ശേഷം സിഎംആർഎസ് (സതേൺ സർക്കിൾ, ബെംഗളൂരു) വി വെങ്കിടസുബ്രഹ്മണ്യൻ അനുമതി നൽകി.ക്ലിയറൻസിൽ വ്യക്തമാക്കിയിട്ടുള്ള വ്യവസ്ഥകൾക്കും ഓട്ടോമാറ്റിക് ട്രെയിൻ സംരക്ഷണ സംവിധാനം ഏർപ്പെടുത്തിയ പരിധികൾക്കും വിധേയമായി പരമാവധി 80 കിലോമീറ്റർ വേഗതയിൽ പാസഞ്ചർ സർവീസുകൾക്ക് അനുമതി നൽകുന്നു. സുരക്ഷയുമായി ബന്ധപ്പെട്ട ജോലികൾ പൂർത്തിയാക്കുക, പരിശീലനം ലഭിച്ച ആളുകളുടെ ലഭ്യത ഉറപ്പുവരുത്തുക, ട്രെയിൻ നിയന്ത്രണവും സിഗ്നലിംഗ് സംവിധാനങ്ങളും പരിശോധിക്കൽ, യാത്രക്കാരുടെ സൗകര്യങ്ങളും അടിയന്തര തയ്യാറെടുപ്പ് നടപടികളും നിലനിർത്തൽ എന്നിവ ഇതിൽ ഉൾപ്പെടുന്നു.അഗ്നി സുരക്ഷ, സിസിടിവി നിരീക്ഷണം, പ്രവേശനക്ഷമത, സ്‌റ്റേഷൻ സൗകര്യങ്ങൾ, പ്രവർത്തന നടപടിക്രമങ്ങൾ എന്നിവയുമായി ബന്ധപ്പെട്ട ആവശ്യകതകളും കോർപ്പറേഷൻ പാലിക്കണം. ഒക്ടോബറിൽ എലിവേറ്റഡ് സെക്ഷൻ ഉദ്ഘാടനം ചെയ്യാൻ ക്ഷണിച്ചുകൊണ്ട് ശിവകുമാർ ഒക്ടോബർ 6ന് മോദിക്ക് കത്തയച്ചിരുന്നു.പ്രധാനമന്ത്രിയുടെ സന്ദർശനത്തെക്കുറിച്ച് സർക്കാരിന് ഇതുവരെ ഔദ്യോഗിക സ്ഥിരീകരണം ലഭിച്ചിട്ടില്ലെന്ന് ബെംഗളൂരു വികസന മന്ത്രി കൃഷ്‌ണ ബൈരെ ഗൗഡ അറിയിച്ചു. വ്യക്തത ലഭിക്കുന്നതിന് നവംബർ 3 അല്ലെങ്കിൽ 4 തീയതികളിൽ ഞാൻ കേന്ദ്രമന്ത്രി മനോഹർ ലാലുമായി അപ്പോയിന്മെന്റ് തേടിയിട്ടുണ്ട്, എന്നാൽ ഇത് ഇതുവരെ സ്ഥിരീകരിച്ചിട്ടില്ല; അദ്ദേഹം പറഞ്ഞു.പിങ്ക് ലൈനിന്റെ ഭൂഗർഭ ഭാഗം വടക്കൻ ബെംഗളൂരുവിലെ നാഗവാര വരെ നീളുന്നു, പ്ലാറ്റ്‌ഫോം സ്‌ക്രീൻ വാതിലുകളും സിഗ്നലിംഗ് സംവിധാനങ്ങളും സ്ഥാപിക്കുന്നതും സംയോജിപ്പിക്കുന്നതും ഉൾപ്പെടെയുള്ള തുടർ ജോലികൾ നടന്നുകൊണ്ടിരിക്കുകയാണ്.",
+      "url": "https://malayalam.oneindia.com/news/india/will-the-elevated-section-of-bengaluru-metro-pink-line-be-inaugurated-on-november-15-full-details-602583.html",
+      "source": "Oneindia Malayalam",
+      "category": "general",
+      "published_at": "2026-10-29T02:24:31+00:00",
+      "importance": 3,
+      "personal_score": 3.25,
+      "entities": [
+        "ബെംഗളൂരു",
+        "മെട്രോ",
+        "പിങ്ക്",
+        "ലൈൻ",
+        "എലിവേറ്റഡ്",
+        "ഉദ്",
+        "ഘാടനം",
+        "വൈകില്ല",
+        "നവംബർ",
+        "മോദി",
+        "എത്തുമെന്ന്",
+        "സൂചന"
       ],
       "summary_method": "tfidf_extractive_full_article"
     },
@@ -895,68 +942,103 @@
       "summary_method": "tfidf_extractive_full_article"
     },
     {
-      "id": "4b1509f75142887b",
-      "title": "'ഒരേ ലക്ഷ്യം'; ഇന്ത്യാ സഖ്യത്തിന്റെ റാലിക്ക് പിന്തുണയുമായി സിജെപി; 'രാജ്യമാണ് ഏറ്റവും പ്രധാനം' - Samakalika Malayalam",
-      "summary": "'ഒരേ ലക്ഷ്യം'; ഇന്ത്യാ സഖ്യത്തിന്റെ റാലിക്ക് പിന്തുണയുമായി സിജെപി; 'രാജ്യമാണ് ഏറ്റവും പ്രധാനം' Samakalika Malayalam",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOT2t2YkdlUm9FeEpOalFWZDRLM212TU1tekdrQUE0RHV6RmJOZzlWbXh0bHlEak5tSU1xdmFYZ2xOSGUyZm5QYmZsaHZLSUk1YmdKZ0ZsRVZmS1R5Z0NMVlZZbFFlUUp6TmY5LXl2YXFuN01ZOWltZDlHNUpib1BMNHl4d2xPTmhMRFk0eU9NTXFBZElpRm1lc29WM2VrdG9XckJBa1FpaVVOVU9FTlpjbGoxeTZqeXJGaVQtbkp5WnJIMDR4MEHSAdMBQVVfeXFMTnphTWE4NWpDSWFEXzRWRDJpWjVRVmg1MDhRVzYzUEItcDNVQ082YTZFME44ZmY3Tkk5Q0tXQUgyeC1RSnFIYlhoLUN0cUs4eEQ3S0ctZ3F5Q2psVkdYU0lKNVh3U3BjZFlKRDNJTGZHV3JSeGFQMU1sbFMwcklDTkZreS1yS2ZkZ1J6cW1SekxnaWVCQ2ZBU29ITS1SYi02ci12bm91b2Roc3B2Q3JEdXZ2Y0F4NXRtb1FZY29uN3A4VXVubi1UY2RpTEotQUJOczB5WQ?oc=5",
-      "source": "Samakalika Malayalam",
+      "id": "efe8717f24e1067c",
+      "title": "വിമാനവാഹിനി കപ്പലുകളിൽ യുദ്ധ വിമാനങ്ങൾ സുരക്ഷിതമായി ഇറക്കാം;ഇതാ ഇന്ത്യയുടെ സ്വന്തം സാങ്കേതിക വിദ്യ - Asianet News Malayalam",
+      "summary": "വിമാനവാഹിനി കപ്പലുകളിൽ യുദ്ധ വിമാനങ്ങൾ സുരക്ഷിതമായി ഇറക്കാം;ഇതാ ഇന്ത്യയുടെ സ്വന്തം സാങ്കേതിക വിദ്യ Asianet News Malayalam",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdDJhaFNQSlc5Nk1lcldKSnlVZGxQOWFacFBOQU5wVURlNS1BZndRVVZKZWpGZ2QzSTNDWlJDMlpuMEx1TXFqQm03Mjh2RkVuNVc0VWkzYzc0T1BZVlIyWUk2Nk5IYWg4TUFvemx3RnRST2c5eHNaZ1hhNXpta2o0R2UwN0tGY29RTVRxc2NmcWt4SnNTbTRucy1jQUJLa2hCRFh2WVNycEtoQ2M4RnRsQ1B1SzI2NG43YTVGbXB2ONIBxAFBVV95cUxONjYwczJUNlcteC1NMndJVGxYNzRCMlFUby1VaEN4cjBLUmlfalJLMGw1LTR6d0c1cTlTUDZPbmZ5a243SXdPSUtwSHlpRDFJSDNrZm5BYzJJZkNMbE1MSVM3YWNqVXl4eEtURVozUGpRcThOS0VWUUpTeUJ3eW1mNm9EUl84Q2lKY0JWWUxNT3NqUGZTcG1OaURfOWtoYjdOazV4c2txc0thQVZKUDdFSF9wT2FlVEFHbnJSdWl3YjRjbnpk?oc=5",
+      "source": "Asianet News Malayalam",
       "category": "general",
-      "published_at": "2026-10-28T17:26:28+00:00",
+      "published_at": "2026-10-29T02:36:16+00:00",
       "importance": 3,
       "personal_score": 3.25,
       "entities": [
-        "ഒരേ",
-        "ലക്ഷ്യം",
-        "ഇന്ത്യാ",
-        "സഖ്യത്തിന്റെ",
-        "റാലിക്ക്",
-        "പിന്തുണയുമായി",
-        "സിജെപി",
-        "രാജ്യമാണ്",
-        "ഏറ്റവും",
-        "പ്രധാനം",
-        "Samakalika Malayalam"
+        "വിമാനവാഹിനി",
+        "കപ്പലുകളിൽ",
+        "യുദ്ധ",
+        "വിമാനങ്ങൾ",
+        "സുരക്ഷിതമായി",
+        "ഇറക്കാം",
+        "ഇതാ",
+        "ഇന്ത്യയുടെ",
+        "സ്വന്തം",
+        "സാങ്കേതിക",
+        "വിദ്യ",
+        "Asianet News Malayalam"
       ],
       "summary_method": "rss_fallback"
     },
     {
-      "id": "6782e8be243b483e",
-      "title": "Former Keralam PSC official arrested over alleged irregularities in Planning Board exam",
-      "summary": "Also Read: Three Kerala PSC members appear before Crime Branch for questioning in exam fraud probe https://www.thehindu.com/news/national/kerala/three-kerala-psc-members-appear-before-crime-branch-for-questioning-in-exam-fraud-probe/article71627356.ece/amp/ The Special Investigation Team (SIT) under the Crime Branch had recently booked the retired official, along with another senior PSC functionary, R. The controversy The controversy relates to an examination conducted by the PSC on July 13, 2023 for three senior positions in the State Planning Board: Chief of Industry and Infrastructure, Chief of Perspective Planning, and Chief of Planning Coordination. The issue came to light when some candidates sought copies of their answer scripts under the Right to Information (RTI) Act and discovered that several descriptive answers had not been evaluated during the digital on-screen marking process. Crime Branch registers two more cases in PSC exam irregularities Crime Branch registers two more cases in PSC exam irregularities The FIRs relate to the examinations conducted for the posts of Village Oil Inspector and Fisheries Extension Officer Crime Branch registers two more cases in PSC exam irregularities storyline 1 The disputed paper contained 28 questions, of which 10 questions carrying a total of 58 marks were allegedly left unevaluated.",
-      "url": "https://www.thehindu.com/news/national/kerala/former-keralam-psc-official-arrested-over-alleged-irregularities-in-planning-board-exam/article71634948.ece",
-      "source": "The Hindu Kerala",
+      "id": "55ed98486d90c043",
+      "title": "പിഎസ്‍സി പരീക്ഷാ തട്ടിപ്പ്: ഭിന്ന മൊഴികളുമായി ചെയർമാനും അംഗങ്ങളും, ഒളിവിൽ കഴിയുന്ന ഉദ്യോഗസ്ഥനായി അന്വേഷണം ഊർജിതം - Asianet News Malayalam",
+      "summary": "പിഎസ്‍സി പരീക്ഷാ തട്ടിപ്പ്: ഭിന്ന മൊഴികളുമായി ചെയർമാനും അംഗങ്ങളും, ഒളിവിൽ കഴിയുന്ന ഉദ്യോഗസ്ഥനായി അന്വേഷണം ഊർജിതം Asianet News Malayalam",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPcW1BMmhNUS1lM2tWUUp3Si13R2lTMjFzRzdFQTVTbGx4Rk0telJBY1ZrWGtTRmhkYTBqNnE5dXpoVUJBUXI1aURLMDhWZnd3c2VPel9Xdkk5NHNrVzNVOUdSUXhnY2lFYTNFanp1RDdXd1RpbXhDTmw2T0tzeTlXb2l4czU3MnRWZm93aE1VVUdBU2t5TGZzWGJRTDV1T3RuWkc1RkEwODhhMGxyVnFxOTVDUlpwOFJLZXRNSXRfeGk3ZVFrc3c?oc=5",
+      "source": "Asianet News Malayalam",
       "category": "general",
-      "published_at": "2026-10-28T11:20:15+00:00",
+      "published_at": "2026-10-29T02:09:40+00:00",
       "importance": 3,
       "personal_score": 3.25,
       "entities": [
-        "Former Keralam PSC",
-        "Planning Board",
-        "Former",
-        "P. Satheesh",
-        "PSC"
+        "പിഎസ്",
+        "പരീക്ഷാ",
+        "തട്ടിപ്പ്",
+        "ഭിന്ന",
+        "മൊഴികളുമായി",
+        "ചെയർമാനും",
+        "അംഗങ്ങളും",
+        "ഒളിവിൽ",
+        "കഴിയുന്ന",
+        "ഉദ്യോഗസ്ഥനായി",
+        "അന്വേഷണം",
+        "ഊർജിതം"
       ],
-      "summary_method": "tfidf_extractive_full_article"
+      "summary_method": "rss_fallback"
     },
     {
-      "id": "ce0e2495c50f881f",
-      "title": "Keralam govt approves J.C. Daniel film city project at Kinfra’s Petrochemicals Park in Ambalamugal",
-      "summary": "Daniel Film City project Ernakulam district administration forwards proposal to govt, which plans to set up the film city under a PPP model 30-acre land at Kinfra’s Petrochemicals Park in Ambalamugal proposed for Keralam govt’s J.C. Design ideas Officials of the Department of Culture said that the government has zeroed in on multiple design ideas for the film city project after holding discussions with various stakeholders in Malayalam cinema. Some of the facilities on the anvil at the film city include studio floors, entertainment and gaming zones, exhibition centres chronicling the history of Malayalam cinema and state-of-the-art screening facilities and virtual production studios. The government has also received suggestions to invite private investment in setting up premium hotels, pre- and post-production studios and space for holding film previews, audio and trailer launch at the film city.",
-      "url": "https://www.thehindu.com/news/national/kerala/keralam-govt-approves-jc-daniel-film-city-project-at-kinfras-petrochemicals-park-in-ambalamugal/article71634590.ece",
-      "source": "The Hindu Kerala",
+      "id": "01fc467f99ada9eb",
+      "title": "ഇൻഡ്യ മുന്നണിയുടെ നവംബര്‍ 1ലെ റാലിക്ക് പിന്തുണ പ്രഖ്യാപിച്ച് സിജെപി - Media One",
+      "summary": "ഇൻഡ്യ മുന്നണിയുടെ നവംബര്‍ 1ലെ റാലിക്ക് പിന്തുണ പ്രഖ്യാപിച്ച് സിജെപി Media One",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMEVHWmVJLWlRS1BadlFCTWxkdFh2M2wySjgyc3RDT3VjSUlGdTF2aU1YNjZSQ2llb2d4Ym5SSHpqX3VhREdwb1c3Vnhmd1JWeWZWLXVuenRibHhpVmpiYlRmRFNkWmhEbWxUYWNwQXVRRVZaRVF3NXptWXpRMEZOWFV6Nk5aellKZktsbFRzR2dXTHlKMTFyZV9tT3FfNWhkLVMxSmpuN2plT3pmWmN6RWRWLUxsdzDSAbwBQVVfeXFMUFhyNFU3ZUZPWTM0dE5nMW1BUUFXRUtDUWNDd2p5R0VzNzNhODFVcWo5Mlc3MGRxd2NxNFFDWjVFb0ZycG1UdDJkQm4tekNTOFNZVHd1eGFqN0p4ZkpkTGstZF9fNzF3THJSalJiekxLbGFOa2lfd0E2dXB4ZGgwNjVYZEkwXzdDbmxXQmxGVlBGTWJGcEZweEpDNVdTOUNGTXRDbVZJZ1NJZXJDVEF3QmRPVUJpX20zNzdvUFk?oc=5",
+      "source": "Media One",
       "category": "general",
-      "published_at": "2026-10-28T11:30:34+00:00",
+      "published_at": "2026-10-29T02:38:00+00:00",
       "importance": 3,
       "personal_score": 3.25,
       "entities": [
-        "Keralam",
-        "J.C. Daniel",
-        "Kinfra",
-        "Petrochemicals Park",
-        "Ambalamugal Around",
-        "Tender"
+        "ഇൻഡ്യ",
+        "മുന്നണിയുടെ",
+        "നവംബര്",
+        "റാലിക്ക്",
+        "പിന്തുണ",
+        "പ്രഖ്യാപിച്ച്",
+        "സിജെപി",
+        "Media One"
       ],
-      "summary_method": "tfidf_extractive_full_article"
+      "summary_method": "rss_fallback"
+    },
+    {
+      "id": "232aeacbd3e559a4",
+      "title": "'ഗ്യാനു ഗോ ബാക്ക്'; ഇലക്ഷൻ കമ്മീഷനെതിരായ 'ഇന്ത്യ' മുന്നണിയുടെ റാലിക്ക് പിന്തുണ പ്രഖ്യാപിച്ച് സിജെപി - News18 Malayalam",
+      "summary": "'ഗ്യാനു ഗോ ബാക്ക്'; ഇലക്ഷൻ കമ്മീഷനെതിരായ 'ഇന്ത്യ' മുന്നണിയുടെ റാലിക്ക് പിന്തുണ പ്രഖ്യാപിച്ച് സിജെപി News18 Malayalam",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPYnVzSUdzOU5jek1WeGwtOV80WkNieDcwOGRyYTBCcUlMVkYzYmdaNUFKNDJKUTNCTXdxVjlfNUx5QTZtVTk1UXRDbXZUX1Q1N0cxd3Q4LTAwcUxtcGpmdkI1Wk1FYVpDMnZoSmVtS1dVeVluVVRQbXlHRE44Z25odmZNNUdITGhJc0VqVU05OVNLMUc4eVFoWU0xU3N1QjlfeHpUd1JSSUNxYzg0RXE1VFlEVVNnZDRuWnFCRHJUSThvejlDT0ZHU1Y5b3VubmpGdnVZbUlaT0xIQlZiWlltdA?oc=5",
+      "source": "News18 Malayalam",
+      "category": "general",
+      "published_at": "2026-10-29T01:18:39+00:00",
+      "importance": 3,
+      "personal_score": 3.25,
+      "entities": [
+        "ഗ്യാനു",
+        "ബാക്ക്",
+        "ഇലക്ഷൻ",
+        "കമ്മീഷനെതിരായ",
+        "ഇന്ത്യ",
+        "മുന്നണിയുടെ",
+        "റാലിക്ക്",
+        "പിന്തുണ",
+        "പ്രഖ്യാപിച്ച്",
+        "സിജെപി",
+        "News18 Malayalam"
+      ],
+      "summary_method": "rss_fallback"
     },
     {
       "id": "5d5df9a90108a19f",
@@ -979,84 +1061,6 @@
         "സംഭവം",
         "തലസ്ഥാനത്ത്",
         "Kerala Kaumudi"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
-      "id": "dae2b196ad67238b",
-      "title": "ബെംഗളൂരുവിൽ 500 കിലോമീറ്റർ പുതിയ റോഡുകൾ വരുന്നു; പ്രഖ്യാപനവുമായി മുഖ്യമന്ത്രി ഡികെ ശിവകുമാർ",
-      "summary": "നിർദിഷ്‌ട ടണൽ ഇടനാഴിയിൽ 16.5 കിലോമീറ്റർ വടക്ക്-തെക്ക് സ്‌ട്രെച്ചും (17,780 കോടി രൂപ ചെലവ് കണക്കാക്കിയ) 21 കിലോമീറ്റർ കിഴക്ക്-പടിഞ്ഞാറ് ഭാഗവും ഉൾപ്പെടുന്നു.ബെംഗളൂരുവിന് മുമ്പ് വാരണസി; വന്ദേഭാരത് സ്ലീപ്പര്‍ എത്തുക ഒക്ടോബര്‍ 31ന്, രാത്രി 8.50ന് പുറപ്പെടും120 കിലോമീറ്റർ ദൈർഘ്യമുള്ള എലിവേറ്റഡ് കോറിഡോറിന് 23,165 കോടി രൂപയാണ് ചെലവ് കണക്കാക്കുന്നത്, ഇത് നാല് വിഭാഗങ്ങളായി തിരിക്കും. ബെംഗളൂരുവിലെ എംഎൽമാരുമായി തന്റെ ഔദ്യോഗിക വസതിയിൽ നടത്തിയ യോഗത്തിൽ അദ്ദേഹം വർധിച്ചുവരുന്ന ഗതാഗതക്കുരുക്കിനും ജനസംഖ്യയ്ക്കും വാഹനങ്ങളുടെ എണ്ണവും കണക്കിലെടുത്ത് റോഡ് അടിസ്ഥാന സൗകര്യങ്ങൾക്ക് മുൻഗണന നൽകണമെന്ന് അഭിപ്രായപ്പെട്ടു.500 കിലോമീറ്റർ പുതിയ റോഡ് കണക്ഷനുകളിൽ 300 കിലോമീറ്റർ ബഫർ റോഡുകളും മഴവെള്ള അഴുക്കുചാലുകളോടു കൂടിയ ബഫർ റോഡുകളും മുമ്പ് പെരിഫറൽ റിംഗ് റോഡ് എന്ന് അറിയപ്പെട്ടിരുന്ന ബെംഗളൂരു ബിസിനസ് കോറിഡോറിന്റെ (ബിബിസി) 68 കിലോമീറ്ററും ഉൾപ്പെടുന്നു. നിർദിഷ്‌ട പദ്ധതികൾക്ക് ഏകദേശം ഒരു ലക്ഷം കോടി രൂപയുടെ നിക്ഷേപം വേണ്ടിവരുമെന്നും അദ്ദേഹം പറഞ്ഞു.ഗ്രേറ്റർ ബെംഗളൂരു അതോറിറ്റി (ജിബിഎ) പരിധിക്ക് പുറത്തുള്ള 65 ഗ്രാമപഞ്ചായത്തുകളെ നഗര തദ്ദേശ സ്വയംഭരണ സ്ഥാപനങ്ങളാക്കി നവീകരിക്കാനും സർക്കാർ പദ്ധതിയിടുന്നു, കുടിവെള്ളവും മലിനജല അടിസ്ഥാന സൗകര്യങ്ങളും ഘട്ടം ഘട്ടമായി നടപ്പാക്കുമെന്നും അദ്ദേഹം അറിയിച്ചു. ബെംഗളൂരു നഗരത്തിൽ കൂടുതലായി ആളുകൾ എത്തുകയും നഗരം വളരുകയും ചെയ്യുന്ന സാഹചര്യത്തിൽ മുഖ്യമന്ത്രിയുടെ ഈ പ്രഖ്യാപനം ഏറെ പ്രധാനപ്പെട്ടതാണ്.ബെംഗളൂരു ഹെബ്ബാൾ തുരങ്കപാത; 1128 മരങ്ങൾ മുറിക്കുന്നതിനെതിരെ ഹരിത ട്രൈബ്യൂണൽ, ഉത്തരവ് ഇറക്കിപ്രത്യേകിച്ച് കഴിഞ്ഞ കുറച്ചധികം നാളുകളായി ബെംഗളൂരു നഗരത്തിന് ഏറെ വിമർശനങ്ങളും കേൾക്കേണ്ടി വന്നിട്ടുള്ളത് റോഡ് ഉൾപ്പെടെയുള്ള അടിസ്ഥാന സൗകര്യ വികസനങ്ങളുടെ കാര്യത്തിലാണ്.",
-      "url": "https://malayalam.oneindia.com/news/india/500-km-of-new-roads-coming-to-bengaluru-chief-minister-dk-shivakumar-makes-the-announcement-602491.html",
-      "source": "Oneindia Malayalam News",
-      "category": "general",
-      "published_at": "2026-10-28T02:56:04+00:00",
-      "importance": 2,
-      "personal_score": 2.25,
-      "entities": [
-        "ബെംഗളൂരുവിൽ",
-        "കിലോമീറ്റർ",
-        "പുതിയ",
-        "റോഡുകൾ",
-        "വരുന്നു",
-        "പ്രഖ്യാപനവുമായി",
-        "മുഖ്യമന്ത്രി",
-        "ഡികെ",
-        "ശിവകുമാർ",
-        "Km Of New Roads",
-        "Coming To Bengaluru",
-        "Chief Minister DK Shivakumar"
-      ],
-      "summary_method": "tfidf_extractive_full_article"
-    },
-    {
-      "id": "a155fd85f989168a",
-      "title": "ഇപ്പോൾ ഇന്ത്യ വിടേണ്ട, നടൻ ഇമ്രാന്‍ ഖാന് താല്‍ക്കാലിക ആശ്വാസം, നവംബർ 2ന് ഹർജി പരിഗണിക്കും",
-      "summary": "മുഖ്യ തിരഞ്ഞെടുപ്പ് കമ്മീഷണര്‍ ഗ്യാനേഷ് കുമാറിന്റെ രാജി ആവശ്യപ്പെട്ട് മുംബൈയില്‍ നടന്ന പ്രതിഷേധത്തില്‍ പങ്കെടുത്തതിന് പിന്നാലെയാണ് രാജ്യം വിടാന്‍ ആവശ്യപ്പെട്ട് ഫോറിനേഴ്‌സ് റീജിയണല്‍ രജിസ്‌ട്രേഷന്‍ ഓഫീസ് ഇമ്രാന്‍ ഖാന് നോട്ടീസ് അയച്ചത്.ഇമ്രാന്‍ ഖാന് ഇന്ത്യന്‍ പൗരനല്ലെന്നും അമേരിക്കന്‍ പൗരത്വമാണ് ഉളളതെന്നും ചൂണ്ടിക്കാട്ടിയാണ് നടപടി. അത് വരെ ഇമ്രാന്‍ ഖാന് രാജ്യത്ത് തുടരാം.ഹര്‍ജി നവംബര്‍ 2ന് ഹൈക്കോടതി പരിഗണിക്കുന്നത് വരെ ഇമ്രാന്‍ ഖാന് എതിരെ നടപടിയൊന്നും എടുക്കില്ലെന്ന് കേന്ദ്ര സര്‍ക്കാര്‍ കോടതിയെ അറിയിച്ചു. തുടര്‍ന്ന് എഫ്ആര്‍ആര്‍ഒ ഇമ്മിഗ്രേഷന്‍ ആന്‍ഡ് ഫോറിനേഴ്‌സ് ആക്ട് 2025 പ്രകാരം രാജ്യം വിടാന്‍ ആവശ്യപ്പെട്ട് കൊണ്ട് ഇമ്രാന്‍ ഖാന് നോട്ടീസ് നല്‍കുകയായിരുന്നു. ഈ നിയമത്തിലെ ഏഴാം വകുപ്പ് പ്രകാരം വിദേശ പൗരന്മാര്‍ക്ക് ഇന്ത്യയിലേക്ക് വരാനോ പോകാനോ തുടരാനോ അടക്കമുളളവുമായി ബന്ധപ്പെട്ട് കേന്ദ്രസര്‍ക്കാരിന് ഉത്തരവുകളോ നിര്‍ദേശങ്ങളോ നല്‍കാന്‍ സാധിക്കും.എസ്ആഐറിലടക്കം എടുത്ത തീരുമാനങ്ങൾ ഒറ്റക്കെട്ട്, തിരഞ്ഞെടുപ്പ് കമ്മീഷൻ സുപ്രീം കോടതിയിൽ 43കാരനായ ഇമ്രാന്‍ ഖാന് അമേരിക്കന്‍ പൗരത്വമുളള ഓവര്‍സീസ് സിറ്റിസണ്‍ ഓഫ് ഇന്ത്യ കാര്‍ഡ് ഉടമയാണ്.",
-      "url": "https://malayalam.oneindia.com/news/india/actor-imran-khan-gets-temporary-relief-as-court-says-he-need-not-leave-india-now-plea-to-be-heard-o-602465.html",
-      "source": "Oneindia Malayalam News",
-      "category": "general",
-      "published_at": "2026-10-27T14:07:54+00:00",
-      "importance": 2,
-      "personal_score": 2.25,
-      "entities": [
-        "ഇപ്പോൾ",
-        "ഇന്ത്യ",
-        "വിടേണ്ട",
-        "നടൻ",
-        "ഇമ്രാന്",
-        "ഖാന്",
-        "താല്",
-        "ക്കാലിക",
-        "ആശ്വാസം",
-        "നവംബർ",
-        "ഹർജി",
-        "പരിഗണിക്കും"
-      ],
-      "summary_method": "tfidf_extractive_full_article"
-    },
-    {
-      "id": "0247adf64665f6bc",
-      "title": "Kerala Blasters FC: കേരള ബ്ലാസ്റ്റേഴ്സിന് ഇനി ജയിക്കണം, ചെന്നെെയിൻ മത്സരത്തിന് മുമ്പ് എവിടെ മാറണം? ശ്രദ്ധിക്കേണ്ടത് ഇക്കാര്യങ്ങൾ‌ - Samayam Malayalam",
-      "summary": "Kerala Blasters FC: കേരള ബ്ലാസ്റ്റേഴ്സിന് ഇനി ജയിക്കണം, ചെന്നെെയിൻ മത്സരത്തിന് മുമ്പ് എവിടെ മാറണം? ശ്രദ്ധിക്കേണ്ടത് ഇക്കാര്യങ്ങൾ‌ Samayam Malayalam",
-      "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxQbDVyanc2NHctZ2JtMVJ6cTU3cXRVNHZGZ1F0d1ZUd2xjbUxPWTVSMm9uV2dlNldjdTNuZHEtc01hc2xKb0ZoU1VqU3JpNjQ5NXU2RmVEZkdFUVlpUGFaMWJuYmwxRlBZeG1QX3RxRFJfUkh2aXE4M2ZqZmdsdVZuVkdxTjA2SklzTzU5R0dCclliRTZpTGhIUGVlODZjTFFfZzZLNDZ5UEdZc2RiMWstX292WHFfcWdpeXJnQ2hDaUpzakppaFF4aUQ0aVhlOHBTZlBiaXMtVDc1blNQTDZ3ZXlVbnVYaVdyNEtRTVB3bVhhZUJtSDdvOS1zNXp5TWZqVnk0YzhoSGRvd2Nab0F0eFZTOUNCS1pocGlQSW93ZlplZ09kV2pULVdwUEc1MUpUbV9IQ2psTFp0UHROQzlaUmZn0gHHAkFVX3lxTE5tZW42NGhERmo2cUpBYzM2bk9UT2xIRXdzbEtoeW5STm11ZVQ3UkFwZnZna2NTWkprbW5nN2pwMkhkQ3VjWjZmb3Iza0JNN3pRbzEycHNVUTRsRjFLWjRNb0h6ei1oMWRtWmpoclZXaXJKMGYtRF9KVGJYc3BhazFjOGRkZjU1OEwzQmhWaEdkYTcwZnA3ekdQcTVmdUJrRkJUbnNFb1Y4b09oSktsZS1Hc1JzR084eEZLQjdaQU9MZUZva0Z1Q29xcUI5QjhlcHl6cUV1Y3JHT3BwQml1VHVNcE9HTUVuRDJwSXAtTDE2NEREdEUxYWlDemZBc1RHYUtnc2JrcmszUXFQS1BDclozM1hRWHdOc25ZQzlabkhSRGhidXlheXVrWHpsSTNsa2NaTldsZEV2MnBZRGxrYkJGbU5IWEdvTQ?oc=5",
-      "source": "Samayam Malayalam",
-      "category": "general",
-      "published_at": "2026-10-28T05:52:23+00:00",
-      "importance": 2,
-      "personal_score": 2.25,
-      "entities": [
-        "കേരള",
-        "ബ്ലാസ്റ്റേഴ്സിന്",
-        "ഇനി",
-        "ജയിക്കണം",
-        "ചെന്നെെയിൻ",
-        "മത്സരത്തിന്",
-        "മുമ്പ്",
-        "എവിടെ",
-        "മാറണം",
-        "ശ്രദ്ധിക്കേണ്ടത്",
-        "ഇക്കാര്യങ്ങൾ",
-        "Kerala Blasters FC"
       ],
       "summary_method": "rss_fallback"
     },
@@ -1087,51 +1091,56 @@
       "summary_method": "tfidf_extractive_full_article"
     },
     {
-      "id": "2cbcdb5c70f77d92",
-      "title": "Flat vs Land in Kerala: വാടക വരുമാനമോ മൂല്യവർദ്ധനവോ? നിക്ഷേപകർ അറിയേണ്ട യാഥാർത്ഥ്യം - The Economic Times Malayalam",
-      "summary": "Flat vs Land in Kerala: വാടക വരുമാനമോ മൂല്യവർദ്ധനവോ? നിക്ഷേപകർ അറിയേണ്ട യാഥാർത്ഥ്യം The Economic Times Malayalam",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPOEhzUTVNaHdvRVM2NkVjRHRFU0lEV3JrMEY0SkdFaFo5enY3WDRRTGlyUjZ3MlBvWXBKR0x5UTdvUDhweGd5UmtHbXR0WjdNeDJYMVVjOXFMeDRDRzNoSS16SkhHM3ZrUzd3WTlsM2NDMTNKRmdWWnBtUHpiZnI4VTZwMVFjc2pQcm9sWG44bUlQYlhmd1VmZXpXMnQyOUJJT1FMeUlBMmQzYTlfbFFnV2lxY3pfOXE1T0HSAb8BQVVfeXFMTWR3c2ZkT0lFaURxRFQ1OEVMek9LRFNHcnV6UkZzQVNoUi1RTU9oaVZuNnFEWkFONlNIcUpjek9lZnBCQVEwQXB6SnFjdHphZHBDVUh4THVRa25TRnMzRUx4czh0bF8xUGxPNG9Rd1Y0UlpEUVdHSkRqUEN2R3JuS2J1NHMzRGpjRWZ4RmlDaGs2d0Fqc1hyOTBvOGdKaGtsbWhfODVoZV9GdDRqNmUzTkJWUGJPWUY3clRGZThVZmM?oc=5",
-      "source": "The Economic Times Malayalam",
+      "id": "068381c822c4ba14",
+      "title": "സ്വര്‍ണം ഇന്നും വില വര്‍ധിച്ചു; വിപണിയില്‍ ട്വിസ്റ്റ്, ആശ്വാസ ഘടകങ്ങള്‍ ബാക്കി, ഇന്നത്തെ പവന്‍ വില",
+      "summary": "അതേസമയം, വിപണിയില്‍ സ്വര്‍ണവില കുറയാനുള്ള സാധ്യതകള്‍ ഇപ്പോഴും ബാക്കിയാണ്.വിജയ് ദേവരകൊണ്ട-രശ്മിക ദമ്പതികള്‍ക്കെതിരെ രൂക്ഷ വിമര്‍ശനം; പോലീസില്‍ പരാതി, പണി വരുന്നുഡോളര്‍ സൂചിക ഉയര്‍ന്നു നില്‍ക്കുന്നു, ക്രൂഡ് ഓയില്‍ വില താഴുന്നില്ല, പണപ്പെരുപ്പം ശക്തമാണ്, രൂപയുടെ മൂല്യത്തില്‍ ചാഞ്ചാട്ടം പ്രകടമാണ് എന്നിവയെല്ലാം സ്വര്‍ണവിലയില്‍ നേരിയ ഇടിവിന് സാധ്യതയുണ്ടെന്ന് വിരല്‍ ചൂണ്ടുന്നു. അമേരിക്കന്‍ കേന്ദ്ര ബാങ്ക് പലിശ നിരക്കില്‍ എന്തു മാറ്റം വരുത്തുമെന്നതിനെ ആശ്രയിച്ചാകും ഇനി സ്വര്‍ണത്തിലെ ഏറ്റക്കുറച്ചിലുകള്‍ സംഭവിക്കുക.കേരളത്തില്‍ ഇന്ന് 22 കാരറ്റ് സ്വര്‍ണം ഗ്രാമിന് 60 രൂപ വര്‍ധിച്ച് 13195 രൂപയായി. അതേസമയം, വെള്ളി വില ഗ്രാമിന് 220 രൂപയില്‍ തുടരുകയാണ്.ഇറാന്‍ ഇടപെട്ടു; സൗദി അറേബ്യ ഹൂതികള്‍ക്ക് 100 കോടി നല്‍കും, മന്ത്രി വന്നത് പണവുമായി- റിപ്പോര്‍ട്ട്ഇന്ന് ബ്രെന്റ് ക്രൂഡ് ഓയില്‍ ബാരല്‍ വില 115 ഡോളറാണ്. അതേസമയം, ഗോള്‍ഡ് ഇടിഎഫിന് സര്‍ക്കാരിന്റെ പിന്‍ബലമില്ലാത്തത് ആശങ്കയാണ്.ആഭരണം എന്ന നിലയില്‍ സ്വര്‍ണം വാങ്ങുന്നവര്‍ കുറഞ്ഞ കാരറ്റിനെ ആശ്രയിക്കുന്നതാണ് നല്ലത്.",
+      "url": "https://malayalam.oneindia.com/news/kerala/gold-rate-today-in-kerala-surge-rs-480-22-18-14-9-carats-gram-pavan-price-details-inside-602495.html",
+      "source": "Oneindia Malayalam News",
       "category": "general",
-      "published_at": "2026-10-27T13:13:15+00:00",
+      "published_at": "2026-10-28T04:32:05+00:00",
       "importance": 2,
       "personal_score": 2.25,
       "entities": [
-        "വാടക",
-        "വരുമാനമോ",
-        "മൂല്യവർദ്ധനവോ",
-        "നിക്ഷേപകർ",
-        "അറിയേണ്ട",
-        "യാഥാർത്ഥ്യം",
-        "Flat",
-        "Land",
-        "The Economic Times Malayalam"
+        "സ്വര്",
+        "ഇന്നും",
+        "വില",
+        "വര്",
+        "ധിച്ചു",
+        "വിപണിയില്",
+        "ട്വിസ്റ്റ്",
+        "ആശ്വാസ",
+        "ഘടകങ്ങള്",
+        "ബാക്കി",
+        "ഇന്നത്തെ",
+        "പവന്"
       ],
-      "summary_method": "rss_fallback"
+      "summary_method": "tfidf_extractive_full_article"
     },
     {
-      "id": "00d1848b73b1779f",
-      "title": "ഇന്ത്യാസഖ്യത്തെ ചെറുക്കാൻ പ്രതിരോധസമരവുമായി ബിജെപി; പദയാത്രയ്ക്ക് തുടക്കം | India Alliance Protest - Asianet News Malayalam",
-      "summary": "ഇന്ത്യാസഖ്യത്തെ ചെറുക്കാൻ പ്രതിരോധസമരവുമായി ബിജെപി; പദയാത്രയ്ക്ക് തുടക്കം | India Alliance Protest Asianet News Malayalam",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNTkpyUjU3OWlEWHExMEhEN1BSekJObF9wSVFlTmxPaXBHbm1VOTRnZW92WkpyTUsxVG5lSURqVG5WZ2lWQjc0U2tYRGhCRER4SW1xN2o2WGFlN20xRHlaMGhGejhNN2FacXIwVUozRk16aldPRTVkOXoxMW5SeG55RDY0cXUtbHhZRXYyQjZoV1pJWXpYeVUzQXpDRTBHOW9NV1VKbFpzVXVyUHlYZGdwS0dSNDJfeW_SAbwBQVVfeXFMTXZ0bFBIT2p2Mkt5N3dnMndyV2lCTmhyblVKcm8tVk45MXltRGg1QTR5eUVEYk9MWEVHbjRWeVVQYkd1N0RwSGFJLUtBZ3N1UjNKM2duZGxzbjg1anV1TTFVTGJway15SUxxWjhxV2RnWG95QnA5WVc1MmN6T1VJQm1SYUJoRXZIVHpCaFU4QktLUFVVWHQzWk9uZlVpSWJKVFBLMDVfVU1zUlpqWUh0WFhBdlM0MXM2X0k3Wnk?oc=5",
-      "source": "Asianet News Malayalam",
+      "id": "dae2b196ad67238b",
+      "title": "ബെംഗളൂരുവിൽ 500 കിലോമീറ്റർ പുതിയ റോഡുകൾ വരുന്നു; പ്രഖ്യാപനവുമായി മുഖ്യമന്ത്രി ഡികെ ശിവകുമാർ",
+      "summary": "നിർദിഷ്‌ട ടണൽ ഇടനാഴിയിൽ 16.5 കിലോമീറ്റർ വടക്ക്-തെക്ക് സ്‌ട്രെച്ചും (17,780 കോടി രൂപ ചെലവ് കണക്കാക്കിയ) 21 കിലോമീറ്റർ കിഴക്ക്-പടിഞ്ഞാറ് ഭാഗവും ഉൾപ്പെടുന്നു.ബെംഗളൂരുവിന് മുമ്പ് വാരണസി; വന്ദേഭാരത് സ്ലീപ്പര്‍ എത്തുക ഒക്ടോബര്‍ 31ന്, രാത്രി 8.50ന് പുറപ്പെടും120 കിലോമീറ്റർ ദൈർഘ്യമുള്ള എലിവേറ്റഡ് കോറിഡോറിന് 23,165 കോടി രൂപയാണ് ചെലവ് കണക്കാക്കുന്നത്, ഇത് നാല് വിഭാഗങ്ങളായി തിരിക്കും. ബെംഗളൂരുവിലെ എംഎൽമാരുമായി തന്റെ ഔദ്യോഗിക വസതിയിൽ നടത്തിയ യോഗത്തിൽ അദ്ദേഹം വർധിച്ചുവരുന്ന ഗതാഗതക്കുരുക്കിനും ജനസംഖ്യയ്ക്കും വാഹനങ്ങളുടെ എണ്ണവും കണക്കിലെടുത്ത് റോഡ് അടിസ്ഥാന സൗകര്യങ്ങൾക്ക് മുൻഗണന നൽകണമെന്ന് അഭിപ്രായപ്പെട്ടു.500 കിലോമീറ്റർ പുതിയ റോഡ് കണക്ഷനുകളിൽ 300 കിലോമീറ്റർ ബഫർ റോഡുകളും മഴവെള്ള അഴുക്കുചാലുകളോടു കൂടിയ ബഫർ റോഡുകളും മുമ്പ് പെരിഫറൽ റിംഗ് റോഡ് എന്ന് അറിയപ്പെട്ടിരുന്ന ബെംഗളൂരു ബിസിനസ് കോറിഡോറിന്റെ (ബിബിസി) 68 കിലോമീറ്ററും ഉൾപ്പെടുന്നു. നിർദിഷ്‌ട പദ്ധതികൾക്ക് ഏകദേശം ഒരു ലക്ഷം കോടി രൂപയുടെ നിക്ഷേപം വേണ്ടിവരുമെന്നും അദ്ദേഹം പറഞ്ഞു.ഗ്രേറ്റർ ബെംഗളൂരു അതോറിറ്റി (ജിബിഎ) പരിധിക്ക് പുറത്തുള്ള 65 ഗ്രാമപഞ്ചായത്തുകളെ നഗര തദ്ദേശ സ്വയംഭരണ സ്ഥാപനങ്ങളാക്കി നവീകരിക്കാനും സർക്കാർ പദ്ധതിയിടുന്നു, കുടിവെള്ളവും മലിനജല അടിസ്ഥാന സൗകര്യങ്ങളും ഘട്ടം ഘട്ടമായി നടപ്പാക്കുമെന്നും അദ്ദേഹം അറിയിച്ചു. ബെംഗളൂരു നഗരത്തിൽ കൂടുതലായി ആളുകൾ എത്തുകയും നഗരം വളരുകയും ചെയ്യുന്ന സാഹചര്യത്തിൽ മുഖ്യമന്ത്രിയുടെ ഈ പ്രഖ്യാപനം ഏറെ പ്രധാനപ്പെട്ടതാണ്.ബെംഗളൂരു ഹെബ്ബാൾ തുരങ്കപാത; 1128 മരങ്ങൾ മുറിക്കുന്നതിനെതിരെ ഹരിത ട്രൈബ്യൂണൽ, ഉത്തരവ് ഇറക്കിപ്രത്യേകിച്ച് കഴിഞ്ഞ കുറച്ചധികം നാളുകളായി ബെംഗളൂരു നഗരത്തിന് ഏറെ വിമർശനങ്ങളും കേൾക്കേണ്ടി വന്നിട്ടുള്ളത് റോഡ് ഉൾപ്പെടെയുള്ള അടിസ്ഥാന സൗകര്യ വികസനങ്ങളുടെ കാര്യത്തിലാണ്.",
+      "url": "https://malayalam.oneindia.com/news/india/500-km-of-new-roads-coming-to-bengaluru-chief-minister-dk-shivakumar-makes-the-announcement-602491.html",
+      "source": "Oneindia Malayalam News",
       "category": "general",
-      "published_at": "2026-10-28T11:36:48+00:00",
+      "published_at": "2026-10-28T02:56:04+00:00",
       "importance": 2,
       "personal_score": 2.25,
       "entities": [
-        "ഇന്ത്യാസഖ്യത്തെ",
-        "ചെറുക്കാൻ",
-        "പ്രതിരോധസമരവുമായി",
-        "ബിജെപി",
-        "പദയാത്രയ്ക്ക്",
-        "തുടക്കം",
-        "India Alliance Protest",
-        "Asianet News Malayalam",
-        "India Alliance Protest Asianet",
-        "News Malayalam"
+        "ബെംഗളൂരുവിൽ",
+        "കിലോമീറ്റർ",
+        "പുതിയ",
+        "റോഡുകൾ",
+        "വരുന്നു",
+        "പ്രഖ്യാപനവുമായി",
+        "മുഖ്യമന്ത്രി",
+        "ഡികെ",
+        "ശിവകുമാർ",
+        "Km Of New Roads",
+        "Coming To Bengaluru",
+        "Chief Minister DK Shivakumar"
       ],
-      "summary_method": "rss_fallback"
+      "summary_method": "tfidf_extractive_full_article"
     },
     {
       "id": "0b1ad803335b170e",
@@ -1159,28 +1168,28 @@
       "summary_method": "rss_fallback"
     },
     {
-      "id": "068381c822c4ba14",
-      "title": "സ്വര്‍ണം ഇന്നും വില വര്‍ധിച്ചു; വിപണിയില്‍ ട്വിസ്റ്റ്, ആശ്വാസ ഘടകങ്ങള്‍ ബാക്കി, ഇന്നത്തെ പവന്‍ വില",
-      "summary": "അതേസമയം, വിപണിയില്‍ സ്വര്‍ണവില കുറയാനുള്ള സാധ്യതകള്‍ ഇപ്പോഴും ബാക്കിയാണ്.വിജയ് ദേവരകൊണ്ട-രശ്മിക ദമ്പതികള്‍ക്കെതിരെ രൂക്ഷ വിമര്‍ശനം; പോലീസില്‍ പരാതി, പണി വരുന്നുഡോളര്‍ സൂചിക ഉയര്‍ന്നു നില്‍ക്കുന്നു, ക്രൂഡ് ഓയില്‍ വില താഴുന്നില്ല, പണപ്പെരുപ്പം ശക്തമാണ്, രൂപയുടെ മൂല്യത്തില്‍ ചാഞ്ചാട്ടം പ്രകടമാണ് എന്നിവയെല്ലാം സ്വര്‍ണവിലയില്‍ നേരിയ ഇടിവിന് സാധ്യതയുണ്ടെന്ന് വിരല്‍ ചൂണ്ടുന്നു. അമേരിക്കന്‍ കേന്ദ്ര ബാങ്ക് പലിശ നിരക്കില്‍ എന്തു മാറ്റം വരുത്തുമെന്നതിനെ ആശ്രയിച്ചാകും ഇനി സ്വര്‍ണത്തിലെ ഏറ്റക്കുറച്ചിലുകള്‍ സംഭവിക്കുക.കേരളത്തില്‍ ഇന്ന് 22 കാരറ്റ് സ്വര്‍ണം ഗ്രാമിന് 60 രൂപ വര്‍ധിച്ച് 13195 രൂപയായി. അതേസമയം, വെള്ളി വില ഗ്രാമിന് 220 രൂപയില്‍ തുടരുകയാണ്.ഇറാന്‍ ഇടപെട്ടു; സൗദി അറേബ്യ ഹൂതികള്‍ക്ക് 100 കോടി നല്‍കും, മന്ത്രി വന്നത് പണവുമായി- റിപ്പോര്‍ട്ട്ഇന്ന് ബ്രെന്റ് ക്രൂഡ് ഓയില്‍ ബാരല്‍ വില 115 ഡോളറാണ്. അതേസമയം, ഗോള്‍ഡ് ഇടിഎഫിന് സര്‍ക്കാരിന്റെ പിന്‍ബലമില്ലാത്തത് ആശങ്കയാണ്.ആഭരണം എന്ന നിലയില്‍ സ്വര്‍ണം വാങ്ങുന്നവര്‍ കുറഞ്ഞ കാരറ്റിനെ ആശ്രയിക്കുന്നതാണ് നല്ലത്.",
-      "url": "https://malayalam.oneindia.com/news/kerala/gold-rate-today-in-kerala-surge-rs-480-22-18-14-9-carats-gram-pavan-price-details-inside-602495.html",
+      "id": "a155fd85f989168a",
+      "title": "ഇപ്പോൾ ഇന്ത്യ വിടേണ്ട, നടൻ ഇമ്രാന്‍ ഖാന് താല്‍ക്കാലിക ആശ്വാസം, നവംബർ 2ന് ഹർജി പരിഗണിക്കും",
+      "summary": "മുഖ്യ തിരഞ്ഞെടുപ്പ് കമ്മീഷണര്‍ ഗ്യാനേഷ് കുമാറിന്റെ രാജി ആവശ്യപ്പെട്ട് മുംബൈയില്‍ നടന്ന പ്രതിഷേധത്തില്‍ പങ്കെടുത്തതിന് പിന്നാലെയാണ് രാജ്യം വിടാന്‍ ആവശ്യപ്പെട്ട് ഫോറിനേഴ്‌സ് റീജിയണല്‍ രജിസ്‌ട്രേഷന്‍ ഓഫീസ് ഇമ്രാന്‍ ഖാന് നോട്ടീസ് അയച്ചത്.ഇമ്രാന്‍ ഖാന് ഇന്ത്യന്‍ പൗരനല്ലെന്നും അമേരിക്കന്‍ പൗരത്വമാണ് ഉളളതെന്നും ചൂണ്ടിക്കാട്ടിയാണ് നടപടി. അത് വരെ ഇമ്രാന്‍ ഖാന് രാജ്യത്ത് തുടരാം.ഹര്‍ജി നവംബര്‍ 2ന് ഹൈക്കോടതി പരിഗണിക്കുന്നത് വരെ ഇമ്രാന്‍ ഖാന് എതിരെ നടപടിയൊന്നും എടുക്കില്ലെന്ന് കേന്ദ്ര സര്‍ക്കാര്‍ കോടതിയെ അറിയിച്ചു. തുടര്‍ന്ന് എഫ്ആര്‍ആര്‍ഒ ഇമ്മിഗ്രേഷന്‍ ആന്‍ഡ് ഫോറിനേഴ്‌സ് ആക്ട് 2025 പ്രകാരം രാജ്യം വിടാന്‍ ആവശ്യപ്പെട്ട് കൊണ്ട് ഇമ്രാന്‍ ഖാന് നോട്ടീസ് നല്‍കുകയായിരുന്നു. ഈ നിയമത്തിലെ ഏഴാം വകുപ്പ് പ്രകാരം വിദേശ പൗരന്മാര്‍ക്ക് ഇന്ത്യയിലേക്ക് വരാനോ പോകാനോ തുടരാനോ അടക്കമുളളവുമായി ബന്ധപ്പെട്ട് കേന്ദ്രസര്‍ക്കാരിന് ഉത്തരവുകളോ നിര്‍ദേശങ്ങളോ നല്‍കാന്‍ സാധിക്കും.എസ്ആഐറിലടക്കം എടുത്ത തീരുമാനങ്ങൾ ഒറ്റക്കെട്ട്, തിരഞ്ഞെടുപ്പ് കമ്മീഷൻ സുപ്രീം കോടതിയിൽ 43കാരനായ ഇമ്രാന്‍ ഖാന് അമേരിക്കന്‍ പൗരത്വമുളള ഓവര്‍സീസ് സിറ്റിസണ്‍ ഓഫ് ഇന്ത്യ കാര്‍ഡ് ഉടമയാണ്.",
+      "url": "https://malayalam.oneindia.com/news/india/actor-imran-khan-gets-temporary-relief-as-court-says-he-need-not-leave-india-now-plea-to-be-heard-o-602465.html",
       "source": "Oneindia Malayalam News",
       "category": "general",
-      "published_at": "2026-10-28T04:32:05+00:00",
-      "importance": 2,
-      "personal_score": 2.25,
+      "published_at": "2026-10-27T14:07:54+00:00",
+      "importance": 1,
+      "personal_score": 1.25,
       "entities": [
-        "സ്വര്",
-        "ഇന്നും",
-        "വില",
-        "വര്",
-        "ധിച്ചു",
-        "വിപണിയില്",
-        "ട്വിസ്റ്റ്",
-        "ആശ്വാസ",
-        "ഘടകങ്ങള്",
-        "ബാക്കി",
-        "ഇന്നത്തെ",
-        "പവന്"
+        "ഇപ്പോൾ",
+        "ഇന്ത്യ",
+        "വിടേണ്ട",
+        "നടൻ",
+        "ഇമ്രാന്",
+        "ഖാന്",
+        "താല്",
+        "ക്കാലിക",
+        "ആശ്വാസം",
+        "നവംബർ",
+        "ഹർജി",
+        "പരിഗണിക്കും"
       ],
       "summary_method": "tfidf_extractive_full_article"
     },
@@ -1201,6 +1210,24 @@
         "Kerala Science Slam",
         "LUCA Science Magazine Kerala",
         "Science Slam",
+        "LUCA Science Magazine"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
+      "id": "be6c635e1a9520a6",
+      "title": "KERALA SCIENCE SLAM’ 24 - LUCA Science Magazine",
+      "summary": "KERALA SCIENCE SLAM’ 24 LUCA Science Magazine",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE51a1d0WmN5eWhTZVFoeFdaTWFPekFYRTVabGU4d0NPcGV2ekY3czdSaURfOVBLTjVObVhqZHktcVEyc2tHZkNLdGpxV19qYUxCNjRMZQ?oc=5",
+      "source": "LUCA Science Magazine",
+      "category": "general",
+      "published_at": "2024-09-26T12:51:59+00:00",
+      "importance": 1,
+      "personal_score": 1.25,
+      "entities": [
+        "KERALA SCIENCE SLAM",
+        "LUCA Science Magazine KERALA",
+        "SCIENCE SLAM",
         "LUCA Science Magazine"
       ],
       "summary_method": "rss_fallback"
@@ -1227,21 +1254,41 @@
       "summary_method": "tfidf_extractive_full_article"
     },
     {
-      "id": "2d2ed7a26892c4c4",
-      "title": "UNICEF urges media to promote inclusive early childhood development, report responsibly on AI",
-      "summary": "Inclusive early childhood development (iECD) seeks to ensure that every child, including those with developmental delays, disabilities, autism and other forms of neurodivergence, has equitable access to healthcare, nutrition, nurturing care, early learning, protection, and early intervention, Deepa Bhaskaran, Director, Child Development Centre (CDC), Thiruvananthapuram, said. Focus on early intervention at UNICEF workshop on inclusive child development Focus on early intervention at UNICEF workshop on inclusive child development Experts suggest intervening when the first signs of autism are identified rather than wait for more to appear Focus on early intervention at UNICEF workshop on inclusive child development storyline 1 “We train and support medical staff and caregivers, improve early identification and intervention, and provide advanced disability inclusive services,” she said. Amar Fettle, State Nodal Officer for Adolescent Health, speaking at the workshop, added that while medical infrastructure and personnel were geared towards clinical care, research, teaching, and community outreach, it was equally important to shape public understanding of children’s issues and government programmes. UNICEF, CII organise conference on investing in children’s development UNICEF, CII organise conference on investing in children’s development Speakers stress the importance of children to enable sustained growth and how private sector can assist in children’s development through corporate social responsibility UNICEF, CII organise conference on investing in children’s development storyline 1 While reporting, subject matter expertise is essential, Muralikrishna Chinnadurai, trainer with the Google News Initiative India Network, said.",
-      "url": "https://www.thehindu.com/sci-tech/health/unicef-urges-media-to-promote-inclusive-early-childhood-development-report-responsibly-on-ai/article71635718.ece",
-      "source": "The Hindu Science and Technology",
+      "id": "050512fdf97f8d81",
+      "title": "PwC confirms learning records breached in attack on vendor site - Cybersecurity Dive",
+      "summary": "PwC confirms learning records breached in attack on vendor site Cybersecurity Dive",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSkV3M3U0MloyUlVuUUZGSEpKRDBXa3lDOUh5eFdrcC1IeGVYck1GbEkyRjcydU1CZHBzMmMwTDE0YWV1eUw4NHlvOS1JUnFmcVNPZHBfYlY2V0FiY1NkemtXa2hoTnA3bnJhUlo5NTFwcDcxYWt4QU5xYzllWV9yY2MxTV9OYWFuYzVRS2JueTNwblZr?oc=5",
+      "source": "Cybersecurity Dive",
       "category": "tech",
-      "published_at": "2026-10-28T13:32:54+00:00",
-      "importance": 9,
-      "personal_score": 9.0,
+      "published_at": "2026-10-26T16:12:17+00:00",
+      "importance": 10,
+      "personal_score": 10.0,
       "entities": [
-        "UNICEF",
-        "AI Workshop",
-        "AI-related"
+        "PwC",
+        "Cybersecurity Dive PwC",
+        "Cybersecurity Dive"
       ],
-      "summary_method": "tfidf_extractive_full_article"
+      "summary_method": "rss_fallback"
+    },
+    {
+      "id": "4cb6108dd378e7a8",
+      "title": "Pakistan’s Artificial Intelligence Warfare - The Diplomat – Asia-Pacific Current Affairs Magazine",
+      "summary": "Pakistan’s Artificial Intelligence Warfare The Diplomat – Asia-Pacific Current Affairs Magazine",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9wLVI2V1pUMFg0ZUl0bkRRMnZPLTNRTXIxaXp1dzludnZNak9tS21sRmE4VG95QmJkS3dfb3daSUNXUmYySS1ueDBHeENRemJBNHAzTHJqdmdiZUV4WE1mNUtqTWpfQ0VaejNFY3YtcVdNT05mTUtENHFlVkpVWUU?oc=5",
+      "source": "The Diplomat – Asia-Pacific Current Affairs Magazine",
+      "category": "tech",
+      "published_at": "2026-10-29T02:15:00+00:00",
+      "importance": 10,
+      "personal_score": 10.0,
+      "entities": [
+        "Pakistan",
+        "Artificial Intelligence Warfare",
+        "The Diplomat",
+        "Asia-Pacific Current Affairs Magazine",
+        "Artificial Intelligence Warfare The",
+        "Diplomat"
+      ],
+      "summary_method": "rss_fallback"
     },
     {
       "id": "ddbb807b718a4ce5",
@@ -1266,6 +1313,25 @@
       "summary_method": "rss_fallback"
     },
     {
+      "id": "1a2d3c096963d636",
+      "title": "In Elections, Cybersecurity Extends Beyond Voting Machines - GovTech",
+      "summary": "In Elections, Cybersecurity Extends Beyond Voting Machines GovTech",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMnFnMVExeXdfWXpuVVpPRTROZ214bTFFbGtfNURoc1FUbnNhaU1ZSlRIZ3dSUlBFdFFkU2d4Y0VUVVF0TUF3ME5oTkMyNGZqaHRfUGlvVV9WajdrS01mNjlPcjdKRjhIMEEwRG5ucUtLcTh6TWxqS0RMejRhNjNTbTRJRHBrTG9OZ3RTU3FuS19RczJ6?oc=5",
+      "source": "GovTech",
+      "category": "tech",
+      "published_at": "2026-10-28T23:19:13+00:00",
+      "importance": 9,
+      "personal_score": 9.0,
+      "entities": [
+        "In Elections",
+        "Cybersecurity Extends Beyond Voting",
+        "Machines",
+        "GovTech In Elections",
+        "Machines GovTech"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
       "id": "36eebb5ee2bec71e",
       "title": "Media association challenges privacy law in Supreme Court",
       "summary": "digitalindia.gov.in digitalindia.gov.in https://th-i.thgim.com/public/latest-news/dd9udj/article71628208.ece/alternates/FREE_1200/Data-protection-bill.jpg A three-judge Bench headed by Chief Justice of India Surya Kant is scheduled to hear a batch of petitions filed by activists on October 27 NEW ​DELHI The Digital News Publishers Association (DNPA), which has members drawn from across the media spectrum, including those owned by the Ambani and Adani Groups, have challenged the Union government’s privacy law as a violation of journalistic freedom. Also read | Supreme Court to examine impact of data protection law on RTI, investigative journalism https://www.thehindu.com/news/national/sc-to-examine-impact-of-dpdp-law-on-rti-investigative-journalism/article71317413.ece The petition filed by the DNPA, which is also listed before the Bench, challenged specific provisions of the Digital Personal Data Protection Act, 2023 and the Digital Personal Data Protection Rules, 2025. The law fails “to provide any exemption in favour of journalistic activity as a distinct class of processing, entitled to constitutional protection under Article 14 and 19(l)(a) of the Constitution of India and threatens the full spectrum of Journalistic activity carried out by journalists, ground reporters, citizens, whistleblowers, RTI activists, and other stakeholders, and strikes at the core of our democratic framework and runs contrary to the basic tenets of the Constitution of India,” the petition said. Section 36 of the DPDP Act, read with Rule 23 and the Seventh Schedule of the DPDP Rules, vested the Central government with an unbridled and standardless authority to requisition any information from any data fiduciary or intermediary, unaccompanied by judicial oversight, any requirement of necessity or proportionality, or notice to the affected data principal.",
@@ -1286,23 +1352,6 @@
       "summary_method": "tfidf_extractive_full_article"
     },
     {
-      "id": "9dce81ae9ac28f07",
-      "title": "Claude is the best security software you aren't using - How-To Geek",
-      "summary": "Claude is the best security software you aren't using How-To Geek",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9icmhZSGI1aWZEWW9tbkhxbkJuTk1KOHRnNGtJQ3gxMlkzQTVfcHFab01EanFGODI3UjU1dDFpVzBrancwSk9DMl9fU1NrRGFTaHpaTzRQWEpBWGVnSVBQN1BtWUU5NGNjWF85NjNwMjJUN0JEN29CeUdCeWI?oc=5",
-      "source": "How-To Geek",
-      "category": "tech",
-      "published_at": "2026-10-28T11:00:15+00:00",
-      "importance": 9,
-      "personal_score": 9.0,
-      "entities": [
-        "Claude",
-        "How-To Geek Claude",
-        "How-To Geek"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
       "id": "10a5b73053ff0164",
       "title": "Cybersecurity Awareness Month 2026: As AI takes centrestage, industry leaders say knowing basics is not e - The Times of India",
       "summary": "Cybersecurity Awareness Month 2026: As AI takes centrestage, industry leaders say knowing basics is not e The Times of India",
@@ -1321,57 +1370,19 @@
       "summary_method": "rss_fallback"
     },
     {
-      "id": "bcbe50e04aaa53db",
-      "title": "Artificial Intelligence could magnify inefficiency, BHP warns - African Mining Market",
-      "summary": "Artificial Intelligence could magnify inefficiency, BHP warns African Mining Market",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQV1diMGxQS2R2TTZFTTc5WXFmYlhTa21IajdtS0ZYS1N1cVdXeVV1Q2NhOXFuTWV6QnBOdktqY0dMUlQ1a0N0RVhpWkFYSTRweWw5bHlJQ2ZVelFIOXZXZ3J0VXpvMFJKZXZGcTdkaTFNNmxYWUlxRE1iZ0dCdzNhSzE1Z3hUSWF5WnJFdGNHSC1NQjZnTnl4WFFpN2IzZERj?oc=5",
-      "source": "African Mining Market",
-      "category": "tech",
-      "published_at": "2026-10-28T06:40:57+00:00",
-      "importance": 9,
-      "personal_score": 9.0,
-      "entities": [
-        "Artificial Intelligence",
-        "BHP",
-        "African Mining Market Artificial",
-        "Intelligence",
-        "African Mining Market"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
-      "id": "bda31c602c0a365e",
-      "title": "Two years on, Karnataka beekeepers continue to face threat from small hive beetle",
-      "summary": "Researchers and professors at the University of Agricultural Sciences Bangalore (UAS-B), GKVK, have identified the small hive beetle as a destructive, invasive scavenger insect that attacks honey bee colonies, bees, honey and pollen. Vijayakumar, principal investigator (PI) and head of the Department of Apiculture at UAS-B, GKVK, explained, “The attack on bees and their colonies by this invasive scavenger insect has doubled over a period of two to three years in apiculture farms located in plains. From Bangladesh, it travelled to West Bengal, Assam, Odisha, Andhra Pradesh, Telangana and finally to Karnataka and the surrounding States.” “It looks like a bedbug and cannot be identified easily. He said that when he moved the bee boxes to the plains from the hills during the rains, as is the practice, in June-July this year, 200 colonies were destroyed in a span of 25 days.",
-      "url": "https://www.thehindu.com/news/national/karnataka/two-years-on-karnataka-beekeepers-continue-to-face-threat-from-small-hive-beetle/article71632177.ece",
+      "id": "2d2ed7a26892c4c4",
+      "title": "UNICEF urges media to promote inclusive early childhood development, report responsibly on AI",
+      "summary": "Inclusive early childhood development (iECD) seeks to ensure that every child, including those with developmental delays, disabilities, autism and other forms of neurodivergence, has equitable access to healthcare, nutrition, nurturing care, early learning, protection, and early intervention, Deepa Bhaskaran, Director, Child Development Centre (CDC), Thiruvananthapuram, said. Focus on early intervention at UNICEF workshop on inclusive child development Focus on early intervention at UNICEF workshop on inclusive child development Experts suggest intervening when the first signs of autism are identified rather than wait for more to appear Focus on early intervention at UNICEF workshop on inclusive child development storyline 1 “We train and support medical staff and caregivers, improve early identification and intervention, and provide advanced disability inclusive services,” she said. Amar Fettle, State Nodal Officer for Adolescent Health, speaking at the workshop, added that while medical infrastructure and personnel were geared towards clinical care, research, teaching, and community outreach, it was equally important to shape public understanding of children’s issues and government programmes. UNICEF, CII organise conference on investing in children’s development UNICEF, CII organise conference on investing in children’s development Speakers stress the importance of children to enable sustained growth and how private sector can assist in children’s development through corporate social responsibility UNICEF, CII organise conference on investing in children’s development storyline 1 While reporting, subject matter expertise is essential, Muralikrishna Chinnadurai, trainer with the Google News Initiative India Network, said.",
+      "url": "https://www.thehindu.com/sci-tech/health/unicef-urges-media-to-promote-inclusive-early-childhood-development-report-responsibly-on-ai/article71635718.ece",
       "source": "The Hindu Science and Technology",
       "category": "tech",
-      "published_at": "2026-10-28T01:30:01+00:00",
+      "published_at": "2026-10-28T13:32:54+00:00",
       "importance": 8,
       "personal_score": 8.0,
       "entities": [
-        "Two",
-        "Karnataka",
-        "Researchers",
-        "University",
-        "Agricultural Sciences Bangalore"
-      ],
-      "summary_method": "tfidf_extractive_full_article"
-    },
-    {
-      "id": "1236f51339f71ae7",
-      "title": "Star Wars Galactic Racer’s roguelike racing mechanics is not for all",
-      "summary": "You play as Shade who is tasked with taking down Kestar’s toxic dominance in the Galactic League, a high-stakes illegal racing circuit where many of the top pilots have a place to earn big bucks after the Empire fell. It also gives you a chance to speak to various memorable characters, interact with your cute monkey-like mechanic Hibi, and the founder of the League Darius Pax, a mechanic himself and the person who has brought on Shade to help him deal with Kestar. The best part of the whole pod racing sequence is when Anakin’s pod starts malfunctioning, and he has to fiddle with switches to redirect power, fix the kaput engine, then run a very cool-looking, firing up sequence even as the pod is running at a mindblowing speed. Star Wars Galactic Racer Publisher: Secret Mode Developer: Fuze Games Price: Approx ₹3,999 on PlayStation 5, Windows, and Xbox Series X/S Little puzzle sequences let you fiddle with your controller buttons the same way, to ignite your engine before the race.",
-      "url": "https://www.thehindu.com/entertainment/star-wars-galactic-racers-roguelike-racing-mechanics-is-not-for-all/article71606266.ece",
-      "source": "The Hindu Science and Technology",
-      "category": "tech",
-      "published_at": "2026-10-28T14:06:21+00:00",
-      "importance": 8,
-      "personal_score": 8.0,
-      "entities": [
-        "Star Wars Galactic Racer",
-        "Any",
-        "RamJet"
+        "UNICEF",
+        "AI Workshop",
+        "AI-related"
       ],
       "summary_method": "tfidf_extractive_full_article"
     },
@@ -1394,24 +1405,6 @@
       "summary_method": "tfidf_extractive_full_article"
     },
     {
-      "id": "e3cfc783351095cf",
-      "title": "CISA, security researchers confirm successful exploitation of PHP flaws - Cybersecurity Dive",
-      "summary": "CISA, security researchers confirm successful exploitation of PHP flaws Cybersecurity Dive",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdUQ0OUh3WHJKT0VwS3ZlR2dONzI0UzNYVl9sRDNIQnNBUzRHaXFDd093VTdQaGlvdmNxT3gwbk1tRlVlUGhSS2xBNGU1TC1fZlhyTWJhZlJOLUxlVkticDNFUkVtWkt5WUFVMUJzLXlaVHNic08tVnJPTFpCQmhka3dYZUtpREFYemZfYjhGajlxWElGNE1nZ3ZBYw?oc=5",
-      "source": "Cybersecurity Dive",
-      "category": "tech",
-      "published_at": "2026-10-27T16:17:18+00:00",
-      "importance": 8,
-      "personal_score": 8.0,
-      "entities": [
-        "CISA",
-        "PHP",
-        "Cybersecurity Dive CISA",
-        "Cybersecurity Dive"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
       "id": "73cc9430404d2eec",
       "title": "Hackers Used 44 AI Agents To Automate Cyberattacks, Researchers Say - NDTV",
       "summary": "Hackers Used 44 AI Agents To Automate Cyberattacks, Researchers Say NDTV",
@@ -1432,80 +1425,6 @@
       "summary_method": "rss_fallback"
     },
     {
-      "id": "a293bcbae48dff90",
-      "title": "Chip war exposes India’s semiconductor vulnerabilities, industry leaders say",
-      "summary": "Chip war exposes India’s semiconductor vulnerabilities, industry leaders say U.S.–China tensions underscore need for domestic technology capabilities and resilient supply chains; industry flags gaps in materials, manufacturing expertise and specialised talent Chennai As geopolitical tensions reshape the global semiconductor industry, India needs to develop its own technology capabilities, reduce critical supply-chain dependencies, and build resilience through international partnerships, industry leaders said at a panel discussion on ‘The Chip War: Technology, Geopolitics and India’s Challenges’ at the Semiconductor Summit 2026 in Chennai. The panellists said India needed to identify areas where it could develop technologies of its own while building domestic manufacturing capabilities and diversifying sources of supply, as countries increasingly seek to secure access to semiconductor technologies, materials and manufacturing capacity. “The tipping point in the industry is going to be advanced packaging,” he said, pointing to the potential of two-and-a-half-dimensional and three-dimensional technologies amid geopolitical tensions and efforts by countries such as the United States to bring advanced manufacturing within their borders. Materials, supply chains key concerns Ravi Bhatkal, vice-president of strategy at MacDermid Alpha Electronics Solutions, said India needed to develop domestic capabilities in mining, refining and materials production while securing supplies from multiple countries for inputs it could not produce locally.",
-      "url": "https://www.thehindu.com/business/Industry/chip-war-exposes-indias-semiconductor-vulnerabilities-industry-leaders-say/article71630743.ece",
-      "source": "The Hindu Technology",
-      "category": "tech",
-      "published_at": "2026-10-27T13:06:40+00:00",
-      "importance": 8,
-      "personal_score": 8.0,
-      "entities": [
-        "Chip",
-        "U.S",
-        "China"
-      ],
-      "summary_method": "tfidf_extractive_full_article"
-    },
-    {
-      "id": "fb096d4e1c9ebd94",
-      "title": "Only 35% of open source projects have a GenAI policy, even as AI-generated code floods in - Express Computer",
-      "summary": "Only 35% of open source projects have a GenAI policy, even as AI-generated code floods in Express Computer",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQSWx4dDY4RnBITGF1d281anFyN0t5S0dSVzg2WWJsQUtjMUxHZThvOWxmNDVVbkkydFVyQTY3SXhjUW5ucm9yQlJGUnpGeWk0a3JwS1RwVWMzYXJ4aXBXYVp4TXphUFYyMzRYU2tLVVA5NERRZDI3cnhsVmxPZ0V1R3FHekVaWVhyZjVJN0x6NXExTmc2MjMyRU5qWU95OWltbjdhcHh3ZDhyVl9qVnZmNDZSOUcyaEhnckExNEdVMUtlSzdOejg3blNzQQ?oc=5",
-      "source": "Express Computer",
-      "category": "tech",
-      "published_at": "2026-10-26T03:47:55+00:00",
-      "importance": 8,
-      "personal_score": 8.0,
-      "entities": [
-        "Only",
-        "GenAI",
-        "AI-generated",
-        "Express Computer Only",
-        "Express Computer"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
-      "id": "c301a7a04772e0a9",
-      "title": "How CISOs Can Secure AI-Driven Software Development - BankInfoSecurity",
-      "summary": "How CISOs Can Secure AI-Driven Software Development BankInfoSecurity",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUWQ0R0NscXdKeXRjbTJCSkh6OHNzQ0lUZXRDdWxNSUhaLUMxNDRSUXF0dEtjQkJiemRNaDZlWTE1N3VkbzRhVXJwQUNNcjFRQ1NpZVNTbkg3Y1VsMHNJeFhDdjFyWDNkVDltZGhQejFnalpuYWNMT3p5RVBTdE9YQTBYNU1wazBmcnRQenRIQ3VMUQ?oc=5",
-      "source": "BankInfoSecurity",
-      "category": "tech",
-      "published_at": "2026-10-27T21:25:24+00:00",
-      "importance": 8,
-      "personal_score": 8.0,
-      "entities": [
-        "How CISOs Can Secure",
-        "AI-Driven Software Development",
-        "BankInfoSecurity How CISOs Can",
-        "Secure AI-Driven Software Development",
-        "BankInfoSecurity"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
-      "id": "fa622ad96df07c02",
-      "title": "India must make its defence chips end-to-end, say scientists",
-      "summary": "Sivathanu Pillai and Deleep Nair warn that imported chips leave network-centric weapons vulnerable, and that waiting until 2030-35 for advanced nodes would be too late CHENNAI India’s increasingly network-centric weapons, from the BrahMos cruise missile to the proposed Sudarshan Chakra air defence shield, will remain vulnerable so long as the semiconductors inside them are imported, senior defence scientists said on Tuesday, calling for chips to be designed, manufactured and packaged end-to-end in the country. So semiconductors play a very important role there.” He added that the Light Combat Aircraft Mark 2 could, on a single mission, process as much data as the entire MiG-21 fleet processed in 1971, and that even Chandrayaan-3’s landing was achieved with semiconductor systems that “was all imported, you know; that was our problem”. Communication links, foreign cloud infrastructure and foreign GPS-based position, navigation and timing systems posed the same problem, he said: “If the cloud is sitting outside, the entire information going through my network-centric warfare system through the cloud, I am compromised.” R&D, minerals The prescription from the panel was end-to-end domestic capability under the India Semiconductor Mission covering materials, design, manufacturing, equipment and human resources, including compound semiconductors such as gallium nitride and silicon carbide, which sit at the front end of radars and imaging systems. Nair said the Tata fab in Gujarat, being set up with a technology licence from Taiwan’s Powerchip Semiconductor Manufacturing Corporation, would bring the 40-nanometre node, on which a lot of applications could run, while packaging plants were coming up under the mission.",
-      "url": "https://www.thehindu.com/sci-tech/technology/india-must-make-its-defence-chips-end-to-end-say-scientists/article71631519.ece",
-      "source": "The Hindu Technology",
-      "category": "tech",
-      "published_at": "2026-10-27T13:09:59+00:00",
-      "importance": 8,
-      "personal_score": 8.0,
-      "entities": [
-        "At The Hindu Semiconductor",
-        "Summit",
-        "V.K. Saraswat",
-        "A. Sivathanu Pillai",
-        "Deleep Nair"
-      ],
-      "summary_method": "tfidf_extractive_full_article"
-    },
-    {
       "id": "064bf21a3ca481d8",
       "title": "SuperPlane 1.0: An open-source software factory - SD Times",
       "summary": "SuperPlane 1.0: An open-source software factory SD Times",
@@ -1519,6 +1438,29 @@
         "SuperPlane",
         "SD Times SuperPlane",
         "SD Times"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
+      "id": "8c32c4a4f12c3589",
+      "title": "LF Energy Research Finds Open Source Software Can Deliver 2-5x Greater Net Value for Grid Operators - Linux Foundation",
+      "summary": "LF Energy Research Finds Open Source Software Can Deliver 2-5x Greater Net Value for Grid Operators Linux Foundation",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPM2t2UjRuMnVNZjVwNE5NYXh5d2FhV25nVjRUekdabkluYmk3eGZBV2NnRmFLemJEZ2VlakkydVFQNDRXUmZBbXBCMkM4M0x1bXhCVjRtelA4MEhCekcyeVJ3Wm1vMFZWNFI4LVAwU2d0cDlreGxqU2JvSndVYlFKRFlIMzhIUjNsYkswM25BOUZWdFNrUEtBYTllbFB6cnlodWZKZVllSkxZWmgzNDI1cDgxTzN1TXRLZkZIOW15bDdCcmt0UDlncU9iQXFLSHJuRjI40gHjAUFVX3lxTE5ZTE4xVFBMTGkzT1BYQ0ZqOFJneF9JaUJOOGJfckpEbVdXU2ZWTDBkV19sZkkwXzFVeXVTc3JTX0l3aElhdVRQOWU4ZVBwMzF2RzBlOVRxUWItZTRIT3ZqZW15cHFRWVhZMGhla2x1QllLcVFIWkxLZXl4SW9PZjlpYjNNV2ZDa3RQaFBTdU5idzBUQnlTNHR5UUhNeHoyRmd1azBzYWFuTV9kd19VSm1XV04yVFVpTVNhOWY3VjdETmJrUEZjT1l4ajNhaV81M1hUTDBJRmZWNGlTZFEtSURHamVN?oc=5",
+      "source": "Linux Foundation",
+      "category": "tech",
+      "published_at": "2026-09-15T07:00:00+00:00",
+      "importance": 8,
+      "personal_score": 8.0,
+      "entities": [
+        "LF Energy Research Finds",
+        "Open Source Software Can",
+        "Deliver",
+        "Greater Net Value",
+        "Grid Operators",
+        "Linux Foundation LF Energy",
+        "Research Finds Open Source",
+        "Software Can Deliver",
+        "Grid Operators Linux Foundation"
       ],
       "summary_method": "rss_fallback"
     },
@@ -1540,59 +1482,19 @@
       "summary_method": "rss_fallback"
     },
     {
-      "id": "f1b46be8b335b691",
-      "title": "Software developer put on PIP within first month after getting laid off, says ‘No idea where I stand’ - Moneycontrol.com",
-      "summary": "Software developer put on PIP within first month after getting laid off, says ‘No idea where I stand’ Moneycontrol.com",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPUDhOZExYbEloaHY0OEloa2tFZXN2ck9wZmEtbVNwR3RrbU1nUnVMeXA4Wm9Kdk9WNE14bkdubkw5di0ydWhOR25yZHZHem42SU9TMWYxc0FBWmhZbWYzbFltTVp0TzNEN094RDF3Q3ZHaGdxTmlraDN0R3JMTXBBQlNLTGtxanZXNlNnZy1fNWlocHV6MWgzamFXR2lBc1o4Y0lEUnpmTkFxN29ZRXZ0alk1b2t1SFBwQlB6Vkpyd0RWV1NoQjh6eHhkUXBudXN6OTF1cjBqUFFWT3J4eVpfcVVYektmemg30gHuAUFVX3lxTE4wVU1SR1pNaHR6MDlSNS1JYkJ1Q1ZhTFBCS2V6M0dzYnF0S1RtYXkzbUd5TjdRcmxhQm52dGtVOUVfeHg3S0d4LVFlNW15MzE4MTNLb1g1Zk8zcGJqay1ucExKeFluZHRzSkh6ZDZ1dWVuQ1U0SjJRUXZhM3VRWk9GYzRJRXMxNTBBS3ZwbThqMzFUNDhYU3pVbVo2Q0hlR1JBbDdjRTJyVFRfUUlIa0VjU1Z6N3NWWW85RDhTYUxRb1dGTE5RWkpQM1oyTVBGZk5oSUUxbWVwaXV3X2NvY2NBQnEzRFpfMUJQZV8tc1E?oc=5",
-      "source": "Moneycontrol.com",
+      "id": "ae6592b00452a50d",
+      "title": "Danish proptech startup raises €1.47 million pre-seed to combine property management and software development - BeBeez International",
+      "summary": "Danish proptech startup raises €1.47 million pre-seed to combine property management and software development BeBeez International",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxORHlBQWdGSmNxd0dtV3h0amN6cWdlZnpCbks2RWR5MFdjWjF5ZHRvYWs1SFJ3LW1tX2l2Z1l3Nmk2cHdoblpSemppcnAyVVVfY3VaTlZnTGp1d19Za3RNcTlpMkQtNkkxcV9jMEt6NmkwUEd2Q1pZZ0V3QUo0bEl6Qk5zWWhwcFdMcGNvcXFLOTJwS2k3YmhNSG1WWDB1cWRKTy1WQm1TSWc4Vl9LNGMzNmk2dlBoR2FxQ1lJZFFiM0Q0a0ZTSXRudXpPaFVzdjhsdTVyekJR?oc=5",
+      "source": "BeBeez International",
       "category": "tech",
-      "published_at": "2026-10-28T04:00:13+00:00",
+      "published_at": "2026-10-28T10:12:50+00:00",
       "importance": 7,
       "personal_score": 7.0,
       "entities": [
-        "Software",
-        "PIP",
-        "Moneycontrol.com Software",
-        "Moneycontrol.com"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
-      "id": "32813571557def80",
-      "title": "Can Indian homegrown smartphone brands compete with global giants?",
-      "summary": "Apple says a small number of iPhone Duo inner display impacted storyline 1 Tech Wrap 2025: How smartphone brands evolved and engaged Tech Wrap 2025: How smartphone brands evolved and engaged The year 2025 wasn’t an easy year for the smartphone brands in India where they had to deal with a steep rupee fall and increasing memory costs leading to price increase Tech Wrap 2025: How smartphone brands evolved and engaged storyline 1 Ai+, a relatively new domestic smartphone maker, shipped over 10 lakh units in the September ending quarter. For example, if we focus on, say, the sub-$200 market, customer preferences might shift strongly toward upper tiers, as is happening now.” Achieving true brand independence demands comprehensive R&D across hardware, software, materials, and apps. Scaling framework Beyond R&D timelines, market dynamics present an equally steep challenge as the Indian smartphone market is a zero-sum game where one brand’s gain is another’s loss, according to Tarun Pathak, Research Director at Counterpoint. Anything above 10% requires massive scale, software differentiation, strong brand pull and tight control over hardware.” Currently, domestic makers like Lava and Ai+ have sustained their presence by filling the vacuum left by foreign rivals that withdrew budget models.",
-      "url": "https://www.thehindu.com/sci-tech/technology/can-indian-homegrown-smartphone-brands-compete-with-global-giants/article71634750.ece",
-      "source": "The Hindu Science and Technology",
-      "category": "tech",
-      "published_at": "2026-10-28T13:04:32+00:00",
-      "importance": 7,
-      "personal_score": 7.0,
-      "entities": [
-        "Can Indian",
-        "October",
-        "However"
-      ],
-      "summary_method": "tfidf_extractive_full_article"
-    },
-    {
-      "id": "e7177494bdd5d1fd",
-      "title": "High Eye Integrates Intelic NEXUS into Airboxer, Expanding Software Integration Capabilities and Mission Modularity - Raksha Anirveda",
-      "summary": "High Eye Integrates Intelic NEXUS into Airboxer, Expanding Software Integration Capabilities and Mission Modularity Raksha Anirveda",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQSFc4RW5tZFV6cmw1am53MDlnRlpOam5KQVpfYkVIZnpqNE05QVR0MUhhUV9qSW9FVzMwUDlnYUpyd0FZeGlIZkFVRTBBOG5JWW9SLUw5azI5Ynl1ZlFTdHpEdFI5Tk5OZ05WTzNFVTNrMWZtTWV1a3NVZ3BPZkpYbFhMZlphUDVJSjlTaC0waExKOHFxb1N2ZE9wekdEaXdQLXEydG9YaHVxb3FzdlExWWR0OFNBVUdwZGJNbG5SQjlCQVBRWjJXcWhObHRPTXcxUE10a1llYnRvT0k?oc=5",
-      "source": "Raksha Anirveda",
-      "category": "tech",
-      "published_at": "2026-10-28T10:52:53+00:00",
-      "importance": 7,
-      "personal_score": 7.0,
-      "entities": [
-        "High Eye Integrates Intelic",
-        "NEXUS",
-        "Airboxer",
-        "Expanding Software Integration Capabilities",
-        "Mission Modularity",
-        "Raksha Anirveda High Eye",
-        "Integrates Intelic NEXUS",
-        "Mission Modularity Raksha Anirveda"
+        "Danish",
+        "BeBeez International Danish",
+        "BeBeez International"
       ],
       "summary_method": "rss_fallback"
     },
@@ -1613,40 +1515,21 @@
       "summary_method": "tfidf_extractive_full_article"
     },
     {
-      "id": "ae6592b00452a50d",
-      "title": "Danish proptech startup raises €1.47 million pre-seed to combine property management and software development - BeBeez International",
-      "summary": "Danish proptech startup raises €1.47 million pre-seed to combine property management and software development BeBeez International",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxORHlBQWdGSmNxd0dtV3h0amN6cWdlZnpCbks2RWR5MFdjWjF5ZHRvYWs1SFJ3LW1tX2l2Z1l3Nmk2cHdoblpSemppcnAyVVVfY3VaTlZnTGp1d19Za3RNcTlpMkQtNkkxcV9jMEt6NmkwUEd2Q1pZZ0V3QUo0bEl6Qk5zWWhwcFdMcGNvcXFLOTJwS2k3YmhNSG1WWDB1cWRKTy1WQm1TSWc4Vl9LNGMzNmk2dlBoR2FxQ1lJZFFiM0Q0a0ZTSXRudXpPaFVzdjhsdTVyekJR?oc=5",
-      "source": "BeBeez International",
+      "id": "a210c6f297e06f55",
+      "title": "Elektrobit and Microchip simplify AUTOSAR software development - Engineering.com",
+      "summary": "Elektrobit and Microchip simplify AUTOSAR software development Engineering.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZHZUVzBHNEt5cThMeTFfRDdYSGdmQV9SOXhzWFo5S2R2dkliNlg2WFJrZ1FDcmNoTmQ3WnRkbzhPNjlEU3hYTldDNExidWFKTEJhYmJHWFBHU3VoTnlaMnRVeVBnZTVZY2hFcHJkSlhYVGpDMHR1MXNBSDF0Z29IbzdJQW53TVRUY2Y0WVI2dTBUcEtvS2c?oc=5",
+      "source": "Engineering.com",
       "category": "tech",
-      "published_at": "2026-10-28T10:12:50+00:00",
+      "published_at": "2026-10-28T08:10:57+00:00",
       "importance": 7,
       "personal_score": 7.0,
       "entities": [
-        "Danish",
-        "BeBeez International Danish",
-        "BeBeez International"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
-      "id": "5b7ec2cdd6abfbe7",
-      "title": "India Weighs US-Style Frontier AI Safeguards As Government Prepares New Law - NDTV",
-      "summary": "India Weighs US-Style Frontier AI Safeguards As Government Prepares New Law NDTV",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNnA1bWpmRE1ITDRBZWVZc0kzVndHZ3hqeGZaYk9SOFhLRWFDVDJXYkgyWk9qdjlteS10TF9HUTM3RHM0WHpxR3htejYwMmtvLU1Ka0x1QWhhU21CTEhaOXF3cktaUTg0YjhHeWxCLThmSm02SXo3QjlZZUxhd19BVEk4SW1JbWsyMDNTMk83WmRCQXhLYkthVDNWMmpKQzdrRFU1c1o4bjdjbzc3WjN4bDROODZFNXhhSkp5R2ZkQVUtMEFLdVIxbNIB0AFBVV95cUxQWUdwMUtHWUpWakxmRExJWjNyT0szZDY2Z0dyYU03LWs3VEJtbFJ3RURDdkxqd0JIODMyTXpIcWhZNU5SU0tUMXptMnJLMVdCVzF3b2t0cVlEaE9hakFyQTFQT0dlNS1EOUxUdXlxWkhrcW1HTU05bUFTMlA3ZWQ2blNiemIwWE94R0FrN0NfZ1VEZ1NUQmlzUGtRTWpJZGI5ZElQS1lnNDh6dXdLUTY5M1M5UXR1UllJeXdwLUl1cDdrN0FfQkhKZkV1d0l0TWIx?oc=5",
-      "source": "NDTV",
-      "category": "tech",
-      "published_at": "2026-10-28T03:09:15+00:00",
-      "importance": 7,
-      "personal_score": 7.0,
-      "entities": [
-        "India Weighs US-Style Frontier",
-        "AI Safeguards As Government",
-        "Prepares New Law",
-        "NDTV India Weighs US-Style",
-        "Frontier AI Safeguards As",
-        "Government Prepares New Law",
-        "NDTV"
+        "Elektrobit",
+        "Microchip",
+        "AUTOSAR",
+        "Engineering.com Elektrobit",
+        "Engineering.com"
       ],
       "summary_method": "rss_fallback"
     },
@@ -1675,45 +1558,21 @@
       "summary_method": "rss_fallback"
     },
     {
-      "id": "a210c6f297e06f55",
-      "title": "Elektrobit and Microchip simplify AUTOSAR software development - Engineering.com",
-      "summary": "Elektrobit and Microchip simplify AUTOSAR software development Engineering.com",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZHZUVzBHNEt5cThMeTFfRDdYSGdmQV9SOXhzWFo5S2R2dkliNlg2WFJrZ1FDcmNoTmQ3WnRkbzhPNjlEU3hYTldDNExidWFKTEJhYmJHWFBHU3VoTnlaMnRVeVBnZTVZY2hFcHJkSlhYVGpDMHR1MXNBSDF0Z29IbzdJQW53TVRUY2Y0WVI2dTBUcEtvS2c?oc=5",
-      "source": "Engineering.com",
+      "id": "a293bcbae48dff90",
+      "title": "Chip war exposes India’s semiconductor vulnerabilities, industry leaders say",
+      "summary": "Chip war exposes India’s semiconductor vulnerabilities, industry leaders say U.S.–China tensions underscore need for domestic technology capabilities and resilient supply chains; industry flags gaps in materials, manufacturing expertise and specialised talent Chennai As geopolitical tensions reshape the global semiconductor industry, India needs to develop its own technology capabilities, reduce critical supply-chain dependencies, and build resilience through international partnerships, industry leaders said at a panel discussion on ‘The Chip War: Technology, Geopolitics and India’s Challenges’ at the Semiconductor Summit 2026 in Chennai. The panellists said India needed to identify areas where it could develop technologies of its own while building domestic manufacturing capabilities and diversifying sources of supply, as countries increasingly seek to secure access to semiconductor technologies, materials and manufacturing capacity. “The tipping point in the industry is going to be advanced packaging,” he said, pointing to the potential of two-and-a-half-dimensional and three-dimensional technologies amid geopolitical tensions and efforts by countries such as the United States to bring advanced manufacturing within their borders. Materials, supply chains key concerns Ravi Bhatkal, vice-president of strategy at MacDermid Alpha Electronics Solutions, said India needed to develop domestic capabilities in mining, refining and materials production while securing supplies from multiple countries for inputs it could not produce locally.",
+      "url": "https://www.thehindu.com/business/Industry/chip-war-exposes-indias-semiconductor-vulnerabilities-industry-leaders-say/article71630743.ece",
+      "source": "The Hindu Technology",
       "category": "tech",
-      "published_at": "2026-10-28T08:10:57+00:00",
+      "published_at": "2026-10-27T13:06:40+00:00",
       "importance": 7,
       "personal_score": 7.0,
       "entities": [
-        "Elektrobit",
-        "Microchip",
-        "AUTOSAR",
-        "Engineering.com Elektrobit",
-        "Engineering.com"
+        "Chip",
+        "U.S",
+        "China"
       ],
-      "summary_method": "rss_fallback"
-    },
-    {
-      "id": "3afd2d31f8ca0cf2",
-      "title": "Amazon Revises Software Engineer Guidelines, Says AI Will Become Central to Coding - News18",
-      "summary": "Amazon Revises Software Engineer Guidelines, Says AI Will Become Central to Coding News18",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPWGQxRmtHLVhqWXlNVndfRE9SVFdYYjZ2bkV2VC01U3JwVHdVUHJMOUFWLTdhczMyc0w4LS1qZjRDbjhjdDdxLUJQWmp4ZXp0VkVHSTREU0xnWGRZVFhXcFpwVnd5Q2NVWEFKUllkQW41djhzQm9QSzJNYUhZVm9TVkRtSDJNUE9CMVJEUkozQ1JNUWJzS2xEb254UWxRcmFTVEZpaUFXOGVoYTc1SXFxZFpDbmg3bFF2dmJTY2M4Z09DNzNHMXBR0gHMAUFVX3lxTE5mdThxV01jYTdtMVBhWTR0YmIwSTNRZTktZ0l2ejExUWtwT0NKSDZoV2h2RENSZnZpdVZyem95UHFVWmpGTXFyYmprOXdWZnpWNEtwTTljbU5RNGVDbUE5S01LM200SGRqMzBKSGMtZmNudmhSSGR0YVF3WW1NSzRNOXkzOTY2WExvdWtuaU9JU3EzRXFYeGtQaDkxUmd5N0tFbWpxRXVzZmRMWFBUZV82S1pLZl8zQkV5dkxHME5uUEV6bnJYczdxbmhGeg?oc=5",
-      "source": "News18",
-      "category": "tech",
-      "published_at": "2026-10-28T09:54:01+00:00",
-      "importance": 7,
-      "personal_score": 7.0,
-      "entities": [
-        "Amazon Revises Software Engineer",
-        "Guidelines",
-        "Says AI Will Become",
-        "Central",
-        "Coding",
-        "News18 Amazon Revises Software",
-        "Engineer Guidelines",
-        "Coding News18"
-      ],
-      "summary_method": "rss_fallback"
+      "summary_method": "tfidf_extractive_full_article"
     },
     {
       "id": "d0cc98d5015e75fc",
@@ -1722,7 +1581,7 @@
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMEx1NUduTDlPbnlDSmY2YzJVV2xTbDljcnNfOHlFbjRVYThsZmhzTm85M192QjExZ0lUaDZldTFyM3VHY0dDb1h3aHhJTGFQcUVxQ0tQX0ZsNHNxUDlrNzY5VWlmb3B4R1cwMUVPYkhyM3lRUFpVRDhPOXdRdnpCRVVOcUVPcVB6emNLTUQ3N0xCaUMyTGJjdVVqN3JWajg?oc=5",
       "source": "planadviser",
       "category": "tech",
-      "published_at": "2026-10-28T18:37:06+00:00",
+      "published_at": "2026-10-28T21:52:59+00:00",
       "importance": 7,
       "personal_score": 7.0,
       "entities": [
@@ -1731,6 +1590,25 @@
         "Cybersecurity Strategy"
       ],
       "summary_method": "rss_fallback"
+    },
+    {
+      "id": "fa622ad96df07c02",
+      "title": "India must make its defence chips end-to-end, say scientists",
+      "summary": "Sivathanu Pillai and Deleep Nair warn that imported chips leave network-centric weapons vulnerable, and that waiting until 2030-35 for advanced nodes would be too late CHENNAI India’s increasingly network-centric weapons, from the BrahMos cruise missile to the proposed Sudarshan Chakra air defence shield, will remain vulnerable so long as the semiconductors inside them are imported, senior defence scientists said on Tuesday, calling for chips to be designed, manufactured and packaged end-to-end in the country. So semiconductors play a very important role there.” He added that the Light Combat Aircraft Mark 2 could, on a single mission, process as much data as the entire MiG-21 fleet processed in 1971, and that even Chandrayaan-3’s landing was achieved with semiconductor systems that “was all imported, you know; that was our problem”. Communication links, foreign cloud infrastructure and foreign GPS-based position, navigation and timing systems posed the same problem, he said: “If the cloud is sitting outside, the entire information going through my network-centric warfare system through the cloud, I am compromised.” R&D, minerals The prescription from the panel was end-to-end domestic capability under the India Semiconductor Mission covering materials, design, manufacturing, equipment and human resources, including compound semiconductors such as gallium nitride and silicon carbide, which sit at the front end of radars and imaging systems. Nair said the Tata fab in Gujarat, being set up with a technology licence from Taiwan’s Powerchip Semiconductor Manufacturing Corporation, would bring the 40-nanometre node, on which a lot of applications could run, while packaging plants were coming up under the mission.",
+      "url": "https://www.thehindu.com/sci-tech/technology/india-must-make-its-defence-chips-end-to-end-say-scientists/article71631519.ece",
+      "source": "The Hindu Technology",
+      "category": "tech",
+      "published_at": "2026-10-27T13:09:59+00:00",
+      "importance": 7,
+      "personal_score": 7.0,
+      "entities": [
+        "At The Hindu Semiconductor",
+        "Summit",
+        "V.K. Saraswat",
+        "A. Sivathanu Pillai",
+        "Deleep Nair"
+      ],
+      "summary_method": "tfidf_extractive_full_article"
     },
     {
       "id": "51fe1728cf052078",
@@ -1793,6 +1671,23 @@
       "summary_method": "tfidf_extractive_full_article"
     },
     {
+      "id": "32813571557def80",
+      "title": "Can Indian homegrown smartphone brands compete with global giants?",
+      "summary": "Apple says a small number of iPhone Duo inner display impacted storyline 1 Tech Wrap 2025: How smartphone brands evolved and engaged Tech Wrap 2025: How smartphone brands evolved and engaged The year 2025 wasn’t an easy year for the smartphone brands in India where they had to deal with a steep rupee fall and increasing memory costs leading to price increase Tech Wrap 2025: How smartphone brands evolved and engaged storyline 1 Ai+, a relatively new domestic smartphone maker, shipped over 10 lakh units in the September ending quarter. For example, if we focus on, say, the sub-$200 market, customer preferences might shift strongly toward upper tiers, as is happening now.” Achieving true brand independence demands comprehensive R&D across hardware, software, materials, and apps. Scaling framework Beyond R&D timelines, market dynamics present an equally steep challenge as the Indian smartphone market is a zero-sum game where one brand’s gain is another’s loss, according to Tarun Pathak, Research Director at Counterpoint. Anything above 10% requires massive scale, software differentiation, strong brand pull and tight control over hardware.” Currently, domestic makers like Lava and Ai+ have sustained their presence by filling the vacuum left by foreign rivals that withdrew budget models.",
+      "url": "https://www.thehindu.com/sci-tech/technology/can-indian-homegrown-smartphone-brands-compete-with-global-giants/article71634750.ece",
+      "source": "The Hindu Science and Technology",
+      "category": "tech",
+      "published_at": "2026-10-28T13:04:32+00:00",
+      "importance": 6,
+      "personal_score": 6.0,
+      "entities": [
+        "Can Indian",
+        "October",
+        "However"
+      ],
+      "summary_method": "tfidf_extractive_full_article"
+    },
+    {
       "id": "5e6f46bdd46b9225",
       "title": "Apple reports ₹650 crore India software revenue in FY26: Report - electronics.economictimes.indiatimes.com",
       "summary": "Apple reports ₹650 crore India software revenue in FY26: Report electronics.economictimes.indiatimes.com",
@@ -1836,24 +1731,6 @@
       "summary_method": "tfidf_extractive_full_article"
     },
     {
-      "id": "91566b93270dbb9e",
-      "title": "What was leaked in the Censor Board data breach? | Explained",
-      "summary": "Photo: CBFC website https://th-i.thgim.com/public/sci-tech/technology/8vcv78/article71625823.ece/alternates/FREE_1200/cbfc.jpg The Hindu reported over the weekend that entire application forms to the censor board by filmmakers, including commercially sensitive distribution agreements, were lying exposed on the Internet Archive NEW DELHI The story so far: A data breach at the Central Board of Film Certification (CBFC) left hundreds of applications’ data exposed online, The Hindu found. CBFC cut lists vanish from website, marked ‘under maintenance’ storyline 1 In what could be the most sensitive of the exposed documents, film distribution agreements — both from international filmmakers distributing into India and Indian filmmakers authorising dubbed versions in a different part of the country — were exposed. CBFC says it cannot certify movies that undermine social harmony CBFC says it cannot certify movies that undermine social harmony It files a counter affidavit before the Madras High Court defending its decision to deny certification to Lakshmi-Lawrence Kadhal CBFC says it cannot certify movies that undermine social harmony storyline 1 “Commercial agreements in the film industry often contain carefully negotiated provisions governing creative control, casting, remuneration, profit-sharing, intellectual property rights, promotional obligations, and even specific conditions concerning a film’s storyline, portrayal or production,” Vasundhara S., managing partner at Verum Legal told The Hindu. “Such disclosures can weaken negotiating positions, reveal commercially valuable information, influence future contractual negotiations and potentially expose parties to disputes arising from confidentiality obligations.” “If I am a competing party or a counterparty, I’d be in a much better position to negotiate now that I have confirmation as to what terms these guys would agree to for certain types of works, beyond what is generally known in the market,” Abhinav Hansaraman, a commercial lawyer in Delhi said.",
-      "url": "https://www.thehindu.com/sci-tech/technology/what-was-leaked-in-the-censor-board-data-breach-explained/article71625769.ece",
-      "source": "The Hindu Technology",
-      "category": "tech",
-      "published_at": "2026-10-26T06:13:00+00:00",
-      "importance": 6,
-      "personal_score": 6.0,
-      "entities": [
-        "What",
-        "Censor Board",
-        "Explained The Hindu",
-        "Internet Archive"
-      ],
-      "summary_method": "tfidf_extractive_full_article"
-    },
-    {
       "id": "493354c97d781237",
       "title": "[Webinar Alert] Building Secure and Scalable Enterprise Applications in the Age of AI With Aurigo - Analytics India Magazine",
       "summary": "[Webinar Alert] Building Secure and Scalable Enterprise Applications in the Age of AI With Aurigo Analytics India Magazine",
@@ -1874,6 +1751,24 @@
         "India Magazine"
       ],
       "summary_method": "rss_fallback"
+    },
+    {
+      "id": "91566b93270dbb9e",
+      "title": "What was leaked in the Censor Board data breach? | Explained",
+      "summary": "Photo: CBFC website https://th-i.thgim.com/public/sci-tech/technology/8vcv78/article71625823.ece/alternates/FREE_1200/cbfc.jpg The Hindu reported over the weekend that entire application forms to the censor board by filmmakers, including commercially sensitive distribution agreements, were lying exposed on the Internet Archive NEW DELHI The story so far: A data breach at the Central Board of Film Certification (CBFC) left hundreds of applications’ data exposed online, The Hindu found. CBFC cut lists vanish from website, marked ‘under maintenance’ storyline 1 In what could be the most sensitive of the exposed documents, film distribution agreements — both from international filmmakers distributing into India and Indian filmmakers authorising dubbed versions in a different part of the country — were exposed. CBFC says it cannot certify movies that undermine social harmony CBFC says it cannot certify movies that undermine social harmony It files a counter affidavit before the Madras High Court defending its decision to deny certification to Lakshmi-Lawrence Kadhal CBFC says it cannot certify movies that undermine social harmony storyline 1 “Commercial agreements in the film industry often contain carefully negotiated provisions governing creative control, casting, remuneration, profit-sharing, intellectual property rights, promotional obligations, and even specific conditions concerning a film’s storyline, portrayal or production,” Vasundhara S., managing partner at Verum Legal told The Hindu. “Such disclosures can weaken negotiating positions, reveal commercially valuable information, influence future contractual negotiations and potentially expose parties to disputes arising from confidentiality obligations.” “If I am a competing party or a counterparty, I’d be in a much better position to negotiate now that I have confirmation as to what terms these guys would agree to for certain types of works, beyond what is generally known in the market,” Abhinav Hansaraman, a commercial lawyer in Delhi said.",
+      "url": "https://www.thehindu.com/sci-tech/technology/what-was-leaked-in-the-censor-board-data-breach-explained/article71625769.ece",
+      "source": "The Hindu Technology",
+      "category": "tech",
+      "published_at": "2026-10-26T06:13:00+00:00",
+      "importance": 6,
+      "personal_score": 6.0,
+      "entities": [
+        "What",
+        "Censor Board",
+        "Explained The Hindu",
+        "Internet Archive"
+      ],
+      "summary_method": "tfidf_extractive_full_article"
     },
     {
       "id": "f183f70d12b92f00",
@@ -1898,24 +1793,6 @@
       "summary_method": "tfidf_extractive_full_article"
     },
     {
-      "id": "d86bebe855300c10",
-      "title": "Will the price caps on cancer drugs help bring down the cost of treatment?",
-      "summary": "“But it remains to be seen how this cap will actually reduce what patients pay.” ₹8,447 crore in medicine overcharging claims remain outstanding as SC seeks wider price controls ₹8,447 crore in medicine overcharging claims remain outstanding as SC seeks wider price controls The outstanding amount is more than five times the amount realised and accounts for about 84% of the cumulative demand ₹8,447 crore in medicine overcharging claims remain outstanding as SC seeks wider price controls storyline 1 Survival versus solvency Cancer is said to be India’s leading cause of catastrophic health spending. But the profits they earn cannot can’t be disproportionate forever.” Significant number of cancer drugs don’t fall within price control mechanisms, says report Significant number of cancer drugs don’t fall within price control mechanisms, says report “This regulatory non-inclusion has led to excessive and often unaffordable pricing, thereby limiting access for a large section of the patient population,” the Committee on Petitions said in its report to Parliament Significant number of cancer drugs don’t fall within price control mechanisms, says report storyline 1 The price of exclusivity Drug patents are another issue, point out experts. Health groups seek regulation of private hospital charges, medicine margins Health groups seek regulation of private hospital charges, medicine margins JSA, Working Group on Access to Medicines and Treatment call for ceilings on hospital charges and trade margins; they say absence of a uniform mechanism to regulate hospital charges had left patients vulnerable to hefty bills Health groups seek regulation of private hospital charges, medicine margins storyline 1 Limits of control Murali Neelakantan, principal lawyer at advisory firm, amicus, calls price controls a “terrible” solution to a demand-supply mismatch. The government, he says, can intervene by building more government hospitals using the Rs 1.5 lakh crore available in the Employees’ State Insurance Corporation, and by procuring goods and services from private healthcare providers in an efficient manner rather than through fragmented schemes.”According to Neelakantan, The scale of procurement gives the government immense economic power to influence demand and facilitate price discovery and stabilisation, he points out.",
-      "url": "https://www.thehindu.com/sci-tech/health/will-the-price-caps-on-cancer-drugs-help-bring-down-the-cost-of-treatment/article71634327.ece",
-      "source": "The Hindu Science and Technology",
-      "category": "tech",
-      "published_at": "2026-10-28T13:57:01+00:00",
-      "importance": 6,
-      "personal_score": 6.0,
-      "entities": [
-        "Will",
-        "For",
-        "Experts",
-        "Patients"
-      ],
-      "summary_method": "tfidf_extractive_full_article"
-    },
-    {
       "id": "4fb7c77d0863e7fe",
       "title": "Software Development Was Built For Humans. AI Changes That. - Forbes",
       "summary": "Software Development Was Built For Humans. AI Changes That. Forbes",
@@ -1935,19 +1812,23 @@
       "summary_method": "rss_fallback"
     },
     {
-      "id": "59c636bf414539ee",
-      "title": "Introducing the Elephant-Goldfish Model plugin: scaling design-driven AI software development - Google Open Source Blog",
-      "summary": "Introducing the Elephant-Goldfish Model plugin: scaling design-driven AI software development Google Open Source Blog",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNEVzQWlUWnd4ekJrMDcxZDZ0TmVRcS1TMmtWbkIwSTJqRnhTcGNRMWExSW1ZR1hPSUxIYkVzbXpzY2t6dDdNLTVmLWp3d201TGZ5bjM4VnZoRFZQalc5VUVsZkM3VHotaEpjcXhHc1J2YVdua25sU3hROXRZSW52R3N3MUlxZDVUT3B0WFRmMlJNcWs?oc=5",
-      "source": "Google Open Source Blog",
+      "id": "e793f54563ad3f1d",
+      "title": "Google launches Gemini 4 Carbon AI model with cybersecurity focus - Reuters",
+      "summary": "Google launches Gemini 4 Carbon AI model with cybersecurity focus Reuters Gemini 4 Carbon: our next frontier model blog.google Google unveils Gemini 4 Carbon with advanced cybersecurity features By Investing.com Investing.com India",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNLXQyWUp5N0QwdVRZWXFkd1M5b2RrcExtNVBJS0JKaDdhaG1DQThXeEVlUWVWQUNPTjNOak9ZSnZlQjhDUkNIT2oxSlJrSjlJSkVSMVZFMW5acXV1N0l5bWxKTU1CNmtzZVM3U2dZVE5RbHlrZ2k5LTljM2FnNDVLM3NFbGI4N1hSMVIyQ2FNZXZYY0ZuNV9KR0lQYzdxT2RGdzkxamkzLXloVUVmLUhmdUZ3?oc=5",
+      "source": "Reuters",
       "category": "tech",
-      "published_at": "2026-10-22T18:32:12+00:00",
+      "published_at": "2026-10-28T18:12:49+00:00",
       "importance": 6,
       "personal_score": 6.0,
       "entities": [
-        "Introducing",
-        "Elephant-Goldfish Model",
-        "Google Open Source Blog"
+        "Google",
+        "Gemini",
+        "Carbon AI",
+        "Reuters Google",
+        "Reuters Gemini",
+        "Carbon",
+        "By Investing.com Investing.com India"
       ],
       "summary_method": "rss_fallback"
     },
@@ -1970,39 +1851,73 @@
       "summary_method": "rss_fallback"
     },
     {
-      "id": "1170b302a751e35e",
-      "title": "‘India has engineers, but needs more chip-ready ones’",
-      "summary": "India was home to 20% of the world’s semiconductor design talent, she said, but manufacturing was still nascent, leaving a shortfall across outsourced semiconductor assembly and test (OSAT), wafer fabrication, materials and machines, which is a gap the India Semiconductor Mission, in its first phase and now its second, has been expanding beyond fabrication and OSAT to address across the ecosystem. student in Electronics and Communication Engineering at SRM Institute of Science and Technology and the panel’s student voice, said students tended to become “the first customers for the chip, building projects on it, rather than the true designers”, with many projects in robotics and embedded systems but few in designing chips. Ranjith said the All India Council for Technical Education had restructured the curriculum in 2023 based on industry needs and industry sat on the Boards of Studies of universities such as SRM and Anna University, but the real challenge was dedicated resources and sustained investment, including in centres of excellence. It taught him to submit on a deadline and to take ownership of his work, he said, and, in a conversation with an application engineer who had built the chip, about implementing a programme in Rust, that “there are multiple roles required to get a chip to where it is today and give it purpose”.",
-      "url": "https://www.thehindu.com/business/Industry/india-has-engineers-but-needs-more-chip-ready-ones/article71631494.ece",
-      "source": "The Hindu Technology",
+      "id": "da731131f30f17f3",
+      "title": "Software factories: AI agents write code, people ship it - R&D World",
+      "summary": "Software factories: AI agents write code, people ship it R&D World",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPcU04REtLUnlMZkw5Sk1fRThPNm5VRXBMQ2dJZ21jZVZHZnZtUWpvTklWcHlSY1ZOeEJ4dUp3V3I3am5vMjA4TU1nZExUbDdfeXJOVk1COXI1SkVKZkdrTElMV19HZDhsZmtDMkR4T3BZVThyUXhLMU5idkFndURGQTNEaTUxNVV6OEdsdnJ2dWwxbnlWcTRub2JnVkJYbUtMRjUzRDVIY1dyTnQ1MHZ0aktzcmdsOG9FcGNvem5lbWdOeGRMaEh4QVVtRFFJMDFaemdfaG5fSUxrVURITXBIbFhvTzhFNlpPUGc0aw?oc=5",
+      "source": "R&D World",
       "category": "tech",
-      "published_at": "2026-10-27T13:05:23+00:00",
+      "published_at": "2026-10-27T11:32:34+00:00",
       "importance": 6,
       "personal_score": 6.0,
       "entities": [
-        "At The Hindu Semiconductor",
-        "Summit"
+        "Software",
+        "R&D World Software",
+        "R&D World"
       ],
-      "summary_method": "tfidf_extractive_full_article"
+      "summary_method": "rss_fallback"
     },
     {
-      "id": "8d0f4b93f8bbe64d",
-      "title": "Linux Foundation and Industry Leaders Launch Akrites to Defend Critical Open Source Software Against AI-Enabled Cyber Threats - Linux Foundation",
-      "summary": "Linux Foundation and Industry Leaders Launch Akrites to Defend Critical Open Source Software Against AI-Enabled Cyber Threats Linux Foundation",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOVFJpUjhOZHF3TFVOekI2RVJVUHM2cUU5X3B2TGs2X19yRUMzVUY3UDByblN6VjJnV2s1cFZmaVJiZVZCLXh4NTVjd0ptdkNRa3RpOW8waVA1Mlo3bXdteWY1U1MybXJXaTBubVg2Z25nUHpsS0QtZXU0STdDLVZTRlM4bnpmRVltejVSOGtiS3QwMndYa3pteTJURUdTbU5nWl81TlVHdTdTM0dvNHF3TnVLanZ6bVRxWUFTN3l5T1lyeHhoQ2VMNzZKemRzTWZKa1R0ZVY5RzAyX1RxUW9kUVlMc2Z4TlNkRFJVSkROaHp6ZGlXWmfSAYYCQVVfeXFMT2VtR0RMWkhPMVZFUUx5bGJONXk0Yi1UZFBlNDF1WnB6eDdqRHA1TF82Z2ZmNlJmYU1TWl8ya3ZWRTZwdVZQcWp5MXhiU1Q1TFh4ZlJPcUg5WGlCUVg3LU5Wc3N6UzlXWFhLTGJwaEhlR3p5RW15Z1FsZ0RKRVhXSTVHNVJ1eXJzSUt1WWJJSmRfWDFiZDFsVUdTTVVkNzVia21HSHluYlhBMHJfY0FTMnhiWUx2ZkxZemxlck5pSDdIdDhIRW9RaHVULUFFSHhWeUZiNWxONnpkM2J0VXRMbUNpVFZ0Y0o3WWt5cVFLdVZLUkh6ZTF5WWVfRzZpblFIdWRUQk01dw?oc=5",
-      "source": "Linux Foundation",
+      "id": "6b8d92eeaacc3c96",
+      "title": "The Future of Software Development Is Human + AI - Nasscom",
+      "summary": "The Future of Software Development Is Human + AI Nasscom",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOb2hNUTE0Zk54bWtPV2l5LW5lYWNWYml5Ny1zUThkcGxmSXhNZTFIWk9pYVBKYksxSGFzRHhndGVnZFN5SHViQ0hHWUdQMGtaNWJRU1BoTmwyNFJWLU80ZzdjWXZ5V1QwM3lsdHkzWXRYZEo5WE04OTIyOUVzcnFUVzVhRTJ3TUE?oc=5",
+      "source": "Nasscom",
       "category": "tech",
-      "published_at": "2026-06-25T07:00:00+00:00",
+      "published_at": "2026-10-23T08:54:49+00:00",
       "importance": 6,
       "personal_score": 6.0,
       "entities": [
-        "Linux Foundation",
-        "Industry Leaders Launch Akrites",
-        "Defend Critical Open Source",
-        "Software Against AI-Enabled Cyber",
-        "Threats",
-        "Linux Foundation Linux Foundation",
-        "Threats Linux Foundation"
+        "The Future",
+        "Software Development Is Human",
+        "Nasscom The Future",
+        "AI Nasscom"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
+      "id": "cb225376e089f64d",
+      "title": "Survey: AI Coding Tools Increase Open Source Software Dependencies - DevOps.com",
+      "summary": "Survey: AI Coding Tools Increase Open Source Software Dependencies DevOps.com",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORzdQbWRoOS13cWJhdVpYcy15amo4Ymg4LUYzNUpUdG1ONVFpX05ZaFNIdTdpZ0FISEhiTzI0eHV3TTVyRGJFM2VaYzhPRmo0bDB4VjBldWdtTWl0d2trNlVmdWxTOVRvX1RpalcwS1FDV25oMm1CQXR5di1Hc3FManZ5ZDBMQmdWck01Sw?oc=5",
+      "source": "DevOps.com",
+      "category": "tech",
+      "published_at": "2026-10-21T18:10:37+00:00",
+      "importance": 6,
+      "personal_score": 6.0,
+      "entities": [
+        "Survey",
+        "AI Coding Tools Increase",
+        "Open Source Software Dependencies",
+        "DevOps.com Survey",
+        "DevOps.com"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
+      "id": "9d11cd0dd9eb90a1",
+      "title": "European companies urged to play more active role in open source software development - Tech.eu",
+      "summary": "European companies urged to play more active role in open source software development Tech.eu",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNV2xXMWFMaHR2QWJEYWM1QVlqTHVzQjFJSEUzTGstSk5VRS1QU3hGU1FIQXhWUlhHUmd1SnVJYnQ1a1gwakc1SGx3Zk9LN1p3ZGRoZ1lGdDljRFpEWmw1RnYzbDVzalRsbGFSREpnQ1RhUG04QjNNR25CYVVJTGRSQmNqTHQ5Qm1FejMwSVEtdXU5bnVLQldpd1ByTmppdHdKN2JQNkcyQ3U0YXJuU3lfUm03aw?oc=5",
+      "source": "Tech.eu",
+      "category": "tech",
+      "published_at": "2026-10-23T08:16:46+00:00",
+      "importance": 6,
+      "personal_score": 6.0,
+      "entities": [
+        "European",
+        "Tech.eu European",
+        "Tech.eu"
       ],
       "summary_method": "rss_fallback"
     },
@@ -2026,59 +1941,102 @@
       "summary_method": "rss_fallback"
     },
     {
-      "id": "bcb3f761114119a5",
-      "title": "Google unveils Gemini 4 Carbon with advanced cybersecurity features By Investing.com - Investing.com India",
-      "summary": "Google unveils Gemini 4 Carbon with advanced cybersecurity features By Investing.com Investing.com India",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQc1Z5bzJBd1BYUjJHUDIwZlFabWQwNGQ0MEhmaTJ5ci00X09JbDBxbVF2M0xVSlFQWnJpUm5HR1RxNDF4Q0h1TUVWM3RGYkJ4dVNSaWZ6UjRBcHM0Z0Z2eUVqb0c1QkZ3RVl3ellLamNWZ3dfc0czRE5Lc1hIUVBXc24yTkNlOUE3SzVSTUV4al9wNUM5Nll1RTNTbzdJUFhSXzBTU3B4QVZBYjVTUnpIMU9nZ3ZXaHVXSDBmcktoRDQ?oc=5",
-      "source": "Investing.com India",
+      "id": "0f60e7887adf205c",
+      "title": "Major Banks Back OSERA to Deliver Industry Wide Remediation Standards and Fixes to Secure Open Source Software - Linux Foundation",
+      "summary": "Major Banks Back OSERA to Deliver Industry Wide Remediation Standards and Fixes to Secure Open Source Software Linux Foundation",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPZ0VmSDI3Znpkd3JOSHpldFNnQmc0RzV0YnBvSGtWVERENUFseFl0SXJlYnRVX3czdk1yUnVXVTRkOWFXRUtfek5yX19oYWhFX3doWGtYR3diZ1JPcXdTTXNzbXhYdG1veDdxUGtTbWplVXowWE84aDVnTURMTWJpN1pIdHdFdmZCY0lHMXkteDNNXzBMeEMwM0F1emdIWGFOU0pmcHNWOWFHZnh5TkwyZXo4Y2ZKRUlHdDdsRkFxSmF3OGFUUFQtc3J5OVVJZjZwQTVBWUpPR0N2TTItRTZrWWV30gHyAUFVX3lxTE5iS3dfM3lzNDdMMG13Nzl5dWhEQmR1LXFqWExNOEwydjEwa1k1WE1Pd3lSUFBPWWZmZkNDNnpWcGYyR2FxRkhMOEZ4Um5DaWIzVGxyMXFwZV96Q1B6UnhOM1JnWkt6dG9YTHZxTVh2X0xVREhjTHI2YXNaeXhfUkRYcGNQZE91dTEzLWRnSU1oLVdiTkNtSGU1SmRVaHJhdm9DSVh2bFVuczZFQkwxOVh6ZUFBUnAySjhRQ3JiT3lnR2o0dDUteWdRd0hxRU03UW9CVVp6Tm0zaTkxOEZzanp2dnpBeXAtdHB5d0d2UThnMHh3?oc=5",
+      "source": "Linux Foundation",
       "category": "tech",
-      "published_at": "2026-10-28T17:13:11+00:00",
-      "importance": 5,
-      "personal_score": 5.0,
+      "published_at": "2026-10-07T07:00:00+00:00",
+      "importance": 6,
+      "personal_score": 6.0,
       "entities": [
-        "Google",
-        "Gemini",
-        "Carbon",
-        "By Investing.com",
-        "Investing.com India Google",
-        "By Investing.com Investing.com India"
+        "Major Banks Back OSERA",
+        "Deliver Industry Wide Remediation",
+        "Standards",
+        "Fixes",
+        "Secure Open Source Software",
+        "Linux Foundation Major Banks",
+        "Back OSERA",
+        "Linux Foundation"
       ],
       "summary_method": "rss_fallback"
     },
     {
-      "id": "2d2a9e5bb2c217e6",
-      "title": "Science is successful only when it benefits society: PM Modi",
-      "summary": "Science is successful only when it benefits society: PM Modi left Prime Minister Narendra Modi visits a startup exhibition stall and interacts with an innovator at the inauguration of Emerging Science, Technology and Innovation Conclave 2026 at Bharat Mandapam on October 27, 2026 ANI ANI https://th-i.thgim.com/public/incoming/s18cyi/article71632696.ece/alternates/FREE_1200/20261027468L.jpg ANI New Delhi, Oct 27 (ANI): Prime Minister Narendra Modi visits a startup exhibition stall and interacts with an innovator at the inauguration of Emerging Science, Technology and Innovation Conclave 2026 at Bharat Mandapam, in New Delhi on Tuesday. Chandrayaan’s landing near the lunar south pole, Mangalyaan’s success on the first attempt, and the vaccines developed during the COVID-19 pandemic are examples of this.” The audience at the conclave comprised three Nobel Laureates, top technocrats of India’s scientific establishment, startup founders and scientists from both India and abroad. India backing high risk, high impact R&D projects: PM Modi India backing high risk, high impact R&D projects: PM Modi PM Modi announces India’s commitment to high-risk R&D projects, launching a ₹1 lakh crore fund to boost innovation and private investment India backing high risk, high impact R&D projects: PM Modi storyline 1 “Important question” On Artificial Intelligence (AI), he posed what he called an “important question” about how to exercise scientific judgement in the age of AI. India an emerging global powerhouse, needs world-class leaders across all sectors for accelerated growth: PM Modi India an emerging global powerhouse, needs world-class leaders across all sectors for accelerated growth: PM Modi Prime Minister highlights the need for world-class governance and policy making, says the country needs to prepare ‘leadership for emerging sectors like deep-tech, space, biotech, and renewable energy’ India an emerging global powerhouse, needs world-class leaders across all sectors for accelerated growth: PM Modi storyline 1 He also pointed to Indian space start-ups, a rocket made in India that placed a satellite in orbit on its first attempt, and the country’s satellite docking capability.",
-      "url": "https://www.thehindu.com/news/national/science-is-successful-only-when-it-benefits-society-pm-modi/article71632091.ece",
-      "source": "The Hindu Science and Technology",
+      "id": "59c636bf414539ee",
+      "title": "Introducing the Elephant-Goldfish Model plugin: scaling design-driven AI software development - Google Open Source Blog",
+      "summary": "Introducing the Elephant-Goldfish Model plugin: scaling design-driven AI software development Google Open Source Blog",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNEVzQWlUWnd4ekJrMDcxZDZ0TmVRcS1TMmtWbkIwSTJqRnhTcGNRMWExSW1ZR1hPSUxIYkVzbXpzY2t6dDdNLTVmLWp3d201TGZ5bjM4VnZoRFZQalc5VUVsZkM3VHotaEpjcXhHc1J2YVdua25sU3hROXRZSW52R3N3MUlxZDVUT3B0WFRmMlJNcWs?oc=5",
+      "source": "Google Open Source Blog",
       "category": "tech",
-      "published_at": "2026-10-28T01:39:15+00:00",
-      "importance": 5,
-      "personal_score": 5.0,
+      "published_at": "2026-10-22T18:32:12+00:00",
+      "importance": 6,
+      "personal_score": 6.0,
       "entities": [
-        "Science",
-        "PM Modi Prime Minister"
+        "Introducing",
+        "Elephant-Goldfish Model",
+        "Google Open Source Blog"
       ],
-      "summary_method": "tfidf_extractive_full_article"
+      "summary_method": "rss_fallback"
     },
     {
-      "id": "56c787e7ebaf96db",
-      "title": "Why did Tinder’s scam detection fail, and what should Indian users do?",
-      "summary": "left Dating app users should first vet the platforms they register with, making sure they agree with how data is collected and processed [File] REUTERS REUTERS https://th-i.thgim.com/public/incoming/9ga0xi/article71625813.ece/alternates/FREE_1200/2025-05-08T113340Z_1176162115_RC2MDEAMUFOO_RTRMADP_3_MATCH-GRP-RESULTS.JPG AKHTAR SOOMRO FILE PHOTO: The dating app Tinder is shown on a mobile phone in this picture illustration taken September 1, 2020. How online dating is getting a Gen AI overhaul How online dating is getting a Gen AI overhaul Generative AI technologies are increasingly being used by dating app companies as well as their users worldwide How online dating is getting a Gen AI overhaul storyline 1 This information came from internal documents that the Match Group shared with the committee, led by senator Maggie Hassan. Dating app Grindr’s immunity from child rape allegation upheld by US appeals court Dating app Grindr’s immunity from child rape allegation upheld by US appeals court Grindr, the gay dating app, is not liable to an anonymous male user for having matched him with four adult men who raped him when he was 15 years old, a federal appeals court ruled Dating app Grindr’s immunity from child rape allegation upheld by US appeals court storyline 1 Another type of scam involved the same malicious user operating as different people on the same dating app, to ensnare more victims. Working with Indian law enforcement, civil society: Tinder parent’s safety head Yoel Roth Working with Indian law enforcement, civil society: Tinder parent’s safety head Yoel Roth Tinder and its sister apps like Hinge under the Match Group work closely with Indian law enforcement and civil society to ensure safety on its platforms, trust and safety head Yoel Roth said during an India visit.",
-      "url": "https://www.thehindu.com/sci-tech/technology/why-did-tinders-scam-detection-fail-and-what-should-indian-users-do/article71625830.ece",
-      "source": "The Hindu Technology",
+      "id": "b27085bc1923fe71",
+      "title": "How much does it cost to use open source software? - Google Open Source Blog",
+      "summary": "How much does it cost to use open source software? Google Open Source Blog",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbkxVZlhiTW03djFoUjNQZF92aDF4eFBaMkZNYUZmVldPOHU5MmpFS1VCTHZjaFI5UVBxVE9jU3dJZ24tUnptV1pVNlVHX01VeVhwekNCWHlGT3c1c1pqLXJXb0xrZ2Fnb0xoRWNMdm4zdl9DeXF0Wk1pYXJCNHZyLUM5a3BodW9JTGRWVmc0UE1Tdzk2RThxSGpqWDA?oc=5",
+      "source": "Google Open Source Blog",
       "category": "tech",
-      "published_at": "2026-10-26T06:27:47+00:00",
-      "importance": 5,
-      "personal_score": 5.0,
+      "published_at": "2026-10-08T07:00:00+00:00",
+      "importance": 6,
+      "personal_score": 6.0,
       "entities": [
-        "Why",
-        "Tinder",
-        "Indian",
-        "U.S",
-        "Hinge"
+        "How",
+        "Google Open Source Blog"
       ],
-      "summary_method": "tfidf_extractive_full_article"
+      "summary_method": "rss_fallback"
+    },
+    {
+      "id": "0e4ba5081a2e4066",
+      "title": "Navigating Open Source Software Development in the Generative AI Era: Balancing Velocity and Community Health - Linux Foundation",
+      "summary": "Navigating Open Source Software Development in the Generative AI Era: Balancing Velocity and Community Health Linux Foundation",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOakJlTENZblVNZjZ3T2ZKandaNklINGp3eXIxeEZJR2xqTFg4aVJaYnNuV0NjZ1lvUHFWcTdTNG02dFR4V1lYQ21ybUJQVXZJMm55bS1fMW5CYXlOQXhWX3FpR1ltUkZJWmJzVjNTNkNrQXU3QVlOdlRBazVYSDV2ZTV2QzRHQXkyTjBvbUJpbVE4Y2drNHZrLVE0R3E0Z2ttRHpibFJrUUVmbzM1OUFHWl93WXdSWFdIano5LTlIdmNhV1ZIX3ZHWlplc2VSc0JYUzJXMkpMMDN1X2VmUHfSAe4BQVVfeXFMTmdPY2VUZzVjTTlHWjlzZEdXN2pSeUZqWDU0QkE5WHNta0duQUVxLXNETUFKLTE5SEk1WFNXLXJOcDdnVjdQVlpfRHB6YkFza0x3dVczZFhRQ2xFLTJzSGhRUjRKNDB3aGlrdzd2OGQ1aDNBSm9xX0F5c3pWb0Q5RUlMSG5PZlozdWNUV0R4T3I4T0ltendveXNIRDJiMkQ0Y1RTc1REaTMzY2tsTlVGWlNzZldmOHFsUkdSaVo3bm1DQlBuRkxPTjVFb2ZLeDFXeGtvRDh0RXg2Wmo4VTNyNlMxSnlWVWlyMU95RnBDQQ?oc=5",
+      "source": "Linux Foundation",
+      "category": "tech",
+      "published_at": "2026-10-26T20:35:19+00:00",
+      "importance": 6,
+      "personal_score": 6.0,
+      "entities": [
+        "Navigating Open Source Software",
+        "Development",
+        "Generative AI Era",
+        "Balancing Velocity",
+        "Community Health",
+        "Linux Foundation Navigating Open",
+        "Source Software Development",
+        "Community Health Linux Foundation"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
+      "id": "2303362e5e73b57e",
+      "title": "Navigating Open Source Software Development in the Generative AI Era - Linux Foundation",
+      "summary": "Navigating Open Source Software Development in the Generative AI Era Linux Foundation",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9CZlBPRHZROEx0b1dpWjZNWG5OSGVsVFFIN0pjM205ODdYbzRhMFg0dG1Rc1RrNGxEbkl6cU1vMXY5Szg0Q2ZmXzc5Tm55ZUJyUmVlRXJqSHE5TjNnQ19ZMmRaT0tUNWhyNkRXMGpSM2hLaFd6d2tpWnlrVTU?oc=5",
+      "source": "Linux Foundation",
+      "category": "tech",
+      "published_at": "2026-10-20T12:32:07+00:00",
+      "importance": 6,
+      "personal_score": 6.0,
+      "entities": [
+        "Navigating Open Source Software",
+        "Development",
+        "Generative AI Era",
+        "Linux Foundation Navigating Open",
+        "Source Software Development",
+        "Generative AI Era Linux",
+        "Foundation"
+      ],
+      "summary_method": "rss_fallback"
     },
     {
       "id": "5507969d1504d1cc",
@@ -2102,6 +2060,43 @@
       "summary_method": "rss_fallback"
     },
     {
+      "id": "d86bebe855300c10",
+      "title": "Will the price caps on cancer drugs help bring down the cost of treatment?",
+      "summary": "“But it remains to be seen how this cap will actually reduce what patients pay.” ₹8,447 crore in medicine overcharging claims remain outstanding as SC seeks wider price controls ₹8,447 crore in medicine overcharging claims remain outstanding as SC seeks wider price controls The outstanding amount is more than five times the amount realised and accounts for about 84% of the cumulative demand ₹8,447 crore in medicine overcharging claims remain outstanding as SC seeks wider price controls storyline 1 Survival versus solvency Cancer is said to be India’s leading cause of catastrophic health spending. But the profits they earn cannot can’t be disproportionate forever.” Significant number of cancer drugs don’t fall within price control mechanisms, says report Significant number of cancer drugs don’t fall within price control mechanisms, says report “This regulatory non-inclusion has led to excessive and often unaffordable pricing, thereby limiting access for a large section of the patient population,” the Committee on Petitions said in its report to Parliament Significant number of cancer drugs don’t fall within price control mechanisms, says report storyline 1 The price of exclusivity Drug patents are another issue, point out experts. Health groups seek regulation of private hospital charges, medicine margins Health groups seek regulation of private hospital charges, medicine margins JSA, Working Group on Access to Medicines and Treatment call for ceilings on hospital charges and trade margins; they say absence of a uniform mechanism to regulate hospital charges had left patients vulnerable to hefty bills Health groups seek regulation of private hospital charges, medicine margins storyline 1 Limits of control Murali Neelakantan, principal lawyer at advisory firm, amicus, calls price controls a “terrible” solution to a demand-supply mismatch. The government, he says, can intervene by building more government hospitals using the Rs 1.5 lakh crore available in the Employees’ State Insurance Corporation, and by procuring goods and services from private healthcare providers in an efficient manner rather than through fragmented schemes.”According to Neelakantan, The scale of procurement gives the government immense economic power to influence demand and facilitate price discovery and stabilisation, he points out.",
+      "url": "https://www.thehindu.com/sci-tech/health/will-the-price-caps-on-cancer-drugs-help-bring-down-the-cost-of-treatment/article71634327.ece",
+      "source": "The Hindu Science and Technology",
+      "category": "tech",
+      "published_at": "2026-10-28T13:57:01+00:00",
+      "importance": 5,
+      "personal_score": 5.0,
+      "entities": [
+        "Will",
+        "For",
+        "Experts",
+        "Patients"
+      ],
+      "summary_method": "tfidf_extractive_full_article"
+    },
+    {
+      "id": "56c787e7ebaf96db",
+      "title": "Why did Tinder’s scam detection fail, and what should Indian users do?",
+      "summary": "left Dating app users should first vet the platforms they register with, making sure they agree with how data is collected and processed [File] REUTERS REUTERS https://th-i.thgim.com/public/incoming/9ga0xi/article71625813.ece/alternates/FREE_1200/2025-05-08T113340Z_1176162115_RC2MDEAMUFOO_RTRMADP_3_MATCH-GRP-RESULTS.JPG AKHTAR SOOMRO FILE PHOTO: The dating app Tinder is shown on a mobile phone in this picture illustration taken September 1, 2020. How online dating is getting a Gen AI overhaul How online dating is getting a Gen AI overhaul Generative AI technologies are increasingly being used by dating app companies as well as their users worldwide How online dating is getting a Gen AI overhaul storyline 1 This information came from internal documents that the Match Group shared with the committee, led by senator Maggie Hassan. Dating app Grindr’s immunity from child rape allegation upheld by US appeals court Dating app Grindr’s immunity from child rape allegation upheld by US appeals court Grindr, the gay dating app, is not liable to an anonymous male user for having matched him with four adult men who raped him when he was 15 years old, a federal appeals court ruled Dating app Grindr’s immunity from child rape allegation upheld by US appeals court storyline 1 Another type of scam involved the same malicious user operating as different people on the same dating app, to ensnare more victims. Working with Indian law enforcement, civil society: Tinder parent’s safety head Yoel Roth Working with Indian law enforcement, civil society: Tinder parent’s safety head Yoel Roth Tinder and its sister apps like Hinge under the Match Group work closely with Indian law enforcement and civil society to ensure safety on its platforms, trust and safety head Yoel Roth said during an India visit.",
+      "url": "https://www.thehindu.com/sci-tech/technology/why-did-tinders-scam-detection-fail-and-what-should-indian-users-do/article71625830.ece",
+      "source": "The Hindu Technology",
+      "category": "tech",
+      "published_at": "2026-10-26T06:27:47+00:00",
+      "importance": 5,
+      "personal_score": 5.0,
+      "entities": [
+        "Why",
+        "Tinder",
+        "Indian",
+        "U.S",
+        "Hinge"
+      ],
+      "summary_method": "tfidf_extractive_full_article"
+    },
+    {
       "id": "029cec1f148d487f",
       "title": "What a Cybersecurity Market Map Should Tell You, and What It Can’t - Solutions Review",
       "summary": "What a Cybersecurity Market Map Should Tell You, and What It Can’t Solutions Review",
@@ -2120,6 +2115,22 @@
         "Solutions Review"
       ],
       "summary_method": "rss_fallback"
+    },
+    {
+      "id": "1170b302a751e35e",
+      "title": "‘India has engineers, but needs more chip-ready ones’",
+      "summary": "India was home to 20% of the world’s semiconductor design talent, she said, but manufacturing was still nascent, leaving a shortfall across outsourced semiconductor assembly and test (OSAT), wafer fabrication, materials and machines, which is a gap the India Semiconductor Mission, in its first phase and now its second, has been expanding beyond fabrication and OSAT to address across the ecosystem. student in Electronics and Communication Engineering at SRM Institute of Science and Technology and the panel’s student voice, said students tended to become “the first customers for the chip, building projects on it, rather than the true designers”, with many projects in robotics and embedded systems but few in designing chips. Ranjith said the All India Council for Technical Education had restructured the curriculum in 2023 based on industry needs and industry sat on the Boards of Studies of universities such as SRM and Anna University, but the real challenge was dedicated resources and sustained investment, including in centres of excellence. It taught him to submit on a deadline and to take ownership of his work, he said, and, in a conversation with an application engineer who had built the chip, about implementing a programme in Rust, that “there are multiple roles required to get a chip to where it is today and give it purpose”.",
+      "url": "https://www.thehindu.com/business/Industry/india-has-engineers-but-needs-more-chip-ready-ones/article71631494.ece",
+      "source": "The Hindu Technology",
+      "category": "tech",
+      "published_at": "2026-10-27T13:05:23+00:00",
+      "importance": 5,
+      "personal_score": 5.0,
+      "entities": [
+        "At The Hindu Semiconductor",
+        "Summit"
+      ],
+      "summary_method": "tfidf_extractive_full_article"
     },
     {
       "id": "0a7030897ad3dd8f",
@@ -2146,6 +2157,25 @@
         "പുതിയ"
       ],
       "summary_method": "tfidf_extractive_full_article"
+    },
+    {
+      "id": "d55d020bbfec988e",
+      "title": "What’s going on in Indian cybersecurity? - The Daily Brief by Zerodha",
+      "summary": "What’s going on in Indian cybersecurity? The Daily Brief by Zerodha",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1tWVZLZWRENS1qZERIU0RzSUlpdlJwRmRvNG5ZSEdpc2pRX0dMWG1VY2U5UTUxT1FMWjhyaDVZMUVPei1wWFZMeTFFaDlnYmIwQjZKSzNJc0ZWNGlWQThLN0xWNGpTbzM4QVpIT25vM1NqaVpOdDI3VkhXSGdzOU0?oc=5",
+      "source": "The Daily Brief by Zerodha",
+      "category": "tech",
+      "published_at": "2026-10-28T02:00:01+00:00",
+      "importance": 4,
+      "personal_score": 4.0,
+      "entities": [
+        "What",
+        "Indian",
+        "The Daily Brief",
+        "Zerodha What",
+        "Zerodha"
+      ],
+      "summary_method": "rss_fallback"
     },
     {
       "id": "8997fff170113b95",
