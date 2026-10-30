@@ -1,6 +1,6 @@
 {
   "version": 7,
-  "updated_at": "2026-10-30T19:46:07.273461+00:00",
+  "updated_at": "2026-10-30T23:19:34.832982+00:00",
   "ai_engine": {
     "enabled": true,
     "type": "mathematical_ml",
@@ -329,31 +329,6 @@
       "summary_method": "tfidf_extractive_full_article"
     },
     {
-      "id": "d786d209f93dc547",
-      "title": "ഞായറാഴ്ച മുതൽ ശക്തമായ മഴയ്ക്ക് സാധ്യത..3 ജില്ലകളിൽ യെല്ലോ അലർട്ട്..ഇടിമിന്നലിനും സാധ്യത",
-      "summary": "ഇത് പടിഞ്ഞാറ്-വടക്കുപടിഞ്ഞാറ് ദിശയിൽ നീങ്ങി 31-ഓടെ തെക്കുകിഴക്കൻ ബംഗാൾ ഉൾക്കടലിനും സമീപത്തെ ആൻഡമാൻ-നിക്കോബാർ ദ്വീപുകൾക്കും ആൻഡമാൻ കടലിനും മുകളിലായി തീവ്ര ന്യൂനമർദമായി (Depression) ശക്തിപ്രാപിക്കാൻ സാധ്യതയുണ്ട്. അതിശക്തമായ ചുഴലിക്കാറ്റായ അർണബിന്റെ ശേഷിപ്പ് വടക്കൻ ഛത്തീസ്ഗഢിനും സമീപത്തെ കിഴക്കൻ മധ്യപ്രദേശിനും മുകളിലായി ന്യൂനമർദമായി ഇപ്പോഴും സ്ഥിതി ചെയ്യുന്നുണ്ട്. ഈ സാഹചര്യത്തിൽ നവംബർ 1 മുതൽ 3 വരെ ഒറ്റപ്പെട്ട സ്ഥലങ്ങളിൽ 24 മണിക്കൂറിൽ ശക്തമായ മഴ (7 മുതൽ 11 സെ.മീ.വരെ) ലഭിക്കാൻ സാധ്യതയുണ്ടെന്നാണ് വകുപ്പിൻ്റെ മുന്നറിയിപ്പ്. 30 ന് മധ്യ കിഴക്കൻ ബംഗാൾ ഉൾക്കടൽ, തെക്ക് കിഴക്കൻ ബംഗാൾ ഉൾക്കടൽ, ആൻഡമാൻ കടൽ എന്നിവിടങ്ങളിൽ മണിക്കൂറിൽ മണിക്കൂറിൽ 40 മുതൽ 50 കിലോമീറ്റർ വരെയും ചില അവസരങ്ങളിൽ മണിക്കൂറിൽ 60 കിലോമീറ്റർ വരെയും ശക്തമായ കാറ്റിനും മോശം കാലാവസ്ഥയ്ക്കും സാധ്യതയുണ്ട്.കൂടാതെ 31 ന് ആൻഡമാൻ കടൽ, മധ്യ ബംഗാൾ ഉൾക്കടൽ അതിനോട്‌ ചേർന്ന തെക്കു കിഴക്കൻ ബംഗാൾ ഉൾക്കടൽ എന്നിവിടങ്ങളിൽ മണിക്കൂറിൽ 40 മുതൽ 50 കിലോമീറ്റർ വരെയും ചില അവസരങ്ങളിൽ മണിക്കൂറിൽ 60 കിലോമീറ്റർ വരെയും ശക്തമായ കാറ്റിനും മോശം കാലാവസ്ഥയ്ക്കും സാധ്യതയുണ്ടെന്നാണ് മുന്നറിയിപ്പ്.",
-      "url": "https://malayalam.oneindia.com/news/kerala/heavy-rain-likely-from-sunday-yellow-alert-in-3-districts-thunderstorms-also-expected-602723.html",
-      "source": "Oneindia Malayalam",
-      "category": "general",
-      "published_at": "2026-10-30T11:18:16+00:00",
-      "importance": 5,
-      "personal_score": 5.25,
-      "entities": [
-        "ഞായറാഴ്ച",
-        "മുതൽ",
-        "ശക്തമായ",
-        "മഴയ്ക്ക്",
-        "സാധ്യത",
-        "ജില്ലകളിൽ",
-        "യെല്ലോ",
-        "അലർട്ട്",
-        "ഇടിമിന്നലിനും",
-        "Heavy",
-        "Sunday"
-      ],
-      "summary_method": "tfidf_extractive_full_article"
-    },
-    {
       "id": "b4d3f1d4b089b4e8",
       "title": "നിഷ പുരുഷോത്തമന്‍ മനോരമ ന്യൂസിൽ നിന്ന് രാജി വെച്ചോ? പ്രധാന സർക്കാർ പദവിയിലേക്ക്? പ്രതികരണം",
       "summary": "കോണ്‍ഗ്രസ് കുടുംബ പശ്ചാത്തലവും കെഎസ്യു പ്രവര്‍ത്തന പശ്ചാത്തലവും ഉളള നിഷ പുരുഷോത്തമന്‍ മനോരമയില്‍ നിന്നിറങ്ങിയ ശേഷം വിഡി സതീശന്‍ സര്‍ക്കാരിന്റെ ഭാഗമായി നിര്‍ണായക പദവിയില്‍ എത്തിയേക്കുമെന്നും സോഷ്യല്‍ മീഡിയയില്‍ പ്രചരിക്കുന്നുണ്ട്.അതിനിടെ സോഷ്യൽ മീഡിയയിൽ പ്രചരിക്കുന്ന വാർത്തകളോട് പ്രതികരിച്ച് നിഷ പുരുഷോത്തമൻ രംഗത്ത് വന്നു. നിരവധി സുഹൃത്തുക്കൾ തുടർച്ചയായി വിളിച്ച് കാര്യങ്ങൾ അന്വേഷിക്കുന്ന സാഹചര്യത്തിലാണ് ഈ വിശദീകരണം.എല്ലാറ്റിലുമുപരി, സ്വകാര്യത ഇഷ്ടപ്പെടുന്ന ഒരു സാധാരണ വ്യക്തിയാണ് ഞാൻ. അതുകൊണ്ടാണ് ഈ കുറിപ്പ്.ഇസ്രായേലിൽ പ്ലാൻ ബി, സർക്കാരുണ്ടാക്കാൻ പ്രധാന ശത്രുവിനെ കൂട്ട് പിടിച്ച് നെതന്യാഹുവിന്റെ ചാണക്യതന്ത്രം?എന്റെ ഔദ്യോഗികമോ വ്യക്തിപരമോ ആയ ജീവിതവുമായി ബന്ധപ്പെട്ട് പൊതുസമൂഹം അറിയേണ്ട എന്തെങ്കിലും കാര്യങ്ങളുണ്ടെങ്കിൽ അത് ഇവിടെത്തന്നെ എല്ലാവരെയും അറിയിക്കുന്നതാണ്. അതുവരെ, ദയവായി എന്നെയും എന്റെ സുഹൃത്തുക്കളെയും ബന്ധുക്കളെയും ഞങ്ങളുടെ സ്വകാര്യതയിലേക്ക് മടങ്ങാൻ അനുവദിക്കുക.അനാവശ്യമായ ആകാംക്ഷയ്ക്കോ ഊഹാപോഹങ്ങൾക്കോ ഇടം നൽകേണ്ട സാഹചര്യമില്ലെന്ന് സ്നേഹത്തോടടെ അറിയിക്കുന്നു.",
@@ -403,18 +378,27 @@
       "summary_method": "tfidf_extractive_full_article"
     },
     {
-      "id": "93bda7434bca37d3",
-      "title": "Book fair begins in Kochi",
-      "summary": "KOCHI Kochi International Book Festival, organised by the Antharashtra Pusthakothsava Samithi, began here on Friday (October 30, 2026). Nair, former managing director of Cochin Shipyard Limited, presided over the inaugural function. Somanath, former ISRO chairperson; Hibi Eden, MP; Varun Gulati, secretary, Sahitya Akademi; V. Prakash Babu, executive secretary of the book festival; and Jose Christopher spoke.",
-      "url": "https://www.thehindu.com/news/national/kerala/book-fair-begins-in-kochi/article71646453.ece",
-      "source": "The Hindu Kerala",
+      "id": "d786d209f93dc547",
+      "title": "ഞായറാഴ്ച മുതൽ ശക്തമായ മഴയ്ക്ക് സാധ്യത..3 ജില്ലകളിൽ യെല്ലോ അലർട്ട്..ഇടിമിന്നലിനും സാധ്യത",
+      "summary": "ഇത് പടിഞ്ഞാറ്-വടക്കുപടിഞ്ഞാറ് ദിശയിൽ നീങ്ങി 31-ഓടെ തെക്കുകിഴക്കൻ ബംഗാൾ ഉൾക്കടലിനും സമീപത്തെ ആൻഡമാൻ-നിക്കോബാർ ദ്വീപുകൾക്കും ആൻഡമാൻ കടലിനും മുകളിലായി തീവ്ര ന്യൂനമർദമായി (Depression) ശക്തിപ്രാപിക്കാൻ സാധ്യതയുണ്ട്. അതിശക്തമായ ചുഴലിക്കാറ്റായ അർണബിന്റെ ശേഷിപ്പ് വടക്കൻ ഛത്തീസ്ഗഢിനും സമീപത്തെ കിഴക്കൻ മധ്യപ്രദേശിനും മുകളിലായി ന്യൂനമർദമായി ഇപ്പോഴും സ്ഥിതി ചെയ്യുന്നുണ്ട്. ഈ സാഹചര്യത്തിൽ നവംബർ 1 മുതൽ 3 വരെ ഒറ്റപ്പെട്ട സ്ഥലങ്ങളിൽ 24 മണിക്കൂറിൽ ശക്തമായ മഴ (7 മുതൽ 11 സെ.മീ.വരെ) ലഭിക്കാൻ സാധ്യതയുണ്ടെന്നാണ് വകുപ്പിൻ്റെ മുന്നറിയിപ്പ്. 30 ന് മധ്യ കിഴക്കൻ ബംഗാൾ ഉൾക്കടൽ, തെക്ക് കിഴക്കൻ ബംഗാൾ ഉൾക്കടൽ, ആൻഡമാൻ കടൽ എന്നിവിടങ്ങളിൽ മണിക്കൂറിൽ മണിക്കൂറിൽ 40 മുതൽ 50 കിലോമീറ്റർ വരെയും ചില അവസരങ്ങളിൽ മണിക്കൂറിൽ 60 കിലോമീറ്റർ വരെയും ശക്തമായ കാറ്റിനും മോശം കാലാവസ്ഥയ്ക്കും സാധ്യതയുണ്ട്.കൂടാതെ 31 ന് ആൻഡമാൻ കടൽ, മധ്യ ബംഗാൾ ഉൾക്കടൽ അതിനോട്‌ ചേർന്ന തെക്കു കിഴക്കൻ ബംഗാൾ ഉൾക്കടൽ എന്നിവിടങ്ങളിൽ മണിക്കൂറിൽ 40 മുതൽ 50 കിലോമീറ്റർ വരെയും ചില അവസരങ്ങളിൽ മണിക്കൂറിൽ 60 കിലോമീറ്റർ വരെയും ശക്തമായ കാറ്റിനും മോശം കാലാവസ്ഥയ്ക്കും സാധ്യതയുണ്ടെന്നാണ് മുന്നറിയിപ്പ്.",
+      "url": "https://malayalam.oneindia.com/news/kerala/heavy-rain-likely-from-sunday-yellow-alert-in-3-districts-thunderstorms-also-expected-602723.html",
+      "source": "Oneindia Malayalam",
       "category": "general",
-      "published_at": "2026-10-30T16:57:23+00:00",
-      "importance": 4,
-      "personal_score": 4.25,
+      "published_at": "2026-10-30T11:18:16+00:00",
+      "importance": 5,
+      "personal_score": 5.25,
       "entities": [
-        "Book",
-        "Kochi"
+        "ഞായറാഴ്ച",
+        "മുതൽ",
+        "ശക്തമായ",
+        "മഴയ്ക്ക്",
+        "സാധ്യത",
+        "ജില്ലകളിൽ",
+        "യെല്ലോ",
+        "അലർട്ട്",
+        "ഇടിമിന്നലിനും",
+        "Heavy",
+        "Sunday"
       ],
       "summary_method": "tfidf_extractive_full_article"
     },
@@ -472,55 +456,6 @@
         "Kalady"
       ],
       "summary_method": "tfidf_extractive_full_article"
-    },
-    {
-      "id": "c302b412dee7a30b",
-      "title": "പിഎസ്‌സി പരീക്ഷാ തട്ടിപ്പ്: ഒളിവിലായിരുന്ന അഡീഷണൽ സെക്രട്ടറി ആർ. ഹരി അറസ്റ്റിൽ - Manorama News",
-      "summary": "പിഎസ്‌സി പരീക്ഷാ തട്ടിപ്പ്: ഒളിവിലായിരുന്ന അഡീഷണൽ സെക്രട്ടറി ആർ. ഹരി അറസ്റ്റിൽ Manorama News",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNYUgzM2Vjc0t5UFl3NW53eGFoWlBTRy01d01iQ1pmSzI1dGxBOHVMVmUxUHpSS0psTldJTE1Jdkpvc1oxTFhsX2pLWldjZk9xdUJpY2xzLTdpVmVfbXl0Y0tGUkV6NmNqR1pJbHVZRk1mRjZNeGE1aENMRkVYd3ptOE1WcUgwM0tSTHgxMkFCeHRXekJ1cXRRTVl6OUgtT2k0NkpHejRzLVA5c0lhV0pGVVVhOFcyVmtQZHhYVNIBwgFBVV95cUxPcmNQSGlnV1UzM0pkVlNnMXNhcU9CUzdJM2dyM3FtVENMOW0xbjZqNkM0Qlc0MWdKVmdtZkpHaDN2cy0wbWFRbnpadi1mVVRYTTRScVNxUzMxQnZmVUc3bDRyQUcyR1NNRlVxcnZVcnYwb0doeVM5NmY3ZHQ2TjlOazgySGIxRVEwUTE0dnVZYXBnbzdFSnVKblhheExsYXpLX2NDbmZHRW1RbHhZZUtnejBrcW91ZFdhZEFZcWl4SV9tUQ?oc=5",
-      "source": "Manorama News",
-      "category": "general",
-      "published_at": "2026-10-30T17:14:35+00:00",
-      "importance": 4,
-      "personal_score": 4.25,
-      "entities": [
-        "പിഎസ്",
-        "പരീക്ഷാ",
-        "തട്ടിപ്പ്",
-        "ഒളിവിലായിരുന്ന",
-        "അഡീഷണൽ",
-        "സെക്രട്ടറി",
-        "ഹരി",
-        "അറസ്റ്റിൽ",
-        "Manorama News"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
-      "id": "e2ea68bbd3f4f7a9",
-      "title": "Kerala News Today Highlights: നിപ മരുന്ന് വിവാദം; സൂപ്രണ്ട് നൽകിയ വിവരത്തിന്റെ അടിസ്ഥാനത്തിലാണ് അന്വേഷണമെന്ന് മന്ത്രി കെ മുരളീധരൻ - Indian Express Malayalam",
-      "summary": "Kerala News Today Highlights: നിപ മരുന്ന് വിവാദം; സൂപ്രണ്ട് നൽകിയ വിവരത്തിന്റെ അടിസ്ഥാനത്തിലാണ് അന്വേഷണമെന്ന് മന്ത്രി കെ മുരളീധരൻ Indian Express Malayalam",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPUThvSk10emdZSWcyeHdOWHl3T0plal9nMEc2elNBZFRnNjlDUWFNc2Jvdl9UTEZURFN6N0xmRDhWOGx1Y0gyLU9ZNTB5LTJiVVFWU2RPRlRmQ1kzM2R2bi1iMjhaWHA0X3AtV1RGNnFFX2lTYnB3LVppYnEtem9Nd3JmdFhNcWZCeVpIZXM5cUNYN2liN0lZM2xtN3V3dkZFbnhlY2UyYmYyeUNXSEVnb0ZwRHZIMEVDM0VzZVRwQURWdU1JRlR0a0p0S0dkUzZNbHhHaHNCT18zYlJsMmNZU3Vzc3UyT21jV2UxOdIB7AFBVV95cUxPUThvSk10emdZSWcyeHdOWHl3T0plal9nMEc2elNBZFRnNjlDUWFNc2Jvdl9UTEZURFN6N0xmRDhWOGx1Y0gyLU9ZNTB5LTJiVVFWU2RPRlRmQ1kzM2R2bi1iMjhaWHA0X3AtV1RGNnFFX2lTYnB3LVppYnEtem9Nd3JmdFhNcWZCeVpIZXM5cUNYN2liN0lZM2xtN3V3dkZFbnhlY2UyYmYyeUNXSEVnb0ZwRHZIMEVDM0VzZVRwQURWdU1JRlR0a0p0S0dkUzZNbHhHaHNCT18zYlJsMmNZU3Vzc3UyT21jV2UxOQ?oc=5",
-      "source": "Indian Express Malayalam",
-      "category": "general",
-      "published_at": "2026-10-30T15:36:27+00:00",
-      "importance": 4,
-      "personal_score": 4.25,
-      "entities": [
-        "നിപ",
-        "മരുന്ന്",
-        "വിവാദം",
-        "സൂപ്രണ്ട്",
-        "നൽകിയ",
-        "വിവരത്തിന്റെ",
-        "അടിസ്ഥാനത്തിലാണ്",
-        "അന്വേഷണമെന്ന്",
-        "മന്ത്രി",
-        "മുരളീധരൻ",
-        "Kerala News Today Highlights",
-        "Indian Express Malayalam Kerala"
-      ],
-      "summary_method": "rss_fallback"
     },
     {
       "id": "f143687458f586b3",
@@ -667,6 +602,81 @@
       "summary_method": "tfidf_extractive_full_article"
     },
     {
+      "id": "e2ea68bbd3f4f7a9",
+      "title": "Kerala News Today Highlights: നിപ മരുന്ന് വിവാദം; സൂപ്രണ്ട് നൽകിയ വിവരത്തിന്റെ അടിസ്ഥാനത്തിലാണ് അന്വേഷണമെന്ന് മന്ത്രി കെ മുരളീധരൻ - Indian Express Malayalam",
+      "summary": "Kerala News Today Highlights: നിപ മരുന്ന് വിവാദം; സൂപ്രണ്ട് നൽകിയ വിവരത്തിന്റെ അടിസ്ഥാനത്തിലാണ് അന്വേഷണമെന്ന് മന്ത്രി കെ മുരളീധരൻ Indian Express Malayalam",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPUThvSk10emdZSWcyeHdOWHl3T0plal9nMEc2elNBZFRnNjlDUWFNc2Jvdl9UTEZURFN6N0xmRDhWOGx1Y0gyLU9ZNTB5LTJiVVFWU2RPRlRmQ1kzM2R2bi1iMjhaWHA0X3AtV1RGNnFFX2lTYnB3LVppYnEtem9Nd3JmdFhNcWZCeVpIZXM5cUNYN2liN0lZM2xtN3V3dkZFbnhlY2UyYmYyeUNXSEVnb0ZwRHZIMEVDM0VzZVRwQURWdU1JRlR0a0p0S0dkUzZNbHhHaHNCT18zYlJsMmNZU3Vzc3UyT21jV2UxOdIB7AFBVV95cUxPUThvSk10emdZSWcyeHdOWHl3T0plal9nMEc2elNBZFRnNjlDUWFNc2Jvdl9UTEZURFN6N0xmRDhWOGx1Y0gyLU9ZNTB5LTJiVVFWU2RPRlRmQ1kzM2R2bi1iMjhaWHA0X3AtV1RGNnFFX2lTYnB3LVppYnEtem9Nd3JmdFhNcWZCeVpIZXM5cUNYN2liN0lZM2xtN3V3dkZFbnhlY2UyYmYyeUNXSEVnb0ZwRHZIMEVDM0VzZVRwQURWdU1JRlR0a0p0S0dkUzZNbHhHaHNCT18zYlJsMmNZU3Vzc3UyT21jV2UxOQ?oc=5",
+      "source": "Indian Express Malayalam",
+      "category": "general",
+      "published_at": "2026-10-30T15:36:27+00:00",
+      "importance": 4,
+      "personal_score": 4.25,
+      "entities": [
+        "നിപ",
+        "മരുന്ന്",
+        "വിവാദം",
+        "സൂപ്രണ്ട്",
+        "നൽകിയ",
+        "വിവരത്തിന്റെ",
+        "അടിസ്ഥാനത്തിലാണ്",
+        "അന്വേഷണമെന്ന്",
+        "മന്ത്രി",
+        "മുരളീധരൻ",
+        "Kerala News Today Highlights",
+        "Indian Express Malayalam Kerala"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
+      "id": "b5d87f1ff05c235b",
+      "title": "ഹോങ്കോങ് സിക്സസിൽ ഇന്ത്യയെ തകർത്ത് പാക്കിസ്ഥാൻ; 89 റൺസ് വിജയലക്ഷ്യം മറികടന്നത് 3.5 ഓവറിൽ - Indian Express Malayalam",
+      "summary": "ഹോങ്കോങ് സിക്സസിൽ ഇന്ത്യയെ തകർത്ത് പാക്കിസ്ഥാൻ; 89 റൺസ് വിജയലക്ഷ്യം മറികടന്നത് 3.5 ഓവറിൽ Indian Express Malayalam",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNb0dWX0NmVl9qVDRXY0hnZmhaS252WWM4NW91X2ZYdHBXVVBiQXV2TVFTYjEtTzRxZmQ1OV84cUNBQjlmMU9VVVNRUzNnSkZpYXJaMjlqdU93cFRFald3X1RKVDlhRXUxemNkV1o1UW1hdXNDeHpTU0FXQ1dtdUNaWG1oVE5vWlZtYWV1bGZNWUkwcWlJeXRvQkNaUjdEUTVlYjRWSEtB0gGmAUFVX3lxTE1vR1ZfQ2ZWX2pUNFdjSGdmaFpLbnZZYzg1b3VfZlh0cFdVUGJBdXZNUVNiMS1PNHFmZDU5XzhxQ0FCOWYxT1VVU1FTM2dKRmlhcloyOWp1T3dwVEVqV3dfVEpUOWFFdTF6Y2RXWjVRbWF1c0N4elNTQVdDV211Q1pYbWhUTm9aVm1hZXVsZk1ZSTBxaUl5dG9CQ1pSN0RRNWViNFZIS0E?oc=5",
+      "source": "Indian Express Malayalam",
+      "category": "general",
+      "published_at": "2026-10-30T13:44:11+00:00",
+      "importance": 4,
+      "personal_score": 4.25,
+      "entities": [
+        "ഹോങ്കോങ്",
+        "സിക്സസിൽ",
+        "ഇന്ത്യയെ",
+        "തകർത്ത്",
+        "പാക്കിസ്ഥാൻ",
+        "റൺസ്",
+        "വിജയലക്ഷ്യം",
+        "മറികടന്നത്",
+        "ഓവറിൽ",
+        "Indian Express Malayalam"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
+      "id": "123f666ba69e2728",
+      "title": "Kerala Rain: ഒരിടവേളയ്ക്കു ശേഷം വീണ്ടും മഴ; സംസ്ഥാനത്ത് വിവിധ ജില്ലകളിൽ മുന്നറിയിപ്പ് - Indian Express Malayalam",
+      "summary": "Kerala Rain: ഒരിടവേളയ്ക്കു ശേഷം വീണ്ടും മഴ; സംസ്ഥാനത്ത് വിവിധ ജില്ലകളിൽ മുന്നറിയിപ്പ് Indian Express Malayalam",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMDY3cG9hcGJnRG90UkNvODRHUkdTSEs5cTYtbl9XMkc2eEhYektEbXZObUt6ekRoTU1wTGMyTXNSWjRGU3hIQU1FTWM0d1RHZFdWeGx3R3pxQXhPRGtlUlRkY25XSG44NUpWWHJVbEc5TXcxS2dObUVJQXNpRmI4eGs1R0tMNmd5U2F0MG9oWk5waUU1WGpZTzhOUU9RTG1nNzJQVTRB0gGmAUFVX3lxTFAwNjdwb2FwYmdEb3RSQ284NEdSR1NISzlxNi1uX1cyRzZ4SFh6S0Rtdk5tS3p6RGhNTXBMYzJNc1JaNEZTeEhBTUVNYzR3VEdkV1Z4bHdHenFBeE9Ea2VSVGRjbldIbjg1SlZYclVsRzlNdzFLZ05tRUlBc2lGYjh4azVHS0w2Z3lTYXQwb2haTnBpRTVYallPOE5RT1FMbWc3MlBVNEE?oc=5",
+      "source": "Indian Express Malayalam",
+      "category": "general",
+      "published_at": "2026-10-30T12:38:35+00:00",
+      "importance": 4,
+      "personal_score": 4.25,
+      "entities": [
+        "ഒരിടവേളയ്ക്കു",
+        "ശേഷം",
+        "വീണ്ടും",
+        "സംസ്ഥാനത്ത്",
+        "വിവിധ",
+        "ജില്ലകളിൽ",
+        "മുന്നറിയിപ്പ്",
+        "Kerala Rain",
+        "Indian Express Malayalam Kerala",
+        "Rain",
+        "Indian Express Malayalam"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
       "id": "6848ee781a1fd282",
       "title": "ഇസ്രായേലിൽ പ്ലാൻ ബി, സർക്കാരുണ്ടാക്കാൻ പ്രധാന ശത്രുവിനെ കൂട്ട് പിടിച്ച് നെതന്യാഹുവിന്റെ ചാണക്യതന്ത്രം?",
       "summary": "അധികാരത്തില്‍ നിന്നും ഒഴിയേണ്ടി വന്നാല്‍ അഴിമതിക്കേസുകളിലും 2023 ഒക്ടോബര്‍ 7ല്‍ നടന്ന ഹമാസ് ആക്രമണത്തിലെ സുരക്ഷാ വീഴ്ചയിലും അടക്കം നെതന്യാഹുവിന് നിയമനടപടികള്‍ നേരിടേണ്ടി വരും.വോട്ടെണ്ണല്‍ പൂര്‍ത്തിയായപ്പോള്‍ കേവല ഭൂരിപക്ഷമായ 61 സീറ്റുകള്‍ ആര്‍ക്കും നേടാന്‍ സാധിച്ചിട്ടില്ല. അതിനായി അറബ് പാര്‍ട്ടികളെ പൂര്‍ണമായും പുറത്ത് നിര്‍ത്തി പ്രധാന എതിരാളിയായ ഗാദി ഐസന്‍കോട്ടിന്റെ സഹായത്തോടെ നെതന്യാഹു സര്‍ക്കാര്‍ രൂപീകരണത്തിന് ശ്രമിച്ചേക്കും എന്നാണ് ദ ജെറുസലേം പോസ്റ്റ് റിപ്പോര്‍ട്ട് ചെയ്യുന്നത്.ദേശീയ ഐക്യം എന്ന ആശയത്തിലൂന്നിയാണ് ചര്‍ച്ചകള്‍ എന്നാണ് സൂചന. ആദ്യത്തെ രണ്ട് വര്‍ഷം നെതന്യാഹു പ്രധാനമന്ത്രിയാവുകയും അതിന് ശേഷം ഐസന്‍കോട്ടിന് പ്രധാനമന്ത്രിക്കസേര കൈമാറുകയും ചെയ്യും.ഇസ്രായേലിൽ അനിശ്ചിതത്വം, സർക്കാർ രൂപീകരണം പാളി, തുർക്കിയും ഖത്തറും പണമിറക്കി കളിച്ചെന്ന് നെതന്യാഹുഅതല്ലെങ്കില്‍ നെതന്യാഹു പ്രധാനമന്ത്രി സ്ഥാനത്ത് തുടരുകയും മന്ത്രിസഭയിലെ പ്രധാനപ്പെട്ട ഒരു പദവി ഐസന്‍കോട്ടിന് നല്‍കുകയും ചെയ്യും എന്നതാണ് രണ്ടാമത്തെ ഓപ്ഷന്‍. നെതന്യാഹു സര്‍ക്കാരിനെ പുറത്താക്കുക എന്ന മുദ്രാവാക്യം മുന്നോട്ട് വെച്ച് തിരഞ്ഞെടുപ്പിനെ നേരിട്ട ശേഷം അതേ സര്‍ക്കാരിന്റെ ഭാഗമാവുക എന്നത് രാഷ്ട്രീയപരമായ വലിയ ക്ഷീണമാകും എന്നാണ് പ്രതിപക്ഷ പാര്‍ട്ടികള്‍ വിലയിരുത്തുന്നത്.നെതന്യാഹു സര്‍ക്കാരിന് എതിരെയുളള ഒരു ബദല്‍ സര്‍ക്കാരിന് പിന്തുണ നല്‍കാന്‍ തയ്യാറാണെന്ന് അറബ് പാര്‍ട്ടികള്‍ ഇതിനകം വ്യക്തമാക്കിയിട്ടുണ്ട്.",
@@ -783,30 +793,28 @@
       "summary_method": "tfidf_extractive_full_article"
     },
     {
-      "id": "c0d96f79af415f5e",
-      "title": "ഇന്ത്യയിലെ അതിദരിദ്രരുടെ എണ്ണം വെറും 2.6 ശതമാനമായി കുറഞ്ഞുവെന്ന് ലോകബാങ്ക്; ശമ്പളത്തിൽ അസമത്വം",
-      "summary": "കടുത്ത ദാരിദ്ര്യത്തിന്റെ കുറവ് അർത്ഥമാക്കുന്നത് 2011നെ അപേക്ഷിച്ച് 2023 ൽ ഇന്ത്യൻ ജനസംഖ്യയുടെ വളരെ വലിയൊരു ഭാഗം പ്രതിദിന ചിലവിൽ മുകളിലേക്ക് വന്നുവെന്നാണ്.കടുത്ത ദാരിദ്ര്യം അളക്കാൻ ലോകബാങ്ക് പ്രതിദിനം 3 ഡോളർ ലൈനാണ് സാധാരണയായി ഉപയോഗിക്കുന്നത്, അതേസമയം താഴ്ന്ന ഇടത്തരം വരുമാനമുള്ള രാജ്യങ്ങളിലെ ദാരിദ്ര്യത്തിന്റെ മാനദണ്ഡം 4.20 ഡോളറാണ്. രണ്ട് പരിധികളും ജീവിതച്ചെലവിലെ വ്യത്യാസങ്ങൾ ക്രമീകരിക്കുന്ന 2021 ലെ വാങ്ങൽ ശേഷി തുല്യതയെ അടിസ്ഥാനമാക്കിയുള്ളതാണ്.പ്രതിദിനം 4.20 ഡോളറിന് താഴെ ജീവിക്കുന്നവരുടെ വിഹിതം 12 വർഷത്തിനിടയിൽ 57.7 ശതമാനത്തിൽ നിന്ന് 16.1 ശതമാനമായി കുറഞ്ഞുവെന്നാണ് റിപ്പോർട്ട് സൂചിപ്പിക്കുന്നത്. 100 എന്ന സ്കോർ സാധ്യമായ ഏറ്റവും ഉയർന്ന അസമത്വത്തെ പ്രതിനിധീകരിക്കുന്നു, അവിടെ ചിലർക്ക് എല്ലാം ലഭിക്കുകയും മറ്റ് ചില വിഭാഗങ്ങൾക്ക് ഒന്നും ലഭിക്കാതിരിക്കുകയും ചെയ്യുന്നു എന്നാണ് സൂചിപ്പിക്കുന്നത്.അൽപ്പം കൂടി ലളിതമായി പറഞ്ഞാൽ, കുറഞ്ഞ ജിനി സ്കോർ കൂടുതൽ തുല്യമായ വിതരണത്തെ സൂചിപ്പിക്കുന്നു, അതേസമയം ഉയർന്ന സ്കോർ കൂടുതൽ അസമത്വത്തിലേക്ക് വിരൽ ചൂണ്ടുന്നു. ഇത് കേവലം സമ്പന്നരുടെയും ദരിദ്രരുടെയും വരുമാനത്തെ താരതമ്യം ചെയ്യുന്നില്ല.വേതന വിടവിനെക്കുറിച്ചുള്ള ലോകബാങ്കിന്റെ കണ്ടെത്തൽ വരുമാന വിതരണത്തിന്റെ രണ്ട് അറ്റത്തുള്ള തൊഴിലാളികൾ തമ്മിലുള്ള വരുമാനത്തിലെ വ്യത്യാസത്തെ എടുത്തുകാണിക്കുന്നു.മികച്ച രീതിയിൽ സമ്പാദിക്കുന്ന 10 ശതമാനം തൊഴിലാളികളിൽ നിന്നുള്ള ശരാശരി വരുമാനം 2023 ലെ ഏറ്റവും താഴെയുള്ള 10 ശതമാനത്തെ അപേക്ഷിച്ച് 13 മടങ്ങ് കൂടുതലാണെന്ന് റിപ്പോർട്ട് പറയുന്നു.",
-      "url": "https://malayalam.oneindia.com/news/india/world-bank-says-the-number-of-extremely-poor-people-in-india-has-dropped-to-just-2-6-percent-602705.html",
-      "source": "Oneindia Malayalam",
+      "id": "ba6c75ace4ef777f",
+      "title": "കണക്കുകളല്ല, ഇംപാക്റ്റ് പ്രധാനം! ന്യൂസിലൻഡ് പര്യടനത്തിന് മുൻപ് ഇന്ത്യൻ ടീമിൽ നിർണായക മാറ്റങ്ങൾ - myKhel malayalam",
+      "summary": "കണക്കുകളല്ല, ഇംപാക്റ്റ് പ്രധാനം! ന്യൂസിലൻഡ് പര്യടനത്തിന് മുൻപ് ഇന്ത്യൻ ടീമിൽ നിർണായക മാറ്റങ്ങൾ myKhel malayalam",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSUMyY212UDBmaFhVckZSejh6VlA5TE1nRVZhV2dlYmVUUlBvcDdiZkREaVdzRHZaOFg4dmc2YTkxYmpreF9zTEpVSHhINFFDRmdIaG1HTnZ5dzhzdF9fM2ctYnA3NDVNMmFYaThLNmZ4UEJQcUlZMFd4dlUtd053RXJCRlQ2U1ZXUFVCSFh2N3hNTXlaVHl1UWYzQUNWWTdxZUJWZmFlMUw1UHpKSlI4TUw0NjQ0bk5ZYURKaEwtRkM1Zw?oc=5",
+      "source": "myKhel malayalam",
       "category": "general",
-      "published_at": "2026-10-30T08:00:31+00:00",
+      "published_at": "2026-10-30T17:24:14+00:00",
       "importance": 3,
       "personal_score": 3.25,
       "entities": [
-        "ഇന്ത്യയിലെ",
-        "അതിദരിദ്രരുടെ",
-        "എണ്ണം",
-        "വെറും",
-        "ശതമാനമായി",
-        "കുറഞ്ഞുവെന്ന്",
-        "ലോകബാങ്ക്",
-        "ശമ്പളത്തിൽ",
-        "അസമത്വം",
-        "എൻഎച്ച്",
-        "ദുരിതക്കയമായി",
-        "വടകര"
+        "കണക്കുകളല്ല",
+        "ഇംപാക്റ്റ്",
+        "പ്രധാനം",
+        "ന്യൂസിലൻഡ്",
+        "പര്യടനത്തിന്",
+        "മുൻപ്",
+        "ഇന്ത്യൻ",
+        "ടീമിൽ",
+        "നിർണായക",
+        "മാറ്റങ്ങൾ"
       ],
-      "summary_method": "tfidf_extractive_full_article"
+      "summary_method": "rss_fallback"
     },
     {
       "id": "2f3b5e424344f2d7",
@@ -835,108 +843,29 @@
       "summary_method": "rss_fallback"
     },
     {
-      "id": "2c809cdbf4444a27",
-      "title": "മഴ വില്ലനായി, ഗ്യാനേഷ് കുമാറിന്റെ പബ്ലിക് ഇംപീച്ച്മെന്റ് മാറ്റി വെച്ച് ഇന്ത്യ സഖ്യം",
-      "summary": "എന്നാല്‍ ഇന്നലെ മുതല്‍ രാജ്യതലസ്ഥാനത്ത് കനത്ത മഴ തുടരുന്ന പശ്ചാത്തലത്തിലാണ് ഇന്ത്യ സഖ്യം പരിപാടി മാറ്റി വെക്കാന്‍ നിര്‍ബന്ധിതരായത്.സെന്‍ട്രല്‍ ദില്ലിയിലെ രാജാജി മാര്‍ഗിലുളള കോണ്‍ഗ്രസ് അധ്യക്ഷന്‍ മല്ലികാര്‍ജ്ജുന്‍ ഖാര്‍ഗെയുടെ വസതിക്ക് മുന്നിലെ പുല്‍ത്തകിടിയില്‍ വെച്ചായിരുന്നു മോക്ക് ഇംപീച്ച്‌മെന്റ് നടത്താനുളള പദ്ധതി. എന്നാല്‍ മഴ കാരണം ശനിയാഴ്ച വൈകിട്ട് 4 മണിക്ക് പരിപാടി നടത്താനാണ് എല്ലാവരും ചേര്‍ന്ന് തീരുമാനം എടുത്തിരിക്കുന്നതെന്ന് ലോക്‌സഭാ പ്രതിപക്ഷ നേതാവ് രാഹുല്‍ ഗാന്ധി വ്യക്തമാക്കി.എസ്‌ഐആര്‍ പ്രക്രിയയില്‍ ക്രമക്കേട് ആരോപിച്ച് മുഖ്യ തിരഞ്ഞെടുപ്പ് ക്മ്മീഷര്‍ ഗ്യാനേഷ് കുമാര്‍ രാജി വെക്കണം എന്നാവശ്യപ്പെട്ടാണ് കോണ്‍ഗ്രസ് അടക്കമുളള പ്രതിപക്ഷ പാര്‍ട്ടികള്‍ സമരമുഖത്ത് ഇറങ്ങിയിരിക്കുന്നത്. തിരഞ്ഞെടുപ്പ് കമ്മീഷനിലെ മറ്റ് രണ്ട് കമ്മീഷണര്‍മാര്‍ എസ്‌ഐആറിലെ പല തീരുമാനങ്ങളിലും വിയോജിപ്പ് രേഖപ്പെടുത്തിയിരുന്നുവെന്നും അത് പരിഗണിക്കാതെ ഗ്യാനേഷ് കുമാര്‍ ഒറ്റയ്ക്ക് തീരുമാനങ്ങളെടുത്തു എന്നും ആരോപിക്കുന്ന വാര്‍ത്ത പുറത്ത് വന്നതിന് പിന്നാലെയാണ് രാജി ആവശ്യം ശക്തമായത്.ഇസ്രായേലിൽ സർക്കാർ രൂപീകരിക്കാൻ 5 ഫോർമുലകൾ, ബോൾ നെതന്യാഹുവിന്റെ കോർട്ടിൽ? കോണ്‍ഗ്രസ് അധ്യക്ഷന്‍ മല്ലികാര്‍ജ്ജുന്‍ ഖാന്‍ഗെ മോക്ക് അവിശ്വാസ പ്രമേയം അവതരിപ്പിക്കുകയും ലോക്‌സഭാ പ്രതിപക്ഷ നേതാവ് രാഹുല്‍ ഗാന്ധി ഉപസംഹാര പ്രസംഗം നടത്തുകയും ചെയ്യും.",
-      "url": "https://malayalam.oneindia.com/news/india/rain-plays-spoilsport-india-bloc-postpones-gyanesh-kumars-public-impeachment-move-602719.html",
+      "id": "aa41be9fe1bef779",
+      "title": "സ്വർണവില കേരളത്തിൽ 96000ത്തിലേക്ക്? ആഗോള വിപണയിൽ 3700 ഡോളറാകും? സാധ്യത ഇങ്ങനെ",
+      "summary": "ഇന്ന് 1,04,320 രൂപയിലാണ് സംസ്ഥാനത്ത് വ്യാപാരം പുരോഗമിക്കുന്നത്.കഴിഞ്ഞ 8 മാസത്തിനിടെ സ്വർണവില ഏകദേശം 26 ശതമാനത്തോളമാണ് ഇടിഞ്ഞത്. പശ്ചിമേഷ്യൻ സംഘർഷവും എണ്ണവിലയിലെ കുതിപ്പും പണപ്പെരുപ്പം ഉയർന്നതുമാണ് സ്വർണത്തിന് തിരിച്ചടി തീർക്കുന്നത്.രാജ്യാന്തര വിപണിയിൽ എണ്ണ വില വീണ്ടും ഉയരുകയാണ്. അടുത്ത നാല് ദിവസത്തിനുള്ളിൽ ആക്രമണം ശക്തമാക്കുമെന്നും ഇറാൻ്റെ തിരിച്ചടികൾ നേരിടാൻ ഗൾഫ് രാജ്യങ്ങൾ സജ്ജമായിരിക്കണമെന്നുമാണ് യു.എസ് മുന്നറിയിപ്പ് നൽകുന്നത്. സംഘർഷം കടുക്കുന്നത് ക്രൂഡ് ഓയിൽ വിലയെ വീണ്ടും തീപിടിപ്പിക്കും.അതിനിടെ സൌദിയുടെ കിഴക്കൻ മേഖലകൾ ലക്ഷ്യം വെച്ച് ഹൂതികളും മിസൈൽ ആക്രമണം ശക്തമാക്കുന്നുണ്ട്.",
+      "url": "https://malayalam.oneindia.com/news/kerala/gold-rate-in-kerala-may-fall-to-rs-96-000-as-global-prices-could-drop-to-3-700-dollar-heres-why-602749.html",
       "source": "Oneindia Malayalam",
       "category": "general",
-      "published_at": "2026-10-30T17:23:08+00:00",
+      "published_at": "2026-10-30T17:16:12+00:00",
       "importance": 3,
       "personal_score": 3.25,
       "entities": [
-        "വില്ലനായി",
-        "ഗ്യാനേഷ്",
-        "കുമാറിന്റെ",
-        "പബ്ലിക്",
-        "ഇംപീച്ച്മെന്റ്",
-        "മാറ്റി",
-        "വെച്ച്",
-        "ഇന്ത്യ",
-        "സഖ്യം",
-        "Rain Plays Spoilsport",
-        "INDIA Bloc Postpones Gyanesh",
-        "Kumar"
+        "സ്വർണവില",
+        "കേരളത്തിൽ",
+        "ത്തിലേക്ക്",
+        "ആഗോള",
+        "വിപണയിൽ",
+        "ഡോളറാകും",
+        "സാധ്യത",
+        "ഇങ്ങനെ",
+        "Gold",
+        "Price",
+        "Global Prices Could Drop"
       ],
       "summary_method": "tfidf_extractive_full_article"
-    },
-    {
-      "id": "5f3e5ff69fe3c4f0",
-      "title": "സൗദിയിലേക്കുള്ള സര്‍വീസുകള്‍ റദ്ദാക്കി എയര്‍ ഇന്ത്യയും എയര്‍ ഇന്ത്യ എക്‌സ്പ്രസും; യാത്രക്കാര്‍ക്ക് മുഴുവന്‍ തുകയും ലഭിക്കും - Samakalika Malayalam",
-      "summary": "സൗദിയിലേക്കുള്ള സര്‍വീസുകള്‍ റദ്ദാക്കി എയര്‍ ഇന്ത്യയും എയര്‍ ഇന്ത്യ എക്‌സ്പ്രസും; യാത്രക്കാര്‍ക്ക് മുഴുവന്‍ തുകയും ലഭിക്കും Samakalika Malayalam",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPR1YyUXBENXg5dGxfWGZteUNTNUV3RkN3TXZFMGZvc1lmaGN6NnlUYlk0bV8ydDFjVWxzZVdUSVZzZElOZEtCZlh1a2lDTHBkQXJFalpQc2VrSV9HVFJaVmlrOTM4dDdMV0pOY01JeDZEUDRrTUZQWEtFWjN4Z29Yb0piVElDazh3MWxlNHNEYnc1RWt3RWFWeThrMm1UYWZBWGlKU0Z0UzJvUk1SYWJRMFpUUGhhcHhh0gHGAUFVX3lxTE1tSThSdjRkSTI5cTFwUEk3empsREQzRTNvTVk0Z1o1MmRBUW5XSW4wRXlRaXhtSFFhenFjY1ZnRlJ6eER0c2N0WDBUbXFEMFdGMFBMb2lyajJPc1FwVUhwbFFMV3g2cGdqOWZrLUpteUJtMl9CVGo1Rmhob3BaSzcxZ05tVUZLREVrR2VtSi0xMktYYi1PTGdjM1NRb25MQVNhMHRxT2paUjFGYWpkd2dkWHVaWk5CaE9LOXVleVNRVUlURUszUQ?oc=5",
-      "source": "Samakalika Malayalam",
-      "category": "general",
-      "published_at": "2026-10-30T16:34:57+00:00",
-      "importance": 3,
-      "personal_score": 3.25,
-      "entities": [
-        "സൗദിയിലേക്കുള്ള",
-        "സര്",
-        "വീസുകള്",
-        "റദ്ദാക്കി",
-        "എയര്",
-        "ഇന്ത്യയും",
-        "ഇന്ത്യ",
-        "എക്",
-        "സ്പ്രസും",
-        "യാത്രക്കാര്",
-        "ക്ക്",
-        "മുഴുവന്"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
-      "id": "fc5b89fd8eb2f677",
-      "title": "ഇന്ത്യയുടെ വളർച്ചയും പൈതൃകവും എടുത്തുകാട്ടാൻ ഐഐടിഎഫ് 2026; പ്രമേയമായി 'വികസനവും പൈതൃകവും'",
-      "summary": "ന്യൂഡൽഹി: ഇന്ത്യയുടെ സാമ്പത്തിക വളർച്ചയും വിവിധ സംസ്ഥാനങ്ങളിലെ സംരംഭങ്ങളും സാംസ്‌കാരിക പൈതൃകവും പരിചയപ്പെടുത്തുന്ന 45-ാമത് ഇന്ത്യ ഇന്റർനാഷണൽ ട്രേഡ് ഫെയർ (ഐഐടിഎഫ്) നവംബർ 13 മുതൽ 27 വരെ ന്യൂഡൽഹിയിലെ ഭാരത് മണ്ഡപത്തിൽ നടക്കും. ഇന്ത്യയിലെ വിവിധ സംസ്ഥാനങ്ങൾ, കേന്ദ്ര മന്ത്രാലയങ്ങൾ, ചെറുകിട വ്യവസായങ്ങൾ, സ്‌റ്റാർട്ടപ്പുകൾ, കരകൗശല വിദഗ്‌ധർ, അന്താരാഷ്ട്ര സ്ഥാപനങ്ങൾ എന്നിവയുൾപ്പെടെ 3,500-ലധികം പ്രദർശകർ മേളയിൽ പങ്കെടുക്കുമെന്നാണ് പ്രതീക്ഷിക്കുന്നത്. ഇന്ത്യയുടെ വിവിധ ഭാഗങ്ങളിൽ നിന്നുള്ള ഉൽപ്പന്നങ്ങൾ, കരകൗശല വസ്‌തുക്കൾ, പുതിയ സാങ്കേതികവിദ്യകൾ, വസ്ത്രങ്ങൾ, ഭക്ഷണവിഭവങ്ങൾ തുടങ്ങിയവ ഇവിടെ പ്രദർശിപ്പിക്കും. ഔദ്യോഗിക വെബ്സൈറ്റ്: https://www.itpo.gov.in/iitf ഇന്ത്യയുടെ വിവിധ സംസ്ഥാനങ്ങളിലെ ഉൽപ്പന്നങ്ങൾ, പരമ്പരാഗത കലാരൂപങ്ങൾ, പുതിയ സാങ്കേതികവിദ്യകൾ, ചെറുകിട വ്യവസായങ്ങൾ, സ്‌റ്റാർട്ടപ്പുകൾ, ഭക്ഷണവിഭവങ്ങൾ, വിനോദ പരിപാടികൾ എന്നിവയെല്ലാം ഒരുമിക്കുന്ന വലിയൊരു വേദിയായിരിക്കും ഇത്തവണത്തെ മേള.",
-      "url": "https://malayalam.oneindia.com/partner-content/iitf-2026-to-showcase-indias-growth-and-heritage-vikas-aur-virasat-chosen-as-the-theme-602709.html",
-      "source": "Oneindia Malayalam",
-      "category": "general",
-      "published_at": "2026-10-30T08:37:22+00:00",
-      "importance": 3,
-      "personal_score": 3.25,
-      "entities": [
-        "ഇന്ത്യയുടെ",
-        "വളർച്ചയും",
-        "പൈതൃകവും",
-        "എടുത്തുകാട്ടാൻ",
-        "ഐഐടിഎഫ്",
-        "പ്രമേയമായി",
-        "വികസനവും",
-        "മേള",
-        "IITF",
-        "To Showcase Indias Growth",
-        "And Heritage Vikas Aur",
-        "Virasat Chosen As The"
-      ],
-      "summary_method": "tfidf_extractive_full_article"
-    },
-    {
-      "id": "69dec4ac1146fbe9",
-      "title": "സി.കെ. നായിഡു ട്രോഫിയിൽ കേരളം–വിദർഭ പോരാട്ടം സമനിലയിൽ; 21 റൺസിനിടെ മൂന്ന് വിക്കറ്റ് നഷ്ടമായിട്ടും തിരിച്ചുകയറി കേരളം - Janam TV",
-      "summary": "സി.കെ. നായിഡു ട്രോഫിയിൽ കേരളം–വിദർഭ പോരാട്ടം സമനിലയിൽ; 21 റൺസിനിടെ മൂന്ന് വിക്കറ്റ് നഷ്ടമായിട്ടും തിരിച്ചുകയറി കേരളം Janam TV",
-      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBscTFzWGdrbEZGYmp1dTByaDN2WTRoRElUYlJlcFdKWEoySFR4b0NRRDB0VkdQbW9wNDE0cFc0Z2NrR2vSAUhBVV95cUxQdEo5MkswanN5aWZPRnNCY1BNal9jOUFCdHA4MUdzYVVSNnJleFEwbl9MS0FTdERUOVVYN0t6WDhyaGVXM05jRC0?oc=5",
-      "source": "Janam TV",
-      "category": "general",
-      "published_at": "2026-10-30T16:33:02+00:00",
-      "importance": 3,
-      "personal_score": 3.25,
-      "entities": [
-        "നായിഡു",
-        "ട്രോഫിയിൽ",
-        "കേരളം",
-        "വിദർഭ",
-        "പോരാട്ടം",
-        "സമനിലയിൽ",
-        "റൺസിനിടെ",
-        "മൂന്ന്",
-        "വിക്കറ്റ്",
-        "നഷ്ടമായിട്ടും",
-        "തിരിച്ചുകയറി",
-        "Janam TV"
-      ],
-      "summary_method": "rss_fallback"
     },
     {
       "id": "69c77ded83bda987",
@@ -990,6 +919,51 @@
       "summary_method": "tfidf_extractive_full_article"
     },
     {
+      "id": "2c809cdbf4444a27",
+      "title": "മഴ വില്ലനായി, ഗ്യാനേഷ് കുമാറിന്റെ പബ്ലിക് ഇംപീച്ച്മെന്റ് മാറ്റി വെച്ച് ഇന്ത്യ സഖ്യം",
+      "summary": "എന്നാല്‍ ഇന്നലെ മുതല്‍ രാജ്യതലസ്ഥാനത്ത് കനത്ത മഴ തുടരുന്ന പശ്ചാത്തലത്തിലാണ് ഇന്ത്യ സഖ്യം പരിപാടി മാറ്റി വെക്കാന്‍ നിര്‍ബന്ധിതരായത്.സെന്‍ട്രല്‍ ദില്ലിയിലെ രാജാജി മാര്‍ഗിലുളള കോണ്‍ഗ്രസ് അധ്യക്ഷന്‍ മല്ലികാര്‍ജ്ജുന്‍ ഖാര്‍ഗെയുടെ വസതിക്ക് മുന്നിലെ പുല്‍ത്തകിടിയില്‍ വെച്ചായിരുന്നു മോക്ക് ഇംപീച്ച്‌മെന്റ് നടത്താനുളള പദ്ധതി. എന്നാല്‍ മഴ കാരണം ശനിയാഴ്ച വൈകിട്ട് 4 മണിക്ക് പരിപാടി നടത്താനാണ് എല്ലാവരും ചേര്‍ന്ന് തീരുമാനം എടുത്തിരിക്കുന്നതെന്ന് ലോക്‌സഭാ പ്രതിപക്ഷ നേതാവ് രാഹുല്‍ ഗാന്ധി വ്യക്തമാക്കി.എസ്‌ഐആര്‍ പ്രക്രിയയില്‍ ക്രമക്കേട് ആരോപിച്ച് മുഖ്യ തിരഞ്ഞെടുപ്പ് ക്മ്മീഷര്‍ ഗ്യാനേഷ് കുമാര്‍ രാജി വെക്കണം എന്നാവശ്യപ്പെട്ടാണ് കോണ്‍ഗ്രസ് അടക്കമുളള പ്രതിപക്ഷ പാര്‍ട്ടികള്‍ സമരമുഖത്ത് ഇറങ്ങിയിരിക്കുന്നത്. തിരഞ്ഞെടുപ്പ് കമ്മീഷനിലെ മറ്റ് രണ്ട് കമ്മീഷണര്‍മാര്‍ എസ്‌ഐആറിലെ പല തീരുമാനങ്ങളിലും വിയോജിപ്പ് രേഖപ്പെടുത്തിയിരുന്നുവെന്നും അത് പരിഗണിക്കാതെ ഗ്യാനേഷ് കുമാര്‍ ഒറ്റയ്ക്ക് തീരുമാനങ്ങളെടുത്തു എന്നും ആരോപിക്കുന്ന വാര്‍ത്ത പുറത്ത് വന്നതിന് പിന്നാലെയാണ് രാജി ആവശ്യം ശക്തമായത്.ഇസ്രായേലിൽ സർക്കാർ രൂപീകരിക്കാൻ 5 ഫോർമുലകൾ, ബോൾ നെതന്യാഹുവിന്റെ കോർട്ടിൽ? കോണ്‍ഗ്രസ് അധ്യക്ഷന്‍ മല്ലികാര്‍ജ്ജുന്‍ ഖാന്‍ഗെ മോക്ക് അവിശ്വാസ പ്രമേയം അവതരിപ്പിക്കുകയും ലോക്‌സഭാ പ്രതിപക്ഷ നേതാവ് രാഹുല്‍ ഗാന്ധി ഉപസംഹാര പ്രസംഗം നടത്തുകയും ചെയ്യും.",
+      "url": "https://malayalam.oneindia.com/news/india/rain-plays-spoilsport-india-bloc-postpones-gyanesh-kumars-public-impeachment-move-602719.html",
+      "source": "Oneindia Malayalam",
+      "category": "general",
+      "published_at": "2026-10-30T17:23:08+00:00",
+      "importance": 3,
+      "personal_score": 3.25,
+      "entities": [
+        "വില്ലനായി",
+        "ഗ്യാനേഷ്",
+        "കുമാറിന്റെ",
+        "പബ്ലിക്",
+        "ഇംപീച്ച്മെന്റ്",
+        "മാറ്റി",
+        "വെച്ച്",
+        "ഇന്ത്യ",
+        "സഖ്യം",
+        "Rain Plays Spoilsport",
+        "INDIA Bloc Postpones Gyanesh",
+        "Kumar"
+      ],
+      "summary_method": "tfidf_extractive_full_article"
+    },
+    {
+      "id": "cfd2904f3a43eef3",
+      "title": "ജനപക്ഷ വികസനവും സമകാല വെല്ലുവിളികളും - Deshabhimani",
+      "summary": "ജനപക്ഷ വികസനവും സമകാല വെല്ലുവിളികളും Deshabhimani",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9ZWThKTTFBdE1yZmNXVXVQTzZYMEZkbThsTDItT0VzRW84LXlZWDdhVmRxSHdGOVVZT2VwYXhVSG5MNnp4bDIzNU45ZmhZV1BVQk1qdjk2bno3SEdyMFdCanYyRjdNQl94YUZScnhn?oc=5",
+      "source": "Deshabhimani",
+      "category": "general",
+      "published_at": "2026-10-30T20:37:45+00:00",
+      "importance": 3,
+      "personal_score": 3.25,
+      "entities": [
+        "ജനപക്ഷ",
+        "വികസനവും",
+        "സമകാല",
+        "വെല്ലുവിളികളും",
+        "Deshabhimani"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
       "id": "e2f810a626348256",
       "title": "സംസ്ഥാനത്തെ സ്‌കൂൾ ബസുകളിൽ പ്രത്യേക പരിശോധന; മദ്യപിച്ച് വാഹനമോടിച്ച 21 ഡ്രൈവർമാർ പിടിയിൽ - Kerala Kaumudi",
       "summary": "സംസ്ഥാനത്തെ സ്‌കൂൾ ബസുകളിൽ പ്രത്യേക പരിശോധന; മദ്യപിച്ച് വാഹനമോടിച്ച 21 ഡ്രൈവർമാർ പിടിയിൽ Kerala Kaumudi",
@@ -1014,102 +988,54 @@
       "summary_method": "rss_fallback"
     },
     {
-      "id": "b303347371e9d977",
-      "title": "സൈബർ കുറ്റകൃത്യങ്ങളെ പ്രതിരോധിക്കാൻ സമ്പൂർണ സൈബർ റെസിലിയന്‍റ് കേരളം, 'ക്ലിക്ക്' ജനകീയ മുന്നേറ്റത്തിന് ഇന്ന് തുടക്കം; മമ്മൂട്ടിയടക്കം അണിനിരക്കും - Asianet News Malayalam",
-      "summary": "സൈബർ കുറ്റകൃത്യങ്ങളെ പ്രതിരോധിക്കാൻ സമ്പൂർണ സൈബർ റെസിലിയന്‍റ് കേരളം, 'ക്ലിക്ക്' ജനകീയ മുന്നേറ്റത്തിന് ഇന്ന് തുടക്കം; മമ്മൂട്ടിയടക്കം അണിനിരക്കും Asianet News Malayalam",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQSFRUSmozRVR3aDEzYjNRcTZheXl1R2xSaXBEeHhpckxVejY4Y0ZJS1RxTEs3bWU1aEF4WTVINFFNRmRrNjhPNXVOVVJuMnV2MEpkLURFdUo4ZTBiMER5Q1ZEUHdYRmFLV0h4N0VyNVgtTFJvWUtsLUN4RkFDSjNoU0dYS0hoNGZFczBFUzlZc3lhaXVOMUpwcXdEYktCV21BN1ZsQkcwQjRwOFRUZWRRMEZFRVppY09zbWJZbzFtN1JicUtrRGNyazl5bWU3Z2VoMGx5WDNiVC00MWd4ejFTUzdR0gHnAUFVX3lxTE11UHphSTQ0a1lLSXhJaTdHU0hxcl9EUHc3UF9IdkUzV3dSMHR1cGhFMTJIdUFNYnlqaTB4dm4zUFl2VlNsc05aMzBGempwR3R5OEhZcTdBUm16SGxUMG40amk1d0Rld1M2RVFuV0NhVi0yZ0FaekNOMFRxYmxUU1dGRlJ0Rzh5Zk5rUlVEOEVBMGM2NDZHOUN0TlhBM1FnZlQyd3lHZTBocFF6N0Z0U2JreEc2ZFJ6UkJPSU5kY2tNQXEyRG56bzZlRnVwSlVfWjFnM3hJV2JpWGxHQmE3aDhIZGVJMWtqaw?oc=5",
-      "source": "Asianet News Malayalam",
-      "category": "general",
-      "published_at": "2026-10-30T18:44:38+00:00",
-      "importance": 3,
-      "personal_score": 3.25,
-      "entities": [
-        "സൈബർ",
-        "കുറ്റകൃത്യങ്ങളെ",
-        "പ്രതിരോധിക്കാൻ",
-        "സമ്പൂർണ",
-        "റെസിലിയന്",
-        "കേരളം",
-        "ക്ലിക്ക്",
-        "ജനകീയ",
-        "മുന്നേറ്റത്തിന്",
-        "ഇന്ന്",
-        "തുടക്കം",
-        "മമ്മൂട്ടിയടക്കം"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
-      "id": "1f4eba5b2a78751f",
-      "title": "ബാറിലെ മദ്യപാനത്തിന് ആധാർ കാർഡ് എല്ലാവർക്കുമല്ല, വ്യക്തത വരുത്തി എക്സൈസ് മന്ത്രി; '23 വയസായില്ലെന്ന് സംശയം തോന്നുന്നവരുടെ ആധാർ പരിശോധിക്കണം' - Asianet News Malayalam",
-      "summary": "ബാറിലെ മദ്യപാനത്തിന് ആധാർ കാർഡ് എല്ലാവർക്കുമല്ല, വ്യക്തത വരുത്തി എക്സൈസ് മന്ത്രി; '23 വയസായില്ലെന്ന് സംശയം തോന്നുന്നവരുടെ ആധാർ പരിശോധിക്കണം' Asianet News Malayalam",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOYzV6RzZhX0V2Wk8tOHVZU2hNM1IxVnpkUm9ydjhqYV9Wd0hoRnowTFRnM1NYZ0ZVQVRCa09EdF9ZQWxoWUE1VEM5S2dhSEYza3I2Wk1pR01GTzI5dEhMeU9EUFlzNmxfMVhVTnVZNVhpMWstM2Nsck1rR2U3SW9PVWdRUmpLNmJzQlZSdmtENkw0NnB6Mm93eEFjdV8wVGFVcDdqVHJXQVo1TG05eGNpZ1AtMldOQ2ZwcnQ5RjBhWWU4V1dXVExmdnBLdHZ1SHhQVGVUbHFKaGJzZDBSVS1Ic25DeXNfdnBwOE10OGpZVdIB9AFBVV95cUxNMG5jR0t5UExHejJ2UWh1ZlNIRmt1STVKdll5Q211WUR5S0V6elF2Vzc2emZEZkJwRG90WnQxTml0NWxBeDc5ZDJENERhdU1wNnhOMXhQX2ZnanJPUnBOd2twM1dCcExhdjUzakdrSDRReTlyR3pWUk92RlhZWW1Eb1N0QVFnanQ1WEZqczhPRUU4VE9rYVVPY24xM2c5VjZLTDBVbFNwWS1CV1RDcXUyR0dWc3hCY3NCNGxLS0xpcTJ1Wi0ySndLVEhsdC0xNkxmcks2VVZZM1R1TzNWZGw5WHFvWW9tUHhLdzA5WVlLNWpjcWZ3?oc=5",
-      "source": "Asianet News Malayalam",
-      "category": "general",
-      "published_at": "2026-10-30T18:39:15+00:00",
-      "importance": 3,
-      "personal_score": 3.25,
-      "entities": [
-        "ബാറിലെ",
-        "മദ്യപാനത്തിന്",
-        "ആധാർ",
-        "കാർഡ്",
-        "എല്ലാവർക്കുമല്ല",
-        "വ്യക്തത",
-        "വരുത്തി",
-        "എക്സൈസ്",
-        "മന്ത്രി",
-        "വയസായില്ലെന്ന്",
-        "സംശയം",
-        "തോന്നുന്നവരുടെ"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
-      "id": "1bf2d331091c15d8",
-      "title": "സ്വർണവില കേരളത്തിൽ 96000ത്തിലേക്ക്? ആഗോള വിപണയിൽ 3700 ഡോളറാകും? സാധ്യത ഇങ്ങനെ - Oneindia Malayalam",
-      "summary": "സ്വർണവില കേരളത്തിൽ 96000ത്തിലേക്ക്? ആഗോള വിപണയിൽ 3700 ഡോളറാകും? സാധ്യത ഇങ്ങനെ Oneindia Malayalam",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOa2JnUTBnUV9mVUYxWnlOU1BncXNfVDBOcUQ1WWZVQVJDVVp1T1hrWF84NGhjTS16RzJLaFR1OGJ0U29TenloUktqc3hqYjRDSExkNGlnUXFoTkloUHMxVkgwNlB2TkxIU3owREs5dmgxNkNXY0JWUktnVEFZOUctNGNnRFVrcE55czljb0drRG54aDdMeUJESDBFVWNBRmhfMHFpWEVSSnJoT05SNE92SDdWUHB3RWlEQWh0UXdMNnFKSEJPMUNyaWpWMlg0UmhiREFsQzJ0N2tKbEJ3OENWWHowME8?oc=5",
+      "id": "c0d96f79af415f5e",
+      "title": "ഇന്ത്യയിലെ അതിദരിദ്രരുടെ എണ്ണം വെറും 2.6 ശതമാനമായി കുറഞ്ഞുവെന്ന് ലോകബാങ്ക്; ശമ്പളത്തിൽ അസമത്വം",
+      "summary": "കടുത്ത ദാരിദ്ര്യത്തിന്റെ കുറവ് അർത്ഥമാക്കുന്നത് 2011നെ അപേക്ഷിച്ച് 2023 ൽ ഇന്ത്യൻ ജനസംഖ്യയുടെ വളരെ വലിയൊരു ഭാഗം പ്രതിദിന ചിലവിൽ മുകളിലേക്ക് വന്നുവെന്നാണ്.കടുത്ത ദാരിദ്ര്യം അളക്കാൻ ലോകബാങ്ക് പ്രതിദിനം 3 ഡോളർ ലൈനാണ് സാധാരണയായി ഉപയോഗിക്കുന്നത്, അതേസമയം താഴ്ന്ന ഇടത്തരം വരുമാനമുള്ള രാജ്യങ്ങളിലെ ദാരിദ്ര്യത്തിന്റെ മാനദണ്ഡം 4.20 ഡോളറാണ്. രണ്ട് പരിധികളും ജീവിതച്ചെലവിലെ വ്യത്യാസങ്ങൾ ക്രമീകരിക്കുന്ന 2021 ലെ വാങ്ങൽ ശേഷി തുല്യതയെ അടിസ്ഥാനമാക്കിയുള്ളതാണ്.പ്രതിദിനം 4.20 ഡോളറിന് താഴെ ജീവിക്കുന്നവരുടെ വിഹിതം 12 വർഷത്തിനിടയിൽ 57.7 ശതമാനത്തിൽ നിന്ന് 16.1 ശതമാനമായി കുറഞ്ഞുവെന്നാണ് റിപ്പോർട്ട് സൂചിപ്പിക്കുന്നത്. 100 എന്ന സ്കോർ സാധ്യമായ ഏറ്റവും ഉയർന്ന അസമത്വത്തെ പ്രതിനിധീകരിക്കുന്നു, അവിടെ ചിലർക്ക് എല്ലാം ലഭിക്കുകയും മറ്റ് ചില വിഭാഗങ്ങൾക്ക് ഒന്നും ലഭിക്കാതിരിക്കുകയും ചെയ്യുന്നു എന്നാണ് സൂചിപ്പിക്കുന്നത്.അൽപ്പം കൂടി ലളിതമായി പറഞ്ഞാൽ, കുറഞ്ഞ ജിനി സ്കോർ കൂടുതൽ തുല്യമായ വിതരണത്തെ സൂചിപ്പിക്കുന്നു, അതേസമയം ഉയർന്ന സ്കോർ കൂടുതൽ അസമത്വത്തിലേക്ക് വിരൽ ചൂണ്ടുന്നു. ഇത് കേവലം സമ്പന്നരുടെയും ദരിദ്രരുടെയും വരുമാനത്തെ താരതമ്യം ചെയ്യുന്നില്ല.വേതന വിടവിനെക്കുറിച്ചുള്ള ലോകബാങ്കിന്റെ കണ്ടെത്തൽ വരുമാന വിതരണത്തിന്റെ രണ്ട് അറ്റത്തുള്ള തൊഴിലാളികൾ തമ്മിലുള്ള വരുമാനത്തിലെ വ്യത്യാസത്തെ എടുത്തുകാണിക്കുന്നു.മികച്ച രീതിയിൽ സമ്പാദിക്കുന്ന 10 ശതമാനം തൊഴിലാളികളിൽ നിന്നുള്ള ശരാശരി വരുമാനം 2023 ലെ ഏറ്റവും താഴെയുള്ള 10 ശതമാനത്തെ അപേക്ഷിച്ച് 13 മടങ്ങ് കൂടുതലാണെന്ന് റിപ്പോർട്ട് പറയുന്നു.",
+      "url": "https://malayalam.oneindia.com/news/india/world-bank-says-the-number-of-extremely-poor-people-in-india-has-dropped-to-just-2-6-percent-602705.html",
       "source": "Oneindia Malayalam",
       "category": "general",
-      "published_at": "2026-10-30T17:16:12+00:00",
-      "importance": 3,
-      "personal_score": 3.25,
+      "published_at": "2026-10-30T08:00:31+00:00",
+      "importance": 2,
+      "personal_score": 2.25,
       "entities": [
-        "സ്വർണവില",
-        "കേരളത്തിൽ",
-        "ത്തിലേക്ക്",
-        "ആഗോള",
-        "വിപണയിൽ",
-        "ഡോളറാകും",
-        "സാധ്യത",
-        "ഇങ്ങനെ",
-        "Oneindia Malayalam"
+        "ഇന്ത്യയിലെ",
+        "അതിദരിദ്രരുടെ",
+        "എണ്ണം",
+        "വെറും",
+        "ശതമാനമായി",
+        "കുറഞ്ഞുവെന്ന്",
+        "ലോകബാങ്ക്",
+        "ശമ്പളത്തിൽ",
+        "അസമത്വം",
+        "എൻഎച്ച്",
+        "ദുരിതക്കയമായി",
+        "വടകര"
       ],
-      "summary_method": "rss_fallback"
+      "summary_method": "tfidf_extractive_full_article"
     },
     {
-      "id": "aa41be9fe1bef779",
-      "title": "സ്വർണവില കേരളത്തിൽ 96000ത്തിലേക്ക്? ആഗോള വിപണയിൽ 3700 ഡോളറാകും? സാധ്യത ഇങ്ങനെ",
-      "summary": "ഇന്ന് 1,04,320 രൂപയിലാണ് സംസ്ഥാനത്ത് വ്യാപാരം പുരോഗമിക്കുന്നത്.കഴിഞ്ഞ 8 മാസത്തിനിടെ സ്വർണവില ഏകദേശം 26 ശതമാനത്തോളമാണ് ഇടിഞ്ഞത്. പശ്ചിമേഷ്യൻ സംഘർഷവും എണ്ണവിലയിലെ കുതിപ്പും പണപ്പെരുപ്പം ഉയർന്നതുമാണ് സ്വർണത്തിന് തിരിച്ചടി തീർക്കുന്നത്.രാജ്യാന്തര വിപണിയിൽ എണ്ണ വില വീണ്ടും ഉയരുകയാണ്. അടുത്ത നാല് ദിവസത്തിനുള്ളിൽ ആക്രമണം ശക്തമാക്കുമെന്നും ഇറാൻ്റെ തിരിച്ചടികൾ നേരിടാൻ ഗൾഫ് രാജ്യങ്ങൾ സജ്ജമായിരിക്കണമെന്നുമാണ് യു.എസ് മുന്നറിയിപ്പ് നൽകുന്നത്. സംഘർഷം കടുക്കുന്നത് ക്രൂഡ് ഓയിൽ വിലയെ വീണ്ടും തീപിടിപ്പിക്കും.അതിനിടെ സൌദിയുടെ കിഴക്കൻ മേഖലകൾ ലക്ഷ്യം വെച്ച് ഹൂതികളും മിസൈൽ ആക്രമണം ശക്തമാക്കുന്നുണ്ട്.",
-      "url": "https://malayalam.oneindia.com/news/kerala/gold-rate-in-kerala-may-fall-to-rs-96-000-as-global-prices-could-drop-to-3-700-dollar-heres-why-602749.html",
+      "id": "fc5b89fd8eb2f677",
+      "title": "ഇന്ത്യയുടെ വളർച്ചയും പൈതൃകവും എടുത്തുകാട്ടാൻ ഐഐടിഎഫ് 2026; പ്രമേയമായി 'വികസനവും പൈതൃകവും'",
+      "summary": "ന്യൂഡൽഹി: ഇന്ത്യയുടെ സാമ്പത്തിക വളർച്ചയും വിവിധ സംസ്ഥാനങ്ങളിലെ സംരംഭങ്ങളും സാംസ്‌കാരിക പൈതൃകവും പരിചയപ്പെടുത്തുന്ന 45-ാമത് ഇന്ത്യ ഇന്റർനാഷണൽ ട്രേഡ് ഫെയർ (ഐഐടിഎഫ്) നവംബർ 13 മുതൽ 27 വരെ ന്യൂഡൽഹിയിലെ ഭാരത് മണ്ഡപത്തിൽ നടക്കും. ഇന്ത്യയിലെ വിവിധ സംസ്ഥാനങ്ങൾ, കേന്ദ്ര മന്ത്രാലയങ്ങൾ, ചെറുകിട വ്യവസായങ്ങൾ, സ്‌റ്റാർട്ടപ്പുകൾ, കരകൗശല വിദഗ്‌ധർ, അന്താരാഷ്ട്ര സ്ഥാപനങ്ങൾ എന്നിവയുൾപ്പെടെ 3,500-ലധികം പ്രദർശകർ മേളയിൽ പങ്കെടുക്കുമെന്നാണ് പ്രതീക്ഷിക്കുന്നത്. ഇന്ത്യയുടെ വിവിധ ഭാഗങ്ങളിൽ നിന്നുള്ള ഉൽപ്പന്നങ്ങൾ, കരകൗശല വസ്‌തുക്കൾ, പുതിയ സാങ്കേതികവിദ്യകൾ, വസ്ത്രങ്ങൾ, ഭക്ഷണവിഭവങ്ങൾ തുടങ്ങിയവ ഇവിടെ പ്രദർശിപ്പിക്കും. ഔദ്യോഗിക വെബ്സൈറ്റ്: https://www.itpo.gov.in/iitf ഇന്ത്യയുടെ വിവിധ സംസ്ഥാനങ്ങളിലെ ഉൽപ്പന്നങ്ങൾ, പരമ്പരാഗത കലാരൂപങ്ങൾ, പുതിയ സാങ്കേതികവിദ്യകൾ, ചെറുകിട വ്യവസായങ്ങൾ, സ്‌റ്റാർട്ടപ്പുകൾ, ഭക്ഷണവിഭവങ്ങൾ, വിനോദ പരിപാടികൾ എന്നിവയെല്ലാം ഒരുമിക്കുന്ന വലിയൊരു വേദിയായിരിക്കും ഇത്തവണത്തെ മേള.",
+      "url": "https://malayalam.oneindia.com/partner-content/iitf-2026-to-showcase-indias-growth-and-heritage-vikas-aur-virasat-chosen-as-the-theme-602709.html",
       "source": "Oneindia Malayalam",
       "category": "general",
-      "published_at": "2026-10-30T17:16:12+00:00",
-      "importance": 3,
-      "personal_score": 3.25,
+      "published_at": "2026-10-30T08:37:22+00:00",
+      "importance": 2,
+      "personal_score": 2.25,
       "entities": [
-        "സ്വർണവില",
-        "കേരളത്തിൽ",
-        "ത്തിലേക്ക്",
-        "ആഗോള",
-        "വിപണയിൽ",
-        "ഡോളറാകും",
-        "സാധ്യത",
-        "ഇങ്ങനെ",
-        "Gold",
-        "Price",
-        "Global Prices Could Drop"
+        "ഇന്ത്യയുടെ",
+        "വളർച്ചയും",
+        "പൈതൃകവും",
+        "എടുത്തുകാട്ടാൻ",
+        "ഐഐടിഎഫ്",
+        "പ്രമേയമായി",
+        "വികസനവും",
+        "മേള",
+        "IITF",
+        "To Showcase Indias Growth",
+        "And Heritage Vikas Aur",
+        "Virasat Chosen As The"
       ],
       "summary_method": "tfidf_extractive_full_article"
     },
@@ -1137,6 +1063,55 @@
       "summary_method": "rss_fallback"
     },
     {
+      "id": "6fc99b9e99487c34",
+      "title": "Kerala Weather|ആൻഡമാൻ കടലിൽ ന്യൂനമർദ്ദം; സംസ്ഥാനത്ത് അടുത്ത മൂന്ന് ദിവസം നേരിയ മഴയ്ക്ക് സാധ്യത; യെലോ അലർട്ട് - News18 Malayalam",
+      "summary": "Kerala Weather|ആൻഡമാൻ കടലിൽ ന്യൂനമർദ്ദം; സംസ്ഥാനത്ത് അടുത്ത മൂന്ന് ദിവസം നേരിയ മഴയ്ക്ക് സാധ്യത; യെലോ അലർട്ട് News18 Malayalam",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNYXVSemRoLVlJby1XRDdRaS1aNkI3STN0WG9fT1RqdG5GWVZCREljYXRscWxWVFJKNlE4dEtFbHMxRjRfWGg0MzFpeG96XzV2VEMtVGI5RjBPYWROb0FYNDBTWUpjV1BieFc2X2dueTJvLXdHeUpHQk5TYWV4RnpyaG96eVpyaTJIcDBxdm81NlJjRkowRWZ2S0NzQTZjMEw3QjgyVDRReEVoaV9mOXhGWlVkb3RtYms3WjJMYkVELVlsTnUtanlrWXlFN0ZEZXZWYmIxcnVYb0xoZ0U?oc=5",
+      "source": "News18 Malayalam",
+      "category": "general",
+      "published_at": "2026-10-30T09:51:57+00:00",
+      "importance": 2,
+      "personal_score": 2.25,
+      "entities": [
+        "ആൻഡമാൻ",
+        "കടലിൽ",
+        "ന്യൂനമർദ്ദം",
+        "സംസ്ഥാനത്ത്",
+        "അടുത്ത",
+        "മൂന്ന്",
+        "ദിവസം",
+        "നേരിയ",
+        "മഴയ്ക്ക്",
+        "സാധ്യത",
+        "യെലോ",
+        "അലർട്ട്"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
+      "id": "eb9ba15f27cc3836",
+      "title": "പ്രമേഹവും അന്ധതയും പിന്നെ ആർട്ടിഫിഷ്യൽ ഇന്റലിജൻസും - Kerala Science Slam - LUCA Science Magazine",
+      "summary": "പ്രമേഹവും അന്ധതയും പിന്നെ ആർട്ടിഫിഷ്യൽ ഇന്റലിജൻസും - Kerala Science Slam LUCA Science Magazine",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBCbFdRQjk4ZXBGLWF5R2dkV0k3VVJ1ODB3aWVPU3A4UmFJdHdMcnRldmgzSUJTVjBOS01maHdhVE9vUnNKR0dwajJnYjF0NW42UnJOLVVOOHVTTG5RLVFN?oc=5",
+      "source": "LUCA Science Magazine",
+      "category": "general",
+      "published_at": "2025-02-21T14:06:10+00:00",
+      "importance": 1,
+      "personal_score": 1.25,
+      "entities": [
+        "പ്രമേഹവും",
+        "അന്ധതയും",
+        "പിന്നെ",
+        "ആർട്ടിഫിഷ്യൽ",
+        "ഇന്റലിജൻസും",
+        "Kerala Science Slam",
+        "LUCA Science Magazine",
+        "Kerala Science Slam LUCA",
+        "Science Magazine"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
       "id": "1a422c336773e9f6",
       "title": "Kerala Science Slam 26 – ഗവേഷകർക്കുള്ള രജിസ്ട്രേഷൻ ആരംഭിച്ചു - LUCA Science Magazine",
       "summary": "Kerala Science Slam 26 – ഗവേഷകർക്കുള്ള രജിസ്ട്രേഷൻ ആരംഭിച്ചു LUCA Science Magazine",
@@ -1153,6 +1128,24 @@
         "Kerala Science Slam",
         "LUCA Science Magazine Kerala",
         "Science Slam",
+        "LUCA Science Magazine"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
+      "id": "be6c635e1a9520a6",
+      "title": "KERALA SCIENCE SLAM’ 24 - LUCA Science Magazine",
+      "summary": "KERALA SCIENCE SLAM’ 24 LUCA Science Magazine",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE51a1d0WmN5eWhTZVFoeFdaTWFPekFYRTVabGU4d0NPcGV2ekY3czdSaURfOVBLTjVObVhqZHktcVEyc2tHZkNLdGpxV19qYUxCNjRMZQ?oc=5",
+      "source": "LUCA Science Magazine",
+      "category": "general",
+      "published_at": "2024-09-26T12:51:59+00:00",
+      "importance": 1,
+      "personal_score": 1.25,
+      "entities": [
+        "KERALA SCIENCE SLAM",
+        "LUCA Science Magazine KERALA",
+        "SCIENCE SLAM",
         "LUCA Science Magazine"
       ],
       "summary_method": "rss_fallback"
@@ -1196,6 +1189,24 @@
       "summary_method": "tfidf_extractive_full_article"
     },
     {
+      "id": "238abffc538e9361",
+      "title": "The Supreme Court of Chile and UNESCO strengthen dialogue on artificial intelligence - UNESCO",
+      "summary": "The Supreme Court of Chile and UNESCO strengthen dialogue on artificial intelligence UNESCO",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQanBId3FtNTFLcUdzQ0xRY192ZXdzdkRyal9VcW5ydEd1OHoxVlFwRkpWX041ZFlKUS1KRWNyRE5LWWRMY2ZqY2cxUy1ESHZTQllLY3hCQTVWb2VmN1RiT3V3ZEJVZ0pPT2VSODdGVmkyUmQzejZNOGczZENUVVpJU3MyQUl1U0dMNEpZNUZ6YjEwNDVXZDZsVHlQcHg1NTBpTXh6SE90OElZdUVuY2c?oc=5",
+      "source": "UNESCO",
+      "category": "tech",
+      "published_at": "2026-10-30T15:05:09+00:00",
+      "importance": 10,
+      "personal_score": 10.0,
+      "entities": [
+        "The Supreme Court",
+        "Chile",
+        "UNESCO",
+        "UNESCO The Supreme Court"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
       "id": "1c8151dd39b1396a",
       "title": "AI’s 3-week blitz digs up 14,000 security flaws in open-source software - The Economic Times",
       "summary": "AI’s 3-week blitz digs up 14,000 security flaws in open-source software The Economic Times",
@@ -1218,7 +1229,7 @@
       "url": "https://www.thehindu.com/sci-tech/science/why-is-isros-nvs-03-satellite-launch-crucial-explained/article71643798.ece",
       "source": "The Hindu Science and Technology",
       "category": "tech",
-      "published_at": "2026-10-30T19:18:28+00:00",
+      "published_at": "2026-10-30T20:14:38+00:00",
       "importance": 9,
       "personal_score": 9.0,
       "entities": [
@@ -1232,23 +1243,6 @@
         "GPS"
       ],
       "summary_method": "tfidf_extractive_full_article"
-    },
-    {
-      "id": "8a75912b9fdb5072",
-      "title": "COMMENTARY: AI’s rewiring of US warfare may be only the beginning - Reuters",
-      "summary": "COMMENTARY: AI’s rewiring of US warfare may be only the beginning Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRkQ0Yk1sYXhtUVJUYmt6NzlmMTBMUmhURDNGbjVWTkctZF9wZ0dmZENrVUJhZHdpaWE5QVQyNDRRRTJWVjlDMzRhNER0eFQwRDIzeHpIN1d5OEhPT1RGUXZ5OE9NZ3pCREgzclV6VGFMMTNwc3R0bnVEUkpaRFRJSm8xU0FPYjdWbEZiTjVXN1ZwekJqcXd4emlndmZxMURwTTdpdFJwOFVLXzdxcXdwNXEzZmtTbnM?oc=5",
-      "source": "Reuters",
-      "category": "tech",
-      "published_at": "2026-10-30T09:11:13+00:00",
-      "importance": 9,
-      "personal_score": 9.0,
-      "entities": [
-        "COMMENTARY",
-        "Reuters COMMENTARY",
-        "Reuters"
-      ],
-      "summary_method": "rss_fallback"
     },
     {
       "id": "952c621e66e57efa",
@@ -1285,26 +1279,6 @@
         "BankInfoSecurity How CISOs Can",
         "Secure AI-Driven Software Development",
         "BankInfoSecurity"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
-      "id": "640b7eba1ff72dfc",
-      "title": "Infosys Unveils 1.1M Sq Ft Software Block at Pocharam Campus in Hyd - Deccan Chronicle",
-      "summary": "Infosys Unveils 1.1M Sq Ft Software Block at Pocharam Campus in Hyd Deccan Chronicle",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdnlHVnUwWUtvRFc4ejdCYUt0SGJHRFpuRjFOYXRVcFZRM1pKRXFqT3ZyMXczUi1DNTdzNmRFNTJPZEdGN1h6Z2pkbmlVZFB6bHloQXZhdDBDakpwdDZ6Yld4TktDUDM3R1FQMUgyb0EwLURyS2E2bjRVVXVSS0swcC1qOWNWYUhpQmhDRUxld1BLcTBZQ092aWNmVWpNUmk4LUhyYVV0NmZ4UEFMOFc5MFJ4UGRNdjhw0gG-AUFVX3lxTE92cmNaWktiOXVvVHl5VjlHa2xGWHlDMkk5Vm1CMFpEZGNqM09YOVN3ZFY2SFNYUTlUZ3hlRkJUOTF0eXpmU1N0RFFsT2U5b2NQWmkzUF9nX2M2bHZGOEdfQ01kYW9fWENnUDNQS3dUVW5BMC1IT0hFRDV0SkU5NXk3QkNUakJESTFzN0h0NUhWMVY3M0RnNWxzbW56NDRhc0ZIVk8wS0Y1dVR2ZWxZMGR2eDFJS0ZZNkV3N25vLVE?oc=5",
-      "source": "Deccan Chronicle",
-      "category": "tech",
-      "published_at": "2026-10-30T16:34:13+00:00",
-      "importance": 8,
-      "personal_score": 8.0,
-      "entities": [
-        "Infosys Unveils",
-        "Sq Ft Software Block",
-        "Pocharam Campus",
-        "Hyd",
-        "Deccan Chronicle Infosys Unveils",
-        "Hyd Deccan Chronicle"
       ],
       "summary_method": "rss_fallback"
     },
@@ -1378,39 +1352,34 @@
       "summary_method": "tfidf_extractive_full_article"
     },
     {
-      "id": "3489430fcf76a558",
-      "title": "Altera Combines Scalable FPGA Hardware with AI-Assisted Development - Embedded Computing Design",
-      "summary": "Altera Combines Scalable FPGA Hardware with AI-Assisted Development Embedded Computing Design",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWUd4cWZIMTVuSjYyYzdRZFRRSE1DaWF1Qkk3T3FLbV9QZzJERFdrUEV1VjZpYllQbGVXdi1Nd1BVZFhhdVlyY3dsbDZiRnBTYmFRTVRwaG9TSm50c0R5aC1CUDE5aDQ4MmNBeUxoWXktNHkyVEVrOTkwSmloSWJzdl9BcDRBRTZ3eGY1VHFxdVBjVHJQTnJ6cm9UU2hEMmRNVFBZTG1pd0hraDBhZ3lLNUYzQVl2aDFRUTJPNk1FeEJLeGV1TmZ3?oc=5",
-      "source": "Embedded Computing Design",
+      "id": "8a75912b9fdb5072",
+      "title": "COMMENTARY: AI’s rewiring of US warfare may be only the beginning - Reuters",
+      "summary": "COMMENTARY: AI’s rewiring of US warfare may be only the beginning Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRkQ0Yk1sYXhtUVJUYmt6NzlmMTBMUmhURDNGbjVWTkctZF9wZ0dmZENrVUJhZHdpaWE5QVQyNDRRRTJWVjlDMzRhNER0eFQwRDIzeHpIN1d5OEhPT1RGUXZ5OE9NZ3pCREgzclV6VGFMMTNwc3R0bnVEUkpaRFRJSm8xU0FPYjdWbEZiTjVXN1ZwekJqcXd4emlndmZxMURwTTdpdFJwOFVLXzdxcXdwNXEzZmtTbnM?oc=5",
+      "source": "Reuters",
       "category": "tech",
-      "published_at": "2026-10-30T13:46:10+00:00",
+      "published_at": "2026-10-30T09:11:13+00:00",
       "importance": 8,
       "personal_score": 8.0,
       "entities": [
-        "Altera Combines Scalable FPGA",
-        "Hardware",
-        "AI-Assisted Development",
-        "Embedded Computing Design Altera",
-        "Combines Scalable FPGA Hardware",
-        "AI-Assisted Development Embedded Computing",
-        "Design"
+        "COMMENTARY",
+        "Reuters COMMENTARY",
+        "Reuters"
       ],
       "summary_method": "rss_fallback"
     },
     {
-      "id": "e6f1d9513010da71",
-      "title": "The most important challenge in AI software engineering is not intelligence. It is accountability. - SD Times",
-      "summary": "The most important challenge in AI software engineering is not intelligence. It is accountability. SD Times",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPXzJPUHdsVm1Ea2t6Slc0RENrX2VObmJvZWplWUpKbmhfMWIwc0c3SEVCc0dCXzhWbGp3QnptR2dUaU52LTliT2xFZlBvT3lDdVpaWUtQNzBIdUxFN0E1czNtdXN0NDNGYkRjaEg3TjNtUEROLUhVNzFXc2ZsODA2Mkl0c0dmbWNELURmUldhNHh4azF4SUZXbF9BcjA0VzFwWDlUWmlKdXlmbDFSVk5ZME5OUkEyclNHSHhsTg?oc=5",
-      "source": "SD Times",
+      "id": "72604b496fbb118e",
+      "title": "Cybersecurity becomes a balance-sheet risk for lenders as breaches rise - bfsi.economictimes.indiatimes.com",
+      "summary": "Cybersecurity becomes a balance-sheet risk for lenders as breaches rise bfsi.economictimes.indiatimes.com",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQM0doS1JjRWZkZzQxNVNsa3RtVWx0aGtRVkRURG1TYWxyb2ZkTVVoWE0xbDVGcnBGQkNWRHF4ZlZabzNBVExDeTRQcFQwRnpQT0dUYWJJcjh1djJsdjhnTzhhaFU4TUpIMUFJS2VIZml3UTh4T2I0NUI3dWIzRHVZZ0dMTVpLakRqekJWR1o0NXhBLTNtWFdoVG03WVFiRG9Lal9sZkEzWHhYd1hheE5ibHlDNkdBX3pUczhWcmZNelFrTWU1Q1pFQm9Oa2rSAdIBQVVfeXFMT1RucnpFUDJOdVBJeTd5a0daR1pDYTVTQXo2bzZ0MkctbkNuZE13WVFNVHNUdDJrS1ZUMXJ4M29JQklfSHp1dTdFYWJNaFBBY2pCRW5GXzNtMHkyYzB2SWZuelhvVXlyM2lHSVNRS1JDNDZZXzZYVzMzTVVEaWZEOGNGaHYzOXVKSmxQSXRVb0FicGZETFhqV0pwZzcxaTl0S1dMLWt4Y0hGTmMyVHRNNzNaYWU0SjJZR0swNFA0NW5PVENiRjRmMGI3b2NQaE9pbnZn?oc=5",
+      "source": "bfsi.economictimes.indiatimes.com",
       "category": "tech",
-      "published_at": "2026-10-30T18:00:25+00:00",
+      "published_at": "2026-10-30T21:23:37+00:00",
       "importance": 8,
       "personal_score": 8.0,
       "entities": [
-        "SD Times The",
-        "SD Times"
+        "Cybersecurity"
       ],
       "summary_method": "rss_fallback"
     },
@@ -1514,6 +1483,29 @@
       "summary_method": "rss_fallback"
     },
     {
+      "id": "5e26cd0ce10c0bec",
+      "title": "New Degree Brings Cybersecurity, Public Policy Together - The University of Texas at Dallas",
+      "summary": "New Degree Brings Cybersecurity, Public Policy Together The University of Texas at Dallas",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOM0I5Z1lXaF9QTm5ZYnZNRjJTekJsWEVJSVAwazRzWTBrS1phMWFVamM3SDRqd3FwX0NxTkJyci1Hc3didGl2SHhHUjJzZmROWnNpQU1Ea0ozcGEyZ2tINmplR0luWGNoT21VVDJQcmVYejdLZFdhV3VfTnFPQld6VnROSDBFTFR2UlB2R1RySVBKYkdtMENZNkczRWtkN2dj?oc=5",
+      "source": "The University of Texas at Dallas",
+      "category": "tech",
+      "published_at": "2026-10-30T16:35:05+00:00",
+      "importance": 7,
+      "personal_score": 7.0,
+      "entities": [
+        "New Degree Brings Cybersecurity",
+        "Public Policy Together",
+        "The University",
+        "Texas",
+        "Dallas New Degree Brings",
+        "Cybersecurity",
+        "Public Policy Together The",
+        "University",
+        "Dallas"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
       "id": "d9bb2336e88ac577",
       "title": "ഡൽഹിയിൽ മഴ: ഫോൺ നനഞ്ഞാൽ 60 സെക്കൻഡിനുള്ളിൽ ചെയ്യേണ്ട കാര്യങ്ങൾ; ഈ തെറ്റുകൾ ഒഴിവാക്കൂ!",
       "summary": "ഇന്ന് (2026 ഒക്ടോബർ 30) ഡൽഹി-എൻസിആർ മേഖലയിൽ ശക്തമായ മഴയ്ക്കും ഇടിമിന്നലിനും സാധ്യതയുണ്ടെന്നാണ് മുന്നറിയിപ്പ്. ഡൽഹി-എൻസിആറിൽ മഴ: ഫോൺ നനഞ്ഞാൽ രക്ഷിക്കാൻ 60 സെക്കൻഡ് വഴി; ഒപ്പം സുരക്ഷിതമായി ഉണക്കാനുള്ള മാർഗ്ഗങ്ങളുംനനഞ്ഞ ഫോൺ അരിപ്പാത്രത്തിൽ ഇടുന്ന പരമ്പരാഗത രീതി ഒഴിവാക്കുക; അരിപ്പൊടി കയറി ഫോൺ കൂടുതൽ കേടാകാനേ ഇത് ഉപകരിക്കൂ. വാട്ടർപ്രൂഫ് റേറ്റിംഗും യാഥാർത്ഥ്യവും: വാറന്റിയും ഇൻഷുറൻസ് ക്ലെയിമും ഇന്ത്യയിൽ എങ്ങനെ നേടാം?ഫോണുകൾക്കുള്ള IP67, IP68 റേറ്റിംഗുകൾ എന്നാൽ പരിമിതമായ സമയത്തേക്ക് ശുദ്ധജലത്തിൽ വച്ച് ലാബുകളിൽ നടത്തുന്ന പരിശോധനകൾ മാത്രമാണ്. സ്പീക്കർ ശബ്ദത്തിൽ വ്യത്യാസം വരികയോ, ക്യാമറ ലെൻസിൽ മഞ്ഞ് മൂടുകയോ, ബാറ്ററി ചൂടാവുകയോ ചെയ്താൽ ഉടൻ തന്നെ കമ്പനിയുടെ ഔദ്യോഗിക സർവീസ് സെന്ററിനെ സമീപിക്കുക.",
@@ -1538,29 +1530,6 @@
         "തെറ്റുകളും"
       ],
       "summary_method": "tfidf_extractive_full_article"
-    },
-    {
-      "id": "5e26cd0ce10c0bec",
-      "title": "New Degree Brings Cybersecurity, Public Policy Together - The University of Texas at Dallas",
-      "summary": "New Degree Brings Cybersecurity, Public Policy Together The University of Texas at Dallas",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOM0I5Z1lXaF9QTm5ZYnZNRjJTekJsWEVJSVAwazRzWTBrS1phMWFVamM3SDRqd3FwX0NxTkJyci1Hc3didGl2SHhHUjJzZmROWnNpQU1Ea0ozcGEyZ2tINmplR0luWGNoT21VVDJQcmVYejdLZFdhV3VfTnFPQld6VnROSDBFTFR2UlB2R1RySVBKYkdtMENZNkczRWtkN2dj?oc=5",
-      "source": "The University of Texas at Dallas",
-      "category": "tech",
-      "published_at": "2026-10-30T16:35:05+00:00",
-      "importance": 7,
-      "personal_score": 7.0,
-      "entities": [
-        "New Degree Brings Cybersecurity",
-        "Public Policy Together",
-        "The University",
-        "Texas",
-        "Dallas New Degree Brings",
-        "Cybersecurity",
-        "Public Policy Together The",
-        "University",
-        "Dallas"
-      ],
-      "summary_method": "rss_fallback"
     },
     {
       "id": "b08357364592a7a2",
@@ -1633,6 +1602,27 @@
       "summary_method": "tfidf_extractive_full_article"
     },
     {
+      "id": "eacbc7714b2079a2",
+      "title": "Forward Deployed Engineer: The Rise of a Role Bridging AI, Technology, and Business - Nasscom",
+      "summary": "Forward Deployed Engineer: The Rise of a Role Bridging AI, Technology, and Business Nasscom",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQaXFxeGJZZ005cTUzYTVTbnZVUV9abDZEYUxjbkh3elNDbGRmbTRMYWd2bTZrVnliVWNjQjZQSnliTXV2VDhHZnpCY3I5elE0UTJ1aEN5cXU3R0dxT0Fxemx5NV9WOFNEQ0Y1azZlNXBoSWRHOFludk5CRmNLRlRRWmZ4UGgySngxeEtJYkE1UlRHTDVzcFBNMFhaSmpzRzYteGpaa25NaHpLV1BDNDhtYXpudFVsRTJsMGt5ODg3S1BjeU1xUEE?oc=5",
+      "source": "Nasscom",
+      "category": "tech",
+      "published_at": "2026-10-30T09:22:47+00:00",
+      "importance": 7,
+      "personal_score": 7.0,
+      "entities": [
+        "Forward Deployed Engineer",
+        "The Rise",
+        "Role Bridging AI",
+        "Technology",
+        "Business",
+        "Nasscom Forward Deployed Engineer",
+        "Business Nasscom"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
       "id": "e8311e16c7500702",
       "title": "Too much code, too little shipped: Why AI needs a software factory - YourStory.com",
       "summary": "Too much code, too little shipped: Why AI needs a software factory YourStory.com",
@@ -1692,27 +1682,6 @@
       "summary_method": "rss_fallback"
     },
     {
-      "id": "ea10cd5075740c4c",
-      "title": "Coforge Introduces Autonomous Software Factory to Coordinate AI Agents - Analytics India Magazine",
-      "summary": "Coforge Introduces Autonomous Software Factory to Coordinate AI Agents Analytics India Magazine",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNHkzcmJVenVrMjJXX2duMFpuN1NOYkN3NnJSSXNFdUJyTFpGbGZCNUVmV3BvX3NfME91ekh3ZDV4cU1mc2FIblJDcWlyQm41QVR3eHZ3RERQQWZXZ3FSSWZkR2hhRjlhMTBrbHRvc1RzdEZGcWxfdmVSYXVtcWZYS2EzRW9FN2N4czM2cE5LUlRlbVNiVUhVNXZ0UVBkY2lGYTlrTHRVVTlQM2l6?oc=5",
-      "source": "Analytics India Magazine",
-      "category": "tech",
-      "published_at": "2026-10-29T10:00:21+00:00",
-      "importance": 7,
-      "personal_score": 7.0,
-      "entities": [
-        "Coforge Introduces Autonomous Software",
-        "Factory",
-        "Coordinate AI Agents",
-        "Analytics India Magazine Coforge",
-        "Introduces Autonomous Software Factory",
-        "Coordinate AI Agents Analytics",
-        "India Magazine"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
       "id": "58e75ec1762ebe27",
       "title": "അങ്ങനെ അവാർഡ് വാങ്ങാൻ വരട്ടെ; എഐയ്ക്ക് പൂട്ടിട്ട് ഓസ്‌കർ, മാനുഷിക സൃഷ്‌ടികൾക്ക് മാത്രം അംഗീകാരം",
       "summary": "2027-ലെ 99-ാമത് അക്കാദമി അവാർഡുകൾ മുതൽ, മനുഷ്യരായ അഭിനേതാക്കൾക്കും തിരക്കഥാകൃത്തുക്കൾക്കും മാത്രമേ പ്രകടനത്തിനോ രചനക്കോ ഓസ്‌കർ നേടാൻ അർഹതയുള്ളൂ എന്ന് അക്കാദമി ഓഫ് മോഷൻ പിക്ച്ചർ ആർട്‌സ് ആൻഡ് സയൻസസ് വ്യക്തമാക്കി.അഭിനയ വിഭാഗങ്ങളിൽ, മനുഷ്യർ സമ്മതത്തോടെ അവതരിപ്പിച്ച പ്രകടനങ്ങൾക്ക് മാത്രമേ മത്സരിക്കാൻ കഴിയൂ. ഡിജിറ്റൽ ഡബിളുകളോ ഡീ-ഏജിംഗോ അനുവദനീയമാണ്, എന്നാൽ പ്രധാന പ്രകടനം ഒരു യഥാർത്ഥ വ്യക്തിയുടേതായിരിക്കണം.രചനാ വിഭാഗങ്ങളിൽ, തിരക്കഥകൾ മനുഷ്യർ എഴുതിയതായിരിക്കണം എന്ന് നിർബന്ധമാക്കിയിട്ടുണ്ട്. പ്രകടനങ്ങളോ സംഭാഷണങ്ങളോ സിന്തറ്റിക് ആണെന്ന് തോന്നിയാൽ, മനുഷ്യൻ്റെ ജോലി ഇപ്പോഴും പ്രധാനമാണെന്ന് തെളിയിക്കാൻ സ്‌റ്റുഡിയോകൾ പ്രോസസ്സ് വിവരങ്ങൾ പങ്കിടേണ്ടി വന്നേക്കാം.ഹോളിവുഡിൽ എഐ തൊഴിൽ ഭീഷണികളെക്കുറിച്ചുള്ള ആശങ്കകൾ വർദ്ധിക്കുന്ന സാഹചര്യത്തിലാണ് ഈ നിയമമാറ്റങ്ങൾ. ഇപ്പോൾ, കാനസ്, വെനീസ്, ബർലിൻ, ബുസാൻ, ടോറൻ്റോ, സൺഡാൻസ് തുടങ്ങിയ പ്രധാന ഫെസ്റ്റിവൽ പുരസ്കാരങ്ങൾ നേടിയ നോൺ-ഇംഗ്ലീഷ് ചിത്രങ്ങൾക്ക് സംസ്ഥാന പിന്തുണയില്ലാത്ത തിരഞ്ഞെടുപ്പ് കമ്മിറ്റികളില്ലാതെ തന്നെ യോഗ്യത നേടാനാകും.പുതിയ സംവിധാനം അനുസരിച്ച്, ഒരു രാജ്യത്തിനെയല്ല, ചിത്രത്തെയാണ് നോമിനിയായി കണക്കാക്കുന്നത്.",
@@ -1739,32 +1708,6 @@
       "summary_method": "tfidf_extractive_full_article"
     },
     {
-      "id": "6c888908779227ae",
-      "title": "യുഎസ്-ഇറാൻ യുദ്ധം എണ്ണയിലും സ്വർണത്തിലും ഒതുങ്ങില്ല; എഐയിലും സ്വാധീനം, അടി കിട്ടിയത് ചാറ്റ്ജിപിടിക്ക്!",
-      "summary": "യുഎസ് പ്രതിരോധ വകുപ്പുമായി പ്രമുഖ ആർട്ടിഫിഷ്യൽ ഇന്റലിജൻസ് സ്ഥാപനമായ ഓപ്പൺഎഐ സഹകരിച്ച തീരുമാനത്തിന് വലിയ വിമർശനമാണ് നേരിടുന്നത്.ഇത് സാമൂഹിക മാധ്യമങ്ങളിൽ ചർച്ചയാവുകയും ഉപയോക്താക്കൾ കമ്പനിയുടെ തീരുമാനത്തെ ചോദ്യം ചെയ്യുകയും ചെയ്‌തിരുന്നു. പ്രതിരോധ പ്രവർത്തനങ്ങളിൽ എഐ സാങ്കേതികവിദ്യയുടെ പങ്കാളിത്തം പലരിലും ആശങ്കയുണ്ടാക്കി.ചാറ്റ്ജിപിടി ഉപേക്ഷിച്ച് ഉപയോക്താക്കൾനിലവിലെ കണക്കുകൾ അനുസരിച്ച് കഴിഞ്ഞ മാസം അവസാനം വരെ മാത്രം ചാറ്റ്ജിപിടി ആപ്പിന്റെ അൺഇൻസ്‌റ്റാളേഷനുകളിൽ ഗണ്യമായ വർധനവ് രേഖപ്പെടുത്തി. അവർ ക്ലോഡിന്റെ സ്ക്രീൻഷോട്ടിനൊപ്പം ഹൃദയ ചിഹ്നവും പങ്കുവെച്ചത്, ആന്ത്രോപിക്കിന്റെ നിലപാടിനുള്ള പിന്തുണയായി പലരും ഇതിനെ വ്യാഖ്യാനിക്കുന്നുണ്ട്.സാം ആൾട്ട്മാന്റെ മറുപടി ഇങ്ങനെവിമർശനങ്ങൾക്ക് പിന്നാലെ, ഓപ്പൺഎഐ സിഇഒ സാം ആൾട്ട്മാൻ എക്‌സിൽ പ്രതികരണം അറിയിച്ചിട്ടുണ്ട്. ഓപ്പൺഎഐ ഇപ്പോൾ പെന്റഗണുമായുള്ള കരാർ പുതുക്കുകയും തങ്ങളുടെ പോളിസികൾ വ്യക്തമാക്കിയതായും ആൾട്ട്മാൻ പറഞ്ഞു.യുഎസ് പ്രതിരോധ വകുപ്പും എഐ വ്യവസായവും തമ്മിലുള്ള സംഘർഷം ഒഴിവാക്കുക എന്ന ലക്ഷ്യത്തോടെയായിരുന്നു പെട്ടെന്നെടുത്ത ഈ തീരുമാനമെന്നാണ് സാം ആൾട്ട്മാൻ പറഞ്ഞത്.",
-      "url": "https://malayalam.oneindia.com/artificial-intelligence/us-iran-war-will-not-be-limited-to-oil-and-gold-it-will-also-affect-ai-chatgpt-has-been-hit-570905.html",
-      "source": "Oneindia Artificial Intelligence",
-      "category": "tech",
-      "published_at": "2026-03-06T05:26:24+00:00",
-      "importance": 6,
-      "personal_score": 6.0,
-      "entities": [
-        "യുഎസ്",
-        "ഇറാൻ",
-        "യുദ്ധം",
-        "എണ്ണയിലും",
-        "സ്വർണത്തിലും",
-        "ഒതുങ്ങില്ല",
-        "എഐയിലും",
-        "സ്വാധീനം",
-        "അടി",
-        "കിട്ടിയത്",
-        "ചാറ്റ്ജിപിടിക്ക്",
-        "US Iran"
-      ],
-      "summary_method": "tfidf_extractive_full_article"
-    },
-    {
       "id": "02044e7bc38a8756",
       "title": "AI tool REA cracks paid software: Is the software industry's business model coming to an end? - Notebookcheck",
       "summary": "AI tool REA cracks paid software: Is the software industry's business model coming to an end? Notebookcheck",
@@ -1782,19 +1725,38 @@
       "summary_method": "rss_fallback"
     },
     {
-      "id": "da731131f30f17f3",
-      "title": "Software factories: AI agents write code, people ship it - R&D World",
-      "summary": "Software factories: AI agents write code, people ship it R&D World",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPcU04REtLUnlMZkw5Sk1fRThPNm5VRXBMQ2dJZ21jZVZHZnZtUWpvTklWcHlSY1ZOeEJ4dUp3V3I3am5vMjA4TU1nZExUbDdfeXJOVk1COXI1SkVKZkdrTElMV19HZDhsZmtDMkR4T3BZVThyUXhLMU5idkFndURGQTNEaTUxNVV6OEdsdnJ2dWwxbnlWcTRub2JnVkJYbUtMRjUzRDVIY1dyTnQ1MHZ0aktzcmdsOG9FcGNvem5lbWdOeGRMaEh4QVVtRFFJMDFaemdfaG5fSUxrVURITXBIbFhvTzhFNlpPUGc0aw?oc=5",
-      "source": "R&D World",
+      "id": "c93c520fc1f53c79",
+      "title": "“Software is over”: Bold AI developer takes aim at Adobe with open source clones - Ars Technica",
+      "summary": "“Software is over”: Bold AI developer takes aim at Adobe with open source clones Ars Technica",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbnlQeEF0azJTVURrX1dtX3JUVjFRd0R0Z0t1S0hjQ1ZwSXh0TlhaVnFndEJHbzQtVU1PUFZVbmlzNGlCZmEyMGl6Wnc3NDFsMTdLVFQ0M0R0cHJDeWRGakJFUm93Vjh6ODVxTzR3MTJadGQyYnhXSnVwaUhsTzk1ZzFlVHJqa29rRlRmR3lOZUFWQ2p2Ymt5U3p6Ti1OQW5pclI5d3lycXBUZGYxSk53cWdiNA?oc=5",
+      "source": "Ars Technica",
       "category": "tech",
-      "published_at": "2026-10-27T11:32:34+00:00",
+      "published_at": "2026-10-07T07:00:00+00:00",
       "importance": 6,
       "personal_score": 6.0,
       "entities": [
         "Software",
-        "R&D World Software",
-        "R&D World"
+        "Bold AI",
+        "Adobe",
+        "Ars Technica"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
+      "id": "d5acb543d8c6aa6e",
+      "title": "JetBrains unveils JetBrains Air for agentic software development - InfoWorld",
+      "summary": "JetBrains unveils JetBrains Air for agentic software development InfoWorld",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMFdKa1JYQzNSOE9iZVVVYmlVMmEzNklYSTl0VnY2RlBrYklCSjBGVGhfOFBDNEsteGNuNE40MGN1WnhBbVpOUU5xTjdqU3MtZEVfWENySDhVWTdJX2tzaTVEbWxZNzdkbG1NMkhPN0F5N1pMR290ZkMtWmlWbVZ1NkI0TG9fX1FaaW5IQXE5dDNJeW5LLTd2d1M0Mi05QWtXeWR0bTFocmFxcEt1bzZsQg?oc=5",
+      "source": "InfoWorld",
+      "category": "tech",
+      "published_at": "2026-09-23T07:00:00+00:00",
+      "importance": 6,
+      "personal_score": 6.0,
+      "entities": [
+        "JetBrains",
+        "JetBrains Air",
+        "InfoWorld JetBrains",
+        "InfoWorld"
       ],
       "summary_method": "rss_fallback"
     },
@@ -1820,23 +1782,6 @@
       "summary_method": "rss_fallback"
     },
     {
-      "id": "5cd33e7c7a2aeb31",
-      "title": "Amazon asks engineers to reconnect with customers as AI reshapes software development - The Economic Times",
-      "summary": "Amazon asks engineers to reconnect with customers as AI reshapes software development The Economic Times",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNcjNwdjA1blYtU0ZXdUdfRnhUSVRfbXRfT2dwVEk5MlA5di1aTzZoUmZqbFBwblZZZENzWWtORTZicHdVOE9BVEhhZnJpMHF2cldpMXlWMzhhZDhkQ3RtS1BpWHllSjhBZF9tRjB4cWt6aFhMS1Y0d2hONWh3bTdEamVmVlRxckFDeTBQMkRzRWE5NGxMdTlvU1E4UFBGT21RSXFaT1dReHEydVBxRVBhWmlDSHh2eGQ1b1JFSFpwdVBveE1OOXVMdGJiM09uWWdRRE05UUg0NG9FUFVPTmZDa2U1QTlmbHBVWXfSAe8BQVVfeXFMTmU0VkNabkpNSU1QMVduRU91THBXajVKOVRsczNhYlZvX3QwMEdhMDVFQzRZVFlYaTk4RlpSMHJCZDZuS0tTWGxhMnZ4NUxyNjJOaUlmck0wWmVsT0ZuaUl1emR3S3h6cmtOYWJieW5tS21URWhBdDdzNGxJSm96TGJrRG5oTHdfNVJoT1kxbGgtdjhIV0JzYlFmVng4U1UyWm5femI3Rmt0bkk3NmVMd3R3ZmtDXzFMZmVXVEZjTWp6NzQzcVdTWVhhYzFHSWlWZEJtR0l5NzZoMFVTcTNCalpHYjBUVFhsUTNkZGZYbTA?oc=5",
-      "source": "The Economic Times",
-      "category": "tech",
-      "published_at": "2026-10-28T06:38:28+00:00",
-      "importance": 6,
-      "personal_score": 6.0,
-      "entities": [
-        "Amazon",
-        "The Economic Times Amazon",
-        "The Economic Times"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
       "id": "cb225376e089f64d",
       "title": "Survey: AI Coding Tools Increase Open Source Software Dependencies - DevOps.com",
       "summary": "Survey: AI Coding Tools Increase Open Source Software Dependencies DevOps.com",
@@ -1852,6 +1797,23 @@
         "Open Source Software Dependencies",
         "DevOps.com Survey",
         "DevOps.com"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
+      "id": "5cd33e7c7a2aeb31",
+      "title": "Amazon asks engineers to reconnect with customers as AI reshapes software development - The Economic Times",
+      "summary": "Amazon asks engineers to reconnect with customers as AI reshapes software development The Economic Times",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNcjNwdjA1blYtU0ZXdUdfRnhUSVRfbXRfT2dwVEk5MlA5di1aTzZoUmZqbFBwblZZZENzWWtORTZicHdVOE9BVEhhZnJpMHF2cldpMXlWMzhhZDhkQ3RtS1BpWHllSjhBZF9tRjB4cWt6aFhMS1Y0d2hONWh3bTdEamVmVlRxckFDeTBQMkRzRWE5NGxMdTlvU1E4UFBGT21RSXFaT1dReHEydVBxRVBhWmlDSHh2eGQ1b1JFSFpwdVBveE1OOXVMdGJiM09uWWdRRE05UUg0NG9FUFVPTmZDa2U1QTlmbHBVWXfSAe8BQVVfeXFMTmU0VkNabkpNSU1QMVduRU91THBXajVKOVRsczNhYlZvX3QwMEdhMDVFQzRZVFlYaTk4RlpSMHJCZDZuS0tTWGxhMnZ4NUxyNjJOaUlmck0wWmVsT0ZuaUl1emR3S3h6cmtOYWJieW5tS21URWhBdDdzNGxJSm96TGJrRG5oTHdfNVJoT1kxbGgtdjhIV0JzYlFmVng4U1UyWm5femI3Rmt0bkk3NmVMd3R3ZmtDXzFMZmVXVEZjTWp6NzQzcVdTWVhhYzFHSWlWZEJtR0l5NzZoMFVTcTNCalpHYjBUVFhsUTNkZGZYbTA?oc=5",
+      "source": "The Economic Times",
+      "category": "tech",
+      "published_at": "2026-10-28T06:38:28+00:00",
+      "importance": 6,
+      "personal_score": 6.0,
+      "entities": [
+        "Amazon",
+        "The Economic Times Amazon",
+        "The Economic Times"
       ],
       "summary_method": "rss_fallback"
     },
@@ -1929,6 +1891,46 @@
       "summary_method": "rss_fallback"
     },
     {
+      "id": "d95df5235003d1e9",
+      "title": "The Economic Value of Open Source Software Contributions - Linux Foundation",
+      "summary": "The Economic Value of Open Source Software Contributions Linux Foundation",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPa1R1aThUVTFCRzhjdU5uelVMemJ2d2JEMEhIazNSdnRqdXZnV0Y3TzZLaElqWWtIWnV1UXJyWDJiX1JsNlIzRVNyaElfR2R0ZkRUczNNQlc4cTZVUFNCZXcyY1pZYnJSenBqSS1oanNOWHYxLVdSaEk4RGxJLTNTbVgxdFVVVjVCUG4zZEQ2dHRiU3F3c2VKQtIBqAFBVV95cUxOVTI0enQyWEJfVGZ5OXlkODJsSk5ENjJVRmV3NUNpNkEwS2pfbE9RbWdRd0czZUpEWnc3OWNJVjduaGw0eVU0NUxFXzVtUjZYVTd2c1ZmQUJSbXRTXzBHMGpmZjB6eUhjSXNjYTNBVkduRzJCM2tTNy1xcFVRZFZDNjVsdlNWZ3FZbWRsMTN3SlRKcmxJSzVIWkMyeWlpbUVjbkJXSlBfMEY?oc=5",
+      "source": "Linux Foundation",
+      "category": "tech",
+      "published_at": "2026-03-26T07:00:00+00:00",
+      "importance": 6,
+      "personal_score": 6.0,
+      "entities": [
+        "The Economic Value",
+        "Open Source Software Contributions",
+        "Linux Foundation The Economic",
+        "Value",
+        "Linux Foundation"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
+      "id": "ea10cd5075740c4c",
+      "title": "Coforge Introduces Autonomous Software Factory to Coordinate AI Agents - Analytics India Magazine",
+      "summary": "Coforge Introduces Autonomous Software Factory to Coordinate AI Agents Analytics India Magazine",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNHkzcmJVenVrMjJXX2duMFpuN1NOYkN3NnJSSXNFdUJyTFpGbGZCNUVmV3BvX3NfME91ekh3ZDV4cU1mc2FIblJDcWlyQm41QVR3eHZ3RERQQWZXZ3FSSWZkR2hhRjlhMTBrbHRvc1RzdEZGcWxfdmVSYXVtcWZYS2EzRW9FN2N4czM2cE5LUlRlbVNiVUhVNXZ0UVBkY2lGYTlrTHRVVTlQM2l6?oc=5",
+      "source": "Analytics India Magazine",
+      "category": "tech",
+      "published_at": "2026-10-29T10:00:21+00:00",
+      "importance": 6,
+      "personal_score": 6.0,
+      "entities": [
+        "Coforge Introduces Autonomous Software",
+        "Factory",
+        "Coordinate AI Agents",
+        "Analytics India Magazine Coforge",
+        "Introduces Autonomous Software Factory",
+        "Coordinate AI Agents Analytics",
+        "India Magazine"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
       "id": "0e4ba5081a2e4066",
       "title": "Navigating Open Source Software Development in the Generative AI Era: Balancing Velocity and Community Health - Linux Foundation",
       "summary": "Navigating Open Source Software Development in the Generative AI Era: Balancing Velocity and Community Health Linux Foundation",
@@ -1978,7 +1980,7 @@
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZW5CM1B6YkZSN2k4ZUs1S2Y2R1FlOUpTelVZQWQxWTlreFBCQlNLSldlc1pxVFNDWHZZWkhwNHJSX1hobktZU0gwSW52UGpKazJieUdTUUxGM00zYXowakVwNk13UlpiMDBMVW50aFV1aWU0SEtMdUZvVWp6dEh3VjV5US1ZVnRJSS1KaUI5M0dCV3Rpbi1hTzNqYVhRNm9jMVpEYnlNcmx2SFJtYnFyWHoxbzA1U1F5UG04YklnYV9rUVg4T1NpMlZ3?oc=5",
       "source": "Raksha Anirveda",
       "category": "tech",
-      "published_at": "2026-10-30T13:58:56+00:00",
+      "published_at": "2026-10-30T14:03:25+00:00",
       "importance": 5,
       "personal_score": 5.0,
       "entities": [
@@ -2066,24 +2068,6 @@
         "Is India",
         "The Economic Times Is",
         "The Economic Times"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
-      "id": "2f96d7008d6d3865",
-      "title": "Revolve Group reports cybersecurity incident affecting customer data By Investing.com - Investing.com India",
-      "summary": "Revolve Group reports cybersecurity incident affecting customer data By Investing.com Investing.com India",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxObktkcXo1SW13SlVNR1dYNHNqamhFdkFtb2tvZndJYnNJWFNVS0FNbHVmcWttR1RBRlJoSUhQNlljdTliTjBXT2R6ZFdkZHVlRlU3U2gzcnhvTGtqT3kwcDJuMnFyM1N4eWhkNkFRN2ZaVDlBMjM5ZWpnSEtLQ3FzOE1UMmV3enNOaUstUW1iSjdDY0VoTXdLdHVtcmxDOU5IaFYyb1Vma0NJSnltWVYzTHFFUWxHRW5zRE5SdEI4aGdLeklTQnpzUA?oc=5",
-      "source": "Investing.com India",
-      "category": "tech",
-      "published_at": "2026-10-30T10:32:55+00:00",
-      "importance": 5,
-      "personal_score": 5.0,
-      "entities": [
-        "Revolve Group",
-        "By Investing.com",
-        "Investing.com India Revolve Group",
-        "By Investing.com Investing.com India"
       ],
       "summary_method": "rss_fallback"
     },
