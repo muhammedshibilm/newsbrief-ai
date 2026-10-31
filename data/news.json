@@ -1,6 +1,6 @@
 {
   "version": 7,
-  "updated_at": "2026-10-31T18:59:14.991975+00:00",
+  "updated_at": "2026-10-31T22:08:48.271403+00:00",
   "ai_engine": {
     "enabled": true,
     "type": "mathematical_ml",
@@ -296,6 +296,24 @@
       "summary_method": "tfidf_extractive_full_article"
     },
     {
+      "id": "8b5c23b9173c5cf4",
+      "title": "Former Mauritius President bats for closer India-Mauritius cooperation",
+      "summary": "KOTTAYAM Former President of Mauritius Prithvirajsing Roopun has called for greater cooperation between India and Mauritius for solving issues such as brain drain, unemployment and inequality. Addressing a function at Puthupally here on Saturday to observe the 83rd birth anniversary of former Keralam Chief Minister Oommen Chandy, Mr. Roopun also carried out the launch of ‘Vidyakiran’, a project conducted by the Oommen Chandy Foundation and the MGM Group of Institutions, to provide free education to 100 school and college students every year. Among those present on the occasion were Water Resources Minister Mons Joseph, Chandy Oommen, MLA, Kottayam District Panchayat president Joshy Philip, senior Congress leader K.",
+      "url": "https://www.thehindu.com/news/national/kerala/former-mauritius-president-bats-for-closer-india-mauritius-cooperation/article71649549.ece",
+      "source": "The Hindu Kerala",
+      "category": "general",
+      "published_at": "2026-10-31T15:17:12+00:00",
+      "importance": 4,
+      "personal_score": 4.25,
+      "entities": [
+        "Former Mauritius President",
+        "India-Mauritius",
+        "Prithvirajsing Roopun",
+        "Mauritius"
+      ],
+      "summary_method": "tfidf_extractive_full_article"
+    },
+    {
       "id": "8bf4e99b6ba8e7e9",
       "title": "മനുഷ്യന്‍ ഏറെ പിന്നില്‍; കാക്കകള്‍ക്ക് ബുദ്ധി കൂടുന്നെന്ന് പഠനം; ഭൂമി കീഴടക്കുമോ പറവക്കൂട്ടം? - Manorama News",
       "summary": "മനുഷ്യന്‍ ഏറെ പിന്നില്‍; കാക്കകള്‍ക്ക് ബുദ്ധി കൂടുന്നെന്ന് പഠനം; ഭൂമി കീഴടക്കുമോ പറവക്കൂട്ടം? Manorama News",
@@ -322,22 +340,27 @@
       "summary_method": "rss_fallback"
     },
     {
-      "id": "8b5c23b9173c5cf4",
-      "title": "Former Mauritius President bats for closer India-Mauritius cooperation",
-      "summary": "KOTTAYAM Former President of Mauritius Prithvirajsing Roopun has called for greater cooperation between India and Mauritius for solving issues such as brain drain, unemployment and inequality. Addressing a function at Puthupally here on Saturday to observe the 83rd birth anniversary of former Keralam Chief Minister Oommen Chandy, Mr. Roopun also carried out the launch of ‘Vidyakiran’, a project conducted by the Oommen Chandy Foundation and the MGM Group of Institutions, to provide free education to 100 school and college students every year. Among those present on the occasion were Water Resources Minister Mons Joseph, Chandy Oommen, MLA, Kottayam District Panchayat president Joshy Philip, senior Congress leader K.",
-      "url": "https://www.thehindu.com/news/national/kerala/former-mauritius-president-bats-for-closer-india-mauritius-cooperation/article71649549.ece",
-      "source": "The Hindu Kerala",
+      "id": "d6a098365372ad39",
+      "title": "ഇന്ത്യ - ഓസ്‌ട്രേലിയ സൈനിക അഭ്യാസമായ ഓസ്ട്രഹിന്ദ് ഇന്ന് സമാപിക്കും - Mathrubhumi",
+      "summary": "ഇന്ത്യ - ഓസ്‌ട്രേലിയ സൈനിക അഭ്യാസമായ ഓസ്ട്രഹിന്ദ് ഇന്ന് സമാപിക്കും Mathrubhumi",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWW9tT184X0h3S3l1RVVVS0pfdVM5a0I4aWVuMk5ENUU1R2R5TV9YNnQwQUNfVHpwdEZqWVljX3JiMlNLaEswSGI5QkpSY0lqSUZ0em1QaUxYallycU1Vc2piSDRfYVgzNFdDZVVNVEg1T2pMYW9BM1RxTXg0Y3l3TlFidGdxNWVubmpiZVBPZTQwTEdmT1dtRHhtekdxSEZtY2lZWFRaTdIBrAFBVV95cUxOZ3VpZnp5V0dtWlFCMHo0X2F1OW1RdHMxU0FtNzZvTl9INnN1QVF0SXIxUjNMVUVjZFJrc2hTYWduTTZQM21WaFhyVEN3RUgtT1lGUnFLRWFYSXB6OUVGLXBaVTExZFNnZVNiR1JVYk5OQkVaeUh2d1VVeWg0MEtwOThzT0hMLVVLWkkzanF3cDdQcFNINzZuVGxXak14SmhnOHdqSE1UN0w2NzNE?oc=5",
+      "source": "Mathrubhumi",
       "category": "general",
-      "published_at": "2026-10-31T15:17:12+00:00",
+      "published_at": "2026-10-31T19:40:55+00:00",
       "importance": 4,
       "personal_score": 4.25,
       "entities": [
-        "Former Mauritius President",
-        "India-Mauritius",
-        "Prithvirajsing Roopun",
-        "Mauritius"
+        "ഇന്ത്യ",
+        "ഓസ്",
+        "ട്രേലിയ",
+        "സൈനിക",
+        "അഭ്യാസമായ",
+        "ഓസ്ട്രഹിന്ദ്",
+        "ഇന്ന്",
+        "സമാപിക്കും",
+        "Mathrubhumi"
       ],
-      "summary_method": "tfidf_extractive_full_article"
+      "summary_method": "rss_fallback"
     },
     {
       "id": "85653046186c4c3c",
@@ -353,24 +376,6 @@
         "Kerala University",
         "Health Sciences",
         "Care Science Senate"
-      ],
-      "summary_method": "tfidf_extractive_full_article"
-    },
-    {
-      "id": "6cd5f26e21b649d7",
-      "title": "Seminar explores the literary legacy of Vishnu Narayanan Namboothiri",
-      "summary": "PATHANAMTHITTA A literary seminar featuring a study and reappraisal of the poetic world of Vishnu Narayanan Namboothiri was held at Tiruvalla on Saturday. Inaugurating the seminar, poet Prabha Varma described Namboothiri as a major poet who took the richness of Keralam’s literary tradition to a global audience through modern perspectives. Central Sahitya Akademi Secretary Varun Gulati delivered the introductory address, while Kannada writer Jayanth Kaikini delivered the keynote address. Filmmaker and Kazhcha Charitable Trust chairman Blessy attended the event as the chief guest.",
-      "url": "https://www.thehindu.com/news/national/kerala/seminar-explores-the-literary-legacy-of-vishnu-narayanan-namboothiri/article71649415.ece",
-      "source": "The Hindu Kerala",
-      "category": "general",
-      "published_at": "2026-10-31T14:56:33+00:00",
-      "importance": 4,
-      "personal_score": 4.25,
-      "entities": [
-        "Seminar",
-        "Vishnu Narayanan Namboothiri Inaugurating",
-        "Prabha Varma",
-        "Namboothiri"
       ],
       "summary_method": "tfidf_extractive_full_article"
     },
@@ -394,6 +399,24 @@
       "summary_method": "tfidf_extractive_full_article"
     },
     {
+      "id": "6cd5f26e21b649d7",
+      "title": "Seminar explores the literary legacy of Vishnu Narayanan Namboothiri",
+      "summary": "PATHANAMTHITTA A literary seminar featuring a study and reappraisal of the poetic world of Vishnu Narayanan Namboothiri was held at Tiruvalla on Saturday. Inaugurating the seminar, poet Prabha Varma described Namboothiri as a major poet who took the richness of Keralam’s literary tradition to a global audience through modern perspectives. Central Sahitya Akademi Secretary Varun Gulati delivered the introductory address, while Kannada writer Jayanth Kaikini delivered the keynote address. Filmmaker and Kazhcha Charitable Trust chairman Blessy attended the event as the chief guest.",
+      "url": "https://www.thehindu.com/news/national/kerala/seminar-explores-the-literary-legacy-of-vishnu-narayanan-namboothiri/article71649415.ece",
+      "source": "The Hindu Kerala",
+      "category": "general",
+      "published_at": "2026-10-31T14:56:33+00:00",
+      "importance": 4,
+      "personal_score": 4.25,
+      "entities": [
+        "Seminar",
+        "Vishnu Narayanan Namboothiri Inaugurating",
+        "Prabha Varma",
+        "Namboothiri"
+      ],
+      "summary_method": "tfidf_extractive_full_article"
+    },
+    {
       "id": "db29a0f567ea6430",
       "title": "Former SC development officer in Keralam’s Palakkad gets jail for misappropriation",
       "summary": "PALAKKAD A former SC development officer of Palakkad block has been sentenced to a total of 38 years of rigorous imprisonment and fined ₹10.25 lakh for misappropriating ₹8.96 lakh from welfare schemes meant for Scheduled Caste beneficiaries. The offence took place during 2002-03, when she was working as the SC development officer in Palakkad block. The misappropriated amount included ₹7.45 lakh from a housing scheme, ₹74,000 from a land purchase scheme and ₹77,247 from a student scholarship scheme. Vigilance Director Manoj Abraham said the public could report corruption through the department’s toll-free number 1064, phone number 8592900900 or WhatsApp number 9447789100.",
@@ -407,22 +430,6 @@
         "Former SC",
         "Keralam",
         "Palakkad"
-      ],
-      "summary_method": "tfidf_extractive_full_article"
-    },
-    {
-      "id": "fd61c7c2a5810f85",
-      "title": "Expert panel formed to prepare status on unfinished houses in Edamalakkudy",
-      "summary": "IDUKKI The Idukki District Development Committee (DDC) meeting on Saturday decided to appoint an expert panel to prepare a status report on unfinished houses and those in need of repair in Edamalakkudy, the State’s first tribal panchayat. According to officials, the expert panel comprises the Finance Officer, Public Works Department (PWD) Executive Engineer, Local Self-Government Department (LSGD) Executive Engineer, and a representative from the Scheduled Tribes Development department. The expert committee was appointed after a technical committee found that only foundation work had been completed for 30 houses, and even those were in an unusable state. Considering the gravity of the situation, the meeting resolved to take prompt action to open new quarries to address the acute shortage of construction materials, including granite, sand, and M-sand.",
-      "url": "https://www.thehindu.com/news/national/kerala/expert-panel-formed-to-prepare-status-on-unfinished-houses-in-edamalakkudy/article71649944.ece",
-      "source": "The Hindu Kerala",
-      "category": "general",
-      "published_at": "2026-10-31T15:08:18+00:00",
-      "importance": 4,
-      "personal_score": 4.25,
-      "entities": [
-        "Expert",
-        "Edamalakkudy The"
       ],
       "summary_method": "tfidf_extractive_full_article"
     },
@@ -522,26 +529,42 @@
       "summary_method": "rss_fallback"
     },
     {
-      "id": "34d22d445d8fe4d4",
-      "title": "കെ-ടെറ്റ് ഇല്ലാത്ത അധ്യാപകരെ പിരിച്ചുവിടും, സ്ഥാനക്കയറ്റവും റദ്ദാക്കും; ഉത്തരവിറക്കി വിദ്യാഭ്യാസ വകുപ്പ് - Mathrubhumi",
-      "summary": "കെ-ടെറ്റ് ഇല്ലാത്ത അധ്യാപകരെ പിരിച്ചുവിടും, സ്ഥാനക്കയറ്റവും റദ്ദാക്കും; ഉത്തരവിറക്കി വിദ്യാഭ്യാസ വകുപ്പ് Mathrubhumi",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPLWNVNjdCbV9CSy02MjFUbng4TUZMenNfbVB0WHNieEVncm9JQWt2NDZJQlFnMXI2U1ZoaFFVVzdfa0lIM2Myc195MHo4ZzEtd25lRWFOa0lSMU9TNEo4dnQ4TURON0RFMWJEYW9DSFU0WDFIelU0NTdZcmZ1azF1WXdaTlk4MWU1YXF1TEpwUGFpdmVFUjFmVkFTSEZwbWx6MlhSTEI1WF83NXpTUFFDZ3B5ZllQTGp20gG-AUFVX3lxTE9CZkpZZTByNEpOSFVNMmcxa3hyQTAyekx1QUVwV0NKdUZUQW90UVlzUEFlSWl0eVdLT0R5SFdjRGhoU0pFTW4yMmlnV0lHZURma0VCcnBYbzdpaHNFMXJHaGIwNTJQc3dlQTdZQmlMVzU5MjBTUmRSMzEyVHdmNmZMM2UzWm1NWUV2RFRYQ2hHUXB1dG5kc3lpZllEUWNOZ0Ztd056N3p3UURITHRNdEh6ZjZNeDU1ZmlSWmVVd3c?oc=5",
-      "source": "Mathrubhumi",
+      "id": "8fbf6075af9b3a9f",
+      "title": "ഐക്യ കേരളം @70 - Deshabhimani",
+      "summary": "ഐക്യ കേരളം @70 Deshabhimani",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMlU0UnpUVUZESDA2RXZfRXNJelhHcTNJdUZoOENQLVg0b3dVRGpNOS1GYm5maWJFRUhLRDl3cHoycFFpeEQxT0gyNHAwbGd2Q2prVFNpN19wSnB3bXZLMHhtTVZ3bU5fSWhrOWgydGVLZE1BM0w0Z2dkZERnNndZMUJHZXVIdw?oc=5",
+      "source": "Deshabhimani",
       "category": "general",
-      "published_at": "2026-10-31T15:52:01+00:00",
-      "importance": 4,
-      "personal_score": 4.25,
+      "published_at": "2026-10-31T20:00:50+00:00",
+      "importance": 3,
+      "personal_score": 3.25,
       "entities": [
-        "ടെറ്റ്",
-        "ഇല്ലാത്ത",
-        "അധ്യാപകരെ",
-        "പിരിച്ചുവിടും",
-        "സ്ഥാനക്കയറ്റവും",
-        "റദ്ദാക്കും",
-        "ഉത്തരവിറക്കി",
-        "വിദ്യാഭ്യാസ",
-        "വകുപ്പ്",
-        "Mathrubhumi"
+        "ഐക്യ",
+        "കേരളം",
+        "Deshabhimani"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
+      "id": "5f62ff885330a056",
+      "title": "പ്രതിപക്ഷറാലിക്ക് പിന്തുണയുമായി സി.ജെ.പി; മമതയെ നേരിൽ കണ്ട് അഭിജീത് ദിപ്കെ | Madhyamam - Madhyamam",
+      "summary": "പ്രതിപക്ഷറാലിക്ക് പിന്തുണയുമായി സി.ജെ.പി; മമതയെ നേരിൽ കണ്ട് അഭിജീത് ദിപ്കെ | Madhyamam Madhyamam",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOeXpzZlE4d3hjX3JudnNqa2tPYjZVQUc1aDRjYW85V1EyUVYxVmlIMW5SRktBaU84Nlg3RzRaRHJORnBtRU1PMkVCUHFTdXhrS00waUowZkRFa3dtSjRVdmJabXRMSi1UdTNOQ1hmRjR3MlJPNzVoNkE4Mml5eVZkbDI2TdIBiAFBVV95cUxNamR1YVdnMXU0REJRUVFzbk52cF8zaVNZcGJEUWZVMUJrWmNqZW5Rb3lSNTZuR1lUcmZNNmF0YWFTVFA4RlExTW1za1g1TWZZalhNNFk2V3B0MTRzQy1iOVk4Z0xDYTRPa0VjSXprc3BRWDFuN0ROZ1FmUk40dVNVbW5XV0tjc3RY?oc=5",
+      "source": "Madhyamam",
+      "category": "general",
+      "published_at": "2026-10-31T15:51:50+00:00",
+      "importance": 3,
+      "personal_score": 3.25,
+      "entities": [
+        "പ്രതിപക്ഷറാലിക്ക്",
+        "പിന്തുണയുമായി",
+        "മമതയെ",
+        "നേരിൽ",
+        "കണ്ട്",
+        "അഭിജീത്",
+        "ദിപ്കെ",
+        "Madhyamam",
+        "Madhyamam Madhyamam"
       ],
       "summary_method": "rss_fallback"
     },
@@ -598,6 +621,30 @@
       "summary_method": "tfidf_extractive_full_article"
     },
     {
+      "id": "bdc1acc292afd17c",
+      "title": "മാർത്താണ്ഡവർമ്മ പാലം; പ്രൗഢി കൈവിടാതെ, ബലവാനായി വീണ്ടും - LOCAL - ERNAKULAM - Kerala Kaumudi",
+      "summary": "മാർത്താണ്ഡവർമ്മ പാലം; പ്രൗഢി കൈവിടാതെ, ബലവാനായി വീണ്ടും - LOCAL - ERNAKULAM Kerala Kaumudi",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9xbUh3b0JNb0pQSVBmaHZDVWpTWkRpeHVSSXRFbHpQcDAzWVlmWkU4RGxJaEZ1SnNrNHF3b0trb3lmellLMVM2aVprekF1ZDVHbDl0Wk80Q0tubUU2UWlkZnUxdDdxQzhoR1dRX0dNbW5fNU5QVzh1cUJn?oc=5",
+      "source": "Kerala Kaumudi",
+      "category": "general",
+      "published_at": "2026-10-31T19:52:10+00:00",
+      "importance": 3,
+      "personal_score": 3.25,
+      "entities": [
+        "മാർത്താണ്ഡവർമ്മ",
+        "പാലം",
+        "പ്രൗഢി",
+        "കൈവിടാതെ",
+        "ബലവാനായി",
+        "വീണ്ടും",
+        "LOCAL",
+        "ERNAKULAM",
+        "Kerala Kaumudi",
+        "ERNAKULAM Kerala Kaumudi"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
       "id": "7e4767ca4313a917",
       "title": "'മോദിയെയും അമിത് ഷായെയും നേരിടും, ആദ്യ ലക്ഷ്യം ഗ്യാനേഷ് കുമാര്‍'; രൂക്ഷ വിമര്‍ശനവുമായി രാഹുല്‍ ഗാന്ധി - Samakalika Malayalam",
       "summary": "'മോദിയെയും അമിത് ഷായെയും നേരിടും, ആദ്യ ലക്ഷ്യം ഗ്യാനേഷ് കുമാര്‍'; രൂക്ഷ വിമര്‍ശനവുമായി രാഹുല്‍ ഗാന്ധി Samakalika Malayalam",
@@ -622,58 +669,6 @@
         "രാഹുല്"
       ],
       "summary_method": "rss_fallback"
-    },
-    {
-      "id": "0401ba597af1a25a",
-      "title": "കേരളത്തിലെ റോഡ് വികസനത്തിന് വീണ്ടും കേന്ദ്രഫണ്ട്! 39 റോഡുകള്‍ക്ക് 988.75 കോടി രൂപ അനുവദിച്ചു",
-      "summary": "കേന്ദ്ര റോഡ് ഗതാഗത, ഹൈവേ മന്ത്രി നിതിന്‍ ഗഡ്കരിയുമായി നടത്തിയ ചര്‍ച്ചകള്‍ക്കൊടുവിലാണ് സംസ്ഥാനത്തെ വികസന പദ്ധതികള്‍ക്കായി ഫണ്ട് അനുമതി ലഭിച്ചതെന്ന് ബഷീര്‍ പറഞ്ഞു.കേരളത്തിന്റെ അടിസ്ഥാന സൗകര്യ വികസനത്തിന് ഇതൊരു വലിയ മുതല്‍ക്കൂട്ടാണെന്നും, സംസ്ഥാനത്തിന്റെ വികസന ആവശ്യങ്ങള്‍ കൃത്യമായി അവതരിപ്പിക്കാനും അതിനായി പിന്തുണ നേടിയെടുക്കാനുമുള്ള സംസ്ഥാനത്തിന്റെ കഴിവാണ് ഇതിലൂടെ തെളിയുന്നതെന്നും അദ്ദേഹം അവകാശപ്പെട്ടു. പ്രധാന ജില്ലാ റോഡുകള്‍, സാധാരണ ജില്ലാ റോഡുകള്‍, കോര്‍പ്പറേഷന്‍ റോഡുകള്‍ എന്നിവ ഇതില്‍ ഉള്‍പ്പെടുത്തിയിട്ടുള്ളതിനാല്‍, പ്രധാന സംസ്ഥാന പാതകളില്‍ മാത്രം ഒതുങ്ങിനില്‍ക്കാതെ കേരളത്തിലെ റോഡ് ശൃംഖലയുടെ വിവിധ തലങ്ങളിലേക്ക് ഈ പദ്ധതി എത്തും.ദേശീയ പാത നിലവാരത്തിലുള്ള മാനദണ്ഡങ്ങള്‍ പാലിച്ചുകൊണ്ടായിരിക്കും റോഡുകള്‍ നിര്‍മ്മിക്കുകയെന്ന് ബഷീര്‍ പറഞ്ഞു. പദ്ധതികളുടെ തുടര്‍ അനുമതി ഘട്ടങ്ങളില്‍, നിര്‍മ്മാണ ഗുണനിലവാരവും നിശ്ചയിച്ച സമയക്രമം പാലിക്കുന്നതും ഉറപ്പാക്കുമെന്നും അദ്ദേഹം വ്യക്തമാക്കി.സംസ്ഥാനതല പൊതുമരാമത്ത് ഭരണസംവിധാനത്തെ കേന്ദ്ര ഫണ്ടിംഗുമായും സാങ്കേതിക മാനദണ്ഡങ്ങളുമായും ഏകോപിപ്പിച്ചുകൊണ്ട് കേരളത്തില്‍ റോഡ് വികസനം മുന്നോട്ട് പോകുന്ന സാഹചര്യത്തിലാണ് ഈ അനുമതി ലഭിച്ചിരിക്കുന്നത്. ഓരോ പദ്ധതിക്കും സാങ്കേതികവും സാമ്പത്തികവുമായ അനുമതികള്‍ എത്ര വേഗത്തില്‍ ലഭിക്കുന്നു എന്നതിനെ ആശ്രയിച്ചായിരിക്കും നിര്‍മ്മാണ പ്രവര്‍ത്തനങ്ങള്‍ ആരംഭിക്കുന്ന സമയം തീരുമാനിക്കപ്പെടുക.സ്വര്‍ണം ഇനിയും കൈയില്‍ വെക്കുന്നതില്‍ കാര്യമില്ലേ?",
-      "url": "https://malayalam.oneindia.com/news/kerala/kerala-road-keralas-39-road-projects-get-rs-988-75-crore-centre-funding-full-details-inside-602807.html",
-      "source": "Oneindia Malayalam",
-      "category": "general",
-      "published_at": "2026-10-31T09:31:48+00:00",
-      "importance": 3,
-      "personal_score": 3.25,
-      "entities": [
-        "കേരളത്തിലെ",
-        "റോഡ്",
-        "വികസനത്തിന്",
-        "വീണ്ടും",
-        "കേന്ദ്രഫണ്ട്",
-        "റോഡുകള്",
-        "ക്ക്",
-        "കോടി",
-        "രൂപ",
-        "അനുവദിച്ചു",
-        "അംഗീകാരം",
-        "ലഭിച്ച"
-      ],
-      "summary_method": "tfidf_extractive_full_article"
-    },
-    {
-      "id": "6383ee2d175a5933",
-      "title": "ആർഎസ്എസും കോൺഗ്രസും ഒരമ്മ പെറ്റ സഹോദരൻമാർ; അവർക്ക് നാരങ്ങാ വെള്ളം കൊടുക്കുന്നത് ലീഗും'",
-      "summary": "രാജഗോപാലിൻ്റെ ഫേസ്ബുക്ക് കുറിപ്പ് വായിക്കാംഇന്നലെ എറണാകുളം മഹാരാജാസ് കോളേജിൽ നടന്ന ചടങ്ങിൽ വച്ച് ഉന്നത വിദ്യാഭ്യാസ മന്ത്രി റോജി എം ജോണിനോട് എസ്എഫ്ഐക്കാർ ജനാധിപത്യപരമായും സമാധാനപരമായും ചോദ്യങ്ങൾ ചോദിച്ചതിനെ സംഘർഷം എന്ന നിലയിൽ ചിത്രീകരിച്ചു കൊണ്ടും, പ്രതിഷേധക്കുറിപ്പ് ഇറക്കിക്കൊണ്ടും ഇതിനകം മുഖ്യമന്ത്രിയും മന്ത്രിമാരും ഉൾപ്പെടെ യുഡിഎഫ് നേതാക്കൾ രംഗത്ത് വന്നു കഴിഞ്ഞു. എന്നാൽ കഴിഞ്ഞമാസം തദ്ദേശസ്വയംഭരണ വകുപ്പ് മന്ത്രി കെഎം ഷാജിയെ ആദ്യം ഔദ്യോഗിക വാഹനത്തിൽ നിന്നും തുടർന്ന് ഓട്ടോ റിക്ഷയിൽ നിന്നും ആർഎസ്എസുകാർ പിടിച്ചിറക്കിവിട്ട് അപമാനിച്ചതിനെതിരെ ഒരു വരി പ്രസ്താവന നടത്താൻ പോലും ഒരു കോൺഗ്രസ് നേതാവും ലീഗ് നേതാവും ഇതുവരെ തയ്യാറായിട്ടില്ല.ഒരു പെറ്റി കേസ് പോലും ഇതുവരെ എടുത്തിട്ടുമില്ല.സോദരർ തമ്മിലെ പോരൊരു പോരല്ലസൗഹൃദത്തിന്റെ കലങ്ങി മറിയലാംഎന്ന് വള്ളത്തോൾ പാടിയത് പോലെ ആർഎസ്എസും കേരളത്തിലെ കോൺഗ്രസും ഒരമ്മ പെറ്റ സഹോദരന്മാരാണ്. അതാണ് മുഖ്യമന്ത്രി പോലും എസ്എഫ്ഐയുടെ യൂണിറ്റ് കമ്മിറ്റിക്കെതിരെ പ്രസ്താവനയുമായി രംഗത്തുവരുന്നത്.കഴിഞ്ഞദിവസം മലപ്പുറത്ത് ആശുപത്രിയിൽ കയറി എസ്എഫ്ഐ നേതാക്കന്മാരെ വധിക്കാൻ ശ്രമിക്കുകയും മർദ്ദിക്കുകയും ചെയ്ത എംഎസ്എഫ് ഗുണ്ടകളുടെ നടപടിക്കെതിരെ സംസ്ഥാനമൊട്ടാകെ പ്രതിഷേധം ഉയർന്നിട്ടും മുഖ്യമന്ത്രിയോ മന്ത്രിമാരോ ഒരക്ഷരം പോലും മിണ്ടിയിട്ടില്ല എന്നുമോർക്കണം. ഗവർണറുടെയും സംഘപരിവാറിന്റെയും ഇഷ്ടക്കാരായി കോൺഗ്രസിന്റെയും ലീഗിന്റെയും വിദ്യാർത്ഥി സംഘടനകൾ സർവകലാശാലകളിലെ സംഘപരിവാർവൽക്കരണത്തിന് ചൂട്ടു പിടിക്കുകയാണ്.ഇന്നലെ മഹാരാജാസ് കോളേജിൽ എസ്എഫ്ഐയുടെ നേതൃത്വത്തിൽ ഉന്നത വിദ്യാഭ്യാസ വകുപ്പ് മന്ത്രി റോജി എം ജോണിനെതിരെ നടന്നത് ജനാധിപത്യപരവും സമാധാനപൂർണ്ണവുമായ പ്രതിഷേധമാണ്.",
-      "url": "https://malayalam.oneindia.com/news/kerala/rss-and-the-congress-are-siblings-born-to-the-same-mother-k-n-balagopal-602837.html",
-      "source": "Oneindia Malayalam",
-      "category": "general",
-      "published_at": "2026-10-31T18:31:20+00:00",
-      "importance": 3,
-      "personal_score": 3.25,
-      "entities": [
-        "ആർഎസ്എസും",
-        "കോൺഗ്രസും",
-        "ഒരമ്മ",
-        "പെറ്റ",
-        "സഹോദരൻമാർ",
-        "അവർക്ക്",
-        "നാരങ്ങാ",
-        "വെള്ളം",
-        "കൊടുക്കുന്നത്",
-        "ലീഗും",
-        "RSS",
-        "Congress"
-      ],
-      "summary_method": "tfidf_extractive_full_article"
     },
     {
       "id": "5eb69523cb6e8db3",
@@ -702,30 +697,30 @@
       "summary_method": "tfidf_extractive_full_article"
     },
     {
-      "id": "e05ba76f09d9ad8b",
-      "title": "ഇന്ത്യാ സഖ്യത്തിന്റെ മെഗാ റാലിക്ക് ഡല്‍ഹി പൊലീസിന്റെ അനുമതി; കച്ചവടം നഷ്ടത്തിലാകുമെന്ന് വ്യാപാരികള്‍",
-      "summary": "ന്യൂഡല്‍ഹി ജില്ലാ പോലീസിനെയോ സെന്‍ട്രല്‍ ജില്ലാ പോലീസിനെയോ ഈ മാര്‍ച്ചിനെക്കുറിച്ച് അറിയിച്ചിട്ടുമില്ല, അവര്‍ വ്യക്തമാക്കി.മാര്‍ച്ചിനെക്കുറിച്ച് ഔദ്യോഗിക അറിയിപ്പൊന്നും ലഭിച്ചിട്ടില്ലെന്ന് ഉദ്യോഗസ്ഥര്‍ അറിയിച്ചെങ്കിലും, രാംലീല മൈതാനത്തേക്കുള്ള ഈ മാര്‍ച്ച് പ്രതിപക്ഷ നേതാക്കളും മറ്റ് പങ്കാളികളും നടത്തുന്നതില്‍ നിന്ന് പൊലീസ് തടയുമോ എന്ന കാര്യത്തില്‍ അവര്‍ പ്രതികരിച്ചില്ല. വിവാദമായ എസ്‌ഐആര്‍ നടപടി പിന്‍വലിക്കണമെന്നും, ചീഫ് ഇലക്ഷന്‍ കമ്മീഷണര്‍ ഗ്യാനേഷ് കുമാര്‍ രാജിവയ്ക്കണമെന്നും ആവശ്യപ്പെട്ടുകൊണ്ടാണ് ഇന്ത്യ സഖ്യം ഞായറാഴ്ച ഡല്‍ഹിയിലെ രാംലീല മൈതാനത്ത് റാലി സംഘടിപ്പിക്കുന്നത്.അതിനിടെ രാംലീല മൈതാനത്ത് നടത്താനിരിക്കുന്ന റാലി മാറ്റിവയ്ക്കണമെന്ന് ആവശ്യപ്പെട്ട് ചേംബര്‍ ഓഫ് ട്രേഡ് ആന്‍ഡ് ഇന്‍ഡസ്ട്രി രാഹുലടക്കമുള്ള ഇന്ത്യ സഖ്യ നേതാക്കള്‍ക്ക് കത്തെഴുതി. എന്നാല്‍ രാംലീല മൈതാനത്ത് നിശ്ചയിച്ചതുപോലെ തന്നെ വമ്പന്‍ റാലി സംഘടിപ്പിക്കുമെന്ന് രാഹുല്‍ ഗാന്ധി വ്യക്തമാക്കി.പ്രതിപക്ഷത്തുള്ളവരും, വരാന്‍ ആഗ്രഹിക്കുന്ന മറ്റെല്ലാവരും, അവര്‍ രാഷ്ട്രീയക്കാരോ അല്ലാത്തവരോ ആകട്ടെ, സാമൂഹിക പ്രവര്‍ത്തകര്‍, സേവന രംഗത്തുള്ളവര്‍, സിവില്‍ സമൂഹത്തിലെ അംഗങ്ങള്‍, മാധ്യമപ്രവര്‍ത്തകര്‍ എല്ലാവരും വരണം. ഉത്തര്‍പ്രദേശ്, ബിഹാര്‍, മധ്യപ്രദേശ്, രാജസ്ഥാന്‍, ഹരിയാന, തെലങ്കാന, പഞ്ചാബ് എന്നിവിടങ്ങളില്‍ നിന്ന് വരാന്‍ ആഗ്രഹിക്കുന്ന പാര്‍ട്ടി പ്രവര്‍ത്തകരെയും സാധാരണക്കാരെയും തടയാനാണ് അദ്ദേഹം ശ്രമിക്കുന്നത് എന്നും അദ്ദേഹം ആരോപിച്ചു.",
-      "url": "https://malayalam.oneindia.com/news/india/india-block-mega-rally-delhi-police-granted-permission-for-oppositions-mega-rally-on-sir-row-detai-602809.html",
-      "source": "Oneindia Malayalam",
+      "id": "82b4a8629ecf800e",
+      "title": "നക്സലിസത്തിന് കനത്ത തിരിച്ചടി; മാവോയിസ്റ്റ് അക്രമങ്ങൾ നേരിടുന്നതിൽ ഇന്ത്യ വലിയ മുന്നേറ്റം നടത്തിയെന്ന് പ്രധാനമന്ത്രി മോദി - News18 Malayalam",
+      "summary": "നക്സലിസത്തിന് കനത്ത തിരിച്ചടി; മാവോയിസ്റ്റ് അക്രമങ്ങൾ നേരിടുന്നതിൽ ഇന്ത്യ വലിയ മുന്നേറ്റം നടത്തിയെന്ന് പ്രധാനമന്ത്രി മോദി News18 Malayalam",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNTlJHNVJDRmM0MS1FVjU2elN4WkYtRV9fVXAyaXdNNWphT1VLbXlQSUQwemxuR3B4b2ZLQjluank2UVdLOVl0UDh4WkZRVEFGZkFWbmRzbmNkQU9tRUx0Qk8wQmhnVmdabi01bzduOHdLUHlSN2UzZlZmellkc2ZEVGszUjlmT1QySkxTRXdjNlBmQjFqaGJZckV6M0VXcE82Ukk4MHNtQ08xQkQwemhVdkVhTmFibDNSbW12YzVEUTBJNEVwYWxNbzJoMHZ3TldfX0VwYVVZaU81NTRsNlFjMzFQaG13cWd3Unh1Rw?oc=5",
+      "source": "News18 Malayalam",
       "category": "general",
-      "published_at": "2026-10-31T09:53:44+00:00",
+      "published_at": "2026-10-31T15:48:28+00:00",
       "importance": 3,
       "personal_score": 3.25,
       "entities": [
-        "ഇന്ത്യാ",
-        "സഖ്യത്തിന്റെ",
-        "മെഗാ",
-        "റാലിക്ക്",
-        "ഡല്",
-        "പൊലീസിന്റെ",
-        "അനുമതി",
-        "കച്ചവടം",
-        "നഷ്ടത്തിലാകുമെന്ന്",
-        "വ്യാപാരികള്",
-        "കണാട്ട്",
-        "പ്ലേസ്"
+        "നക്സലിസത്തിന്",
+        "കനത്ത",
+        "തിരിച്ചടി",
+        "മാവോയിസ്റ്റ്",
+        "അക്രമങ്ങൾ",
+        "നേരിടുന്നതിൽ",
+        "ഇന്ത്യ",
+        "വലിയ",
+        "മുന്നേറ്റം",
+        "നടത്തിയെന്ന്",
+        "പ്രധാനമന്ത്രി",
+        "മോദി"
       ],
-      "summary_method": "tfidf_extractive_full_article"
+      "summary_method": "rss_fallback"
     },
     {
       "id": "172c65116084456c",
@@ -779,77 +774,28 @@
       "summary_method": "tfidf_extractive_full_article"
     },
     {
-      "id": "6fb12cb2aaa152b4",
-      "title": "പതിനാറുകാരന്റെ കുത്തേറ്റ് ചികിത്സയിലായിരുന്ന മുത്തച്ഛൻ മരിച്ചു; സംഭവം കൊച്ചുമകളെ രക്ഷിക്കുന്നതിനിടെ - Kerala Kaumudi",
-      "summary": "പതിനാറുകാരന്റെ കുത്തേറ്റ് ചികിത്സയിലായിരുന്ന മുത്തച്ഛൻ മരിച്ചു; സംഭവം കൊച്ചുമകളെ രക്ഷിക്കുന്നതിനിടെ Kerala Kaumudi",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORnBZa0FNS3ZWN1RwY3k0ckhZOEVJVDkwTlVERjJFQkFNNHM1RDY2Z0sybTBOclprOWU5TEp1bklnUDV3c0R5OWFPZW1PTG9WRnl3cHQ3c0ZzWFg4QVFqUEVyZkEyMGQxTzJPNWs5Y3E3T2w1S0dTaDFLYnZIdDVVQnN6YXI2UUVZSE1HVVBrajV6dzRsMUJLR3FoYnlkQ0J6X1BZb1JjeE94OVh1c29SVXlpQTdhaDA?oc=5",
-      "source": "Kerala Kaumudi",
-      "category": "general",
-      "published_at": "2026-10-31T07:02:04+00:00",
-      "importance": 3,
-      "personal_score": 3.25,
-      "entities": [
-        "പതിനാറുകാരന്റെ",
-        "കുത്തേറ്റ്",
-        "ചികിത്സയിലായിരുന്ന",
-        "മുത്തച്ഛൻ",
-        "മരിച്ചു",
-        "സംഭവം",
-        "കൊച്ചുമകളെ",
-        "രക്ഷിക്കുന്നതിനിടെ",
-        "Kerala Kaumudi"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
-      "id": "82b4a8629ecf800e",
-      "title": "നക്സലിസത്തിന് കനത്ത തിരിച്ചടി; മാവോയിസ്റ്റ് അക്രമങ്ങൾ നേരിടുന്നതിൽ ഇന്ത്യ വലിയ മുന്നേറ്റം നടത്തിയെന്ന് പ്രധാനമന്ത്രി മോദി - News18 Malayalam",
-      "summary": "നക്സലിസത്തിന് കനത്ത തിരിച്ചടി; മാവോയിസ്റ്റ് അക്രമങ്ങൾ നേരിടുന്നതിൽ ഇന്ത്യ വലിയ മുന്നേറ്റം നടത്തിയെന്ന് പ്രധാനമന്ത്രി മോദി News18 Malayalam",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNTlJHNVJDRmM0MS1FVjU2elN4WkYtRV9fVXAyaXdNNWphT1VLbXlQSUQwemxuR3B4b2ZLQjluank2UVdLOVl0UDh4WkZRVEFGZkFWbmRzbmNkQU9tRUx0Qk8wQmhnVmdabi01bzduOHdLUHlSN2UzZlZmellkc2ZEVGszUjlmT1QySkxTRXdjNlBmQjFqaGJZckV6M0VXcE82Ukk4MHNtQ08xQkQwemhVdkVhTmFibDNSbW12YzVEUTBJNEVwYWxNbzJoMHZ3TldfX0VwYVVZaU81NTRsNlFjMzFQaG13cWd3Unh1Rw?oc=5",
-      "source": "News18 Malayalam",
-      "category": "general",
-      "published_at": "2026-10-31T15:48:28+00:00",
-      "importance": 3,
-      "personal_score": 3.25,
-      "entities": [
-        "നക്സലിസത്തിന്",
-        "കനത്ത",
-        "തിരിച്ചടി",
-        "മാവോയിസ്റ്റ്",
-        "അക്രമങ്ങൾ",
-        "നേരിടുന്നതിൽ",
-        "ഇന്ത്യ",
-        "വലിയ",
-        "മുന്നേറ്റം",
-        "നടത്തിയെന്ന്",
-        "പ്രധാനമന്ത്രി",
-        "മോദി"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
-      "id": "637737902a99cc6d",
-      "title": "'ശത്രുവിൻ്റെ ഭീഷണിക്കെതിരെ കനത്ത തിരിച്ചടി'; സൈന്യത്തോട് തയ്യാറെടുക്കാൻ മൊജ്താബ ഖമനേയി",
-      "summary": "ശത്രുക്കളുടെ ഭാഗത്ത് നിന്നുണ്ടാകുന്ന ഏത് നീക്കത്തേയും പ്രതിരോധിക്കാൻ തയ്യാറായിരിക്കണമെന്നാണ് ഇറാന്റെ പരമോന്നത നേതാവ് മൊജ്താബ ഖമനേയി സൈന്യത്തിന് നിർദേശം നൽകിയത്. വെടിക്കോപ്പുകളും ആയുധങ്ങളും കൂടുതലായി ഉത്പാദിപ്പിക്കണമെന്നും സായുധസൈന്യത്തെ ശക്തിപ്പെടുത്തണമെന്നും സൈനിക രഹസ്യാന്വേഷണ വിഭാഗത്തെ കൂടുതൽ കരുത്തുറ്റതാക്കണമെന്നും അദ്ദേഹം നിർദേശം നൽകി.ഇറാനെതിരെ യു.എസും ഇസ്രായേലും കടുത്ത ആക്രമണങ്ങൾക്ക് പദ്ധതിയിടുന്നുണ്ടെന്നാണ് റിപ്പോർട്ടുകൾ. സൌദിയുടെ കിഴക്കൻ പ്രവിശ്യ ലക്ഷ്യമിട്ടുള്ള ആക്രമണങ്ങൾ ഹൂതികൾ കടുപ്പിക്കുകയാണ്.സൗദി അറേബ്യയുടെ എണ്ണ, വാതക ശേഖരത്തിന്റെ ആസ്ഥാനം ഇവിടെയാണ്. അതേസമയം സംഘർഷം കൂടുതൽ വ്യാപിക്കാതിരിക്കാനും സമാധാനകരാറിലെത്താനുമുള്ള ശ്രമങ്ങൾ നടന്നുവരികയാണെന്ന് ബഹ്‌റൈനിൽ നടന്ന സുരക്ഷാ ഉച്ചകോടിയിൽ സംസാരിക്കവെ സൗദി വിദേശകാര്യ സഹമന്ത്രി വലീദ് അൽ ഖുറൈജി വ്യക്തമാക്കി.",
-      "url": "https://malayalam.oneindia.com/news/international/strong-retaliation-against-enemy-threats-mojtaba-khamenei-tells-military-to-prepare-602827.html",
+      "id": "0868e54aea5d0961",
+      "title": "ഇന്ത്യ സഖ്യത്തിൻ്റെ പ്രതിഷേധ റാലി; രാജ്യതലസ്ഥാനത്ത് കനത്ത ഗതാഗത നിയന്ത്രണം..ഈ വഴികൾ തിരഞ്ഞെടുക്കാം",
+      "summary": "രാവിലെ 10 മുതൽ വൈകീട്ട് 5 വപെയാണ് നിയന്ത്രണം.നേതാജി സുഭാഷ് മാർഗ് ടി-പോയിന്‍റ്,രാജ്ഘട്ട്, ഡൽഹി ഗേറ്റ്, ഐ.ടി.ഒ എ-പോയിന്റ്,അജ്മേരി ഗേറ്റ് റെഡ് ലൈറ്റ്, രഞ്ജിത് സിംഗ് ഫ്ലൈഓവർ, ഝാന്ദേവാലൻ റൌണ്ട് എബൌട്ട്, തുർക്മാൻ ഗേറ്റ് മിർദാർദ് ചൗക്ക് എന്നിവിടങ്ങളിൽ നിന്ന് വാഹനങ്ങൾ വഴിതിരിച്ചുവിടും. ഗതാഗത നിയന്ത്രണങ്ങളുടെ പശ്ചാത്തലത്തിൽ ഐ.ടി.ഒയ്ക്കും ഡൽഹി ഗേറ്റിനും ഇടയിലുള്ള ബഹാദൂർ ഷാ സഫർ മാർഗ്, രാജ്ഘട്ടിനും അജ്മേരി ഗേറ്റിനും ഇടയിലുള്ള ജവഹർലാൽ നെഹ്റു മാർഗ്, അരുണ ആസഫ് അലി റോഡ്, മിന്റോ റോഡ് , ദേശ് ബന്ധു ഗുപ്ത റോഡ്,ബരാഖംബ റോഡ്, കമല മാർക്കറ്റിനും ഹംദർദ് ചൗക്കിനും ചുറ്റുമുള്ള റോഡുകൾ എന്നിവിടങ്ങളിൽ കനത്ത ഗതാഗതക്കുരക്കിന് സാധ്യതയുണ്ട്.രാംലീല മൈതാനത്തിന് ചുറ്റും ഗതാഗതം നിയന്ത്രിക്കാൻ കൂടുതൽ ട്രാഫിക് പോലീസുകാരെ വിന്യസിക്കുമെന്ന് അധികൃതർ അറിയിച്ചു. അതേസമയം ബഹാദൂർ ഷാ സഫർ മാർഗ്, രാജ്ഘട്ട്-ജെ.എൽ.എൻ മാർഗ് റോഡ്, ഡി.ബി.ജി റോഡ്, മിന്റോ റോഡ് എന്നിവിടങ്ങളിലൂടെയുള്ള ബസ് സർവ്വീസുകൾക്കും നിയന്ത്രണം ഉണ്ടാകും.ന്യൂഡൽഹി റെയിവെ സ്റ്റേഷനിലെത്താൻഗതാഗതക്കുരിക്കിന് സാധ്യതയുള്ളതിനാൽ ന്യൂഡൽഹി റെയിൽവെ സ്റ്റേഷനിലേക്ക് പോകുന്ന യാത്രക്കാർ മുൻകൂട്ടി യത്രകൾ പ്ലാൻ ചെയ്യണമെന്ന് പോലീസ് അറിയിച്ചു. അതേസമയം ഈസ്റ്റ് ഡൽഹിയിൽ നിന്നും വരുന്നവർക്ക് ഐടിഒ, ദീൻ ദയാൽ ഉപാധ്യായ മാർഗ്, ഭവ്ഭൂതി മാർഗ് എന്നീ റോഡുകളിലൂടെ റെയിൽവെ സ്റ്റേഷനിലെത്താം.പാർക്കിംഗ് സൌകര്യങ്ങൾലോക് നായക് ജയപ്രകാശ് ആശുപത്രിക്ക് സമീപം എമർജൻസി വാഹനങ്ങൾക്ക് കടന്നുപോകാൻ പ്രത്യേക വഴിയൊരുക്കും.ആളുപത്രിയുടെ എതിർവശത്തുള്ള റെയിൽവേ പാർക്കിംഗ് , ഡൽഹി മെട്രോ റെയിൽ കോർപ്പറേഷന്റെ പാർക്കിംഗ് കേന്ദ്രങ്ങൾ, രാജ്ഘട്ട് എന്നിവിടങ്ങളിൽ വാഹനങ്ങൾക്കായി പാർക്കിംഗ് സൗകര്യങ്ങൾ ഏർപ്പെടുത്തിയിട്ടുണ്ടെന്ന് പോലീസ് അറിയിച്ചു.മുഖ്യതിരഞ്ഞെടുപ്പ് കമ്മീഷ്ണർ ഗ്യാനേഷ് കുമാറിൻ്റെ രാജി ആവശ്യപ്പെട്ട് ഇന്ത്യ സഖ്യം നടത്തുന്ന പ്രതിഷേധ മാർച്ചിന് ഡൽഹി പോലീസ് അനുമതി നൽകിയിട്ടില്ല.",
+      "url": "https://malayalam.oneindia.com/news/india/india-alliance-protest-rally-heavy-traffic-restrictions-in-delhi-alternative-routes-to-take-602831.html",
       "source": "Oneindia Malayalam",
       "category": "general",
-      "published_at": "2026-10-31T15:07:03+00:00",
+      "published_at": "2026-10-31T16:19:02+00:00",
       "importance": 3,
       "personal_score": 3.25,
       "entities": [
-        "ശത്രുവിൻ്റെ",
-        "ഭീഷണിക്കെതിരെ",
+        "ഇന്ത്യ",
+        "സഖ്യത്തിൻ്റെ",
+        "പ്രതിഷേധ",
+        "റാലി",
+        "രാജ്യതലസ്ഥാനത്ത്",
         "കനത്ത",
-        "തിരിച്ചടി",
-        "സൈന്യത്തോട്",
-        "തയ്യാറെടുക്കാൻ",
-        "മൊജ്താബ",
-        "ഖമനേയി",
-        "Strong Retaliation Against Enemy",
-        "Threats",
-        "Mojtaba Khamenei Tells Military",
-        "Prepare"
+        "ഗതാഗത",
+        "നിയന്ത്രണം",
+        "വഴികൾ",
+        "തിരഞ്ഞെടുക്കാം",
+        "INDIA Alliance Protest Rally",
+        "Heavy Traffic Restrictions"
       ],
       "summary_method": "tfidf_extractive_full_article"
     },
@@ -880,56 +826,26 @@
       "summary_method": "rss_fallback"
     },
     {
-      "id": "0868e54aea5d0961",
-      "title": "ഇന്ത്യ സഖ്യത്തിൻ്റെ പ്രതിഷേധ റാലി; രാജ്യതലസ്ഥാനത്ത് കനത്ത ഗതാഗത നിയന്ത്രണം..ഈ വഴികൾ തിരഞ്ഞെടുക്കാം",
-      "summary": "രാവിലെ 10 മുതൽ വൈകീട്ട് 5 വപെയാണ് നിയന്ത്രണം.നേതാജി സുഭാഷ് മാർഗ് ടി-പോയിന്‍റ്,രാജ്ഘട്ട്, ഡൽഹി ഗേറ്റ്, ഐ.ടി.ഒ എ-പോയിന്റ്,അജ്മേരി ഗേറ്റ് റെഡ് ലൈറ്റ്, രഞ്ജിത് സിംഗ് ഫ്ലൈഓവർ, ഝാന്ദേവാലൻ റൌണ്ട് എബൌട്ട്, തുർക്മാൻ ഗേറ്റ് മിർദാർദ് ചൗക്ക് എന്നിവിടങ്ങളിൽ നിന്ന് വാഹനങ്ങൾ വഴിതിരിച്ചുവിടും. ഗതാഗത നിയന്ത്രണങ്ങളുടെ പശ്ചാത്തലത്തിൽ ഐ.ടി.ഒയ്ക്കും ഡൽഹി ഗേറ്റിനും ഇടയിലുള്ള ബഹാദൂർ ഷാ സഫർ മാർഗ്, രാജ്ഘട്ടിനും അജ്മേരി ഗേറ്റിനും ഇടയിലുള്ള ജവഹർലാൽ നെഹ്റു മാർഗ്, അരുണ ആസഫ് അലി റോഡ്, മിന്റോ റോഡ് , ദേശ് ബന്ധു ഗുപ്ത റോഡ്,ബരാഖംബ റോഡ്, കമല മാർക്കറ്റിനും ഹംദർദ് ചൗക്കിനും ചുറ്റുമുള്ള റോഡുകൾ എന്നിവിടങ്ങളിൽ കനത്ത ഗതാഗതക്കുരക്കിന് സാധ്യതയുണ്ട്.രാംലീല മൈതാനത്തിന് ചുറ്റും ഗതാഗതം നിയന്ത്രിക്കാൻ കൂടുതൽ ട്രാഫിക് പോലീസുകാരെ വിന്യസിക്കുമെന്ന് അധികൃതർ അറിയിച്ചു. അതേസമയം ബഹാദൂർ ഷാ സഫർ മാർഗ്, രാജ്ഘട്ട്-ജെ.എൽ.എൻ മാർഗ് റോഡ്, ഡി.ബി.ജി റോഡ്, മിന്റോ റോഡ് എന്നിവിടങ്ങളിലൂടെയുള്ള ബസ് സർവ്വീസുകൾക്കും നിയന്ത്രണം ഉണ്ടാകും.ന്യൂഡൽഹി റെയിവെ സ്റ്റേഷനിലെത്താൻഗതാഗതക്കുരിക്കിന് സാധ്യതയുള്ളതിനാൽ ന്യൂഡൽഹി റെയിൽവെ സ്റ്റേഷനിലേക്ക് പോകുന്ന യാത്രക്കാർ മുൻകൂട്ടി യത്രകൾ പ്ലാൻ ചെയ്യണമെന്ന് പോലീസ് അറിയിച്ചു. അതേസമയം ഈസ്റ്റ് ഡൽഹിയിൽ നിന്നും വരുന്നവർക്ക് ഐടിഒ, ദീൻ ദയാൽ ഉപാധ്യായ മാർഗ്, ഭവ്ഭൂതി മാർഗ് എന്നീ റോഡുകളിലൂടെ റെയിൽവെ സ്റ്റേഷനിലെത്താം.പാർക്കിംഗ് സൌകര്യങ്ങൾലോക് നായക് ജയപ്രകാശ് ആശുപത്രിക്ക് സമീപം എമർജൻസി വാഹനങ്ങൾക്ക് കടന്നുപോകാൻ പ്രത്യേക വഴിയൊരുക്കും.ആളുപത്രിയുടെ എതിർവശത്തുള്ള റെയിൽവേ പാർക്കിംഗ് , ഡൽഹി മെട്രോ റെയിൽ കോർപ്പറേഷന്റെ പാർക്കിംഗ് കേന്ദ്രങ്ങൾ, രാജ്ഘട്ട് എന്നിവിടങ്ങളിൽ വാഹനങ്ങൾക്കായി പാർക്കിംഗ് സൗകര്യങ്ങൾ ഏർപ്പെടുത്തിയിട്ടുണ്ടെന്ന് പോലീസ് അറിയിച്ചു.മുഖ്യതിരഞ്ഞെടുപ്പ് കമ്മീഷ്ണർ ഗ്യാനേഷ് കുമാറിൻ്റെ രാജി ആവശ്യപ്പെട്ട് ഇന്ത്യ സഖ്യം നടത്തുന്ന പ്രതിഷേധ മാർച്ചിന് ഡൽഹി പോലീസ് അനുമതി നൽകിയിട്ടില്ല.",
-      "url": "https://malayalam.oneindia.com/news/india/india-alliance-protest-rally-heavy-traffic-restrictions-in-delhi-alternative-routes-to-take-602831.html",
-      "source": "Oneindia Malayalam",
+      "id": "2a6075fce301f16d",
+      "title": "ഇന്ത്യാ മുന്നണിയുടെ ‘ചലോ ദില്ലി’; മുഖ്യമന്ത്രി നാളെ ഡൽഹിയിലേക്ക് - TwentyFour News",
+      "summary": "ഇന്ത്യാ മുന്നണിയുടെ ‘ചലോ ദില്ലി’; മുഖ്യമന്ത്രി നാളെ ഡൽഹിയിലേക്ക് TwentyFour News",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdjFkWC1MQU96bjh0VlJaM29aTkYxcmVlSjB2bGp2czVsT1RESlhIZW42R1BxQjBBN1I0TzV0QXREaU9rVmgyb1prcDh1dm42ZHF5ZmxBWHRaTHdZZWExMHFSTzJETzJENWY1cDRpbUFDdG5vaExtdm13YUR5bHRZNFdtTEhZTXRKSVRFZzk3RGY5b1ZCTzlFTXJJYnBCVm9CRHFKazJ4d1Zva2RqUmZjdQ?oc=5",
+      "source": "TwentyFour News",
       "category": "general",
-      "published_at": "2026-10-31T16:19:02+00:00",
+      "published_at": "2026-10-31T16:16:10+00:00",
       "importance": 3,
       "personal_score": 3.25,
       "entities": [
-        "ഇന്ത്യ",
-        "സഖ്യത്തിൻ്റെ",
-        "പ്രതിഷേധ",
-        "റാലി",
-        "രാജ്യതലസ്ഥാനത്ത്",
-        "കനത്ത",
-        "ഗതാഗത",
-        "നിയന്ത്രണം",
-        "വഴികൾ",
-        "തിരഞ്ഞെടുക്കാം",
-        "INDIA Alliance Protest Rally",
-        "Heavy Traffic Restrictions"
+        "ഇന്ത്യാ",
+        "മുന്നണിയുടെ",
+        "ചലോ",
+        "ദില്ലി",
+        "മുഖ്യമന്ത്രി",
+        "നാളെ",
+        "ഡൽഹിയിലേക്ക്",
+        "TwentyFour News"
       ],
-      "summary_method": "tfidf_extractive_full_article"
-    },
-    {
-      "id": "9edccec15b6c1c5f",
-      "title": "Kerala Piravi Wishes: ദൈവത്തിന്റെ സ്വന്തം നാടിന്റെ ജന്മദിനം; ചരിത്രമുറങ്ങുന്ന മണ്ണ്, നേരാം കേരളപിറവി ആശംസകൾ",
-      "summary": "നൂറ്റാണ്ടുകൾക്ക് മുൻപ് തന്നെ ഇന്ത്യയുടെ തെക്കേ അറ്റത്ത് ഒരു പച്ചത്തുരുത്തായി നമ്മുടെ നാട്, ദൈവത്തിന്റെ സ്വന്തം നാട് ഇവിടെ ഉണ്ടായിരുന്നെങ്കിലും കേരളം എന്ന സംസ്ഥാനത്തിന് കീഴിലേക്ക് ഇക്കാണുന്ന പ്രദേശങ്ങൾ എല്ലാം ഒത്തുചേർന്ന് വന്ന ദിനമാണ് ഇത്.കൃത്യമായി പറഞ്ഞാൽ 1956 നവംബർ 1ന്, മലയാളം സംസാരിക്കുന്ന പ്രദേശങ്ങളെ ഒരുമിച്ച് കൊണ്ടുവരുന്ന ഒരു സംസ്ഥാനമായി കേരളം പിറന്നു. കേരളപ്പിറവിയുടെ ചരിത്രവും പ്രധാന്യവും വിവരിക്കുന്ന പ്രസംഗങ്ങളും ക്വിസ് മത്സരങ്ങളുമൊക്കെ ആയാണ് സ്‌കൂളുകളും ഓഫീസുകളും വായനശാലകളും മഹത്തായ ആ ദിനം ആഘോഷിക്കുന്നത്.അതുപോലെ തന്നെ കേരളം എന്ന പേരിന്റെ ചരിത്രത്തിന് പറയാനും കഥകൾ ഏറെയുണ്ട്. സഹ്യപര്‍വതത്തിന് പടിഞ്ഞാറുള്ള പ്രദേശത്തെ ചേറളം (ചേറ് + അളം) എന്ന് വിളിച്ചുവെന്നും അത് പിന്നീട് കേരളമായെന്നും ഒരുകൂട്ടർ പറയുമ്പോൾ കേരവൃക്ഷങ്ങള്‍ നിറഞ്ഞ പ്രദേശം ആയതിനാലാണ് കേരളം എന്ന പേരെന്ന വാദവും മറ്റൊരു കൂട്ടർ ഉന്നയിക്കുന്നു.കേരള പിറവിയുടെ ചരിത്രം1956ലെ സംസ്ഥാന പുനസംഘടനാനിയമപ്രകാരം തോവാള, അഗസ്‌തീശ്വരം, കല്‍ക്കുളം, വിളവങ്കോട് എന്നീ നാലു തെക്കന്‍ താലൂക്കുകളും ചെങ്കോട്ട താലൂക്കിന്റെ ഒരു ഭാഗവും തിരുവിതാംകൂര്‍-കൊച്ചിയില്‍നിന്നു വേര്‍പെടുത്തി മദിരാശി സംസ്ഥാനത്തോട് ചേര്‍ത്തു. ബാലറ്റ് പേപ്പറിലൂടെ ലോകത്ത് ആദ്യമായി കമ്മ്യൂണിസ്‌റ്റ് സർക്കാർ അധികാരത്തിൽ എത്തിയതും കേരളത്തിൽ ആയിരുന്നു.കേരള പിറവി ആശംസകളും സന്ദേശങ്ങളുംമനസിൽ സുഗമുള്ള നിമിഷങ്ങളും നിറമുള്ള സ്വപ്‌നങ്ങളും ഓർമ്മകളും സമ്മാനിക്കാൻ വീണ്ടും ഒരു കേരളപ്പിറവി കൂടി.",
-      "url": "https://malayalam.oneindia.com/news/kerala/kerala-piravi-day-dinam-2026-malayalam-wishes-quotes-images-history-status-602797.html",
-      "source": "Oneindia Malayalam",
-      "category": "general",
-      "published_at": "2026-10-31T07:26:23+00:00",
-      "importance": 3,
-      "personal_score": 3.25,
-      "entities": [
-        "ദൈവത്തിന്റെ",
-        "സ്വന്തം",
-        "നാടിന്റെ",
-        "ജന്മദിനം",
-        "ചരിത്രമുറങ്ങുന്ന",
-        "മണ്ണ്",
-        "നേരാം",
-        "കേരളപിറവി",
-        "ആശംസകൾ",
-        "കേരളപ്പിറവി",
-        "കേരള",
-        "പിറവി"
-      ],
-      "summary_method": "tfidf_extractive_full_article"
+      "summary_method": "rss_fallback"
     },
     {
       "id": "a550d7c39a21bc4d",
@@ -955,52 +871,81 @@
       "summary_method": "rss_fallback"
     },
     {
-      "id": "0e7b3b9332151b4e",
-      "title": "Kerala Piravi 2026 Wishes Greetings: മലയാളത്തനിമ നിറഞ്ഞ കേരളപ്പിറവി ആശംസകൾ പങ്കുവയ്ക്കാം - Indian Express Malayalam",
-      "summary": "Kerala Piravi 2026 Wishes Greetings: മലയാളത്തനിമ നിറഞ്ഞ കേരളപ്പിറവി ആശംസകൾ പങ്കുവയ്ക്കാം Indian Express Malayalam",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOc2dwODZxUEpFMWN1OXRTbHRDbGRIVHROMTNzenB6N0pwV2VtNVFHd1ZjcmJCX3RYVkZSWGt6Y2FiX0lRcE1RdXFJaUprRzV3cHhxODI4UnFiVkVaaDYtRzljS2hqaTQyaEJUbzJjbWhManRvNkExa2VpazFoUGhydjJkd0JQZThLVVFpR2xNbGt1aVFJaHRJQWV0X0licDVLcmJOdTBaX1Q1Xy1RZjFzaElXVXFiUExBcUNSZlE3bHZpWHFPanc00gHHAUFVX3lxTE5zZ3A4NnFQSkUxY3U5dFNsdENsZEhUdE4xM3N6cHo3SnBXZW01UUd3VmNyYkJfdFhWRlJYa3pjYWJfSVFwTVF1cUlpSmtHNXdweHE4MjhScWJWRVpoNi1HOWNLaGppNDJoQlRvMmNtaExqdG82QTFrZWlrMWhQaHJ2MmR3QlBlOEtVUWlHbE1sa3VpUUlodElBZXRfSWJwNUtyYk51MFpfVDVfLVFmMXNoSVdVcWJQTEFxQ1JmUTdsdmlYcU9qdzQ?oc=5",
-      "source": "Indian Express Malayalam",
+      "id": "e4304c5875ddaf18",
+      "title": "ആർഎസ്എസും കോൺഗ്രസും ഒരമ്മ പെറ്റ സഹോദരൻമാർ; അവർക്ക് നാരങ്ങാ വെള്ളം കൊടുക്കുന്നത് ലീഗും' - Oneindia Malayalam",
+      "summary": "ആർഎസ്എസും കോൺഗ്രസും ഒരമ്മ പെറ്റ സഹോദരൻമാർ; അവർക്ക് നാരങ്ങാ വെള്ളം കൊടുക്കുന്നത് ലീഗും' Oneindia Malayalam",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRndoZDhLbUVtVzlOZmtpaW1zSk15SlBJejdNNzZ3and2TDkxeFpYLWlSamtHWGwyZVpsRHJ1ZHZGUFM3YlJuZlBsWjJRRXNSak9tazFMWWljU1pQWkcyVDAyMTl1Wkt3blprR1VWeGljd1dkbmtUb1RRb2R0eTdlVFVEUXRrcFJESEJyaHhZdy1kWVhsNW9PZS1oOHVjaV9Za09hS001QjFNSzRMd3RFZmlsczdWM3g2WFlyemtLbkt3dVdP?oc=5",
+      "source": "Oneindia Malayalam",
       "category": "general",
-      "published_at": "2026-10-31T06:40:13+00:00",
+      "published_at": "2026-10-31T18:31:20+00:00",
       "importance": 3,
       "personal_score": 3.25,
       "entities": [
-        "മലയാളത്തനിമ",
-        "നിറഞ്ഞ",
-        "കേരളപ്പിറവി",
-        "ആശംസകൾ",
-        "പങ്കുവയ്ക്കാം",
-        "Kerala Piravi",
-        "Wishes Greetings",
-        "Indian Express Malayalam Kerala",
-        "Piravi",
-        "Indian Express Malayalam"
+        "ആർഎസ്എസും",
+        "കോൺഗ്രസും",
+        "ഒരമ്മ",
+        "പെറ്റ",
+        "സഹോദരൻമാർ",
+        "അവർക്ക്",
+        "നാരങ്ങാ",
+        "വെള്ളം",
+        "കൊടുക്കുന്നത്",
+        "ലീഗും",
+        "Oneindia Malayalam"
       ],
       "summary_method": "rss_fallback"
     },
     {
-      "id": "2d92d186361a97eb",
-      "title": "കെ-ടെറ്റ് ഇല്ലാത്ത അധ്യാപകരെ പിരിച്ചുവിടും, സ്ഥാനക്കയറ്റവും റദ്ദാക്കും; ഉത്തരവിറക്കി വിദ്യാഭ്യാസ വകുപ്പ് - Kerala Vision News",
-      "summary": "കെ-ടെറ്റ് ഇല്ലാത്ത അധ്യാപകരെ പിരിച്ചുവിടും, സ്ഥാനക്കയറ്റവും റദ്ദാക്കും; ഉത്തരവിറക്കി വിദ്യാഭ്യാസ വകുപ്പ് Kerala Vision News",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdmN4YklpdUxWOEtsYlN0UjJncW05NGtueWh0eGkzY255ejhjQi1lRkVNLVRIWEtfVTNMdDZSdEhKY2tFVldhYlN5V2tvMzJ5dG8ycWxrVXR2TWNjYVJFaERIYXVmenVkbTlnNm53VkJTRU0yVkdKTVFKZUtheUFieVRkeGo4RDc5cUxOQVMya29IbUd5LXRsSG14dTdUZ3UxT3FkNFFUSDdIY0Z0VG9JSg?oc=5",
-      "source": "Kerala Vision News",
+      "id": "6383ee2d175a5933",
+      "title": "ആർഎസ്എസും കോൺഗ്രസും ഒരമ്മ പെറ്റ സഹോദരൻമാർ; അവർക്ക് നാരങ്ങാ വെള്ളം കൊടുക്കുന്നത് ലീഗും'",
+      "summary": "രാജഗോപാലിൻ്റെ ഫേസ്ബുക്ക് കുറിപ്പ് വായിക്കാംഇന്നലെ എറണാകുളം മഹാരാജാസ് കോളേജിൽ നടന്ന ചടങ്ങിൽ വച്ച് ഉന്നത വിദ്യാഭ്യാസ മന്ത്രി റോജി എം ജോണിനോട് എസ്എഫ്ഐക്കാർ ജനാധിപത്യപരമായും സമാധാനപരമായും ചോദ്യങ്ങൾ ചോദിച്ചതിനെ സംഘർഷം എന്ന നിലയിൽ ചിത്രീകരിച്ചു കൊണ്ടും, പ്രതിഷേധക്കുറിപ്പ് ഇറക്കിക്കൊണ്ടും ഇതിനകം മുഖ്യമന്ത്രിയും മന്ത്രിമാരും ഉൾപ്പെടെ യുഡിഎഫ് നേതാക്കൾ രംഗത്ത് വന്നു കഴിഞ്ഞു. എന്നാൽ കഴിഞ്ഞമാസം തദ്ദേശസ്വയംഭരണ വകുപ്പ് മന്ത്രി കെഎം ഷാജിയെ ആദ്യം ഔദ്യോഗിക വാഹനത്തിൽ നിന്നും തുടർന്ന് ഓട്ടോ റിക്ഷയിൽ നിന്നും ആർഎസ്എസുകാർ പിടിച്ചിറക്കിവിട്ട് അപമാനിച്ചതിനെതിരെ ഒരു വരി പ്രസ്താവന നടത്താൻ പോലും ഒരു കോൺഗ്രസ് നേതാവും ലീഗ് നേതാവും ഇതുവരെ തയ്യാറായിട്ടില്ല.ഒരു പെറ്റി കേസ് പോലും ഇതുവരെ എടുത്തിട്ടുമില്ല.സോദരർ തമ്മിലെ പോരൊരു പോരല്ലസൗഹൃദത്തിന്റെ കലങ്ങി മറിയലാംഎന്ന് വള്ളത്തോൾ പാടിയത് പോലെ ആർഎസ്എസും കേരളത്തിലെ കോൺഗ്രസും ഒരമ്മ പെറ്റ സഹോദരന്മാരാണ്. അതാണ് മുഖ്യമന്ത്രി പോലും എസ്എഫ്ഐയുടെ യൂണിറ്റ് കമ്മിറ്റിക്കെതിരെ പ്രസ്താവനയുമായി രംഗത്തുവരുന്നത്.കഴിഞ്ഞദിവസം മലപ്പുറത്ത് ആശുപത്രിയിൽ കയറി എസ്എഫ്ഐ നേതാക്കന്മാരെ വധിക്കാൻ ശ്രമിക്കുകയും മർദ്ദിക്കുകയും ചെയ്ത എംഎസ്എഫ് ഗുണ്ടകളുടെ നടപടിക്കെതിരെ സംസ്ഥാനമൊട്ടാകെ പ്രതിഷേധം ഉയർന്നിട്ടും മുഖ്യമന്ത്രിയോ മന്ത്രിമാരോ ഒരക്ഷരം പോലും മിണ്ടിയിട്ടില്ല എന്നുമോർക്കണം. ഗവർണറുടെയും സംഘപരിവാറിന്റെയും ഇഷ്ടക്കാരായി കോൺഗ്രസിന്റെയും ലീഗിന്റെയും വിദ്യാർത്ഥി സംഘടനകൾ സർവകലാശാലകളിലെ സംഘപരിവാർവൽക്കരണത്തിന് ചൂട്ടു പിടിക്കുകയാണ്.ഇന്നലെ മഹാരാജാസ് കോളേജിൽ എസ്എഫ്ഐയുടെ നേതൃത്വത്തിൽ ഉന്നത വിദ്യാഭ്യാസ വകുപ്പ് മന്ത്രി റോജി എം ജോണിനെതിരെ നടന്നത് ജനാധിപത്യപരവും സമാധാനപൂർണ്ണവുമായ പ്രതിഷേധമാണ്.",
+      "url": "https://malayalam.oneindia.com/news/kerala/rss-and-the-congress-are-siblings-born-to-the-same-mother-k-n-balagopal-602837.html",
+      "source": "Oneindia Malayalam",
       "category": "general",
-      "published_at": "2026-10-31T16:15:09+00:00",
+      "published_at": "2026-10-31T18:31:20+00:00",
       "importance": 3,
       "personal_score": 3.25,
       "entities": [
-        "ടെറ്റ്",
-        "ഇല്ലാത്ത",
-        "അധ്യാപകരെ",
-        "പിരിച്ചുവിടും",
-        "സ്ഥാനക്കയറ്റവും",
-        "റദ്ദാക്കും",
-        "ഉത്തരവിറക്കി",
-        "വിദ്യാഭ്യാസ",
-        "വകുപ്പ്",
-        "Kerala Vision News"
+        "ആർഎസ്എസും",
+        "കോൺഗ്രസും",
+        "ഒരമ്മ",
+        "പെറ്റ",
+        "സഹോദരൻമാർ",
+        "അവർക്ക്",
+        "നാരങ്ങാ",
+        "വെള്ളം",
+        "കൊടുക്കുന്നത്",
+        "ലീഗും",
+        "RSS",
+        "Congress"
       ],
-      "summary_method": "rss_fallback"
+      "summary_method": "tfidf_extractive_full_article"
+    },
+    {
+      "id": "0401ba597af1a25a",
+      "title": "കേരളത്തിലെ റോഡ് വികസനത്തിന് വീണ്ടും കേന്ദ്രഫണ്ട്! 39 റോഡുകള്‍ക്ക് 988.75 കോടി രൂപ അനുവദിച്ചു",
+      "summary": "കേന്ദ്ര റോഡ് ഗതാഗത, ഹൈവേ മന്ത്രി നിതിന്‍ ഗഡ്കരിയുമായി നടത്തിയ ചര്‍ച്ചകള്‍ക്കൊടുവിലാണ് സംസ്ഥാനത്തെ വികസന പദ്ധതികള്‍ക്കായി ഫണ്ട് അനുമതി ലഭിച്ചതെന്ന് ബഷീര്‍ പറഞ്ഞു.കേരളത്തിന്റെ അടിസ്ഥാന സൗകര്യ വികസനത്തിന് ഇതൊരു വലിയ മുതല്‍ക്കൂട്ടാണെന്നും, സംസ്ഥാനത്തിന്റെ വികസന ആവശ്യങ്ങള്‍ കൃത്യമായി അവതരിപ്പിക്കാനും അതിനായി പിന്തുണ നേടിയെടുക്കാനുമുള്ള സംസ്ഥാനത്തിന്റെ കഴിവാണ് ഇതിലൂടെ തെളിയുന്നതെന്നും അദ്ദേഹം അവകാശപ്പെട്ടു. പ്രധാന ജില്ലാ റോഡുകള്‍, സാധാരണ ജില്ലാ റോഡുകള്‍, കോര്‍പ്പറേഷന്‍ റോഡുകള്‍ എന്നിവ ഇതില്‍ ഉള്‍പ്പെടുത്തിയിട്ടുള്ളതിനാല്‍, പ്രധാന സംസ്ഥാന പാതകളില്‍ മാത്രം ഒതുങ്ങിനില്‍ക്കാതെ കേരളത്തിലെ റോഡ് ശൃംഖലയുടെ വിവിധ തലങ്ങളിലേക്ക് ഈ പദ്ധതി എത്തും.ദേശീയ പാത നിലവാരത്തിലുള്ള മാനദണ്ഡങ്ങള്‍ പാലിച്ചുകൊണ്ടായിരിക്കും റോഡുകള്‍ നിര്‍മ്മിക്കുകയെന്ന് ബഷീര്‍ പറഞ്ഞു. പദ്ധതികളുടെ തുടര്‍ അനുമതി ഘട്ടങ്ങളില്‍, നിര്‍മ്മാണ ഗുണനിലവാരവും നിശ്ചയിച്ച സമയക്രമം പാലിക്കുന്നതും ഉറപ്പാക്കുമെന്നും അദ്ദേഹം വ്യക്തമാക്കി.സംസ്ഥാനതല പൊതുമരാമത്ത് ഭരണസംവിധാനത്തെ കേന്ദ്ര ഫണ്ടിംഗുമായും സാങ്കേതിക മാനദണ്ഡങ്ങളുമായും ഏകോപിപ്പിച്ചുകൊണ്ട് കേരളത്തില്‍ റോഡ് വികസനം മുന്നോട്ട് പോകുന്ന സാഹചര്യത്തിലാണ് ഈ അനുമതി ലഭിച്ചിരിക്കുന്നത്. ഓരോ പദ്ധതിക്കും സാങ്കേതികവും സാമ്പത്തികവുമായ അനുമതികള്‍ എത്ര വേഗത്തില്‍ ലഭിക്കുന്നു എന്നതിനെ ആശ്രയിച്ചായിരിക്കും നിര്‍മ്മാണ പ്രവര്‍ത്തനങ്ങള്‍ ആരംഭിക്കുന്ന സമയം തീരുമാനിക്കപ്പെടുക.സ്വര്‍ണം ഇനിയും കൈയില്‍ വെക്കുന്നതില്‍ കാര്യമില്ലേ?",
+      "url": "https://malayalam.oneindia.com/news/kerala/kerala-road-keralas-39-road-projects-get-rs-988-75-crore-centre-funding-full-details-inside-602807.html",
+      "source": "Oneindia Malayalam",
+      "category": "general",
+      "published_at": "2026-10-31T09:31:48+00:00",
+      "importance": 2,
+      "personal_score": 2.25,
+      "entities": [
+        "കേരളത്തിലെ",
+        "റോഡ്",
+        "വികസനത്തിന്",
+        "വീണ്ടും",
+        "കേന്ദ്രഫണ്ട്",
+        "റോഡുകള്",
+        "ക്ക്",
+        "കോടി",
+        "രൂപ",
+        "അനുവദിച്ചു",
+        "അംഗീകാരം",
+        "ലഭിച്ച"
+      ],
+      "summary_method": "tfidf_extractive_full_article"
     },
     {
       "id": "ce3f3d92514ce6cb",
@@ -1081,54 +1026,78 @@
       "summary_method": "tfidf_extractive_full_article"
     },
     {
-      "id": "4873dc1eecf31807",
-      "title": "'ബാർ ലൈസൻസ് നൽകിയത് ചട്ടപ്രകാരം'; സസ്‌പെൻഷനിലായ ഉദ്യോഗസ്ഥരെ ന്യായീകരിച്ച് എക്‌സൈസ് കമ്മീഷണർ - Kerala Kaumudi",
-      "summary": "'ബാർ ലൈസൻസ് നൽകിയത് ചട്ടപ്രകാരം'; സസ്‌പെൻഷനിലായ ഉദ്യോഗസ്ഥരെ ന്യായീകരിച്ച് എക്‌സൈസ് കമ്മീഷണർ Kerala Kaumudi",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObHUwV3FUSWVLM3p6cUN2NzVkOEdqQUNxZVVUQU1Ga0diVmxwSU93TnBrY2FBMWdJcUtHUFFQT2FISmtnVG1WeUo0bTdfeXBOdklpQmVua3lDdnFSbEdVVlBEUjFHa0NYV3p4U3IwdEp4dzJabmFCaXpPN3ZMR3R5RDRwNVRXNHlSSWRTOTZJdU9zcTNNaFZSTk9rMkc1LXU4?oc=5",
-      "source": "Kerala Kaumudi",
+      "id": "e05ba76f09d9ad8b",
+      "title": "ഇന്ത്യാ സഖ്യത്തിന്റെ മെഗാ റാലിക്ക് ഡല്‍ഹി പൊലീസിന്റെ അനുമതി; കച്ചവടം നഷ്ടത്തിലാകുമെന്ന് വ്യാപാരികള്‍",
+      "summary": "ന്യൂഡല്‍ഹി ജില്ലാ പോലീസിനെയോ സെന്‍ട്രല്‍ ജില്ലാ പോലീസിനെയോ ഈ മാര്‍ച്ചിനെക്കുറിച്ച് അറിയിച്ചിട്ടുമില്ല, അവര്‍ വ്യക്തമാക്കി.മാര്‍ച്ചിനെക്കുറിച്ച് ഔദ്യോഗിക അറിയിപ്പൊന്നും ലഭിച്ചിട്ടില്ലെന്ന് ഉദ്യോഗസ്ഥര്‍ അറിയിച്ചെങ്കിലും, രാംലീല മൈതാനത്തേക്കുള്ള ഈ മാര്‍ച്ച് പ്രതിപക്ഷ നേതാക്കളും മറ്റ് പങ്കാളികളും നടത്തുന്നതില്‍ നിന്ന് പൊലീസ് തടയുമോ എന്ന കാര്യത്തില്‍ അവര്‍ പ്രതികരിച്ചില്ല. വിവാദമായ എസ്‌ഐആര്‍ നടപടി പിന്‍വലിക്കണമെന്നും, ചീഫ് ഇലക്ഷന്‍ കമ്മീഷണര്‍ ഗ്യാനേഷ് കുമാര്‍ രാജിവയ്ക്കണമെന്നും ആവശ്യപ്പെട്ടുകൊണ്ടാണ് ഇന്ത്യ സഖ്യം ഞായറാഴ്ച ഡല്‍ഹിയിലെ രാംലീല മൈതാനത്ത് റാലി സംഘടിപ്പിക്കുന്നത്.അതിനിടെ രാംലീല മൈതാനത്ത് നടത്താനിരിക്കുന്ന റാലി മാറ്റിവയ്ക്കണമെന്ന് ആവശ്യപ്പെട്ട് ചേംബര്‍ ഓഫ് ട്രേഡ് ആന്‍ഡ് ഇന്‍ഡസ്ട്രി രാഹുലടക്കമുള്ള ഇന്ത്യ സഖ്യ നേതാക്കള്‍ക്ക് കത്തെഴുതി. എന്നാല്‍ രാംലീല മൈതാനത്ത് നിശ്ചയിച്ചതുപോലെ തന്നെ വമ്പന്‍ റാലി സംഘടിപ്പിക്കുമെന്ന് രാഹുല്‍ ഗാന്ധി വ്യക്തമാക്കി.പ്രതിപക്ഷത്തുള്ളവരും, വരാന്‍ ആഗ്രഹിക്കുന്ന മറ്റെല്ലാവരും, അവര്‍ രാഷ്ട്രീയക്കാരോ അല്ലാത്തവരോ ആകട്ടെ, സാമൂഹിക പ്രവര്‍ത്തകര്‍, സേവന രംഗത്തുള്ളവര്‍, സിവില്‍ സമൂഹത്തിലെ അംഗങ്ങള്‍, മാധ്യമപ്രവര്‍ത്തകര്‍ എല്ലാവരും വരണം. ഉത്തര്‍പ്രദേശ്, ബിഹാര്‍, മധ്യപ്രദേശ്, രാജസ്ഥാന്‍, ഹരിയാന, തെലങ്കാന, പഞ്ചാബ് എന്നിവിടങ്ങളില്‍ നിന്ന് വരാന്‍ ആഗ്രഹിക്കുന്ന പാര്‍ട്ടി പ്രവര്‍ത്തകരെയും സാധാരണക്കാരെയും തടയാനാണ് അദ്ദേഹം ശ്രമിക്കുന്നത് എന്നും അദ്ദേഹം ആരോപിച്ചു.",
+      "url": "https://malayalam.oneindia.com/news/india/india-block-mega-rally-delhi-police-granted-permission-for-oppositions-mega-rally-on-sir-row-detai-602809.html",
+      "source": "Oneindia Malayalam",
       "category": "general",
-      "published_at": "2026-10-31T02:46:40+00:00",
+      "published_at": "2026-10-31T09:53:44+00:00",
       "importance": 2,
       "personal_score": 2.25,
       "entities": [
-        "ബാർ",
-        "ലൈസൻസ്",
-        "നൽകിയത്",
-        "ചട്ടപ്രകാരം",
-        "സസ്",
-        "പെൻഷനിലായ",
-        "ഉദ്യോഗസ്ഥരെ",
-        "ന്യായീകരിച്ച്",
-        "എക്",
-        "സൈസ്",
-        "കമ്മീഷണർ",
-        "Kerala Kaumudi"
+        "ഇന്ത്യാ",
+        "സഖ്യത്തിന്റെ",
+        "മെഗാ",
+        "റാലിക്ക്",
+        "ഡല്",
+        "പൊലീസിന്റെ",
+        "അനുമതി",
+        "കച്ചവടം",
+        "നഷ്ടത്തിലാകുമെന്ന്",
+        "വ്യാപാരികള്",
+        "കണാട്ട്",
+        "പ്ലേസ്"
       ],
-      "summary_method": "rss_fallback"
+      "summary_method": "tfidf_extractive_full_article"
     },
     {
-      "id": "d27fe8f6c9e97d44",
-      "title": "Kerala Piravi 2026 History: കേരളം രൂപപ്പെട്ടതിന് പിന്നിലെ ചരിത്രവും പ്രാധാന്യവും; കേരളപ്പിറവി ആഘോഷത്തിൽ മലയാളികൾ - Samayam Malayalam",
-      "summary": "Kerala Piravi 2026 History: കേരളം രൂപപ്പെട്ടതിന് പിന്നിലെ ചരിത്രവും പ്രാധാന്യവും; കേരളപ്പിറവി ആഘോഷത്തിൽ മലയാളികൾ Samayam Malayalam",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNTXBZX2k0azFZLWNtbkpfOEZQSzJkM0ZMOHJuSDlmVUptN01xRGN1YWxoOVBucDFYejBtRGdGQUZXdWhOcU9HTWhmQ295ZWszTFFhNEpoNnpMeng3c3dwQ09DNG5FelQtZ1ExbF9PdWw0Y3ptZTFOQ3FBNnlEZ2lhYkVUOF9kOUVJTlgyWHBlWDVWVlVydUpsTUNpVm8yUjMwMFlXckxENHpwd0lUNzdHQ0ljdnd6aUJhRGpfYThpOEFERXhGN0JnR3RLdzJrOEp3R1lvM9IB2gFBVV95cUxPWXNMVm5ENTN1TVlUVVlqcWZlek5BeXN4QVR5a2tUTnlyZkIxMlVmUG96bFNmZWhVbzhGbkhXMmNFRS1aOWczczY2QlpMLXNNV0pWdG1PQzlVYkVHVXAzSXRvTFRBLV94Qm5wUHRrSUxERU5hUnRTYzc2dTQtYkVXZW9SUDhYS0M1MzBmaElaM3dWQlBHTURBRHZ2X2VjYWRUd0JWREVWbnNjT2VGckJGa0pWNE41UHVCMFdOZ1ZYTGN5ampVVXBpT0VHdDB5eXpnMUdReTNGTXdVUQ?oc=5",
-      "source": "Samayam Malayalam",
+      "id": "9edccec15b6c1c5f",
+      "title": "Kerala Piravi Wishes: ദൈവത്തിന്റെ സ്വന്തം നാടിന്റെ ജന്മദിനം; ചരിത്രമുറങ്ങുന്ന മണ്ണ്, നേരാം കേരളപിറവി ആശംസകൾ",
+      "summary": "നൂറ്റാണ്ടുകൾക്ക് മുൻപ് തന്നെ ഇന്ത്യയുടെ തെക്കേ അറ്റത്ത് ഒരു പച്ചത്തുരുത്തായി നമ്മുടെ നാട്, ദൈവത്തിന്റെ സ്വന്തം നാട് ഇവിടെ ഉണ്ടായിരുന്നെങ്കിലും കേരളം എന്ന സംസ്ഥാനത്തിന് കീഴിലേക്ക് ഇക്കാണുന്ന പ്രദേശങ്ങൾ എല്ലാം ഒത്തുചേർന്ന് വന്ന ദിനമാണ് ഇത്.കൃത്യമായി പറഞ്ഞാൽ 1956 നവംബർ 1ന്, മലയാളം സംസാരിക്കുന്ന പ്രദേശങ്ങളെ ഒരുമിച്ച് കൊണ്ടുവരുന്ന ഒരു സംസ്ഥാനമായി കേരളം പിറന്നു. കേരളപ്പിറവിയുടെ ചരിത്രവും പ്രധാന്യവും വിവരിക്കുന്ന പ്രസംഗങ്ങളും ക്വിസ് മത്സരങ്ങളുമൊക്കെ ആയാണ് സ്‌കൂളുകളും ഓഫീസുകളും വായനശാലകളും മഹത്തായ ആ ദിനം ആഘോഷിക്കുന്നത്.അതുപോലെ തന്നെ കേരളം എന്ന പേരിന്റെ ചരിത്രത്തിന് പറയാനും കഥകൾ ഏറെയുണ്ട്. സഹ്യപര്‍വതത്തിന് പടിഞ്ഞാറുള്ള പ്രദേശത്തെ ചേറളം (ചേറ് + അളം) എന്ന് വിളിച്ചുവെന്നും അത് പിന്നീട് കേരളമായെന്നും ഒരുകൂട്ടർ പറയുമ്പോൾ കേരവൃക്ഷങ്ങള്‍ നിറഞ്ഞ പ്രദേശം ആയതിനാലാണ് കേരളം എന്ന പേരെന്ന വാദവും മറ്റൊരു കൂട്ടർ ഉന്നയിക്കുന്നു.കേരള പിറവിയുടെ ചരിത്രം1956ലെ സംസ്ഥാന പുനസംഘടനാനിയമപ്രകാരം തോവാള, അഗസ്‌തീശ്വരം, കല്‍ക്കുളം, വിളവങ്കോട് എന്നീ നാലു തെക്കന്‍ താലൂക്കുകളും ചെങ്കോട്ട താലൂക്കിന്റെ ഒരു ഭാഗവും തിരുവിതാംകൂര്‍-കൊച്ചിയില്‍നിന്നു വേര്‍പെടുത്തി മദിരാശി സംസ്ഥാനത്തോട് ചേര്‍ത്തു. ബാലറ്റ് പേപ്പറിലൂടെ ലോകത്ത് ആദ്യമായി കമ്മ്യൂണിസ്‌റ്റ് സർക്കാർ അധികാരത്തിൽ എത്തിയതും കേരളത്തിൽ ആയിരുന്നു.കേരള പിറവി ആശംസകളും സന്ദേശങ്ങളുംമനസിൽ സുഗമുള്ള നിമിഷങ്ങളും നിറമുള്ള സ്വപ്‌നങ്ങളും ഓർമ്മകളും സമ്മാനിക്കാൻ വീണ്ടും ഒരു കേരളപ്പിറവി കൂടി.",
+      "url": "https://malayalam.oneindia.com/news/kerala/kerala-piravi-day-dinam-2026-malayalam-wishes-quotes-images-history-status-602797.html",
+      "source": "Oneindia Malayalam",
       "category": "general",
-      "published_at": "2026-10-31T04:26:26+00:00",
+      "published_at": "2026-10-31T07:26:23+00:00",
       "importance": 2,
       "personal_score": 2.25,
       "entities": [
-        "കേരളം",
-        "രൂപപ്പെട്ടതിന്",
-        "പിന്നിലെ",
-        "ചരിത്രവും",
-        "പ്രാധാന്യവും",
+        "ദൈവത്തിന്റെ",
+        "സ്വന്തം",
+        "നാടിന്റെ",
+        "ജന്മദിനം",
+        "ചരിത്രമുറങ്ങുന്ന",
+        "മണ്ണ്",
+        "നേരാം",
+        "കേരളപിറവി",
+        "ആശംസകൾ",
         "കേരളപ്പിറവി",
-        "ആഘോഷത്തിൽ",
-        "മലയാളികൾ",
+        "കേരള",
+        "പിറവി"
+      ],
+      "summary_method": "tfidf_extractive_full_article"
+    },
+    {
+      "id": "1c92a767d67b1c77",
+      "title": "Kerala Piravi 2026 Wishes: മനസ്സ് നിറഞ്ഞ കേരളപ്പിറവി ആശംസകൾ കൈമാറാം - Indian Express Malayalam",
+      "summary": "Kerala Piravi 2026 Wishes: മനസ്സ് നിറഞ്ഞ കേരളപ്പിറവി ആശംസകൾ കൈമാറാം Indian Express Malayalam",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNVUdReHQ3UUlGNW43eFBwNXdfaGdZWEZ2QkVGWnVJRDFsZlVDWFQwRlU4X3lMLW9xNnUtNmwweURRZ052TjMtcUVsTzhfUXhmYW5sd0JhWEltZlBmU2RkWmZJcUt2V3JabkZ0ZWxSUkt2blA0aEVxUE1vZURRR2FHZnYxbHd6OVI5ck9jUXFmUkt5QkQ5S1RhYl9NUHdUdUs4bm9yeW5QUEtEYUpiMDQyMDMtNjdDR2lHT3NBLVpCX3dGOEZpWkxrdUlB0gHKAUFVX3lxTE1VR1F4dDdRSUY1bjd4UHA1d19oZ1lYRnZCRUZadUlEMWxmVUNYVDBGVThfeUwtb3E2dS02bDB5RFFnTnZOMy1xRWxPOF9ReGZhbmx3QmFYSW1mUGZTZGRaZklxS3ZXclpuRnRlbFJSS3ZuUDRoRXFQTW9lRFFHYUdmdjFsd3o5UjlyT2NRcWZSS3lCRDlLVGFiX01Qd1R1Szhub3J5blBQS0RhSmIwNDIwMy02N0NHaUdPc0EtWkJfd0Y4RmlaTGt1SUE?oc=5",
+      "source": "Indian Express Malayalam",
+      "category": "general",
+      "published_at": "2026-10-30T09:53:37+00:00",
+      "importance": 2,
+      "personal_score": 2.25,
+      "entities": [
+        "മനസ്സ്",
+        "നിറഞ്ഞ",
+        "കേരളപ്പിറവി",
+        "ആശംസകൾ",
+        "കൈമാറാം",
         "Kerala Piravi",
-        "History",
-        "Samayam Malayalam Kerala Piravi",
-        "Samayam Malayalam"
+        "Wishes",
+        "Indian Express Malayalam Kerala",
+        "Piravi",
+        "Indian Express Malayalam"
       ],
       "summary_method": "rss_fallback"
     },
@@ -1177,9 +1146,46 @@
         "LUCA Science Magazine"
       ],
       "summary_method": "rss_fallback"
+    },
+    {
+      "id": "be6c635e1a9520a6",
+      "title": "KERALA SCIENCE SLAM’ 24 - LUCA Science Magazine",
+      "summary": "KERALA SCIENCE SLAM’ 24 LUCA Science Magazine",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE51a1d0WmN5eWhTZVFoeFdaTWFPekFYRTVabGU4d0NPcGV2ekY3czdSaURfOVBLTjVObVhqZHktcVEyc2tHZkNLdGpxV19qYUxCNjRMZQ?oc=5",
+      "source": "LUCA Science Magazine",
+      "category": "general",
+      "published_at": "2024-09-26T12:51:59+00:00",
+      "importance": 1,
+      "personal_score": 1.25,
+      "entities": [
+        "KERALA SCIENCE SLAM",
+        "LUCA Science Magazine KERALA",
+        "SCIENCE SLAM",
+        "LUCA Science Magazine"
+      ],
+      "summary_method": "rss_fallback"
     }
   ],
   "tech": [
+    {
+      "id": "b588120d3c370b51",
+      "title": "Cyberattack on SMARTs portal puts Sebi's cybersecurity team on high alert - Business Standard",
+      "summary": "Cyberattack on SMARTs portal puts Sebi's cybersecurity team on high alert Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdVhyQy1WR3BKZEdpbjZZLTYwSzdlSWJPVHZlMUVfbE9qQXQ2WUpybFpYYU1KRnNWdXo0dWl1U29UNFc5R2dySUcxTFNIZ2ZHOFJpdTliR3BMcEljNW1NamRVdzhCZHBFb2hSLV9WVzBEb2FNcHBwbDR2b0RiTlNwZE5nZWxnLWlORm14aDZrUFFYY092bDFsZWlTS0NvekZkZU92VkNDUGpsUHFhSndhODA5R203b01ablhDbjJPZzAxeHlOMzdLZ1RwcGpaSnN5Q1FMRXVCNNIB3AFBVV95cUxOSFE3VDlnU2VxWmlQVnNvd2pqUmFwMUxaMHc5MjY0VUpucHFQWTlOWUl0Y3B3RGEyNlBrbmtqX1h4TDRRNC04S1NoTUx5WDZVNDJ4SjVIbDNKWFo3R0NnRS0wUXpnSXBjZ0JWVHVHVEY1WjZlR2RreXFCcTU2LVlZbHpXeGVaUFlrNGlySWZrYms0bVRhSGxHa2M3ajl3RlJhdmNfbUt1cnFUeUsyRk1OODZ6b0NEMU1VaUtpdjZxalJteWd6VXhxQkY2c056RkpXUWJYWXBQTDJwWkVE?oc=5",
+      "source": "Business Standard",
+      "category": "tech",
+      "published_at": "2026-10-30T18:38:00+00:00",
+      "importance": 10,
+      "personal_score": 10.0,
+      "entities": [
+        "Cyberattack",
+        "SMARTs",
+        "Sebi",
+        "Business Standard Cyberattack",
+        "Business Standard"
+      ],
+      "summary_method": "rss_fallback"
+    },
     {
       "id": "58c4f2c84aa7ae19",
       "title": "Indian scientists find new gateway in plants’ alarm system",
@@ -1237,41 +1243,6 @@
       "summary_method": "rss_fallback"
     },
     {
-      "id": "b588120d3c370b51",
-      "title": "Cyberattack on SMARTs portal puts Sebi's cybersecurity team on high alert - Business Standard",
-      "summary": "Cyberattack on SMARTs portal puts Sebi's cybersecurity team on high alert Business Standard",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdVhyQy1WR3BKZEdpbjZZLTYwSzdlSWJPVHZlMUVfbE9qQXQ2WUpybFpYYU1KRnNWdXo0dWl1U29UNFc5R2dySUcxTFNIZ2ZHOFJpdTliR3BMcEljNW1NamRVdzhCZHBFb2hSLV9WVzBEb2FNcHBwbDR2b0RiTlNwZE5nZWxnLWlORm14aDZrUFFYY092bDFsZWlTS0NvekZkZU92VkNDUGpsUHFhSndhODA5R203b01ablhDbjJPZzAxeHlOMzdLZ1RwcGpaSnN5Q1FMRXVCNNIB3AFBVV95cUxOSFE3VDlnU2VxWmlQVnNvd2pqUmFwMUxaMHc5MjY0VUpucHFQWTlOWUl0Y3B3RGEyNlBrbmtqX1h4TDRRNC04S1NoTUx5WDZVNDJ4SjVIbDNKWFo3R0NnRS0wUXpnSXBjZ0JWVHVHVEY1WjZlR2RreXFCcTU2LVlZbHpXeGVaUFlrNGlySWZrYms0bVRhSGxHa2M3ajl3RlJhdmNfbUt1cnFUeUsyRk1OODZ6b0NEMU1VaUtpdjZxalJteWd6VXhxQkY2c056RkpXUWJYWXBQTDJwWkVE?oc=5",
-      "source": "Business Standard",
-      "category": "tech",
-      "published_at": "2026-10-30T18:38:00+00:00",
-      "importance": 10,
-      "personal_score": 10.0,
-      "entities": [
-        "Cyberattack",
-        "SMARTs",
-        "Sebi",
-        "Business Standard Cyberattack",
-        "Business Standard"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
-      "id": "1c8151dd39b1396a",
-      "title": "AI’s 3-week blitz digs up 14,000 security flaws in open-source software - The Economic Times",
-      "summary": "AI’s 3-week blitz digs up 14,000 security flaws in open-source software The Economic Times",
-      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPS0VUb2pwTVVoS1hEUTZuci1VTDZVUDFzOXZLVk9MR2NTc0M2R0JOOE1tLU1XLTZVU2NsZ3B1aDBmZUVIZmpLUmRtdVZfTjRFb0FUb1ZTQWd0X016eEw5STZ0ZjVkQzZkVkZoRnlZSkVMNWsyWlliTjFvbEF3Qk5OaW9RVVE1Y25vSXhFY1JjcVU2b1BwdVR5RHVkM2NqZnoxakJWNUxvSE03ZmpmWG81WnlXa3dTMUtmWnhUYTlkei1EdTNZaHFNZWd3eDlMWFRfTzZubmt2clRqTEY2V1RGT2FnZFlNYXdhZ0I4M19Mam41a0hnQzg3b2tUUFpFcUtnMnhUOXA1dC1NM1A0WjZrRDhoY9IBmAJBVV95cUxQN2FVd3lGU2k4NDhVYVhFenBSQUtJRmJpSFBRY3VtWUNVRlludWw2enVkZENEUW45eVlUOG0xQUhzaGJkSndFdGxCcjFkcHVPMnFOSk5fTnpJaWdYc0hmSXJfOGRSVWE2S29fbVlsZnNnTzVlNUdIN3VQc1p6WFJVcVpjR3JaM21hSnRNYWdES05hN1p3NW1YS0U3Rlg0VnpNSnhNRmRrSzg2VlBSeFBpZ1F3NVhqMmdnb2F5ZU1tM1RWRktheE5TV0FPeTB4MVJmazgtZDVXUUh0MUhCVjNtWlNjSzNuX2dIaXQ3cDZlcEFoY2NMNDRMc2dXaElURGhzMm4xM3o5UmUxdHMzZjJRWUJDR3h0a0hE?oc=5",
-      "source": "The Economic Times",
-      "category": "tech",
-      "published_at": "2026-10-30T00:30:00+00:00",
-      "importance": 10,
-      "personal_score": 10.0,
-      "entities": [
-        "The Economic Times AI",
-        "The Economic Times"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
       "id": "53ec8cf033fce2cb",
       "title": "PHP flaws take 32 UK government services offline - Cybersecurity Insiders",
       "summary": "PHP flaws take 32 UK government services offline Cybersecurity Insiders",
@@ -1285,6 +1256,42 @@
         "PHP",
         "Cybersecurity Insiders PHP",
         "Cybersecurity Insiders"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
+      "id": "b426ef56da25f92b",
+      "title": "Cybersecurity awareness session held at Govt. Cyberpark - The Hindu",
+      "summary": "Cybersecurity awareness session held at Govt. Cyberpark The Hindu",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbUdIOU9KTGhzb2JPSUp0M0l1R0VaOTlReUZ5NDNKeEx1R1ZJaW82emZaaGZ0RnpKUE5GTW5EX1FuUFJPWlduYXNaNEZIb2FTQVZ2UXhES1R4RzlFNWd6NVRrVnVLOHhsQzNhTUNUWXBiV2dfUVNpbjFoNGVvZmJkelRIcm1GdmMyTGYxV2hfLTNHZjZQT2xKUEhra1Nkd01BenpGYXZ4bzI5aVJaM2ZyeHJGc0RVRjdORHZGedIBwwFBVV95cUxQelQ0aHFjYXptbnJrOFAtZG5uSnRlaUxQOGo2Nmp6czkySDNTNnJVSU9pMV91QTJ4OGRjLUcwbm9VVXJRMTUza01hd3lSQXF2dkg3djlfQmkzcW41WEhJbjVuVm5NWkRjUnlGc2Y3dTN1ajNoVGoyaDFScE5FLXNNdlRSMml5Zmx5Q0FvLVpEZmNCNjhzTEVPOXhaQXFmZVd1VW5KXzVpMTA2bXpoc1dmSzZQVmtSdFUxaHR1dkdhNjFTbVU?oc=5",
+      "source": "The Hindu",
+      "category": "tech",
+      "published_at": "2026-10-30T14:40:47+00:00",
+      "importance": 9,
+      "personal_score": 9.0,
+      "entities": [
+        "Cybersecurity",
+        "Govt. Cyberpark",
+        "The Hindu Cybersecurity",
+        "Govt. Cyberpark The Hindu"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
+      "id": "eb9a830357e89d53",
+      "title": "Cybersecurity Awareness Month: An expert’s guide to protecting your money and data online - Digital Journal",
+      "summary": "Cybersecurity Awareness Month: An expert’s guide to protecting your money and data online Digital Journal",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNaGhEWHpHOHF3ZmVxY0Z5Z251eVRBU2NGZ1QxUUQ1MF9DZ0prMFJxamV6UzNLR2RubUhNX0xfc0hfZHFSZjJRbzd0QnRoUkJCWm1qUmx1cHhSVTl3WE5hdDBGUkdlUG1FbGRtNFktUkhla3c1LWx2bnltUXhEQklMeVhoak5TNi1CU0RjVldYbDJjWGNBQlNmYThmU0U3R2JXWVVicTBNSnh5VUpaR2xwNVVnX0wtem5ESmQzMXZlSzN2SmNXdHc?oc=5",
+      "source": "Digital Journal",
+      "category": "tech",
+      "published_at": "2026-10-31T21:09:28+00:00",
+      "importance": 9,
+      "personal_score": 9.0,
+      "entities": [
+        "Cybersecurity Awareness Month",
+        "Digital Journal Cybersecurity Awareness",
+        "Month",
+        "Digital Journal"
       ],
       "summary_method": "rss_fallback"
     },
@@ -1305,24 +1312,6 @@
         "Forbes Cybersecurity Awareness Month",
         "Ends With A",
         "Billion Halloween Scare Forbes"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
-      "id": "b426ef56da25f92b",
-      "title": "Cybersecurity awareness session held at Govt. Cyberpark - The Hindu",
-      "summary": "Cybersecurity awareness session held at Govt. Cyberpark The Hindu",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbUdIOU9KTGhzb2JPSUp0M0l1R0VaOTlReUZ5NDNKeEx1R1ZJaW82emZaaGZ0RnpKUE5GTW5EX1FuUFJPWlduYXNaNEZIb2FTQVZ2UXhES1R4RzlFNWd6NVRrVnVLOHhsQzNhTUNUWXBiV2dfUVNpbjFoNGVvZmJkelRIcm1GdmMyTGYxV2hfLTNHZjZQT2xKUEhra1Nkd01BenpGYXZ4bzI5aVJaM2ZyeHJGc0RVRjdORHZGedIBwwFBVV95cUxQelQ0aHFjYXptbnJrOFAtZG5uSnRlaUxQOGo2Nmp6czkySDNTNnJVSU9pMV91QTJ4OGRjLUcwbm9VVXJRMTUza01hd3lSQXF2dkg3djlfQmkzcW41WEhJbjVuVm5NWkRjUnlGc2Y3dTN1ajNoVGoyaDFScE5FLXNNdlRSMml5Zmx5Q0FvLVpEZmNCNjhzTEVPOXhaQXFmZVd1VW5KXzVpMTA2bXpoc1dmSzZQVmtSdFUxaHR1dkdhNjFTbVU?oc=5",
-      "source": "The Hindu",
-      "category": "tech",
-      "published_at": "2026-10-30T14:40:47+00:00",
-      "importance": 9,
-      "personal_score": 9.0,
-      "entities": [
-        "Cybersecurity",
-        "Govt. Cyberpark",
-        "The Hindu Cybersecurity",
-        "Govt. Cyberpark The Hindu"
       ],
       "summary_method": "rss_fallback"
     },
@@ -1407,6 +1396,26 @@
       "summary_method": "tfidf_extractive_full_article"
     },
     {
+      "id": "07837e1e284c1fd5",
+      "title": "Infosys opens 1.1 million sq ft new Software Development Block at Pocharam campus in Hyderabad - ETHRWorld.com",
+      "summary": "Infosys opens 1.1 million sq ft new Software Development Block at Pocharam campus in Hyderabad ETHRWorld.com",
+      "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxNaVNCRUJSLW0tOVRfQ0VlWHNJRThDYkFoN1YtSDFlbnM0eVVzNFc0ZE9uVV9jZEk0NzhZbDdZdEZxaThFWTNlejVKWVRLQ1ppeUxkNUV3ODBkV0JXWkktMFUwcVk1THhVWHAwY2J0WjM0dFBuNFp2T2wzNjluRTR4ZWtKZE94cC1DN2RkVTB2OVZJNUwwb1hEcGxwcC1vUUhYZU1RT0pEN0tob05Qc3JScllhWDA3Q0F4UGw0NHpBemY2ZWRGaW1EMV84NEkwMzAweWkwUTFWZzQwdzl0eEt2QlZGU0FJbHdXbHJMc0hzQzk3WEowM1BvQkJfbHZLc3lWRnRHYTRiMU1YNWZqVW51Vkt2eTBLdkRXbVU3TU5mc2pLZGRILW45ZEtLQWNoalR2WC1xVnAyaE4wbkw3QWfSAfsBQVVfeXFMTktfX003bzltcUFNYW9ONC1SQVlOUWNVWDlrbjRzT1VKSVNmWEgtemItNGFuOG9SOHoxUTNHWWhaZFBXcFJPMVRnMDVWWWNwT1d2Zy15Ry02MEFlMEJFYmVnaVEtai1zLU5Idm0yVnlpU0VXWjIyWkJzYW10Zzg4NkY4Z2dSWWxSWXFmaGZXaHgxWElFTUdYUno0VnNOeEI4VTM2TjdQYkktYS1MZUJSMVJlMks1b3pSYnNZUnRzZ1E3QVFmVUMxd0dtXzBuQkhmZFFrSE83VWtJRUFTQ0dQTXp2azFPQTdnal9uR2QxcnZZejQxSDZkZ2JzazQ?oc=5",
+      "source": "ETHRWorld.com",
+      "category": "tech",
+      "published_at": "2026-10-31T19:43:03+00:00",
+      "importance": 8,
+      "personal_score": 8.0,
+      "entities": [
+        "Infosys",
+        "Software Development Block",
+        "Pocharam",
+        "Hyderabad",
+        "ETHRWorld.com Infosys",
+        "Hyderabad ETHRWorld.com"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
       "id": "4cb6108dd378e7a8",
       "title": "Pakistan’s Artificial Intelligence Warfare - The Diplomat – Asia-Pacific Current Affairs Magazine",
       "summary": "Pakistan’s Artificial Intelligence Warfare The Diplomat – Asia-Pacific Current Affairs Magazine",
@@ -1489,6 +1498,21 @@
       "summary_method": "rss_fallback"
     },
     {
+      "id": "72604b496fbb118e",
+      "title": "Cybersecurity becomes a balance-sheet risk for lenders as breaches rise - bfsi.economictimes.indiatimes.com",
+      "summary": "Cybersecurity becomes a balance-sheet risk for lenders as breaches rise bfsi.economictimes.indiatimes.com",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQM0doS1JjRWZkZzQxNVNsa3RtVWx0aGtRVkRURG1TYWxyb2ZkTVVoWE0xbDVGcnBGQkNWRHF4ZlZabzNBVExDeTRQcFQwRnpQT0dUYWJJcjh1djJsdjhnTzhhaFU4TUpIMUFJS2VIZml3UTh4T2I0NUI3dWIzRHVZZ0dMTVpLakRqekJWR1o0NXhBLTNtWFdoVG03WVFiRG9Lal9sZkEzWHhYd1hheE5ibHlDNkdBX3pUczhWcmZNelFrTWU1Q1pFQm9Oa2rSAdIBQVVfeXFMT1RucnpFUDJOdVBJeTd5a0daR1pDYTVTQXo2bzZ0MkctbkNuZE13WVFNVHNUdDJrS1ZUMXJ4M29JQklfSHp1dTdFYWJNaFBBY2pCRW5GXzNtMHkyYzB2SWZuelhvVXlyM2lHSVNRS1JDNDZZXzZYVzMzTVVEaWZEOGNGaHYzOXVKSmxQSXRVb0FicGZETFhqV0pwZzcxaTl0S1dMLWt4Y0hGTmMyVHRNNzNaYWU0SjJZR0swNFA0NW5PVENiRjRmMGI3b2NQaE9pbnZn?oc=5",
+      "source": "bfsi.economictimes.indiatimes.com",
+      "category": "tech",
+      "published_at": "2026-10-30T21:23:37+00:00",
+      "importance": 7,
+      "personal_score": 7.0,
+      "entities": [
+        "Cybersecurity"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
       "id": "b08357364592a7a2",
       "title": "Apple phasing out full Rosetta support in upcoming macOS updates",
       "summary": "Apple phasing out full Rosetta support in upcoming macOS updates left Apple phasing out full Rosetta support in upcoming macOS updates Reuters Reuters https://th-i.thgim.com/public/incoming/gly3vr/article71634998.ece/alternates/FREE_1200/Apple-announcesGANGMKM4R.4.jpg.jpg Dado Ruvic FILE PHOTO: Apple logo is seen on a Macbook in this illustration taken taken April 12, 2020. REUTERS/Dado Ruvic/Illustration/File Photo Going forward, its support will be limited strictly to select older, unmaintained games that rely on Intel-based frameworks Apple has released updated guidance regarding Intel-based application compatibility on Apple silicon Macs, detailing upcoming changes to its Rosetta translation software. Apple says a small number of iPhone Duo inner display impacted storyline 1 While Rosetta currently allows Intel-designed applications to run seamlessly on Apple silicon across macOS 27 and earlier, Apple announced that starting with macOS 28, Rosetta’s functionality will be significantly reduced. Mac owners should replace legacy Intel apps with “Universal” or “Apple silicon” releases available through the Mac App Store, developer websites, or built-in app updaters.",
@@ -1525,20 +1549,20 @@
       "summary_method": "rss_fallback"
     },
     {
-      "id": "e8311e16c7500702",
-      "title": "Too much code, too little shipped: Why AI needs a software factory - YourStory.com",
-      "summary": "Too much code, too little shipped: Why AI needs a software factory YourStory.com",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWUFyT3V0SDc3WXVTWlpvbERqZm1XbG44YUExRGVmc0lhbGQ0eTI3dzB0X1liNm03cm5rMHVCLVpyUUhWSmdzMWtzb0R4bkVxZFczdWVzWTd2UHNFVDlYdHZTdndOQk1rU1RXRll4bTJybE9PMjZBNjlNcC1MNG9EWmhrNzVud1JneFgxdzdhRU56NEU3a0E0?oc=5",
-      "source": "YourStory.com",
+      "id": "4017fb5cf2f3b7d2",
+      "title": "GitHub bets on multi-agent software development with Copilot overhaul - InfoWorld",
+      "summary": "GitHub bets on multi-agent software development with Copilot overhaul InfoWorld",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMHJqVXdlMjNmeDM5N1dPWjROWGtyVWs3UmRYQ0o5ampyRkVOd0pXZ2tkeVA2NEtxWHYyVEY1b3AzMnFUZW15cnRHUUR6MG8yX1dWcGx2NThJS3J3R2pMcmRDRVYyNDN2cGhfN182NjI0RnJPbTVLU3lBRFhkck0wamtQaGVpRUpKMkJOa2pMUWZ6S1RqNmYzVWFJVjdtOVF6NEltTXJwNGVTZENEOUxzM2dwcUl5cnc?oc=5",
+      "source": "InfoWorld",
       "category": "tech",
-      "published_at": "2026-10-30T07:13:30+00:00",
+      "published_at": "2026-10-30T12:18:47+00:00",
       "importance": 7,
       "personal_score": 7.0,
       "entities": [
-        "Too",
-        "Why AI",
-        "YourStory.com Too",
-        "YourStory.com"
+        "GitHub",
+        "Copilot",
+        "InfoWorld GitHub",
+        "InfoWorld"
       ],
       "summary_method": "rss_fallback"
     },
@@ -1561,24 +1585,6 @@
       "summary_method": "rss_fallback"
     },
     {
-      "id": "4017fb5cf2f3b7d2",
-      "title": "GitHub bets on multi-agent software development with Copilot overhaul - InfoWorld",
-      "summary": "GitHub bets on multi-agent software development with Copilot overhaul InfoWorld",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMHJqVXdlMjNmeDM5N1dPWjROWGtyVWs3UmRYQ0o5ampyRkVOd0pXZ2tkeVA2NEtxWHYyVEY1b3AzMnFUZW15cnRHUUR6MG8yX1dWcGx2NThJS3J3R2pMcmRDRVYyNDN2cGhfN182NjI0RnJPbTVLU3lBRFhkck0wamtQaGVpRUpKMkJOa2pMUWZ6S1RqNmYzVWFJVjdtOVF6NEltTXJwNGVTZENEOUxzM2dwcUl5cnc?oc=5",
-      "source": "InfoWorld",
-      "category": "tech",
-      "published_at": "2026-10-30T12:18:47+00:00",
-      "importance": 7,
-      "personal_score": 7.0,
-      "entities": [
-        "GitHub",
-        "Copilot",
-        "InfoWorld GitHub",
-        "InfoWorld"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
       "id": "5a3875696d37cd1e",
       "title": "How Software Development Leaders Can Turn AI Into Business Growth - Entrepreneur",
       "summary": "How Software Development Leaders Can Turn AI Into Business Growth Entrepreneur",
@@ -1597,32 +1603,6 @@
         "Into Business Growth Entrepreneur"
       ],
       "summary_method": "rss_fallback"
-    },
-    {
-      "id": "d9bb2336e88ac577",
-      "title": "ഡൽഹിയിൽ മഴ: ഫോൺ നനഞ്ഞാൽ 60 സെക്കൻഡിനുള്ളിൽ ചെയ്യേണ്ട കാര്യങ്ങൾ; ഈ തെറ്റുകൾ ഒഴിവാക്കൂ!",
-      "summary": "ഇന്ന് (2026 ഒക്ടോബർ 30) ഡൽഹി-എൻസിആർ മേഖലയിൽ ശക്തമായ മഴയ്ക്കും ഇടിമിന്നലിനും സാധ്യതയുണ്ടെന്നാണ് മുന്നറിയിപ്പ്. ഡൽഹി-എൻസിആറിൽ മഴ: ഫോൺ നനഞ്ഞാൽ രക്ഷിക്കാൻ 60 സെക്കൻഡ് വഴി; ഒപ്പം സുരക്ഷിതമായി ഉണക്കാനുള്ള മാർഗ്ഗങ്ങളുംനനഞ്ഞ ഫോൺ അരിപ്പാത്രത്തിൽ ഇടുന്ന പരമ്പരാഗത രീതി ഒഴിവാക്കുക; അരിപ്പൊടി കയറി ഫോൺ കൂടുതൽ കേടാകാനേ ഇത് ഉപകരിക്കൂ. വാട്ടർപ്രൂഫ് റേറ്റിംഗും യാഥാർത്ഥ്യവും: വാറന്റിയും ഇൻഷുറൻസ് ക്ലെയിമും ഇന്ത്യയിൽ എങ്ങനെ നേടാം?ഫോണുകൾക്കുള്ള IP67, IP68 റേറ്റിംഗുകൾ എന്നാൽ പരിമിതമായ സമയത്തേക്ക് ശുദ്ധജലത്തിൽ വച്ച് ലാബുകളിൽ നടത്തുന്ന പരിശോധനകൾ മാത്രമാണ്. സ്പീക്കർ ശബ്ദത്തിൽ വ്യത്യാസം വരികയോ, ക്യാമറ ലെൻസിൽ മഞ്ഞ് മൂടുകയോ, ബാറ്ററി ചൂടാവുകയോ ചെയ്താൽ ഉടൻ തന്നെ കമ്പനിയുടെ ഔദ്യോഗിക സർവീസ് സെന്ററിനെ സമീപിക്കുക.",
-      "url": "https://malayalam.gizbot.com/news/what-to-do-if-your-phone-gets-wet-drying-tips-warranty-guide-2026-011-43397.html",
-      "source": "Malayalam Gizbot Technology",
-      "category": "tech",
-      "published_at": "2026-10-30T04:44:05+00:00",
-      "importance": 6,
-      "personal_score": 6.0,
-      "entities": [
-        "ഡൽഹിയിൽ",
-        "ഫോൺ",
-        "നനഞ്ഞാൽ",
-        "സെക്കൻഡിനുള്ളിൽ",
-        "ചെയ്യേണ്ട",
-        "കാര്യങ്ങൾ",
-        "തെറ്റുകൾ",
-        "ഒഴിവാക്കൂ",
-        "ഉടൻ",
-        "കാര്യങ്ങളും",
-        "ഒഴിവാക്കേണ്ട",
-        "തെറ്റുകളും"
-      ],
-      "summary_method": "tfidf_extractive_full_article"
     },
     {
       "id": "58e75ec1762ebe27",
@@ -1651,21 +1631,19 @@
       "summary_method": "tfidf_extractive_full_article"
     },
     {
-      "id": "0c5312b77d76982f",
-      "title": "How infant deaths in Keralam’s Attappady expose a deep-rooted health, social crisis",
-      "summary": "PALAKKAD The deaths of 12 infants, 10 of them from tribal communities, in Attappady in Keralam in recent months have once again cast a spotlight on a child health crisis that has defied solutions for over a decade. While the State government has set an expert assessment in motion, tribal organisations maintain that the roots of the crisis run deeper than healthcare, demanding sustained action on nutrition, maternal health, landlessness and the wider socio-economic conditions of the community. Figures cited by tribal activists show that 124 infants have died in the region since 2011. Since 2012, Attappady has also recorded around 300 abortions, 90 intrauterine deaths and two dozen stillbirths.",
-      "url": "https://www.thehindu.com/news/national/kerala/how-infant-deaths-in-keralams-attappady-expose-a-deep-rooted-health-social-crisis/article71648509.ece",
+      "id": "334a37387580522c",
+      "title": "Will not enforce circular on hospital medicine price disclosure for now: Karnataka government to HC",
+      "summary": "Bengaluru The State government on Friday (October 30) told the Karnataka High Court that it would not insist, for now, on the implementation of the circular which mandates that all hospital pharmacies disclose the landing base/purchase price and maximum retail price (MRP) of medicines, medical devices and consumables on bills. Having a re-look The government also informed the court that “the officials concerned are in the process of having a re-look at the circular dated October 1, 2026, and will not enforce the mandate of the circular till November 12, the next date of hearing on the petition”. It was contended on behalf of the petitioners that the FSDA had no statutory power to impose such conditions for disclosure of purchase price, which is a commercial agreement between the sellers and buyers that vary depending on suppliers, purchase quantity, discounts, credit arrangements and other factors. Sans consultation Mandating disclosure of purchase price would result in exposing confidential commercial arrangements between the suppliers and health establishments, it has been contented in the petition, while pointing out that the circular was issued sans adequate consultations with the stakeholders, even though the circular has direct implications on their finance.",
+      "url": "https://www.thehindu.com/news/national/karnataka/will-not-enforce-circular-on-hospital-medicine-price-disclosure-for-now-karnataka-government-to-hc/article71645843.ece",
       "source": "The Hindu Science and Technology",
       "category": "tech",
-      "published_at": "2026-10-31T07:55:39+00:00",
+      "published_at": "2026-10-30T18:07:38+00:00",
       "importance": 6,
       "personal_score": 6.0,
       "entities": [
-        "How",
-        "Keralam",
-        "Attappady",
-        "State",
-        "Tribal"
+        "Will",
+        "Karnataka",
+        "HC The"
       ],
       "summary_method": "tfidf_extractive_full_article"
     },
@@ -1696,34 +1674,28 @@
       "summary_method": "tfidf_extractive_full_article"
     },
     {
-      "id": "163cd1b0259a2daa",
-      "title": "Lava to increase smartphone prices by up to ₹3,000",
-      "summary": "As the rising memory shortages continue to hit smartphone makers, Lava has decided to revise its smartphone prices by up to ₹3,000. storyline 1 “In the current industry environment, ongoing memory shortages have necessitated a price revision of up to ₹3,000 across our smartphone portfolio, effective 15th November, 2026,” the company said. Lava has been serving the sub-30k price category due to volume game and thinks that anything beyond that is vanity. Lava further added that consumers looking to upgrade their devices have a strong opportunity at this moment, as its products are currently available at festive prices across leading e-commerce platforms and offline retail network.",
-      "url": "https://www.thehindu.com/sci-tech/technology/gadgets/lava-to-increase-smartphone-prices-by-up-to-3000/article71648438.ece",
-      "source": "The Hindu Science and Technology",
+      "id": "d9bb2336e88ac577",
+      "title": "ഡൽഹിയിൽ മഴ: ഫോൺ നനഞ്ഞാൽ 60 സെക്കൻഡിനുള്ളിൽ ചെയ്യേണ്ട കാര്യങ്ങൾ; ഈ തെറ്റുകൾ ഒഴിവാക്കൂ!",
+      "summary": "ഇന്ന് (2026 ഒക്ടോബർ 30) ഡൽഹി-എൻസിആർ മേഖലയിൽ ശക്തമായ മഴയ്ക്കും ഇടിമിന്നലിനും സാധ്യതയുണ്ടെന്നാണ് മുന്നറിയിപ്പ്. ഡൽഹി-എൻസിആറിൽ മഴ: ഫോൺ നനഞ്ഞാൽ രക്ഷിക്കാൻ 60 സെക്കൻഡ് വഴി; ഒപ്പം സുരക്ഷിതമായി ഉണക്കാനുള്ള മാർഗ്ഗങ്ങളുംനനഞ്ഞ ഫോൺ അരിപ്പാത്രത്തിൽ ഇടുന്ന പരമ്പരാഗത രീതി ഒഴിവാക്കുക; അരിപ്പൊടി കയറി ഫോൺ കൂടുതൽ കേടാകാനേ ഇത് ഉപകരിക്കൂ. വാട്ടർപ്രൂഫ് റേറ്റിംഗും യാഥാർത്ഥ്യവും: വാറന്റിയും ഇൻഷുറൻസ് ക്ലെയിമും ഇന്ത്യയിൽ എങ്ങനെ നേടാം?ഫോണുകൾക്കുള്ള IP67, IP68 റേറ്റിംഗുകൾ എന്നാൽ പരിമിതമായ സമയത്തേക്ക് ശുദ്ധജലത്തിൽ വച്ച് ലാബുകളിൽ നടത്തുന്ന പരിശോധനകൾ മാത്രമാണ്. സ്പീക്കർ ശബ്ദത്തിൽ വ്യത്യാസം വരികയോ, ക്യാമറ ലെൻസിൽ മഞ്ഞ് മൂടുകയോ, ബാറ്ററി ചൂടാവുകയോ ചെയ്താൽ ഉടൻ തന്നെ കമ്പനിയുടെ ഔദ്യോഗിക സർവീസ് സെന്ററിനെ സമീപിക്കുക.",
+      "url": "https://malayalam.gizbot.com/news/what-to-do-if-your-phone-gets-wet-drying-tips-warranty-guide-2026-011-43397.html",
+      "source": "Malayalam Gizbot Technology",
       "category": "tech",
-      "published_at": "2026-10-31T06:28:42+00:00",
+      "published_at": "2026-10-30T04:44:05+00:00",
       "importance": 6,
       "personal_score": 6.0,
       "entities": [
-        "Lava"
-      ],
-      "summary_method": "tfidf_extractive_full_article"
-    },
-    {
-      "id": "334a37387580522c",
-      "title": "Will not enforce circular on hospital medicine price disclosure for now: Karnataka government to HC",
-      "summary": "Bengaluru The State government on Friday (October 30) told the Karnataka High Court that it would not insist, for now, on the implementation of the circular which mandates that all hospital pharmacies disclose the landing base/purchase price and maximum retail price (MRP) of medicines, medical devices and consumables on bills. Having a re-look The government also informed the court that “the officials concerned are in the process of having a re-look at the circular dated October 1, 2026, and will not enforce the mandate of the circular till November 12, the next date of hearing on the petition”. It was contended on behalf of the petitioners that the FSDA had no statutory power to impose such conditions for disclosure of purchase price, which is a commercial agreement between the sellers and buyers that vary depending on suppliers, purchase quantity, discounts, credit arrangements and other factors. Sans consultation Mandating disclosure of purchase price would result in exposing confidential commercial arrangements between the suppliers and health establishments, it has been contented in the petition, while pointing out that the circular was issued sans adequate consultations with the stakeholders, even though the circular has direct implications on their finance.",
-      "url": "https://www.thehindu.com/news/national/karnataka/will-not-enforce-circular-on-hospital-medicine-price-disclosure-for-now-karnataka-government-to-hc/article71645843.ece",
-      "source": "The Hindu Science and Technology",
-      "category": "tech",
-      "published_at": "2026-10-30T18:07:38+00:00",
-      "importance": 6,
-      "personal_score": 6.0,
-      "entities": [
-        "Will",
-        "Karnataka",
-        "HC The"
+        "ഡൽഹിയിൽ",
+        "ഫോൺ",
+        "നനഞ്ഞാൽ",
+        "സെക്കൻഡിനുള്ളിൽ",
+        "ചെയ്യേണ്ട",
+        "കാര്യങ്ങൾ",
+        "തെറ്റുകൾ",
+        "ഒഴിവാക്കൂ",
+        "ഉടൻ",
+        "കാര്യങ്ങളും",
+        "ഒഴിവാക്കേണ്ട",
+        "തെറ്റുകളും"
       ],
       "summary_method": "tfidf_extractive_full_article"
     },
@@ -1775,6 +1747,24 @@
         "Bold AI",
         "Adobe",
         "Ars Technica"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
+      "id": "e8311e16c7500702",
+      "title": "Too much code, too little shipped: Why AI needs a software factory - YourStory.com",
+      "summary": "Too much code, too little shipped: Why AI needs a software factory YourStory.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWUFyT3V0SDc3WXVTWlpvbERqZm1XbG44YUExRGVmc0lhbGQ0eTI3dzB0X1liNm03cm5rMHVCLVpyUUhWSmdzMWtzb0R4bkVxZFczdWVzWTd2UHNFVDlYdHZTdndOQk1rU1RXRll4bTJybE9PMjZBNjlNcC1MNG9EWmhrNzVud1JneFgxdzdhRU56NEU3a0E0?oc=5",
+      "source": "YourStory.com",
+      "category": "tech",
+      "published_at": "2026-10-30T07:13:30+00:00",
+      "importance": 6,
+      "personal_score": 6.0,
+      "entities": [
+        "Too",
+        "Why AI",
+        "YourStory.com Too",
+        "YourStory.com"
       ],
       "summary_method": "rss_fallback"
     },
@@ -2010,6 +2000,25 @@
       "summary_method": "rss_fallback"
     },
     {
+      "id": "0c5312b77d76982f",
+      "title": "How infant deaths in Keralam’s Attappady expose a deep-rooted health, social crisis",
+      "summary": "PALAKKAD The deaths of 12 infants, 10 of them from tribal communities, in Attappady in Keralam in recent months have once again cast a spotlight on a child health crisis that has defied solutions for over a decade. While the State government has set an expert assessment in motion, tribal organisations maintain that the roots of the crisis run deeper than healthcare, demanding sustained action on nutrition, maternal health, landlessness and the wider socio-economic conditions of the community. Figures cited by tribal activists show that 124 infants have died in the region since 2011. Since 2012, Attappady has also recorded around 300 abortions, 90 intrauterine deaths and two dozen stillbirths.",
+      "url": "https://www.thehindu.com/news/national/kerala/how-infant-deaths-in-keralams-attappady-expose-a-deep-rooted-health-social-crisis/article71648509.ece",
+      "source": "The Hindu Science and Technology",
+      "category": "tech",
+      "published_at": "2026-10-31T07:55:39+00:00",
+      "importance": 5,
+      "personal_score": 5.0,
+      "entities": [
+        "How",
+        "Keralam",
+        "Attappady",
+        "State",
+        "Tribal"
+      ],
+      "summary_method": "tfidf_extractive_full_article"
+    },
+    {
       "id": "32813571557def80",
       "title": "Can Indian homegrown smartphone brands compete with global giants?",
       "summary": "India’s IT Minister, Ashwini Vaishnaw, in a recent interaction with NDTV, outlined an ambitious target that by October 23, 2028, India will have its own mobile phone brand, designed and made locally. While the minister’s intent reflects a strong government policy to foster indigenous manufacturing and self-reliance, translating that vision into commercial success presents steep operational and market hurdles. The competitive landscape is daunting as Chinese Original Equipment Manufacturers (OEMs) control nearly 70% of India’s smartphone market, as per Counterpoint. The iPhone maker’s dominance has forced Chinese players to re-evaluate their strategies across price bands.",
@@ -2038,25 +2047,6 @@
       "personal_score": 5.0,
       "entities": [
         "The Times"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
-      "id": "ecf123d36e44ed2f",
-      "title": "The BFSI Cybersecurity 100: India’s Most Influential CISOs – 2026 - Indian Startup Times",
-      "summary": "The BFSI Cybersecurity 100: India’s Most Influential CISOs – 2026 Indian Startup Times",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZENwWlZnMlF5ek9DSUZqdGM2ZjdIRlBMNmd3SG1FcXFHZ1dlVFdVS21rTGQ5N05uNXdOSnJRQXBvTmJTWlFDUTFkbllIWmtmRHdNVEEyNjRqNmRyWEt6NWZtc3NaOXVRY2NqRmpJMk5rcHBLREFUYlhlNTJHdC1uSm42TUhrUmduMUZKaU04ekFLWlgzRTNOZDAtRnZpZ0NjZUstVU1DbnVCZw?oc=5",
-      "source": "Indian Startup Times",
-      "category": "tech",
-      "published_at": "2026-10-31T16:31:45+00:00",
-      "importance": 5,
-      "personal_score": 5.0,
-      "entities": [
-        "The BFSI Cybersecurity",
-        "Most Influential CISOs",
-        "Indian Startup Times The",
-        "BFSI Cybersecurity",
-        "Indian Startup Times"
       ],
       "summary_method": "rss_fallback"
     },
@@ -2105,19 +2095,20 @@
       "summary_method": "rss_fallback"
     },
     {
-      "id": "6407aa16038653cc",
-      "title": "Artificial intelligence's next big bottleneck in India is a very small chip - Business Standard",
-      "summary": "Artificial intelligence's next big bottleneck in India is a very small chip Business Standard",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNUVpZT1FuRlAxRDVrNk5xOVoxUGhWUEJhMWRrQ0dOVDVsVUdUdjhVMVJMbXR2MVVwUFJ2OXdkdWxYY0p5bk9TSWhDNjdENFZTWlZfM0pOWGc2djZvdWhDWDF0d3NIY3pCV1dKRXZMMmFGcjVEZTlXVHFjNGNxckpwX0tQaTNzN0E2MUFkWU10b0xLRVg2cnlXWFZLazQyeGdUTGwwX3RyMkV6ZVdGMXAtRnBBckhmcDhIR2hyaktQTUU1MVU1ZXJMVWYycE9HU1I2VTExUHIzSExtVVJzT3pWWWtJTi1kRTZxWktWRi1TYllrQmpTQnc00gH8AUFVX3lxTE9xS25ncTFFdWZIT2ZsTnZVU0l2eC1FXzh6NUlaaTJIRUVhWU4xQTY4UllxS3c2UmRJYmxtZVI5Q0t4dVpYdkpYUHRSSVJLVC0wYlR0ZVdrVWtJRHBTeGpiek9kZ2tlLTFtYXduaTBRUmNwUW9BU0ZNQURZQXJscWk4cXgzLVBGblJSdl9NVy1OazJObjgtUjZlbU5TTXdCbjdPLTlKMHV4RFQwZHVQNk4wbkgzR0FZY1AzSVZlbUxUc0FDTDMyb0w5TTdHTVZ5djItc1BTQnhXMXRCU3J5YmFTNGlmQVhoR09kcjltY0g3SjBJWnkyS201Vmhrbg?oc=5",
-      "source": "Business Standard",
+      "id": "1da8b52a38edd011",
+      "title": "Google launches Gemini 4 Carbon with focus on coding, cybersecurity - The New Indian Express",
+      "summary": "Google launches Gemini 4 Carbon with focus on coding, cybersecurity The New Indian Express",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZ0ttMTFqSGZJeERqMy0wMnVacmJ1YWVSVUpiTks4UkNidDZ0S2dYRlhsTDRJTmFlMUdDd0NKTXkxU1dPY24yMDJ6d2ZHbWZCWjBUMF9nOWtsWThzRXV3bk1VVExMb1dQNTFrV0o5R3ZZTm5rS1pab0JnaTR1NG9LSjRQeGlDa01tZFlQd2V2MHM5NHFVOUY0cnlZbkxId2FuY0xyV3Nkcm91aU5BNXFuZm4wVVZrQWlsVDhqclU4TkFZYU5V0gHSAUFVX3lxTFB3QW9Eak9yWnFjbjEzSzVXQ1kxaFZiMWdOeHVva3V5SVVLT0dEWFFCSWZ2Y283NnVYQzVkN3lsUjNwU211VHg2QlYwT0xtNUR4dllZd29La3MydXctQlp1YlRydXlrMjdtN2VyVmlGT01XcUY5UjZiWW1YeTQxaTcyVEpvbE9RWmp4R09lRTI4U3Rfckd5SklKTXRybzZOQldYVUZ6ODRKcHU4bjhNdkVCTVljLTBWVXNMYkE4LUVhT0VSWGpxdExfVEk4Qk9xMWhSUQ?oc=5",
+      "source": "The New Indian Express",
       "category": "tech",
-      "published_at": "2026-10-25T16:40:09+00:00",
+      "published_at": "2026-10-29T18:30:00+00:00",
       "importance": 4,
       "personal_score": 4.0,
       "entities": [
-        "Artificial",
-        "Business Standard Artificial",
-        "Business Standard"
+        "Google",
+        "Gemini",
+        "Carbon",
+        "The New Indian Express"
       ],
       "summary_method": "rss_fallback"
     },
