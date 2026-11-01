@@ -1,6 +1,6 @@
 {
   "version": 7,
-  "updated_at": "2026-11-01T19:55:54.238375+00:00",
+  "updated_at": "2026-11-01T23:10:03.230838+00:00",
   "ai_engine": {
     "enabled": true,
     "type": "mathematical_ml",
@@ -303,27 +303,28 @@
       "summary_method": "tfidf_extractive_full_article"
     },
     {
-      "id": "dbe6d300ad4ab731",
-      "title": "ബൈക്ക് ഓടിക്കാൻ തരണമെന്ന് ആവശ്യപ്പെട്ടു, വിസമ്മതിച്ചതോടെ തർക്കം; യുവാവിനു വെടിയേറ്റു, സുഹൃത്ത് കസ്റ്റഡിയിൽ - Manorama Online",
-      "summary": "ബൈക്ക് ഓടിക്കാൻ തരണമെന്ന് ആവശ്യപ്പെട്ടു, വിസമ്മതിച്ചതോടെ തർക്കം; യുവാവിനു വെടിയേറ്റു, സുഹൃത്ത് കസ്റ്റഡിയിൽ Manorama Online",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZUt5RkxocThuaGZab09JdG5venM1RmlLNmhNdDlZXzVYbmQxRGdrSzMxdFVIemxnVzloSzR0RmVIUWgxbjZmVElkZWlKY041dU1mOUxpRmhESWk3NGhUQnVXU0hlVWM1ZHNuWU9pOF9WWlROTW5pRVBHZ2x1eEFkbjBqY1ctdVlnSTN3dWc4bzVzNlBwT1gtSmt0RmFmVHNRN2hONHMxdnlSYXBDX1RJUVkyX0lSd0o5TmZJalJocG1pMUM3NWNOUXA5eTVnbGhoQW1PNEFn?oc=5",
-      "source": "Manorama Online",
+      "id": "1a516bf6c8e807a1",
+      "title": "KERALA BUDGET 2026: ആരോഗ്യ മേഖലയെ മെച്ചപ്പെടുത്തും; കേരള ഹെൽത്ത് ആൻഡ് ലൈഫ് സയൻസ് സിറ്റിക്ക് 100 കോടി - Samayam Malayalam",
+      "summary": "KERALA BUDGET 2026: ആരോഗ്യ മേഖലയെ മെച്ചപ്പെടുത്തും; കേരള ഹെൽത്ത് ആൻഡ് ലൈഫ് സയൻസ് സിറ്റിക്ക് 100 കോടി Samayam Malayalam",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPeUtMQmRyUUxScndIbnR1bkliZllIelhVNmJ0Y3BDdjNkelQzLXk3bUpjY2FxV2gwZHRkVjRPQlpBLW15NS1VM0I1SkZ3aWRCQlFjTXlzU05JR2xrTEpvbW5tcTZiOHpqYVhuU0Jhb1lZYjUtV0xScUdRdFFKWGp4bWF1TnhWYmxRd0duWDM5LXBBWUUyQlJMNXJudlA1SXNkczMxSlJ3Qzkzc0lSUUlyQXJBYlBfTFZLUXlyWktTRUkwSDFvMk1kZDJodlVNMGczdnhYalg3QVhYSGV0X0IwYtIB5gFBVV95cUxOSEhCUWlEQU9UOWNKOGJ4NVdXNW93X2luWG9wa3pLUG1GX0VKR255cDc3Q2wwdlBrLTAtMy1zM3M3TTNqWnA2dE9vSmdYcFZ0TFlxUWpsajFfOEc1bkpsNkFqM2VaYzlXX09JN3hlMk1yUTVaX0NxcktHSlNRZmQ5V1dkWmJmU2pZWEVfMnhSeWttNVoyUjRoNU12VzZTOUxoZzZyYXN2ZVVQWDFNU044eHB6MjdERjFPSmJJcDI3cmZOcW04ZHJfemRyT2ZVVXVwalVHdm9jTkNoeU1OaXE1MThQZlVCZw?oc=5",
+      "source": "Samayam Malayalam",
       "category": "general",
-      "published_at": "2026-11-01T18:51:46+00:00",
+      "published_at": "2026-06-19T07:00:00+00:00",
       "importance": 4,
       "personal_score": 4.25,
       "entities": [
-        "ബൈക്ക്",
-        "ഓടിക്കാൻ",
-        "തരണമെന്ന്",
-        "ആവശ്യപ്പെട്ടു",
-        "വിസമ്മതിച്ചതോടെ",
-        "തർക്കം",
-        "യുവാവിനു",
-        "വെടിയേറ്റു",
-        "സുഹൃത്ത്",
-        "കസ്റ്റഡിയിൽ",
-        "Manorama Online"
+        "ആരോഗ്യ",
+        "മേഖലയെ",
+        "മെച്ചപ്പെടുത്തും",
+        "കേരള",
+        "ഹെൽത്ത്",
+        "ആൻഡ്",
+        "ലൈഫ്",
+        "സയൻസ്",
+        "സിറ്റിക്ക്",
+        "കോടി",
+        "KERALA BUDGET",
+        "Samayam Malayalam KERALA BUDGET"
       ],
       "summary_method": "rss_fallback"
     },
@@ -384,31 +385,6 @@
         "KSU"
       ],
       "summary_method": "tfidf_extractive_full_article"
-    },
-    {
-      "id": "7f84e71f578b2036",
-      "title": "മണ്ണാറശ്ശാല ആയില്യവും,പരുമല പെരുന്നാളും; നവംബർ രണ്ടിന് ആലപ്പുഴ ജില്ലയിൽ പ്രാദേശിക അവധി - Mathrubhumi",
-      "summary": "മണ്ണാറശ്ശാല ആയില്യവും,പരുമല പെരുന്നാളും; നവംബർ രണ്ടിന് ആലപ്പുഴ ജില്ലയിൽ പ്രാദേശിക അവധി Mathrubhumi",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQeXB0N0huMVQyNC11bHJPVEU0X3hxZkxwZGZ0ZWdubDZLdXF6Y0kyeHVsaUtlZnFvTDZEakxFNTBST3M3Rm9SVjdYbzFLSDViaXUtNEJZeFl3MzR1LUo3c3doaVhOc1JFdmdldFVsSlI1cGNWRXZHQ0RaekpuS0VFQUtieGFBOWh1OFZySE5jRmNqWUl4MVdJOTZ3eDVJcHBoZFlUSktUd240dS1nUTRTdktDTlAzT1FXVG1KZzlB0gHDAUFVX3lxTE5lOG9LaDdEZVdSZS1GSkdWaGd0dF9RYW9KVERBRV9aRWNqZU8yU0RKcmFGSG5ZeEM5c2hVdksxUE1zUy13SGtLLUFvN1BhdlBpZGQ4eHVGMElLMzYybUY2clNHU0N0bDhsS3EyM281ZkNQdVJULVZaU2NUaGxqcHdDR1EzcVRxLWh3dzJiOHA2RDNzR1NKU2E3bUtLMWYwb1FmbU1CNFZvVlpQZXRHZmp1N1NWYmM3NjlUaG1iZmRVVlBvVQ?oc=5",
-      "source": "Mathrubhumi",
-      "category": "general",
-      "published_at": "2026-11-01T18:25:35+00:00",
-      "importance": 4,
-      "personal_score": 4.25,
-      "entities": [
-        "മണ്ണാറശ്ശാല",
-        "ആയില്യവും",
-        "പരുമല",
-        "പെരുന്നാളും",
-        "നവംബർ",
-        "രണ്ടിന്",
-        "ആലപ്പുഴ",
-        "ജില്ലയിൽ",
-        "പ്രാദേശിക",
-        "അവധി",
-        "Mathrubhumi"
-      ],
-      "summary_method": "rss_fallback"
     },
     {
       "id": "8a481a77a5aa9968",
@@ -570,6 +546,32 @@
       "summary_method": "rss_fallback"
     },
     {
+      "id": "282221c258f7528b",
+      "title": "'ശശികലയെക്കാൾ വലിയ വിഷകലയായി വിഷം നിറയ്ക്കാമെന്നാണോ', സിസ തോമസിനെതിരെ ജലീൽ",
+      "summary": "സമരം ചെയ്ത വിദ്യാർത്ഥികളുടെ ഭാവി തകർത്തിട്ട് എന്ത് പദവികൾ നേടാമെന്നാണ് ആഗ്രഹിക്കുന്നതെന്ന് ജലീൽ ഫേസ്ബുക്കിൽ പങ്കുവെച്ച കുറിപ്പിൽ ചോദിക്കുന്നു.ശശികലയെക്കാൾ വലിയ വിഷകലയായി കേരളത്തിൽ വിഷം നിറയ്ക്കാം എന്നാണോ കരുതുന്നത് എന്നും കെടി ജലീൽ തുറന്നടിച്ചു. ഏതു കോടതിയിൽ നിന്നാണ് സമരം ചെയ്ത വിദ്യാർത്ഥികളെ പരീക്ഷ എഴുതിക്കാതിരിക്കാനുള്ള വിധി നിങ്ങൾ പ്രതീക്ഷിക്കുന്നത്?ഉന്നതവിദ്യാഭ്യാസ വകുപ്പ് മന്ത്രിയോട് മഹാരാജാസിൻ്റെ അങ്കണത്തിൽ വെച്ച് ചോദ്യം ചോദിച്ച നഫീസത്തുൽ മിസ്രിയ അവൾക്കു വേണ്ടിയല്ല, നിങ്ങൾ അകാരണമായി പുറത്താക്കിയവർക്കു വേണ്ടിയാണ് വിരൽചൂണ്ടി ശബ്ദമുയർത്തിയത് എന്ന ബോധം നിങ്ങൾക്കുണ്ടോ? പാർലമെൻ്റ് നടക്കുമ്പോൾ അതിനകത്തേക്ക് ആളപായമുണ്ടാക്കാത്ത ബോംബെറിഞ്ഞ് ഇന്ത്യക്കാരൻ്റെ നീറുന്ന പ്രശ്നങ്ങളിലേക്ക് ബ്രിട്ടീഷ് സർക്കാരിൻ്റെ ശ്രദ്ധ ക്ഷണിച്ച ഭഗത്സിംഗ് ചെയ്തതും നഫീസത്തുൽ മിസ്രിയ ചെയ്തതും തമ്മിൽ എന്തു വ്യത്യാസമാണ് ഉള്ളത്?സൗണ്ട് തോമയിലേക്ക് വിളിക്കും എന്ന് ദിലീപ് പറഞ്ഞു, വിളിച്ചില്ല, ഇതിനകത്ത് ഓരോ കീചകന്മാരെന്ന് നടൻശ്രീശങ്കരാചാര്യാ സർവകലാശാല RSS-ന് തീറെഴുതിക്കൊടുക്കാനുള്ള ഗവർണറുടെ ഇംഗിതം നടപ്പിലാക്കാൻ കേരളത്തിലെ പൂക്കി സർക്കാരിൻ്റെ വല്ല ഉറപ്പും നിങ്ങൾക്ക് ലഭിച്ചിട്ടുണ്ടോ? സ്വന്തം മക്കളുടെ സ്ഥാനത്ത് നിങ്ങൾ പുറത്താക്കി നശിപ്പിക്കാൻ ഉദ്ദേശിച്ച മക്കളെ എപ്പോഴെങ്കിലും ഒന്ന് സങ്കൽപ്പിച്ച് നോക്കിയിട്ടുണ്ടോ?അധികാരത്തിൻ്റെ ഹുങ്കിൽ മിടുക്കരായ 16 കുട്ടികളുടെ ഭാവി നിങ്ങൾ നശിപ്പിച്ചാൽ, നിങ്ങളുടെ മക്കളുടെ ഭാവിയുടെ മേൽ കരിനിഴൽ വീഴ്ത്താൻ മറ്റൊരു സിസ തോമസ് എവിടെയെങ്കിലും ഉയിർത്തെഴുനേൽക്കുമെന്ന സാമാന്യ ബോധം വൈസ് ചാൻസലറേ, എന്താണ് നിങ്ങൾക്കില്ലാത്തത്?",
+      "url": "https://malayalam.oneindia.com/news/kerala/does-she-think-she-can-spread-more-venom-than-sasikala-jaleel-slams-sisa-thomas-602915.html",
+      "source": "Oneindia Malayalam",
+      "category": "general",
+      "published_at": "2026-11-01T17:27:44+00:00",
+      "importance": 3,
+      "personal_score": 3.25,
+      "entities": [
+        "ശശികലയെക്കാൾ",
+        "വലിയ",
+        "വിഷകലയായി",
+        "വിഷം",
+        "നിറയ്ക്കാമെന്നാണോ",
+        "സിസ",
+        "തോമസിനെതിരെ",
+        "ജലീൽ",
+        "Does She Think She",
+        "Can Spread More Venom",
+        "Than Sasikala",
+        "Jaleel Slams Sisa Thomas"
+      ],
+      "summary_method": "tfidf_extractive_full_article"
+    },
+    {
       "id": "aeee430483cfa52c",
       "title": "രണ്ടാം വന്ദേഭാരത് സ്ലീപ്പറിന് നാല് സ്റ്റോപ്പ് മാത്രം; തേഡ് എസി ടിക്കറ്റ് 1915 രൂപ, വെള്ളി സര്‍വീസ് ഇല്ല",
       "summary": "രാജ്യത്തെ മൂന്നാമത്തെ വന്ദേഭാരത് സ്ലീപ്പര്‍ ആണിത്.യുഎഇ സ്വര്‍ണം വില കുറവാണ്; പ്രവാസികള്‍ക്ക് എത്ര നാട്ടിലേക്ക് കൊണ്ടുവരാം, പാളിയാല്‍ പണി കിട്ടുംവാരണസി-ന്യൂഡല്‍ഹി റൂട്ടില്‍ ഓടുന്ന വന്ദേഭാരത് സ്ലീപ്പര്‍ ട്രെയിന്റെ നമ്പര്‍ 27421/27422 ആണ്. നാല് സ്‌റ്റേഷനുകളില്‍ മാത്രമാണ് സ്റ്റോപ്പ് അനുവദിച്ചിട്ടുള്ളൂ എന്നതും എടുത്തു പറയണം.നന്ദിനി പാല്‍ വില 8 രൂപ വര്‍ധിപ്പിച്ചു; തൈര് 14 രൂപ കൂട്ടി, ബെംഗളൂരു ജീവിതം ചെലവേറും,ന്യായീകരിച്ച് സര്‍ക്കാര്‍വാരണസിയില്‍ നിന്ന് പുറപ്പെട്ടാല്‍ പ്രയാഗ് രാജ്, കാണ്‍പൂര്‍ സെന്‍ട്രല്‍, അലിഗഡ്, ഗാസിയാബാദ് എന്നീ സ്റ്റേഷനുകളിലാണ് സ്‌റ്റോപ്പുകള്‍. അതുകൊണ്ടുതന്നെ ഈ നഗരത്തിലേക്ക് അതിവേഗം എത്താന്‍ സാധിക്കുന്ന മാര്‍ഗങ്ങള്‍ തീര്‍ഥാടകരും ടൂറിസ്റ്റുകളും പരിശോധിക്കാറുണ്ട്.വന്ദേഭാരത് സ്ലീപ്പര്‍ ടിക്കറ്റ് നിരക്ക് അറിയാം16 കോച്ചുള്ള ട്രെയിന്‍ ആണ് അനുവദിച്ചിട്ടുള്ളത്. വാരണസിയില്‍ നിന്ന് പ്രയാഗ് രാജിലേക്ക് പോകുന്നവര്‍ക്ക് യഥാക്രമം 1010, 1305, 1600 എന്നിങ്ങനെയാണ് മൂന്ന് ക്ലാസുകളിലെയും ടിക്കറ്റ്.ശമ്പളം ഇനിയും കൂടും; എട്ടാം ശമ്പള കമ്മീഷന് മുമ്പ് ഒരു വര്‍ധനവ് കൂടി, സാധ്യത നാലു ശതമാനംയുപി മുഖ്യമന്ത്രി യോഗി ആദിത്യനാഥും റെയില്‍വെ മന്ത്രി അശ്വനി വൈഷ്ണവും ചേര്‍ന്നാണ് ഫ്‌ളാഗ് ഓഫ് കര്‍മം നിര്‍വഹിച്ചത്.",
@@ -620,32 +622,6 @@
         "Here Are"
       ],
       "summary_method": "tfidf_extractive_full_article"
-    },
-    {
-      "id": "022d7a6a24ae1af5",
-      "title": "മുൻ കേരള രഞ്ജി താരം എൻ.എം. അമർനാഥ് വാഹനാപകടത്തിൽ മരിച്ചു; കണ്ണൂർ തെക്കി ബസാറിൽ ബൈക്കിന് പിന്നിൽ കാറിടിച്ച് ദാരുണാന്ത്യം - Janam TV",
-      "summary": "മുൻ കേരള രഞ്ജി താരം എൻ.എം. അമർനാഥ് വാഹനാപകടത്തിൽ മരിച്ചു; കണ്ണൂർ തെക്കി ബസാറിൽ ബൈക്കിന് പിന്നിൽ കാറിടിച്ച് ദാരുണാന്ത്യം Janam TV",
-      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBNRHFBWDlsa1ZBRERtSE9VanpSeWtiMHRkdks5cWRVSnZuU2h6cDdnaHdlWlV4WFVHTlh5WGlCTDh1SUnSAUhBVV95cUxNb1U3c0F1Vnp4aG1MeHFxSDVlWFp2enRhV2FPcWlURzJnb0N6d1pSQmMxZFdHYjkwVkU0VktmbEpGUk8zVVc3STg?oc=5",
-      "source": "Janam TV",
-      "category": "general",
-      "published_at": "2026-11-01T16:10:29+00:00",
-      "importance": 3,
-      "personal_score": 3.25,
-      "entities": [
-        "മുൻ",
-        "കേരള",
-        "രഞ്ജി",
-        "താരം",
-        "അമർനാഥ്",
-        "വാഹനാപകടത്തിൽ",
-        "മരിച്ചു",
-        "കണ്ണൂർ",
-        "തെക്കി",
-        "ബസാറിൽ",
-        "ബൈക്കിന്",
-        "പിന്നിൽ"
-      ],
-      "summary_method": "rss_fallback"
     },
     {
       "id": "305da79582be7531",
@@ -726,32 +702,6 @@
       "summary_method": "tfidf_extractive_full_article"
     },
     {
-      "id": "b629c722c9bc99cb",
-      "title": "Kerala VAHAN Portal: വാഹൻ പോർട്ടലിൽ ഒരു കോടി വാഹനങ്ങളുടെ രേഖകളില്ല; നിങ്ങളുടെ ആർസി ഓൺലൈനിൽ ഉണ്ടോ? എങ്ങനെ പരിശോ - Times Now Malayalam",
-      "summary": "Kerala VAHAN Portal: വാഹൻ പോർട്ടലിൽ ഒരു കോടി വാഹനങ്ങളുടെ രേഖകളില്ല; നിങ്ങളുടെ ആർസി ഓൺലൈനിൽ ഉണ്ടോ? എങ്ങനെ പരിശോ Times Now Malayalam",
-      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQU01EeHpKeDViQ3A1M3MtMkhMQmZVcTRwVHhSYXZmbU9QZXF0TkRyemhUS0xja3hSMWV6SG4td3dObGZEYkx1V2pCQzd2c0RSZmViYnEydGhINnZKWWthT2JWZ2lwYWNFc3E2UWg4SGExWGpfVUJKNWk4bGlyOGRWUmRnb1FEY0VxbVFoZ1c5ZDdJZklsVko5eDQyNVdNSWpzeWRHVHY5TnRtZ20wTXhBcXFzdElGMlhGTXV4cHhkcE5Lc1RmdmRMSGhnaG5aOFBFV19QXzRPVmRfNHlXZG5iUV9yazFnYThndlV1UkpFZXZTSEI1ZXA4cjdVLWJKcUhEMGZlX1lDb3phX3ZHQldUT1pJS2h6QdIBmwJBVV95cUxQcGt6S2ltSHhkRzFyNG83aDUyQ1JPV2JQenVxZWM5a2RfS3Ria2ZRTk50bzFZQ0p6ZG9Uc2NIOWN0ZGJXRi1ZbWlUcjZQbDBUdzRGVXgwNFNUTWVOcUdRRU16MUJiVXJMdWdpLVU1eXhIRVFlbVJwa2Z3T3I3cC1rVlEybnd2bmtIOEF4a2YwZU8zWGxaZE1XX1BScklZWm9Mc1lvR2p0WVhReWxNVXB4M3BWQXA0OFhFcmEtT3ZtdXNBVzVlaGhZbGxqZEt4eWRKMWVtbWk3TTBtRWJ5MWZESkMtMTk5dXpVWWcySE9wMjlweVhrQml0Y2xjbm9ydUl0OWNaUDJvTDFWbEZJdXJUanVoN3lPeW1QWnFB?oc=5",
-      "source": "Times Now Malayalam",
-      "category": "general",
-      "published_at": "2026-11-01T11:00:49+00:00",
-      "importance": 3,
-      "personal_score": 3.25,
-      "entities": [
-        "വാഹൻ",
-        "പോർട്ടലിൽ",
-        "ഒരു",
-        "കോടി",
-        "വാഹനങ്ങളുടെ",
-        "രേഖകളില്ല",
-        "നിങ്ങളുടെ",
-        "ആർസി",
-        "ഓൺലൈനിൽ",
-        "ഉണ്ടോ",
-        "എങ്ങനെ",
-        "പരിശോ"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
       "id": "8c0751cf66dcad79",
       "title": "ഉത്തർപ്രദേശിലും വോട്ടർമാരെ വെട്ടിയെന്ന് യോഗി, 1.27 ഹിന്ദു വോട്ടർമാർ നീക്കം ചെയ്യപ്പെട്ടുവെന്ന്",
       "summary": "ലഖ്‌നൗവില്‍ ബിജെപിയുടെ സംസ്ഥാന പ്രവര്‍ത്തക സമിതി യോഗത്തെ അഭിസംബോധന ചെയ്ത് സംസാരിക്കുകയായിരുന്നു യുപി മുഖ്യമന്ത്രി.കോണ്‍ഗ്രസ് അടക്കമുളള പ്രതിപക്ഷ കക്ഷികള്‍ എസ്‌ഐആറിലൂടെ രാജ്യത്താകമാനം കോടിക്കണക്കിന് വോട്ടര്‍മാരുടെ പേരുകള്‍ പട്ടികയില്‍ നിന്ന് നീക്കം ചെയ്തതിന് എതിരെ സമരത്തിലാണ്. അതേസമയം ബിജെപി മുഖ്യതിരഞ്ഞെടുപ്പ് കമ്മീഷണര്‍ ഗ്യാനേഷ് കുമാറിന് പ്രതിരോധം തീര്‍ക്കുകയും ചെയ്യുന്ന പശ്ചാത്തലത്തിലാണ് യോഗി ആദിത്യനാഥിന്റെ ആരോപണം പുറത്ത് വരുന്നത്.വോട്ടര്‍പട്ടികയില്‍ നിന്നും നീക്കം ചെയ്യപ്പെട്ടവരുടെ പേരുകള്‍ ഇപ്പോള്‍ തിരഞ്ഞെടുപ്പ് കമ്മീഷന്‍ നടത്തുന്ന പ്രത്യേക ഡ്രൈവിലൂടെ ഓരോ ബൂത്തിലും ക്യാംപെയ്ന്‍ നടത്തി കൂട്ടിച്ചേര്‍ക്കണമെന്ന് ബിജെപി പ്രവര്‍ത്തകരോട് യോഗി ആദിത്യനാഥ് ആവശ്യപ്പെട്ടു. വോട്ടവകാശം ഉണ്ടായിട്ടും നിരവധി പേരാണ് നിയമസഭാ തിരഞ്ഞെടുപ്പില്‍ വോട്ടര്‍പട്ടികയില്‍ ഇടംപിടിക്കാതെ പോയതെന്നാണ് മനസ്സിലാവുന്നതെന്ന് മുഖ്യമന്ത്രി പറഞ്ഞു.സൗണ്ട് തോമയിലേക്ക് വിളിക്കും എന്ന് ദിലീപ് പറഞ്ഞു, വിളിച്ചില്ല, ഇതിനകത്ത് ഓരോ കീചകന്മാരെന്ന് നടൻകമാല്‍ സാത്തി ആപ് ഉപയോഗിച്ച് വോട്ടര്‍പട്ടികയില്‍ നിന്ന് എസ്‌ഐആറിന് ശേഷം നീക്കം ചെയ്യപ്പെട്ട വോട്ടര്‍മാരെ കണ്ടെത്താനും അവര്‍ക്ക് വീണ്ടും പേര് ചേര്‍ക്കാന്‍ ആവശ്യമായ സഹായങ്ങള്‍ ചെയ്യാനും പ്രവര്‍ത്തകരോട് യോഗി ആദിത്യനാഥ് നിര്‍ദേശിച്ചു. വോട്ടകവാശമുളള ആരും ഒഴിവാക്കപ്പെട്ടിട്ടില്ല എന്ന് എംപിമാരും എംഎല്‍എമാരും ജില്ലാ അധ്യക്ഷന്മാരും മണ്ഡലങ്ങളുടെ ചുമതലയുളള നേതാക്കളും അടക്കമുളളവര്‍ ഉറപ്പാക്കണം എന്നും മുഖ്യമന്ത്രി പറഞ്ഞു.",
@@ -776,6 +726,48 @@
         "Claims"
       ],
       "summary_method": "tfidf_extractive_full_article"
+    },
+    {
+      "id": "ae48a1eb4010dfa4",
+      "title": "സൂപ്പർ ലീ​ഗ് കേരള: മലപ്പുറത്തെ ഗോളിൽ മുക്കി കാലിക്കറ്റ് - Deshabhimani",
+      "summary": "സൂപ്പർ ലീ​ഗ് കേരള: മലപ്പുറത്തെ ഗോളിൽ മുക്കി കാലിക്കറ്റ് Deshabhimani",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVnJwa3VHRms3a3BQY1hsQnF2SHo3OWp2UFoxTnZtV3dlREhWRDlMMGZyYzhXZ0E4dFpjeW56NUtDMV9QWEhjTGFrbHE4LWtnRTMtRG9JXzRxMWFrcGwxclp5UWhCbVRCV2dpVzBtNUlwRzNzWTdkM0Fnd1NQWlNWd2dGZk80RzV5SW9FQ1IweTJ1c2M4NkY0YUE4TGhTWmR0Z2pPOFdzVnBYcWxINm12NA?oc=5",
+      "source": "Deshabhimani",
+      "category": "general",
+      "published_at": "2026-11-01T20:02:17+00:00",
+      "importance": 3,
+      "personal_score": 3.25,
+      "entities": [
+        "സൂപ്പർ",
+        "കേരള",
+        "മലപ്പുറത്തെ",
+        "ഗോളിൽ",
+        "മുക്കി",
+        "കാലിക്കറ്റ്",
+        "Deshabhimani"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
+      "id": "b793d750a5dedb2c",
+      "title": "നാം ഇന്ത്യ; പുതുചരിത്രമായി ഇന്ത്യ കൂട്ടായ്‌മയുടെ മഹാറാലി - Deshabhimani",
+      "summary": "നാം ഇന്ത്യ; പുതുചരിത്രമായി ഇന്ത്യ കൂട്ടായ്‌മയുടെ മഹാറാലി Deshabhimani",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOT3pBVm9ZZk1WcGJqdjhvZUZHQ1RMTjFaZXNGdU9Fa0ZMVmIxSmgwRmNyUFQzMzNEZ19JX2xKcDlmeXhHUzNaLVNPSXpiaXlVNXExek5BcEhZMjFhTThfWFdqZklBWnh2MkJNVzJBRElxcXNFcTVaYnVLVjJzcUx4NW8xUmROQWFaRzJHVVUtQ0lzWTZBNVVMdHIydG1lbWk2aUE?oc=5",
+      "source": "Deshabhimani",
+      "category": "general",
+      "published_at": "2026-11-01T19:01:03+00:00",
+      "importance": 3,
+      "personal_score": 3.25,
+      "entities": [
+        "നാം",
+        "ഇന്ത്യ",
+        "പുതുചരിത്രമായി",
+        "കൂട്ടായ്",
+        "മയുടെ",
+        "മഹാറാലി",
+        "Deshabhimani"
+      ],
+      "summary_method": "rss_fallback"
     },
     {
       "id": "26df1dfe29bb5b65",
@@ -852,25 +844,26 @@
       "summary_method": "rss_fallback"
     },
     {
-      "id": "7a0258cbc285e591",
-      "title": "പൊലീസിനെ വിമർശിച്ച പോസ്റ്റിന് ലൈക്ക്; എസ്.ഐക്ക് സസ്‌പെൻഷൻ - Kerala Kaumudi",
-      "summary": "പൊലീസിനെ വിമർശിച്ച പോസ്റ്റിന് ലൈക്ക്; എസ്.ഐക്ക് സസ്‌പെൻഷൻ Kerala Kaumudi",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE03UDZJMndyOTNBdXhCLXRYd3pobmJCSE84RzVpTGlQQnk4SktzaVdkSDVnNXZEVlF3bTliY1lWMFdoWDBydEFBNUVod0dkdUhKTEJqc24yZ0JSMHhWdXBrM1ZpM2tyUUVwRzFRREhQSQ?oc=5",
-      "source": "Kerala Kaumudi",
+      "id": "dd848687cffb4cd1",
+      "title": "ബംഗളൂരു, പുണെ ബുള്ളറ്റ് ട്രെയിൻ ഇടനാഴി പരിഗണനയിലെന്ന് റെയിൽവേ മന്ത്രി | Madhyamam - Madhyamam",
+      "summary": "ബംഗളൂരു, പുണെ ബുള്ളറ്റ് ട്രെയിൻ ഇടനാഴി പരിഗണനയിലെന്ന് റെയിൽവേ മന്ത്രി | Madhyamam Madhyamam",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNN0t1cXc2bzBsR0Izbno5THVlckg5VFV3RDBvQTdRR2J6SkVweEIyYTBjcjNvOHJ6WHdiTFVZV2t4bnpQTkpTYlZNWmNzMHBma1QyQ2lTM2lmSmRmM1RXTFR4SG5fMTBFdFZySG9QeUl5RzVydmhucFFUZHZCV05QbtIBhgFBVV95cUxQOUhVR2lwLXJwbklxelRnYWNtUlBCc2YxTGg1bDZoSVotdmpOTXhKUW1KV01LekF0UlA1VDlraWYtQjZxZ2Q3VUNidWkySG02M053LUJrekdhd1J0d0YxUC1qZ2tCX0J6QXJydWxsU0hjMXFqV3h2ZS1PUllzZVVwV21wdUlTZw?oc=5",
+      "source": "Madhyamam",
       "category": "general",
-      "published_at": "2026-11-01T18:38:00+00:00",
+      "published_at": "2026-11-01T16:45:33+00:00",
       "importance": 3,
       "personal_score": 3.25,
       "entities": [
-        "പൊലീസിനെ",
-        "വിമർശിച്ച",
-        "പോസ്റ്റിന്",
-        "ലൈക്ക്",
-        "എസ്",
-        "ഐക്ക്",
-        "സസ്",
-        "പെൻഷൻ",
-        "Kerala Kaumudi"
+        "ബംഗളൂരു",
+        "പുണെ",
+        "ബുള്ളറ്റ്",
+        "ട്രെയിൻ",
+        "ഇടനാഴി",
+        "പരിഗണനയിലെന്ന്",
+        "റെയിൽവേ",
+        "മന്ത്രി",
+        "Madhyamam",
+        "Madhyamam Madhyamam"
       ],
       "summary_method": "rss_fallback"
     },
@@ -950,6 +943,26 @@
       "summary_method": "rss_fallback"
     },
     {
+      "id": "690d28f47f07a6a5",
+      "title": "പണം നൽകാതെ മുങ്ങിയ പ്രതി അറസ്റ്റിൽ - Kerala Kaumudi",
+      "summary": "പണം നൽകാതെ മുങ്ങിയ പ്രതി അറസ്റ്റിൽ Kerala Kaumudi",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ROWVna001MHRQeWd2N0dtblBnQmI2dTBlcElBZTR1andBNm9NUGJxTVdxUHYwTnBUbnJFaVdKNFFUNkJYdzBveVc2VGpjRGtRTDktbWNiTEFILXBqLXlrMEVkRjNkTU9aOGc?oc=5",
+      "source": "Kerala Kaumudi",
+      "category": "general",
+      "published_at": "2026-11-01T19:48:13+00:00",
+      "importance": 3,
+      "personal_score": 3.25,
+      "entities": [
+        "പണം",
+        "നൽകാതെ",
+        "മുങ്ങിയ",
+        "പ്രതി",
+        "അറസ്റ്റിൽ",
+        "Kerala Kaumudi"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
       "id": "aeba28e89b41145a",
       "title": "ഇന്ത്യ സഖ്യത്തിന്റെ രാംലീല മൈതാന റാലി: നിശ്ചിത സമരവേദികൾക്ക് പുറത്ത് ജനങ്ങൾക്ക് പ്രതിഷേധിക്കാൻ സാധിക്കുമോ? - Indian Express Malayalam",
       "summary": "ഇന്ത്യ സഖ്യത്തിന്റെ രാംലീല മൈതാന റാലി: നിശ്ചിത സമരവേദികൾക്ക് പുറത്ത് ജനങ്ങൾക്ക് പ്രതിഷേധിക്കാൻ സാധിക്കുമോ? Indian Express Malayalam",
@@ -976,30 +989,6 @@
       "summary_method": "rss_fallback"
     },
     {
-      "id": "f01c6e52b6773f84",
-      "title": "Kerala Piravi 2026 Wishes, Greetings: പ്രിയപ്പെട്ടവർക്ക് നേരാം കേരളപ്പിറവി ദിനാശംസകൾ - Indian Express Malayalam",
-      "summary": "Kerala Piravi 2026 Wishes, Greetings: പ്രിയപ്പെട്ടവർക്ക് നേരാം കേരളപ്പിറവി ദിനാശംസകൾ Indian Express Malayalam",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQc2hJS1B0dWlYaloyMlFUa2xiUUZYdDMzYjhpRHFNVzdVTW1BWGN1cDBWaU9QQkpVMmV4QU44Z19qZWZnNEtZaVhHQmpvc0M3QklvUnpPaVRHZk9xRVlreDZEcFhzLXJ1S0dXbTFMUGtwQ3pJeXBmWk93OXA2akd2bm9tWkhUR21KdEF3c2lQNHJJekwxSS1fc3U5VmdKbjBhamJ0ZlJONGlUNVlCa1g5WVhWbWJNdDlzU1BBQTJLYmsweG5DZUl2YdIByAFBVV95cUxQc2hJS1B0dWlYaloyMlFUa2xiUUZYdDMzYjhpRHFNVzdVTW1BWGN1cDBWaU9QQkpVMmV4QU44Z19qZWZnNEtZaVhHQmpvc0M3QklvUnpPaVRHZk9xRVlreDZEcFhzLXJ1S0dXbTFMUGtwQ3pJeXBmWk93OXA2akd2bm9tWkhUR21KdEF3c2lQNHJJekwxSS1fc3U5VmdKbjBhamJ0ZlJONGlUNVlCa1g5WVhWbWJNdDlzU1BBQTJLYmsweG5DZUl2YQ?oc=5",
-      "source": "Indian Express Malayalam",
-      "category": "general",
-      "published_at": "2026-11-01T02:00:37+00:00",
-      "importance": 3,
-      "personal_score": 3.25,
-      "entities": [
-        "പ്രിയപ്പെട്ടവർക്ക്",
-        "നേരാം",
-        "കേരളപ്പിറവി",
-        "ദിനാശംസകൾ",
-        "Kerala Piravi",
-        "Wishes",
-        "Greetings",
-        "Indian Express Malayalam Kerala",
-        "Piravi",
-        "Indian Express Malayalam"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
       "id": "e7cf292717ca7410",
       "title": "प्रधानमंत्री ने केरल पिरवी के अवसर पर केरल के लोगों को शुभकामनाएं दीं - PM India",
       "summary": "प्रधानमंत्री ने केरल पिरवी के अवसर पर केरल के लोगों को शुभकामनाएं दीं PM India",
@@ -1015,53 +1004,79 @@
       "summary_method": "rss_fallback"
     },
     {
-      "id": "1741d491dc891e06",
-      "title": "'ശശികലയെക്കാൾ വലിയ വിഷകലയായി വിഷം നിറയ്ക്കാമെന്നാണോ', സിസ തോമസിനെതിരെ ജലീൽ - Oneindia Malayalam",
-      "summary": "'ശശികലയെക്കാൾ വലിയ വിഷകലയായി വിഷം നിറയ്ക്കാമെന്നാണോ', സിസ തോമസിനെതിരെ ജലീൽ Oneindia Malayalam",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQNnRUQ1BsNk11NUVtQ0tHSWl5bl8xZGJwaWxyNHgzSHduekk1RlJkUXg1aFlHbFR0eVYtb1loUnBna1RBaERDRGZBZTFWSHVJUzJldkZzYUlVRjQ4eTZRYmJlWjhpOWJZVjFianZIYkEyREc2OEs4eFMtY05FX3ZVVkpTWkpaUHRHTTVhXzB0dXJmV2lBQ2pjdmhKalhSN0JEMmdiQjNycVc2UGYxNENXX3RCTjNhTjdwSkUyb1BuZURkTm50OXN6Q0JiUDlxSXM?oc=5",
-      "source": "Oneindia Malayalam",
+      "id": "7a0258cbc285e591",
+      "title": "പൊലീസിനെ വിമർശിച്ച പോസ്റ്റിന് ലൈക്ക്; എസ്.ഐക്ക് സസ്‌പെൻഷൻ - Kerala Kaumudi",
+      "summary": "പൊലീസിനെ വിമർശിച്ച പോസ്റ്റിന് ലൈക്ക്; എസ്.ഐക്ക് സസ്‌പെൻഷൻ Kerala Kaumudi",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE03UDZJMndyOTNBdXhCLXRYd3pobmJCSE84RzVpTGlQQnk4SktzaVdkSDVnNXZEVlF3bTliY1lWMFdoWDBydEFBNUVod0dkdUhKTEJqc24yZ0JSMHhWdXBrM1ZpM2tyUUVwRzFRREhQSQ?oc=5",
+      "source": "Kerala Kaumudi",
       "category": "general",
-      "published_at": "2026-11-01T17:27:44+00:00",
+      "published_at": "2026-11-01T18:38:00+00:00",
       "importance": 3,
       "personal_score": 3.25,
       "entities": [
-        "ശശികലയെക്കാൾ",
-        "വലിയ",
-        "വിഷകലയായി",
-        "വിഷം",
-        "നിറയ്ക്കാമെന്നാണോ",
-        "സിസ",
-        "തോമസിനെതിരെ",
-        "ജലീൽ",
-        "Oneindia Malayalam"
+        "പൊലീസിനെ",
+        "വിമർശിച്ച",
+        "പോസ്റ്റിന്",
+        "ലൈക്ക്",
+        "എസ്",
+        "ഐക്ക്",
+        "സസ്",
+        "പെൻഷൻ",
+        "Kerala Kaumudi"
       ],
       "summary_method": "rss_fallback"
     },
     {
-      "id": "282221c258f7528b",
-      "title": "'ശശികലയെക്കാൾ വലിയ വിഷകലയായി വിഷം നിറയ്ക്കാമെന്നാണോ', സിസ തോമസിനെതിരെ ജലീൽ",
-      "summary": "സമരം ചെയ്ത വിദ്യാർത്ഥികളുടെ ഭാവി തകർത്തിട്ട് എന്ത് പദവികൾ നേടാമെന്നാണ് ആഗ്രഹിക്കുന്നതെന്ന് ജലീൽ ഫേസ്ബുക്കിൽ പങ്കുവെച്ച കുറിപ്പിൽ ചോദിക്കുന്നു.ശശികലയെക്കാൾ വലിയ വിഷകലയായി കേരളത്തിൽ വിഷം നിറയ്ക്കാം എന്നാണോ കരുതുന്നത് എന്നും കെടി ജലീൽ തുറന്നടിച്ചു. ഏതു കോടതിയിൽ നിന്നാണ് സമരം ചെയ്ത വിദ്യാർത്ഥികളെ പരീക്ഷ എഴുതിക്കാതിരിക്കാനുള്ള വിധി നിങ്ങൾ പ്രതീക്ഷിക്കുന്നത്?ഉന്നതവിദ്യാഭ്യാസ വകുപ്പ് മന്ത്രിയോട് മഹാരാജാസിൻ്റെ അങ്കണത്തിൽ വെച്ച് ചോദ്യം ചോദിച്ച നഫീസത്തുൽ മിസ്രിയ അവൾക്കു വേണ്ടിയല്ല, നിങ്ങൾ അകാരണമായി പുറത്താക്കിയവർക്കു വേണ്ടിയാണ് വിരൽചൂണ്ടി ശബ്ദമുയർത്തിയത് എന്ന ബോധം നിങ്ങൾക്കുണ്ടോ? പാർലമെൻ്റ് നടക്കുമ്പോൾ അതിനകത്തേക്ക് ആളപായമുണ്ടാക്കാത്ത ബോംബെറിഞ്ഞ് ഇന്ത്യക്കാരൻ്റെ നീറുന്ന പ്രശ്നങ്ങളിലേക്ക് ബ്രിട്ടീഷ് സർക്കാരിൻ്റെ ശ്രദ്ധ ക്ഷണിച്ച ഭഗത്സിംഗ് ചെയ്തതും നഫീസത്തുൽ മിസ്രിയ ചെയ്തതും തമ്മിൽ എന്തു വ്യത്യാസമാണ് ഉള്ളത്?സൗണ്ട് തോമയിലേക്ക് വിളിക്കും എന്ന് ദിലീപ് പറഞ്ഞു, വിളിച്ചില്ല, ഇതിനകത്ത് ഓരോ കീചകന്മാരെന്ന് നടൻശ്രീശങ്കരാചാര്യാ സർവകലാശാല RSS-ന് തീറെഴുതിക്കൊടുക്കാനുള്ള ഗവർണറുടെ ഇംഗിതം നടപ്പിലാക്കാൻ കേരളത്തിലെ പൂക്കി സർക്കാരിൻ്റെ വല്ല ഉറപ്പും നിങ്ങൾക്ക് ലഭിച്ചിട്ടുണ്ടോ? സ്വന്തം മക്കളുടെ സ്ഥാനത്ത് നിങ്ങൾ പുറത്താക്കി നശിപ്പിക്കാൻ ഉദ്ദേശിച്ച മക്കളെ എപ്പോഴെങ്കിലും ഒന്ന് സങ്കൽപ്പിച്ച് നോക്കിയിട്ടുണ്ടോ?അധികാരത്തിൻ്റെ ഹുങ്കിൽ മിടുക്കരായ 16 കുട്ടികളുടെ ഭാവി നിങ്ങൾ നശിപ്പിച്ചാൽ, നിങ്ങളുടെ മക്കളുടെ ഭാവിയുടെ മേൽ കരിനിഴൽ വീഴ്ത്താൻ മറ്റൊരു സിസ തോമസ് എവിടെയെങ്കിലും ഉയിർത്തെഴുനേൽക്കുമെന്ന സാമാന്യ ബോധം വൈസ് ചാൻസലറേ, എന്താണ് നിങ്ങൾക്കില്ലാത്തത്?",
-      "url": "https://malayalam.oneindia.com/news/kerala/does-she-think-she-can-spread-more-venom-than-sasikala-jaleel-slams-sisa-thomas-602915.html",
-      "source": "Oneindia Malayalam",
+      "id": "1680f86d4ba4fd6e",
+      "title": "പൊലീസിനെ വിമർശിച്ച് സിപിഎം നേതാവിട്ട പോസ്റ്റിന് ലൈക്ക്; എസ്‌ഐക്ക് സസ്‌പെന്‍ഷന്‍ | Madhyamam - Madhyamam",
+      "summary": "പൊലീസിനെ വിമർശിച്ച് സിപിഎം നേതാവിട്ട പോസ്റ്റിന് ലൈക്ക്; എസ്‌ഐക്ക് സസ്‌പെന്‍ഷന്‍ | Madhyamam Madhyamam",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRWFMdExHMmlwdkxrekY5X2w4eVQ0OGVYNzhldG1rNXd4YUFwRjMzdm1yWWhuQllFRDROWHNiWlhEakMydmxDd3dfbFlTaXNtTHhUVEU2ZzRLRlFpUVBWSnY1dlkySjRGSm9tUXVyOGZ5cm4zalNEdnZlS0YtbXRTcmdBeGhCVWtNa0hjZFB2ZzJKMkpoWHZMbFRWUF82dTR1aURSb0xZS0RvX1l2QXA4SC1Md0tKYnJJRm9v0gHAAUFVX3lxTE5pRHNlcWJDV2NkNk9jQmJsQVpaTXZDQXIyeUlJVkI0MzRZTUNVSVdkNHBOQTh3eGVTMTh6bFhKcHR4SllfQTRFUFRMNHF1WkN1Z2Zwb2hNaVNRZ3I5Y1lfRExVZ0FBR1VPWWhVekdnZ0pIUHM1QTlmZ1hSUHktR3MxbjNnaGl4YUlDbklRb0FPamtTSkc0Wm9OSThLT1VPTkw4ZjZrOEZSbVducUNndElQcWdRT2pOMnNKUDk1ZXUtXw?oc=5",
+      "source": "Madhyamam",
       "category": "general",
-      "published_at": "2026-11-01T17:27:44+00:00",
+      "published_at": "2026-11-01T16:06:50+00:00",
       "importance": 3,
       "personal_score": 3.25,
       "entities": [
-        "ശശികലയെക്കാൾ",
-        "വലിയ",
-        "വിഷകലയായി",
-        "വിഷം",
-        "നിറയ്ക്കാമെന്നാണോ",
-        "സിസ",
-        "തോമസിനെതിരെ",
-        "ജലീൽ",
-        "Does She Think She",
-        "Can Spread More Venom",
-        "Than Sasikala",
-        "Jaleel Slams Sisa Thomas"
+        "പൊലീസിനെ",
+        "വിമർശിച്ച്",
+        "സിപിഎം",
+        "നേതാവിട്ട",
+        "പോസ്റ്റിന്",
+        "ലൈക്ക്",
+        "എസ്",
+        "ഐക്ക്",
+        "സസ്",
+        "പെന്",
+        "ഷന്",
+        "Madhyamam"
       ],
-      "summary_method": "tfidf_extractive_full_article"
+      "summary_method": "rss_fallback"
+    },
+    {
+      "id": "b629c722c9bc99cb",
+      "title": "Kerala VAHAN Portal: വാഹൻ പോർട്ടലിൽ ഒരു കോടി വാഹനങ്ങളുടെ രേഖകളില്ല; നിങ്ങളുടെ ആർസി ഓൺലൈനിൽ ഉണ്ടോ? എങ്ങനെ പരിശോ - Times Now Malayalam",
+      "summary": "Kerala VAHAN Portal: വാഹൻ പോർട്ടലിൽ ഒരു കോടി വാഹനങ്ങളുടെ രേഖകളില്ല; നിങ്ങളുടെ ആർസി ഓൺലൈനിൽ ഉണ്ടോ? എങ്ങനെ പരിശോ Times Now Malayalam",
+      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQU01EeHpKeDViQ3A1M3MtMkhMQmZVcTRwVHhSYXZmbU9QZXF0TkRyemhUS0xja3hSMWV6SG4td3dObGZEYkx1V2pCQzd2c0RSZmViYnEydGhINnZKWWthT2JWZ2lwYWNFc3E2UWg4SGExWGpfVUJKNWk4bGlyOGRWUmRnb1FEY0VxbVFoZ1c5ZDdJZklsVko5eDQyNVdNSWpzeWRHVHY5TnRtZ20wTXhBcXFzdElGMlhGTXV4cHhkcE5Lc1RmdmRMSGhnaG5aOFBFV19QXzRPVmRfNHlXZG5iUV9yazFnYThndlV1UkpFZXZTSEI1ZXA4cjdVLWJKcUhEMGZlX1lDb3phX3ZHQldUT1pJS2h6QdIBmwJBVV95cUxQcGt6S2ltSHhkRzFyNG83aDUyQ1JPV2JQenVxZWM5a2RfS3Ria2ZRTk50bzFZQ0p6ZG9Uc2NIOWN0ZGJXRi1ZbWlUcjZQbDBUdzRGVXgwNFNUTWVOcUdRRU16MUJiVXJMdWdpLVU1eXhIRVFlbVJwa2Z3T3I3cC1rVlEybnd2bmtIOEF4a2YwZU8zWGxaZE1XX1BScklZWm9Mc1lvR2p0WVhReWxNVXB4M3BWQXA0OFhFcmEtT3ZtdXNBVzVlaGhZbGxqZEt4eWRKMWVtbWk3TTBtRWJ5MWZESkMtMTk5dXpVWWcySE9wMjlweVhrQml0Y2xjbm9ydUl0OWNaUDJvTDFWbEZJdXJUanVoN3lPeW1QWnFB?oc=5",
+      "source": "Times Now Malayalam",
+      "category": "general",
+      "published_at": "2026-11-01T11:00:49+00:00",
+      "importance": 2,
+      "personal_score": 2.25,
+      "entities": [
+        "വാഹൻ",
+        "പോർട്ടലിൽ",
+        "ഒരു",
+        "കോടി",
+        "വാഹനങ്ങളുടെ",
+        "രേഖകളില്ല",
+        "നിങ്ങളുടെ",
+        "ആർസി",
+        "ഓൺലൈനിൽ",
+        "ഉണ്ടോ",
+        "എങ്ങനെ",
+        "പരിശോ"
+      ],
+      "summary_method": "rss_fallback"
     },
     {
       "id": "0868e54aea5d0961",
@@ -1114,29 +1129,6 @@
         "Police Personnel"
       ],
       "summary_method": "tfidf_extractive_full_article"
-    },
-    {
-      "id": "64ee6913b46398b7",
-      "title": "പ്രാർത്ഥനയിലൂടെ രോഗം ഭേദമാക്കാമെന്ന് പറഞ്ഞ് 16കാരിയെ പീഡിപ്പിച്ചു; മതപണ്ഡിതൻ പിടിയിൽ - Kerala Kaumudi",
-      "summary": "പ്രാർത്ഥനയിലൂടെ രോഗം ഭേദമാക്കാമെന്ന് പറഞ്ഞ് 16കാരിയെ പീഡിപ്പിച്ചു; മതപണ്ഡിതൻ പിടിയിൽ Kerala Kaumudi",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSWNBbTRwWTlKNjh6SU1rdHYyYkdBVFZHRlUyR2w1S29fOEhoVzBXSEV3M1FNbFRzOVVvOENFaGNkSUU2VDdxU2J2TFJ5Mks5WE5WZjU2NEV5MUlJOTVQbktpSGFiNEdUNlhEVmdLZ3B5bkQwU1g4ZFlUX3VMVkxfakYxNGM5Yk9aODBjMFhQVGhuM05lT296OTN5enlVblU?oc=5",
-      "source": "Kerala Kaumudi",
-      "category": "general",
-      "published_at": "2026-11-01T07:33:54+00:00",
-      "importance": 2,
-      "personal_score": 2.25,
-      "entities": [
-        "പ്രാർത്ഥനയിലൂടെ",
-        "രോഗം",
-        "ഭേദമാക്കാമെന്ന്",
-        "പറഞ്ഞ്",
-        "കാരിയെ",
-        "പീഡിപ്പിച്ചു",
-        "മതപണ്ഡിതൻ",
-        "പിടിയിൽ",
-        "Kerala Kaumudi"
-      ],
-      "summary_method": "rss_fallback"
     },
     {
       "id": "ae52b3f802c4037e",
@@ -1355,6 +1347,24 @@
       "summary_method": "rss_fallback"
     },
     {
+      "id": "274040fcb7cf8a6a",
+      "title": "Telangana Cyber Security Bureau reaches 15.48 lakh people through cyber awareness drives - Telangana Today",
+      "summary": "Telangana Cyber Security Bureau reaches 15.48 lakh people through cyber awareness drives Telangana Today",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUlZCVGlRbWVodGVpMElBemFKSUtULWJacDVYOEJuaUlQS2tCQkZEbTQwc2J0Tm1VSjJIcFhjZXNPejNJREVQT3RwaWFiVUNmellqajNQS1ZPWWRRdDgxTFA1QUJsWnFCZk8yeHd6RFF6OGtYMFJyZUM5TVBCS3lfMWhXN1NVU0xGRXFVa0o1Y0hZb3pHZHBCcDRuU3lUYkwwOTN2LXFDTTV3N2cyYUx1TDRpcFh0QQ?oc=5",
+      "source": "Telangana Today",
+      "category": "tech",
+      "published_at": "2026-11-01T11:35:14+00:00",
+      "importance": 8,
+      "personal_score": 8.0,
+      "entities": [
+        "Telangana Cyber Security Bureau",
+        "Telangana Today Telangana Cyber",
+        "Security Bureau",
+        "Telangana Today"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
       "id": "08d260af769e69aa",
       "title": "AI Software Clones Are Coming For Big-Name Companies Like Adobe - Engadget",
       "summary": "AI Software Clones Are Coming For Big-Name Companies Like Adobe Engadget",
@@ -1431,78 +1441,21 @@
       "summary_method": "rss_fallback"
     },
     {
-      "id": "c470382f6785f25d",
-      "title": "Telangana goes all out on cyber awareness, reaches 15.48 lakh citizens - Hyderabad Mail",
-      "summary": "Telangana goes all out on cyber awareness, reaches 15.48 lakh citizens Hyderabad Mail",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONG1BWmhJUUZxOHhhNG80d3ZCNUtza3RXd0F3aGhIRnJ6emlhMXpTRmxJZXBVMXpoQW9fQzE3a0JDQUtUR2RJYlpGX3BhbFN6VjZfT2ZVWVpLbDVTQ0lsRl84U1pnYW5XcVl1M1VLdW5JVHZTSmhsQ290dnN4dEVBYkNnenFjRWNWcUE?oc=5",
-      "source": "Hyderabad Mail",
+      "id": "4ba9a2efff941938",
+      "title": "Cybersecurity law aims to combat online harassment, disinformation: Minister - Bangladesh Sangbad Sangstha (BSS)",
+      "summary": "Cybersecurity law aims to combat online harassment, disinformation: Minister Bangladesh Sangbad Sangstha (BSS)",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBqN0FkVDZPeGZkVG0xMnBJRTh2cURBN290TVZjT21NQlB1NzV2ZmdHc3BackFBWlk5dlBmeVRZVnpOeGhMWlcyUDJDSQ?oc=5",
+      "source": "Bangladesh Sangbad Sangstha (BSS)",
       "category": "tech",
-      "published_at": "2026-11-01T13:11:20+00:00",
-      "importance": 8,
-      "personal_score": 8.0,
-      "entities": [
-        "Telangana",
-        "Hyderabad Mail Telangana",
-        "Hyderabad Mail"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
-      "id": "274040fcb7cf8a6a",
-      "title": "Telangana Cyber Security Bureau reaches 15.48 lakh people through cyber awareness drives - Telangana Today",
-      "summary": "Telangana Cyber Security Bureau reaches 15.48 lakh people through cyber awareness drives Telangana Today",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUlZCVGlRbWVodGVpMElBemFKSUtULWJacDVYOEJuaUlQS2tCQkZEbTQwc2J0Tm1VSjJIcFhjZXNPejNJREVQT3RwaWFiVUNmellqajNQS1ZPWWRRdDgxTFA1QUJsWnFCZk8yeHd6RFF6OGtYMFJyZUM5TVBCS3lfMWhXN1NVU0xGRXFVa0o1Y0hZb3pHZHBCcDRuU3lUYkwwOTN2LXFDTTV3N2cyYUx1TDRpcFh0QQ?oc=5",
-      "source": "Telangana Today",
-      "category": "tech",
-      "published_at": "2026-11-01T11:35:14+00:00",
-      "importance": 8,
-      "personal_score": 8.0,
-      "entities": [
-        "Telangana Cyber Security Bureau",
-        "Telangana Today Telangana Cyber",
-        "Security Bureau",
-        "Telangana Today"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
-      "id": "413aabafdfff3c57",
-      "title": "മുരസു ചുഴലിക്കാറ്റ് ഭീഷണി: സുരക്ഷ ഉറപ്പാക്കാൻ ഈ IP-റേറ്റഡ് ഫോണുകളും മുൻകരുതലുകളും അത്യാവശ്യം!",
-      "summary": "ഇത്തരം അടിയന്തിര സാഹചര്യങ്ങളിൽ ആശയവിനിമയത്തിനും സുരക്ഷയ്ക്കും വെള്ളത്തെ പ്രതിരോധിക്കുന്ന (Water-resistant), മികച്ച ബാറ്ററി ലൈഫുള്ള സ്മാർട്ട്‌ഫോണുകൾ ഏറെ അത്യാവശ്യമാണ്. മുരസു ചുഴലിക്കാറ്റിന്റെ പശ്ചാത്തലത്തിൽ വാങ്ങാൻ പറ്റിയ മികച്ച IP-റേറ്റഡ് ഫോണുകൾബജറ്റ് ഫ്രണ്ട്‌ലി ഫോണുകളിൽ IP68 റേറ്റിംഗും 5000mAh ബാറ്ററിയുമുള്ള മോട്ടോറോള എഡ്ജ് 50 ഫ്യൂഷൻ മികച്ചൊരു ഓപ്ഷനാണ്. IP-റേറ്റഡ് ഫോണുകളുടെ വാറന്റിയും VoWiFi സേവനവും: ശ്രദ്ധിക്കേണ്ട കാര്യങ്ങൾഎന്നാൽ ഒരു കാര്യം പ്രത്യേകം ഓർക്കുക, ലബോറട്ടറി പരിശോധനകളിലെ പ്രതിരോധ ശേഷിയാണ് IP റേറ്റിംഗ് സൂചിപ്പിക്കുന്നത്, ഇത് വാറന്റി കവറേജല്ല. കേരളം, തമിഴ്‌നാട്, ആന്ധ്രാപ്രദേശ് എന്നിവിടങ്ങളിലേക്ക് ഡെലിവറി സമയബന്ധിതമായി എത്തുമെന്ന് ഉറപ്പുവരുത്തി ഇന്നുതന്നെ ഓർഡർ ചെയ്യുക.",
-      "url": "https://malayalam.gizbot.com/mobile/cyclone-murasu-2026-best-ip-rated-smartphones-emergency-connectivity-011-43457.html",
-      "source": "Malayalam Gizbot Technology",
-      "category": "tech",
-      "published_at": "2026-11-01T11:05:13+00:00",
+      "published_at": "2026-11-01T11:07:12+00:00",
       "importance": 7,
       "personal_score": 7.0,
       "entities": [
-        "മുരസു",
-        "ചുഴലിക്കാറ്റ്",
-        "ഭീഷണി",
-        "സുരക്ഷ",
-        "ഉറപ്പാക്കാൻ",
-        "റേറ്റഡ്",
-        "ഫോണുകളും",
-        "മുൻകരുതലുകളും",
-        "അത്യാവശ്യം",
-        "മുന്നറിയിപ്പിന്റെ",
-        "പശ്ചാത്തലത്തിൽ",
-        "സുരക്ഷയ്ക്കായി"
-      ],
-      "summary_method": "tfidf_extractive_full_article"
-    },
-    {
-      "id": "72604b496fbb118e",
-      "title": "Cybersecurity becomes a balance-sheet risk for lenders as breaches rise - bfsi.economictimes.indiatimes.com",
-      "summary": "Cybersecurity becomes a balance-sheet risk for lenders as breaches rise bfsi.economictimes.indiatimes.com",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQM0doS1JjRWZkZzQxNVNsa3RtVWx0aGtRVkRURG1TYWxyb2ZkTVVoWE0xbDVGcnBGQkNWRHF4ZlZabzNBVExDeTRQcFQwRnpQT0dUYWJJcjh1djJsdjhnTzhhaFU4TUpIMUFJS2VIZml3UTh4T2I0NUI3dWIzRHVZZ0dMTVpLakRqekJWR1o0NXhBLTNtWFdoVG03WVFiRG9Lal9sZkEzWHhYd1hheE5ibHlDNkdBX3pUczhWcmZNelFrTWU1Q1pFQm9Oa2rSAdIBQVVfeXFMT1RucnpFUDJOdVBJeTd5a0daR1pDYTVTQXo2bzZ0MkctbkNuZE13WVFNVHNUdDJrS1ZUMXJ4M29JQklfSHp1dTdFYWJNaFBBY2pCRW5GXzNtMHkyYzB2SWZuelhvVXlyM2lHSVNRS1JDNDZZXzZYVzMzTVVEaWZEOGNGaHYzOXVKSmxQSXRVb0FicGZETFhqV0pwZzcxaTl0S1dMLWt4Y0hGTmMyVHRNNzNaYWU0SjJZR0swNFA0NW5PVENiRjRmMGI3b2NQaE9pbnZn?oc=5",
-      "source": "bfsi.economictimes.indiatimes.com",
-      "category": "tech",
-      "published_at": "2026-10-30T21:23:37+00:00",
-      "importance": 7,
-      "personal_score": 7.0,
-      "entities": [
-        "Cybersecurity"
+        "Cybersecurity",
+        "Minister",
+        "Bangladesh Sangbad Sangstha",
+        "BSS",
+        "Minister Bangladesh Sangbad Sangstha"
       ],
       "summary_method": "rss_fallback"
     },
@@ -1526,23 +1479,21 @@
       "summary_method": "rss_fallback"
     },
     {
-      "id": "4ba9a2efff941938",
-      "title": "Cybersecurity law aims to combat online harassment, disinformation: Minister - Bangladesh Sangbad Sangstha (BSS)",
-      "summary": "Cybersecurity law aims to combat online harassment, disinformation: Minister Bangladesh Sangbad Sangstha (BSS)",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBqN0FkVDZPeGZkVG0xMnBJRTh2cURBN290TVZjT21NQlB1NzV2ZmdHc3BackFBWlk5dlBmeVRZVnpOeGhMWlcyUDJDSQ?oc=5",
-      "source": "Bangladesh Sangbad Sangstha (BSS)",
+      "id": "857a95b4812f5ad7",
+      "title": "New York restricts AI chatbot interactions with children | Explained",
+      "summary": "Chennai The story so far: “As a mother and grandmother, I believe kids deserve to be kids, without dangerous AI chatbots putting their safety and mental health at risk,...Big Tech, you’re on notice,” New York Governor Kathy Hochul wrote on social media after signing two bills on Wednesday (October 28, 2026) aimed at protecting children from the risks associated with artificial intelligence (AI) chatbots and internet-connected baby monitors. The legislation prohibits AI chatbots from engaging in potentially harmful interactions with minors, including simulating romantic relationships, encouraging emotional dependency, and promoting self-harm. It also requires manufacturers of internet-connected baby monitors to introduce safeguards against unauthorised access to audio and video feeds.",
+      "url": "https://www.thehindu.com/news/international/new-york-restricts-ai-chatbot-interactions-with-children-explained/article71644287.ece",
+      "source": "The Hindu Science and Technology",
       "category": "tech",
-      "published_at": "2026-11-01T11:07:12+00:00",
+      "published_at": "2026-10-31T07:24:52+00:00",
       "importance": 7,
       "personal_score": 7.0,
       "entities": [
-        "Cybersecurity",
-        "Minister",
-        "Bangladesh Sangbad Sangstha",
-        "BSS",
-        "Minister Bangladesh Sangbad Sangstha"
+        "New York",
+        "Explained Governor Kathy Hochul",
+        "October"
       ],
-      "summary_method": "rss_fallback"
+      "summary_method": "tfidf_extractive_full_article"
     },
     {
       "id": "ad2afd936d5b8ed4",
@@ -1641,43 +1592,6 @@
       "summary_method": "tfidf_extractive_full_article"
     },
     {
-      "id": "d38f66bce392763b",
-      "title": "BB to introduce AI-based cybersecurity policy soon - The Business Standard",
-      "summary": "BB to introduce AI-based cybersecurity policy soon The Business Standard",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMmd4TUI5OENNYW53TlNYS0FlWGtmdFlVclljTmg0VS0tTHNEZ04tdDdWcFozSDlwaVRnQTlDbzdvbklYRFJRNXd1Y3pzVy1sV2gtS1JyVEVONlZzeDBKNWJadkI3Qm1IRFdXZklabDlpNWtXSXNiYXhqMEVfVlQ0eDFIaWFKekVfcXhGR193TEotOUpnQldvUDVVVQ?oc=5",
-      "source": "The Business Standard",
-      "category": "tech",
-      "published_at": "2026-11-01T12:14:52+00:00",
-      "importance": 7,
-      "personal_score": 7.0,
-      "entities": [
-        "AI-based",
-        "The Business Standard BB",
-        "The Business Standard"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
-      "id": "07837e1e284c1fd5",
-      "title": "Infosys opens 1.1 million sq ft new Software Development Block at Pocharam campus in Hyderabad - ETHRWorld.com",
-      "summary": "Infosys opens 1.1 million sq ft new Software Development Block at Pocharam campus in Hyderabad ETHRWorld.com",
-      "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxNaVNCRUJSLW0tOVRfQ0VlWHNJRThDYkFoN1YtSDFlbnM0eVVzNFc0ZE9uVV9jZEk0NzhZbDdZdEZxaThFWTNlejVKWVRLQ1ppeUxkNUV3ODBkV0JXWkktMFUwcVk1THhVWHAwY2J0WjM0dFBuNFp2T2wzNjluRTR4ZWtKZE94cC1DN2RkVTB2OVZJNUwwb1hEcGxwcC1vUUhYZU1RT0pEN0tob05Qc3JScllhWDA3Q0F4UGw0NHpBemY2ZWRGaW1EMV84NEkwMzAweWkwUTFWZzQwdzl0eEt2QlZGU0FJbHdXbHJMc0hzQzk3WEowM1BvQkJfbHZLc3lWRnRHYTRiMU1YNWZqVW51Vkt2eTBLdkRXbVU3TU5mc2pLZGRILW45ZEtLQWNoalR2WC1xVnAyaE4wbkw3QWfSAfsBQVVfeXFMTktfX003bzltcUFNYW9ONC1SQVlOUWNVWDlrbjRzT1VKSVNmWEgtemItNGFuOG9SOHoxUTNHWWhaZFBXcFJPMVRnMDVWWWNwT1d2Zy15Ry02MEFlMEJFYmVnaVEtai1zLU5Idm0yVnlpU0VXWjIyWkJzYW10Zzg4NkY4Z2dSWWxSWXFmaGZXaHgxWElFTUdYUno0VnNOeEI4VTM2TjdQYkktYS1MZUJSMVJlMks1b3pSYnNZUnRzZ1E3QVFmVUMxd0dtXzBuQkhmZFFrSE83VWtJRUFTQ0dQTXp2azFPQTdnal9uR2QxcnZZejQxSDZkZ2JzazQ?oc=5",
-      "source": "ETHRWorld.com",
-      "category": "tech",
-      "published_at": "2026-10-31T19:43:03+00:00",
-      "importance": 7,
-      "personal_score": 7.0,
-      "entities": [
-        "Infosys",
-        "Software Development Block",
-        "Pocharam",
-        "Hyderabad",
-        "ETHRWorld.com Infosys",
-        "Hyderabad ETHRWorld.com"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
       "id": "61256f6d58aeeeae",
       "title": "Future Of Software Engineering? Cisco Boss Hires Gen Z Employee To Rewrite Company's Entire 'Legacy' Code - NDTV",
       "summary": "Future Of Software Engineering? Cisco Boss Hires Gen Z Employee To Rewrite Company's Entire 'Legacy' Code NDTV",
@@ -1700,6 +1614,32 @@
         "Code NDTV"
       ],
       "summary_method": "rss_fallback"
+    },
+    {
+      "id": "413aabafdfff3c57",
+      "title": "മുരസു ചുഴലിക്കാറ്റ് ഭീഷണി: സുരക്ഷ ഉറപ്പാക്കാൻ ഈ IP-റേറ്റഡ് ഫോണുകളും മുൻകരുതലുകളും അത്യാവശ്യം!",
+      "summary": "ഇത്തരം അടിയന്തിര സാഹചര്യങ്ങളിൽ ആശയവിനിമയത്തിനും സുരക്ഷയ്ക്കും വെള്ളത്തെ പ്രതിരോധിക്കുന്ന (Water-resistant), മികച്ച ബാറ്ററി ലൈഫുള്ള സ്മാർട്ട്‌ഫോണുകൾ ഏറെ അത്യാവശ്യമാണ്. മുരസു ചുഴലിക്കാറ്റിന്റെ പശ്ചാത്തലത്തിൽ വാങ്ങാൻ പറ്റിയ മികച്ച IP-റേറ്റഡ് ഫോണുകൾബജറ്റ് ഫ്രണ്ട്‌ലി ഫോണുകളിൽ IP68 റേറ്റിംഗും 5000mAh ബാറ്ററിയുമുള്ള മോട്ടോറോള എഡ്ജ് 50 ഫ്യൂഷൻ മികച്ചൊരു ഓപ്ഷനാണ്. IP-റേറ്റഡ് ഫോണുകളുടെ വാറന്റിയും VoWiFi സേവനവും: ശ്രദ്ധിക്കേണ്ട കാര്യങ്ങൾഎന്നാൽ ഒരു കാര്യം പ്രത്യേകം ഓർക്കുക, ലബോറട്ടറി പരിശോധനകളിലെ പ്രതിരോധ ശേഷിയാണ് IP റേറ്റിംഗ് സൂചിപ്പിക്കുന്നത്, ഇത് വാറന്റി കവറേജല്ല. കേരളം, തമിഴ്‌നാട്, ആന്ധ്രാപ്രദേശ് എന്നിവിടങ്ങളിലേക്ക് ഡെലിവറി സമയബന്ധിതമായി എത്തുമെന്ന് ഉറപ്പുവരുത്തി ഇന്നുതന്നെ ഓർഡർ ചെയ്യുക.",
+      "url": "https://malayalam.gizbot.com/mobile/cyclone-murasu-2026-best-ip-rated-smartphones-emergency-connectivity-011-43457.html",
+      "source": "Malayalam Gizbot Technology",
+      "category": "tech",
+      "published_at": "2026-11-01T11:05:13+00:00",
+      "importance": 6,
+      "personal_score": 6.0,
+      "entities": [
+        "മുരസു",
+        "ചുഴലിക്കാറ്റ്",
+        "ഭീഷണി",
+        "സുരക്ഷ",
+        "ഉറപ്പാക്കാൻ",
+        "റേറ്റഡ്",
+        "ഫോണുകളും",
+        "മുൻകരുതലുകളും",
+        "അത്യാവശ്യം",
+        "മുന്നറിയിപ്പിന്റെ",
+        "പശ്ചാത്തലത്തിൽ",
+        "സുരക്ഷയ്ക്കായി"
+      ],
+      "summary_method": "tfidf_extractive_full_article"
     },
     {
       "id": "e15b2f3e63ca1121",
@@ -1754,6 +1694,24 @@
       "summary_method": "tfidf_extractive_full_article"
     },
     {
+      "id": "e8311e16c7500702",
+      "title": "Too much code, too little shipped: Why AI needs a software factory - YourStory.com",
+      "summary": "Too much code, too little shipped: Why AI needs a software factory YourStory.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWUFyT3V0SDc3WXVTWlpvbERqZm1XbG44YUExRGVmc0lhbGQ0eTI3dzB0X1liNm03cm5rMHVCLVpyUUhWSmdzMWtzb0R4bkVxZFczdWVzWTd2UHNFVDlYdHZTdndOQk1rU1RXRll4bTJybE9PMjZBNjlNcC1MNG9EWmhrNzVud1JneFgxdzdhRU56NEU3a0E0?oc=5",
+      "source": "YourStory.com",
+      "category": "tech",
+      "published_at": "2026-10-30T07:13:30+00:00",
+      "importance": 6,
+      "personal_score": 6.0,
+      "entities": [
+        "Too",
+        "Why AI",
+        "YourStory.com Too",
+        "YourStory.com"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
       "id": "6c888908779227ae",
       "title": "യുഎസ്-ഇറാൻ യുദ്ധം എണ്ണയിലും സ്വർണത്തിലും ഒതുങ്ങില്ല; എഐയിലും സ്വാധീനം, അടി കിട്ടിയത് ചാറ്റ്ജിപിടിക്ക്!",
       "summary": "യുഎസ് പ്രതിരോധ വകുപ്പുമായി പ്രമുഖ ആർട്ടിഫിഷ്യൽ ഇന്റലിജൻസ് സ്ഥാപനമായ ഓപ്പൺഎഐ സഹകരിച്ച തീരുമാനത്തിന് വലിയ വിമർശനമാണ് നേരിടുന്നത്.ഇത് സാമൂഹിക മാധ്യമങ്ങളിൽ ചർച്ചയാവുകയും ഉപയോക്താക്കൾ കമ്പനിയുടെ തീരുമാനത്തെ ചോദ്യം ചെയ്യുകയും ചെയ്‌തിരുന്നു. പ്രതിരോധ പ്രവർത്തനങ്ങളിൽ എഐ സാങ്കേതികവിദ്യയുടെ പങ്കാളിത്തം പലരിലും ആശങ്കയുണ്ടാക്കി.ചാറ്റ്ജിപിടി ഉപേക്ഷിച്ച് ഉപയോക്താക്കൾനിലവിലെ കണക്കുകൾ അനുസരിച്ച് കഴിഞ്ഞ മാസം അവസാനം വരെ മാത്രം ചാറ്റ്ജിപിടി ആപ്പിന്റെ അൺഇൻസ്‌റ്റാളേഷനുകളിൽ ഗണ്യമായ വർധനവ് രേഖപ്പെടുത്തി. അവർ ക്ലോഡിന്റെ സ്ക്രീൻഷോട്ടിനൊപ്പം ഹൃദയ ചിഹ്നവും പങ്കുവെച്ചത്, ആന്ത്രോപിക്കിന്റെ നിലപാടിനുള്ള പിന്തുണയായി പലരും ഇതിനെ വ്യാഖ്യാനിക്കുന്നുണ്ട്.സാം ആൾട്ട്മാന്റെ മറുപടി ഇങ്ങനെവിമർശനങ്ങൾക്ക് പിന്നാലെ, ഓപ്പൺഎഐ സിഇഒ സാം ആൾട്ട്മാൻ എക്‌സിൽ പ്രതികരണം അറിയിച്ചിട്ടുണ്ട്. ഓപ്പൺഎഐ ഇപ്പോൾ പെന്റഗണുമായുള്ള കരാർ പുതുക്കുകയും തങ്ങളുടെ പോളിസികൾ വ്യക്തമാക്കിയതായും ആൾട്ട്മാൻ പറഞ്ഞു.യുഎസ് പ്രതിരോധ വകുപ്പും എഐ വ്യവസായവും തമ്മിലുള്ള സംഘർഷം ഒഴിവാക്കുക എന്ന ലക്ഷ്യത്തോടെയായിരുന്നു പെട്ടെന്നെടുത്ത ഈ തീരുമാനമെന്നാണ് സാം ആൾട്ട്മാൻ പറഞ്ഞത്.",
@@ -1780,18 +1738,17 @@
       "summary_method": "tfidf_extractive_full_article"
     },
     {
-      "id": "332c30944688ed6a",
-      "title": "AI is automating coding. So why are software developer job postings on the rise? - CNBC",
-      "summary": "AI is automating coding. So why are software developer job postings on the rise? CNBC",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE80a2hhYm5Pd1BrUWdvV1lNQ0pvUGVhSDRicGVQWG1IU3J1MzlBN012VDA4QjlITVdwcUFXcUl5anVacHpXZzgxaDI2a19BaHJvbnVLaU1EdXNGX3VwSWc2RDd2amhCdm9VblR3cTVodTbSAXZBVV95cUxPc1pqTVJmenh6aFNEUEdaMU0wMTN3eWRLNTBrR29LWHhQdzUyWXk3OEpvX1dEM2NzMXJSZWd4QzNDOVRhRElEaWg5YkN5ZjJ4cHYwd1NyVW5SS3owYUFJMDNvX01PbjNuVDJwQ3NDZlk0SnBITTVR?oc=5",
-      "source": "CNBC",
+      "id": "72604b496fbb118e",
+      "title": "Cybersecurity becomes a balance-sheet risk for lenders as breaches rise - bfsi.economictimes.indiatimes.com",
+      "summary": "Cybersecurity becomes a balance-sheet risk for lenders as breaches rise bfsi.economictimes.indiatimes.com",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQM0doS1JjRWZkZzQxNVNsa3RtVWx0aGtRVkRURG1TYWxyb2ZkTVVoWE0xbDVGcnBGQkNWRHF4ZlZabzNBVExDeTRQcFQwRnpQT0dUYWJJcjh1djJsdjhnTzhhaFU4TUpIMUFJS2VIZml3UTh4T2I0NUI3dWIzRHVZZ0dMTVpLakRqekJWR1o0NXhBLTNtWFdoVG03WVFiRG9Lal9sZkEzWHhYd1hheE5ibHlDNkdBX3pUczhWcmZNelFrTWU1Q1pFQm9Oa2rSAdIBQVVfeXFMT1RucnpFUDJOdVBJeTd5a0daR1pDYTVTQXo2bzZ0MkctbkNuZE13WVFNVHNUdDJrS1ZUMXJ4M29JQklfSHp1dTdFYWJNaFBBY2pCRW5GXzNtMHkyYzB2SWZuelhvVXlyM2lHSVNRS1JDNDZZXzZYVzMzTVVEaWZEOGNGaHYzOXVKSmxQSXRVb0FicGZETFhqV0pwZzcxaTl0S1dMLWt4Y0hGTmMyVHRNNzNaYWU0SjJZR0swNFA0NW5PVENiRjRmMGI3b2NQaE9pbnZn?oc=5",
+      "source": "bfsi.economictimes.indiatimes.com",
       "category": "tech",
-      "published_at": "2026-10-11T07:00:00+00:00",
+      "published_at": "2026-10-30T21:23:37+00:00",
       "importance": 6,
       "personal_score": 6.0,
       "entities": [
-        "CNBC AI",
-        "CNBC"
+        "Cybersecurity"
       ],
       "summary_method": "rss_fallback"
     },
@@ -1836,41 +1793,23 @@
       "summary_method": "rss_fallback"
     },
     {
-      "id": "e8311e16c7500702",
-      "title": "Too much code, too little shipped: Why AI needs a software factory - YourStory.com",
-      "summary": "Too much code, too little shipped: Why AI needs a software factory YourStory.com",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWUFyT3V0SDc3WXVTWlpvbERqZm1XbG44YUExRGVmc0lhbGQ0eTI3dzB0X1liNm03cm5rMHVCLVpyUUhWSmdzMWtzb0R4bkVxZFczdWVzWTd2UHNFVDlYdHZTdndOQk1rU1RXRll4bTJybE9PMjZBNjlNcC1MNG9EWmhrNzVud1JneFgxdzdhRU56NEU3a0E0?oc=5",
-      "source": "YourStory.com",
+      "id": "5d7debb62bbbcbaa",
+      "title": "Red Hat Innovation Awards 2026 Celebrate Japan’s Open Source Technology Success Stories - Open Source For You",
+      "summary": "Red Hat Innovation Awards 2026 Celebrate Japan’s Open Source Technology Success Stories Open Source For You",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBmOUFoYy1CVDR4WDRudi1RSUtvdHJJM0lpSXlMMUxKMVV0aE5KbF9RcEFqcFN1ZWt1Y21yM1JoaGlLbUZfQzhLd3hHOGhvR0F3a0UwNC0xUnFneGtqbzZJdUY2cDJlUjV0RHk4Wmt5eWVGamw3VHRzU001dw?oc=5",
+      "source": "Open Source For You",
       "category": "tech",
-      "published_at": "2026-10-30T07:13:30+00:00",
+      "published_at": "2026-10-29T07:57:17+00:00",
       "importance": 6,
       "personal_score": 6.0,
       "entities": [
-        "Too",
-        "Why AI",
-        "YourStory.com Too",
-        "YourStory.com"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
-      "id": "ea10cd5075740c4c",
-      "title": "Coforge Introduces Autonomous Software Factory to Coordinate AI Agents - Analytics India Magazine",
-      "summary": "Coforge Introduces Autonomous Software Factory to Coordinate AI Agents Analytics India Magazine",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNHkzcmJVenVrMjJXX2duMFpuN1NOYkN3NnJSSXNFdUJyTFpGbGZCNUVmV3BvX3NfME91ekh3ZDV4cU1mc2FIblJDcWlyQm41QVR3eHZ3RERQQWZXZ3FSSWZkR2hhRjlhMTBrbHRvc1RzdEZGcWxfdmVSYXVtcWZYS2EzRW9FN2N4czM2cE5LUlRlbVNiVUhVNXZ0UVBkY2lGYTlrTHRVVTlQM2l6?oc=5",
-      "source": "Analytics India Magazine",
-      "category": "tech",
-      "published_at": "2026-10-29T10:00:21+00:00",
-      "importance": 6,
-      "personal_score": 6.0,
-      "entities": [
-        "Coforge Introduces Autonomous Software",
-        "Factory",
-        "Coordinate AI Agents",
-        "Analytics India Magazine Coforge",
-        "Introduces Autonomous Software Factory",
-        "Coordinate AI Agents Analytics",
-        "India Magazine"
+        "Red Hat Innovation Awards",
+        "Celebrate Japan",
+        "Open Source Technology Success",
+        "Stories",
+        "Open Source For You",
+        "Stories Open Source For",
+        "You"
       ],
       "summary_method": "rss_fallback"
     },
@@ -1893,44 +1832,6 @@
       "summary_method": "rss_fallback"
     },
     {
-      "id": "5cd33e7c7a2aeb31",
-      "title": "Amazon asks engineers to reconnect with customers as AI reshapes software development - The Economic Times",
-      "summary": "Amazon asks engineers to reconnect with customers as AI reshapes software development The Economic Times",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNcjNwdjA1blYtU0ZXdUdfRnhUSVRfbXRfT2dwVEk5MlA5di1aTzZoUmZqbFBwblZZZENzWWtORTZicHdVOE9BVEhhZnJpMHF2cldpMXlWMzhhZDhkQ3RtS1BpWHllSjhBZF9tRjB4cWt6aFhMS1Y0d2hONWh3bTdEamVmVlRxckFDeTBQMkRzRWE5NGxMdTlvU1E4UFBGT21RSXFaT1dReHEydVBxRVBhWmlDSHh2eGQ1b1JFSFpwdVBveE1OOXVMdGJiM09uWWdRRE05UUg0NG9FUFVPTmZDa2U1QTlmbHBVWXfSAe8BQVVfeXFMTmU0VkNabkpNSU1QMVduRU91THBXajVKOVRsczNhYlZvX3QwMEdhMDVFQzRZVFlYaTk4RlpSMHJCZDZuS0tTWGxhMnZ4NUxyNjJOaUlmck0wWmVsT0ZuaUl1emR3S3h6cmtOYWJieW5tS21URWhBdDdzNGxJSm96TGJrRG5oTHdfNVJoT1kxbGgtdjhIV0JzYlFmVng4U1UyWm5femI3Rmt0bkk3NmVMd3R3ZmtDXzFMZmVXVEZjTWp6NzQzcVdTWVhhYzFHSWlWZEJtR0l5NzZoMFVTcTNCalpHYjBUVFhsUTNkZGZYbTA?oc=5",
-      "source": "The Economic Times",
-      "category": "tech",
-      "published_at": "2026-10-28T06:38:28+00:00",
-      "importance": 6,
-      "personal_score": 6.0,
-      "entities": [
-        "Amazon",
-        "The Economic Times Amazon",
-        "The Economic Times"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
-      "id": "5d7debb62bbbcbaa",
-      "title": "Red Hat Innovation Awards 2026 Celebrate Japan’s Open Source Technology Success Stories - Open Source For You",
-      "summary": "Red Hat Innovation Awards 2026 Celebrate Japan’s Open Source Technology Success Stories Open Source For You",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBmOUFoYy1CVDR4WDRudi1RSUtvdHJJM0lpSXlMMUxKMVV0aE5KbF9RcEFqcFN1ZWt1Y21yM1JoaGlLbUZfQzhLd3hHOGhvR0F3a0UwNC0xUnFneGtqbzZJdUY2cDJlUjV0RHk4Wmt5eWVGamw3VHRzU001dw?oc=5",
-      "source": "Open Source For You",
-      "category": "tech",
-      "published_at": "2026-10-29T07:57:17+00:00",
-      "importance": 6,
-      "personal_score": 6.0,
-      "entities": [
-        "Red Hat Innovation Awards",
-        "Celebrate Japan",
-        "Open Source Technology Success",
-        "Stories",
-        "Open Source For You",
-        "Stories Open Source For",
-        "You"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
       "id": "c93c520fc1f53c79",
       "title": "“Software is over”: Bold AI developer takes aim at Adobe with open source clones - Ars Technica",
       "summary": "“Software is over”: Bold AI developer takes aim at Adobe with open source clones Ars Technica",
@@ -1945,6 +1846,23 @@
         "Bold AI",
         "Adobe",
         "Ars Technica"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
+      "id": "5cd33e7c7a2aeb31",
+      "title": "Amazon asks engineers to reconnect with customers as AI reshapes software development - The Economic Times",
+      "summary": "Amazon asks engineers to reconnect with customers as AI reshapes software development The Economic Times",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNcjNwdjA1blYtU0ZXdUdfRnhUSVRfbXRfT2dwVEk5MlA5di1aTzZoUmZqbFBwblZZZENzWWtORTZicHdVOE9BVEhhZnJpMHF2cldpMXlWMzhhZDhkQ3RtS1BpWHllSjhBZF9tRjB4cWt6aFhMS1Y0d2hONWh3bTdEamVmVlRxckFDeTBQMkRzRWE5NGxMdTlvU1E4UFBGT21RSXFaT1dReHEydVBxRVBhWmlDSHh2eGQ1b1JFSFpwdVBveE1OOXVMdGJiM09uWWdRRE05UUg0NG9FUFVPTmZDa2U1QTlmbHBVWXfSAe8BQVVfeXFMTmU0VkNabkpNSU1QMVduRU91THBXajVKOVRsczNhYlZvX3QwMEdhMDVFQzRZVFlYaTk4RlpSMHJCZDZuS0tTWGxhMnZ4NUxyNjJOaUlmck0wWmVsT0ZuaUl1emR3S3h6cmtOYWJieW5tS21URWhBdDdzNGxJSm96TGJrRG5oTHdfNVJoT1kxbGgtdjhIV0JzYlFmVng4U1UyWm5femI3Rmt0bkk3NmVMd3R3ZmtDXzFMZmVXVEZjTWp6NzQzcVdTWVhhYzFHSWlWZEJtR0l5NzZoMFVTcTNCalpHYjBUVFhsUTNkZGZYbTA?oc=5",
+      "source": "The Economic Times",
+      "category": "tech",
+      "published_at": "2026-10-28T06:38:28+00:00",
+      "importance": 6,
+      "personal_score": 6.0,
+      "entities": [
+        "Amazon",
+        "The Economic Times Amazon",
+        "The Economic Times"
       ],
       "summary_method": "rss_fallback"
     },
@@ -1966,6 +1884,26 @@
       "summary_method": "rss_fallback"
     },
     {
+      "id": "61cac29ef0c64942",
+      "title": "AI in Software Engineering: The Reliability Paradox - Bain & Company",
+      "summary": "AI in Software Engineering: The Reliability Paradox Bain & Company",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTWFPN0lDSUpiS3FtU1hpTk01NVI5ZVlYOWlqUE1mQWR2RkN2ZzVuX2xzX1hSMnU3X2lET2lBdkRZZHJadjU1TS04akxWRnhzRTcxcXp3TDBfSWxJWklTblNpb2hoVHJ3cUppQ1ZIMEJnTlE0Z2o1VGNCWGFQWlVpWDdsdTFFOGct?oc=5",
+      "source": "Bain & Company",
+      "category": "tech",
+      "published_at": "2026-10-19T07:00:00+00:00",
+      "importance": 6,
+      "personal_score": 6.0,
+      "entities": [
+        "Software Engineering",
+        "The Reliability Paradox",
+        "Bain",
+        "Company AI",
+        "The Reliability Paradox Bain",
+        "Company"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
       "id": "5a3875696d37cd1e",
       "title": "How Software Development Leaders Can Turn AI Into Business Growth - Entrepreneur",
       "summary": "How Software Development Leaders Can Turn AI Into Business Growth Entrepreneur",
@@ -1982,6 +1920,24 @@
         "Entrepreneur How Software Development",
         "Leaders Can Turn AI",
         "Into Business Growth Entrepreneur"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
+      "id": "6b8d92eeaacc3c96",
+      "title": "The Future of Software Development Is Human + AI - Nasscom",
+      "summary": "The Future of Software Development Is Human + AI Nasscom",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOb2hNUTE0Zk54bWtPV2l5LW5lYWNWYml5Ny1zUThkcGxmSXhNZTFIWk9pYVBKYksxSGFzRHhndGVnZFN5SHViQ0hHWUdQMGtaNWJRU1BoTmwyNFJWLU80ZzdjWXZ5V1QwM3lsdHkzWXRYZEo5WE04OTIyOUVzcnFUVzVhRTJ3TUE?oc=5",
+      "source": "Nasscom",
+      "category": "tech",
+      "published_at": "2026-10-23T08:54:49+00:00",
+      "importance": 6,
+      "personal_score": 6.0,
+      "entities": [
+        "The Future",
+        "Software Development Is Human",
+        "Nasscom The Future",
+        "AI Nasscom"
       ],
       "summary_method": "rss_fallback"
     },
@@ -2061,6 +2017,49 @@
       "summary_method": "rss_fallback"
     },
     {
+      "id": "0e4ba5081a2e4066",
+      "title": "Navigating Open Source Software Development in the Generative AI Era: Balancing Velocity and Community Health - Linux Foundation",
+      "summary": "Navigating Open Source Software Development in the Generative AI Era: Balancing Velocity and Community Health Linux Foundation",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOakJlTENZblVNZjZ3T2ZKandaNklINGp3eXIxeEZJR2xqTFg4aVJaYnNuV0NjZ1lvUHFWcTdTNG02dFR4V1lYQ21ybUJQVXZJMm55bS1fMW5CYXlOQXhWX3FpR1ltUkZJWmJzVjNTNkNrQXU3QVlOdlRBazVYSDV2ZTV2QzRHQXkyTjBvbUJpbVE4Y2drNHZrLVE0R3E0Z2ttRHpibFJrUUVmbzM1OUFHWl93WXdSWFdIano5LTlIdmNhV1ZIX3ZHWlplc2VSc0JYUzJXMkpMMDN1X2VmUHfSAe4BQVVfeXFMTmdPY2VUZzVjTTlHWjlzZEdXN2pSeUZqWDU0QkE5WHNta0duQUVxLXNETUFKLTE5SEk1WFNXLXJOcDdnVjdQVlpfRHB6YkFza0x3dVczZFhRQ2xFLTJzSGhRUjRKNDB3aGlrdzd2OGQ1aDNBSm9xX0F5c3pWb0Q5RUlMSG5PZlozdWNUV0R4T3I4T0ltendveXNIRDJiMkQ0Y1RTc1REaTMzY2tsTlVGWlNzZldmOHFsUkdSaVo3bm1DQlBuRkxPTjVFb2ZLeDFXeGtvRDh0RXg2Wmo4VTNyNlMxSnlWVWlyMU95RnBDQQ?oc=5",
+      "source": "Linux Foundation",
+      "category": "tech",
+      "published_at": "2026-10-26T20:35:19+00:00",
+      "importance": 6,
+      "personal_score": 6.0,
+      "entities": [
+        "Navigating Open Source Software",
+        "Development",
+        "Generative AI Era",
+        "Balancing Velocity",
+        "Community Health",
+        "Linux Foundation Navigating Open",
+        "Source Software Development",
+        "Community Health Linux Foundation"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
+      "id": "2303362e5e73b57e",
+      "title": "Navigating Open Source Software Development in the Generative AI Era - Linux Foundation",
+      "summary": "Navigating Open Source Software Development in the Generative AI Era Linux Foundation",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9CZlBPRHZROEx0b1dpWjZNWG5OSGVsVFFIN0pjM205ODdYbzRhMFg0dG1Rc1RrNGxEbkl6cU1vMXY5Szg0Q2ZmXzc5Tm55ZUJyUmVlRXJqSHE5TjNnQ19ZMmRaT0tUNWhyNkRXMGpSM2hLaFd6d2tpWnlrVTU?oc=5",
+      "source": "Linux Foundation",
+      "category": "tech",
+      "published_at": "2026-10-20T12:32:07+00:00",
+      "importance": 6,
+      "personal_score": 6.0,
+      "entities": [
+        "Navigating Open Source Software",
+        "Development",
+        "Generative AI Era",
+        "Linux Foundation Navigating Open",
+        "Source Software Development",
+        "Generative AI Era Linux",
+        "Foundation"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
       "id": "32813571557def80",
       "title": "Can Indian homegrown smartphone brands compete with global giants?",
       "summary": "India’s IT Minister, Ashwini Vaishnaw, in a recent interaction with NDTV, outlined an ambitious target that by October 23, 2028, India will have its own mobile phone brand, designed and made locally. While the minister’s intent reflects a strong government policy to foster indigenous manufacturing and self-reliance, translating that vision into commercial success presents steep operational and market hurdles. The competitive landscape is daunting as Chinese Original Equipment Manufacturers (OEMs) control nearly 70% of India’s smartphone market, as per Counterpoint. The iPhone maker’s dominance has forced Chinese players to re-evaluate their strategies across price bands.",
@@ -2076,6 +2075,24 @@
         "However"
       ],
       "summary_method": "tfidf_extractive_full_article"
+    },
+    {
+      "id": "85b2a0f864518439",
+      "title": "Quad Countries Agree on New Push for Semiconductor Supply Chains and Cybersecurity - www.nationpathindia.com",
+      "summary": "Quad Countries Agree on New Push for Semiconductor Supply Chains and Cybersecurity www.nationpathindia.com",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTGdHd2Z0NDJuN3dFc2duMXJ5MDdHYVFQN1JYLVpnUWdqNE1HZEl5RkYzeTk3cHhjMV9nQmhqSjN1M2pObWVlcGlZcC1tWUM3a0taRlZuRG81NFNtbElDWWJ5b1dtNUhiRVNvSndfZXFlLWducmdLWUpvYTk2V1FwSEVHWFJqN2NtY1k4c0paZ0lMdDExdE1OU3NRRHBzekMtTDlNTzV3RVJydw?oc=5",
+      "source": "www.nationpathindia.com",
+      "category": "tech",
+      "published_at": "2026-11-01T17:19:05+00:00",
+      "importance": 5,
+      "personal_score": 5.0,
+      "entities": [
+        "Quad Countries Agree",
+        "New Push",
+        "Semiconductor Supply Chains",
+        "Cybersecurity"
+      ],
+      "summary_method": "rss_fallback"
     },
     {
       "id": "d02206a593b5e3e6",
@@ -2112,24 +2129,6 @@
         "Tribal"
       ],
       "summary_method": "tfidf_extractive_full_article"
-    },
-    {
-      "id": "1da8b52a38edd011",
-      "title": "Google launches Gemini 4 Carbon with focus on coding, cybersecurity - The New Indian Express",
-      "summary": "Google launches Gemini 4 Carbon with focus on coding, cybersecurity The New Indian Express",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZ0ttMTFqSGZJeERqMy0wMnVacmJ1YWVSVUpiTks4UkNidDZ0S2dYRlhsTDRJTmFlMUdDd0NKTXkxU1dPY24yMDJ6d2ZHbWZCWjBUMF9nOWtsWThzRXV3bk1VVExMb1dQNTFrV0o5R3ZZTm5rS1pab0JnaTR1NG9LSjRQeGlDa01tZFlQd2V2MHM5NHFVOUY0cnlZbkxId2FuY0xyV3Nkcm91aU5BNXFuZm4wVVZrQWlsVDhqclU4TkFZYU5V0gHSAUFVX3lxTFB3QW9Eak9yWnFjbjEzSzVXQ1kxaFZiMWdOeHVva3V5SVVLT0dEWFFCSWZ2Y283NnVYQzVkN3lsUjNwU211VHg2QlYwT0xtNUR4dllZd29La3MydXctQlp1YlRydXlrMjdtN2VyVmlGT01XcUY5UjZiWW1YeTQxaTcyVEpvbE9RWmp4R09lRTI4U3Rfckd5SklKTXRybzZOQldYVUZ6ODRKcHU4bjhNdkVCTVljLTBWVXNMYkE4LUVhT0VSWGpxdExfVEk4Qk9xMWhSUQ?oc=5",
-      "source": "The New Indian Express",
-      "category": "tech",
-      "published_at": "2026-10-29T18:30:00+00:00",
-      "importance": 4,
-      "personal_score": 4.0,
-      "entities": [
-        "Google",
-        "Gemini",
-        "Carbon",
-        "The New Indian Express"
-      ],
-      "summary_method": "rss_fallback"
     },
     {
       "id": "8997fff170113b95",
