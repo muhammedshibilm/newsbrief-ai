@@ -1,6 +1,6 @@
 {
   "version": 7,
-  "updated_at": "2026-11-05T20:20:57.664688+00:00",
+  "updated_at": "2026-11-06T01:11:45.963785+00:00",
   "ai_engine": {
     "enabled": true,
     "type": "mathematical_ml",
@@ -85,6 +85,30 @@
       "summary_method": "tfidf_extractive_full_article"
     },
     {
+      "id": "92f72c427df420cb",
+      "title": "Traffic curbs for a month from Friday in Kochi’s SN Junction-St. Martin’s Church corridor",
+      "summary": "As per a diversion plan prepared by the police and Kochi Metro Rail Limited (KMRL), vehicles travelling from Edappally to Kaloor will have to turn left at SN Junction, proceed to Palarivattom, turn right and then head towards Kaloor. Speaking about the planned piling activity, a metro official said that parts of the road at the Y-junction near the church, where vehicles from Edappally converge with those from Palarivattom Junction, might have to be trenched to a depth of about two metres to check for underground utilities such as pipelines and cables. With this not having been done, vehicles arriving from Edappally in two rows, from Palarivattom Bypass Junction in two rows and from Thammanam in a single lane could find it difficult to negotiate the 100-metre-long barricaded stretch in front of the market, where all these streams of traffic converge. The KMRL should also take steps to level the uneven road surface along the Palarivattom-NH Bypass stretch and at two new U-turns beneath the metro viaduct along the corridor to ensure the smooth and safe flow of traffic.",
+      "url": "https://www.thehindu.com/news/national/kerala/traffic-curbs-for-a-month-from-friday-in-kochis-sn-junction-st-martins-church-corridor/article71670554.ece",
+      "source": "The Hindu Kerala",
+      "category": "general",
+      "published_at": "2026-11-05T16:54:40+00:00",
+      "importance": 8,
+      "personal_score": 8.25,
+      "entities": [
+        "Traffic",
+        "Friday",
+        "Kochi",
+        "SN Junction-St. Martin",
+        "Church",
+        "Kochi Metro Rail Limited",
+        "Edappally",
+        "Kaloor",
+        "SN Junction",
+        "Palarivattom"
+      ],
+      "summary_method": "tfidf_extractive_full_article"
+    },
+    {
       "id": "86a78f09ce8d557e",
       "title": "Political tensions mount in Keralam’s Adoor over police station attack",
       "summary": "PATHANAMTHITTA The row over the alleged attack at the Adoor police station has intensified, with the Communist Party of India (Marxist) [CPI(M)] and the Communist Party of India (CPI) stepping up their agitation and demanding action against district panchayat member Sreenadevi Kunjamma and other Youth Congress workers named as accused in the case. The political situation in the region remains tense, with feeder organisations of the Left parties, including the Democratic Youth Federation of India (DYFI) and All India Youth Federation (AIYF), holding separate protests over the incident. The CPI(M) has decided to launch an indefinite satyagraha in Adoor from November 9, which will continue until action is taken against the accused. The incident The controversy relates to an alleged attempt by a group of Youth Congress workers to assault YouTuber Rajan Joseph while he was being brought to the police station in connection with a defamation case.",
@@ -148,6 +172,24 @@
       "summary_method": "tfidf_extractive_full_article"
     },
     {
+      "id": "7786bea99cde3c8c",
+      "title": "Injunction on Koodathayi-based web series challenged in High Court",
+      "summary": "has approached the Kerala High Court, challenging an injunction order restraining the release of a web series allegedly based on the Koodathayi serial murder case. The release of the series had been halted following an interim injunction granted by a munsiff court on a suit filed by Jolyamma Joseph, the prime accused in the alleged murder of six members of her family. She was accused of committing the murders with the aim of taking control of the family property, according to the findings of the investigation. The matter has been posted for hearing on November 6.",
+      "url": "https://www.thehindu.com/news/national/kerala/injunction-on-koodathayi-based-web-series-challenged-in-high-court/article71670930.ece",
+      "source": "The Hindu Kerala",
+      "category": "general",
+      "published_at": "2026-11-05T17:28:45+00:00",
+      "importance": 6,
+      "personal_score": 6.25,
+      "entities": [
+        "Injunction",
+        "Koodathayi-based",
+        "High Court The",
+        "Jolyamma Joseph"
+      ],
+      "summary_method": "tfidf_extractive_full_article"
+    },
+    {
       "id": "21ac68cfce9bc645",
       "title": "സുനാമി മുന്നറിയിപ്പുകൾ തിരിച്ചറിയാം, സുരക്ഷിതരാകാൻ തയ്യാറെടുക്കാം; ഇന്ന് ലോക സുനാമി ബോധവത്കരണ ദിനം | World Tsunami Awareness Day - Times Kerala",
       "summary": "സുനാമി മുന്നറിയിപ്പുകൾ തിരിച്ചറിയാം, സുരക്ഷിതരാകാൻ തയ്യാറെടുക്കാം; ഇന്ന് ലോക സുനാമി ബോധവത്കരണ ദിനം | World Tsunami Awareness Day Times Kerala",
@@ -171,24 +213,6 @@
         "Times Kerala"
       ],
       "summary_method": "rss_fallback"
-    },
-    {
-      "id": "7786bea99cde3c8c",
-      "title": "Injunction on Koodathayi-based web series challenged in High Court",
-      "summary": "has approached the Kerala High Court, challenging an injunction order restraining the release of a web series allegedly based on the Koodathayi serial murder case. The release of the series had been halted following an interim injunction granted by a munsiff court on a suit filed by Jolyamma Joseph, the prime accused in the alleged murder of six members of her family. She was accused of committing the murders with the aim of taking control of the family property, according to the findings of the investigation. The matter has been posted for hearing on November 6.",
-      "url": "https://www.thehindu.com/news/national/kerala/injunction-on-koodathayi-based-web-series-challenged-in-high-court/article71670930.ece",
-      "source": "The Hindu Kerala",
-      "category": "general",
-      "published_at": "2026-11-05T17:28:45+00:00",
-      "importance": 6,
-      "personal_score": 6.25,
-      "entities": [
-        "Injunction",
-        "Koodathayi-based",
-        "High Court The",
-        "Jolyamma Joseph"
-      ],
-      "summary_method": "tfidf_extractive_full_article"
     },
     {
       "id": "a9cd8cb67f0951bb",
@@ -375,7 +399,7 @@
       "url": "https://www.thehindu.com/news/national/kerala/cmfri-maps-161-marine-mammal-strandings-along-indian-coast/article71669605.ece",
       "source": "The Hindu Kerala",
       "category": "general",
-      "published_at": "2026-11-05T17:04:59+00:00",
+      "published_at": "2026-11-05T18:10:43+00:00",
       "importance": 4,
       "personal_score": 4.25,
       "entities": [
@@ -462,6 +486,38 @@
       "summary_method": "tfidf_extractive_full_article"
     },
     {
+      "id": "d6dd2bcc87bef21b",
+      "title": "Keralam’s Gavi to go green, eyes energy neutrality",
+      "summary": "PATHANAMTHITTA The picturesque destination of Gavi, located deep inside the Periyar Tiger Reserve, is gearing up for an energy-neutral future through a shift to electric mobility and solar power. The Kerala Forest Development Corporation (KFDC), which manages the forest settlement, has initiated measures to curb pollution from vehicles and reduce environmental impact of tourism. The authorities, meanwhile, have also mooted a proposal to convert the Kerala State Road Transport Services (KSRTC) buses operating services to Gavi into electric vehicles in a phased manner. Visitor numbers exceeded 2,000 on certain days, far above the limit envisaged in the area’s management plan, which remains in force until 2030, officials said.",
+      "url": "https://www.thehindu.com/news/national/kerala/keralams-gavi-to-go-green-eyes-energy-neutrality/article71669808.ece",
+      "source": "The Hindu Kerala",
+      "category": "general",
+      "published_at": "2026-11-05T18:42:41+00:00",
+      "importance": 4,
+      "personal_score": 4.25,
+      "entities": [
+        "Keralam",
+        "Gavi",
+        "Visitor"
+      ],
+      "summary_method": "tfidf_extractive_full_article"
+    },
+    {
+      "id": "cd9fc039eae03643",
+      "title": "Kochi police yet to complete verification of private bus employees",
+      "summary": "KOCHI The Kochi City police’s special drive to conduct background verification of private bus employees and issue them special identity cards is yet to be completed, even two months after the initiative was launched. The police, according to sources, are planning to issue the ID cards by next week, though they admitted that a final decision on how to proceed with the drive was yet to be taken. Earlier, the police had planned to complete the process within a few weeks in September and then by the end of October, but the initial plan could not be implemented. Once the verification is completed, it would be up to the bus operator to decide whether a person should be employed or not,” the officer said.",
+      "url": "https://www.thehindu.com/news/national/kerala/kochi-police-yet-to-complete-verification-of-private-bus-employees/article71666851.ece",
+      "source": "The Hindu Kerala",
+      "category": "general",
+      "published_at": "2026-11-05T19:52:39+00:00",
+      "importance": 4,
+      "personal_score": 4.25,
+      "entities": [
+        "Kochi"
+      ],
+      "summary_method": "tfidf_extractive_full_article"
+    },
+    {
       "id": "70d80b9b9da942cc",
       "title": "Keralam exam fraud: PSC chairman, members under Crime Branch scanner",
       "summary": "THIRUVANANTHAPURAM The Crime Branch has registered an FIR against the Chairman and members of the Kerala Public Service Commission (PSC) over alleged irregularities in the examination for recruitment to the post of Fisheries Extension Officer, marking a significant development in the PSC examination fraud case. Unlike earlier FIRs registered in connection with other examination malpractices, which referred to the accused collectively as “PSC members”, the latest FIR explicitly identifies three categories of accused: the PSC Chairman, members and officials. PSC Employees Union protest PSC Employees Union protest Employees’ union protests against ‘attempts to destroy PSC’ in Keralam storyline 1 The alleged irregularities relate to the examination conducted for the Fisheries Extension Officer post at the Kerala University of Fisheries and Ocean Studies (Kufos). In a separate case, the Crime Branch has registered another FIR against PSC members over alleged irregularities in the examination for recruitment to the post of Assistant Motor Vehicle Inspector, following a complaint by a Perumbavoor native.",
@@ -480,22 +536,6 @@
         "Fisheries Extension Officer",
         "Kufos",
         "Assistant Motor Vehicle Inspector"
-      ],
-      "summary_method": "tfidf_extractive_full_article"
-    },
-    {
-      "id": "033866f6c4eedebc",
-      "title": "Appointment process for tribal mentor-teachers going at a slow pace in Keralam",
-      "summary": "The Gothrabandhu project was launched in the 2017-18 academic year in the State to specifically curb dropout rates among tribal students and improve their quality of learning and education. However, the appointment process was stalled recently after the High Court issued a stay order based on a petition filed by former mentor-teachers, who opposed the government's decision to discontinue the renewal of their annual job contracts and launch a fresh recruitment drive. However, of the 241 openings in schools mostly attended by Paniya students in Wayanad, posts had gone to Kurchiya and Kuruma community members who have no cultural or linguistic ties to those students. Mary Lydia, coordinator, Adi Shakthi Summer School, says that the recruitment of such a large number of mentor-teachers from the Paniya community will play a historic role in the educational advancement of students from the community.",
-      "url": "https://www.thehindu.com/news/national/kerala/appointment-process-for-tribal-mentor-teachers-going-at-a-slow-pace-in-keralam/article71670207.ece",
-      "source": "The Hindu Kerala",
-      "category": "general",
-      "published_at": "2026-11-05T17:02:03+00:00",
-      "importance": 4,
-      "personal_score": 4.25,
-      "entities": [
-        "Appointment",
-        "Keralam Social"
       ],
       "summary_method": "tfidf_extractive_full_article"
     },
@@ -520,13 +560,49 @@
       "summary_method": "tfidf_extractive_full_article"
     },
     {
+      "id": "a7703083b2a17b33",
+      "title": "With entry to Idukki, Kudumbashree’s Kerala Chicken to cover the entire State",
+      "summary": "Thiruvananthapuram Kerala Chicken, a Kudumbashree venture to ensure the availability of quality chicken at affordable rates across the State, is set to expand operations to Idukki, the only district where it it yet to make its presence felt. Kudumbashree officials say Kerala Chicken is the only such venture where production, processing, and marketing are integrated under one umbrella - Kudumbashree provides the chicks, their feed and medicines, takes back the grown chicken, and pays the women entrepreneurs for supplying safe-to-eat chicken at affordable prices. Value-added products The officials say Kudumbashree has a precise product traceability system that allows a customer who buys Kerala Chicken to trace it to the farm it originated from. Customers can also scan the QR code on the Kerala Chicken value-added product packs such as chicken drumsticks, boneless breast, chicken biryani cuts, and chicken curry cut to trace their origin.",
+      "url": "https://www.thehindu.com/news/national/kerala/with-entry-to-idukki-kudumbashrees-kerala-chicken-to-cover-the-entire-state/article71669833.ece",
+      "source": "The Hindu Kerala",
+      "category": "general",
+      "published_at": "2026-11-05T16:41:12+00:00",
+      "importance": 4,
+      "personal_score": 4.25,
+      "entities": [
+        "With",
+        "Idukki",
+        "Kudumbashree",
+        "Kerala Chicken",
+        "State The",
+        "November"
+      ],
+      "summary_method": "tfidf_extractive_full_article"
+    },
+    {
+      "id": "033866f6c4eedebc",
+      "title": "Appointment process for tribal mentor-teachers going at a slow pace in Keralam",
+      "summary": "The Gothrabandhu project was launched in the 2017-18 academic year in the State to specifically curb dropout rates among tribal students and improve their quality of learning and education. However, the appointment process was stalled recently after the High Court issued a stay order based on a petition filed by former mentor-teachers, who opposed the government's decision to discontinue the renewal of their annual job contracts and launch a fresh recruitment drive. However, of the 241 openings in schools mostly attended by Paniya students in Wayanad, posts had gone to Kurchiya and Kuruma community members who have no cultural or linguistic ties to those students. Mary Lydia, coordinator, Adi Shakthi Summer School, says that the recruitment of such a large number of mentor-teachers from the Paniya community will play a historic role in the educational advancement of students from the community.",
+      "url": "https://www.thehindu.com/news/national/kerala/appointment-process-for-tribal-mentor-teachers-going-at-a-slow-pace-in-keralam/article71670207.ece",
+      "source": "The Hindu Kerala",
+      "category": "general",
+      "published_at": "2026-11-05T17:02:03+00:00",
+      "importance": 4,
+      "personal_score": 4.25,
+      "entities": [
+        "Appointment",
+        "Keralam Social"
+      ],
+      "summary_method": "tfidf_extractive_full_article"
+    },
+    {
       "id": "80d8156a8d4068d6",
       "title": "School excursion row: UDF leaders release CCTV footage in support of their claims",
       "summary": "KOZHIKODE The controversy surrounding the recent student study tour conducted by the Meenangadi Government Higher Secondary School saw new developments on Thursday (November 5), with the United Democratic Front (UDF) Meenangadi panchayat committee releasing CCTV footage allegedly showing school Principal, Shivi Krishnan, and the Parent-Teacher Association (PTA) president Hijas Ulladan entering a bar. The leadership claimed that the visuals showed the principal and the PTA president entering and leaving the establishment, alleging that a bill of ₹1,100 for alcoholic beverages was settled using the PTA president’s personal ATM card. Following the disclosure, the UDF Meenangadi leadership lodged a formal complaint with the Wayanad District Police Chief and announced plans to approach the State Commission for Protection of Child Rights. Though a subsequent medical examination of the principal revealed no presence of alcohol in his blood and a section of students publicly defended him, the UDF countered that online media and vloggers were influenced to sway public opinion, prompting them to release the CCTV footage to substantiate their allegations.",
       "url": "https://www.thehindu.com/news/national/kerala/school-excursion-row-udf-leaders-release-cctv-footage-in-support-of-their-claims/article71669881.ece",
       "source": "The Hindu Kerala",
       "category": "general",
-      "published_at": "2026-11-05T17:42:36+00:00",
+      "published_at": "2026-11-05T19:06:20+00:00",
       "importance": 4,
       "personal_score": 4.25,
       "entities": [
@@ -557,46 +633,6 @@
         "Tariff",
         "KSEB M.G. Rajamanickam",
         "Himachal Pradesh"
-      ],
-      "summary_method": "tfidf_extractive_full_article"
-    },
-    {
-      "id": "a7703083b2a17b33",
-      "title": "With entry to Idukki, Kudumbashree’s Kerala Chicken to cover the entire State",
-      "summary": "Thiruvananthapuram Kerala Chicken, a Kudumbashree venture to ensure the availability of quality chicken at affordable rates across the State, is set to expand operations to Idukki, the only district where it it yet to make its presence felt. Kudumbashree officials say Kerala Chicken is the only such venture where production, processing, and marketing are integrated under one umbrella - Kudumbashree provides the chicks, their feed and medicines, takes back the grown chicken, and pays the women entrepreneurs for supplying safe-to-eat chicken at affordable prices. Value-added products The officials say Kudumbashree has a precise product traceability system that allows a customer who buys Kerala Chicken to trace it to the farm it originated from. Customers can also scan the QR code on the Kerala Chicken value-added product packs such as chicken drumsticks, boneless breast, chicken biryani cuts, and chicken curry cut to trace their origin.",
-      "url": "https://www.thehindu.com/news/national/kerala/with-entry-to-idukki-kudumbashrees-kerala-chicken-to-cover-the-entire-state/article71669833.ece",
-      "source": "The Hindu Kerala",
-      "category": "general",
-      "published_at": "2026-11-05T16:41:12+00:00",
-      "importance": 4,
-      "personal_score": 4.25,
-      "entities": [
-        "With",
-        "Idukki",
-        "Kudumbashree",
-        "Kerala Chicken",
-        "State The",
-        "November"
-      ],
-      "summary_method": "tfidf_extractive_full_article"
-    },
-    {
-      "id": "efb5c778e5ded2db",
-      "title": "Keralam’s 15th Five Year Plan to be prepared in ‘project mode,’ will aim for 7% growth rate per year",
-      "summary": "(Earlier, the UDF government had announced plans to transform the State Planning Board into a ‘think tank’ which will play a “greater role in monitoring the implementation of priority projects and in acting as a link between civil society organisations and the State government to transform ideas into practical projects). It was also decided that the Scheduled Tribes Welfare department would draft an action plan to implement the Forest Rights Act in mission mode over a period of five years in coordination with other departments under the Tribal Sub-plan. Funding support The board meeting approved a proposal for the State Planning Board to access funding support from the NITI Aayog of up to ₹2.44 crore a year under the State Support Mission to strengthen its work, conduct capacity building activities and enhance the evaluation and data analysis division. Chandrasekhar said Keralam will move towards the creation of a “partnership economy,” where it will work with local bodies, cooperatives, banks, the private sector and other external agencies to supplement the State’s resources to achieve the 15th Plan development objectives.",
-      "url": "https://www.thehindu.com/news/cities/Thiruvananthapuram/keralams-15th-five-year-plan-aims-at-7-growth-rate-per-year/article71670842.ece",
-      "source": "The Hindu Kerala",
-      "category": "general",
-      "published_at": "2026-11-05T15:37:31+00:00",
-      "importance": 4,
-      "personal_score": 4.25,
-      "entities": [
-        "Keralam",
-        "Five Year Plan",
-        "Approach Paper",
-        "Five-Year Plan",
-        "GSDP",
-        "SMART"
       ],
       "summary_method": "tfidf_extractive_full_article"
     },
@@ -649,41 +685,23 @@
       "summary_method": "tfidf_extractive_full_article"
     },
     {
-      "id": "3f28feed5c004b62",
-      "title": "പൊലീസിൽ കംപ്യൂട്ടർ കുംഭകോണം - Deshabhimani",
-      "summary": "പൊലീസിൽ കംപ്യൂട്ടർ കുംഭകോണം Deshabhimani",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdFhXTFE4Zm51OTlxZkJFQ2hnd0dzR3N2WGh5emQ3dGw0cGtjTWRvSEN3T1ZOYmRYMHhnWkZRZjFWZmo3aHUwb29sUTBydDFLRFBjQk1JT0JSX3dzNldhYnBHYWlGTkE4LVVfcENCcHcwNi1DMGZGbm53RjR2bWtoS0V2QUMzUGpabm1wSEROQTF3eXkwQmZlam1QbGJONW1acXJRUWVhUWhGWkNEdWc?oc=5",
-      "source": "Deshabhimani",
-      "category": "general",
-      "published_at": "2026-11-05T19:00:06+00:00",
-      "importance": 3,
-      "personal_score": 3.25,
-      "entities": [
-        "പൊലീസിൽ",
-        "കംപ്യൂട്ടർ",
-        "കുംഭകോണം",
-        "Deshabhimani"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
-      "id": "a0fb121f60a20cdf",
-      "title": "അഭിറാമിന്റെ കൊലപാതകം ആസൂത്രിതം, ഉമറിന്റെ പെൺസുഹൃത്ത് ഐശ്വര്യയും അറസ്റ്റിൽ - Kerala Kaumudi",
-      "summary": "അഭിറാമിന്റെ കൊലപാതകം ആസൂത്രിതം, ഉമറിന്റെ പെൺസുഹൃത്ത് ഐശ്വര്യയും അറസ്റ്റിൽ Kerala Kaumudi",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNc05oZGs5Xy1ZQ0FqdndraFRKeWI3MVY0dXJ3WENuSGxVcVltSGEwdS1fT0ZrVXBBOGJyWjBlS2tOc1dqU29mLVQtX2tYSWVyV1NidC11dWRMSUZfSHh0RlRfS1dPWnBCRC1xTGFDc1RVeWFxS2d1cUFfNzI1aW52UDRyMlFMbWwyd0JXeFY3OEswMEIwU1FHTg?oc=5",
+      "id": "aaa336a7351f5835",
+      "title": "കീഴ്മാട് ഏഴര കോടിയുടെ നിരോധിത പുകയില ഉത്പന്നങ്ങൾ പിടിച്ചു - Kerala Kaumudi",
+      "summary": "കീഴ്മാട് ഏഴര കോടിയുടെ നിരോധിത പുകയില ഉത്പന്നങ്ങൾ പിടിച്ചു Kerala Kaumudi",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5MVGJBWkh6cVJXSkdYY0tQcGx2NzJBUF9zek9vaFEtNmZtbjA3U1FBSjVsRXAzSVVGRHFOTW9mVVhEaVlRN2xydHgtVzZJc1JBd2dBVXNSN1lsWFEwMjRwaFIwSE5fcmtISEE?oc=5",
       "source": "Kerala Kaumudi",
       "category": "general",
-      "published_at": "2026-11-05T13:28:39+00:00",
+      "published_at": "2026-11-05T19:30:15+00:00",
       "importance": 3,
       "personal_score": 3.25,
       "entities": [
-        "അഭിറാമിന്റെ",
-        "കൊലപാതകം",
-        "ആസൂത്രിതം",
-        "ഉമറിന്റെ",
-        "പെൺസുഹൃത്ത്",
-        "ഐശ്വര്യയും",
-        "അറസ്റ്റിൽ",
+        "കീഴ്മാട്",
+        "ഏഴര",
+        "കോടിയുടെ",
+        "നിരോധിത",
+        "പുകയില",
+        "ഉത്പന്നങ്ങൾ",
+        "പിടിച്ചു",
         "Kerala Kaumudi"
       ],
       "summary_method": "rss_fallback"
@@ -711,32 +729,6 @@
         "ഏറ്റെടുക്കുന്നു",
         "പ്രധാന",
         "ഊര്"
-      ],
-      "summary_method": "tfidf_extractive_full_article"
-    },
-    {
-      "id": "85c8252fed870f54",
-      "title": "ലോട്ടറി അടിച്ച് യുഎഇ; ഇന്ത്യന്‍ വിപണിയില്‍ പങ്ക് കൂട്ടി, വില കുത്തനെ താഴേക്ക്, 43 രാജ്യങ്ങളില്‍ നിന്ന് എണ്ണ",
-      "summary": "നേരത്തെ ചുരുക്കം ചില രാജ്യങ്ങളില്‍ നിന്ന് മാത്രം ക്രൂഡ് ഓയില്‍ ഇറക്കുമതി ചെയ്തിരുന്ന ഇന്ത്യ ഇപ്പോള്‍ 43 രാജ്യങ്ങളില്‍ നിന്ന് ഇറക്കുമതി ചെയ്യുണ്ടെന്ന് പെട്രോളിയം വകുപ്പ് സെക്രട്ടറി നീരജ് മിത്തല്‍ പറയുന്നു.സൗദി അറേബ്യ പ്രതിരോധ തന്ത്രം മാറ്റുന്നു; തുര്‍ക്കിയും പാകിസ്താനും മാത്രമല്ല, സിറിയ കൂടി കളത്തില്‍ഏറെകാലം പശ്ചിമേഷ്യയിലെ രാജ്യങ്ങളെ ആശ്രയിച്ചായിരുന്നു ഇന്ത്യയുടെ എണ്ണ ഇറക്കുമതി. എങ്കിലും റഷ്യയില്‍ നിന്നുതന്നെയാണ് ഇപ്പോഴും കൂടുതല്‍ ക്രൂഡ് ഇന്ത്യ ഇറക്കുമതി ചെയ്യുന്നത്.സൗദി അറബ്യേ, യുഎഇ, ഇറാഖ്, റഷ്യ, അംഗോള, അമേരിക്ക, വെനസ്വേല, നൈജീരിയ തുടങ്ങി ലോകത്തിന്റെ വിവിധ ഭാഗങ്ങളില്‍ നിന്ന് ഇന്ത്യ നിലവില്‍ എണ്ണ ഇറക്കുമതി ചെയ്യുന്നുണ്ട്. എന്നാല്‍ ഇപ്പോള്‍ 90 ശതമാനം ഇറക്കുമതി ചെയ്യുകയാണ്.ക്രൂഡ് ഓയില്‍ വില കുത്തനെ ഇടിഞ്ഞുഒപെക് കൂട്ടായ്മയില്‍ നിന്ന് രാജിവച്ചതു കൊണ്ടാണ് യുഎഇക്ക് കയറ്റുമതി വര്‍ധിപ്പിക്കാന്‍ സാധിച്ചത്. ഈ സാഹചര്യമാണ് ഇന്ത്യ ഉപയോഗപ്പെടുത്തുന്നത്.സ്വര്‍ണം പറക്കുന്നു; ഞെട്ടിക്കുന്ന വില വര്‍ധന, മണിക്കൂറുകള്‍ക്കിടെ 5000 രൂപയോളം കൂടി, പവന്‍ വിലഅമേരിക്കന്‍ ഇടക്കാല തിരഞ്ഞെടുപ്പിന് പിന്നാലെ ക്രൂഡ് ഓയില്‍ വില കുത്തനെ കുറഞ്ഞ സാഹചര്യത്തില്‍ ഇത് ഇന്ത്യയുടെ ഇറക്കുതിച്ചെലവ് കുറയ്ക്കും.",
-      "url": "https://malayalam.oneindia.com/gulf/big-lottery-for-uae-indian-energy-market-share-rises-new-delhi-now-buying-crude-from-43-countries-603259.html",
-      "source": "Oneindia Malayalam",
-      "category": "general",
-      "published_at": "2026-11-05T08:58:51+00:00",
-      "importance": 3,
-      "personal_score": 3.25,
-      "entities": [
-        "ലോട്ടറി",
-        "അടിച്ച്",
-        "യുഎഇ",
-        "ഇന്ത്യന്",
-        "വിപണിയില്",
-        "പങ്ക്",
-        "കൂട്ടി",
-        "വില",
-        "കുത്തനെ",
-        "താഴേക്ക്",
-        "രാജ്യങ്ങളില്",
-        "നിന്ന്"
       ],
       "summary_method": "tfidf_extractive_full_article"
     },
@@ -793,32 +785,6 @@
       "summary_method": "tfidf_extractive_full_article"
     },
     {
-      "id": "c0776647a9b12bbc",
-      "title": "എബിവിപിക്കാരൻ ഉജ്ജലിനെ പുറത്താക്കിയത് സഹപാഠിയുടെ തലതല്ലിപ്പൊളിച്ചതിനാണ്';മുഖ്യമന്ത്രിക്ക് മറുപടി",
-      "summary": "മുൻ സിൻ്റിക്കേറ്റിൻ്റെ കാലത്തും കാലടി സർവ്വകലാശാലയിൽ നിന്നും വിദ്യാർത്ഥികളെ സസ്പെൻ്റ് ചെയ്തിട്ടുണ്ടെന്നും അവരെ പരീക്ഷ എഴുതാൻ അനുവദിച്ചിരുന്നില്ലെന്നുമുള്ള മുഖ്യമന്ത്രിയുടെ ആരോപണത്തിന് മറുപടിയുമായി സർവ്വകലാശാല മുൻ സിൻ്റികേറ്റ് മെമ്പറായ അഡ്വ കെഎസ് അരുണ്‍ കുമാർ. സഹപാഠികളായ വിദ്യാർത്ഥികളുടെ തലതല്ലിപ്പൊളിച്ചതിന് ക്രിമിനൽ കേസുകളിൽ പ്രതിയാകുകയും, കാലടിയിൽ ബാറിൽ കയറി ഗുണ്ടാപ്പണി നടത്തിയതിന് ക്രിമിനൽ കേസിൽ പ്രതിയാകുകയും ചെയ്തതിനും ആണ് ആ വിദ്യാർത്ഥിയെ സസ്പെൻ്റു ചെയ്തത്. അദ്ദേഹത്തിൻ്റെ വാക്കുകളിലേക്ക് കാലടി, സംസ്‌കൃത സർവ്വകലാശാലയിലെ സസ്പെൻ്റ് ചെയ്ത വിദ്യാർത്ഥികളെ പരീക്ഷ എഴുതിപ്പിക്കുന്നതുമായി ബന്ധപ്പെട്ട് സിന്തിക്കേറ്റ് അംഗങ്ങളും വൈസ് ചാൻസിലറും ഉന്നത വിദ്യാഭ്യാസ മന്ത്രിയും എന്തിന് കേരള മുഖ്യമന്ത്രിയും നിരത്തുന്ന പ്രധാന വാദം മുൻകാലങ്ങളിൽ വിദ്യാർത്ഥികളെ ഇങ്ങനെ സസ്‌പെൻ്റ് ചെയ്തിട്ടുണ്ട് എന്നും അവരെ പരീക്ഷ എഴുതിച്ചിട്ടില്ലെന്നുമാണ്.അങ്ങനെ സസ്പെൻ്റ് ചെയ്യപ്പെട്ട ഒരു വിദ്യാർത്ഥി സർവ്വകലാശാലയിലെ ABVP യുടെ നിലവിലെ യൂണിറ്റ് പ്രസിഡണ്ട് ഉജ്ജ്വൽ ഉണ്ണിയാണ്. ഇപ്പോഴത്തെ കോൺഗ്രസ് സംഘപരിവാർ സിന്തിക്കേറ്റ് അധികാരമേറ്റപ്പോൾ നിരവധി ആരോപണ വിധേയനായ ഉജജ്വൻ ഉണ്ണി എന്ന വിദ്യാർത്ഥിക്ക് ക്യാമ്പസിൽ റീ അഡ്മിഷൻ നൽകുകയാണ് ഉണ്ടായത്.ഈ സസ്പെൻഷൻ കാലത്ത് നിരവധി ക്രിമിനൽ കേസുകളിൽ പ്രതിയായിരുന്ന ഉജ്ജ്വൽ ഉണ്ണിയെ പരീക്ഷ എഴുതിക്കാൻ മുൻ സിന്തിക്കേറ്റ് അനുവദിച്ചിടുണ്ട്.",
-      "url": "https://malayalam.oneindia.com/news/kerala/abvp-member-ujjal-was-expelled-for-cracking-a-fellow-student-s-head-reply-to-chief-minister-603271.html",
-      "source": "Oneindia Malayalam",
-      "category": "general",
-      "published_at": "2026-11-05T10:37:41+00:00",
-      "importance": 3,
-      "personal_score": 3.25,
-      "entities": [
-        "എബിവിപിക്കാരൻ",
-        "ഉജ്ജലിനെ",
-        "പുറത്താക്കിയത്",
-        "സഹപാഠിയുടെ",
-        "തലതല്ലിപ്പൊളിച്ചതിനാണ്",
-        "മുഖ്യമന്ത്രിക്ക്",
-        "മറുപടി",
-        "ABVP Member Ujjal Was",
-        "Expelled",
-        "Cracking",
-        "Fellow Student",
-        "Head"
-      ],
-      "summary_method": "tfidf_extractive_full_article"
-    },
-    {
       "id": "0807d83e70bc9b19",
       "title": "കപ്പൽ കമ്പനികൾക്കെതിരെ ഗുരുതര ആരോപണവുമായി ഇന്ത്യൻ നാവികരുടെ കൂട്ടായ്മ; ഇൻഷുറൻസ് നിഷേധിക്കുന്നതായും ഇടപെടൽ ആവശ്യപ്പെട്ടും നാവികർ - Asianet News Malayalam",
       "summary": "കപ്പൽ കമ്പനികൾക്കെതിരെ ഗുരുതര ആരോപണവുമായി ഇന്ത്യൻ നാവികരുടെ കൂട്ടായ്മ; ഇൻഷുറൻസ് നിഷേധിക്കുന്നതായും ഇടപെടൽ ആവശ്യപ്പെട്ടും നാവികർ Asianet News Malayalam",
@@ -841,31 +807,6 @@
         "ഇടപെടൽ",
         "ആവശ്യപ്പെട്ടും",
         "നാവികർ"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
-      "id": "0d945466346746d7",
-      "title": "തീവ്ര മഴയും ഇടിമിന്നലും, സംസ്ഥാനത്ത് എട്ട് ജില്ലകളിൽ ഓറഞ്ച് മുന്നറിയിപ്പ്, ബാക്കി ജില്ലകളിൽ മഞ്ഞ മുന്നറിയിപ്പ് - Kerala Vision News",
-      "summary": "തീവ്ര മഴയും ഇടിമിന്നലും, സംസ്ഥാനത്ത് എട്ട് ജില്ലകളിൽ ഓറഞ്ച് മുന്നറിയിപ്പ്, ബാക്കി ജില്ലകളിൽ മഞ്ഞ മുന്നറിയിപ്പ് Kerala Vision News",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNTTA2ZVdCNEc5OFpMTVpEeVh6dlNMaVRxYlhMajhlaER3ZVdQUzlkWFoyMU15NzJwYXVrakhUZ1N0OWs5V3JkbkRHRmlFMDdHWEluaDlLM1k5Q2xUcEdUNFZlMzYwNE56M2YyX0E5anNYZXQtdFhOcld2eF92NlBiOVBDUmFLcFRadzhKX2l2TnhxdzZOVkY2RHk5ZjBOSjNRQnA2M1FudHJNa0l6cm8zb3BBOXlUOUVCXzE0TGU2ZzVFSE5zTHJ6MXhZUEJzMzFnY0NueU9lSXg4Tm1wdGVHZERJdzl6clRxay1seldZbjNIbDNVMDJfZTEwRFc?oc=5",
-      "source": "Kerala Vision News",
-      "category": "general",
-      "published_at": "2026-11-05T10:43:18+00:00",
-      "importance": 3,
-      "personal_score": 3.25,
-      "entities": [
-        "തീവ്ര",
-        "മഴയും",
-        "ഇടിമിന്നലും",
-        "സംസ്ഥാനത്ത്",
-        "എട്ട്",
-        "ജില്ലകളിൽ",
-        "ഓറഞ്ച്",
-        "മുന്നറിയിപ്പ്",
-        "ബാക്കി",
-        "മഞ്ഞ",
-        "Kerala Vision News"
       ],
       "summary_method": "rss_fallback"
     },
@@ -922,31 +863,6 @@
       "summary_method": "tfidf_extractive_full_article"
     },
     {
-      "id": "befc963733b1cfda",
-      "title": "കേരളത്തിലെ അതിദാരിദ്ര്യ നിർമ്മാർജ്ജന പദ്ധതി യുഎന്നിൽ, മുഖ്യമന്ത്രി ഇതെങ്ങനെ സഹിക്കുമെന്ന് എംബി രാജേഷ് - Oneindia Malayalam",
-      "summary": "കേരളത്തിലെ അതിദാരിദ്ര്യ നിർമ്മാർജ്ജന പദ്ധതി യുഎന്നിൽ, മുഖ്യമന്ത്രി ഇതെങ്ങനെ സഹിക്കുമെന്ന് എംബി രാജേഷ് Oneindia Malayalam",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQRlVYTDVQR0VuRVZvUjNiVGl5YTRJVjlIWUhyQTJJZHZjZFZEN1ZndEtCN0VKaTh5dHhLbnUxRERIb1ZfUW5ZQlJfY3BEMmNpcE16dXBwS3NKSG5QX1ExUE9SeXN4SjY1YWZuMWhrSHRHUlhMeVVja1Z6TU1YeUxyLWJQdDR4YktNc3JEWFFOdXIyd1pDZHktY0RrWi12TzF6TTdzcjl3UXg2OGxaRmhKTk1oQW1LT3JjYUhMc3dlbzY3UU1ad3pQcGxHc1NIWEdTdXhHS3ZWZ2szeGw4VWJyUlBIWnQzZm8?oc=5",
-      "source": "Oneindia Malayalam",
-      "category": "general",
-      "published_at": "2026-11-05T18:45:08+00:00",
-      "importance": 3,
-      "personal_score": 3.25,
-      "entities": [
-        "കേരളത്തിലെ",
-        "അതിദാരിദ്ര്യ",
-        "നിർമ്മാർജ്ജന",
-        "പദ്ധതി",
-        "യുഎന്നിൽ",
-        "മുഖ്യമന്ത്രി",
-        "ഇതെങ്ങനെ",
-        "സഹിക്കുമെന്ന്",
-        "എംബി",
-        "രാജേഷ്",
-        "Oneindia Malayalam"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
       "id": "82783ab6ccd26976",
       "title": "Manufacturing Momentum:Building a Self-Reliant India - www.pib.gov.in",
       "summary": "Manufacturing Momentum:Building a Self-Reliant India www.pib.gov.in",
@@ -964,30 +880,82 @@
       "summary_method": "rss_fallback"
     },
     {
-      "id": "436679ff4bd5c3cd",
-      "title": "ഭൂമിക്ക് പുതിയൊരു 'മിനി-ചന്ദ്രൻ'! പത്തുവർഷത്തിലൊരിക്കൽ എത്തുന്ന വിചിത്ര അതിഥി ഭൂമിയെ ചുറ്റുന്നു; ഡിസംബർ വരെ നമ്മോടൊപ്പമുണ്ടാകും... - Express Kerala",
-      "summary": "ഭൂമിക്ക് പുതിയൊരു 'മിനി-ചന്ദ്രൻ'! പത്തുവർഷത്തിലൊരിക്കൽ എത്തുന്ന വിചിത്ര അതിഥി ഭൂമിയെ ചുറ്റുന്നു; ഡിസംബർ വരെ നമ്മോടൊപ്പമുണ്ടാകും... Express Kerala",
-      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQemZ1M2h6RGZnMWV5b09zVm1qUHBfZGJJRXdDZzZVRW96d3ZZRDFqN2NRck90Q3JYRUpRWmtpbE5td2xLWVk5NFNHN1Q5dUJ0aFFqdlJEMlZYbmdyQUQyY0ZRRF9RbGpBWm4yaktLcTV4dS1zZ1dvdHNYOVEyaG0yZ3otRGJhNlBOR3ZHWllvOGVBYmJQUERmT2Z6clpEdEI4cE42Ym51bW1HSThZWVdqTFh2cmtJLTFjYlVrTmU5eUplcTR3V2g2SElNbl9hc2s4YUxXTEJ6S0Qwdi1ZdmRrY2x1c1hLS3oyT3lJZ1FTNHhBNUJLWjBid0kwd0dFSGprWm1R?oc=5",
-      "source": "Express Kerala",
+      "id": "6eee587728250325",
+      "title": "'ഉത്തരവ് നെഞ്ചിൽ കുത്തിയത് പോലെ'; ജഡ്ജിയുടെ ജാമ്യം റദ്ദാക്കാൻ സുപ്രീം കോടതിയെ സമീപിക്കുമെന്ന് ഭദ്ര കീര്‍ത്തി - Kerala Vision News",
+      "summary": "'ഉത്തരവ് നെഞ്ചിൽ കുത്തിയത് പോലെ'; ജഡ്ജിയുടെ ജാമ്യം റദ്ദാക്കാൻ സുപ്രീം കോടതിയെ സമീപിക്കുമെന്ന് ഭദ്ര കീര്‍ത്തി Kerala Vision News",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcFNlUjBCR3V6Rk5IajBiZVJ1TVhXcTd3M1lFcXg0eXB6eWZmWHhUaEZXWEptX193SDJBeEZvbE9RaWl6blg3UVBBbkdSRkhxQVVyay0xa1A0ZWVfdTl6bG5mcVk5S0s5UzRWdU0yS1BQZmNqRFdwcGZ2UlFVRHF0VzRYSzZkTmUtOUgtckRoa0FzQkNsbjl6dDg1YjlRU3FLWG4yY1BwVQ?oc=5",
+      "source": "Kerala Vision News",
       "category": "general",
-      "published_at": "2026-11-05T07:32:15+00:00",
+      "published_at": "2026-11-05T11:32:30+00:00",
       "importance": 2,
       "personal_score": 2.25,
       "entities": [
-        "ഭൂമിക്ക്",
-        "പുതിയൊരു",
-        "മിനി",
-        "ചന്ദ്രൻ",
-        "പത്തുവർഷത്തിലൊരിക്കൽ",
-        "എത്തുന്ന",
-        "വിചിത്ര",
-        "അതിഥി",
-        "ഭൂമിയെ",
-        "ചുറ്റുന്നു",
-        "ഡിസംബർ",
-        "വരെ"
+        "ഉത്തരവ്",
+        "നെഞ്ചിൽ",
+        "കുത്തിയത്",
+        "പോലെ",
+        "ജഡ്ജിയുടെ",
+        "ജാമ്യം",
+        "റദ്ദാക്കാൻ",
+        "സുപ്രീം",
+        "കോടതിയെ",
+        "സമീപിക്കുമെന്ന്",
+        "ഭദ്ര",
+        "കീര്"
       ],
       "summary_method": "rss_fallback"
+    },
+    {
+      "id": "85c8252fed870f54",
+      "title": "ലോട്ടറി അടിച്ച് യുഎഇ; ഇന്ത്യന്‍ വിപണിയില്‍ പങ്ക് കൂട്ടി, വില കുത്തനെ താഴേക്ക്, 43 രാജ്യങ്ങളില്‍ നിന്ന് എണ്ണ",
+      "summary": "നേരത്തെ ചുരുക്കം ചില രാജ്യങ്ങളില്‍ നിന്ന് മാത്രം ക്രൂഡ് ഓയില്‍ ഇറക്കുമതി ചെയ്തിരുന്ന ഇന്ത്യ ഇപ്പോള്‍ 43 രാജ്യങ്ങളില്‍ നിന്ന് ഇറക്കുമതി ചെയ്യുണ്ടെന്ന് പെട്രോളിയം വകുപ്പ് സെക്രട്ടറി നീരജ് മിത്തല്‍ പറയുന്നു.സൗദി അറേബ്യ പ്രതിരോധ തന്ത്രം മാറ്റുന്നു; തുര്‍ക്കിയും പാകിസ്താനും മാത്രമല്ല, സിറിയ കൂടി കളത്തില്‍ഏറെകാലം പശ്ചിമേഷ്യയിലെ രാജ്യങ്ങളെ ആശ്രയിച്ചായിരുന്നു ഇന്ത്യയുടെ എണ്ണ ഇറക്കുമതി. എങ്കിലും റഷ്യയില്‍ നിന്നുതന്നെയാണ് ഇപ്പോഴും കൂടുതല്‍ ക്രൂഡ് ഇന്ത്യ ഇറക്കുമതി ചെയ്യുന്നത്.സൗദി അറബ്യേ, യുഎഇ, ഇറാഖ്, റഷ്യ, അംഗോള, അമേരിക്ക, വെനസ്വേല, നൈജീരിയ തുടങ്ങി ലോകത്തിന്റെ വിവിധ ഭാഗങ്ങളില്‍ നിന്ന് ഇന്ത്യ നിലവില്‍ എണ്ണ ഇറക്കുമതി ചെയ്യുന്നുണ്ട്. എന്നാല്‍ ഇപ്പോള്‍ 90 ശതമാനം ഇറക്കുമതി ചെയ്യുകയാണ്.ക്രൂഡ് ഓയില്‍ വില കുത്തനെ ഇടിഞ്ഞുഒപെക് കൂട്ടായ്മയില്‍ നിന്ന് രാജിവച്ചതു കൊണ്ടാണ് യുഎഇക്ക് കയറ്റുമതി വര്‍ധിപ്പിക്കാന്‍ സാധിച്ചത്. ഈ സാഹചര്യമാണ് ഇന്ത്യ ഉപയോഗപ്പെടുത്തുന്നത്.സ്വര്‍ണം പറക്കുന്നു; ഞെട്ടിക്കുന്ന വില വര്‍ധന, മണിക്കൂറുകള്‍ക്കിടെ 5000 രൂപയോളം കൂടി, പവന്‍ വിലഅമേരിക്കന്‍ ഇടക്കാല തിരഞ്ഞെടുപ്പിന് പിന്നാലെ ക്രൂഡ് ഓയില്‍ വില കുത്തനെ കുറഞ്ഞ സാഹചര്യത്തില്‍ ഇത് ഇന്ത്യയുടെ ഇറക്കുതിച്ചെലവ് കുറയ്ക്കും.",
+      "url": "https://malayalam.oneindia.com/gulf/big-lottery-for-uae-indian-energy-market-share-rises-new-delhi-now-buying-crude-from-43-countries-603259.html",
+      "source": "Oneindia Malayalam",
+      "category": "general",
+      "published_at": "2026-11-05T08:58:51+00:00",
+      "importance": 2,
+      "personal_score": 2.25,
+      "entities": [
+        "ലോട്ടറി",
+        "അടിച്ച്",
+        "യുഎഇ",
+        "ഇന്ത്യന്",
+        "വിപണിയില്",
+        "പങ്ക്",
+        "കൂട്ടി",
+        "വില",
+        "കുത്തനെ",
+        "താഴേക്ക്",
+        "രാജ്യങ്ങളില്",
+        "നിന്ന്"
+      ],
+      "summary_method": "tfidf_extractive_full_article"
+    },
+    {
+      "id": "c0776647a9b12bbc",
+      "title": "എബിവിപിക്കാരൻ ഉജ്ജലിനെ പുറത്താക്കിയത് സഹപാഠിയുടെ തലതല്ലിപ്പൊളിച്ചതിനാണ്';മുഖ്യമന്ത്രിക്ക് മറുപടി",
+      "summary": "മുൻ സിൻ്റിക്കേറ്റിൻ്റെ കാലത്തും കാലടി സർവ്വകലാശാലയിൽ നിന്നും വിദ്യാർത്ഥികളെ സസ്പെൻ്റ് ചെയ്തിട്ടുണ്ടെന്നും അവരെ പരീക്ഷ എഴുതാൻ അനുവദിച്ചിരുന്നില്ലെന്നുമുള്ള മുഖ്യമന്ത്രിയുടെ ആരോപണത്തിന് മറുപടിയുമായി സർവ്വകലാശാല മുൻ സിൻ്റികേറ്റ് മെമ്പറായ അഡ്വ കെഎസ് അരുണ്‍ കുമാർ. സഹപാഠികളായ വിദ്യാർത്ഥികളുടെ തലതല്ലിപ്പൊളിച്ചതിന് ക്രിമിനൽ കേസുകളിൽ പ്രതിയാകുകയും, കാലടിയിൽ ബാറിൽ കയറി ഗുണ്ടാപ്പണി നടത്തിയതിന് ക്രിമിനൽ കേസിൽ പ്രതിയാകുകയും ചെയ്തതിനും ആണ് ആ വിദ്യാർത്ഥിയെ സസ്പെൻ്റു ചെയ്തത്. അദ്ദേഹത്തിൻ്റെ വാക്കുകളിലേക്ക് കാലടി, സംസ്‌കൃത സർവ്വകലാശാലയിലെ സസ്പെൻ്റ് ചെയ്ത വിദ്യാർത്ഥികളെ പരീക്ഷ എഴുതിപ്പിക്കുന്നതുമായി ബന്ധപ്പെട്ട് സിന്തിക്കേറ്റ് അംഗങ്ങളും വൈസ് ചാൻസിലറും ഉന്നത വിദ്യാഭ്യാസ മന്ത്രിയും എന്തിന് കേരള മുഖ്യമന്ത്രിയും നിരത്തുന്ന പ്രധാന വാദം മുൻകാലങ്ങളിൽ വിദ്യാർത്ഥികളെ ഇങ്ങനെ സസ്‌പെൻ്റ് ചെയ്തിട്ടുണ്ട് എന്നും അവരെ പരീക്ഷ എഴുതിച്ചിട്ടില്ലെന്നുമാണ്.അങ്ങനെ സസ്പെൻ്റ് ചെയ്യപ്പെട്ട ഒരു വിദ്യാർത്ഥി സർവ്വകലാശാലയിലെ ABVP യുടെ നിലവിലെ യൂണിറ്റ് പ്രസിഡണ്ട് ഉജ്ജ്വൽ ഉണ്ണിയാണ്. ഇപ്പോഴത്തെ കോൺഗ്രസ് സംഘപരിവാർ സിന്തിക്കേറ്റ് അധികാരമേറ്റപ്പോൾ നിരവധി ആരോപണ വിധേയനായ ഉജജ്വൻ ഉണ്ണി എന്ന വിദ്യാർത്ഥിക്ക് ക്യാമ്പസിൽ റീ അഡ്മിഷൻ നൽകുകയാണ് ഉണ്ടായത്.ഈ സസ്പെൻഷൻ കാലത്ത് നിരവധി ക്രിമിനൽ കേസുകളിൽ പ്രതിയായിരുന്ന ഉജ്ജ്വൽ ഉണ്ണിയെ പരീക്ഷ എഴുതിക്കാൻ മുൻ സിന്തിക്കേറ്റ് അനുവദിച്ചിടുണ്ട്.",
+      "url": "https://malayalam.oneindia.com/news/kerala/abvp-member-ujjal-was-expelled-for-cracking-a-fellow-student-s-head-reply-to-chief-minister-603271.html",
+      "source": "Oneindia Malayalam",
+      "category": "general",
+      "published_at": "2026-11-05T10:37:41+00:00",
+      "importance": 2,
+      "personal_score": 2.25,
+      "entities": [
+        "എബിവിപിക്കാരൻ",
+        "ഉജ്ജലിനെ",
+        "പുറത്താക്കിയത്",
+        "സഹപാഠിയുടെ",
+        "തലതല്ലിപ്പൊളിച്ചതിനാണ്",
+        "മുഖ്യമന്ത്രിക്ക്",
+        "മറുപടി",
+        "ABVP Member Ujjal Was",
+        "Expelled",
+        "Cracking",
+        "Fellow Student",
+        "Head"
+      ],
+      "summary_method": "tfidf_extractive_full_article"
     },
     {
       "id": "2e61dc897f7d541e",
@@ -1140,6 +1108,27 @@
       "summary_method": "rss_fallback"
     },
     {
+      "id": "32ac4dfa1f915e17",
+      "title": "പുതിയ ലോകങ്ങളെ കണ്ടെത്താം – Kerala Science Slam - LUCA Science Magazine",
+      "summary": "പുതിയ ലോകങ്ങളെ കണ്ടെത്താം – Kerala Science Slam LUCA Science Magazine",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9zUmZfekxYZ2JDUnRrcjZRakRRZDN1dmhiQkdwN2RRX21rWWZFdnZmOFRwOXgyS0tEZEI0MERxX1psTFRIdU9fZFdMTWkzalJHNUU3LWlnMmVGOXFr?oc=5",
+      "source": "LUCA Science Magazine",
+      "category": "general",
+      "published_at": "2025-03-15T03:42:23+00:00",
+      "importance": 1,
+      "personal_score": 1.25,
+      "entities": [
+        "പുതിയ",
+        "ലോകങ്ങളെ",
+        "കണ്ടെത്താം",
+        "Kerala Science Slam",
+        "LUCA Science Magazine",
+        "Kerala Science Slam LUCA",
+        "Science Magazine"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
       "id": "be6c635e1a9520a6",
       "title": "KERALA SCIENCE SLAM’ 24 - LUCA Science Magazine",
       "summary": "KERALA SCIENCE SLAM’ 24 LUCA Science Magazine",
@@ -1176,40 +1165,6 @@
       "summary_method": "tfidf_extractive_full_article"
     },
     {
-      "id": "7d4bf51a1ad24635",
-      "title": "Falling fertility rate makes two-child penalties outdated in India, says Supreme Court",
-      "summary": "Mohana refused to interfere with the Allahabad High Court judgment upholding Section 9(1)(c) of the Delimitation Act, 2002 Supreme Court rejects plea for rotation of SC/ST-reserved seats in Parliament, Assemblies storyline 1 The court said its 2003 judgment (in Javed versus State of Haryana) which upheld such penal laws, needed a revisit by a larger Bench. Rather than society and the courts being concerned about the negative consequences of high population, it should instead focus on the need to encourage a healthy growth of population,” the judgment, by a Bench comprising Justice Alok Aradhe, said. Supreme Court upholds States’ power to levy additional sales tax, says case has become academic Supreme Court upholds States’ power to levy additional sales tax, says case has become academic The seven-judge Bench, led by CJI Surya Kant, said the reference in the Orissa Sales Tax Act case no longer requires adjudication since the challenged provisions have been amended and GST governs the issue moving forward Supreme Court upholds States’ power to levy additional sales tax, says case has become academic storyline 1 India’s falling fertility rate, the court said, would necessarily mean a smaller proportion of younger persons in the future, and, correspondingly, a larger ageing population. The judgment was based on a petition filed by Mangala Bhimrao Ingle, whose election as Sarpanch of the Kakoda gram panchayat in Maharashtra was set aside on the ground that she had more than two children.",
-      "url": "https://www.thehindu.com/news/national/rolling-effect-of-decelerating-population-growth-very-hard-to-reverse-supreme-court/article71666136.ece",
-      "source": "The Hindu Science and Technology",
-      "category": "tech",
-      "published_at": "2026-11-05T04:38:08+00:00",
-      "importance": 10,
-      "personal_score": 10.0,
-      "entities": [
-        "Falling",
-        "Supreme Court",
-        "Bench"
-      ],
-      "summary_method": "tfidf_extractive_full_article"
-    },
-    {
-      "id": "3685346bf449beff",
-      "title": "A banking malware sample led researchers to an Android bug that can loop-crash phones - Help Net Security",
-      "summary": "A banking malware sample led researchers to an Android bug that can loop-crash phones Help Net Security",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBnYWFCN1FPcFJHZkVtSzl5R01mOUdpNjVhc0J0OEhBalhRWUNlM21LZllOTWQ3MVRwQUlGdHJBZGVhbDVVVS1kM2FRN245N0dsWGxmTDh0TER2Sy1SX0hxQnBuN0NoUzA5dkk0bU1JaXpGQmYwRGVNcmVSTzBUZw?oc=5",
-      "source": "Help Net Security",
-      "category": "tech",
-      "published_at": "2026-11-05T09:00:02+00:00",
-      "importance": 10,
-      "personal_score": 10.0,
-      "entities": [
-        "Android",
-        "Help Net Security A",
-        "Help Net Security"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
       "id": "599bbfe756acbd14",
       "title": "AI Is Finding Software Flaws Faster Than The World Can Fix Them - NDTV",
       "summary": "AI Is Finding Software Flaws Faster Than The World Can Fix Them NDTV",
@@ -1231,21 +1186,36 @@
       "summary_method": "rss_fallback"
     },
     {
-      "id": "638b6c858b9121d6",
-      "title": "The world is waging a “Third World War” through Artificial Intelligence - what role can Egypt play? - Egypt Independent",
-      "summary": "The world is waging a “Third World War” through Artificial Intelligence - what role can Egypt play? Egypt Independent",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPRTRSY1RtcHA3ck5QN01sU1NVOVVLdHVaZU52dWEwNkkyc0g0MzNaV2k1Q25yRmZFeVRVVnphYW5RVDNyaVdocnd6MDhvYldmRmFIVEFHRnloVE9Xc01xX1EyWWxSbE9xQV9NZ2wwVThjQmVkdzQxME5PbURaUjVxNEZ6M0ZhRXN4enBuY29WVGxBQVRUbjZHa2JTcC0xYjcxSjF1cmFYNktLbjBSdE81TXVTczV1Y253dllqZk13MFFBMHZWNFpj?oc=5",
-      "source": "Egypt Independent",
+      "id": "7d4bf51a1ad24635",
+      "title": "Falling fertility rate makes two-child penalties outdated in India, says Supreme Court",
+      "summary": "Mohana refused to interfere with the Allahabad High Court judgment upholding Section 9(1)(c) of the Delimitation Act, 2002 Supreme Court rejects plea for rotation of SC/ST-reserved seats in Parliament, Assemblies storyline 1 The court said its 2003 judgment (in Javed versus State of Haryana) which upheld such penal laws, needed a revisit by a larger Bench. Rather than society and the courts being concerned about the negative consequences of high population, it should instead focus on the need to encourage a healthy growth of population,” the judgment, by a Bench comprising Justice Alok Aradhe, said. Supreme Court upholds States’ power to levy additional sales tax, says case has become academic Supreme Court upholds States’ power to levy additional sales tax, says case has become academic The seven-judge Bench, led by CJI Surya Kant, said the reference in the Orissa Sales Tax Act case no longer requires adjudication since the challenged provisions have been amended and GST governs the issue moving forward Supreme Court upholds States’ power to levy additional sales tax, says case has become academic storyline 1 India’s falling fertility rate, the court said, would necessarily mean a smaller proportion of younger persons in the future, and, correspondingly, a larger ageing population. The judgment was based on a petition filed by Mangala Bhimrao Ingle, whose election as Sarpanch of the Kakoda gram panchayat in Maharashtra was set aside on the ground that she had more than two children.",
+      "url": "https://www.thehindu.com/news/national/rolling-effect-of-decelerating-population-growth-very-hard-to-reverse-supreme-court/article71666136.ece",
+      "source": "The Hindu Science and Technology",
       "category": "tech",
-      "published_at": "2026-11-05T13:37:04+00:00",
+      "published_at": "2026-11-05T04:38:08+00:00",
       "importance": 10,
       "personal_score": 10.0,
       "entities": [
-        "Third World War",
-        "Artificial Intelligence",
-        "Egypt",
-        "Egypt Independent The",
-        "Egypt Independent"
+        "Falling",
+        "Supreme Court",
+        "Bench"
+      ],
+      "summary_method": "tfidf_extractive_full_article"
+    },
+    {
+      "id": "a7dcaac30a52529f",
+      "title": "Artificial intelligence points researchers toward new disease targets hidden in mitochondria - AgriLife Today",
+      "summary": "Artificial intelligence points researchers toward new disease targets hidden in mitochondria AgriLife Today",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNMVJpd2hYUmNnOEFET2U1cjBuTzJWSWZVNy0yLWRYMlhDYWFSLVFOa2VHQWFpYUl4UHRnOE1OOURPMEJPWFVScVQ5ckZTNFZQM1ZSMzFXMnJiY0FmdnhFejNOblYzcklhc2hkUTF5cUNwcUlYY25xU1h0eFdxRkZ5MEJEeG5Mc3gxRmx1aDhlZDFVUjBvYVNCTFJHNTN4d0RDYzNaT0t2QW5MdVhRVVVJcWd5eFhQa2N0blFTY0pYeTh0Ulg5NzJENXpKYVhQaWJx?oc=5",
+      "source": "AgriLife Today",
+      "category": "tech",
+      "published_at": "2026-11-05T23:02:49+00:00",
+      "importance": 10,
+      "personal_score": 10.0,
+      "entities": [
+        "Artificial",
+        "AgriLife Today Artificial",
+        "AgriLife Today"
       ],
       "summary_method": "rss_fallback"
     },
@@ -1269,27 +1239,6 @@
         "National Disaster Management Authority"
       ],
       "summary_method": "tfidf_extractive_full_article"
-    },
-    {
-      "id": "e14a255f24051e70",
-      "title": "Hackers Exploit Patched Apple Flaw to Deliver Info-Stealing Malware, CISA Says - The Hacker News",
-      "summary": "Hackers Exploit Patched Apple Flaw to Deliver Info-Stealing Malware, CISA Says The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZW9MSWxjSU82aFpyV1QwZDZQQzNzdTIxT0Y2aUZOOE5hTGJ2REhkbVlNQzFmckFMZzlSVnRPR2d1RmVrRGNlcE1PQmVUaFJBcF9yTnZYYUFiV181OVQ1czl2Q21USjlncXRsWEszM2NmWDRpeFd1OWwxNlRFMzVkNHB3?oc=5",
-      "source": "The Hacker News",
-      "category": "tech",
-      "published_at": "2026-11-05T05:17:00+00:00",
-      "importance": 9,
-      "personal_score": 9.0,
-      "entities": [
-        "Hackers Exploit Patched Apple",
-        "Flaw",
-        "Deliver Info-Stealing Malware",
-        "CISA Says",
-        "The Hacker News Hackers",
-        "Exploit Patched Apple Flaw",
-        "CISA Says The Hacker"
-      ],
-      "summary_method": "rss_fallback"
     },
     {
       "id": "0ad8f34efc109789",
@@ -1334,7 +1283,7 @@
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMVZpVGtPMUdDSU1NQXVvRS0wNE11U2FPVzZsMUlSQWpEUkNCVS1WSTUzekdZQ0xid0N3S3FURFI0Z3NzMFMtbkVpczVLY1cwNkRqR3hpSVF1Z3lXSDdDbnJPVzRzaXBPamg0emJGUmpMUDFhNTExcjJYM2RHUGxBcllIRmdrQml5djVoRQ?oc=5",
       "source": "Cybersecurity Dive",
       "category": "tech",
-      "published_at": "2026-11-05T16:30:15+00:00",
+      "published_at": "2026-11-05T21:37:56+00:00",
       "importance": 9,
       "personal_score": 9.0,
       "entities": [
@@ -1345,78 +1294,22 @@
       "summary_method": "rss_fallback"
     },
     {
-      "id": "2f2a74085af343ee",
-      "title": "Climate change increased tropical Cyclone Arnab’s damage by 33%: Study",
-      "summary": "New Delhi Climate change increased the damage caused by the tropical Cyclone Arnab, which struck eastern India on October 28, by 33%, resulting in tens of millions of dollars in additional direct economic losses compared to a pre-industrial climate baseline, according to a new study. Cyclone Arnab batters east coast: 5 dead in Andhra Pradesh, 17 Odisha districts affected Cyclone Arnab batters east coast: 5 dead in Andhra Pradesh, 17 Odisha districts affected Very Severe Cyclonic Storm Arnab crossed the Andhra Pradesh coast early Wednesday, claiming five lives in north Andhra Pradesh and leaving 17 districts in Odisha battered by torrential rain, widespread crop damage, and extensive flooding. Central teams assess cyclone Arnab damage in East Godavari, Konaseema as Naidu seeks ₹4,600 crore in relief Central teams assess cyclone Arnab damage in East Godavari, Konaseema as Naidu seeks ₹4,600 crore in relief Two Inter-Ministerial Central teams inspect damage to crops, houses, public infrastructure and fishing assets in the two districts; West Godavari reports extensive paddy, aquaculture and fishing boat losses Central teams assess cyclone Arnab damage in East Godavari, Konaseema as Naidu seeks ₹4,600 crore in relief storyline 1 “Climate change increased Cyclone Arnab’s maximum wind speed by approximately 5%, and intensified its eyewall rainfall rate by 11% at landfall,” according to the study. As climate change threatens to bring increasingly intense cyclones and other natural disasters, will India’s current disaster management programme be able to handle the social and economic costs I?n this episode, Sonikka Loganathan speaks to Safi Ahsan Rizvi, former Adviser to the National Disaster Management Authority, about what goes into disaster management, the costs to the economy and vulnerable populations, and how India has improved its strategy since 1999.",
-      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/climate-change-increased-tropical-cyclone-arnabs-damage-by-33-study/article71669447.ece",
-      "source": "The Hindu Science and Technology",
+      "id": "d2c4360f3b11b79a",
+      "title": "Congresswoman calls for artificial superintelligence ban after Democrats' seismic midterm sweep — demands regulation of 'out of control' industry and pause on advanced AI - Tom's Hardware",
+      "summary": "Congresswoman calls for artificial superintelligence ban after Democrats' seismic midterm sweep — demands regulation of 'out of control' industry and pause on advanced AI Tom's Hardware",
+      "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxPWG9WZEdKLTRqb3hpWkpMWG8wbWp6Ry1QX01xTmF1RFJta2VqRTdZWHlDc2VucElHYTZid3k5Q3JkN1dQQ3RvbkhCc2p6c0lvWXA2RkdfbkNmNmtBZ2c2N0hVOS1Xc0tBaTJRWHJuR2E4T2dxSEhKbzBNZEczSVhyN2ZtNzZSR0NPMTlIcW1TMkVDa09xbWxfYVRKTVd3andabHpKQWVialNuTFlIMkpCMERPT1h6dHpRaWEzLXptWW9zTmlZbVVOZjZ0alpuSHVjQldCUGNTelhjOXNISG5EQVJRRVNZc0tBQndIOUtKV3ZSeEdkZWkwNGdmY204SkJkZ2Q0Wks4TVNxR0JnUzRJUE5ubEZLNjZTZTNkdDVEcFBfc1BMRC14UmdNaTI0bENuZk5kd0p2THNYckNCdEZoZFhLS3gyZmJrNTNKQzdiR1hVQQ?oc=5",
+      "source": "Tom's Hardware",
       "category": "tech",
-      "published_at": "2026-11-05T10:45:49+00:00",
-      "importance": 9,
-      "personal_score": 9.0,
-      "entities": [
-        "Climate",
-        "Cyclone Arnab",
-        "Study"
-      ],
-      "summary_method": "tfidf_extractive_full_article"
-    },
-    {
-      "id": "70d671d6f071413c",
-      "title": "UK offshore wind software firm Kinewell secures funds for growth - Renewables Now",
-      "summary": "UK offshore wind software firm Kinewell secures funds for growth Renewables Now",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVEpwSmtGcnJBdG1RSllGUlItbENBZFN3QzhGeHdRdGc0SVY0b1ZJY2lWMGc4ZnRaOGc5eHpXcUVaWHFWS1lZWnRHMnJ1M2JfRWRKYXUzamtVQ0JieEJWOUx5bGI0b2tSMGt4YXItOVVDVkw0Y3I4Q25TU19IOURpaElNc1dxRUtEUDc3QkxaaE5sWmtlSUs1NUxSdDFxclprd0M5WWw4UQ?oc=5",
-      "source": "Renewables Now",
-      "category": "tech",
-      "published_at": "2026-11-05T11:56:50+00:00",
+      "published_at": "2026-11-05T13:30:16+00:00",
       "importance": 8,
       "personal_score": 8.0,
       "entities": [
-        "Kinewell",
-        "Renewables Now UK",
-        "Renewables Now"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
-      "id": "6e7155e8275e1eac",
-      "title": "Hexaware Secures Five-Year AI Innovation Partnership with European Bank for Reconstruction and Development - FF News",
-      "summary": "Hexaware Secures Five-Year AI Innovation Partnership with European Bank for Reconstruction and Development FF News",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQmJoNVJMc1RmSWt5ODB2bmpqdWtSZ1daVmtwbjBBOHJUWkFIV3N3WkNOQkRiSV9LaDJzajlMNU1LbUFfLWJObmNsSTFLbWNfOWVEdHhFZmNNSHZfUmxaZExJazFOMU1tTnJma3Bfcm0yRDRQRDhtaFFXOHBGTXZnYVJJbW9sQk1YRGlqODlkNkdMcXYxMERUZHVnYzRURmUzREE?oc=5",
-      "source": "FF News",
-      "category": "tech",
-      "published_at": "2026-11-05T16:30:00+00:00",
-      "importance": 8,
-      "personal_score": 8.0,
-      "entities": [
-        "Hexaware Secures Five-Year AI",
-        "Innovation Partnership",
-        "European Bank",
-        "Reconstruction",
-        "Development",
-        "FF News Hexaware Secures",
-        "Five-Year AI Innovation Partnership",
-        "Development FF News"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
-      "id": "3088394c9afe3af5",
-      "title": "OpenAI’s Pierre Acquisition Signals a New Era for Supply Chain Software Development - Logistics Viewpoints",
-      "summary": "OpenAI’s Pierre Acquisition Signals a New Era for Supply Chain Software Development Logistics Viewpoints",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRXoyOGE1akhvYVlrLWJiQ0cxWWd0cE1NdFVUYWJQVGNNRGwwQ0lVYjFKYkVHcUQzdXB2dUlEcDR4d09zbHVob2NyMWtKZlQzd3QzbmRpRkhWY0FxM0JqVkZCOEFaTmpPSFZ4dVN4ZGhLVkNUT2VsMmVrSDVRSGlzaEE0QzN3UmdmRXR1VG1ZNnByc0w1ajZtdWhnYWJyNTRsRndPYVVabk5UZU9uSU5aUTFlYXh4TXpxY2haTEhkcmpKUDRG?oc=5",
-      "source": "Logistics Viewpoints",
-      "category": "tech",
-      "published_at": "2026-11-05T12:08:18+00:00",
-      "importance": 8,
-      "personal_score": 8.0,
-      "entities": [
-        "OpenAI",
-        "Pierre Acquisition Signals",
-        "New Era",
-        "Supply Chain Software Development",
-        "Logistics Viewpoints OpenAI",
-        "Logistics Viewpoints"
+        "Congresswoman",
+        "Democrats",
+        "Tom",
+        "Hardware Congresswoman",
+        "AI Tom",
+        "Hardware"
       ],
       "summary_method": "rss_fallback"
     },
@@ -1434,6 +1327,160 @@
         "Essential Test Management Strategies",
         "Modern Software Development Teams",
         "Analytics Insight"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
+      "id": "8e1c503e407bd9d6",
+      "title": "OpenAI says its AI pipeline found, patched 948 Linux security flaws in hours - The Indian Express",
+      "summary": "OpenAI says its AI pipeline found, patched 948 Linux security flaws in hours The Indian Express",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQMnNRWDh1WWg5Sjg5WnItMnpCUWdTeGFxUDRoMklhTXV6OGJzRHh1VmZVNXJTQU95NjI1Y1ZUZlBtOWNQOXdaODBPM1doV1B4V1hYejF3VUZwQzFmcDAzMXdvTDlnMElUbzBXOENxWHVnVTJQQ3FlU2w2MEVQYnlIV3Z0YnYyQ1dvNnJNc04wcFBFbWNTOU1qOXE5eURhQkNYU0pUcWthcWNHTVBHZU9OUXJ2RnRwcVI5SkJlNVdQTjhlRVBaYmVWa2d6R2h1ZFHSAdYBQVVfeXFMTlpQUXl2NHJlelpVZy1Iekw0ZFJjNi1aaldXdUU2bldPZnRGenpBU1F2VzBEOTlQVnRGdXlmSm5wUjUtTGh6VzBtNGR4WUFZa3dHQ0Y3SGxrbUxob2x4bFlqSHlhZTJZMDZ3NDh6dmdGMXVPVHVzX3FnWGsyX20xWHVsTndiYkVSZ2JMY2NHb0xTQlFNZ2tHU0xEdFo3ZFp1ejdsUTNFaVNWRlN1bWZLeHNEdGo4dmZuRGxtU3lFWXlXR2ltTGoxeS1lOW0wdmxoOXlBYy1ndw?oc=5",
+      "source": "The Indian Express",
+      "category": "tech",
+      "published_at": "2026-11-05T18:38:00+00:00",
+      "importance": 8,
+      "personal_score": 8.0,
+      "entities": [
+        "OpenAI",
+        "Linux",
+        "The Indian Express OpenAI",
+        "The Indian Express"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
+      "id": "20ad661a36464856",
+      "title": "Your carrier's preinstalled bloatware may be slowing your Android phone down - How-To Geek",
+      "summary": "Your carrier's preinstalled bloatware may be slowing your Android phone down How-To Geek",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQ2szNU1OMjRHWE8zRTdOOEZHQnJ4Z29KdzN6QkM3ZmNhdC1LSTZWR0xrWUw4R3ZtUjRxdTV4THFaRVpYODZndmFjTzl6dmVpWmZtS3VsWmdlRUNYZll6dW4yc0M2TUZoWFFwWkpNTngtc1REZGdxZHBzeUVaYnZ1bkJ4VHFUejlxampIaWN5SlQ5SXFHZEN3QU5CREFFXzFT?oc=5",
+      "source": "How-To Geek",
+      "category": "tech",
+      "published_at": "2026-11-05T21:30:15+00:00",
+      "importance": 8,
+      "personal_score": 8.0,
+      "entities": [
+        "Your",
+        "Android",
+        "How-To Geek Your",
+        "How-To Geek"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
+      "id": "fdda7ac44a4381ee",
+      "title": "Attacker abuses Microsoft Entra ID to target downstream MSP clients - Cybersecurity Dive",
+      "summary": "Attacker abuses Microsoft Entra ID to target downstream MSP clients Cybersecurity Dive",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPclFrMGlHdG9TZGJPSFVodktDclRaRElTcnNQM0JjdFN6cU5rWU1Edk9Xa3g0dE5CeENwYnoyODJHcm1scG5ONkRKM0Y5VXdoanpRT0pWR1hoM1lkNENsMndPSDVZSEstRlFxVHNrZGVPenBfV0xGQzdBWEk5WDQ1US1ORS1waHNjVThqd0l0MzFNS2M?oc=5",
+      "source": "Cybersecurity Dive",
+      "category": "tech",
+      "published_at": "2026-11-04T20:59:34+00:00",
+      "importance": 8,
+      "personal_score": 8.0,
+      "entities": [
+        "Attacker",
+        "Microsoft Entra ID",
+        "MSP",
+        "Cybersecurity Dive Attacker",
+        "Cybersecurity Dive"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
+      "id": "168ddb1f183c9fed",
+      "title": "When Use of Artificial Intelligence Conflicts With Employees’ Sincerely Held Religious Beliefs (US) - Employment Law Worldview",
+      "summary": "When Use of Artificial Intelligence Conflicts With Employees’ Sincerely Held Religious Beliefs (US) Employment Law Worldview",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNTU5Jb0Jta1hQdDNxTmtGc3ZBN0FfNmJDX3g5SGFFa1Z6c0hmUEh1WGVIeXRvaHFLS0sxNHJrcm9CWjU5UG1tWTNiQXU5U1Zsemh2SVA2dGFyX05WamtneC1JMGh0MkdlaDJHU0EzbnFFQWh4U2JwUGlnYnZBdWVBT0JRZzhUd1VRRjlfT2dqSjc2VFZfRzlGdEd1QmpmejhtLXBtZHhZNVk4MTlCOHdFY2RmV2dhQUJaV3JxTG9VZjZLTjV2eEsyTkRrdU5BaVBnU2c?oc=5",
+      "source": "Employment Law Worldview",
+      "category": "tech",
+      "published_at": "2026-11-05T17:37:53+00:00",
+      "importance": 8,
+      "personal_score": 8.0,
+      "entities": [
+        "When Use",
+        "Artificial Intelligence Conflicts With",
+        "Employees",
+        "Sincerely Held Religious Beliefs",
+        "Employment Law Worldview When",
+        "Use",
+        "Employment Law Worldview"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
+      "id": "2f2a74085af343ee",
+      "title": "Climate change increased tropical Cyclone Arnab’s damage by 33%: Study",
+      "summary": "New Delhi Climate change increased the damage caused by the tropical Cyclone Arnab, which struck eastern India on October 28, by 33%, resulting in tens of millions of dollars in additional direct economic losses compared to a pre-industrial climate baseline, according to a new study. Cyclone Arnab batters east coast: 5 dead in Andhra Pradesh, 17 Odisha districts affected Cyclone Arnab batters east coast: 5 dead in Andhra Pradesh, 17 Odisha districts affected Very Severe Cyclonic Storm Arnab crossed the Andhra Pradesh coast early Wednesday, claiming five lives in north Andhra Pradesh and leaving 17 districts in Odisha battered by torrential rain, widespread crop damage, and extensive flooding. Central teams assess cyclone Arnab damage in East Godavari, Konaseema as Naidu seeks ₹4,600 crore in relief Central teams assess cyclone Arnab damage in East Godavari, Konaseema as Naidu seeks ₹4,600 crore in relief Two Inter-Ministerial Central teams inspect damage to crops, houses, public infrastructure and fishing assets in the two districts; West Godavari reports extensive paddy, aquaculture and fishing boat losses Central teams assess cyclone Arnab damage in East Godavari, Konaseema as Naidu seeks ₹4,600 crore in relief storyline 1 “Climate change increased Cyclone Arnab’s maximum wind speed by approximately 5%, and intensified its eyewall rainfall rate by 11% at landfall,” according to the study. As climate change threatens to bring increasingly intense cyclones and other natural disasters, will India’s current disaster management programme be able to handle the social and economic costs I?n this episode, Sonikka Loganathan speaks to Safi Ahsan Rizvi, former Adviser to the National Disaster Management Authority, about what goes into disaster management, the costs to the economy and vulnerable populations, and how India has improved its strategy since 1999.",
+      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/climate-change-increased-tropical-cyclone-arnabs-damage-by-33-study/article71669447.ece",
+      "source": "The Hindu Science and Technology",
+      "category": "tech",
+      "published_at": "2026-11-05T10:45:49+00:00",
+      "importance": 8,
+      "personal_score": 8.0,
+      "entities": [
+        "Climate",
+        "Cyclone Arnab",
+        "Study"
+      ],
+      "summary_method": "tfidf_extractive_full_article"
+    },
+    {
+      "id": "bd9515235e681d58",
+      "title": "What is open-source AI? A software engineering researcher explains - The Conversation",
+      "summary": "What is open-source AI? A software engineering researcher explains The Conversation",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOM3Y4U2t5T2I0cDVaYzM1eHBxZ2RHZVV5SzR3bHR0WkFPLXFzMWRDSW40TW4tdEJ0S3BwVkkxVkZsMko1RTd0NTVsRlJmVjZOaDluS3UtVV9TRG82ZVNUQkhNT3RCTF9vUFhIaEozMXhPNGhjb3QyX0p1bGhobXlONEZXYkdXdkZnN1hXZUprMk9vUE54UzlZaWZwOXJLNEpUV3c?oc=5",
+      "source": "The Conversation",
+      "category": "tech",
+      "published_at": "2026-07-23T07:00:00+00:00",
+      "importance": 8,
+      "personal_score": 8.0,
+      "entities": [
+        "What",
+        "The Conversation What",
+        "The Conversation"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
+      "id": "6e7155e8275e1eac",
+      "title": "Hexaware Secures Five-Year AI Innovation Partnership with European Bank for Reconstruction and Development - FF News",
+      "summary": "Hexaware Secures Five-Year AI Innovation Partnership with European Bank for Reconstruction and Development FF News",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQmJoNVJMc1RmSWt5ODB2bmpqdWtSZ1daVmtwbjBBOHJUWkFIV3N3WkNOQkRiSV9LaDJzajlMNU1LbUFfLWJObmNsSTFLbWNfOWVEdHhFZmNNSHZfUmxaZExJazFOMU1tTnJma3Bfcm0yRDRQRDhtaFFXOHBGTXZnYVJJbW9sQk1YRGlqODlkNkdMcXYxMERUZHVnYzRURmUzREE?oc=5",
+      "source": "FF News",
+      "category": "tech",
+      "published_at": "2026-11-05T16:33:06+00:00",
+      "importance": 8,
+      "personal_score": 8.0,
+      "entities": [
+        "Hexaware Secures Five-Year AI",
+        "Innovation Partnership",
+        "European Bank",
+        "Reconstruction",
+        "Development",
+        "FF News Hexaware Secures",
+        "Five-Year AI Innovation Partnership",
+        "Development FF News"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
+      "id": "cb543422d6321b09",
+      "title": "Blitzy Announces Collaboration with Microsoft to Accelerate Legacy Modernization and Software Development at Scale - SD Times",
+      "summary": "Blitzy Announces Collaboration with Microsoft to Accelerate Legacy Modernization and Software Development at Scale SD Times",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQNDJha0RlQm1lS1hXdnl3bnYtX1VIMFRZUlNiS2VKaEd5NFB2SkN4ZF9TekxNemNUdUFnOUhvVWVTcXp6Q1RFWnphZzRlOWhjT3R0NWM2Mk5XSFFUdmFlNm9wT3AwMHE5Y0QyYUhscDE0dzhJT2pYNk1EU1NrNDZKWm5TYmNTdGhvN28yaEc5Yld1bGJsUGZiU3ZoQnUtTmNXVm1YTlVOazFiM2JJUFNhUnh4SG94M2tlZ25iMFd6TEhFWTBwMHh3R3ltMGRIakd0OHhlcW1QT0pJUm4yakRYdmtReEpMVWRiLW9iRDNlcw?oc=5",
+      "source": "SD Times",
+      "category": "tech",
+      "published_at": "2026-11-05T16:11:58+00:00",
+      "importance": 8,
+      "personal_score": 8.0,
+      "entities": [
+        "Blitzy Announces Collaboration",
+        "Microsoft",
+        "Accelerate Legacy Modernization",
+        "Software Development",
+        "Scale",
+        "SD Times Blitzy Announces",
+        "Collaboration",
+        "Scale SD Times"
       ],
       "summary_method": "rss_fallback"
     },
@@ -1460,155 +1507,37 @@
       "summary_method": "rss_fallback"
     },
     {
-      "id": "2d66991b4547e461",
-      "title": "Sasken Selected to Support Strategic Connectivity Platform Programme with Leading European Automotive Software Company - The Tribune",
-      "summary": "Sasken Selected to Support Strategic Connectivity Platform Programme with Leading European Automotive Software Company The Tribune",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPWnVibEJ5bzB5T3VFRnhXbkJzZmdQdnozUThhZ0FOdzMxMGdTQ1V5cjBHNndZYlFkbGxwazF4R0ExcHRCQW8tYUU2RkZzdHNmWmtzY25fYzhPaHY2TzNKNC1IYlplYU04bTdLZ0NQTk9YZUZYSERPU1BvT19HbTdvcHZ0YnNBenFWY1A4WVBEdFpDaUtIOEdHUGhaa1dEWjlBSkpZZlIwTHpkcUlQNG8yaTRtOVFQS29TV19EbVhTTVVKXzBrNG1wb3IydVF3MEZGWEVHSjRfdVBJV2Q2TGZWUXhvOU9aaGV4bGhxUkE4V3dpZlJXeWhEOVRR0gH-AUFVX3lxTE14WVRRVnI1Q3ZabEM2NFV6OGtFWGpMWVRoOFNlcExubTNabFV3NTlaU05IaEJsYUZxdWFwbDUwLUFmNXFyQm9nMTY0T3ZVT0lWbk9sYmc4Sk1BMlBiaU56VFM5QktZSjA4ckdwN211YkliRDROV1JjM3daX2o2NHlsSmcwcE1SY09MMGtkeVNFNGtTTUh3eW5zRWZMU01QNllSLUkxR1FSNEJ3X2Znc0pRZmNEUGZlaXhKZXNtNVQyVUUxVTNoVERTYzRPVzFKT1d5SnFuTXFLZUpNVWdLTmVXTW5IcUdVd0htTW8tRm1kNFlmUEdjZkQxVXBhbzRB?oc=5",
-      "source": "The Tribune",
+      "id": "70d671d6f071413c",
+      "title": "UK offshore wind software firm Kinewell secures funds for growth - Renewables Now",
+      "summary": "UK offshore wind software firm Kinewell secures funds for growth Renewables Now",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVEpwSmtGcnJBdG1RSllGUlItbENBZFN3QzhGeHdRdGc0SVY0b1ZJY2lWMGc4ZnRaOGc5eHpXcUVaWHFWS1lZWnRHMnJ1M2JfRWRKYXUzamtVQ0JieEJWOUx5bGI0b2tSMGt4YXItOVVDVkw0Y3I4Q25TU19IOURpaElNc1dxRUtEUDc3QkxaaE5sWmtlSUs1NUxSdDFxclprd0M5WWw4UQ?oc=5",
+      "source": "Renewables Now",
       "category": "tech",
-      "published_at": "2026-11-05T12:10:32+00:00",
-      "importance": 8,
-      "personal_score": 8.0,
-      "entities": [
-        "Sasken Selected",
-        "Support Strategic Connectivity Platform",
-        "Programme",
-        "Leading European Automotive Software",
-        "Company",
-        "The Tribune Sasken Selected",
-        "Company The Tribune"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
-      "id": "168ddb1f183c9fed",
-      "title": "When Use of Artificial Intelligence Conflicts With Employees’ Sincerely Held Religious Beliefs (US) - Employment Law Worldview",
-      "summary": "When Use of Artificial Intelligence Conflicts With Employees’ Sincerely Held Religious Beliefs (US) Employment Law Worldview",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNTU5Jb0Jta1hQdDNxTmtGc3ZBN0FfNmJDX3g5SGFFa1Z6c0hmUEh1WGVIeXRvaHFLS0sxNHJrcm9CWjU5UG1tWTNiQXU5U1Zsemh2SVA2dGFyX05WamtneC1JMGh0MkdlaDJHU0EzbnFFQWh4U2JwUGlnYnZBdWVBT0JRZzhUd1VRRjlfT2dqSjc2VFZfRzlGdEd1QmpmejhtLXBtZHhZNVk4MTlCOHdFY2RmV2dhQUJaV3JxTG9VZjZLTjV2eEsyTkRrdU5BaVBnU2c?oc=5",
-      "source": "Employment Law Worldview",
-      "category": "tech",
-      "published_at": "2026-11-05T17:37:53+00:00",
-      "importance": 8,
-      "personal_score": 8.0,
-      "entities": [
-        "When Use",
-        "Artificial Intelligence Conflicts With",
-        "Employees",
-        "Sincerely Held Religious Beliefs",
-        "Employment Law Worldview When",
-        "Use",
-        "Employment Law Worldview"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
-      "id": "8e1c503e407bd9d6",
-      "title": "OpenAI says its AI pipeline found, patched 948 Linux security flaws in hours - The Indian Express",
-      "summary": "OpenAI says its AI pipeline found, patched 948 Linux security flaws in hours The Indian Express",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQMnNRWDh1WWg5Sjg5WnItMnpCUWdTeGFxUDRoMklhTXV6OGJzRHh1VmZVNXJTQU95NjI1Y1ZUZlBtOWNQOXdaODBPM1doV1B4V1hYejF3VUZwQzFmcDAzMXdvTDlnMElUbzBXOENxWHVnVTJQQ3FlU2w2MEVQYnlIV3Z0YnYyQ1dvNnJNc04wcFBFbWNTOU1qOXE5eURhQkNYU0pUcWthcWNHTVBHZU9OUXJ2RnRwcVI5SkJlNVdQTjhlRVBaYmVWa2d6R2h1ZFHSAdYBQVVfeXFMTlpQUXl2NHJlelpVZy1Iekw0ZFJjNi1aaldXdUU2bldPZnRGenpBU1F2VzBEOTlQVnRGdXlmSm5wUjUtTGh6VzBtNGR4WUFZa3dHQ0Y3SGxrbUxob2x4bFlqSHlhZTJZMDZ3NDh6dmdGMXVPVHVzX3FnWGsyX20xWHVsTndiYkVSZ2JMY2NHb0xTQlFNZ2tHU0xEdFo3ZFp1ejdsUTNFaVNWRlN1bWZLeHNEdGo4dmZuRGxtU3lFWXlXR2ltTGoxeS1lOW0wdmxoOXlBYy1ndw?oc=5",
-      "source": "The Indian Express",
-      "category": "tech",
-      "published_at": "2026-11-05T18:38:00+00:00",
-      "importance": 8,
-      "personal_score": 8.0,
-      "entities": [
-        "OpenAI",
-        "Linux",
-        "The Indian Express OpenAI",
-        "The Indian Express"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
-      "id": "fdda7ac44a4381ee",
-      "title": "Attacker abuses Microsoft Entra ID to target downstream MSP clients - Cybersecurity Dive",
-      "summary": "Attacker abuses Microsoft Entra ID to target downstream MSP clients Cybersecurity Dive",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPclFrMGlHdG9TZGJPSFVodktDclRaRElTcnNQM0JjdFN6cU5rWU1Edk9Xa3g0dE5CeENwYnoyODJHcm1scG5ONkRKM0Y5VXdoanpRT0pWR1hoM1lkNENsMndPSDVZSEstRlFxVHNrZGVPenBfV0xGQzdBWEk5WDQ1US1ORS1waHNjVThqd0l0MzFNS2M?oc=5",
-      "source": "Cybersecurity Dive",
-      "category": "tech",
-      "published_at": "2026-11-04T20:59:34+00:00",
-      "importance": 8,
-      "personal_score": 8.0,
-      "entities": [
-        "Attacker",
-        "Microsoft Entra ID",
-        "MSP",
-        "Cybersecurity Dive Attacker",
-        "Cybersecurity Dive"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
-      "id": "99269b28d0c8e164",
-      "title": "DevSparks 2026 heads to Delhi to explore agentic AI and the future of software development - YourStory.com",
-      "summary": "DevSparks 2026 heads to Delhi to explore agentic AI and the future of software development YourStory.com",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUzBSMUNzcjlOdlBkZHV1cmZqbDZIWHNfdklsMmpPZGUxakV2bERVTFNRRTM4elc4dzBkcnpEdVQ1VEtpY3F3WVlPYkZrZFJFa3pNeGVHMGRhVGZLLWpIcmg5aTQ1UWVURF9HSl96SDQ0WEtQV1BIT1gxOHFzZldfTFhrS29yeUZfY0E?oc=5",
-      "source": "YourStory.com",
-      "category": "tech",
-      "published_at": "2026-11-05T10:40:51+00:00",
-      "importance": 8,
-      "personal_score": 8.0,
-      "entities": [
-        "DevSparks",
-        "Delhi",
-        "YourStory.com DevSparks",
-        "YourStory.com"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
-      "id": "bd9515235e681d58",
-      "title": "What is open-source AI? A software engineering researcher explains - The Conversation",
-      "summary": "What is open-source AI? A software engineering researcher explains The Conversation",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOM3Y4U2t5T2I0cDVaYzM1eHBxZ2RHZVV5SzR3bHR0WkFPLXFzMWRDSW40TW4tdEJ0S3BwVkkxVkZsMko1RTd0NTVsRlJmVjZOaDluS3UtVV9TRG82ZVNUQkhNT3RCTF9vUFhIaEozMXhPNGhjb3QyX0p1bGhobXlONEZXYkdXdkZnN1hXZUprMk9vUE54UzlZaWZwOXJLNEpUV3c?oc=5",
-      "source": "The Conversation",
-      "category": "tech",
-      "published_at": "2026-07-23T07:00:00+00:00",
-      "importance": 8,
-      "personal_score": 8.0,
-      "entities": [
-        "What",
-        "The Conversation What",
-        "The Conversation"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
-      "id": "793c4a0dc3acd519",
-      "title": "Meta acquires Conductor as AI coding shifts toward multi-agent development - InfoWorld",
-      "summary": "Meta acquires Conductor as AI coding shifts toward multi-agent development InfoWorld",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZ2F1YXA0MWRNeWxFOVR1bkUxa2MwYVFwTG4zZ2hhNUhKRVdaWFlUR1pSVUpoZ3p2MHpxa3Z4VUdMMG13VjR0WktFYk1JVWRSeGQ2QWwzMkNzNkpHb3lMTXNVSXh5d19nWmxFSWxPcUlBQnhqaWMza0tLZEhhOWlKaE1LcXFPdy00S1AwVllkNzFiZmxxNHlGdjVZN3FsOWVnQ3N5V1lFbWVCVDZZdXFFcUowVFF4UzlOVkFJMUZB?oc=5",
-      "source": "InfoWorld",
-      "category": "tech",
-      "published_at": "2026-11-05T10:27:37+00:00",
-      "importance": 8,
-      "personal_score": 8.0,
-      "entities": [
-        "Meta",
-        "Conductor",
-        "InfoWorld Meta",
-        "InfoWorld"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
-      "id": "1807de1ae2463aba",
-      "title": "The Growing Need for Auditing AI-Generated Applications in Enterprise Software - Nasscom",
-      "summary": "The Growing Need for Auditing AI-Generated Applications in Enterprise Software Nasscom",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORWlLOUM5eFpUeTVyQmRCZ2c3ODBJbmR4OTltcnctOWpDUHhMWlNsRGpyY0dHa1E0RmRTVFlrNVUxNTVFSzdJdGZNNkt0aUlKRHRGN0VSQ0ZGRnVJelo4aEhjZkRhLTl1WFlaMHRidHR5bUFNVWxHcGlYbnllUXRBeEIxc2FHLTFnaUtIUUpPWDNfcFc4YzFobmN4Rmhxd0xTYmRsUnd4cDBabkFEMGZPNjJxdmtsbno3cEI4LQ?oc=5",
-      "source": "Nasscom",
-      "category": "tech",
-      "published_at": "2026-11-04T11:40:44+00:00",
+      "published_at": "2026-11-05T11:56:50+00:00",
       "importance": 7,
       "personal_score": 7.0,
       "entities": [
-        "The Growing Need",
-        "Auditing AI-Generated Applications",
-        "Enterprise Software",
-        "Nasscom The Growing Need",
-        "Enterprise Software Nasscom"
+        "Kinewell",
+        "Renewables Now UK",
+        "Renewables Now"
       ],
       "summary_method": "rss_fallback"
+    },
+    {
+      "id": "fac52ba29718e579",
+      "title": "Google extends voluntary buyout offers to employees in several countries",
+      "summary": "Google owner Alphabet’s shares plummet on profit miss, ad slowdown Google owner Alphabet’s shares plummet on profit miss, ad slowdown Net profit slid 25 percent from a year earlier to $26.2 billion in the July-to-September period, or $2.12 per share Google owner Alphabet’s shares plummet on profit miss, ad slowdown storyline 1 Reuters could not determine how many employees have accepted the latest round of ‌offers, which had not previously been reported. “This past summer, in June, we expanded this program globally in a few countries to support our important work ahead.” The move comes amid mounting AI spending that has unnerved Wall ​Street and dented Alphabet’s stock ‌price. In Switzerland, where Google employs about 5,000 people and has a major engineering hub in Zurich, three people familiar with the ‌matter said the programme covered multiple divisions but excluded DeepMind. Google parent Alphabet’s shares plunge 12.6% as investors question returns from AI spending Google parent Alphabet’s shares plunge 12.6% as investors question returns from AI spending Company reports 25% revenue growth, but quarterly infrastructure spending crosses $51 billion; lower advertising revenue from AI-powered Search queries adds to concerns Google parent Alphabet’s shares plunge 12.6% as investors question returns from AI spending storyline 1 Employees began leaving in August ​after Google offered voluntary exit packages in the country, the people said.",
+      "url": "https://www.thehindu.com/sci-tech/technology/google-extends-voluntary-buyout-offers-to-employees-in-several-countries/article71668483.ece",
+      "source": "The Hindu Science and Technology",
+      "category": "tech",
+      "published_at": "2026-11-05T04:05:02+00:00",
+      "importance": 7,
+      "personal_score": 7.0,
+      "entities": [
+        "Google",
+        "Alphabet"
+      ],
+      "summary_method": "tfidf_extractive_full_article"
     },
     {
       "id": "029a5f83ac558c1e",
@@ -1648,6 +1577,26 @@
       "summary_method": "tfidf_extractive_full_article"
     },
     {
+      "id": "3088394c9afe3af5",
+      "title": "OpenAI’s Pierre Acquisition Signals a New Era for Supply Chain Software Development - Logistics Viewpoints",
+      "summary": "OpenAI’s Pierre Acquisition Signals a New Era for Supply Chain Software Development Logistics Viewpoints",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRXoyOGE1akhvYVlrLWJiQ0cxWWd0cE1NdFVUYWJQVGNNRGwwQ0lVYjFKYkVHcUQzdXB2dUlEcDR4d09zbHVob2NyMWtKZlQzd3QzbmRpRkhWY0FxM0JqVkZCOEFaTmpPSFZ4dVN4ZGhLVkNUT2VsMmVrSDVRSGlzaEE0QzN3UmdmRXR1VG1ZNnByc0w1ajZtdWhnYWJyNTRsRndPYVVabk5UZU9uSU5aUTFlYXh4TXpxY2haTEhkcmpKUDRG?oc=5",
+      "source": "Logistics Viewpoints",
+      "category": "tech",
+      "published_at": "2026-11-05T12:08:18+00:00",
+      "importance": 7,
+      "personal_score": 7.0,
+      "entities": [
+        "OpenAI",
+        "Pierre Acquisition Signals",
+        "New Era",
+        "Supply Chain Software Development",
+        "Logistics Viewpoints OpenAI",
+        "Logistics Viewpoints"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
       "id": "b8da3a3bdd8a6ef8",
       "title": "OpenAI launches GPT-6 Cyber for security researchers with 'critical' cybersecurity rating - Firstpost",
       "summary": "OpenAI launches GPT-6 Cyber for security researchers with 'critical' cybersecurity rating Firstpost",
@@ -1664,6 +1613,22 @@
         "Firstpost"
       ],
       "summary_method": "rss_fallback"
+    },
+    {
+      "id": "1a1e7e63fd71ebd6",
+      "title": "Google will cut off search access for students at schools that reject AI",
+      "summary": "The Mountain View, California, company has been facing pushback from educators, child development experts and parents over the use of its technology in schools, with the backlash heating up since it announced in August that it had turned on its Gemini chatbot for many K-12 students who use Google Classroom. Google adds Gemini crisis features amid lawsuit over user's death storyline 1 Google sued by Florida family after AI chatbot allegedly led to death Google sued by Florida family after AI chatbot allegedly led to death The case is the latest in a wave of litigation targeting AI companies over chatbot-linked deaths Google sued by Florida family after AI chatbot allegedly led to death storyline 1 “We believe schools should have control over AI in their classrooms and in providing administrators with controls to help them manage their approach,” Chris Phillips, Google’s vice president and general manager of education, said in a blog post. “As the public increasingly pushes back against the use of AI in schools, Google is making clear it will punish those who don’t fall in line.” New York City and Los Angeles, home to the nation's biggest school districts, have issued temporary bans on generative AI tools in elementary and middle schools as they assess AI use and safety and develop policies on its use. The deaths linked to OpenAI’s GPT-4o | Explained The deaths linked to OpenAI’s GPT-4o | Explained Multiple suicides and violent deaths have been linked to an OpenAI model that is no longer accessible, raising questions about how AI companies can be held accountable for fatal product failures in the past The deaths linked to OpenAI’s GPT-4o | Explained storyline 1 Josh Golin, executive director of children's advocacy group Fairplay, said Google's attempt to “strong-arm schools into using its AI products is likely to backfire.” He said Google's technology in schools is not about learning but about “developing lifetime brand loyalty” for its products.",
+      "url": "https://www.thehindu.com/sci-tech/technology/google-will-cut-off-search-access-for-students-at-schools-that-reject-ai/article71663810.ece",
+      "source": "The Hindu Technology",
+      "category": "tech",
+      "published_at": "2026-11-04T03:27:36+00:00",
+      "importance": 7,
+      "personal_score": 7.0,
+      "entities": [
+        "Google",
+        "AI Students"
+      ],
+      "summary_method": "tfidf_extractive_full_article"
     },
     {
       "id": "3fb1016b99947a94",
@@ -1688,22 +1653,6 @@
       "summary_method": "tfidf_extractive_full_article"
     },
     {
-      "id": "1a1e7e63fd71ebd6",
-      "title": "Google will cut off search access for students at schools that reject AI",
-      "summary": "The Mountain View, California, company has been facing pushback from educators, child development experts and parents over the use of its technology in schools, with the backlash heating up since it announced in August that it had turned on its Gemini chatbot for many K-12 students who use Google Classroom. Google adds Gemini crisis features amid lawsuit over user's death storyline 1 Google sued by Florida family after AI chatbot allegedly led to death Google sued by Florida family after AI chatbot allegedly led to death The case is the latest in a wave of litigation targeting AI companies over chatbot-linked deaths Google sued by Florida family after AI chatbot allegedly led to death storyline 1 “We believe schools should have control over AI in their classrooms and in providing administrators with controls to help them manage their approach,” Chris Phillips, Google’s vice president and general manager of education, said in a blog post. “As the public increasingly pushes back against the use of AI in schools, Google is making clear it will punish those who don’t fall in line.” New York City and Los Angeles, home to the nation's biggest school districts, have issued temporary bans on generative AI tools in elementary and middle schools as they assess AI use and safety and develop policies on its use. The deaths linked to OpenAI’s GPT-4o | Explained The deaths linked to OpenAI’s GPT-4o | Explained Multiple suicides and violent deaths have been linked to an OpenAI model that is no longer accessible, raising questions about how AI companies can be held accountable for fatal product failures in the past The deaths linked to OpenAI’s GPT-4o | Explained storyline 1 Josh Golin, executive director of children's advocacy group Fairplay, said Google's attempt to “strong-arm schools into using its AI products is likely to backfire.” He said Google's technology in schools is not about learning but about “developing lifetime brand loyalty” for its products.",
-      "url": "https://www.thehindu.com/sci-tech/technology/google-will-cut-off-search-access-for-students-at-schools-that-reject-ai/article71663810.ece",
-      "source": "The Hindu Technology",
-      "category": "tech",
-      "published_at": "2026-11-04T03:27:36+00:00",
-      "importance": 7,
-      "personal_score": 7.0,
-      "entities": [
-        "Google",
-        "AI Students"
-      ],
-      "summary_method": "tfidf_extractive_full_article"
-    },
-    {
       "id": "b292cda4f27d3852",
       "title": "The Strange Future of AI-Written Software: Do Companies Really Own Their Code? - HackerNoon",
       "summary": "The Strange Future of AI-Written Software: Do Companies Really Own Their Code? HackerNoon",
@@ -1720,6 +1669,101 @@
         "Their Code",
         "HackerNoon The Strange Future",
         "HackerNoon"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
+      "id": "2d66991b4547e461",
+      "title": "Sasken Selected to Support Strategic Connectivity Platform Programme with Leading European Automotive Software Company - The Tribune",
+      "summary": "Sasken Selected to Support Strategic Connectivity Platform Programme with Leading European Automotive Software Company The Tribune",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPWnVibEJ5bzB5T3VFRnhXbkJzZmdQdnozUThhZ0FOdzMxMGdTQ1V5cjBHNndZYlFkbGxwazF4R0ExcHRCQW8tYUU2RkZzdHNmWmtzY25fYzhPaHY2TzNKNC1IYlplYU04bTdLZ0NQTk9YZUZYSERPU1BvT19HbTdvcHZ0YnNBenFWY1A4WVBEdFpDaUtIOEdHUGhaa1dEWjlBSkpZZlIwTHpkcUlQNG8yaTRtOVFQS29TV19EbVhTTVVKXzBrNG1wb3IydVF3MEZGWEVHSjRfdVBJV2Q2TGZWUXhvOU9aaGV4bGhxUkE4V3dpZlJXeWhEOVRR0gH-AUFVX3lxTE14WVRRVnI1Q3ZabEM2NFV6OGtFWGpMWVRoOFNlcExubTNabFV3NTlaU05IaEJsYUZxdWFwbDUwLUFmNXFyQm9nMTY0T3ZVT0lWbk9sYmc4Sk1BMlBiaU56VFM5QktZSjA4ckdwN211YkliRDROV1JjM3daX2o2NHlsSmcwcE1SY09MMGtkeVNFNGtTTUh3eW5zRWZMU01QNllSLUkxR1FSNEJ3X2Znc0pRZmNEUGZlaXhKZXNtNVQyVUUxVTNoVERTYzRPVzFKT1d5SnFuTXFLZUpNVWdLTmVXTW5IcUdVd0htTW8tRm1kNFlmUEdjZkQxVXBhbzRB?oc=5",
+      "source": "The Tribune",
+      "category": "tech",
+      "published_at": "2026-11-05T12:10:32+00:00",
+      "importance": 7,
+      "personal_score": 7.0,
+      "entities": [
+        "Sasken Selected",
+        "Support Strategic Connectivity Platform",
+        "Programme",
+        "Leading European Automotive Software",
+        "Company",
+        "The Tribune Sasken Selected",
+        "Company The Tribune"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
+      "id": "99269b28d0c8e164",
+      "title": "DevSparks 2026 heads to Delhi to explore agentic AI and the future of software development - YourStory.com",
+      "summary": "DevSparks 2026 heads to Delhi to explore agentic AI and the future of software development YourStory.com",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUzBSMUNzcjlOdlBkZHV1cmZqbDZIWHNfdklsMmpPZGUxakV2bERVTFNRRTM4elc4dzBkcnpEdVQ1VEtpY3F3WVlPYkZrZFJFa3pNeGVHMGRhVGZLLWpIcmg5aTQ1UWVURF9HSl96SDQ0WEtQV1BIT1gxOHFzZldfTFhrS29yeUZfY0E?oc=5",
+      "source": "YourStory.com",
+      "category": "tech",
+      "published_at": "2026-11-05T10:40:51+00:00",
+      "importance": 7,
+      "personal_score": 7.0,
+      "entities": [
+        "DevSparks",
+        "Delhi",
+        "YourStory.com DevSparks",
+        "YourStory.com"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
+      "id": "cb437b3b1012d66c",
+      "title": "Connecting artificial intelligence with the tools of astrophysical research - Phys.org",
+      "summary": "Connecting artificial intelligence with the tools of astrophysical research Phys.org",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNallRdlVIcUh5WXhLMFJIQXRkcXJvM2ZrTzdxX2ppRHVwdmJROUVOeE5CeWs2YU8tMkJDYkV3QU50N3VXbXFtcEhLSF9GanRlenJCSXBnREdiZk1QOHFfcEFrbEJndGRXM3E0LVVRY0VBQ1A3V25JTW5rZ2tGU2NXUGtCZ1g?oc=5",
+      "source": "Phys.org",
+      "category": "tech",
+      "published_at": "2026-11-05T22:00:07+00:00",
+      "importance": 7,
+      "personal_score": 7.0,
+      "entities": [
+        "Connecting",
+        "Phys.org Connecting",
+        "Phys.org"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
+      "id": "793c4a0dc3acd519",
+      "title": "Meta acquires Conductor as AI coding shifts toward multi-agent development - InfoWorld",
+      "summary": "Meta acquires Conductor as AI coding shifts toward multi-agent development InfoWorld",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZ2F1YXA0MWRNeWxFOVR1bkUxa2MwYVFwTG4zZ2hhNUhKRVdaWFlUR1pSVUpoZ3p2MHpxa3Z4VUdMMG13VjR0WktFYk1JVWRSeGQ2QWwzMkNzNkpHb3lMTXNVSXh5d19nWmxFSWxPcUlBQnhqaWMza0tLZEhhOWlKaE1LcXFPdy00S1AwVllkNzFiZmxxNHlGdjVZN3FsOWVnQ3N5V1lFbWVCVDZZdXFFcUowVFF4UzlOVkFJMUZB?oc=5",
+      "source": "InfoWorld",
+      "category": "tech",
+      "published_at": "2026-11-05T10:27:37+00:00",
+      "importance": 7,
+      "personal_score": 7.0,
+      "entities": [
+        "Meta",
+        "Conductor",
+        "InfoWorld Meta",
+        "InfoWorld"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
+      "id": "c552f5a42fb9cad7",
+      "title": "Hexaware Selected as Strategic Technology Partner by the European Bank for Reconstruction and Development - TradingView",
+      "summary": "Hexaware Selected as Strategic Technology Partner by the European Bank for Reconstruction and Development TradingView",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPVVdpWDZLNE1xY0FiZ09VUHQ1RGNXUW55YW1YT2RXS3dlWF9zLUpJVzY4Tjc4UjFpdDd3STdhaEh2bV9PNXotdHdQZFVpdkFra29aMk1JS2dHS3UxYjBiT0JMX1RzMFJxdEp4WHlRcUkyWWFEM19MV3dDejFYTjB1d3E1QVVnS19DcWJWZTE5RWF0WTlra2ZCdlFwVE5CRHF0emdQSTVERTRIdnU4eXRfNzFSelo2WXl5c0p4b0IwMWZyazRqV05yai0yUDhXM3p5anZCZk1tWHpPNlg5NjNQYzExdFhVN0ZpTDgyYmJ4RHp2QXhxSFBUUndn?oc=5",
+      "source": "TradingView",
+      "category": "tech",
+      "published_at": "2026-11-05T10:07:00+00:00",
+      "importance": 7,
+      "personal_score": 7.0,
+      "entities": [
+        "Hexaware Selected",
+        "Strategic Technology Partner",
+        "European Bank",
+        "Reconstruction",
+        "Development",
+        "TradingView Hexaware Selected",
+        "Development TradingView"
       ],
       "summary_method": "rss_fallback"
     },
@@ -1775,20 +1819,21 @@
       "summary_method": "tfidf_extractive_full_article"
     },
     {
-      "id": "363ecd192c1d2c03",
-      "title": "OpenAI’s agent uncovers 1K Linux kernel flaws, saving millions of dollars - Cybernews",
-      "summary": "OpenAI’s agent uncovers 1K Linux kernel flaws, saving millions of dollars Cybernews",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNOUNfRFU2VmNzQ1FNY3VCY0dycWU3X1AzT2FRalVMTGEtQ2dpcE1HMDZkWnVkTW9SNlZXUnk4cmNFVUdVQ1VReEtLXzRLbWh6cE1qVHFEZ3p6N1hhTm1qZWRaZUhXbDhIZFdmOFlBcEYweURXQWtZdDhxRGJJa3N5MXZB?oc=5",
-      "source": "Cybernews",
+      "id": "1807de1ae2463aba",
+      "title": "The Growing Need for Auditing AI-Generated Applications in Enterprise Software - Nasscom",
+      "summary": "The Growing Need for Auditing AI-Generated Applications in Enterprise Software Nasscom",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORWlLOUM5eFpUeTVyQmRCZ2c3ODBJbmR4OTltcnctOWpDUHhMWlNsRGpyY0dHa1E0RmRTVFlrNVUxNTVFSzdJdGZNNkt0aUlKRHRGN0VSQ0ZGRnVJelo4aEhjZkRhLTl1WFlaMHRidHR5bUFNVWxHcGlYbnllUXRBeEIxc2FHLTFnaUtIUUpPWDNfcFc4YzFobmN4Rmhxd0xTYmRsUnd4cDBabkFEMGZPNjJxdmtsbno3cEI4LQ?oc=5",
+      "source": "Nasscom",
       "category": "tech",
-      "published_at": "2026-11-05T11:17:20+00:00",
+      "published_at": "2026-11-04T11:40:44+00:00",
       "importance": 6,
       "personal_score": 6.0,
       "entities": [
-        "OpenAI",
-        "Linux",
-        "Cybernews OpenAI",
-        "Cybernews"
+        "The Growing Need",
+        "Auditing AI-Generated Applications",
+        "Enterprise Software",
+        "Nasscom The Growing Need",
+        "Enterprise Software Nasscom"
       ],
       "summary_method": "rss_fallback"
     },
@@ -1833,41 +1878,6 @@
         "VMware",
         "The Register Architect",
         "The Register"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
-      "id": "a36178fe68b272f9",
-      "title": "GhostMap Android Flaw Can Disable Phones Without Opening Malicious App - The 420.in",
-      "summary": "GhostMap Android Flaw Can Disable Phones Without Opening Malicious App The 420.in",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdzhBVGhodzBLZUllajFweTdEMU5DeVdieDYxTTRSSUYtWENHZzRKWURlV0tTR3pHSkt0Q0FwajV0THZtZk5nU0FpQV9SZnAwa2tSZ0dOVU95SnoxNVdQa3JzZFcwUE55aEx2NmV0ZmZydzRKMHlDTkl1RkNsN0x1VUZaeTY0VmZoUlZQblNUbGVTV0E?oc=5",
-      "source": "The 420.in",
-      "category": "tech",
-      "published_at": "2026-11-05T17:52:06+00:00",
-      "importance": 6,
-      "personal_score": 6.0,
-      "entities": [
-        "GhostMap Android Flaw Can",
-        "Disable Phones Without Opening",
-        "Malicious App",
-        "Malicious App The"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
-      "id": "11554d46ed8ed98a",
-      "title": "A US company argued that lawyers using artificial intelligence should receive lower fees after its trade- - The Times of India",
-      "summary": "A US company argued that lawyers using artificial intelligence should receive lower fees after its trade- The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMimwNBVV95cUxQNFNKV2ZTRHBsNjBuNHlDbm0zLW9naWRlNHNzb2k0N29UUjNJOWI2bEh6NnZRaVotVXZySHozbTVnc0hLOE44ZVRyNjhEMkVnSDlKOEZvOHdVRHlmLUN3eHpWMW01RzNkX2ZObDRndnlpcjJmUTZaOThlOUkza28tTzhyQ1RrMm9OZUk4OXFlRWdGaU5QaDhZWkt3dkxHUWtUZEdKRUlQODE2M3NZc2RXaGNrd2JVRXhVclJCRjVHbXFOZjlrSjdKTlNyVlFzbDdiWmVhajlPaWdTbGN0WlpnTkhfWXhGRV9GaklnTXZiTXA0YkpoM2FoYkFKMS1IMkQxWXlGRHZpUEQ4SHl0b2Y0V280RVBYbDhtUWxRVVNST1YyNEk4QkRlTkIwWDF6aWs3c1FoelN1TVI0dDhqSWw1bGZBSUFFdmI0cDFDZThna2UxODZaLUhrN0ZMTVBocFZJODg2NkJRdzNGMUxxdDJXOThpRFBrMWk1Uy05b253X0poSnFkNm9yZlBFdy1Ed0xLWDN1M0toMmZJWUXSAaADQVVfeXFMTklSbkFXRl9lWU1aUWRxeFJ6cWt6YkJlWFhRY25wZ1JFVlE2djNQUWF4NnlCUkF2aVctNHVKXzBmc1BqdkFWZEt6cGVyU05lYjdtcDBSd01WaERsVXFFN084aUVMTy1SaDR5eWlfYkFvZWJWbURGRGhPX0hqekR1WkptNzJPT0pSOW5aaXcwX1Q2cTdTS0NvT21yMjJVOWJ2S2FTTnNvcEdJdkY1ZEo3Um43ZzFhSEVlVkVDb0FoUGxKX2tYLXAzV05TMmFGZUZkckZXeWZRQ2N0cDhMdXNEVkFmSVlJTVJJU01PMXBoV2E4a2hmeVVnLVNETFpfQzdvWHdibFVpdExuVkN6VUpKTXB0eW5wZF9wXzJkQUc3NmRyWUp6eUdWamhQNF9jdHJRcGRGNVREYV81RFFkZXp1VWt6bUlBMlF2RW04Z1ptT3hDZTN0d0V5QV9nZTRhblNwTXNvN3lhell0SDBMU3JFbkk0LVBVZHBjZ29XcmpKWC1LYVMxd1pBQ0MzNy1KSmR4OXpsa3NyMXhtTHVIMEdRUkM?oc=5",
-      "source": "The Times of India",
-      "category": "tech",
-      "published_at": "2026-11-03T17:31:00+00:00",
-      "importance": 6,
-      "personal_score": 6.0,
-      "entities": [
-        "A US",
-        "The Times",
-        "India A US"
       ],
       "summary_method": "rss_fallback"
     },
@@ -2001,63 +2011,38 @@
       "summary_method": "rss_fallback"
     },
     {
-      "id": "9b9332413bb28e28",
-      "title": "Taiwan's Institute for Information Industry Completes Merger of Two Research Institutes; Chairman Huang Chung-ming Pledges Market-Driven Push to Commercialize AI - BigGo Finance",
-      "summary": "Taiwan's Institute for Information Industry Completes Merger of Two Research Institutes; Chairman Huang Chung-ming Pledges Market-Driven Push to Commercialize AI BigGo Finance",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5oRmpjTVhRWVpZblBCcmtoNzhRZWhNUnpXLWEySWM0VTdRaXlmVE42a1ZrenRNXy1Rd2dLemZhSV9aSEZ0WXFES0tJQkctajcwWlFQbVg5OS1YdGlQaF9nWk5EcG9GQkMzVGdnWldqTzlBUVFGMGc?oc=5",
-      "source": "BigGo Finance",
+      "id": "363ecd192c1d2c03",
+      "title": "OpenAI’s agent uncovers 1K Linux kernel flaws, saving millions of dollars - Cybernews",
+      "summary": "OpenAI’s agent uncovers 1K Linux kernel flaws, saving millions of dollars Cybernews",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNOUNfRFU2VmNzQ1FNY3VCY0dycWU3X1AzT2FRalVMTGEtQ2dpcE1HMDZkWnVkTW9SNlZXUnk4cmNFVUdVQ1VReEtLXzRLbWh6cE1qVHFEZ3p6N1hhTm1qZWRaZUhXbDhIZFdmOFlBcEYweURXQWtZdDhxRGJJa3N5MXZB?oc=5",
+      "source": "Cybernews",
       "category": "tech",
-      "published_at": "2026-11-05T15:35:00+00:00",
+      "published_at": "2026-11-05T11:17:20+00:00",
       "importance": 5,
       "personal_score": 5.0,
       "entities": [
-        "Taiwan",
-        "Institute",
-        "Information Industry Completes Merger",
-        "Two Research Institutes",
-        "Chairman Huang Chung-ming Pledges",
-        "Market-Driven Push",
-        "Commercialize AI",
-        "BigGo Finance Taiwan",
-        "Commercialize AI BigGo Finance"
+        "OpenAI",
+        "Linux",
+        "Cybernews OpenAI",
+        "Cybernews"
       ],
       "summary_method": "rss_fallback"
     },
     {
-      "id": "a9ca3a3a49ffb931",
-      "title": "Apple Cuts Internal AI Usage Budgets in Move to Reduce Spending - Bloomberg.com",
-      "summary": "Apple Cuts Internal AI Usage Budgets in Move to Reduce Spending Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNlpwLUc1MHh4TnNOVk9HY3BLVUlLS2ZwTjRIUEtqb0VKa2JYZG13VTc2TzdZZ2dlOUUtTmlZYTdmeGJIUVVpcWFBeS1PWGQ5X3FFS3lBMzJ0WjJsRjMzWmpaRl9KRUZzSWRpTHVaQ3lUeU5wNnM0S3dZLTVaMWo3RWNnMmZqcTBCY3NOajRvSk13UmM4R2VBUjNtT2w0NU96aU9FelhEZ1BJcHNWTExwYVRNczg?oc=5",
-      "source": "Bloomberg.com",
+      "id": "f52ba502cf8bdd48",
+      "title": "GhostMap: The Android flaw that crashes your phone before you open the app - Bitdefender",
+      "summary": "GhostMap: The Android flaw that crashes your phone before you open the app Bitdefender",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAxYUJQSXF4WHJIcnRSbkdHZVIxZnpuVGtoTk9JeG84cHI3blZEXzExOE55bWJaZFowczl1bVRCNzJSWnRPYnp4TE03cDhwNzRId2FvcVg4UWpWbmZRRmdBdXN2aUtoVEtLZ1VuMA?oc=5",
+      "source": "Bitdefender",
       "category": "tech",
-      "published_at": "2026-11-04T19:45:00+00:00",
+      "published_at": "2026-11-05T09:00:18+00:00",
       "importance": 5,
       "personal_score": 5.0,
       "entities": [
-        "Apple Cuts Internal AI",
-        "Usage Budgets",
-        "Move",
-        "Reduce Spending",
-        "Bloomberg.com Apple Cuts Internal",
-        "AI Usage Budgets",
-        "Reduce Spending Bloomberg.com"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
-      "id": "ad3d8dbdd31264e4",
-      "title": "Cybersecurity demand creates new opportunities for Happiest Minds as clients add AI safeguards - The New Indian Express",
-      "summary": "Cybersecurity demand creates new opportunities for Happiest Minds as clients add AI safeguards The New Indian Express",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOcE9nTzZ1NlRNZGxaVkd6RGpHQ1NHYWRlX1hFOTZoWHFrRVI3T3MzT0RGdXU3aHdOSS01TVBzUnd3dEY3aXFFUE9vb0VBVGg4TGFMVGxGSjhsMUk5bm83ZHZFVTYtU1pka1ZPRE5BV29xQW5oZUxjTWZuSmw4cWxqbEtad3pEMjZza1R6Q3FxenFneVNoQTUycWM4WmVLUWlBaHBvQ3EzNWdfOVhOeTV6VTJzTndlWlBpSHVRTGpSSXlwR0NCczh6bHY5dE5zT1ZzTHZ1X2U4LWFYOFkySXRtNlBB0gHvAUFVX3lxTE1fUmE5VG84ZGdka2NVQ3NXWWxFV1BnRXdBUzgwYVd5S2N3TTE3RkZrbHNxWmNlSEZZUFd3cUZxdHVVSHpEa3Q4SkFfQ3laVGtLcGVmRjRFblpONzZSajdOMmFuOFQ2d1NlUVpYNUxfSkwwd1ZtNjduU19JYUdWOVNUUngtS0t0LXZjd21rLVJsMVBZOHZCeE9ULU95MFFqSlJvT1IxdkdEN3kwYldzZ0U5Skg4c01CMzJadDFuZ3lQY2lDek9TVGtFYVl5MWx2RFBGOWZWWjBmYTVlTnByVHFwUWc3UFJPUkJza2N1a1dZ?oc=5",
-      "source": "The New Indian Express",
-      "category": "tech",
-      "published_at": "2026-11-04T19:09:58+00:00",
-      "importance": 5,
-      "personal_score": 5.0,
-      "entities": [
-        "Cybersecurity",
-        "Happiest Minds",
-        "The New Indian Express"
+        "GhostMap",
+        "The Android",
+        "Bitdefender GhostMap",
+        "Bitdefender"
       ],
       "summary_method": "rss_fallback"
     },
@@ -2068,7 +2053,7 @@
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOQXFfYnFoSmRMZkNLbGM4MmdJbVEwSDZEd3FMamxMdkNZazRPcEhOYWltUDdzS3VPZ0N3eUg2YV9TRjUxYnhNRlZjOUY2b0lvRUtfdkJCZVYzMzhWNE4zbXQ3THJLb0d2ZUhNbUwtanZLZU12RGpZUGJmVDdMVHlPN0d5cUI0bTBNaWNKcGlTOVNVRjUtSWR2YmVhU29yN0loRlMwY0duMlNETE5ZVEtFZXFFaUh4UlEtbnl5VjBTNnlPeTF0Tkc5MkhYWmdrWEVYT2RTMWFVUQ?oc=5",
       "source": "Andaman Chronicle",
       "category": "tech",
-      "published_at": "2026-11-05T18:40:33+00:00",
+      "published_at": "2026-11-05T18:44:46+00:00",
       "importance": 5,
       "personal_score": 5.0,
       "entities": [
