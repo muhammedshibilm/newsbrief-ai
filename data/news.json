@@ -1,6 +1,6 @@
 {
   "version": 7,
-  "updated_at": "2026-11-07T19:06:34.944823+00:00",
+  "updated_at": "2026-11-07T23:08:31.916719+00:00",
   "ai_engine": {
     "enabled": true,
     "type": "mathematical_ml",
@@ -98,32 +98,6 @@
       "summary_method": "tfidf_extractive_full_article"
     },
     {
-      "id": "a8b25db3b1c0a5ee",
-      "title": "സര്‍ക്കാര്‍ സ്‌കൂള്‍ അധ്യാപകര്‍ക്ക് കാര്യക്ഷമതയില്ലെന്ന് ഡികെയും മകളും; പ്രതിഷേധവുമായി അധ്യാപകര്‍",
-      "summary": "താന്‍ ട്രസ്റ്റി-സെക്രട്ടറിയായി പ്രവര്‍ത്തിക്കുന്ന നാഷണല്‍ എഡ്യൂക്കേഷന്‍ ഫൗണ്ടേഷന്‍ വഴി പരിപാലിക്കപ്പെടുന്ന, ദൊഡ്ഡലഹള്ളിയിലെ കര്‍ണാടക പബ്ലിക് സ്‌കൂളിനെക്കുറിച്ചായിരുന്നു അവരുടെ പ്രതികരണം.1.1 ലക്ഷം രൂപ ശമ്പളം നല്‍കിയിട്ടും, അധ്യാപകര്‍ ആഴ്ചയില്‍ അഞ്ച് ദിവസവും സ്‌കൂളില്‍ എത്തുന്നില്ലായിരുന്നു. പൊതുവിദ്യാഭ്യാസ സംവിധാനത്തിന്റെ ശോചനീയാവസ്ഥയുടെ ഉത്തരവാദിത്തം അധ്യാപകരുടെ തലയില്‍ കെട്ടിവെക്കാന്‍ സര്‍ക്കാര്‍ ശ്രമിക്കുകയാണെന്ന് സേവ് പബ്ലിക് എഡ്യൂക്കേഷന്‍ കമ്മിറ്റി ആരോപിച്ചു.കര്‍ണാടകയിലെ പെട്രോളില്‍ 31% എഥനോള്‍; സര്‍ക്കാര്‍ വാദം തള്ളി പൊതുമേഖലാ എണ്ണ കമ്പനികള്‍സര്‍ക്കാരിന്റെ നയങ്ങള്‍ കാരണമാണ് സ്ഥിതി ഇത്രത്തോളം മോശമായത്. സര്‍ക്കാര്‍ സ്‌കൂളുകളെ ഏറ്റെടുക്കുന്ന സ്വകാര്യ സ്‌കൂളുകള്‍ക്ക്, ആ സര്‍ക്കാര്‍ സ്‌കൂളുകളുടെ പേരിനൊപ്പം സ്വന്തം പേരും ചേര്‍ക്കാന്‍ സര്‍ക്കാര്‍ അനുവാദം നല്‍കുന്നുണ്ട് എന്ന് സമിതി ചൂണ്ടിക്കാട്ടി.സ്വര്‍ണവില കുറഞ്ഞത് മുതലാക്കാന്‍ ഉപഭോക്താക്കള്‍; ജ്വല്ലറികളില്‍ വന്‍തിരക്ക്സേവ് പബ്ലിക് എഡ്യൂക്കേഷന്‍ കമ്മിറ്റി സംഘടിപ്പിച്ച യോഗത്തില്‍, പൊതുവിദ്യാഭ്യാസ മേഖലയുടെ അവസ്ഥയെക്കുറിച്ച് സംസാരിച്ചവരില്‍ ഹംപി കന്നഡ സര്‍വകലാശാല മുന്‍ വൈസ് ചാന്‍സലര്‍ എ. ഇത്തരം പരാമര്‍ശങ്ങള്‍ അധ്യാപകരെ അപമാനിക്കുന്നതിന് തുല്യമാണ് എന്ന് അദ്ദേഹം പറഞ്ഞു.സര്‍ക്കാര്‍ സ്‌കൂളുകളില്‍ നിയമിക്കപ്പെടുന്നതിന് മുന്‍പ്, അധ്യാപകര്‍ സര്‍ക്കാര്‍ നടത്തുന്ന എല്ലാ യോഗ്യതാ പരീക്ഷകളും പാസായവരാണ്.",
-      "url": "https://malayalam.oneindia.com/news/india/dk-shivakumar-and-daughter-aishwarya-face-backlash-over-remarks-on-government-school-teachers-603477.html",
-      "source": "Oneindia Malayalam",
-      "category": "general",
-      "published_at": "2026-11-07T09:49:56+00:00",
-      "importance": 7,
-      "personal_score": 7.25,
-      "entities": [
-        "സര്",
-        "ക്കാര്",
-        "കൂള്",
-        "അധ്യാപകര്",
-        "ക്ക്",
-        "കാര്യക്ഷമതയില്ലെന്ന്",
-        "ഡികെയും",
-        "മകളും",
-        "പ്രതിഷേധവുമായി",
-        "ലക്ഷം",
-        "രൂപ",
-        "ശമ്പളം"
-      ],
-      "summary_method": "tfidf_extractive_full_article"
-    },
-    {
       "id": "c347bab1b92b07bc",
       "title": "Gyanesh Kumar will soon be forced to step down, says K.C. Venugopal",
       "summary": "Referring to the Haryana Assembly election, in which the Congress lost by a margin of 0.4 percentage points despite predictions of a party wave, he said a booth-level investigation led by Rahul Gandhi had exposed large-scale vote theft. Criticising the 2023 amendment to the law governing the appointment of election commissioners, he alleged that the Modi government had granted them legal immunity even greater than that enjoyed by the President, Prime Minister, and Chief Justice of India. Venugopal said the exercise threatened not only citizens’ voting rights but also their access to government benefits and entitlements, as voter ID cards were increasingly being linked to welfare provisions. He said the protests in Delhi had unsettled the Prime Minister and the CEC, and warned that any attempt to suppress the agitation using the police or armed forces would invite a strong response from the Opposition.",
@@ -141,32 +115,6 @@
         "Shah",
         "Election Commission",
         "Congress"
-      ],
-      "summary_method": "tfidf_extractive_full_article"
-    },
-    {
-      "id": "f1400783a5d3a91f",
-      "title": "'സൗദി അറേബ്യ ഇതുവരെ നടത്തിയത് 4369 ആക്രമണങ്ങൾ'..അരാംകോ കേന്ദ്രും എയർപോർട്ടും ആക്രമിച്ചെന്ന് ഹൂതികൾ",
-      "summary": "തെയ്‌സ് , ബനി ഹഷീഷ് എന്നിവിടങ്ങളിൽ സാധാരണക്കാക്ക് നേരെ സൗദി നടത്തിയ മാരകമായ വ്യോമാക്രമണങ്ങൾക്കുള്ള തിരിച്ചടിയായാണ് ഇതെന്ന് ഹൂതി സൈനിക വക്താവ് യഹ്യ സാരി പ്രസ്താവനയിൽ പറഞ്ഞു. ബാല്ലിസ്റ്റിക് മിസൈലുകൾ, ക്രൂയിസ് മിസൈലുകൾ, ഡ്രോണുകൾ എന്നിവ ഉപയോഗിച്ചാണ് ആക്രമണം നടത്തിയതെന്നും പ്രസ്താവനയിൽ പറയുന്നു.ആദ്യ ആക്രമണം റിയാദ് ഖാലിദ് ഇൻ്റർനാഷ്ണൽ എയർപോർട്ട് ലക്ഷ്യമാക്കിയാണഅ നടത്തിയത്. മൂന്നാമത്തെ ആക്രമണം ദവാദമിയിലുള്ള പമ്പിങ് സ്റ്റേഷൻ നമ്പർ 8 ആണ്.ബാക്കിയുള്ള മൂന്ന് ആക്രമണങ്ങൾ സൗദി സൈനികരെ ലക്ഷ്യമിട്ടായിരുന്നുവെന്നും പ്രസ്താവനയിൽ പറഞ്ഞു.നജ്രാനിലുള്ള സൗദി നാഷ്ണൽ ഗാർഡ് ക്യാമ്പായിരുന്നു ലക്ഷ്യസ്ഥാനങ്ങളിൽ ഒന്ന്. അവസാനത്തെ ആക്രമണത്തോടെ ഇതുവരെ നടത്തിയ ആക്രമണങ്ങളുടെ എണ്ണം 4369 ആയി, സാരി മറ്റൊരു എക്സ് പോസ്റ്റിൽ കുറിച്ചു.അതേസമയം ഇനിയും സൗദിക്ക് നേരെ ശക്തമായ ആക്രമണം ഉണ്ടാകുമെന്ന് സാരി വ്യക്തമാക്കി.",
-      "url": "https://malayalam.oneindia.com/news/international/saudi-arabia-has-faced-4-369-attacks-so-far-houthis-claim-strikes-on-aramco-facility-and-airport-603513.html",
-      "source": "Oneindia Malayalam",
-      "category": "general",
-      "published_at": "2026-11-07T18:22:53+00:00",
-      "importance": 6,
-      "personal_score": 6.25,
-      "entities": [
-        "സൗദി",
-        "അറേബ്യ",
-        "ഇതുവരെ",
-        "നടത്തിയത്",
-        "ആക്രമണങ്ങൾ",
-        "അരാംകോ",
-        "കേന്ദ്രും",
-        "എയർപോർട്ടും",
-        "ആക്രമിച്ചെന്ന്",
-        "ഹൂതികൾ",
-        "Saudi Arabia Has Faced",
-        "Attacks So Far"
       ],
       "summary_method": "tfidf_extractive_full_article"
     },
@@ -197,6 +145,32 @@
       "summary_method": "tfidf_extractive_full_article"
     },
     {
+      "id": "f1400783a5d3a91f",
+      "title": "'സൗദി അറേബ്യ ഇതുവരെ നടത്തിയത് 4369 ആക്രമണങ്ങൾ'..അരാംകോ കേന്ദ്രും എയർപോർട്ടും ആക്രമിച്ചെന്ന് ഹൂതികൾ",
+      "summary": "തെയ്‌സ് , ബനി ഹഷീഷ് എന്നിവിടങ്ങളിൽ സാധാരണക്കാക്ക് നേരെ സൗദി നടത്തിയ മാരകമായ വ്യോമാക്രമണങ്ങൾക്കുള്ള തിരിച്ചടിയായാണ് ഇതെന്ന് ഹൂതി സൈനിക വക്താവ് യഹ്യ സാരി പ്രസ്താവനയിൽ പറഞ്ഞു. ബാല്ലിസ്റ്റിക് മിസൈലുകൾ, ക്രൂയിസ് മിസൈലുകൾ, ഡ്രോണുകൾ എന്നിവ ഉപയോഗിച്ചാണ് ആക്രമണം നടത്തിയതെന്നും പ്രസ്താവനയിൽ പറയുന്നു.ആദ്യ ആക്രമണം റിയാദ് ഖാലിദ് ഇൻ്റർനാഷ്ണൽ എയർപോർട്ട് ലക്ഷ്യമാക്കിയാണഅ നടത്തിയത്. മൂന്നാമത്തെ ആക്രമണം ദവാദമിയിലുള്ള പമ്പിങ് സ്റ്റേഷൻ നമ്പർ 8 ആണ്.ബാക്കിയുള്ള മൂന്ന് ആക്രമണങ്ങൾ സൗദി സൈനികരെ ലക്ഷ്യമിട്ടായിരുന്നുവെന്നും പ്രസ്താവനയിൽ പറഞ്ഞു.നജ്രാനിലുള്ള സൗദി നാഷ്ണൽ ഗാർഡ് ക്യാമ്പായിരുന്നു ലക്ഷ്യസ്ഥാനങ്ങളിൽ ഒന്ന്. അവസാനത്തെ ആക്രമണത്തോടെ ഇതുവരെ നടത്തിയ ആക്രമണങ്ങളുടെ എണ്ണം 4369 ആയി, സാരി മറ്റൊരു എക്സ് പോസ്റ്റിൽ കുറിച്ചു.അതേസമയം ഇനിയും സൗദിക്ക് നേരെ ശക്തമായ ആക്രമണം ഉണ്ടാകുമെന്ന് സാരി വ്യക്തമാക്കി.",
+      "url": "https://malayalam.oneindia.com/news/international/saudi-arabia-has-faced-4-369-attacks-so-far-houthis-claim-strikes-on-aramco-facility-and-airport-603513.html",
+      "source": "Oneindia Malayalam",
+      "category": "general",
+      "published_at": "2026-11-07T18:22:53+00:00",
+      "importance": 6,
+      "personal_score": 6.25,
+      "entities": [
+        "സൗദി",
+        "അറേബ്യ",
+        "ഇതുവരെ",
+        "നടത്തിയത്",
+        "ആക്രമണങ്ങൾ",
+        "അരാംകോ",
+        "കേന്ദ്രും",
+        "എയർപോർട്ടും",
+        "ആക്രമിച്ചെന്ന്",
+        "ഹൂതികൾ",
+        "Saudi Arabia Has Faced",
+        "Attacks So Far"
+      ],
+      "summary_method": "tfidf_extractive_full_article"
+    },
+    {
       "id": "b172f709f6e0a3e0",
       "title": "Satheesan, Pinarayi trade sharp words over power supply deals in Keralam",
       "summary": "Satheesan was indeed convinced that he is in the right, what prevented him from making public all the files, the letter written to the government by the KSEB, and Cabinet notes on the power purchase decision, Mr. CM’s response In a strongly worded statement a few hours later, the Chief Minister responded that the decision was taken after studying the file, and that the UDF government does not “sign on any tissue paper that comes before it.” “The Opposition Leader is repeatedly asking where the documents are. On Friday, the Chief Minister had termed the Opposition charges “baseless” and reiterated his original argument that the GNA offer was favourable for the State in terms of the per-unit price and peak-hour needs. If the available power is lost without an equivalent firm replacement, KSEB may be left with no practical option but to impose prolonged power cuts, including during the critical summer months.",
@@ -216,24 +190,28 @@
       "summary_method": "tfidf_extractive_full_article"
     },
     {
-      "id": "f3cdb7c2f65540de",
-      "title": "Wayanad landslides: Despite township progress, 13 Adivasi families still caught between ‘no-go zones’ and delayed rehab",
-      "summary": "Kozhikode Even as the rehabilitation of survivors of the 2024 Wayanad landslide (Mundakkai-Chooralmala landslide) in Keralam is making progress, with 327 families, including 149 last month, having been allotted houses at the township project in Kalpetta, the resettlement and rebuilding of lives remain a distant prospect for 13 Adivasi families displaced in the aftermath of the disaster. Though their homes were not damaged, the families had to leave as the areas surrounding their settlements had been designated as ‘no-go zones’ (unsuitable for habitation), with one of the settlements also falling in a ‘red zone’. Some now live in rented accommodation with government assistance, cut off from their forest environment and traditional livelihoods. Others have returned to the forest, as construction of the promised houses on alternative land allocated to them at Puthiyavillage in Meppadi under the Forest Rights Act, 2006 is yet to begin.",
-      "url": "https://www.thehindu.com/news/national/kerala/wayanad-landslides-despite-township-progress-13-adivasi-families-still-caught-between-no-go-zones-and-delayed-rehab/article71677156.ece",
-      "source": "The Hindu Kerala",
+      "id": "a8b25db3b1c0a5ee",
+      "title": "സര്‍ക്കാര്‍ സ്‌കൂള്‍ അധ്യാപകര്‍ക്ക് കാര്യക്ഷമതയില്ലെന്ന് ഡികെയും മകളും; പ്രതിഷേധവുമായി അധ്യാപകര്‍",
+      "summary": "താന്‍ ട്രസ്റ്റി-സെക്രട്ടറിയായി പ്രവര്‍ത്തിക്കുന്ന നാഷണല്‍ എഡ്യൂക്കേഷന്‍ ഫൗണ്ടേഷന്‍ വഴി പരിപാലിക്കപ്പെടുന്ന, ദൊഡ്ഡലഹള്ളിയിലെ കര്‍ണാടക പബ്ലിക് സ്‌കൂളിനെക്കുറിച്ചായിരുന്നു അവരുടെ പ്രതികരണം.1.1 ലക്ഷം രൂപ ശമ്പളം നല്‍കിയിട്ടും, അധ്യാപകര്‍ ആഴ്ചയില്‍ അഞ്ച് ദിവസവും സ്‌കൂളില്‍ എത്തുന്നില്ലായിരുന്നു. പൊതുവിദ്യാഭ്യാസ സംവിധാനത്തിന്റെ ശോചനീയാവസ്ഥയുടെ ഉത്തരവാദിത്തം അധ്യാപകരുടെ തലയില്‍ കെട്ടിവെക്കാന്‍ സര്‍ക്കാര്‍ ശ്രമിക്കുകയാണെന്ന് സേവ് പബ്ലിക് എഡ്യൂക്കേഷന്‍ കമ്മിറ്റി ആരോപിച്ചു.കര്‍ണാടകയിലെ പെട്രോളില്‍ 31% എഥനോള്‍; സര്‍ക്കാര്‍ വാദം തള്ളി പൊതുമേഖലാ എണ്ണ കമ്പനികള്‍സര്‍ക്കാരിന്റെ നയങ്ങള്‍ കാരണമാണ് സ്ഥിതി ഇത്രത്തോളം മോശമായത്. സര്‍ക്കാര്‍ സ്‌കൂളുകളെ ഏറ്റെടുക്കുന്ന സ്വകാര്യ സ്‌കൂളുകള്‍ക്ക്, ആ സര്‍ക്കാര്‍ സ്‌കൂളുകളുടെ പേരിനൊപ്പം സ്വന്തം പേരും ചേര്‍ക്കാന്‍ സര്‍ക്കാര്‍ അനുവാദം നല്‍കുന്നുണ്ട് എന്ന് സമിതി ചൂണ്ടിക്കാട്ടി.സ്വര്‍ണവില കുറഞ്ഞത് മുതലാക്കാന്‍ ഉപഭോക്താക്കള്‍; ജ്വല്ലറികളില്‍ വന്‍തിരക്ക്സേവ് പബ്ലിക് എഡ്യൂക്കേഷന്‍ കമ്മിറ്റി സംഘടിപ്പിച്ച യോഗത്തില്‍, പൊതുവിദ്യാഭ്യാസ മേഖലയുടെ അവസ്ഥയെക്കുറിച്ച് സംസാരിച്ചവരില്‍ ഹംപി കന്നഡ സര്‍വകലാശാല മുന്‍ വൈസ് ചാന്‍സലര്‍ എ. ഇത്തരം പരാമര്‍ശങ്ങള്‍ അധ്യാപകരെ അപമാനിക്കുന്നതിന് തുല്യമാണ് എന്ന് അദ്ദേഹം പറഞ്ഞു.സര്‍ക്കാര്‍ സ്‌കൂളുകളില്‍ നിയമിക്കപ്പെടുന്നതിന് മുന്‍പ്, അധ്യാപകര്‍ സര്‍ക്കാര്‍ നടത്തുന്ന എല്ലാ യോഗ്യതാ പരീക്ഷകളും പാസായവരാണ്.",
+      "url": "https://malayalam.oneindia.com/news/india/dk-shivakumar-and-daughter-aishwarya-face-backlash-over-remarks-on-government-school-teachers-603477.html",
+      "source": "Oneindia Malayalam",
       "category": "general",
-      "published_at": "2026-11-07T10:03:47+00:00",
+      "published_at": "2026-11-07T09:49:56+00:00",
       "importance": 6,
       "personal_score": 6.25,
       "entities": [
-        "Wayanad",
-        "Despite",
-        "Adivasi",
-        "Some",
-        "Others",
-        "Puthiyavillage",
-        "Meppadi",
-        "Forest Rights Act"
+        "സര്",
+        "ക്കാര്",
+        "കൂള്",
+        "അധ്യാപകര്",
+        "ക്ക്",
+        "കാര്യക്ഷമതയില്ലെന്ന്",
+        "ഡികെയും",
+        "മകളും",
+        "പ്രതിഷേധവുമായി",
+        "ലക്ഷം",
+        "രൂപ",
+        "ശമ്പളം"
       ],
       "summary_method": "tfidf_extractive_full_article"
     },
@@ -300,6 +278,28 @@
         "Animal Husbandry",
         "Dairy Development Bindu Krishna",
         "Monday"
+      ],
+      "summary_method": "tfidf_extractive_full_article"
+    },
+    {
+      "id": "f3cdb7c2f65540de",
+      "title": "Wayanad landslides: Despite township progress, 13 Adivasi families still caught between ‘no-go zones’ and delayed rehab",
+      "summary": "Kozhikode Even as the rehabilitation of survivors of the 2024 Wayanad landslide (Mundakkai-Chooralmala landslide) in Keralam is making progress, with 327 families, including 149 last month, having been allotted houses at the township project in Kalpetta, the resettlement and rebuilding of lives remain a distant prospect for 13 Adivasi families displaced in the aftermath of the disaster. Though their homes were not damaged, the families had to leave as the areas surrounding their settlements had been designated as ‘no-go zones’ (unsuitable for habitation), with one of the settlements also falling in a ‘red zone’. Some now live in rented accommodation with government assistance, cut off from their forest environment and traditional livelihoods. Others have returned to the forest, as construction of the promised houses on alternative land allocated to them at Puthiyavillage in Meppadi under the Forest Rights Act, 2006 is yet to begin.",
+      "url": "https://www.thehindu.com/news/national/kerala/wayanad-landslides-despite-township-progress-13-adivasi-families-still-caught-between-no-go-zones-and-delayed-rehab/article71677156.ece",
+      "source": "The Hindu Kerala",
+      "category": "general",
+      "published_at": "2026-11-07T10:03:47+00:00",
+      "importance": 5,
+      "personal_score": 5.25,
+      "entities": [
+        "Wayanad",
+        "Despite",
+        "Adivasi",
+        "Some",
+        "Others",
+        "Puthiyavillage",
+        "Meppadi",
+        "Forest Rights Act"
       ],
       "summary_method": "tfidf_extractive_full_article"
     },
@@ -389,6 +389,49 @@
         "Viyyur Central Prison"
       ],
       "summary_method": "tfidf_extractive_full_article"
+    },
+    {
+      "id": "1255dac53331f911",
+      "title": "കേരള കലാമണ്ഡലത്തിലെ വാർഷികാഘോഷങ്ങൾക്ക് വർണശബളമായ തുടക്കം - Mathrubhumi",
+      "summary": "കേരള കലാമണ്ഡലത്തിലെ വാർഷികാഘോഷങ്ങൾക്ക് വർണശബളമായ തുടക്കം Mathrubhumi",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE12TTZIdDZMd3RNQTVwLTJDUE1qYkNTcFZmNWtDLVp6YV9IX0RjZjNuZXczN2YxSlZsdmlhajhoMHFPSmFMc1ZyOEQ1NlpsSjNtZEVxTmxCOGVKb0plNTlRVWVFMkNwbGpsSUplOV8tSU85eXYyaXBMLdIBfkFVX3lxTFBFakZqX24xdHprcjltSFNRYTlpOU5ObUVFdXB1LXFKaGROdm5aMG52dU42NkttUnFGdXlGbmJvamVkUHp0RGF0eHZCb01SWXRKbWlqZWF5TGJ1RElNdUd2eXgyM2RtQW9JU18wWWNsdGNmY0pjbHZjQnpNTDhLUQ?oc=5",
+      "source": "Mathrubhumi",
+      "category": "general",
+      "published_at": "2026-11-07T21:52:25+00:00",
+      "importance": 4,
+      "personal_score": 4.25,
+      "entities": [
+        "കേരള",
+        "കലാമണ്ഡലത്തിലെ",
+        "വാർഷികാഘോഷങ്ങൾക്ക്",
+        "വർണശബളമായ",
+        "തുടക്കം",
+        "Mathrubhumi"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
+      "id": "53259a3f3d1626f1",
+      "title": "17 ഏത്തവാഴക്കുലകൾ മോഷണം പോയി; പാവപ്പെട്ട കർഷകന്റെ കണ്ണീരൊപ്പി കടയ്ക്കൽ പൊലീസ് - Manorama Online",
+      "summary": "17 ഏത്തവാഴക്കുലകൾ മോഷണം പോയി; പാവപ്പെട്ട കർഷകന്റെ കണ്ണീരൊപ്പി കടയ്ക്കൽ പൊലീസ് Manorama Online",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPam1BV2FYUEFOWHBDNjFKSmtWaVVTcmVjbDBsaVBmb2xNTGYwazZGcWtfUzFxY3E3cFl6QXljN0t2QlZBV29iMlduRm85eFdORnFnUEI1a19yVm5UanlEcDRXZFB4MjYxZlJJMUxuSmlpNGZhNExyZEw5Smd0Z3Bubk1hTVNkVmhkZDc4YVJmZkgxSWxsWXpJblMzQm5kdVpwMENaTTgtUjRodw?oc=5",
+      "source": "Manorama Online",
+      "category": "general",
+      "published_at": "2026-11-07T15:36:12+00:00",
+      "importance": 4,
+      "personal_score": 4.25,
+      "entities": [
+        "ഏത്തവാഴക്കുലകൾ",
+        "മോഷണം",
+        "പോയി",
+        "പാവപ്പെട്ട",
+        "കർഷകന്റെ",
+        "കണ്ണീരൊപ്പി",
+        "കടയ്ക്കൽ",
+        "പൊലീസ്",
+        "Manorama Online"
+      ],
+      "summary_method": "rss_fallback"
     },
     {
       "id": "d639f7679ef00bf2",
@@ -539,29 +582,6 @@
       "summary_method": "tfidf_extractive_full_article"
     },
     {
-      "id": "53259a3f3d1626f1",
-      "title": "17 ഏത്തവാഴക്കുലകൾ മോഷണം പോയി; പാവപ്പെട്ട കർഷകന്റെ കണ്ണീരൊപ്പി കടയ്ക്കൽ പൊലീസ് - Manorama Online",
-      "summary": "17 ഏത്തവാഴക്കുലകൾ മോഷണം പോയി; പാവപ്പെട്ട കർഷകന്റെ കണ്ണീരൊപ്പി കടയ്ക്കൽ പൊലീസ് Manorama Online",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPam1BV2FYUEFOWHBDNjFKSmtWaVVTcmVjbDBsaVBmb2xNTGYwazZGcWtfUzFxY3E3cFl6QXljN0t2QlZBV29iMlduRm85eFdORnFnUEI1a19yVm5UanlEcDRXZFB4MjYxZlJJMUxuSmlpNGZhNExyZEw5Smd0Z3Bubk1hTVNkVmhkZDc4YVJmZkgxSWxsWXpJblMzQm5kdVpwMENaTTgtUjRodw?oc=5",
-      "source": "Manorama Online",
-      "category": "general",
-      "published_at": "2026-11-07T15:36:12+00:00",
-      "importance": 4,
-      "personal_score": 4.25,
-      "entities": [
-        "ഏത്തവാഴക്കുലകൾ",
-        "മോഷണം",
-        "പോയി",
-        "പാവപ്പെട്ട",
-        "കർഷകന്റെ",
-        "കണ്ണീരൊപ്പി",
-        "കടയ്ക്കൽ",
-        "പൊലീസ്",
-        "Manorama Online"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
       "id": "2871c55b5ccfcd49",
       "title": "കര്‍ണാടകയില്‍ ഇ20 പെട്രോള്‍ 'കത്തിക്കാന്‍' രാഹുലും; ഇ20 പെട്രോള്‍ തട്ടിപ്പെന്ന്...!",
       "summary": "പൊതുമേഖലാ, സ്വകാര്യ ഇന്ധന കമ്പനികള്‍ നിശ്ചിത പരിധിയില്‍ കൂടുതല്‍ എഥനോള്‍ ചേര്‍ക്കുന്നുണ്ടെന്ന് ആരോപിച്ച അദ്ദേഹം ഇവരുടെ പരിശോധനാ നടപടിക്രമങ്ങളുടെ സുതാര്യതയെയും ചോദ്യം ചെയ്തു.ഇന്ത്യന്‍ ഓയില്‍ കോര്‍പ്പറേഷന്‍, ഹിന്ദുസ്ഥാന്‍ പെട്രോളിയം കോര്‍പ്പറേഷന്‍ ലിമിറ്റഡ് എന്നിവയില്‍ നിന്നുള്ള സാമ്പിളുകളില്‍ യഥാക്രമം 31.2 ശതമാനവും 30.5 ശതമാനവും എഥനോള്‍ അടങ്ങിയിരിക്കുന്നു എന്നാണ് കര്‍ണാടക സര്‍ക്കാരിന്റെ കണ്ടെത്തല്‍. ബെംഗളൂരു, കോലാര്‍, ചിക്കബല്ലാപ്പൂര്‍, ബെംഗളൂരു റൂറല്‍, രാമനഗര, മംഗളൂരു, തുമക്കൂരു എന്നീ ഏഴ് ജില്ലകളില്‍ നിന്നാണ് ഈ സാമ്പിളുകള്‍ ശേഖരിച്ചത്.കര്‍ണാടകയിലെ പെട്രോളില്‍ 31% എഥനോള്‍; സര്‍ക്കാര്‍ വാദം തള്ളി പൊതുമേഖലാ എണ്ണ കമ്പനികള്‍ഭാരത് പെട്രോളിയം കോര്‍പ്പറേഷന്‍ ലിമിറ്റഡ്, നയാര എനര്‍ജി, ഷെല്‍ എന്നീ കമ്പനികളുടെ ഇന്ധന സാമ്പിളുകളും ഈ പരിശോധനയില്‍ ഉള്‍പ്പെട്ടിരുന്നതായി രാഹുല്‍ ഗാന്ധി വ്യക്തമാക്കി. അദ്ദേഹം ചോദിച്ചു.ബെംഗളൂരുവിലെ, എന്‍എബിഎല്‍ അംഗീകാരവും ഐഎസ്ഒ സര്‍ട്ടിഫിക്കേഷനുമുള്ള ശ്രീറാം റിസര്‍ച്ച് ഇന്‍സ്റ്റിറ്റ്യൂട്ട് നടത്തിയ പരിശോധനയില്‍, പല സാമ്പിളുകളിലും അനുവദനീയമായ 20 ശതമാനം പരിധിക്ക് മുകളില്‍ എഥനോള്‍ അടങ്ങിയിരിക്കുന്നതായി കണ്ടെത്തിയെന്ന് കര്‍ണാടക ഭക്ഷ്യ, സിവില്‍ സപ്ലൈസ്, ഉപഭോക്തൃകാര്യ മന്ത്രി റിസ്വാന്‍ അര്‍ഷാദ് നേരത്തെ വ്യക്തമാക്കിയിരുന്നു.സ്വര്‍ണവില കുറഞ്ഞത് മുതലാക്കാന്‍ ഉപഭോക്താക്കള്‍; ജ്വല്ലറികളില്‍ വന്‍തിരക്ക്ആദ്യം സാമ്പിളുകള്‍ ഐഒസിഎല്‍, ബിപിസിഎല്‍ എന്നിവയുടെ സ്വന്തം ലബോറട്ടറികളിലേക്ക് അയച്ചിരുന്നെങ്കിലും, അവിടെനിന്നുള്ള റിപ്പോര്‍ട്ടുകളില്‍ എത്തനോളിന്റെ അളവ് വെളിപ്പെടുത്തിയിരുന്നില്ലെന്നും, ഇതേത്തുടര്‍ന്നാണ് സ്വതന്ത്രമായ പരിശോധനയ്ക്ക് സര്‍ക്കാര്‍ മുതിര്‍ന്നതെന്നും സംസ്ഥാന സര്‍ക്കാര്‍ അറിയിച്ചു. കര്‍ണാടക ഉള്‍പ്പെടെ രാജ്യത്തുടനീളം വിതരണം ചെയ്യുന്ന ഇ20 പെട്രോള്‍, ബ്യൂറോ ഓഫ് ഇന്ത്യന്‍ സ്റ്റാന്‍ഡേര്‍ഡ്സിന്റെ ഐഎസ് 17021 മാനദണ്ഡങ്ങള്‍ പാലിക്കുന്നതാണെന്ന് കമ്പനികള്‍ സംയുക്ത പ്രസ്താവനയില്‍ അറിയിച്ചു.വാഹനങ്ങളുടെ മൈലേജ് കുറയുന്നതുമൂലം പ്രതിവര്‍ഷം 62,000 കോടി രൂപയുടെയും, വാഹന അറ്റകുറ്റപ്പണികള്‍ക്കായി 39,000 കോടി രൂപയുടെയും നഷ്ടമുണ്ടാകുന്നുവെന്ന കണക്കുകളെ കമ്പനികള്‍ തള്ളി.",
@@ -588,32 +608,6 @@
       "summary_method": "tfidf_extractive_full_article"
     },
     {
-      "id": "806f829e3745d946",
-      "title": "Kerala News Today Highlights: ശ്രീകാര്യം കൊലപാതകം; പ്രതികളുടെ പദ്ധതികളുമായി ബന്ധപ്പെട്ട കൂടുതൽ വിവരങ്ങൾ പുറത്ത് - Indian Express Malayalam",
-      "summary": "Kerala News Today Highlights: ശ്രീകാര്യം കൊലപാതകം; പ്രതികളുടെ പദ്ധതികളുമായി ബന്ധപ്പെട്ട കൂടുതൽ വിവരങ്ങൾ പുറത്ത് Indian Express Malayalam",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPdVhrWV81aG1STGpROTNWT255SDRaUkw5Z2xKMnlIbEZSeGFLaWhtazlSc2tZRGkwVE03Ymx5SHk5TW5ONkxIWnYwd3JXckN2QzBLVEtBX2Q5aTRQajRUeGZCUXc2ZEF0dkI2T01KZlZkTklsSUxpNmZCVXNaQ2d1WDNKMHl1dlVhclNwT0tRanAwOFZ5Z3N4amo0ZkU1SmRpSnF2VWhsRTBTREdIRUNOY1dEbUtlQ0J3VDNhVERoSnphRDFFRWpTcE45aUZwUFBFRzVjaGgyVFBjY3VaSmN5aUNHUTJaV1hhRlF3ctIB7AFBVV95cUxPdVhrWV81aG1STGpROTNWT255SDRaUkw5Z2xKMnlIbEZSeGFLaWhtazlSc2tZRGkwVE03Ymx5SHk5TW5ONkxIWnYwd3JXckN2QzBLVEtBX2Q5aTRQajRUeGZCUXc2ZEF0dkI2T01KZlZkTklsSUxpNmZCVXNaQ2d1WDNKMHl1dlVhclNwT0tRanAwOFZ5Z3N4amo0ZkU1SmRpSnF2VWhsRTBTREdIRUNOY1dEbUtlQ0J3VDNhVERoSnphRDFFRWpTcE45aUZwUFBFRzVjaGgyVFBjY3VaSmN5aUNHUTJaV1hhRlF3cg?oc=5",
-      "source": "Indian Express Malayalam",
-      "category": "general",
-      "published_at": "2026-11-07T15:06:34+00:00",
-      "importance": 4,
-      "personal_score": 4.25,
-      "entities": [
-        "ശ്രീകാര്യം",
-        "കൊലപാതകം",
-        "പ്രതികളുടെ",
-        "പദ്ധതികളുമായി",
-        "ബന്ധപ്പെട്ട",
-        "കൂടുതൽ",
-        "വിവരങ്ങൾ",
-        "പുറത്ത്",
-        "Kerala News Today Highlights",
-        "Indian Express Malayalam Kerala",
-        "News Today Highlights",
-        "Indian Express Malayalam"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
       "id": "2d166ae7a7a2aac7",
       "title": "Under-construction roof of school auditorium collapses in Kanjiramkulam",
       "summary": "Thiruvananthapuram An under-construction roof of an auditorium at an aided school near Neyyattinkara collapsed on Saturday morning. The workers involved in the roofing work also had an escape as they had moved on to another section. Since the auditorium was large, work on putting up a concrete roof had begun on a portion of it in the morning. General Education department officials suspect that supporting beams made of wood collapsed, bringing down the roof.",
@@ -628,72 +622,6 @@
         "Kanjiramkulam"
       ],
       "summary_method": "tfidf_extractive_full_article"
-    },
-    {
-      "id": "1f989c73ac259ab5",
-      "title": "Under-construction roof of school auditorium collapses in Keralam; no casualties",
-      "summary": "Thiruvananthapuram An under-construction roof of an auditorium at an aided school in Keralam collapsed on Saturday (November 7, 2026). The incident occurred around noon at PKS Higher Secondary School, Kanjiramkulam, near Neyyattinkara, Education department officials said. The workers present at the site managed to move to safety after noticing the roof collapsing, officials said. Work has begun to clear the debris, and Public Works Department officials will examine whether any defects in the construction work led to the collapse, officials added.",
-      "url": "https://www.thehindu.com/news/national/kerala/under-construction-roof-of-school-auditorium-collapses-in-keralam-no-casualties/article71677975.ece",
-      "source": "The Hindu Kerala",
-      "category": "general",
-      "published_at": "2026-11-07T10:42:42+00:00",
-      "importance": 4,
-      "personal_score": 4.25,
-      "entities": [
-        "Under-construction",
-        "Keralam",
-        "PKS Higher Secondary School",
-        "Kanjiramkulam",
-        "Neyyattinkara. The",
-        "Friday"
-      ],
-      "summary_method": "tfidf_extractive_full_article"
-    },
-    {
-      "id": "3a07a659ed5034d7",
-      "title": "മഴ മൂലം തടസപ്പെട്ട മത്സരത്തിൽ കിവീസിനെതിരേ ഇന്ത‍്യയ്ക്ക് ജയം; പരമ്പരയിൽ മുന്നിൽ - Metro Vaartha",
-      "summary": "മഴ മൂലം തടസപ്പെട്ട മത്സരത്തിൽ കിവീസിനെതിരേ ഇന്ത‍്യയ്ക്ക് ജയം; പരമ്പരയിൽ മുന്നിൽ Metro Vaartha",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPOVVua2gxNkN4c3JGaE9Cci04YmZGTlFITGExUkRBajFSenZNaTMzSDVKOW92NTF3NS1XdkhFMmFpckJaUjFjeGVNTGQ0cG9CVWJxWVdSdnlyY2tJVGEtYlpqeXBtWHZYUzFFVHlYTFpMYzhuOWtoZkpOc1FzMWRDSTZoUmx5dkRyY2lfQU9B0gGbAUFVX3lxTE00VURWSXpEbTV5U0lGOXQxNEZfT3RMZHZicG1ocnJoaEVsNEJqbWhmVUxpc1FXcTh1ZmVCdWZiQUIxQU03Ui0yLTU5RWJxU2NXZURoajd6OFdzaXZaanVpQWd0SkluRFY0WnV4a2FZNW5OWGE2RVdMN1BYemNWbFBUakxGLWFncTZvMU5GQUozYzNSREpfUWdJUjNJ?oc=5",
-      "source": "Metro Vaartha",
-      "category": "general",
-      "published_at": "2026-11-07T16:04:14+00:00",
-      "importance": 3,
-      "personal_score": 3.25,
-      "entities": [
-        "മൂലം",
-        "തടസപ്പെട്ട",
-        "മത്സരത്തിൽ",
-        "കിവീസിനെതിരേ",
-        "ഇന്ത",
-        "്യയ്ക്ക്",
-        "ജയം",
-        "പരമ്പരയിൽ",
-        "മുന്നിൽ",
-        "Metro Vaartha"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
-      "id": "8fc5da06d70a991e",
-      "title": "യുദ്ധക്കെടുതികൾക്കിടയിലും പ്രതീക്ഷയുടെ പുഞ്ചിരി; ഗസ്സയിൽ 250 ഫലസ്തീൻ ദമ്പതികൾക്ക് മംഗല്യം - Media One",
-      "summary": "യുദ്ധക്കെടുതികൾക്കിടയിലും പ്രതീക്ഷയുടെ പുഞ്ചിരി; ഗസ്സയിൽ 250 ഫലസ്തീൻ ദമ്പതികൾക്ക് മംഗല്യം Media One",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVjR5TGdVcjJmYnpHaGR3S21CY2Z3ZTlnX2RCSkwwR1lUVFY2azNVU1ZuT2ZZTnZpM3ppOFV3T1Q2NndoQ19VNzNQMnR2aEstNUdjanFfZHk5RkstZmR2ZjJKcGFjQnlleUdjMnlXek14TmttM2k3eFhMdENFV1BCeGRCbWNfNWRRZkNhMmxoTkRRdXozbVc2Vl9ia1VoTXRmVmfSAacBQVVfeXFMTXZpRF9icHpIZTFRdlBrQXhjUXFsb2JtaWZYdEtsR2Y2SFBDRklodmVyUU91VHhlZEZjaDZDWU1ZdnVrYndqX20xTldfQjhPU2ctWjZIdzZ2Z2pJd0JGV3RMVW80M3JDeHNVLW5ac3lUOGdkZzZSY0VFU3JNOFJrWUFQMWY1ZjdjVlBocHlXOTJrVndUcUZiNUJDMGxIY2d6YzRTVTN3bVU?oc=5",
-      "source": "Media One",
-      "category": "general",
-      "published_at": "2026-11-07T15:39:49+00:00",
-      "importance": 3,
-      "personal_score": 3.25,
-      "entities": [
-        "യുദ്ധക്കെടുതികൾക്കിടയിലും",
-        "പ്രതീക്ഷയുടെ",
-        "പുഞ്ചിരി",
-        "ഗസ്സയിൽ",
-        "ഫലസ്തീൻ",
-        "ദമ്പതികൾക്ക്",
-        "മംഗല്യം",
-        "Media One"
-      ],
-      "summary_method": "rss_fallback"
     },
     {
       "id": "0432c8ccc08e48fe",
@@ -774,6 +702,25 @@
       "summary_method": "tfidf_extractive_full_article"
     },
     {
+      "id": "8085a5be7477cff5",
+      "title": "കൊടുംകുറ്റവാളി എട്ട് വർഷമായി കൊല്ലത്ത് - Kerala Kaumudi",
+      "summary": "കൊടുംകുറ്റവാളി എട്ട് വർഷമായി കൊല്ലത്ത് Kerala Kaumudi",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4xMmt0b0xzWk41S3ViTXZfYlM5LUdTODlOQ01WRlZFeVZFb2I2M0g5elpoU3R1WmRTdEx3dWJXMzNqZHVQaTE1eENqbHNVM1haVl9ROHAzWWRkamthTFF1cEhIc1MwcW1SS3c?oc=5",
+      "source": "Kerala Kaumudi",
+      "category": "general",
+      "published_at": "2026-11-07T18:57:37+00:00",
+      "importance": 3,
+      "personal_score": 3.25,
+      "entities": [
+        "കൊടുംകുറ്റവാളി",
+        "എട്ട്",
+        "വർഷമായി",
+        "കൊല്ലത്ത്",
+        "Kerala Kaumudi"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
       "id": "a6d4564267f0cf75",
       "title": "സ്വർണം ഇനി ബാക്കിയുള്ളത് 50,000 ടണ്‍ മാത്രം'; വിലയിൽ വമ്പൻ തകർച്ചയോ കുതിപ്പോ? മുത്തൂറ്റ് സിഇഒ പറയുന്നു",
       "summary": "അതിനാൽ വിറ്റൊഴിവാക്കുന്നതിനേക്കാൾ ആവശ്യത്തിന് പണം ലഭിക്കുന്ന വിധത്തിൽ പണയം വെയ്ക്കുന്നത് തന്നെയാണ് ഉചിതമെന്ന് അദ്ദേഹം പറഞ്ഞു. മറിച്ച് അത്യാവശ്യം വരുമ്പോൾ സ്വർണം പണയം വെയ്ക്കാനാണ്.പണയം വെയ്ക്കരുത് വിൽക്കൂ എന്നൊക്കെയാണ് ചില ജ്വല്ലറികൾ പറയുന്നത്. അതിനാൽ ലേലത്തിൽ സ്വർണം വിൽക്കാതിരിക്കാൻ അവർ പരമാവധി ശ്രമിക്കും.100 വർഷത്തെ സ്വർണത്തിൻ്റെ വില പരിശോധിച്ചാൽ വില എപ്പോഴും മുന്നോട്ട് തന്നെയാണ്. കാരണം തകർന്നാൽ ലോകസമ്പദ് വ്യവസ്ഥ തന്നെ തകരും.ഇതുവരെ ലോകത്ത് ഘനനം ചെയ്തത് 2.40 ലക്ഷം ടണ്‍ സ്വർണമാണ്.",
@@ -798,6 +745,30 @@
         "പറയുന്നു"
       ],
       "summary_method": "tfidf_extractive_full_article"
+    },
+    {
+      "id": "3a07a659ed5034d7",
+      "title": "മഴ മൂലം തടസപ്പെട്ട മത്സരത്തിൽ കിവീസിനെതിരേ ഇന്ത‍്യയ്ക്ക് ജയം; പരമ്പരയിൽ മുന്നിൽ - Metro Vaartha",
+      "summary": "മഴ മൂലം തടസപ്പെട്ട മത്സരത്തിൽ കിവീസിനെതിരേ ഇന്ത‍്യയ്ക്ക് ജയം; പരമ്പരയിൽ മുന്നിൽ Metro Vaartha",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPOVVua2gxNkN4c3JGaE9Cci04YmZGTlFITGExUkRBajFSenZNaTMzSDVKOW92NTF3NS1XdkhFMmFpckJaUjFjeGVNTGQ0cG9CVWJxWVdSdnlyY2tJVGEtYlpqeXBtWHZYUzFFVHlYTFpMYzhuOWtoZkpOc1FzMWRDSTZoUmx5dkRyY2lfQU9B0gGbAUFVX3lxTE00VURWSXpEbTV5U0lGOXQxNEZfT3RMZHZicG1ocnJoaEVsNEJqbWhmVUxpc1FXcTh1ZmVCdWZiQUIxQU03Ui0yLTU5RWJxU2NXZURoajd6OFdzaXZaanVpQWd0SkluRFY0WnV4a2FZNW5OWGE2RVdMN1BYemNWbFBUakxGLWFncTZvMU5GQUozYzNSREpfUWdJUjNJ?oc=5",
+      "source": "Metro Vaartha",
+      "category": "general",
+      "published_at": "2026-11-07T16:04:14+00:00",
+      "importance": 3,
+      "personal_score": 3.25,
+      "entities": [
+        "മൂലം",
+        "തടസപ്പെട്ട",
+        "മത്സരത്തിൽ",
+        "കിവീസിനെതിരേ",
+        "ഇന്ത",
+        "്യയ്ക്ക്",
+        "ജയം",
+        "പരമ്പരയിൽ",
+        "മുന്നിൽ",
+        "Metro Vaartha"
+      ],
+      "summary_method": "rss_fallback"
     },
     {
       "id": "1c1ff2bf36464bef",
@@ -852,74 +823,44 @@
       "summary_method": "rss_fallback"
     },
     {
-      "id": "4df97cfab706ec3f",
-      "title": "10 രൂപയ്ക്കും സ്വര്‍ണം കിട്ടും..! ധന്തേരാസില്‍ ഡിജിറ്റല്‍ സ്വര്‍ണത്തിന് ആവശ്യക്കാരേറെ; വില്‍പന തകൃതി",
-      "summary": "വെള്ളി വില്‍പ്പനയില്‍ മൂല്യത്തിന്റെ അടിസ്ഥാനത്തില്‍ 30 ശതമാനവും, അളവിന്റെ അടിസ്ഥാനത്തില്‍ 10 ശതമാനവും വര്‍ദ്ധനവ് ഉണ്ടാകുമെന്നാണ് പ്രതീക്ഷിക്കുന്നത്.കഴിഞ്ഞ വര്‍ഷത്തെ അപേക്ഷിച്ച് ജ്വല്ലറികളില്‍ എത്തുന്നവരുടെ എണ്ണം കൂടുതലാണെന്നും, പ്രത്യേകിച്ച് പടിഞ്ഞാറന്‍, വടക്കന്‍ വിപണികളില്‍ മുന്‍കൂട്ടിയുള്ള ബുക്കിംഗുകള്‍ ഡിമാന്‍ഡ് വര്‍ധിപ്പിക്കാന്‍ സഹായിച്ചുവെന്നും ജിജെസി വൈസ് ചെയര്‍മാന്‍ അവിനാഷ് ഗുപ്ത പറഞ്ഞു. ടയര്‍ 1 നഗരങ്ങള്‍ക്ക് പുറമെ ജയ്പൂര്‍, ഡെറാഡൂണ്‍, സൂറത്ത്, ബെല്‍ഗാം, ആര, റായ്പൂര്‍ തുടങ്ങിയ ടയര്‍-2, ടയര്‍-3 നഗരങ്ങളില്‍ നിന്നും മികച്ച പ്രതികരണം ലഭിക്കുന്നുണ്ടെന്നും, ആദ്യമായി ആഭരണങ്ങള്‍ വാങ്ങുന്നവരില്‍ നിന്നുപോലും ഡിമാന്‍ഡ് വര്‍ധിക്കുന്നുണ്ടെന്നും അദ്ദേഹം ചൂണ്ടിക്കാട്ടി.സ്വര്‍ണവിലയിലെ കുറവ്, മുന്‍കൂട്ടിയുള്ള ബുക്കിംഗുകള്‍, ദീപാവലിയോട് അനുബന്ധിച്ചുള്ള നീണ്ട അവധി ദിവസങ്ങള്‍ എന്നിവയുടെ പിന്‍ബലത്തില്‍, കഴിഞ്ഞ വര്‍ഷത്തെ അപേക്ഷിച്ച് 25-30 ശതമാനം വളര്‍ച്ചയാണ് മേഖലയില്‍ പ്രതീക്ഷിക്കുന്നതെന്ന് പിഎന്‍ജി ജ്വല്ലേഴ്‌സ് ചെയര്‍മാനും മാനേജിംഗ് ഡയറക്ടറുമായ സൗരഭ് ഗാഡ്ഗില്‍ പറഞ്ഞു. കഴിഞ്ഞ വര്‍ഷത്തെ അപേക്ഷിച്ച് കമ്പനിയുടെ ആഭരണ വില്‍പ്പനയില്‍ 10% വര്‍ധനയുണ്ടായി എന്ന് കമ ജ്വല്ലറി മാനേജിംഗ് ഡയറക്ടര്‍ കോളിന്‍ ഷാ പറയുന്നു.കര്‍ണാടകയിലെ പെട്രോളില്‍ 31% എഥനോള്‍; സര്‍ക്കാര്‍ വാദം തള്ളി പൊതുമേഖലാ എണ്ണ കമ്പനികള്‍ഭാരം കുറഞ്ഞതും കല്ലുകള്‍ പതിച്ചതുമായ ആഭരണങ്ങള്‍ക്ക് വലിയ ഡിമാന്‍ഡാണ് അനുഭവപ്പെട്ടത്. പരമ്പരാഗതമായി ഉയര്‍ന്ന മൂല്യമുള്ള ഈ മേഖലയില്‍ ജെന്‍സി പുതിയ രീതിയിലുള്ള വാങ്ങല്‍ ശീലങ്ങള്‍ കൊണ്ടുവരുന്നു, സൂപ്പര്‍മണി സ്ഥാപകനും സിഇഒയുമായ പ്രകാശ് സികാരിയ പറയുന്നു.സ്വര്‍ണവില കുറഞ്ഞത് മുതലാക്കാന്‍ ഉപഭോക്താക്കള്‍; ജ്വല്ലറികളില്‍ വന്‍തിരക്ക്വജ്രാഭരണങ്ങള്‍ക്കും നിക്ഷേപ ഉല്‍പ്പന്നങ്ങള്‍ക്കും ആവശ്യക്കാര്‍ ഏറുന്നുണ്ട്.",
-      "url": "https://malayalam.oneindia.com/news/india/gold-selling-digital-gold-attract-most-customers-during-dhanteras-2026-demand-shows-huge-surge-603451.html",
-      "source": "Oneindia Malayalam",
+      "id": "67412fa752fcd571",
+      "title": "പോളണ്ടില്‍ വെടിവയ്പ്പ്; അഞ്ച് പേര്‍ കൊല്ലപ്പെട്ടു - Janayugom Online",
+      "summary": "പോളണ്ടില്‍ വെടിവയ്പ്പ്; അഞ്ച് പേര്‍ കൊല്ലപ്പെട്ടു Janayugom Online",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE52aXV0MkVYaDZPbW9mXzhoV2VNbFQ3Q25SXzJUaDQzTmN4XzhqV0JtNVdaOHY3NFR2X1poRm5tTFA2NXZOT09EeVhCNzFzcWZCZU1uME9tc183VDZJc3B2d3pCWGRGN0hvbUU5M29aWWPSAXZBVV95cUxPZ3ZmbW04MEx6Yk13SmtVTGJ2VTRabEl1WWZNR0RZQVpuczVOdUZKMnVrdkE1YTgwcnpaNmd6QlVURWhaUjZRcmE1TkxLTVMzckZhY2hoSjF6anNQQ2FyeWtsOGxJSFF3TnhGZVItbE1RSTlENnFR?oc=5",
+      "source": "Janayugom Online",
       "category": "general",
-      "published_at": "2026-11-07T08:30:20+00:00",
+      "published_at": "2026-11-07T17:01:35+00:00",
       "importance": 3,
       "personal_score": 3.25,
       "entities": [
-        "രൂപയ്ക്കും",
-        "സ്വര്",
-        "കിട്ടും",
-        "ധന്തേരാസില്",
-        "ഡിജിറ്റല്",
-        "ണത്തിന്",
-        "ആവശ്യക്കാരേറെ",
-        "വില്",
-        "തകൃതി",
-        "ആദ്യമായി",
-        "ആഭരണങ്ങള്",
-        "വാങ്ങുന്നവരില്"
-      ],
-      "summary_method": "tfidf_extractive_full_article"
-    },
-    {
-      "id": "3236a227a8b0ab0d",
-      "title": "മദ്യപിച്ച് വാഹനമോടിച്ച 23040 പേര്‍ക്കെതിരെ കേസ് - Kerala Kaumudi",
-      "summary": "മദ്യപിച്ച് വാഹനമോടിച്ച 23040 പേര്‍ക്കെതിരെ കേസ് Kerala Kaumudi",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9od3l3SWp2VXU5dktqUjdnV2g2RDA0cUJuZVV6a3dZSmJUdlVjVUJTV2JacWgxUkxBVUNMLW82R0JOTUxFSVBLaC1hbkZUNGdoMVFBa1dQWHlwTU1sWXotUkp1Y0ROdw?oc=5",
-      "source": "Kerala Kaumudi",
-      "category": "general",
-      "published_at": "2026-11-07T19:00:02+00:00",
-      "importance": 3,
-      "personal_score": 3.25,
-      "entities": [
-        "മദ്യപിച്ച്",
-        "വാഹനമോടിച്ച",
+        "പോളണ്ടില്",
+        "വെടിവയ്പ്പ്",
+        "അഞ്ച്",
         "പേര്",
-        "ക്കെതിരെ",
-        "കേസ്",
-        "Kerala Kaumudi"
+        "കൊല്ലപ്പെട്ടു",
+        "Janayugom Online"
       ],
       "summary_method": "rss_fallback"
     },
     {
-      "id": "380c8718462af0a6",
-      "title": "സുവർണ കേരളം ലോട്ടറി നറുക്കെടുപ്പ് ഫലം: ഒന്നാം സമ്മാനം 1 കോടി രൂപ RN 802143 എന്ന നമ്പറിന് | Kerala Lottery Results Today - Manorama Online",
-      "summary": "സുവർണ കേരളം ലോട്ടറി നറുക്കെടുപ്പ് ഫലം: ഒന്നാം സമ്മാനം 1 കോടി രൂപ RN 802143 എന്ന നമ്പറിന് | Kerala Lottery Results Today Manorama Online",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNUXYtMU1JaVBuZU9xWWFsd1Y1eno3a3dVeWk3enZQV0dPWDlKMDl5UWYwMkttbGxWenBFUDFwV2hrVnhNN0h5MDZzWDRDZGJmaVZaakMwd0dibE1vVUY4RUc0emtEdjl1RUZVUEJhU0lWTDc4VGM3ZUdsSGhsUGRBYkJta1haZW1Ic1ZLRkVVWHZLYkdxT3MzTFFhVVhZa0ljcDZTN1hMS2ZmZDRCMkt0ejZvZjhfUDVBMUxOM2tCQnh6U3Y3UUNhc2xxZXp3ZDMwVTR6TldhREo0emE4c3FNVFhFN3dKVzM0Uk1kRGJibktKM0lYRFJENjhR?oc=5",
-      "source": "Manorama Online",
+      "id": "b2a818e99c2a94de",
+      "title": "ഇന്ത്യ- സൗദി ഹജ്ജ് കരാർ തിങ്കളാഴ്ച ജിദ്ദയിൽ ഒപ്പുവെക്കും - Media One",
+      "summary": "ഇന്ത്യ- സൗദി ഹജ്ജ് കരാർ തിങ്കളാഴ്ച ജിദ്ദയിൽ ഒപ്പുവെക്കും Media One",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNeWtCak9pNjlQV3poYXB5dGpYajFya2FGVTViQnNzdEZpRWtqdFZHbXhDVG1VSjZBaTdrWjU1dGJTTXVQREhPWkdqcE04SFFRVTRaUXBGbGpRc1BPc3RxMkVIVUNXLW1TNG45QXNMVTRaeEFSZHhPMjh2UjRrcUgwSTlZOFlkWGR6YTBXdjVicE9ERnNxOHE2S0ZrS1NsVVdlZm9icldlWUszcW5JOUl6VHFEU3FhUdIBuwFBVV95cUxPOThxd1VsVjJLeTZKNG1aM01WeFlpVjFnWjVGT0JVcENVVFowRGl0RTBNbl9POUxQUDhRaGlwbXJVTkhiYlhxVjh1Z3JER2J4SUJlbUkzQThuaEhvVjlJdWpFS0E3RGxTSFdQd2ZqLWJES2s3eVFybHhFcGdyY1ZyTFdwNjEzTFRTLWpYNXpEbmZia21wamRQaDFjc1ZrUkc4VXRydWNPX2pDRTN6bXNiVGJJUEctMk1RVXo0?oc=5",
+      "source": "Media One",
       "category": "general",
-      "published_at": "2026-11-06T09:45:03+00:00",
+      "published_at": "2026-11-07T19:31:09+00:00",
       "importance": 3,
       "personal_score": 3.25,
       "entities": [
-        "സുവർണ",
-        "കേരളം",
-        "ലോട്ടറി",
-        "നറുക്കെടുപ്പ്",
-        "ഫലം",
-        "ഒന്നാം",
-        "സമ്മാനം",
-        "കോടി",
-        "രൂപ",
-        "എന്ന",
-        "നമ്പറിന്",
-        "Kerala Lottery Results Today"
+        "ഇന്ത്യ",
+        "സൗദി",
+        "ഹജ്ജ്",
+        "കരാർ",
+        "തിങ്കളാഴ്ച",
+        "ജിദ്ദയിൽ",
+        "ഒപ്പുവെക്കും",
+        "Media One"
       ],
       "summary_method": "rss_fallback"
     },
@@ -950,48 +891,26 @@
       "summary_method": "rss_fallback"
     },
     {
-      "id": "67412fa752fcd571",
-      "title": "പോളണ്ടില്‍ വെടിവയ്പ്പ്; അഞ്ച് പേര്‍ കൊല്ലപ്പെട്ടു - Janayugom Online",
-      "summary": "പോളണ്ടില്‍ വെടിവയ്പ്പ്; അഞ്ച് പേര്‍ കൊല്ലപ്പെട്ടു Janayugom Online",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE52aXV0MkVYaDZPbW9mXzhoV2VNbFQ3Q25SXzJUaDQzTmN4XzhqV0JtNVdaOHY3NFR2X1poRm5tTFA2NXZOT09EeVhCNzFzcWZCZU1uME9tc183VDZJc3B2d3pCWGRGN0hvbUU5M29aWWPSAXZBVV95cUxPZ3ZmbW04MEx6Yk13SmtVTGJ2VTRabEl1WWZNR0RZQVpuczVOdUZKMnVrdkE1YTgwcnpaNmd6QlVURWhaUjZRcmE1TkxLTVMzckZhY2hoSjF6anNQQ2FyeWtsOGxJSFF3TnhGZVItbE1RSTlENnFR?oc=5",
-      "source": "Janayugom Online",
+      "id": "d6ef1c30251bcb78",
+      "title": "Kerala Rain: സംസ്ഥാനത്ത് ഇടിവെട്ടി മഴ തുടരും; 7 ജില്ലകളിൽ മഞ്ഞ അലർട്ട് - Indian Express Malayalam",
+      "summary": "Kerala Rain: സംസ്ഥാനത്ത് ഇടിവെട്ടി മഴ തുടരും; 7 ജില്ലകളിൽ മഞ്ഞ അലർട്ട് Indian Express Malayalam",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQXBWUEtib1ZxZ1V1S0dfWk1pVFdWRE90d1BGYmFtTGsxOUlaQlV3VVFNSU9Eb181Slk0dTBGVDhPdnI1WkNsSjJlR1FpNmVOOWNSSG1YaXMtOEFRMWp5NjhseC11TW9pQ2tGRjZaMjhGMGtCaUNjQnQyQ09VRURjcDZ5dVBqcFY0Ui1EVFN2S19TaHRRa1dGQmlMaDFTeU1tNTM3MnVPR01hekIxOVdUUnh1Z9IBswFBVV95cUxQQXBWUEtib1ZxZ1V1S0dfWk1pVFdWRE90d1BGYmFtTGsxOUlaQlV3VVFNSU9Eb181Slk0dTBGVDhPdnI1WkNsSjJlR1FpNmVOOWNSSG1YaXMtOEFRMWp5NjhseC11TW9pQ2tGRjZaMjhGMGtCaUNjQnQyQ09VRURjcDZ5dVBqcFY0Ui1EVFN2S19TaHRRa1dGQmlMaDFTeU1tNTM3MnVPR01hekIxOVdUUnh1Zw?oc=5",
+      "source": "Indian Express Malayalam",
       "category": "general",
-      "published_at": "2026-11-07T17:01:35+00:00",
+      "published_at": "2026-11-07T09:47:18+00:00",
       "importance": 3,
       "personal_score": 3.25,
       "entities": [
-        "പോളണ്ടില്",
-        "വെടിവയ്പ്പ്",
-        "അഞ്ച്",
-        "പേര്",
-        "കൊല്ലപ്പെട്ടു",
-        "Janayugom Online"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
-      "id": "9533df54fec5d146",
-      "title": "ഇറാന്റെ ആണവപദ്ധതികളുടെ നിര്‍ണായക വിവരങ്ങള്‍ കൈമാറുന്നവര്‍ക്ക് കോടികള്‍ വാഗ്ദാനം ചെയ്ത് യുഎസ് - Janayugom Online",
-      "summary": "ഇറാന്റെ ആണവപദ്ധതികളുടെ നിര്‍ണായക വിവരങ്ങള്‍ കൈമാറുന്നവര്‍ക്ക് കോടികള്‍ വാഗ്ദാനം ചെയ്ത് യുഎസ് Janayugom Online",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZDZyTEdFSjE0eGdIWDhaLWtQbkZ6dnhLQk8yZC1tdElubHVzLVIwZVc5WkZEYUxGNnkzYUVCRFJpam05Wnd0R2NvWDNYTHIwWWp0bHhSVmwxWHQzbGRJODhCeHhKZ3hrcWdWWTZsckZZdHE0V3Vvb1Vsd3Vxc044REhCa3BmRVFsamlOMWRuak9ZT3VBdk1EaGpLVdIBoAFBVV95cUxNaTlfWnBqWmVUaGkyXzh4bHp2N3FCeGhCTjRLY25ZUVpNZmRsbVMyT2QyUFo5bUVES3l5V1Jhc185MVkzeUFUU0VJeDhRNnFkQWtaVDdCSHZsSHpzN0xNNlkxZ0ZQTVl3ZWk4bFV5QkVoVFFzWVhTUUNfMlVvZDF1X3JZYllJcGJkaVEtX1VGaTBVMlJ5blNFdDZFNl80N2E3?oc=5",
-      "source": "Janayugom Online",
-      "category": "general",
-      "published_at": "2026-11-07T15:38:46+00:00",
-      "importance": 3,
-      "personal_score": 3.25,
-      "entities": [
-        "ഇറാന്റെ",
-        "ആണവപദ്ധതികളുടെ",
-        "നിര്",
-        "ണായക",
-        "വിവരങ്ങള്",
-        "കൈമാറുന്നവര്",
-        "ക്ക്",
-        "കോടികള്",
-        "വാഗ്ദാനം",
-        "ചെയ്ത്",
-        "യുഎസ്",
-        "Janayugom Online"
+        "സംസ്ഥാനത്ത്",
+        "ഇടിവെട്ടി",
+        "തുടരും",
+        "ജില്ലകളിൽ",
+        "മഞ്ഞ",
+        "അലർട്ട്",
+        "Kerala Rain",
+        "Indian Express Malayalam Kerala",
+        "Rain",
+        "Indian Express Malayalam"
       ],
       "summary_method": "rss_fallback"
     },
@@ -1022,28 +941,48 @@
       "summary_method": "rss_fallback"
     },
     {
-      "id": "e34822043ef44222",
-      "title": "സ്വര്‍ണവില വര്‍ധിച്ചു; ഇന്നത്തെ പവന്‍ നിരക്ക് അറിയാം, വെള്ളി വിലയില്‍ നേരിയ കുറവ്, രൂപ കരുത്തില്‍",
-      "summary": "അതേസമയം, ഇന്ത്യന്‍ രൂപ കരുത്തിലാണ്.ഖത്തര്‍ ഈ ഗതി പ്രതീക്ഷിച്ചില്ല; 2000 കോടി നഷ്ടം, ഇനി അമേരിക്ക തന്നെ ശരണം, പ്ലാന്‍ ബി തയ്യാര്‍ക്രൂഡ് ഓയില്‍ വില നേരിയ തോതില്‍ വര്‍ധിക്കുന്നുണ്ട്. അതേസമയം, ക്രൂഡ് ഓയില്‍ വില ഉയരുന്നതോടെ നിക്ഷേപകരുടെ ശ്രദ്ധ ഓഹരി വിപണിയില്‍ നിന്നും സ്വര്‍ണത്തില്‍ നിന്നും തിരിയാനുള്ള സാധ്യതയുമുണ്ട്. 22 കാരറ്റ് ഒരു പവന്‍ ആഭരണം വാങ്ങുന്നവര്‍ക്ക് ഇന്ന് 1.14 ലക്ഷം രൂപ ചെലവ് വരുമെന്നാണ് പ്രതീക്ഷിക്കുന്നത്.കെഎസ്ആര്‍ടിസി 5 ബസുകള്‍; തിരുവനന്തപുരത്ത് നിന്ന് രാത്രി 12.30ന് പുറപ്പെടും, എസി ടിക്കറ്റ് 467 രൂപകേരളത്തിലെ കുറഞ്ഞ കാരറ്റ് സ്വര്‍ണവിലയിലും ഇന്ന് മാറ്റമുണ്ട്. എങ്കിലും പ്രവചിക്കാന്‍ കഴിയാത്ത വിധം മാറിമറിയുകയാണ് വിപണിയിലെ കാര്യങ്ങള്‍.ഡോളറിനെതിരെ ഇന്ത്യന്‍ രൂപയുടെ മൂല്യം 94.05 എന്ന നിരക്കിലാണുള്ളത്.",
-      "url": "https://malayalam.oneindia.com/news/kerala/gold-rate-today-in-kerala-marked-nominal-rise-crude-oil-dollar-rise-rupee-also-strengthen-details-603439.html",
-      "source": "Oneindia Malayalam News",
+      "id": "1f989c73ac259ab5",
+      "title": "Under-construction roof of school auditorium collapses in Keralam; no casualties",
+      "summary": "Thiruvananthapuram An under-construction roof of an auditorium at an aided school in Keralam collapsed on Saturday (November 7, 2026). The incident occurred around noon at PKS Higher Secondary School, Kanjiramkulam, near Neyyattinkara, Education department officials said. The workers present at the site managed to move to safety after noticing the roof collapsing, officials said. Work has begun to clear the debris, and Public Works Department officials will examine whether any defects in the construction work led to the collapse, officials added.",
+      "url": "https://www.thehindu.com/news/national/kerala/under-construction-roof-of-school-auditorium-collapses-in-keralam-no-casualties/article71677975.ece",
+      "source": "The Hindu Kerala",
       "category": "general",
-      "published_at": "2026-11-07T04:40:44+00:00",
+      "published_at": "2026-11-07T10:42:42+00:00",
+      "importance": 3,
+      "personal_score": 3.25,
+      "entities": [
+        "Under-construction",
+        "Keralam",
+        "PKS Higher Secondary School",
+        "Kanjiramkulam",
+        "Neyyattinkara. The",
+        "Friday"
+      ],
+      "summary_method": "tfidf_extractive_full_article"
+    },
+    {
+      "id": "4df97cfab706ec3f",
+      "title": "10 രൂപയ്ക്കും സ്വര്‍ണം കിട്ടും..! ധന്തേരാസില്‍ ഡിജിറ്റല്‍ സ്വര്‍ണത്തിന് ആവശ്യക്കാരേറെ; വില്‍പന തകൃതി",
+      "summary": "വെള്ളി വില്‍പ്പനയില്‍ മൂല്യത്തിന്റെ അടിസ്ഥാനത്തില്‍ 30 ശതമാനവും, അളവിന്റെ അടിസ്ഥാനത്തില്‍ 10 ശതമാനവും വര്‍ദ്ധനവ് ഉണ്ടാകുമെന്നാണ് പ്രതീക്ഷിക്കുന്നത്.കഴിഞ്ഞ വര്‍ഷത്തെ അപേക്ഷിച്ച് ജ്വല്ലറികളില്‍ എത്തുന്നവരുടെ എണ്ണം കൂടുതലാണെന്നും, പ്രത്യേകിച്ച് പടിഞ്ഞാറന്‍, വടക്കന്‍ വിപണികളില്‍ മുന്‍കൂട്ടിയുള്ള ബുക്കിംഗുകള്‍ ഡിമാന്‍ഡ് വര്‍ധിപ്പിക്കാന്‍ സഹായിച്ചുവെന്നും ജിജെസി വൈസ് ചെയര്‍മാന്‍ അവിനാഷ് ഗുപ്ത പറഞ്ഞു. ടയര്‍ 1 നഗരങ്ങള്‍ക്ക് പുറമെ ജയ്പൂര്‍, ഡെറാഡൂണ്‍, സൂറത്ത്, ബെല്‍ഗാം, ആര, റായ്പൂര്‍ തുടങ്ങിയ ടയര്‍-2, ടയര്‍-3 നഗരങ്ങളില്‍ നിന്നും മികച്ച പ്രതികരണം ലഭിക്കുന്നുണ്ടെന്നും, ആദ്യമായി ആഭരണങ്ങള്‍ വാങ്ങുന്നവരില്‍ നിന്നുപോലും ഡിമാന്‍ഡ് വര്‍ധിക്കുന്നുണ്ടെന്നും അദ്ദേഹം ചൂണ്ടിക്കാട്ടി.സ്വര്‍ണവിലയിലെ കുറവ്, മുന്‍കൂട്ടിയുള്ള ബുക്കിംഗുകള്‍, ദീപാവലിയോട് അനുബന്ധിച്ചുള്ള നീണ്ട അവധി ദിവസങ്ങള്‍ എന്നിവയുടെ പിന്‍ബലത്തില്‍, കഴിഞ്ഞ വര്‍ഷത്തെ അപേക്ഷിച്ച് 25-30 ശതമാനം വളര്‍ച്ചയാണ് മേഖലയില്‍ പ്രതീക്ഷിക്കുന്നതെന്ന് പിഎന്‍ജി ജ്വല്ലേഴ്‌സ് ചെയര്‍മാനും മാനേജിംഗ് ഡയറക്ടറുമായ സൗരഭ് ഗാഡ്ഗില്‍ പറഞ്ഞു. കഴിഞ്ഞ വര്‍ഷത്തെ അപേക്ഷിച്ച് കമ്പനിയുടെ ആഭരണ വില്‍പ്പനയില്‍ 10% വര്‍ധനയുണ്ടായി എന്ന് കമ ജ്വല്ലറി മാനേജിംഗ് ഡയറക്ടര്‍ കോളിന്‍ ഷാ പറയുന്നു.കര്‍ണാടകയിലെ പെട്രോളില്‍ 31% എഥനോള്‍; സര്‍ക്കാര്‍ വാദം തള്ളി പൊതുമേഖലാ എണ്ണ കമ്പനികള്‍ഭാരം കുറഞ്ഞതും കല്ലുകള്‍ പതിച്ചതുമായ ആഭരണങ്ങള്‍ക്ക് വലിയ ഡിമാന്‍ഡാണ് അനുഭവപ്പെട്ടത്. പരമ്പരാഗതമായി ഉയര്‍ന്ന മൂല്യമുള്ള ഈ മേഖലയില്‍ ജെന്‍സി പുതിയ രീതിയിലുള്ള വാങ്ങല്‍ ശീലങ്ങള്‍ കൊണ്ടുവരുന്നു, സൂപ്പര്‍മണി സ്ഥാപകനും സിഇഒയുമായ പ്രകാശ് സികാരിയ പറയുന്നു.സ്വര്‍ണവില കുറഞ്ഞത് മുതലാക്കാന്‍ ഉപഭോക്താക്കള്‍; ജ്വല്ലറികളില്‍ വന്‍തിരക്ക്വജ്രാഭരണങ്ങള്‍ക്കും നിക്ഷേപ ഉല്‍പ്പന്നങ്ങള്‍ക്കും ആവശ്യക്കാര്‍ ഏറുന്നുണ്ട്.",
+      "url": "https://malayalam.oneindia.com/news/india/gold-selling-digital-gold-attract-most-customers-during-dhanteras-2026-demand-shows-huge-surge-603451.html",
+      "source": "Oneindia Malayalam",
+      "category": "general",
+      "published_at": "2026-11-07T08:30:20+00:00",
       "importance": 2,
       "personal_score": 2.25,
       "entities": [
+        "രൂപയ്ക്കും",
         "സ്വര്",
-        "ണവില",
-        "വര്",
-        "ധിച്ചു",
-        "ഇന്നത്തെ",
-        "പവന്",
-        "നിരക്ക്",
-        "അറിയാം",
-        "വെള്ളി",
-        "വിലയില്",
-        "നേരിയ",
-        "കുറവ്"
+        "കിട്ടും",
+        "ധന്തേരാസില്",
+        "ഡിജിറ്റല്",
+        "ണത്തിന്",
+        "ആവശ്യക്കാരേറെ",
+        "വില്",
+        "തകൃതി",
+        "ആദ്യമായി",
+        "ആഭരണങ്ങള്",
+        "വാങ്ങുന്നവരില്"
       ],
       "summary_method": "tfidf_extractive_full_article"
     },
@@ -1072,6 +1011,55 @@
         "പരിശോധനകളില്"
       ],
       "summary_method": "tfidf_extractive_full_article"
+    },
+    {
+      "id": "e34822043ef44222",
+      "title": "സ്വര്‍ണവില വര്‍ധിച്ചു; ഇന്നത്തെ പവന്‍ നിരക്ക് അറിയാം, വെള്ളി വിലയില്‍ നേരിയ കുറവ്, രൂപ കരുത്തില്‍",
+      "summary": "അതേസമയം, ഇന്ത്യന്‍ രൂപ കരുത്തിലാണ്.ഖത്തര്‍ ഈ ഗതി പ്രതീക്ഷിച്ചില്ല; 2000 കോടി നഷ്ടം, ഇനി അമേരിക്ക തന്നെ ശരണം, പ്ലാന്‍ ബി തയ്യാര്‍ക്രൂഡ് ഓയില്‍ വില നേരിയ തോതില്‍ വര്‍ധിക്കുന്നുണ്ട്. അതേസമയം, ക്രൂഡ് ഓയില്‍ വില ഉയരുന്നതോടെ നിക്ഷേപകരുടെ ശ്രദ്ധ ഓഹരി വിപണിയില്‍ നിന്നും സ്വര്‍ണത്തില്‍ നിന്നും തിരിയാനുള്ള സാധ്യതയുമുണ്ട്. 22 കാരറ്റ് ഒരു പവന്‍ ആഭരണം വാങ്ങുന്നവര്‍ക്ക് ഇന്ന് 1.14 ലക്ഷം രൂപ ചെലവ് വരുമെന്നാണ് പ്രതീക്ഷിക്കുന്നത്.കെഎസ്ആര്‍ടിസി 5 ബസുകള്‍; തിരുവനന്തപുരത്ത് നിന്ന് രാത്രി 12.30ന് പുറപ്പെടും, എസി ടിക്കറ്റ് 467 രൂപകേരളത്തിലെ കുറഞ്ഞ കാരറ്റ് സ്വര്‍ണവിലയിലും ഇന്ന് മാറ്റമുണ്ട്. എങ്കിലും പ്രവചിക്കാന്‍ കഴിയാത്ത വിധം മാറിമറിയുകയാണ് വിപണിയിലെ കാര്യങ്ങള്‍.ഡോളറിനെതിരെ ഇന്ത്യന്‍ രൂപയുടെ മൂല്യം 94.05 എന്ന നിരക്കിലാണുള്ളത്.",
+      "url": "https://malayalam.oneindia.com/news/kerala/gold-rate-today-in-kerala-marked-nominal-rise-crude-oil-dollar-rise-rupee-also-strengthen-details-603439.html",
+      "source": "Oneindia Malayalam News",
+      "category": "general",
+      "published_at": "2026-11-07T04:40:44+00:00",
+      "importance": 2,
+      "personal_score": 2.25,
+      "entities": [
+        "സ്വര്",
+        "ണവില",
+        "വര്",
+        "ധിച്ചു",
+        "ഇന്നത്തെ",
+        "പവന്",
+        "നിരക്ക്",
+        "അറിയാം",
+        "വെള്ളി",
+        "വിലയില്",
+        "നേരിയ",
+        "കുറവ്"
+      ],
+      "summary_method": "tfidf_extractive_full_article"
+    },
+    {
+      "id": "96a4efc6e5cb1664",
+      "title": "Kerala Goldrate : പൊന്നിന് നേരിയ വർദ്ധന; അറിയാം ഇന്നത്തെ സ്വർണവില - News18 Malayalam",
+      "summary": "Kerala Goldrate : പൊന്നിന് നേരിയ വർദ്ധന; അറിയാം ഇന്നത്തെ സ്വർണവില News18 Malayalam",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPeHVWMkt5S21EUzNQUWU5aFJndGpHV0h4NXJwbVpQejM1MnFPdjRfMllBT1Nyd3FRTktJbEpTbG94WDJIZzJpZWN3REIzVzBYWlc1M29odnloZDVIS21ucTE5dGJzRGd0eDAyZk5TenlKUkkxc2x0ZWFFTlZzT2oxRE1KdERram5sVjJmOUZvTHZpb0Q2cENpb28tUnphU3IyOXprZlRqTTZwVE9VWktVTmY0ZXp2QzJYakE?oc=5",
+      "source": "News18 Malayalam",
+      "category": "general",
+      "published_at": "2026-11-07T06:58:25+00:00",
+      "importance": 2,
+      "personal_score": 2.25,
+      "entities": [
+        "പൊന്നിന്",
+        "നേരിയ",
+        "വർദ്ധന",
+        "അറിയാം",
+        "ഇന്നത്തെ",
+        "സ്വർണവില",
+        "Kerala Goldrate",
+        "News18 Malayalam Kerala Goldrate",
+        "News18 Malayalam"
+      ],
+      "summary_method": "rss_fallback"
     },
     {
       "id": "fdca320f78d79254",
@@ -1153,23 +1141,6 @@
   ],
   "tech": [
     {
-      "id": "8b3a39303306d81d",
-      "title": "U.S. FBI and regulators issue warning about cyber-attacks targeting industrial refrigerators",
-      "summary": "Gaining control of these systems would enable hackers to adjust temperatures to dangerous extremes or run unauthorised defrost cycles, leading to the spoilage of inventory or even fire hazards. FBI-issued factsheet recommended that organisations with cold storage facilities de-link control system devices from the internet, enhance password security, apply patches to keep systems updated, and replace legacy devices that no longer receive security updates. The notice came shortly after cyber attacks led to huge amounts of food waste across European supermarket franchises, where some fridge temperatures were raised as high as 50 degrees Celsius in October. We are seeing these systems targeted across critical infrastructure sectors globally, putting inventory and equipment at risk,” said FBI Cyber Branch Operations Director Brett Leatherman.",
-      "url": "https://www.thehindu.com/sci-tech/technology/us-fbi-and-regulators-issue-warning-about-cyber-attacks-targeting-industrial-refrigerators/article71677605.ece",
-      "source": "The Hindu Science and Technology",
-      "category": "tech",
-      "published_at": "2026-11-07T07:44:22+00:00",
-      "importance": 10,
-      "personal_score": 10.0,
-      "entities": [
-        "U.S. FBI",
-        "The U.S",
-        "European"
-      ],
-      "summary_method": "tfidf_extractive_full_article"
-    },
-    {
       "id": "5c43d537b024c80b",
       "title": "എഐ ഓഹരികളുടെ കാലം കഴിഞ്ഞോ? മസ്‌കിനും കാലിടറി, യുഎസ് ഇടക്കാല തിരഞ്ഞെടുപ്പ് നൽകുന്ന മുന്നറിയിപ്പ്",
       "summary": "കർശനമായ ഡാറ്റാ സെന്റർ നിയന്ത്രണങ്ങളെക്കുറിച്ചും പുതിയ പദ്ധതികൾക്കുള്ള രാഷ്ട്രീയ പ്രതിരോധത്തെക്കുറിച്ചും ഉള്ള ആശങ്കകളാണ് നിക്ഷേപകരെ അസ്വസ്ഥരാക്കിയത്.ഇതിന്റെ ഫലമായുണ്ടായ ഇടിവിൽ എസ് ആന്റ് പി 500 മാർക്കറ്റ് മൂല്യത്തിൽ ഏകദേശം 3 ട്രില്യൺ ഡോളർ കുറവുണ്ടായി. ഈ ആഴ്‌ച മസ്‌കിന്റെ കമ്പനികളുടെ വിപണി മൂല്യത്തിൽ 380 ബില്യൺ ഡോളറിലധികം ഇടിവുണ്ടായി എന്നാണ് കണക്കുകൾ വ്യക്തമാക്കുന്നത്.നിലവിൽ എഐ അടിസ്ഥാന സൗകര്യ കുതിച്ചുചാട്ടം അതിന്റെ നിലവിലെ വേഗതയിൽ തുടരാൻ കഴിയുമോ എന്ന് നിക്ഷേപകർ കൂടുതലായി ആശങ്ക ഉന്നയിക്കുന്നതാണ് ഇതിന് കാരണം. പുതിയ ഡാറ്റാ സെന്ററുകൾക്കെതിരായ എതിർപ്പ് ശക്തി പ്രാപിക്കുന്ന പ്രദേശങ്ങൾ ഉൾപ്പെടെ യുഎസ് തിരഞ്ഞെടുപ്പിലെ ഫലങ്ങൾ കർശനമായ നിയന്ത്രണത്തെയും രാഷ്ട്രീയ പ്രതിരോധത്തെയും കുറിച്ചുള്ള ആശങ്കകൾ വർധിപ്പിച്ചു.നിക്ഷേപകരെ സംബന്ധിച്ചിടത്തോളം, ആർട്ടിഫിഷ്യൽ ഇന്റലിജൻസിന്റെ പൂർണമായ അന്ത്യമല്ല ഇതെന്ന് പ്രത്യേകം ഓർക്കണം. എഐ ഇപ്പോഴും വ്യവസായങ്ങളെ മാറ്റങ്ങളിലൂടെ വളർത്തുകയും പുതിയ അവസരങ്ങൾ സൃഷ്‌ടിക്കുകയും ചെയ്യുന്നുണ്ടെങ്കിലും അതിന് മറ്റൊരു വശം കൂടി ഉണ്ടെന്ന് വിപണി എല്ലാവരേയും ഓർമ്മിപ്പിക്കുന്നു.നിലവിലെ ഇടിവോടെ എഐയുടെ ഭാവി അവസാനിച്ചു എന്നല്ല അർത്ഥമാക്കുന്നത്.",
@@ -1192,6 +1163,23 @@
         "നൽകുന്ന",
         "മുന്നറിയിപ്പ്",
         "Is The Era Of"
+      ],
+      "summary_method": "tfidf_extractive_full_article"
+    },
+    {
+      "id": "8b3a39303306d81d",
+      "title": "U.S. FBI and regulators issue warning about cyber-attacks targeting industrial refrigerators",
+      "summary": "Gaining control of these systems would enable hackers to adjust temperatures to dangerous extremes or run unauthorised defrost cycles, leading to the spoilage of inventory or even fire hazards. FBI-issued factsheet recommended that organisations with cold storage facilities de-link control system devices from the internet, enhance password security, apply patches to keep systems updated, and replace legacy devices that no longer receive security updates. The notice came shortly after cyber attacks led to huge amounts of food waste across European supermarket franchises, where some fridge temperatures were raised as high as 50 degrees Celsius in October. We are seeing these systems targeted across critical infrastructure sectors globally, putting inventory and equipment at risk,” said FBI Cyber Branch Operations Director Brett Leatherman.",
+      "url": "https://www.thehindu.com/sci-tech/technology/us-fbi-and-regulators-issue-warning-about-cyber-attacks-targeting-industrial-refrigerators/article71677605.ece",
+      "source": "The Hindu Science and Technology",
+      "category": "tech",
+      "published_at": "2026-11-07T07:44:22+00:00",
+      "importance": 10,
+      "personal_score": 10.0,
+      "entities": [
+        "U.S. FBI",
+        "The U.S",
+        "European"
       ],
       "summary_method": "tfidf_extractive_full_article"
     },
@@ -1301,23 +1289,6 @@
       "summary_method": "rss_fallback"
     },
     {
-      "id": "ae161d2fd049c853",
-      "title": "Japan announces emergency cybersecurity package following a wave of attacks - Tech Xplore",
-      "summary": "Japan announces emergency cybersecurity package following a wave of attacks Tech Xplore",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPOXV4cUdzNmxHZzlobFlqSG9ONWVBSHF0YTdscWRoT1YyMVBRYjdmWWNtZnlQLUZjWTJ1bVQ3RVZPOVZYYTRCa3g4UDh1THQtMG1Lcm41bE02RWRkVnZfWVYydVJjUldIdkN3OG03RUNLNjNySU9WNzRwVEJlOGNLUWpHaVQ?oc=5",
-      "source": "Tech Xplore",
-      "category": "tech",
-      "published_at": "2026-11-07T11:05:38+00:00",
-      "importance": 9,
-      "personal_score": 9.0,
-      "entities": [
-        "Japan",
-        "Tech Xplore Japan",
-        "Tech Xplore"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
       "id": "319198a308a5a886",
       "title": "As COP31 comes to Turkiye, satellites reveal a landfill methane problem",
       "summary": "Trump is pushing ways of bringing down energy costs ahead of the midterms, amid voter anger over soaring oil costs caused by his war on Iran Trump drastically loosens oil and gas methane rules storyline 1 Turkiye hosts COP31 in Antalya from November ⁠9 to 20 and has made methane reduction a priority for the climate summit. If COP31 is to deliver real impetus to climate action, its decisions must revert to the basics At COP31, the ‘overshoot’ narrative cannot replace climate action storyline 1 Tia Scarpelli, waste sector lead for emissions-monitoring non-profit Carbon Mapper, said cutting landfill methane requires diverting organic material before it reaches dumps, while improving rates of capture. It said Turkiye’s Zero Waste Initiative, ​a government scheme to promote recycling, aims to reduce waste going to landfills, thereby lowering methane emissions, adding that the national “recovery rate” for waste had risen to 37.53% in 2025 from 13% in 2017. ISTAC head Fatih Ugur said about 30 hectares of the landfill had been left uncovered on the day of that measurement while work was carried out on methane-collection pipes, and that low atmospheric pressure had also contributed to a higher concentration of methane.",
@@ -1354,24 +1325,6 @@
       "summary_method": "rss_fallback"
     },
     {
-      "id": "638ed6d23df593a3",
-      "title": "Japan seeks early access to software vulnerabilities from US AI firms for cybersecurity - Beinsure",
-      "summary": "Japan seeks early access to software vulnerabilities from US AI firms for cybersecurity Beinsure",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSTVPdHhaMVJLTmQwVDh2WXh0V3k3MTR5X2pyMG94NHZTUXJFMlJQQ3h4LWhmbHhWUU1uazRoNzJaVkJRbzdSTTZHNWhoTVc3dEdCeWxDUVZLbVl4S3RSR24taDhaZkN1VHhGZmJzU0ZVdldENC1IWWx1bENpZXlUZkdjMUg5cGpWT2hXWVlHSmhwbUVo?oc=5",
-      "source": "Beinsure",
-      "category": "tech",
-      "published_at": "2026-11-07T12:47:21+00:00",
-      "importance": 9,
-      "personal_score": 9.0,
-      "entities": [
-        "Japan",
-        "US AI",
-        "Beinsure Japan",
-        "Beinsure"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
       "id": "620e0a7cd7a62e3a",
       "title": "Supreme Court terms vehicular emissions major contributor to air pollution in Delhi-NCR",
       "summary": "From Automatic Number Plate Recognition cameras to AI-enabled Integrated Control and Command Centres ICCC and manual checking, the authorities have adopted a mixed approach to impose the restrictions with varying degrees of success How is Delhi implementing restrictions to reduce air pollution? Parts of Delhi continue to reel under ‘severe’ air pollution Parts of Delhi continue to reel under ‘severe’ air pollution “Severe” level air pollution affects healthy people and seriously impacts those with existing diseases, as per the Central Pollution Control Board (CPCB) As New Delhi’s air turns toxic again, people complain of unaffordable air purification products As New Delhi’s air turns toxic again, people complain of unaffordable air purification products Despite observations from the Delhi High Court and recommendations from a Parliamentary Standing Committee to reduce the 18% GST on purifiers and HEPA filters to 5%, the GST Fitment Committee maintained the 18% levy GRAP 2 restrictions in Delhi: What’s allowed and what’s not GRAP 2 restrictions in Delhi: What’s allowed and what’s not Delhi imposes GRAP Stage 2 restrictions as AQI hits very poor; bans for older vehicles, boosts parking fees, and encourages usage of public transport. Air quality of Delhi worsens, many parts reel under ‘severe’ level air pollution Air quality of Delhi worsens, many parts reel under ‘severe’ level air pollution Many parts of the national capital, including IIT Delhi, ITO, Dwarka, Rohini, Punjabi Bagh, Alipur, Bawana, and Jahangirpuri, witnessed “severe” level air pollution Air quality of Delhi worsens, many parts reel under ‘severe’ level air pollution storyline 1 The Bench said it will pass some orders and take up the plea on November 16 after the court reopens following the Diwali vacation. Parts of Delhi continue to reel under ‘severe’ air pollution Parts of Delhi continue to reel under ‘severe’ air pollution “Severe” level air pollution affects healthy people and seriously impacts those with existing diseases, as per the Central Pollution Control Board (CPCB) Parts of Delhi continue to reel under ‘severe’ air pollution storyline 1 As New Delhi’s air turns toxic again, people complain of unaffordable air purification products As New Delhi’s air turns toxic again, people complain of unaffordable air purification products Despite observations from the Delhi High Court and recommendations from a Parliamentary Standing Committee to reduce the 18% GST on purifiers and HEPA filters to 5%, the GST Fitment Committee maintained the 18% levy As New Delhi’s air turns toxic again, people complain of unaffordable air purification products storyline 1 GRAP 2 restrictions in Delhi: What’s allowed and what’s not GRAP 2 restrictions in Delhi: What’s allowed and what’s not Delhi imposes GRAP Stage 2 restrictions as AQI hits very poor; bans for older vehicles, boosts parking fees, and encourages usage of public transport.",
@@ -1393,24 +1346,6 @@
       "summary_method": "tfidf_extractive_full_article"
     },
     {
-      "id": "2cbc2a33b53d4d75",
-      "title": "The AirPods 5 blew me away, but Android users should beware - Android Authority",
-      "summary": "The AirPods 5 blew me away, but Android users should beware Android Authority",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE11WkUweGV0UnhLWlRCMzdGQ1VDWnpPbHA4Zkg2LWJaV3FNRWYtcG5EUGNwa1lLMnBXVm5CSTNmbjJDVjViSEt1eG5fYW9GVDRhMFRmYzBTamNPRllzOGNiWEF1NW9JQmZPOWpmaExnVk84TE0yQ1BRd2FR?oc=5",
-      "source": "Android Authority",
-      "category": "tech",
-      "published_at": "2026-11-07T10:30:00+00:00",
-      "importance": 8,
-      "personal_score": 8.0,
-      "entities": [
-        "The AirPods",
-        "Android",
-        "Android Authority The AirPods",
-        "Android Authority"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
       "id": "b566784a20510b62",
       "title": "Environmental groups embrace AI, even as they warn of data center impacts - Reuters",
       "summary": "Environmental groups embrace AI, even as they warn of data center impacts Reuters",
@@ -1428,37 +1363,19 @@
       "summary_method": "rss_fallback"
     },
     {
-      "id": "3411121eefff07d7",
-      "title": "AI investment cycle may have peaked, Jefferies warns; raises India allocation to 14% - bfsi.economictimes.indiatimes.com",
-      "summary": "AI investment cycle may have peaked, Jefferies warns; raises India allocation to 14% bfsi.economictimes.indiatimes.com",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPTUgxVG5ZbzExbTZ4MzBreXhYUDVqaDJwbE56NDM0bF9OXzRqazZiS2IxNjgzcFlIUGEzOXJSSlRQQmpsRmFUZHJZdXFNWkFtSjFvZ2RGUjB1S19Oam1YRldabU0xa0ppZkJrSGo4dmhmOWtiOC1WVmxuT3kwUTdLc3dJQTlnbncyX09sZjFtMFB3cUxNMnJLQmlnQTRKRVE3RUZFajRGN3YySmxGcWY5Zmg2eGFPdnBtVVFGUUx3Uk9uNjRGTHFid3pMMlFNSFhjZHA3azFEUUMtUdIB3wFBVV95cUxQclkwZ1lsR3l2UXFzUy1iTHpQUHlSUkhGdUVpRW9YMkttLW1IcWZIdmN0c0ZrNDFvNGo2MmlXNkN1bWI0MXlQVXdNUldzd2dIT2I1Q3lFVzJuWTlpcUFzMFN4OW50eThYUkVlQkw4UEgxSE96NXVOLVJzblZ2eHNPZk9QVEY5Z1VHV0J6Z1Z5Z0l6MERqMlFfNVFscWVrRnVZbXJFN0VpZnAxbWpOSVBmRE1GZ3dVWTQ5eWRjbzM4STFxZ1pETFoyTzFuRk9MZVVTVmJvNk1MM2wwWWtSbXNv?oc=5",
-      "source": "bfsi.economictimes.indiatimes.com",
+      "id": "11646b4952bcf63c",
+      "title": "Japan announces emergency cybersecurity package following a wave of attacks - Japan Today",
+      "summary": "Japan announces emergency cybersecurity package following a wave of attacks Japan Today",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNa1FoeTI2enh2RDJ5bDdxWk53TTVJb3BxcDlLYnE3eHpwdVVKNDQ3dDhMSHVENTBudGpvVUFWSXIwSEx5QTFidGd3WUgtb1A2WWZzdVU5ZGFELUFtY0s3Y0RlZ1RoSExnelUzS1VzaGluWW90cl9qeENKMW41OHN0ZzU0QWc2MWdnVHdFT2tjSEhKaE9ZM2N1dDI1dWw2d2trZ0JVclZ2eUtjVy14YnlhUzJfbnppUWc?oc=5",
+      "source": "Japan Today",
       "category": "tech",
-      "published_at": "2026-11-07T09:23:34+00:00",
+      "published_at": "2026-11-07T06:58:00+00:00",
       "importance": 8,
       "personal_score": 8.0,
       "entities": [
-        "Jefferies"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
-      "id": "dac22b2ddabffff5",
-      "title": "The AI Dependency Explosion: Safeguarding Software Supply Chains Against Autonomous Package Ingestion - CXOToday.com",
-      "summary": "The AI Dependency Explosion: Safeguarding Software Supply Chains Against Autonomous Package Ingestion CXOToday.com",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPQzJqRGFCdUwwSjI2ZlFScmViWFhnYW1xNXlhQ1ptWnZuSExwaGpxemFhSWNJcFloQlB0Ni1Cb1hiMGlDVW5UUGlXNXRzVVlCYWtBdUZldXptLWFRMWtFOE5IMm5Rbk1jMzZKdDZoaUdzQUZNWmJWY1pFV1NTbDFfcm0yMGQzQm0xM3dWZzlqT0kxT21MdDNtUzJWTER1VE9aSktucVVDdDFYWmt0Q28tbnBQdUVnWWFrQ2c3cFdzZDRld1NlU0JUdFlVOXQxcXZ6N1E?oc=5",
-      "source": "CXOToday.com",
-      "category": "tech",
-      "published_at": "2026-11-07T08:45:51+00:00",
-      "importance": 8,
-      "personal_score": 8.0,
-      "entities": [
-        "The AI Dependency Explosion",
-        "Safeguarding Software Supply Chains",
-        "Against Autonomous Package Ingestion",
-        "CXOToday.com The AI Dependency",
-        "Explosion",
-        "CXOToday.com"
+        "Japan",
+        "Japan Today Japan",
+        "Japan Today"
       ],
       "summary_method": "rss_fallback"
     },
@@ -1547,6 +1464,41 @@
       "summary_method": "rss_fallback"
     },
     {
+      "id": "30d541fcf51e23c9",
+      "title": "Advancing software engineering education with artificial intelligence - Augusta University",
+      "summary": "Advancing software engineering education with artificial intelligence Augusta University",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNU5EUUxGbHdfb0tDbTduOXJVLUhWZkhwRmJ1OENKaFFRU2VMODl6OWJ3NlAtd193Q0h1VW1iTTNaNzVzc2s4SmRhbWFRZTVIZEZaUmx2LVJzbFNuLS1HOGlvbFN2VWk3czVBZy1sTjFOcU9DSXhCcHR2WnhHbmlRdC1sZXp2ZlVndUxINmFTa1otY25MSk9RTFNuWGF2RkE?oc=5",
+      "source": "Augusta University",
+      "category": "tech",
+      "published_at": "2026-11-04T15:03:54+00:00",
+      "importance": 8,
+      "personal_score": 8.0,
+      "entities": [
+        "Advancing",
+        "Augusta University Advancing",
+        "Augusta University"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
+      "id": "2cbc2a33b53d4d75",
+      "title": "The AirPods 5 blew me away, but Android users should beware - Android Authority",
+      "summary": "The AirPods 5 blew me away, but Android users should beware Android Authority",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE11WkUweGV0UnhLWlRCMzdGQ1VDWnpPbHA4Zkg2LWJaV3FNRWYtcG5EUGNwa1lLMnBXVm5CSTNmbjJDVjViSEt1eG5fYW9GVDRhMFRmYzBTamNPRllzOGNiWEF1NW9JQmZPOWpmaExnVk84TE0yQ1BRd2FR?oc=5",
+      "source": "Android Authority",
+      "category": "tech",
+      "published_at": "2026-11-07T10:30:00+00:00",
+      "importance": 7,
+      "personal_score": 7.0,
+      "entities": [
+        "The AirPods",
+        "Android",
+        "Android Authority The AirPods",
+        "Android Authority"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
       "id": "74169e21493dac82",
       "title": "Atmanirbhar Bharat: Indian Air Force Ties Up With IIT Madras To Develop Indigenous Secure Communication System For Airborne Applications - Swarajya",
       "summary": "Atmanirbhar Bharat: Indian Air Force Ties Up With IIT Madras To Develop Indigenous Secure Communication System For Airborne Applications Swarajya",
@@ -1565,23 +1517,6 @@
         "Applications",
         "Swarajya Atmanirbhar Bharat",
         "Applications Swarajya"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
-      "id": "04c5a8b0cb7e1823",
-      "title": "Kiro lets AI bots continuously build software autonomously - Techzine Global",
-      "summary": "Kiro lets AI bots continuously build software autonomously Techzine Global",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcjNjOC1mMFVucFpQRGtUQ3FkbUVjd0xZMzJ6VmtDZkNDcWNmX2FFaUdsbm4wZGN1Q2taa2tKeGg5ZDJZSFV1ZXotd1haa2tjQnpmdXhFZm9pZmRZM0pzdXB2M1RjU1dERF9vVVRIMUlsRmJCcHNFamt4SzQ4Si1IRlF6TklkNXNiSWE2VVdoXzZfM0RpSmZIU1Y1bHowdnJqSFU2Rw?oc=5",
-      "source": "Techzine Global",
-      "category": "tech",
-      "published_at": "2026-11-06T09:05:48+00:00",
-      "importance": 7,
-      "personal_score": 7.0,
-      "entities": [
-        "Kiro",
-        "Techzine Global Kiro",
-        "Techzine Global"
       ],
       "summary_method": "rss_fallback"
     },
@@ -1605,6 +1540,42 @@
       "summary_method": "rss_fallback"
     },
     {
+      "id": "1a1e7e63fd71ebd6",
+      "title": "Google will cut off search access for students at schools that reject AI",
+      "summary": "The Mountain View, California, company has been facing pushback from educators, child development experts and parents over the use of its technology in schools, with the backlash heating up since it announced in August that it had turned on its Gemini chatbot for many K-12 students who use Google Classroom. Google adds Gemini crisis features amid lawsuit over user's death storyline 1 Google sued by Florida family after AI chatbot allegedly led to death Google sued by Florida family after AI chatbot allegedly led to death The case is the latest in a wave of litigation targeting AI companies over chatbot-linked deaths Google sued by Florida family after AI chatbot allegedly led to death storyline 1 “We believe schools should have control over AI in their classrooms and in providing administrators with controls to help them manage their approach,” Chris Phillips, Google’s vice president and general manager of education, said in a blog post. “As the public increasingly pushes back against the use of AI in schools, Google is making clear it will punish those who don’t fall in line.” New York City and Los Angeles, home to the nation's biggest school districts, have issued temporary bans on generative AI tools in elementary and middle schools as they assess AI use and safety and develop policies on its use. The deaths linked to OpenAI’s GPT-4o | Explained The deaths linked to OpenAI’s GPT-4o | Explained Multiple suicides and violent deaths have been linked to an OpenAI model that is no longer accessible, raising questions about how AI companies can be held accountable for fatal product failures in the past The deaths linked to OpenAI’s GPT-4o | Explained storyline 1 Josh Golin, executive director of children's advocacy group Fairplay, said Google's attempt to “strong-arm schools into using its AI products is likely to backfire.” He said Google's technology in schools is not about learning but about “developing lifetime brand loyalty” for its products.",
+      "url": "https://www.thehindu.com/sci-tech/technology/google-will-cut-off-search-access-for-students-at-schools-that-reject-ai/article71663810.ece",
+      "source": "The Hindu Technology",
+      "category": "tech",
+      "published_at": "2026-11-04T03:27:36+00:00",
+      "importance": 7,
+      "personal_score": 7.0,
+      "entities": [
+        "Google",
+        "AI Students"
+      ],
+      "summary_method": "tfidf_extractive_full_article"
+    },
+    {
+      "id": "dac22b2ddabffff5",
+      "title": "The AI Dependency Explosion: Safeguarding Software Supply Chains Against Autonomous Package Ingestion - CXOToday.com",
+      "summary": "The AI Dependency Explosion: Safeguarding Software Supply Chains Against Autonomous Package Ingestion CXOToday.com",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPQzJqRGFCdUwwSjI2ZlFScmViWFhnYW1xNXlhQ1ptWnZuSExwaGpxemFhSWNJcFloQlB0Ni1Cb1hiMGlDVW5UUGlXNXRzVVlCYWtBdUZldXptLWFRMWtFOE5IMm5Rbk1jMzZKdDZoaUdzQUZNWmJWY1pFV1NTbDFfcm0yMGQzQm0xM3dWZzlqT0kxT21MdDNtUzJWTER1VE9aSktucVVDdDFYWmt0Q28tbnBQdUVnWWFrQ2c3cFdzZDRld1NlU0JUdFlVOXQxcXZ6N1E?oc=5",
+      "source": "CXOToday.com",
+      "category": "tech",
+      "published_at": "2026-11-07T08:45:51+00:00",
+      "importance": 7,
+      "personal_score": 7.0,
+      "entities": [
+        "The AI Dependency Explosion",
+        "Safeguarding Software Supply Chains",
+        "Against Autonomous Package Ingestion",
+        "CXOToday.com The AI Dependency",
+        "Explosion",
+        "CXOToday.com"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
       "id": "9c1fd7299ae7f48f",
       "title": "At COP31, the ‘overshoot’ narrative cannot replace climate action",
       "summary": "COP31 is around the corner, marking the end of a year of extreme weather events, terrible human tragedy, as well as a severe energy crisis. It is also the year in which the world is preparing to officially accept that we will exceed a warming level of 1.5 degrees celsius. The natural corollary to this unassailable reality is that countries should strive to collectively limit warming to as little over 1.5 degrees celsius, and as below 2 degrees, as possible. This requires scientific discussions, assessment of options, and a critical analysis of the trade-offs.",
@@ -1620,27 +1591,6 @@
         "If COP31"
       ],
       "summary_method": "tfidf_extractive_full_article"
-    },
-    {
-      "id": "bf5243a87be33228",
-      "title": "Blitzy Announces Collaboration with Microsoft to Accelerate Legacy Modernization and Software Development at Scale - AiThority",
-      "summary": "Blitzy Announces Collaboration with Microsoft to Accelerate Legacy Modernization and Software Development at Scale AiThority",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNZ2tNanRGN3pvb2NIRVNBaURpeUQ3bzlkQm94ZW55cmtQUmRKVXd2Y3pqT1A4LUZySFBPWmdvLU1tR3lyRjdaWXkzaWpRRjFPVnQ3czNTUEdVeHF3OEFhbFRGVzhxV0w5OEIwbHU1Z0lKT3kzSFVMcjNIQ1pFU0s3U09jRVZVeldjXzhadFpCYk15eS1CQWZ4ZjZSV2RjQ3NoMkxBZWtIRmM2aldoSWtzYng5b0ZvS3pqSUlodDdubjRvcFVTQXRPRUI2YVVjVTFWbHZTcFkwT05sTXVDZlV0aE14U2w1bEt0alE?oc=5",
-      "source": "AiThority",
-      "category": "tech",
-      "published_at": "2026-11-06T08:10:21+00:00",
-      "importance": 7,
-      "personal_score": 7.0,
-      "entities": [
-        "Blitzy Announces Collaboration",
-        "Microsoft",
-        "Accelerate Legacy Modernization",
-        "Software Development",
-        "Scale",
-        "AiThority Blitzy Announces Collaboration",
-        "Scale AiThority"
-      ],
-      "summary_method": "rss_fallback"
     },
     {
       "id": "3fb1016b99947a94",
@@ -1661,42 +1611,6 @@
         "U.S",
         "Global Positioning Service",
         "Kargil"
-      ],
-      "summary_method": "tfidf_extractive_full_article"
-    },
-    {
-      "id": "1a1e7e63fd71ebd6",
-      "title": "Google will cut off search access for students at schools that reject AI",
-      "summary": "The Mountain View, California, company has been facing pushback from educators, child development experts and parents over the use of its technology in schools, with the backlash heating up since it announced in August that it had turned on its Gemini chatbot for many K-12 students who use Google Classroom. Google adds Gemini crisis features amid lawsuit over user's death storyline 1 Google sued by Florida family after AI chatbot allegedly led to death Google sued by Florida family after AI chatbot allegedly led to death The case is the latest in a wave of litigation targeting AI companies over chatbot-linked deaths Google sued by Florida family after AI chatbot allegedly led to death storyline 1 “We believe schools should have control over AI in their classrooms and in providing administrators with controls to help them manage their approach,” Chris Phillips, Google’s vice president and general manager of education, said in a blog post. “As the public increasingly pushes back against the use of AI in schools, Google is making clear it will punish those who don’t fall in line.” New York City and Los Angeles, home to the nation's biggest school districts, have issued temporary bans on generative AI tools in elementary and middle schools as they assess AI use and safety and develop policies on its use. The deaths linked to OpenAI’s GPT-4o | Explained The deaths linked to OpenAI’s GPT-4o | Explained Multiple suicides and violent deaths have been linked to an OpenAI model that is no longer accessible, raising questions about how AI companies can be held accountable for fatal product failures in the past The deaths linked to OpenAI’s GPT-4o | Explained storyline 1 Josh Golin, executive director of children's advocacy group Fairplay, said Google's attempt to “strong-arm schools into using its AI products is likely to backfire.” He said Google's technology in schools is not about learning but about “developing lifetime brand loyalty” for its products.",
-      "url": "https://www.thehindu.com/sci-tech/technology/google-will-cut-off-search-access-for-students-at-schools-that-reject-ai/article71663810.ece",
-      "source": "The Hindu Technology",
-      "category": "tech",
-      "published_at": "2026-11-04T03:27:36+00:00",
-      "importance": 7,
-      "personal_score": 7.0,
-      "entities": [
-        "Google",
-        "AI Students"
-      ],
-      "summary_method": "tfidf_extractive_full_article"
-    },
-    {
-      "id": "fd026064033b03eb",
-      "title": "The Siang dam and a threatened homeland",
-      "summary": "A few kilometres from the entrance to Arunachal Pradesh’s Parong village, an unpaved road winds all the way down to the Siang river. At dusk, all that is visible at the beginning of the dirt road is the glint of freshly painted yellow barricades of the State police and the shine from the silver of the concertina wires that connect the barricades. The Central security forces who guard the check post here have two purposes — to respond to “unrest” and to stop anyone without “clearance” from proceeding to Siang’s waters. Parong, in Siang district, is one of the three proposed sites identified by the State government for a Pre-Feasibility Report (PFR) to begin work on the Siang Upper Multipurpose Project (SUMP), developed by the National Hydroelectric Power Corporation (NHPC).",
-      "url": "https://www.thehindu.com/news/national/arunachal-pradesh/siang-dam-and-a-threatened-homeland-in-arunachal-pradesh/article71675266.ece",
-      "source": "The Hindu Science and Technology",
-      "category": "tech",
-      "published_at": "2026-11-07T09:30:08+00:00",
-      "importance": 7,
-      "personal_score": 7.0,
-      "entities": [
-        "The Siang",
-        "The Adi",
-        "Siang Upper Multipurpose Project",
-        "Arunachal Pradesh",
-        "State",
-        "Abhinay Lakshman"
       ],
       "summary_method": "tfidf_extractive_full_article"
     },
@@ -1758,6 +1672,42 @@
       "summary_method": "tfidf_extractive_full_article"
     },
     {
+      "id": "04c5a8b0cb7e1823",
+      "title": "Kiro lets AI bots continuously build software autonomously - Techzine Global",
+      "summary": "Kiro lets AI bots continuously build software autonomously Techzine Global",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcjNjOC1mMFVucFpQRGtUQ3FkbUVjd0xZMzJ6VmtDZkNDcWNmX2FFaUdsbm4wZGN1Q2taa2tKeGg5ZDJZSFV1ZXotd1haa2tjQnpmdXhFZm9pZmRZM0pzdXB2M1RjU1dERF9vVVRIMUlsRmJCcHNFamt4SzQ4Si1IRlF6TklkNXNiSWE2VVdoXzZfM0RpSmZIU1Y1bHowdnJqSFU2Rw?oc=5",
+      "source": "Techzine Global",
+      "category": "tech",
+      "published_at": "2026-11-06T09:05:48+00:00",
+      "importance": 6,
+      "personal_score": 6.0,
+      "entities": [
+        "Kiro",
+        "Techzine Global Kiro",
+        "Techzine Global"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
+      "id": "8c94f98fe3f09e12",
+      "title": "Developers want more efficient software. Here’s what over 1,000 GitHub users told us they need. - The GitHub Blog",
+      "summary": "Developers want more efficient software. Here’s what over 1,000 GitHub users told us they need. The GitHub Blog",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOUDkwczlxNl9hb1RFTEN1U3NPb3Z5YzEwX0RXczhGeWZEUnp3c2trTFRZVUJqbjN5MlNYa2lEVDFkVkpSdVJod0s0UkNjMWVqVTBEZU9TTXVabnUxb3NsZnROQllsdzBHNG5ROFJ0aXpNVjZMSnVubm9iMXZVM1ZsWU53V3M0c0pRSXF5aG1VdE1nZEt3N1p5eGZxTlBzZkFndXk5dXB3OUpiaExGWW55cEZ5V2d5aWpVVDMxLTBaU054Mi15em5KelBVY0FTaXlF?oc=5",
+      "source": "The GitHub Blog",
+      "category": "tech",
+      "published_at": "2026-09-24T07:00:00+00:00",
+      "importance": 6,
+      "personal_score": 6.0,
+      "entities": [
+        "Developers",
+        "Here",
+        "GitHub",
+        "The GitHub Blog Developers",
+        "The GitHub Blog"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
       "id": "3088394c9afe3af5",
       "title": "OpenAI’s Pierre Acquisition Signals a New Era for Supply Chain Software Development - Logistics Viewpoints",
       "summary": "OpenAI’s Pierre Acquisition Signals a New Era for Supply Chain Software Development Logistics Viewpoints",
@@ -1809,6 +1759,27 @@
         "Global",
         "World Economic Forum Global",
         "World Economic Forum"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
+      "id": "bf5243a87be33228",
+      "title": "Blitzy Announces Collaboration with Microsoft to Accelerate Legacy Modernization and Software Development at Scale - AiThority",
+      "summary": "Blitzy Announces Collaboration with Microsoft to Accelerate Legacy Modernization and Software Development at Scale AiThority",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNZ2tNanRGN3pvb2NIRVNBaURpeUQ3bzlkQm94ZW55cmtQUmRKVXd2Y3pqT1A4LUZySFBPWmdvLU1tR3lyRjdaWXkzaWpRRjFPVnQ3czNTUEdVeHF3OEFhbFRGVzhxV0w5OEIwbHU1Z0lKT3kzSFVMcjNIQ1pFU0s3U09jRVZVeldjXzhadFpCYk15eS1CQWZ4ZjZSV2RjQ3NoMkxBZWtIRmM2aldoSWtzYng5b0ZvS3pqSUlodDdubjRvcFVTQXRPRUI2YVVjVTFWbHZTcFkwT05sTXVDZlV0aE14U2w1bEt0alE?oc=5",
+      "source": "AiThority",
+      "category": "tech",
+      "published_at": "2026-11-06T08:10:21+00:00",
+      "importance": 6,
+      "personal_score": 6.0,
+      "entities": [
+        "Blitzy Announces Collaboration",
+        "Microsoft",
+        "Accelerate Legacy Modernization",
+        "Software Development",
+        "Scale",
+        "AiThority Blitzy Announces Collaboration",
+        "Scale AiThority"
       ],
       "summary_method": "rss_fallback"
     },
@@ -1890,6 +1861,26 @@
       "summary_method": "rss_fallback"
     },
     {
+      "id": "fd026064033b03eb",
+      "title": "The Siang dam and a threatened homeland",
+      "summary": "A few kilometres from the entrance to Arunachal Pradesh’s Parong village, an unpaved road winds all the way down to the Siang river. At dusk, all that is visible at the beginning of the dirt road is the glint of freshly painted yellow barricades of the State police and the shine from the silver of the concertina wires that connect the barricades. The Central security forces who guard the check post here have two purposes — to respond to “unrest” and to stop anyone without “clearance” from proceeding to Siang’s waters. Parong, in Siang district, is one of the three proposed sites identified by the State government for a Pre-Feasibility Report (PFR) to begin work on the Siang Upper Multipurpose Project (SUMP), developed by the National Hydroelectric Power Corporation (NHPC).",
+      "url": "https://www.thehindu.com/news/national/arunachal-pradesh/siang-dam-and-a-threatened-homeland-in-arunachal-pradesh/article71675266.ece",
+      "source": "The Hindu Science and Technology",
+      "category": "tech",
+      "published_at": "2026-11-07T09:30:08+00:00",
+      "importance": 6,
+      "personal_score": 6.0,
+      "entities": [
+        "The Siang",
+        "The Adi",
+        "Siang Upper Multipurpose Project",
+        "Arunachal Pradesh",
+        "State",
+        "Abhinay Lakshman"
+      ],
+      "summary_method": "tfidf_extractive_full_article"
+    },
+    {
       "id": "029a5f83ac558c1e",
       "title": "Binance reveals hackers used fake job interviews, malicious code in $6 billion heist",
       "summary": "Binance released on Tuesday a detailed investigation into the $6 billion hack of its cryptocurrency platform, showing how attackers used fake job interviews and malicious code to steal the funds. The crypto exchange said it had replenished 98 percent of the affected assets by drawing on its own funds, with the remaining amount involving little-traded currencies that are harder to acquire. As Binance reopens withdrawals, North Korea denies hacking exchange As Binance reopens withdrawals, North Korea denies hacking exchange The FBI said at the weekend that North Korea was responsible for the theft of more than $6 billion in virtual assets from Binance As Binance reopens withdrawals, North Korea denies hacking exchange storyline 1 Pyongyang has denied the allegations, with the powerful sister of leader Kim Jong Un calling the claim \"absurd rhetoric.\" Around $2.85 billion of the stolen $6.34 billion has been frozen, Binance said, meaning that the attackers could not use it or convert it to another currency. What we know about Binance’s multi-billion-dollar crypto hack | Explained What we know about Binance’s multi-billion-dollar crypto hack | Explained While the facts are still emerging, the Binance cyberattack could go down as the largest cryptocurrency hack on record What we know about Binance’s multi-billion-dollar crypto hack | Explained storyline 1 After building trust with the subject through the sharing of social media photos and videos, they asked the engineer to download a test exercise as part of the interview process.",
@@ -1906,24 +1897,19 @@
       "summary_method": "tfidf_extractive_full_article"
     },
     {
-      "id": "4535841b34f63c68",
-      "title": "Tackling Informal Economy With Artificial Intelligence—Part III - The Friday Times",
-      "summary": "Tackling Informal Economy With Artificial Intelligence—Part III The Friday Times",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxON0U0OXBndkNIbzlKbVhaVGRlUUtZdUJodDhwU0dZckFGOXN4bFIxTDFpYU9LRHFyLTU4M21CX2l0SmF5UUFLOEFrNXBNUFBQQ3JjV3lULUxiZ053QWFvazRKR3U4YmpCdHVlZ3EwSXFzeFlpb3BhZ0tGZXRma1pzcWdMNmNsZFlmSlUzUG4zcF9PeHYwLVhBdWJPazlabjluUU13?oc=5",
-      "source": "The Friday Times",
+      "id": "15b344222c249c4f",
+      "title": "Amazon rewrites its software engineering playbook for an era when AI writes the code - GeekWire",
+      "summary": "Amazon rewrites its software engineering playbook for an era when AI writes the code GeekWire",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRjNaNlZ1aGFDMUd4c1p4YTc0bllabG9rM09HSVZFY0RIR2xMUFRTQkhGZVA0V2psU053SWtDc0dmQ3Ita0UyWUJvdXVPUGJsc2EwaDNmOUhmVi1JcVFGUHhPa3cyUkE5S0x5RGYyNFFKVHplU3otS0lLaGNjWG5OVFBGOWdram5YNExVOG81ZldrLThQdWQ5ek9hbDd6d1dWOWZtMzBsX0JDLV9GV2xDTTk0SkF1QQ?oc=5",
+      "source": "GeekWire",
       "category": "tech",
-      "published_at": "2026-11-07T10:56:00+00:00",
+      "published_at": "2026-11-03T20:26:54+00:00",
       "importance": 6,
       "personal_score": 6.0,
       "entities": [
-        "Tackling Informal Economy With",
-        "Artificial Intelligence",
-        "Part III",
-        "The Friday Times Tackling",
-        "Informal Economy With Artificial",
-        "Intelligence",
-        "Part III The Friday",
-        "Times"
+        "Amazon",
+        "GeekWire Amazon",
+        "GeekWire"
       ],
       "summary_method": "rss_fallback"
     },
@@ -1945,44 +1931,6 @@
         "Employment Law Worldview When",
         "Use",
         "Employment Law Worldview"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
-      "id": "23ecaee88c0e8273",
-      "title": "3 Artificial Intelligence (AI) Stocks I’d Buy Without Hesitation in a Market Crash - The Motley Fool",
-      "summary": "3 Artificial Intelligence (AI) Stocks I’d Buy Without Hesitation in a Market Crash The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTm5mRGZwVVMtUUkxczVrcTBMRmt6eVk3N0VBM0NRZWV0Q1VLZjdvUmtCYVM4bG9ic285SHlDdFRsMnRfV19sdFF0N0ZiS1NObEJMZmpuSkhySXdqcWVuOE9lSEpjdmdlQWJrYXVsNmc4MWNqUWRoU29UU0d0bW4xaE9mT2hDeEZMV0YweExQRnlBRHdqcS03SFRDcTRKX1dYV0JIQmFmUFJabXU3M2x4N3o5TDNETmVJWS04a0xjWmQ?oc=5",
-      "source": "The Motley Fool",
-      "category": "tech",
-      "published_at": "2026-11-07T14:30:00+00:00",
-      "importance": 6,
-      "personal_score": 6.0,
-      "entities": [
-        "Artificial Intelligence",
-        "Stocks I",
-        "Buy Without Hesitation",
-        "Market Crash",
-        "The Motley Fool",
-        "Market Crash The Motley",
-        "Fool"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
-      "id": "15b344222c249c4f",
-      "title": "Amazon rewrites its software engineering playbook for an era when AI writes the code - GeekWire",
-      "summary": "Amazon rewrites its software engineering playbook for an era when AI writes the code GeekWire",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRjNaNlZ1aGFDMUd4c1p4YTc0bllabG9rM09HSVZFY0RIR2xMUFRTQkhGZVA0V2psU053SWtDc0dmQ3Ita0UyWUJvdXVPUGJsc2EwaDNmOUhmVi1JcVFGUHhPa3cyUkE5S0x5RGYyNFFKVHplU3otS0lLaGNjWG5OVFBGOWdram5YNExVOG81ZldrLThQdWQ5ek9hbDd6d1dWOWZtMzBsX0JDLV9GV2xDTTk0SkF1QQ?oc=5",
-      "source": "GeekWire",
-      "category": "tech",
-      "published_at": "2026-11-03T20:26:54+00:00",
-      "importance": 6,
-      "personal_score": 6.0,
-      "entities": [
-        "Amazon",
-        "GeekWire Amazon",
-        "GeekWire"
       ],
       "summary_method": "rss_fallback"
     },
@@ -2063,21 +2011,45 @@
       "summary_method": "rss_fallback"
     },
     {
-      "id": "e3035c97737888de",
-      "title": "AI in Your Pocket: 5 Ways Artificial Intelligence Is Changing Everyday Life in India - DD India",
-      "summary": "AI in Your Pocket: 5 Ways Artificial Intelligence Is Changing Everyday Life in India DD India",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOLVNNMWIwSVRySkpKSnphQlY3WTFmdFZLeno0eUlQZzZEQ3pXeFF3Y2hSbjhOM09ic0UxLW9fVnBJbk00cEpVUFR2dmZReWNTSW5WUlIxTmNqVGNWbGtZWmNUVUFKYUFnWDJwS1pWZmtQdERJLTVfYl9hLWJpdEdXRFdiaWJuem1iVWxLY2Zlak8xR05aR1BnaGNWS01QX09HWFN0LUFlTUZqUUJibWwyX1R3?oc=5",
-      "source": "DD India",
+      "id": "345412087670b9c2",
+      "title": "How Artificial Intelligence Is Transforming the Retail Industry | Great India Retail Summit - ET Retail",
+      "summary": "How Artificial Intelligence Is Transforming the Retail Industry | Great India Retail Summit ET Retail",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPOUpHOXhVLTBzV2Ruek9oWUs0V2ktQWk4bzY0YUx2M04wSGNLMk1JbVZ0ZzJfR1pPMnpUN1Z2VHhyQlk2U1FaYUJJOGZQdkUyX3h2amViYWdlUWNBcGJSS0FzLTNZRnFTRzBEdVVZQWl4YmROQmJIbmlzaUlOXzNIRjRLNjBxcDBoZU8tb2x0NEhKaVFvbExCeU1Fb3NnbU1BeWVKay1wMjB6TXFBVVZ4VTNhVXlON0Z5ZHRZakU1Vnh5eDNIeF9lbDEzOXZRTE9tQlBwRFRwQzk1OFhBS2FsaWdLb2s2TlNfRGRoZXZn0gHyAUFVX3lxTE1wMFdUOTJHaWp3bTg5WmlmLU15NFdKTTB3YmtLam9nRmp3YTlSYjZmN254TkZUdUFzSWUyVTNfYUlLRDRpYjVPSUlIblNVMDh2a29NMmhiS2VyRHdTSHdUakZ6YWM0bzBhT0U5aTd2UzZ5LXpBMWJoWFNvaVNuOVBFbjNDRkc1cElTanlmeVRwd3o2SFhGMmlnczdwbkVEWlR2OUlyYUZpUXctY21XWEo4eFlxaW02NkJDZXo1LVVtUW9GQnZIQkc1ZFlNcktnUDE5NXJicGVtZDY3Y243YURSM0czQ09VNEtIS3N5TnpHbExn?oc=5",
+      "source": "ET Retail",
       "category": "tech",
-      "published_at": "2026-11-06T04:48:48+00:00",
-      "importance": 4,
-      "personal_score": 4.0,
+      "published_at": "2026-11-06T21:45:06+00:00",
+      "importance": 5,
+      "personal_score": 5.0,
       "entities": [
-        "Your Pocket",
-        "Ways Artificial Intelligence Is",
-        "Changing Everyday Life",
-        "DD India AI",
-        "India DD India"
+        "How Artificial Intelligence Is",
+        "Transforming",
+        "Retail Industry",
+        "Great India Retail Summit",
+        "ET Retail How Artificial",
+        "Intelligence Is Transforming",
+        "ET Retail"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
+      "id": "4535841b34f63c68",
+      "title": "Tackling Informal Economy With Artificial Intelligence—Part III - The Friday Times",
+      "summary": "Tackling Informal Economy With Artificial Intelligence—Part III The Friday Times",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxON0U0OXBndkNIbzlKbVhaVGRlUUtZdUJodDhwU0dZckFGOXN4bFIxTDFpYU9LRHFyLTU4M21CX2l0SmF5UUFLOEFrNXBNUFBQQ3JjV3lULUxiZ053QWFvazRKR3U4YmpCdHVlZ3EwSXFzeFlpb3BhZ0tGZXRma1pzcWdMNmNsZFlmSlUzUG4zcF9PeHYwLVhBdWJPazlabjluUU13?oc=5",
+      "source": "The Friday Times",
+      "category": "tech",
+      "published_at": "2026-11-07T10:56:00+00:00",
+      "importance": 5,
+      "personal_score": 5.0,
+      "entities": [
+        "Tackling Informal Economy With",
+        "Artificial Intelligence",
+        "Part III",
+        "The Friday Times Tackling",
+        "Informal Economy With Artificial",
+        "Intelligence",
+        "Part III The Friday",
+        "Times"
       ],
       "summary_method": "rss_fallback"
     },
@@ -2098,6 +2070,25 @@
         "TechGraph Cybersecurity Is Becoming",
         "Central",
         "Fintech Sector TechGraph"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
+      "id": "e3035c97737888de",
+      "title": "AI in Your Pocket: 5 Ways Artificial Intelligence Is Changing Everyday Life in India - DD India",
+      "summary": "AI in Your Pocket: 5 Ways Artificial Intelligence Is Changing Everyday Life in India DD India",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOLVNNMWIwSVRySkpKSnphQlY3WTFmdFZLeno0eUlQZzZEQ3pXeFF3Y2hSbjhOM09ic0UxLW9fVnBJbk00cEpVUFR2dmZReWNTSW5WUlIxTmNqVGNWbGtZWmNUVUFKYUFnWDJwS1pWZmtQdERJLTVfYl9hLWJpdEdXRFdiaWJuem1iVWxLY2Zlak8xR05aR1BnaGNWS01QX09HWFN0LUFlTUZqUUJibWwyX1R3?oc=5",
+      "source": "DD India",
+      "category": "tech",
+      "published_at": "2026-11-06T04:48:48+00:00",
+      "importance": 4,
+      "personal_score": 4.0,
+      "entities": [
+        "Your Pocket",
+        "Ways Artificial Intelligence Is",
+        "Changing Everyday Life",
+        "DD India AI",
+        "India DD India"
       ],
       "summary_method": "rss_fallback"
     }
