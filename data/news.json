@@ -1,6 +1,6 @@
 {
   "version": 7,
-  "updated_at": "2026-11-10T21:29:47.711232+00:00",
+  "updated_at": "2026-11-11T01:31:19.814997+00:00",
   "ai_engine": {
     "enabled": true,
     "type": "mathematical_ml",
@@ -76,6 +76,27 @@
         "SIT",
         "Kerala HC The SIT",
         "Dwarapalaka"
+      ],
+      "summary_method": "tfidf_extractive_full_article"
+    },
+    {
+      "id": "af507157679e14fc",
+      "title": "‘Ramayana’ movie battle sequence triggers viral interest in Keralam’s Jatayu Earth Center",
+      "summary": "The spectacular depiction of Ravana-Jatayu war in the film has sparked global interest, turning Chadayamangalam’s Jatayu Earth Center into a viral trending destination across social media and travel vlogs. National and international travel vloggers are broadcasting the site’s cable car experience, panoramic sunset views, and impressive architecture, effectively transforming a regional cultural beacon into a global bucket-list attraction. While average daily attendance hovers around 2,500 and swells to 5,000 during peak seasons, immediate travel spikes following the release have been tempered by the necessity for long-term trip planning and high festival airfares. We plan to hold discussions with the management of the Jatayu Earth’s Center to address some key logistical issues, after which the panchayat will extend complete support to manage the visitor inflow during the upcoming season,” said Chadayamangalam panchayat president K.",
+      "url": "https://www.thehindu.com/news/national/kerala/ramayana-movie-battle-sequence-triggers-viral-interest-in-keralams-jatayu-earth-center/article71686108.ece",
+      "source": "The Hindu Kerala",
+      "category": "general",
+      "published_at": "2026-11-10T15:02:35+00:00",
+      "importance": 8,
+      "personal_score": 8.25,
+      "entities": [
+        "Ramayana",
+        "Keralam",
+        "Jatayu Earth Center The",
+        "Ravana-Jatayu",
+        "Part",
+        "Chadayamangalam",
+        "Jatayu Earth Center"
       ],
       "summary_method": "tfidf_extractive_full_article"
     },
@@ -228,6 +249,28 @@
       "summary_method": "tfidf_extractive_full_article"
     },
     {
+      "id": "246d789277d6ff78",
+      "title": "Keralam launches sign language course for government staff",
+      "summary": "Launched by the Social Justice department (SJD) in association with the National Institute of Speech and Hearing (NISH), the basic certificate course in Indian Sign Language (ISL) is intended to increase its acceptance among people who are not aurally challenged or have speech impairments. The first batch of trainees is from the directorate itself since they deal with the differently abled and need to be utmost sensitive to their issues. The programme will be extended to other government offices with the aim of having at least one or two officials who can communicate in basic ISL with aurally challenged or speech impaired persons visiting the offices. Its pilot will be launched this year in five colleges in Thiruvananthapuram, with focus on institutions such as medical colleges where doctors may need to communicate with such patients or institutions with social work courses, says Mr.",
+      "url": "https://www.thehindu.com/news/national/kerala/keralam-launches-sign-language-course-for-government-staff/article71686834.ece",
+      "source": "The Hindu Kerala",
+      "category": "general",
+      "published_at": "2026-11-10T15:49:31+00:00",
+      "importance": 6,
+      "personal_score": 6.25,
+      "entities": [
+        "Keralam",
+        "Launched",
+        "Social Justice",
+        "National Institute",
+        "Speech",
+        "Hearing",
+        "Indian Sign Language",
+        "ISL"
+      ],
+      "summary_method": "tfidf_extractive_full_article"
+    },
+    {
       "id": "4022b83611c68518",
       "title": "Kerala PSC chairperson M.R. Baiju refuses to appear before Crime Branch again",
       "summary": "Baiju declined to appear before the Crime Branch Special Investigation Team (SIT) for questioning in connection with alleged irregularities in examinations to senior posts in the State Planning Board again on Tuesday (November 10). He has reiterated his stance that he will appear for questioning only after the Kerala High Court delivers its order on the petition challenging the Crime Branch investigation. Besides, the SIT is examining the chairperson’s knowledge of the alleged irregularities and the decisions taken by him after the issue came to light. According to such findings gathered by the SIT, the senior official had allegedly been aware of the examination irregularities, but failed to initiate appropriate disciplinary or administrative action against the officials concerned.",
@@ -242,25 +285,6 @@
         "M.R. Baiju",
         "Crime Branch",
         "Kerala High Court"
-      ],
-      "summary_method": "tfidf_extractive_full_article"
-    },
-    {
-      "id": "de93bc56e66a2609",
-      "title": "Pinarayi alleges graft, demands judicial probe into Keralam govt.’s GNA power purchase deal",
-      "summary": "However, the GNA power purchase deal, which was deemed necessary to pull the State from an impending power crisis, had fallen through following a report by the KSEB’s commercial and tariff wing, which reportedly estimated that the GNA deal could cost the State an additional ₹903 crore. A reassessment of the State’s power requirement then led to the conclusion that additional power purchases were not necessary, raising questions about how the original assessment of the State’s power requirements were made and the GNA’s regulatory authorisation to undertake power trading activities, all of which had the Opposition train its guns on the Chief Minister now. Vijayan alleged that it was “blatant corruption” that the Chief Minister personally intervened to award a contract at a high rate to a private intermediary platform which did not have power generation capacity of its own or was not even a power trader, bypassing all objections raised by the Kerala State Electricity Board (KSEB) and without following the tender process. He said that the Chief Minister had to give clear answers to several serious questions The Chief Minister should reveal who stood to benefit from the alleged attempt to create an artificial power crisis and what vested interests led to the decisions taken without the Electricity Minister’s consent.",
-      "url": "https://www.thehindu.com/news/national/kerala/pinarayi-alleges-graft-demands-judicial-probe-into-keralam-govts-gna-power-purchase-deal/article71686379.ece",
-      "source": "The Hindu Kerala",
-      "category": "general",
-      "published_at": "2026-11-10T14:34:14+00:00",
-      "importance": 6,
-      "personal_score": 6.25,
-      "entities": [
-        "Pinarayi",
-        "Keralam",
-        "GNA",
-        "Opposition",
-        "Keralam. The"
       ],
       "summary_method": "tfidf_extractive_full_article"
     },
@@ -291,6 +315,64 @@
       "summary_method": "tfidf_extractive_full_article"
     },
     {
+      "id": "e6bdae0c69416dd4",
+      "title": "Protest march held to Suresh Gopi’s office over toll collection in Keralam’s Nattika",
+      "summary": "Thrissur A protest march was taken out to the office of Union Minister and Thrissur MP Suresh Gopi on Tuesday, demanding an immediate halt to toll collection at Nattika until the National Highway 66 construction works are completed. Organised by the Janakeeya Samara Samiti, the march also demanded toll exemption for vehicles belonging to local residents and the early completion of bridges and service roads. Questions silence The protesters accused the State and Union governments of remaining silent on the issue and alleged that their approach was helping the toll operator. The agitation has included a blockade of the toll plaza, a human chain, a net march, a march to the Collectorate and round-the-clock protests, gradually turning the issue into a mass campaign.",
+      "url": "https://www.thehindu.com/news/national/kerala/protest-march-held-to-suresh-gopis-office-over-toll-collection-in-keralams-nattika/article71686500.ece",
+      "source": "The Hindu Kerala",
+      "category": "general",
+      "published_at": "2026-11-10T14:53:29+00:00",
+      "importance": 4,
+      "personal_score": 4.25,
+      "entities": [
+        "Protest",
+        "Suresh Gopi",
+        "Keralam",
+        "Nattika Agitators"
+      ],
+      "summary_method": "tfidf_extractive_full_article"
+    },
+    {
+      "id": "cc505250040e47ae",
+      "title": "Keralam at 70: holding a mirror to India",
+      "summary": "This story, which is, of course, not seamless and unblemished, is built on a central animator: a robust democracy, which is a rarity in the Global South. Keralam reinforces Amartya Sen’s original thesis that development is about expanding human freedoms rather than mere economic growth; human development does not require high incomes. Yet even now the central thrust of the national development regime is “Viksit Bharat 2047,” an income-based development measure. If India had the same infant mortality levels as that of Keralam, it would have saved over 5,00,000 infant lives annually.",
+      "url": "https://www.thehindu.com/opinion/op-ed/keralam-at-70-holding-a-mirror-to-india/article71687272.ece",
+      "source": "The Hindu Kerala",
+      "category": "general",
+      "published_at": "2026-11-10T18:56:22+00:00",
+      "importance": 4,
+      "personal_score": 4.25,
+      "entities": [
+        "Keralam",
+        "India At"
+      ],
+      "summary_method": "tfidf_extractive_full_article"
+    },
+    {
+      "id": "a3b08e22d8b5a8c1",
+      "title": "കടുത്ത ദേഷ്യവും വാശിയും ഉത്കണ്ഠയും; സ്ക്രീൻ കെണിയിൽ കൗമാരം, സംസ്ഥാനത്ത് 3,258 കേസുകൾ - Mathrubhumi",
+      "summary": "കടുത്ത ദേഷ്യവും വാശിയും ഉത്കണ്ഠയും; സ്ക്രീൻ കെണിയിൽ കൗമാരം, സംസ്ഥാനത്ത് 3,258 കേസുകൾ Mathrubhumi",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQeDUxRFhuc2xzZS13Zjh3OEV6Zm9qUHZMYWw2RThSQ0hTcU53aEIxMWRXLU1TUEpjVGtMcUdqdkJXNEJLbDd2T0l2cnB3OWtCUjU3MFZSMkgzeXNJSUxwSm5CYWF4blhWaDFJcFp4a2JuRzNPelcxcktlU0JWcm5UZGo1dzVtVHJJaFZrSDRwQzYwSkHSAZgBQVVfeXFMTlc2VC1ObFZ0dXU0NnBxZll1ZTd5TGZlYW5PRjZLNHU3U0dYNW8ycmxYRXpYWlAzVG83WE85WXNDSGdweEFoWWxaSFR5c2N5VWxoaUREM0JXUkZXUm1RcnBaV0h4d0tYenFLMmNrcHY4ZVhFSDE0cGVvMkNFY2o2bnBWTXJadnd2OEpYNENhb25tbUJQZ3U3eXI?oc=5",
+      "source": "Mathrubhumi",
+      "category": "general",
+      "published_at": "2026-11-11T01:07:59+00:00",
+      "importance": 4,
+      "personal_score": 4.25,
+      "entities": [
+        "കടുത്ത",
+        "ദേഷ്യവും",
+        "വാശിയും",
+        "ഉത്കണ്ഠയും",
+        "സ്ക്രീൻ",
+        "കെണിയിൽ",
+        "കൗമാരം",
+        "സംസ്ഥാനത്ത്",
+        "കേസുകൾ",
+        "Mathrubhumi"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
       "id": "af52227f6eae5d85",
       "title": "അനുവദനീയമായ സമയത്ത് ഡിജെ പാർട്ടി നടത്താം; മുൻവിധികളുടെ പേരിൽ പൊലീസ് തടസം നിൽക്കരുത്: ഹൈക്കോടതി - Manorama Online",
       "summary": "അനുവദനീയമായ സമയത്ത് ഡിജെ പാർട്ടി നടത്താം; മുൻവിധികളുടെ പേരിൽ പൊലീസ് തടസം നിൽക്കരുത്: ഹൈക്കോടതി Manorama Online",
@@ -315,24 +397,6 @@
         "Manorama Online"
       ],
       "summary_method": "rss_fallback"
-    },
-    {
-      "id": "e6bdae0c69416dd4",
-      "title": "Protest march held to Suresh Gopi’s office over toll collection in Keralam’s Nattika",
-      "summary": "Thrissur A protest march was taken out to the office of Union Minister and Thrissur MP Suresh Gopi on Tuesday, demanding an immediate halt to toll collection at Nattika until the National Highway 66 construction works are completed. Organised by the Janakeeya Samara Samiti, the march also demanded toll exemption for vehicles belonging to local residents and the early completion of bridges and service roads. Questions silence The protesters accused the State and Union governments of remaining silent on the issue and alleged that their approach was helping the toll operator. The agitation has included a blockade of the toll plaza, a human chain, a net march, a march to the Collectorate and round-the-clock protests, gradually turning the issue into a mass campaign.",
-      "url": "https://www.thehindu.com/news/national/kerala/protest-march-held-to-suresh-gopis-office-over-toll-collection-in-keralams-nattika/article71686500.ece",
-      "source": "The Hindu Kerala",
-      "category": "general",
-      "published_at": "2026-11-10T14:53:29+00:00",
-      "importance": 4,
-      "personal_score": 4.25,
-      "entities": [
-        "Protest",
-        "Suresh Gopi",
-        "Keralam",
-        "Nattika Agitators"
-      ],
-      "summary_method": "tfidf_extractive_full_article"
     },
     {
       "id": "b2790760af399935",
@@ -361,20 +425,64 @@
       "summary_method": "tfidf_extractive_full_article"
     },
     {
-      "id": "cc505250040e47ae",
-      "title": "Keralam at 70: holding a mirror to India",
-      "summary": "This story, which is, of course, not seamless and unblemished, is built on a central animator: a robust democracy, which is a rarity in the Global South. Keralam reinforces Amartya Sen’s original thesis that development is about expanding human freedoms rather than mere economic growth; human development does not require high incomes. Yet even now the central thrust of the national development regime is “Viksit Bharat 2047,” an income-based development measure. If India had the same infant mortality levels as that of Keralam, it would have saved over 5,00,000 infant lives annually.",
-      "url": "https://www.thehindu.com/opinion/op-ed/keralam-at-70-holding-a-mirror-to-india/article71687272.ece",
+      "id": "ed2eaa8e6a39e940",
+      "title": "Karnataka-registered doctors may be allowed to practise in Kasaragod: Keralam Health Minister",
+      "summary": "KASARAGOD The Keralam government has recommended to the State Medical Council that doctors registered with the Karnataka Medical Council be allowed to practise in Kasaragod, considering the district’s special circumstances, Health Minister K. The medical council is expected to take a favourable decision on the recommendation soon, the Minister said while inaugurating ‘Kayakalpam’, a public outreach programme of the Health Minister. The extension of the tenure of National Health Mission employees in Kasaragod till March 31 was also an indication of the government’s commitment to the district, he said. Periye in Kasaragod was among the four locations proposed by the government to the Centre for setting up an All India Institute of Medical Sciences, he said.",
+      "url": "https://www.thehindu.com/news/national/kerala/karnataka-registered-doctors-may-be-allowed-to-practise-in-kasaragod-keralam-health-minister/article71686180.ece",
       "source": "The Hindu Kerala",
       "category": "general",
-      "published_at": "2026-11-10T18:56:22+00:00",
+      "published_at": "2026-11-10T20:34:46+00:00",
       "importance": 4,
       "personal_score": 4.25,
       "entities": [
-        "Keralam",
-        "India At"
+        "Karnataka-registered",
+        "Kasaragod",
+        "Keralam Health Minister"
       ],
       "summary_method": "tfidf_extractive_full_article"
+    },
+    {
+      "id": "67ae36eea189e286",
+      "title": "പഞ്ചനക്ഷത്ര ഹോട്ടലുകളുടെ പ്രവർത്തനസമയം നിയന്ത്രിക്കാൻ പോലീസിന് അധികാരമില്ല -ഹൈക്കോടതി - Mathrubhumi",
+      "summary": "പഞ്ചനക്ഷത്ര ഹോട്ടലുകളുടെ പ്രവർത്തനസമയം നിയന്ത്രിക്കാൻ പോലീസിന് അധികാരമില്ല -ഹൈക്കോടതി Mathrubhumi",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcHpzSnhjaWNGV0RGYVBsVHZ1VlRFLW5CSjZieEt1WFg2Uk5pTWNPNE5qWHBZMENOcEFEUFRHdEpjMTNTaGN2Q205czdMZjBjbzBCVHd5WkhRdGc4UFlWSG5VVndGbzB5UEcxeThzYTFHd3BuVnlZQUEwR1lqNVR0N0c5dkpfdG4xMEN0cXBIN2tuX2F1MFI00gGcAUFVX3lxTE9OeHlyaXY5QWtMb0VnNFFCU2wtc2pKRFduOVFrNFBhTTRETlFqcDhadFRSVXVoMXRsRllWblgtMS12dHFJVUtBaGJseGktWTFvTjZBZkRIR19vZms2aFZXeVMxRTlfdzRhenJDWlQ4Yk5rMUZFMjRmbnJFQ1plVVRWTk92UW4wV2hKWmk0bWhBaVhlaUhZWFhLb2xxTA?oc=5",
+      "source": "Mathrubhumi",
+      "category": "general",
+      "published_at": "2026-11-11T00:48:42+00:00",
+      "importance": 4,
+      "personal_score": 4.25,
+      "entities": [
+        "പഞ്ചനക്ഷത്ര",
+        "ഹോട്ടലുകളുടെ",
+        "പ്രവർത്തനസമയം",
+        "നിയന്ത്രിക്കാൻ",
+        "പോലീസിന്",
+        "അധികാരമില്ല",
+        "ഹൈക്കോടതി",
+        "Mathrubhumi"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
+      "id": "cc2b9646e2abbb2f",
+      "title": "മനിശ്ശീരിയിൽ കാർ മരത്തിലിടിച്ച് അപകടം; രണ്ടുപേർ മരിച്ചു - Mathrubhumi",
+      "summary": "മനിശ്ശീരിയിൽ കാർ മരത്തിലിടിച്ച് അപകടം; രണ്ടുപേർ മരിച്ചു Mathrubhumi",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQWJHaTdjdVJnTnRtMlpwN3dlaDlZVWozT0s3N20yN3pJT2VwX245UG5ieFZ0dzA5WFVhR2F1TGYyemtPQ2R5emJ4RjAwZWdHUnlNR0hFRUtLUkFqcHgwdHd6NlNoZHNpN1hfVDJlRWZOTnBwaEM4Z25kZEVvcURZQzRJTWU2MktlQXNQZlhOYVlURzlhZG0xT3BhMU1idXPSAaQBQVVfeXFMT1FWQzVUQ09IRlV5SVVRUWZYbDJQVk5YcC1tWG0zR0JPem5xWmx0eDFzVFN3LXVhZWxuc2NZRHpocC04OU52eldlVzNONnQyZXBDbXNYNmhOT3NmRnBwQnNpaTNPOWtFT2tQSl9TVm5hYlNoaHktdVFUTW5DeklXUm0zT0F6QUotV1M3WnhXMWxlVmNScFpIclpMYkVwWXQxdDJILWI?oc=5",
+      "source": "Mathrubhumi",
+      "category": "general",
+      "published_at": "2026-11-10T21:04:14+00:00",
+      "importance": 4,
+      "personal_score": 4.25,
+      "entities": [
+        "മനിശ്ശീരിയിൽ",
+        "കാർ",
+        "മരത്തിലിടിച്ച്",
+        "അപകടം",
+        "രണ്ടുപേർ",
+        "മരിച്ചു",
+        "Mathrubhumi"
+      ],
+      "summary_method": "rss_fallback"
     },
     {
       "id": "565d5bf025925d23",
@@ -390,6 +498,40 @@
         "School",
         "Keralam",
         "December"
+      ],
+      "summary_method": "tfidf_extractive_full_article"
+    },
+    {
+      "id": "f4ed42f6c78ec2c5",
+      "title": "No funds for salaries, honorariums: Keralam’s first tribal panchayat’s functioning hit",
+      "summary": "IDUKKI Sixteen years after its formation, operations at Edamalakkudy, Keralam’s first tribal panchayat, established exclusively for the Muthuvan community, have ground to a halt due been hit due to an acute financial crisis. However, the panchayat currently receives only ₹87,500 per month.” Operational expenses The official added that the panchayat had managed for a few months by tapping into past GPG reserves, but those funds ran dry last December. Sources noted that while local authorities have repeatedly petitioned the State government over the past several months to increase the GPG allocation, the proposal remains tied up in red tape. Located under the Munnar forest division in Idukki district, Edamalakkudy was declared the State’s first tribal panchayat on November 1, 2010, specifically to drive focussed socio-economic development for the Muthuvan community.",
+      "url": "https://www.thehindu.com/news/national/kerala/no-funds-for-salaries-honorariums-keralams-first-tribal-panchayat-in-idukki-faces-shutdown/article71686746.ece",
+      "source": "The Hindu Kerala",
+      "category": "general",
+      "published_at": "2026-11-10T15:52:01+00:00",
+      "importance": 4,
+      "personal_score": 4.25,
+      "entities": [
+        "Keralam",
+        "Fourteen"
+      ],
+      "summary_method": "tfidf_extractive_full_article"
+    },
+    {
+      "id": "d758c361fd8fefca",
+      "title": "Brainstorming session to discuss development plans for Keralam",
+      "summary": "KOZHIKODE A high-level brainstorming session to shape developmental perspectives and formulate local growth strategies for Keralam’s 15th Five-Year Plan (2027–32) will be held at Hotel King Fort, Palayam, on November 13. The proposed model focusses on integrating economic growth, social justice, fiscal responsibility, technological advancement, and eco-friendly infrastructure development to elevate living standards across the State. It will also offer a platform to assess the performance of local self-government institutions and incorporate grassroots-level developmental insights into the State-level planning matrix. The afternoon session, starting at 2 p.m., will gather input from domain experts, academicians, researchers, entrepreneurs, and voluntary organisation leaders, a press release said.",
+      "url": "https://www.thehindu.com/news/national/kerala/brainstorming-session-to-discuss-development-plans-for-keralam/article71686310.ece",
+      "source": "The Hindu Kerala",
+      "category": "general",
+      "published_at": "2026-11-10T15:14:41+00:00",
+      "importance": 4,
+      "personal_score": 4.25,
+      "entities": [
+        "Brainstorming",
+        "Keralam Organised",
+        "Kerala State Planning Board",
+        "Puthuyuga Keralam"
       ],
       "summary_method": "tfidf_extractive_full_article"
     },
@@ -424,85 +566,6 @@
         "Keralam The"
       ],
       "summary_method": "tfidf_extractive_full_article"
-    },
-    {
-      "id": "423cc559066ea80e",
-      "title": "Kerala School Science Drama competition to be held in Thrissur",
-      "summary": "Thrissur The 2026-27 Kerala School Science Drama Competition, organised by the General Education department, will be held at the Kerala Sangeetha Nataka Akademi Hall here on Wednesday. Thrissur district panchayat president Mary Thomas will preside over the function. Mayfi Delson, chairperson of the Corporation’s education standing committee, will be the chief guest. The competition seeks to nurture scientific temper among students by integrating science with theatre, using the performing arts as a medium to stimulate their interest in scientific ideas.",
-      "url": "https://www.thehindu.com/news/national/kerala/kerala-school-science-drama-competition-to-be-held-in-thrissur/article71686640.ece",
-      "source": "The Hindu Kerala",
-      "category": "general",
-      "published_at": "2026-11-10T14:34:21+00:00",
-      "importance": 4,
-      "personal_score": 4.25,
-      "entities": [
-        "Kerala School Science Drama",
-        "Thrissur Event"
-      ],
-      "summary_method": "tfidf_extractive_full_article"
-    },
-    {
-      "id": "d758c361fd8fefca",
-      "title": "Brainstorming session to discuss development plans for Keralam",
-      "summary": "KOZHIKODE A high-level brainstorming session to shape developmental perspectives and formulate local growth strategies for Keralam’s 15th Five-Year Plan (2027–32) will be held at Hotel King Fort, Palayam, on November 13. The proposed model focusses on integrating economic growth, social justice, fiscal responsibility, technological advancement, and eco-friendly infrastructure development to elevate living standards across the State. It will also offer a platform to assess the performance of local self-government institutions and incorporate grassroots-level developmental insights into the State-level planning matrix. The afternoon session, starting at 2 p.m., will gather input from domain experts, academicians, researchers, entrepreneurs, and voluntary organisation leaders, a press release said.",
-      "url": "https://www.thehindu.com/news/national/kerala/brainstorming-session-to-discuss-development-plans-for-keralam/article71686310.ece",
-      "source": "The Hindu Kerala",
-      "category": "general",
-      "published_at": "2026-11-10T15:14:41+00:00",
-      "importance": 4,
-      "personal_score": 4.25,
-      "entities": [
-        "Brainstorming",
-        "Keralam Organised",
-        "Kerala State Planning Board",
-        "Puthuyuga Keralam"
-      ],
-      "summary_method": "tfidf_extractive_full_article"
-    },
-    {
-      "id": "15e65a151a4ab2af",
-      "title": "സയ്യിദ് മുഷ്താഖ് അലി ടൂര്‍ണമെന്റ്: കേരള ടീമിനെ സഞ്ജു നയിക്കും - Manorama News",
-      "summary": "സയ്യിദ് മുഷ്താഖ് അലി ടൂര്‍ണമെന്റ്: കേരള ടീമിനെ സഞ്ജു നയിക്കും Manorama News",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTnAzaExNd21lXzRqTmUySk9YcXRqWWlFcm5mSzJYbFc2QnFOVE41X0FHSGkzd0RpYlVOUDRva3ZzYlRjX3Q2QUViZFNOSjZlblNNTVRFNy01U293bjExdXJwNmc0dDVWck5jVE5BT3dmek5rbHV2VnVjOHFxdUFfbGt0bjBhZTZMMFBzdDN6ZWNOTjNObk1NUFZ6S0hvSXlhOHlYVzc0WFpJTkhZbXVIedIBtgFBVV95cUxNUkxfRlRWVGNBdnBJWkhVcmdTSUJJWHc3VngwbDhSRzVIRzU5V0JnSkNfVEpTV2lIN094UE9vbF9XdzJGWXlxYzJpcE44MXd4bEdMcE53ei1XRTlNcmozS2N1Q0E4emlUbG1BV0swSTJnZVBDSVIxcE40bC1KQ0F6amtJMmw2YTBmRlBha3BqRVRYY2xWMVpqY2o1NUJTVEpaZ1FqS19HdE9RN0VmLXdjUTY0STdkUQ?oc=5",
-      "source": "Manorama News",
-      "category": "general",
-      "published_at": "2026-11-10T18:06:38+00:00",
-      "importance": 4,
-      "personal_score": 4.25,
-      "entities": [
-        "സയ്യിദ്",
-        "മുഷ്താഖ്",
-        "അലി",
-        "ടൂര്",
-        "ണമെന്റ്",
-        "കേരള",
-        "ടീമിനെ",
-        "സഞ്ജു",
-        "നയിക്കും",
-        "Manorama News"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
-      "id": "7abcc62aca135f45",
-      "title": "വീരനായി ആര്യവീര്‍; അണ്ടര്‍ 19 ഏഷ്യാകപ്പില്‍ ഇന്ത്യ സെമിയില്‍ - Manorama News",
-      "summary": "വീരനായി ആര്യവീര്‍; അണ്ടര്‍ 19 ഏഷ്യാകപ്പില്‍ ഇന്ത്യ സെമിയില്‍ Manorama News",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZmV0bkY3Z0pwV2Zfa0xUMVFRNWo4Ykx3bnRGUlRZRS1vZm10aGxPdkdNMnMtT0hzNC1USHRVaEpNYkk1YVFJVGhRUDBSNTBlalBZWTV6VWxHVm9sbmN1anhHTlB2cl9mTjk4Q1BhcjV4eWxXV19NN29qZXpqMlJhejg1bkhtcWpGY1FXZV94NGctTG83MGVPMkpkbkVDNXpCOVN6eFV0OXlWejRQNV9BUjhpU1ZSbngt0gG-AUFVX3lxTE9JQXBub1NwYS1JNWpnZDhfTnplN1B5bG9zZDBxaVBodzBzTXpqdTBNUTd2a0MtY2lXSXJFYkd0d0otcXVJUi03cnRoUEphTG11N2Jqc2k0ZldQbzc5M1NFTXAxcGl2S3BMZGVJczJmMWljeFczSTNnV3RobDRsbGNPVVptS25mZl9rQmM2Zk9zblctejZ5eWd5bjc5RVd5ZzhSMjNHckR5MTVxVlJVTEV4VGtqelFhSURxUjFCQkE?oc=5",
-      "source": "Manorama News",
-      "category": "general",
-      "published_at": "2026-11-10T17:42:41+00:00",
-      "importance": 4,
-      "personal_score": 4.25,
-      "entities": [
-        "വീരനായി",
-        "ആര്യവീര്",
-        "അണ്ടര്",
-        "ഏഷ്യാകപ്പില്",
-        "ഇന്ത്യ",
-        "സെമിയില്",
-        "Manorama News"
-      ],
-      "summary_method": "rss_fallback"
     },
     {
       "id": "db451527c735c1db",
@@ -554,43 +617,6 @@
         "Indian Express Malayalam"
       ],
       "summary_method": "rss_fallback"
-    },
-    {
-      "id": "ed2eaa8e6a39e940",
-      "title": "Karnataka-registered doctors may be allowed to practise in Kasaragod: Keralam Health Minister",
-      "summary": "KASARAGOD The Keralam government has recommended to the State Medical Council that doctors registered with the Karnataka Medical Council be allowed to practise in Kasaragod, considering the district’s special circumstances, Health Minister K. The medical council is expected to take a favourable decision on the recommendation soon, the Minister said while inaugurating ‘Kayakalpam’, a public outreach programme of the Health Minister. The extension of the tenure of National Health Mission employees in Kasaragod till March 31 was also an indication of the government’s commitment to the district, he said. Periye in Kasaragod was among the four locations proposed by the government to the Centre for setting up an All India Institute of Medical Sciences, he said.",
-      "url": "https://www.thehindu.com/news/national/kerala/karnataka-registered-doctors-may-be-allowed-to-practise-in-kasaragod-keralam-health-minister/article71686180.ece",
-      "source": "The Hindu Kerala",
-      "category": "general",
-      "published_at": "2026-11-10T20:34:46+00:00",
-      "importance": 4,
-      "personal_score": 4.25,
-      "entities": [
-        "Karnataka-registered",
-        "Kasaragod",
-        "Keralam Health Minister"
-      ],
-      "summary_method": "tfidf_extractive_full_article"
-    },
-    {
-      "id": "0adb48241450d38d",
-      "title": "New platform to be set up to discuss tourism development plan for Keralam’s Kasaragod",
-      "summary": "Vishnunadh has said that a platform will be established to discuss the comprehensive tourism development of Keralam’s Kasaragod district. He was speaking after inaugurating the newly completed renovation, beautification and development projects at the Ranipuram hill station. He expressed confidence that Ranipuram could attract tourists from across the country and abroad if the destination received adequate promotion through the State’s tourism marketing initiatives. Stressing the need to develop tourism initiatives in line with the changing preferences of travellers, he called for tourism ventures catering to different interests.",
-      "url": "https://www.thehindu.com/news/national/kerala/new-platform-to-be-set-up-to-discuss-tourism-development-plan-for-keralams-kasaragod/article71686538.ece",
-      "source": "The Hindu Kerala",
-      "category": "general",
-      "published_at": "2026-11-10T14:31:36+00:00",
-      "importance": 4,
-      "personal_score": 4.25,
-      "entities": [
-        "New",
-        "Keralam",
-        "Kasaragod Tourism Minister P.C",
-        "Vishnunadh",
-        "Kasaragod",
-        "Kerala Tourism"
-      ],
-      "summary_method": "tfidf_extractive_full_article"
     },
     {
       "id": "12723143bc659369",
@@ -665,28 +691,28 @@
       "summary_method": "tfidf_extractive_full_article"
     },
     {
-      "id": "63719b6f13d4f96e",
-      "title": "'പ്രധാനമന്ത്രിയാകുന്നതിനെ പ്രിയങ്കയും രാഹുലും എതിർത്തു', വെളിപ്പെടുത്തലുമായി സോണിയാ ഗാന്ധി",
-      "summary": "2004ല്‍ യുപിഎ ലോക്‌സഭാ തിരഞ്ഞെടുപ്പ് വിജയിച്ചതിന് പിന്നാലെ പ്രധാനമന്ത്രി പദവിയിലേക്ക് എത്താന്‍ സോണിയാ ഗാന്ധിക്ക് മേല്‍ സമ്മര്‍ദ്ദം ഉണ്ടായിരുന്നു.തിരഞ്ഞെടുപ്പിന് ഏതാനും മാസങ്ങള്‍ക്ക് മുന്‍പ് തന്നെ മക്കളും താനുമായി പ്രധാനമന്ത്രി സ്ഥാനത്തേക്ക് വരാനുളള സാധ്യതകളെ കുറിച്ച് സംസാരിച്ചിരുന്നു. രാഹുലിനോ പ്രിയങ്കയ്‌ക്കോ ഞാന്‍ പ്രധാനമന്ത്രിയാകണം എന്ന് ആഗ്രഹം ഇല്ലായിരുന്നു, സോണിയാ ഗാന്ധി പുസ്തകത്തില്‍ കുറിക്കുന്നു.മുത്തശ്ശി ഇന്ദിരാ ഗാന്ധിയും അച്ഛന്‍ രാഹുല്‍ ഗാന്ധിയും പ്രധാനമന്ത്രി പദവിയിലിരിക്കുമ്പോള്‍ കൊല്ലപ്പെട്ട സംഭവങ്ങള്‍ മക്കളുടെ ജീവിതത്തിലുണ്ടാക്കിയ ആഘാതം കാരണമായിരുന്നു താന്‍ പ്രധാനമന്ത്രി സ്ഥാനത്തേക്ക് വരുന്നതിനോട് അവര്‍ക്ക് എതിര്‍പ്പുണ്ടായിരുന്നതെന്നും സോണിയാ ഗാന്ധി വെളിപ്പെടുത്തുന്നുണ്ട്.ഇസ്രായേലിൽ ട്വിസ്റ്റ്, നെതന്യാഹുവിനെ സർക്കാരിലേക്ക് ക്ഷണിച്ച് ഐസൻകോട്ട്, നെതന്യാഹുവിന്റെ ലക്ഷ്യം വേറെ മുത്തശ്ശിയുടേയും അച്ഛന്റേയും ക്രൂരമായ മരണങ്ങളുടെ കടുത്ത വേദനയിലായിരുന്നു അവര്‍ ജീവിച്ച് പോന്നിരുന്നത്. തിരഞ്ഞെടുപ്പില്‍ കോണ്‍ഗ്രസ് നിലനില്‍പ്പിന് വേണ്ടി പൊരുതുന്ന സമയത്ത് നേതൃത്വം സംബന്ധിച്ച് പ്രതിസന്ധിയുണ്ടാകരുത് എന്ന് കരുതി തന്റെ തീരുമാനം പ്രചാരണ സമയത്ത് മനസ്സില്‍ തന്നെ വെക്കുകയായിരുന്നുവെന്നും സോണിയാ ഗാന്ധി പറയുന്നു. ആ സമയത്ത് നേതൃത്വത്തെച്ചൊലി പാര്‍ട്ടിക്കുള്ളില്‍ നേതാക്കള്‍ തമ്മില്‍ പ്രശ്‌നമുണ്ടാകാനുളള സാഹചര്യമൊരുക്കുക എന്നത് ഒരിക്കലും ഉണ്ടാകില്ല.എന്റെ മനസ്സിന്റെ ഒരു ഭാഗം പ്രധാനമന്ത്രിയാവുക എന്ന ആശയത്തെ പൂര്‍ണമായും തള്ളിക്കളഞ്ഞു.",
-      "url": "https://malayalam.oneindia.com/news/india/priyanka-and-rahul-opposed-me-becoming-prime-minister-sonia-gandhi-reveals-in-her-new-book-603749.html",
+      "id": "3c4c8cf03c214207",
+      "title": "അടുക്കളയിലെ ടൈൽ നിറയെ കറകളും എണ്ണമയവുമാണോ? വൃത്തിയാക്കാനുളള എളുപ്പ വഴികളിതാ",
+      "summary": "നമ്മുടെ അടുക്കളകളിലെ സ്ലാബുകളിലും നിലത്തും ഉളള ടൈലുകളിൽ അഴുക്ക് പിടിക്കാൻ വളരെ എളുപ്പമാണ്. ഭക്ഷണത്തിന്റെ അവശിഷ്ടങ്ങളും എണ്ണയും വെളളവും ഒക്കെ വീണ് ടൈൽ വളരെ വേഗത്തിൽ തന്നെ വൃത്തികേടാകും.ഭക്ഷണം ഉണ്ടാക്കുന്ന ഇടമായത് കൊണ്ട് തന്നെ ഇവിടം വൃത്തിയാക്കാൻ കെമിക്കലുകൾ ഉപയോഗിക്കാതിരിക്കുന്നതാണ് ആരോഗ്യത്തിന് നല്ലത്. കഞ്ഞി വെള്ളം തണുത്ത ശേഷം ടൈലുകളിൽ സ്പ്രേ ചെയ്ത് മൈക്രോഫൈബർ തുണി ഉപയോഗിച്ച് തുടച്ചെടുത്താൽ ടൈലിന് തിളക്കം കൂടും.നിങ്ങളുടെ ചായപ്പൊടിയിൽ ഇരുമ്പ് പൊടിയുണ്ടോ? ഇത് ഒരു സ്പ്രേ ബോട്ടിലിൽ നിറച്ച് പഴകിയ കറകളും എണ്ണ മയവും ഇളള ഭാഗത്ത് തളിക്കുക.",
+      "url": "https://malayalam.oneindia.com/lifestyle/kitchen-cleaning-hacks-are-your-kitchen-tiles-covered-in-stains-and-grease-here-are-some-easy-ways-603793.html",
       "source": "Oneindia Malayalam",
       "category": "general",
-      "published_at": "2026-11-10T10:26:34+00:00",
+      "published_at": "2026-11-10T17:13:20+00:00",
       "importance": 3,
       "personal_score": 3.25,
       "entities": [
-        "പ്രധാനമന്ത്രിയാകുന്നതിനെ",
-        "പ്രിയങ്കയും",
-        "രാഹുലും",
-        "എതിർത്തു",
-        "വെളിപ്പെടുത്തലുമായി",
-        "സോണിയാ",
-        "ഗാന്ധി",
-        "Priyanka",
-        "Rahul Opposed Me Becoming",
-        "Prime Minister",
-        "Sonia Gandhi Reveals",
-        "Book"
+        "അടുക്കളയിലെ",
+        "ടൈൽ",
+        "നിറയെ",
+        "കറകളും",
+        "എണ്ണമയവുമാണോ",
+        "വൃത്തിയാക്കാനുളള",
+        "എളുപ്പ",
+        "വഴികളിതാ",
+        "Kitchen Cleaning Hacks",
+        "Are Your Kitchen Tiles",
+        "Covered",
+        "Stains"
       ],
       "summary_method": "tfidf_extractive_full_article"
     },
@@ -717,32 +743,6 @@
       "summary_method": "tfidf_extractive_full_article"
     },
     {
-      "id": "3c4c8cf03c214207",
-      "title": "അടുക്കളയിലെ ടൈൽ നിറയെ കറകളും എണ്ണമയവുമാണോ? വൃത്തിയാക്കാനുളള എളുപ്പ വഴികളിതാ",
-      "summary": "നമ്മുടെ അടുക്കളകളിലെ സ്ലാബുകളിലും നിലത്തും ഉളള ടൈലുകളിൽ അഴുക്ക് പിടിക്കാൻ വളരെ എളുപ്പമാണ്. ഭക്ഷണത്തിന്റെ അവശിഷ്ടങ്ങളും എണ്ണയും വെളളവും ഒക്കെ വീണ് ടൈൽ വളരെ വേഗത്തിൽ തന്നെ വൃത്തികേടാകും.ഭക്ഷണം ഉണ്ടാക്കുന്ന ഇടമായത് കൊണ്ട് തന്നെ ഇവിടം വൃത്തിയാക്കാൻ കെമിക്കലുകൾ ഉപയോഗിക്കാതിരിക്കുന്നതാണ് ആരോഗ്യത്തിന് നല്ലത്. കഞ്ഞി വെള്ളം തണുത്ത ശേഷം ടൈലുകളിൽ സ്പ്രേ ചെയ്ത് മൈക്രോഫൈബർ തുണി ഉപയോഗിച്ച് തുടച്ചെടുത്താൽ ടൈലിന് തിളക്കം കൂടും.നിങ്ങളുടെ ചായപ്പൊടിയിൽ ഇരുമ്പ് പൊടിയുണ്ടോ? ഇത് ഒരു സ്പ്രേ ബോട്ടിലിൽ നിറച്ച് പഴകിയ കറകളും എണ്ണ മയവും ഇളള ഭാഗത്ത് തളിക്കുക.",
-      "url": "https://malayalam.oneindia.com/lifestyle/kitchen-cleaning-hacks-are-your-kitchen-tiles-covered-in-stains-and-grease-here-are-some-easy-ways-603793.html",
-      "source": "Oneindia Malayalam",
-      "category": "general",
-      "published_at": "2026-11-10T17:13:20+00:00",
-      "importance": 3,
-      "personal_score": 3.25,
-      "entities": [
-        "അടുക്കളയിലെ",
-        "ടൈൽ",
-        "നിറയെ",
-        "കറകളും",
-        "എണ്ണമയവുമാണോ",
-        "വൃത്തിയാക്കാനുളള",
-        "എളുപ്പ",
-        "വഴികളിതാ",
-        "Kitchen Cleaning Hacks",
-        "Are Your Kitchen Tiles",
-        "Covered",
-        "Stains"
-      ],
-      "summary_method": "tfidf_extractive_full_article"
-    },
-    {
       "id": "e7a92b8e2e8aefa6",
       "title": "റബ്ബർ പാർക്കിൽ ഒഴിവ്: ഈ യോഗ്യതയുണ്ടോ? 35000 രൂപ ശമ്പളം വാങ്ങാം",
       "summary": "കൂടുതൽ വിവരങ്ങൾക്കും അപേക്ഷിക്കുന്നതിനും https://cmd.kerala.gov.in/wp-content/uploads/2026/11/8-11-2026-RPIPL-NOTIFICATION.pdfകേരള മാരിടൈം ബോർഡിലും ഒഴിവ്പോർട്ട് ഓഫീസർ തസ്തികയിലാണ് ഒഴിവ്. കൂടുതൽ വിവരങ്ങൾക്കും അപേക്ഷിക്കുന്നതിനും https://cmd.kerala.gov.in/wp-content/uploads/2026/11/KMB-Notification.pdfഡയറക്ടർ നിയമനംഅന്തർദേശീയ കായൽ പരിശീലന കേന്ദ്രത്തിൽ ഡയറക്ടർ തസ്തികയിൽ ഒഴിവ്. മൂന്ന് വർഷത്തേയ്ക്കാണ് നിയമനം.യോഗ്യത, അപേക്ഷിക്കേണ്ടത് എങ്ങനെ തുടങ്ങിയ വിവരങ്ങൾ നോക്കാംബയോളജിക്കൽ സയൻസ്/ അഗ്രികൾച്ചറൽ സയൻസ്/ ആനിമൽ സയൻസ്/ മറൈൻ സയൻസ് / എർത്ത് സയൻസ്/ ബയോടെക്നോളജി/ സോയിൽ ആൻഡ് വാട്ടർ എഞ്ചിനീയറിംഗ് മേഖലയിൽ 20 വർഷത്തെ അധ്യാപന/ഗവേഷണ പരിചയമുള്ള മുതിർന്ന അധ്യാപകൻ/ശാസ്ത്രജ്ഞൻ ആയിരിക്കണം.യോഗ്യത തെളിയിക്കുന്ന രേഖകൾ, ബയോഡാറ്റ സഹിതംഡിസംബർ 10ന് മുൻപായാണ് അപേക്ഷിക്കേണ്ടത്. അപേക്ഷിക്കേണ്ട വിലാസം- കൃഷി ഡയറക്ടർ, ഡയറക്ടറേറ്റ് ഓഫ് അഗ്രികൾച്ചർ ഡെവലപ്മെന്റ് ആൻഡ് ഫാർമേഴ്സ് വെൽഫെയർ വകുപ്പ്, വികാസ് ഭവൻ, തിരുവനന്തപുരം - 695033മെയിൽ ddplgdir@gmail.com കൂടുതൽ വിവിരങ്ങൾക്ക് cru.agridir@kerala.gov.in ഫോൺ: 0471-2304481, 9383470027",
@@ -767,51 +767,6 @@
         "Salary"
       ],
       "summary_method": "tfidf_extractive_full_article"
-    },
-    {
-      "id": "112a680697f8e962",
-      "title": "ബൈക്കിലെത്തി കെട്ടിടത്തിലേക്ക് ഓടിക്കയറി, 13–ാം നിലയിൽനിന്ന് ചാടി യുവാവ് ജീവനൊടുക്കി - Kerala Vision News",
-      "summary": "ബൈക്കിലെത്തി കെട്ടിടത്തിലേക്ക് ഓടിക്കയറി, 13–ാം നിലയിൽനിന്ന് ചാടി യുവാവ് ജീവനൊടുക്കി Kerala Vision News",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQT2dTOWREbGdnOVJUQ2g5alBfeXpEb20yLTBseVBlaU9xb2Y0UW9qMlFOa1ozNVItaXpHVUJvajI1X3d6M3hBRnZpNFBHTTUzeWJMOUZYeFNWNmlINFJLd1hzUUtNdWFxQXdKTTRmQklraUw3VmNNNzJJalBCdUlmY200OGFMV0dXTTk1WmFTa25aR3VZU3A3UUZJMXA4dlhUSk44YzlwelBFSTVENGVhMkhrd2dHUi12ZlpYSU0zeE13SnJLaG5QTjZpbVFfTXJNdVg1ZWxtOWpCSUE?oc=5",
-      "source": "Kerala Vision News",
-      "category": "general",
-      "published_at": "2026-11-10T11:07:07+00:00",
-      "importance": 3,
-      "personal_score": 3.25,
-      "entities": [
-        "ബൈക്കിലെത്തി",
-        "കെട്ടിടത്തിലേക്ക്",
-        "ഓടിക്കയറി",
-        "നിലയിൽനിന്ന്",
-        "ചാടി",
-        "യുവാവ്",
-        "ജീവനൊടുക്കി",
-        "Kerala Vision News"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
-      "id": "a46dc6618367d6c4",
-      "title": "സ്‌ക്വാഡ് പുറത്ത്! ക്യാപ്റ്റനായി സഞ്ജു; കന്നി കീരീടം ലക്ഷ്യമിട്ട് കേരളം - DoolNews",
-      "summary": "സ്‌ക്വാഡ് പുറത്ത്! ക്യാപ്റ്റനായി സഞ്ജു; കന്നി കീരീടം ലക്ഷ്യമിട്ട് കേരളം DoolNews",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPa2h5TnU2ODFTdkw1eEd0ZG9UbFZKRC0xVVpvSDVYemIxdE1IMjZkcEkxN2RnYjZrSUtoQzF5OTR4V21hVjFxRlh3c1RpRXdIOFJqMktCamhwcF90czBwQjUxV3BkSW1mRzQ2NEJPNEFMTHVBaEl6ejJ6WjZZVTY2ck9adU9uZmxpX2x2QnhrR0R5eUFtaEJTYTlUY0tjS09QNm85UFllVHF0QdIBrwFBVV95cUxOZHhKTEZyVC1hVGc2RkdyR0F1SkoxczRaTzJKelRyT3lSOGgxNEdvMVQ5X1JpM1A5ZnZVUHdGSGZ4eHhWVzFodG5YTEs0STU5bHpsTlJUM1duYkFfb0ZtMHhxOXJOYVh5TkczZ3dJX2xtNFA2aTREcFNrZXJYaHh5c3F3Rm5fYkJKOU5qaDZyMm1mdmphdUpvWnlPVldfT3M5S0RRQ05nNzNBaUkyQkdV?oc=5",
-      "source": "DoolNews",
-      "category": "general",
-      "published_at": "2026-11-10T16:54:27+00:00",
-      "importance": 3,
-      "personal_score": 3.25,
-      "entities": [
-        "ക്വാഡ്",
-        "പുറത്ത്",
-        "ക്യാപ്റ്റനായി",
-        "സഞ്ജു",
-        "കന്നി",
-        "കീരീടം",
-        "ലക്ഷ്യമിട്ട്",
-        "കേരളം",
-        "DoolNews"
-      ],
-      "summary_method": "rss_fallback"
     },
     {
       "id": "74bcb2c139b2bcf7",
@@ -840,6 +795,30 @@
       "summary_method": "tfidf_extractive_full_article"
     },
     {
+      "id": "7f6bdf39b61ebe20",
+      "title": "സയ്യിദ് മുഷ്താഖ് അലി ട്രോഫി: കേരള ടീമിനെ സഞ്ജു സാംസൺ നയിക്കും - Asianet News Malayalam",
+      "summary": "സയ്യിദ് മുഷ്താഖ് അലി ട്രോഫി: കേരള ടീമിനെ സഞ്ജു സാംസൺ നയിക്കും Asianet News Malayalam",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNYWY5QWpZVEVtT3JwemlyNjRXb3hNTzRhTG54UmZqelpSOWkzSnpmS1BwRklqazdhMkJIc09lUW1VdVZHVHpUSVhTQk9ScW9sTHNSUmJEYUtMdm1LZnRDeWVHU3I2NVprTm5xMVNYdWNrVHJSX2FvYThEbzVDZ1Q2QzZMcnlLOW0xa2Q5NE5oSXJoRDI0NFFGNlBiZWlEaWRodG1RMjVtamFMWUxral91UU5EZkhacV95RWdCejlRQmXSAcYBQVVfeXFMUGR0ZnZLbzJmQ21Bd0UwYkZ1c3ZwR3R4LU1QUGM4YldxbEZzdFVIY05uRHlrLXR0ODFvQUdCTE0yRldOYjMxb2g4anEtZkRlQjVFV3FFMldvRkJ0c3pkc244MUhqbUhmMnhZeEFWbjh4bWlUQ2FfNDFvbFY4amJYWEZKcUZtTkhPZXEtRlBzTGFYXzVXSlFDcUpHdmlCNFM0NHpTY2d5RmFTNTQzZ3NHOXl3LVlyVnU0LTVfc2tfZkpFUTN2UHJB?oc=5",
+      "source": "Asianet News Malayalam",
+      "category": "general",
+      "published_at": "2026-11-10T17:57:34+00:00",
+      "importance": 3,
+      "personal_score": 3.25,
+      "entities": [
+        "സയ്യിദ്",
+        "മുഷ്താഖ്",
+        "അലി",
+        "ട്രോഫി",
+        "കേരള",
+        "ടീമിനെ",
+        "സഞ്ജു",
+        "സാംസൺ",
+        "നയിക്കും",
+        "Asianet News Malayalam"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
       "id": "d3e00373a783e38f",
       "title": "19കാരികളെ കാണാതായെന്ന് പരാതി - Kerala Kaumudi",
       "summary": "19കാരികളെ കാണാതായെന്ന് പരാതി Kerala Kaumudi",
@@ -854,6 +833,28 @@
         "കാണാതായെന്ന്",
         "പരാതി",
         "Kerala Kaumudi"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
+      "id": "6dc4724e5bb1d9c3",
+      "title": "വീരനായി ആര്യവീര്‍; അണ്ടര്‍ 19 ഏഷ്യാകപ്പില്‍ ഇന്ത്യ സെമിയില്‍ - മനോരമ ന്യൂസ്‌",
+      "summary": "വീരനായി ആര്യവീര്‍; അണ്ടര്‍ 19 ഏഷ്യാകപ്പില്‍ ഇന്ത്യ സെമിയില്‍ മനോരമ ന്യൂസ്‌",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZmV0bkY3Z0pwV2Zfa0xUMVFRNWo4Ykx3bnRGUlRZRS1vZm10aGxPdkdNMnMtT0hzNC1USHRVaEpNYkk1YVFJVGhRUDBSNTBlalBZWTV6VWxHVm9sbmN1anhHTlB2cl9mTjk4Q1BhcjV4eWxXV19NN29qZXpqMlJhejg1bkhtcWpGY1FXZV94NGctTG83MGVPMkpkbkVDNXpCOVN6eFV0OXlWejRQNV9BUjhpU1ZSbngt?oc=5",
+      "source": "മനോരമ ന്യൂസ്‌",
+      "category": "general",
+      "published_at": "2026-11-10T17:42:41+00:00",
+      "importance": 3,
+      "personal_score": 3.25,
+      "entities": [
+        "വീരനായി",
+        "ആര്യവീര്",
+        "അണ്ടര്",
+        "ഏഷ്യാകപ്പില്",
+        "ഇന്ത്യ",
+        "സെമിയില്",
+        "മനോരമ",
+        "ന്യൂസ്"
       ],
       "summary_method": "rss_fallback"
     },
@@ -883,56 +884,6 @@
       "summary_method": "rss_fallback"
     },
     {
-      "id": "dec05b230eae53b4",
-      "title": "സ്വര്‍ണവില കുത്തനെ ഇടിഞ്ഞു; വൈകീട്ട് സ്വര്‍ണ വിപണിയില്‍ ട്വിസ്റ്റ്, പുതിയ പവന്‍, ഗ്രാം വില അറിയാം",
-      "summary": "ഇനിയും വില കുറയുമോ ഉയരുമോ എന്ന് പ്രവചിക്കാന്‍ സാധിക്കാത്ത സാഹചര്യമാണ് വിപണിയില്‍.ജിസിസി സേനാ ആസ്ഥാനം ഇനി കുവൈത്ത്; സൈനികരെ വിന്യസിക്കും, ഹൂതി ആക്രമണത്തിനിടെ...എന്താണ് വൈകീട്ട് സ്വര്‍ണവില കുറയാന്‍ കാരണം? ആഗോള വിപണിയില്‍ സ്വര്‍ണം 4070 ഡോളറാണ് പുതിയ നിരക്ക്.കേരളത്തില്‍ ഇന്ന് രാവിലെ രേഖപ്പെടുത്തിയ സ്വര്‍ണവില22 കാരറ്റ് ഗ്രാം വില 13210, പവന്‍ വില 10568018 കാരറ്റ് ഗ്രാം വില 10810, പവന്‍ വില 86480 14 കാരറ്റ് ഗ്രാം വില 8455, പവന്‍ വില 676409 കാരറ്റ് ഗ്രാം വില 5455, പവന്‍ വില 43640 വിജയ് ശരിക്കും പെട്ടു; എംഎല്‍എമാരുടെ വില്ലന്‍ റോള്‍ തലവേദന, എല്ലാവരെയും ശരിയാക്കാന്‍ യോഗംഇന്ന് വൈകീട്ട് രേഖപ്പെടുത്തിയ സ്വര്‍ണവില22 കാരറ്റ് ഗ്രാം വില 13080, പവന്‍ വില 10464018 കാരറ്റ് ഗ്രാം വില 10705, പവന്‍ വില 8564014 കാരറ്റ് ഗ്രാം വില 8375, പവന്‍ വില 67000 9 കാരറ്റ് ഗ്രാം വില 5400, പവന്‍ വില 43200.ഇന്ന് രാവിലെ ഗ്രാമിന് 45 രൂപയും പവന് 360 രൂപയുമാണ് കുറഞ്ഞത്. അഡ്വാന്‍സ് ബുക്ക് ചെയ്താല്‍ പിന്നീട് വില കൂടിയാലും ബുക്ക് ചെയ്യുമ്പോഴുള്ള വിലയ്ക്ക് സ്വര്‍ണം കിട്ടും.ഓട്ടോ ടാക്‌സി പണിമുടക്ക് പ്രഖ്യാപിച്ചു; 24 മണിക്കൂര്‍ സമരം നാളെ മുതല്‍, മിനിമം കൂലി 50 രൂപ ആക്കുമോ?ആഗോള വിപണിയില്‍ ക്രൂഡ് ഓയില്‍ വില ബാരലിന് 91 ഡോളറായി കുറഞ്ഞിട്ടുണ്ട്. ഏറെ കാലത്തിന് ശേഷമാണ് ഇന്ത്യന്‍ രൂപ ഇത്രയും ഉയര്‍ന്ന മൂല്യം രേഖപ്പെടുത്തുന്നത്.",
-      "url": "https://malayalam.oneindia.com/news/kerala/gold-rate-marked-huge-fall-today-evening-in-kerala-why-latest-pavan-gram-details-inside-603759.html",
-      "source": "Oneindia Malayalam",
-      "category": "general",
-      "published_at": "2026-11-10T12:08:09+00:00",
-      "importance": 3,
-      "personal_score": 3.25,
-      "entities": [
-        "സ്വര്",
-        "ണവില",
-        "കുത്തനെ",
-        "ഇടിഞ്ഞു",
-        "വൈകീട്ട്",
-        "വിപണിയില്",
-        "ട്വിസ്റ്റ്",
-        "പുതിയ",
-        "പവന്",
-        "ഗ്രാം",
-        "വില",
-        "അറിയാം"
-      ],
-      "summary_method": "tfidf_extractive_full_article"
-    },
-    {
-      "id": "7ab3aa6b3741e56b",
-      "title": "സ്വർണവിലയിൽ കനത്ത തകർച്ച; പലിശനിരക്ക് കത്തും..വില ഇനിയും കുത്തനെ താഴേക്ക്? - Oneindia Malayalam",
-      "summary": "സ്വർണവിലയിൽ കനത്ത തകർച്ച; പലിശനിരക്ക് കത്തും..വില ഇനിയും കുത്തനെ താഴേക്ക്? Oneindia Malayalam",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPb3J3Tk1MNTJucmtyLXNOenhxSFFkQ1lhbHhaN1JsaGpxSzM2Q09Bb0RXaDQ3WEFsR0pqRE9VM19OVXJqQXdJWHk5X0FMcDJmeGRyc3dab2JGWk44YWQ0U21QcjVLaUNQbFJaUE9VeHJiNTJJY3VXTjdXRmN3ZDN0S3RKZ3NGaDhfR2pYbzVDWENLLXZMaFhxbGlIZjdZRHN5VUlmV25HbHFEeG9Ba3E4X3Zicm9FU21CSlk5UlEyUkIxWmpGR1hKbmRIdE5BWTJmUHQxU2JZTQ?oc=5",
-      "source": "Oneindia Malayalam",
-      "category": "general",
-      "published_at": "2026-11-10T19:24:02+00:00",
-      "importance": 3,
-      "personal_score": 3.25,
-      "entities": [
-        "സ്വർണവിലയിൽ",
-        "കനത്ത",
-        "തകർച്ച",
-        "പലിശനിരക്ക്",
-        "കത്തും",
-        "വില",
-        "ഇനിയും",
-        "കുത്തനെ",
-        "താഴേക്ക്",
-        "Oneindia Malayalam"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
       "id": "f38507a797d02d14",
       "title": "സ്വർണവിലയിൽ കനത്ത തകർച്ച; പലിശനിരക്ക് കത്തും..വില ഇനിയും കുത്തനെ താഴേക്ക്?",
       "summary": "പണപ്പെരുപ്പം ഭീഷണിയായാൽ പലിശനിരക്ക് വലിയതോതിൽ കൂട്ടേണ്ടിവരുമെന്ന് അമേരിക്കൻ കേന്ദ്രബാങ്കായ ഫെഡറൽ റിസർവ് ഗവർണർ ക്രിസ്റ്റഫർ വോളർ പറഞ്ഞതും സ്വർണത്തിന് തിരിച്ചടിയായി.ഇറാൻ-യുഎസ് സംഘർഷം അയയുന്നുവെന്ന സൂചനകൾ രാജ്യാന്തര എണ്ണവിലയെ താഴേക്ക് നയിച്ചിരുന്നു. എന്നാൽ ഒക്ടോബറിലെ ഉപഭോക്തൃ കണക്കുകൾ പുറത്തുവന്നതാണ് ഇപ്പോൾ സ്വർണത്തിന് തിരിച്ചടിയായിരിക്കുന്നത്.ഒക്ടോബറിലെ ഉപഭോക്തൃ സൂചിക 0.3 ശതമാനം ഉയരുമെന്നായിരുന്നു സാമ്പത്തിക വിദഗ്ധർ വിലയിരുത്തിയിരുന്നത്. വിദഗ്ധർ പ്രവചിച്ചത് 0.2 ശതമാനമായിരുന്നു.അതേസമയം കണക്കുകൾ പുറത്തുവന്നതോടെ ഡിസംബറിൽ യുഎസ് ഫെഡ് പലിശ നിരക്ക് വലിയ തോതിൽ ഉയർത്തിയേക്കുമെന്നുള്ള വിലയിരുത്തലുകൾ ശക്തമാക്കിയിരിക്കുകയാണ്.സപ്റ്റംബറിൽ യു.എസ് ഫെഡ് 25 ബേസിസ് പോയിൻ്റ് ഉയർത്തിയിരുന്നു. കഴിഞ്ഞാഴ്ച സ്വർണം 1.01 ലക്ഷത്തിൽ എത്തിയതോടെ ഒരു ലക്ഷത്തിന് താഴേക്ക് എന്നുള്ള വിലയിരുത്തൽ ശക്തമായിരുന്നു.",
@@ -955,6 +906,32 @@
         "Sharp Fall",
         "Gold Prices",
         "Interest Rates Set"
+      ],
+      "summary_method": "tfidf_extractive_full_article"
+    },
+    {
+      "id": "63719b6f13d4f96e",
+      "title": "'പ്രധാനമന്ത്രിയാകുന്നതിനെ പ്രിയങ്കയും രാഹുലും എതിർത്തു', വെളിപ്പെടുത്തലുമായി സോണിയാ ഗാന്ധി",
+      "summary": "2004ല്‍ യുപിഎ ലോക്‌സഭാ തിരഞ്ഞെടുപ്പ് വിജയിച്ചതിന് പിന്നാലെ പ്രധാനമന്ത്രി പദവിയിലേക്ക് എത്താന്‍ സോണിയാ ഗാന്ധിക്ക് മേല്‍ സമ്മര്‍ദ്ദം ഉണ്ടായിരുന്നു.തിരഞ്ഞെടുപ്പിന് ഏതാനും മാസങ്ങള്‍ക്ക് മുന്‍പ് തന്നെ മക്കളും താനുമായി പ്രധാനമന്ത്രി സ്ഥാനത്തേക്ക് വരാനുളള സാധ്യതകളെ കുറിച്ച് സംസാരിച്ചിരുന്നു. രാഹുലിനോ പ്രിയങ്കയ്‌ക്കോ ഞാന്‍ പ്രധാനമന്ത്രിയാകണം എന്ന് ആഗ്രഹം ഇല്ലായിരുന്നു, സോണിയാ ഗാന്ധി പുസ്തകത്തില്‍ കുറിക്കുന്നു.മുത്തശ്ശി ഇന്ദിരാ ഗാന്ധിയും അച്ഛന്‍ രാഹുല്‍ ഗാന്ധിയും പ്രധാനമന്ത്രി പദവിയിലിരിക്കുമ്പോള്‍ കൊല്ലപ്പെട്ട സംഭവങ്ങള്‍ മക്കളുടെ ജീവിതത്തിലുണ്ടാക്കിയ ആഘാതം കാരണമായിരുന്നു താന്‍ പ്രധാനമന്ത്രി സ്ഥാനത്തേക്ക് വരുന്നതിനോട് അവര്‍ക്ക് എതിര്‍പ്പുണ്ടായിരുന്നതെന്നും സോണിയാ ഗാന്ധി വെളിപ്പെടുത്തുന്നുണ്ട്.ഇസ്രായേലിൽ ട്വിസ്റ്റ്, നെതന്യാഹുവിനെ സർക്കാരിലേക്ക് ക്ഷണിച്ച് ഐസൻകോട്ട്, നെതന്യാഹുവിന്റെ ലക്ഷ്യം വേറെ മുത്തശ്ശിയുടേയും അച്ഛന്റേയും ക്രൂരമായ മരണങ്ങളുടെ കടുത്ത വേദനയിലായിരുന്നു അവര്‍ ജീവിച്ച് പോന്നിരുന്നത്. തിരഞ്ഞെടുപ്പില്‍ കോണ്‍ഗ്രസ് നിലനില്‍പ്പിന് വേണ്ടി പൊരുതുന്ന സമയത്ത് നേതൃത്വം സംബന്ധിച്ച് പ്രതിസന്ധിയുണ്ടാകരുത് എന്ന് കരുതി തന്റെ തീരുമാനം പ്രചാരണ സമയത്ത് മനസ്സില്‍ തന്നെ വെക്കുകയായിരുന്നുവെന്നും സോണിയാ ഗാന്ധി പറയുന്നു. ആ സമയത്ത് നേതൃത്വത്തെച്ചൊലി പാര്‍ട്ടിക്കുള്ളില്‍ നേതാക്കള്‍ തമ്മില്‍ പ്രശ്‌നമുണ്ടാകാനുളള സാഹചര്യമൊരുക്കുക എന്നത് ഒരിക്കലും ഉണ്ടാകില്ല.എന്റെ മനസ്സിന്റെ ഒരു ഭാഗം പ്രധാനമന്ത്രിയാവുക എന്ന ആശയത്തെ പൂര്‍ണമായും തള്ളിക്കളഞ്ഞു.",
+      "url": "https://malayalam.oneindia.com/news/india/priyanka-and-rahul-opposed-me-becoming-prime-minister-sonia-gandhi-reveals-in-her-new-book-603749.html",
+      "source": "Oneindia Malayalam",
+      "category": "general",
+      "published_at": "2026-11-10T10:26:34+00:00",
+      "importance": 2,
+      "personal_score": 2.25,
+      "entities": [
+        "പ്രധാനമന്ത്രിയാകുന്നതിനെ",
+        "പ്രിയങ്കയും",
+        "രാഹുലും",
+        "എതിർത്തു",
+        "വെളിപ്പെടുത്തലുമായി",
+        "സോണിയാ",
+        "ഗാന്ധി",
+        "Priyanka",
+        "Rahul Opposed Me Becoming",
+        "Prime Minister",
+        "Sonia Gandhi Reveals",
+        "Book"
       ],
       "summary_method": "tfidf_extractive_full_article"
     },
@@ -1037,6 +1014,29 @@
       "summary_method": "tfidf_extractive_full_article"
     },
     {
+      "id": "dccfe9809a1ed2ec",
+      "title": "സിബിഎസ്ഇ 12-ാം ക്ലാസ് പരീക്ഷ: സയൻസ്, ഹ്യുമാനിറ്റീസ്, കൊമേഴ്‌സ് സ്ട്രീമുകളുടെ ടൈംടേബിൾ - Indian Express Malayalam",
+      "summary": "സിബിഎസ്ഇ 12-ാം ക്ലാസ് പരീക്ഷ: സയൻസ്, ഹ്യുമാനിറ്റീസ്, കൊമേഴ്‌സ് സ്ട്രീമുകളുടെ ടൈംടേബിൾ Indian Express Malayalam",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdzVPcTFrSGttN0kwN21SZkpfamttRnlvOUVjZER4cVlQWTNnRUpzTUNZdDgxZVFoMUxLYkVvSHJDam8ta1pONWE3ZEo5bW5zUWRfMTZjSzE3Zmp2c2dkbjlEelB5eElwSlJGS2FGS2R5X2RiOHBjNkV3RVRpUzhvRkJRSkc4Z2NSS3IxdmdCODZ1NTBGcm1ScXN5NEZ3UTdELUhod2FLcGotUDlDTzNsdUFUNUh2cWpvRE83X2M1ZXE5THBOQ3JN0gHHAUFVX3lxTE53NU9xMWtIa203STA3bVJmSl9qa21GeW85RWNkRHhxWVBZM2dFSnNNQ1l0ODFlUWgxTEtiRW9IckNqby1rWk41YTdkSjltbnNRZF8xNmNLMTdmanZzZ2RuOUR6UHl4SXBKUkZLYUZLZHlfZGI4cGM2RXdFVGlTOG9GQlFKRzhnY1JLcjF2Z0I4NnU1MEZybVJxc3k0RndRN0QtSGh3YUtwai1QOUNPM2x1QVQ1SHZxam9ETzdfYzVlcTlMcE5Dck0?oc=5",
+      "source": "Indian Express Malayalam",
+      "category": "general",
+      "published_at": "2026-11-09T06:02:58+00:00",
+      "importance": 2,
+      "personal_score": 2.25,
+      "entities": [
+        "സിബിഎസ്ഇ",
+        "ക്ലാസ്",
+        "പരീക്ഷ",
+        "സയൻസ്",
+        "ഹ്യുമാനിറ്റീസ്",
+        "കൊമേഴ്",
+        "സ്ട്രീമുകളുടെ",
+        "ടൈംടേബിൾ",
+        "Indian Express Malayalam"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
       "id": "07523e95a26c69a9",
       "title": "ദുബായില്‍ സ്വര്‍ണവില കുതിക്കുന്നു... ഒറ്റക്കുതിപ്പില്‍ 4000 രൂപയുടെ വര്‍ധനവ്!",
       "summary": "ചൊവ്വാഴ്ച വിപണി തുറന്നപ്പോള്‍ 24 കാരറ്റ് സ്വര്‍ണം ഗ്രാമിന് 495.75 ദിര്‍ഹം എന്ന നിരക്കിലാണ് വ്യാപാരം നടന്നത്.ഒരാഴ്ചയ്ക്കുള്ളില്‍ സമ്പത്തും സമൃദ്ധിയും നിങ്ങളെ തേടിയെത്തും; ഈ രാശിക്കാരാണോ?തലേദിവസം വിപണി അടയ്ക്കുമ്പോള്‍ ഇത് 497.25 ദിര്‍ഹം ആയിരുന്നു. 22 കാരറ്റ്, 21 കാരറ്റ്, 18 കാരറ്റ്, 14 കാരറ്റ് എന്നിങ്ങനെ മറ്റ് വിഭാഗങ്ങളിലെ സ്വര്‍ണവില യഥാക്രമം 459 ദിര്‍ഹം, 440.25 ദിര്‍ഹം, 377.25 ദിര്‍ഹം, 294.25 ദിര്‍ഹം എന്നിങ്ങനെ താഴ്ന്ന നിരക്കിലായിരുന്നു. ദീപാവലിക്ക് വില്‍പന കൂടി; ഡിസംബറിലും ഡിമാന്‍ഡ് കൂടുംവൈറ്റ് ഹൗസില്‍ നടന്ന ചര്‍ച്ചകള്‍ക്കിടെ ഖത്തര്‍ പ്രധാനമന്ത്രി ഉള്‍പ്പെടെയുള്ള മേഖലയിലെ വിവിധ രാജ്യങ്ങളുടെ അഭ്യര്‍ത്ഥന മാനിച്ചുകൊണ്ട്, ഇറാനെതിരെ തല്‍ക്കാലം പുതിയ സൈനിക ആക്രമണങ്ങള്‍ നടത്തില്ലെന്ന് യുഎസ് പ്രസിഡന്റ് ഡൊണാള്‍ഡ് ട്രംപ് അറിയിച്ചിരുന്നു. എന്നാല്‍, ഊര്‍ജ്ജവില കുറയുന്നത് പണപ്പെരുപ്പ പ്രതീക്ഷകളെയും ട്രഷറി ബോണ്ട് ആദായത്തെയും കുറയ്ക്കുകയും, പലിശ വരുമാനം നല്‍കാത്ത ആസ്തികളുടെ ആകര്‍ഷണീയത വര്‍ധിപ്പിക്കുകയും ചെയ്‌തേക്കാമെന്ന് സായെ ക്യാപിറ്റല്‍ മാര്‍ക്കറ്റ്‌സിലെ ചീഫ് ഇന്‍വെസ്റ്റ്മെന്റ് ഓഫീസര്‍ നയീം അസ്ലം അഭിപ്രായപ്പെട്ടു.ഹാള്‍മാര്‍ക്കിംഗ് കൂടുതല്‍ ജില്ലകളിലേക്ക് നീട്ടി കേന്ദ്രം; ആഭരണവില ഇനിയും ഉയരുമോ?സിഎംഇയുടെ ഫെഡ്വാച്ച് ടൂള്‍ പ്രകാരം, ഡിസംബറില്‍ യുഎസ് ഫെഡറല്‍ റിസര്‍വ് പലിശ നിരക്ക് ഉയര്‍ത്താന്‍ 84 ശതമാനം സാധ്യതയുണ്ടെന്ന് വ്യാപാരികള്‍ കണക്കുകൂട്ടുന്നു.",
@@ -1063,27 +1063,30 @@
       "summary_method": "tfidf_extractive_full_article"
     },
     {
-      "id": "dccfe9809a1ed2ec",
-      "title": "സിബിഎസ്ഇ 12-ാം ക്ലാസ് പരീക്ഷ: സയൻസ്, ഹ്യുമാനിറ്റീസ്, കൊമേഴ്‌സ് സ്ട്രീമുകളുടെ ടൈംടേബിൾ - Indian Express Malayalam",
-      "summary": "സിബിഎസ്ഇ 12-ാം ക്ലാസ് പരീക്ഷ: സയൻസ്, ഹ്യുമാനിറ്റീസ്, കൊമേഴ്‌സ് സ്ട്രീമുകളുടെ ടൈംടേബിൾ Indian Express Malayalam",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdzVPcTFrSGttN0kwN21SZkpfamttRnlvOUVjZER4cVlQWTNnRUpzTUNZdDgxZVFoMUxLYkVvSHJDam8ta1pONWE3ZEo5bW5zUWRfMTZjSzE3Zmp2c2dkbjlEelB5eElwSlJGS2FGS2R5X2RiOHBjNkV3RVRpUzhvRkJRSkc4Z2NSS3IxdmdCODZ1NTBGcm1ScXN5NEZ3UTdELUhod2FLcGotUDlDTzNsdUFUNUh2cWpvRE83X2M1ZXE5THBOQ3JN0gHHAUFVX3lxTE53NU9xMWtIa203STA3bVJmSl9qa21GeW85RWNkRHhxWVBZM2dFSnNNQ1l0ODFlUWgxTEtiRW9IckNqby1rWk41YTdkSjltbnNRZF8xNmNLMTdmanZzZ2RuOUR6UHl4SXBKUkZLYUZLZHlfZGI4cGM2RXdFVGlTOG9GQlFKRzhnY1JLcjF2Z0I4NnU1MEZybVJxc3k0RndRN0QtSGh3YUtwai1QOUNPM2x1QVQ1SHZxam9ETzdfYzVlcTlMcE5Dck0?oc=5",
-      "source": "Indian Express Malayalam",
+      "id": "dec05b230eae53b4",
+      "title": "സ്വര്‍ണവില കുത്തനെ ഇടിഞ്ഞു; വൈകീട്ട് സ്വര്‍ണ വിപണിയില്‍ ട്വിസ്റ്റ്, പുതിയ പവന്‍, ഗ്രാം വില അറിയാം",
+      "summary": "ഇനിയും വില കുറയുമോ ഉയരുമോ എന്ന് പ്രവചിക്കാന്‍ സാധിക്കാത്ത സാഹചര്യമാണ് വിപണിയില്‍.ജിസിസി സേനാ ആസ്ഥാനം ഇനി കുവൈത്ത്; സൈനികരെ വിന്യസിക്കും, ഹൂതി ആക്രമണത്തിനിടെ...എന്താണ് വൈകീട്ട് സ്വര്‍ണവില കുറയാന്‍ കാരണം? ആഗോള വിപണിയില്‍ സ്വര്‍ണം 4070 ഡോളറാണ് പുതിയ നിരക്ക്.കേരളത്തില്‍ ഇന്ന് രാവിലെ രേഖപ്പെടുത്തിയ സ്വര്‍ണവില22 കാരറ്റ് ഗ്രാം വില 13210, പവന്‍ വില 10568018 കാരറ്റ് ഗ്രാം വില 10810, പവന്‍ വില 86480 14 കാരറ്റ് ഗ്രാം വില 8455, പവന്‍ വില 676409 കാരറ്റ് ഗ്രാം വില 5455, പവന്‍ വില 43640 വിജയ് ശരിക്കും പെട്ടു; എംഎല്‍എമാരുടെ വില്ലന്‍ റോള്‍ തലവേദന, എല്ലാവരെയും ശരിയാക്കാന്‍ യോഗംഇന്ന് വൈകീട്ട് രേഖപ്പെടുത്തിയ സ്വര്‍ണവില22 കാരറ്റ് ഗ്രാം വില 13080, പവന്‍ വില 10464018 കാരറ്റ് ഗ്രാം വില 10705, പവന്‍ വില 8564014 കാരറ്റ് ഗ്രാം വില 8375, പവന്‍ വില 67000 9 കാരറ്റ് ഗ്രാം വില 5400, പവന്‍ വില 43200.ഇന്ന് രാവിലെ ഗ്രാമിന് 45 രൂപയും പവന് 360 രൂപയുമാണ് കുറഞ്ഞത്. അഡ്വാന്‍സ് ബുക്ക് ചെയ്താല്‍ പിന്നീട് വില കൂടിയാലും ബുക്ക് ചെയ്യുമ്പോഴുള്ള വിലയ്ക്ക് സ്വര്‍ണം കിട്ടും.ഓട്ടോ ടാക്‌സി പണിമുടക്ക് പ്രഖ്യാപിച്ചു; 24 മണിക്കൂര്‍ സമരം നാളെ മുതല്‍, മിനിമം കൂലി 50 രൂപ ആക്കുമോ?ആഗോള വിപണിയില്‍ ക്രൂഡ് ഓയില്‍ വില ബാരലിന് 91 ഡോളറായി കുറഞ്ഞിട്ടുണ്ട്. ഏറെ കാലത്തിന് ശേഷമാണ് ഇന്ത്യന്‍ രൂപ ഇത്രയും ഉയര്‍ന്ന മൂല്യം രേഖപ്പെടുത്തുന്നത്.",
+      "url": "https://malayalam.oneindia.com/news/kerala/gold-rate-marked-huge-fall-today-evening-in-kerala-why-latest-pavan-gram-details-inside-603759.html",
+      "source": "Oneindia Malayalam",
       "category": "general",
-      "published_at": "2026-11-09T06:02:58+00:00",
+      "published_at": "2026-11-10T12:08:09+00:00",
       "importance": 2,
       "personal_score": 2.25,
       "entities": [
-        "സിബിഎസ്ഇ",
-        "ക്ലാസ്",
-        "പരീക്ഷ",
-        "സയൻസ്",
-        "ഹ്യുമാനിറ്റീസ്",
-        "കൊമേഴ്",
-        "സ്ട്രീമുകളുടെ",
-        "ടൈംടേബിൾ",
-        "Indian Express Malayalam"
+        "സ്വര്",
+        "ണവില",
+        "കുത്തനെ",
+        "ഇടിഞ്ഞു",
+        "വൈകീട്ട്",
+        "വിപണിയില്",
+        "ട്വിസ്റ്റ്",
+        "പുതിയ",
+        "പവന്",
+        "ഗ്രാം",
+        "വില",
+        "അറിയാം"
       ],
-      "summary_method": "rss_fallback"
+      "summary_method": "tfidf_extractive_full_article"
     },
     {
       "id": "621601e064cc65aa",
@@ -1159,7 +1162,7 @@
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSlU3Qld3ZFA4WmpMWm5DT3BwOXdSTlotbzRZWW5NcnE2bVN3RGc4Vzhpa1ZRUXIyRW5yMVFubm95aXZwZ1lKMTEwRllCNjd3bzJwYkFmTnUzNmlXZkRJSHZ6N1JIOFkzMXNLVUZwV1RobVhickp0RWhIZHFTdVJtbDZTWXR1SVRYaXNKa09HeWZrTkJ5VGVUd1o3cmRMYW8tRGxBNFh0cG5oc0QzVDlxNTRqZDA?oc=5",
       "source": "The Vanderbilt Hustler",
       "category": "tech",
-      "published_at": "2026-11-10T07:40:16+00:00",
+      "published_at": "2026-11-09T16:35:49+00:00",
       "importance": 10,
       "personal_score": 10.0,
       "entities": [
@@ -1188,9 +1191,9 @@
       "summary_method": "tfidf_extractive_full_article"
     },
     {
-      "id": "5659680d1da44303",
-      "title": "Anthropic set for $1.3tn stock market debut despite 'catastrophic' AI warning - BBC",
-      "summary": "Anthropic set for $1.3tn stock market debut despite 'catastrophic' AI warning BBC",
+      "id": "38a7d30e51720199",
+      "title": "Claude chatbot maker set for $1.3tn stock market debut despite 'catastrophic' AI warning - BBC",
+      "summary": "Claude chatbot maker set for $1.3tn stock market debut despite 'catastrophic' AI warning BBC",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1HNWFGZG1teU8xOWttMlMzb1gtbVhmNW94MlFvanZrY3JCbVVkcExpX3VrTGFLOVgwaGhON21KMUN5SGI1R2hmM2pMMkJXQlFDaUU0TnV6TWVqNWM?oc=5",
       "source": "BBC",
       "category": "tech",
@@ -1198,8 +1201,8 @@
       "importance": 10,
       "personal_score": 10.0,
       "entities": [
-        "Anthropic",
-        "BBC Anthropic",
+        "Claude",
+        "BBC Claude",
         "BBC"
       ],
       "summary_method": "rss_fallback"
@@ -1307,29 +1310,6 @@
       "summary_method": "tfidf_extractive_full_article"
     },
     {
-      "id": "7515836fb58f703b",
-      "title": "Samsung Display Achieves Industry-First Dual Automotive Cybersecurity Certifications in the Software-Defined Vehicles (SDV) Era - Samsung Display Newsroom",
-      "summary": "Samsung Display Achieves Industry-First Dual Automotive Cybersecurity Certifications in the Software-Defined Vehicles (SDV) Era Samsung Display Newsroom",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9PMkFTNERYR3N6TkM2Q2tHa2p3bkxuWlN4NGk0T1BwTDk5YkJsa1ZGNnhfZy1MWTYtbVNzM1h3YWhsMHF2aFE2aWpOQUY0NDF2?oc=5",
-      "source": "Samsung Display Newsroom",
-      "category": "tech",
-      "published_at": "2026-11-10T02:29:12+00:00",
-      "importance": 9,
-      "personal_score": 9.0,
-      "entities": [
-        "Samsung Display Achieves Industry-First",
-        "Dual Automotive Cybersecurity Certifications",
-        "Software-Defined Vehicles",
-        "SDV",
-        "Era",
-        "Samsung Display Newsroom Samsung",
-        "Display Achieves Industry-First Dual",
-        "Automotive Cybersecurity Certifications",
-        "Era Samsung Display Newsroom"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
       "id": "78ae3fe1643d69e9",
       "title": "Australia tightens AI oversight rules after OpenAI agent breached government website",
       "summary": "Australia ‌will make it mandatory ​for ⁠artificial intelligence companies to immediately report when their ‌AI models go rogue, ‌and open ‌models ⁠for evaluations, the ⁠government said on Tuesday, after an ​OpenAI agent breached ‌a government website in June. OpenAI says its AI agents weakened internal monitoring system OpenAI says its AI agents weakened internal monitoring system OpenAI said it was making it harder for ⁠models to disable monitoring, adding that it does not “yet ⁠have a satisfying explanation for this behavior” OpenAI says its AI agents weakened internal monitoring system storyline 1 Prime Minister Anthony Albanese ‌said the ​government had accepted all recommendations of ⁠a rapid review into the ‌breach. Why OpenAI’s Australia AI hack must dismay world governments storyline 1 “(The recommendations) include mandatory AI company reporting when it comes to misaligned ‌behaviour or cyber incidents, ​and consideration of reforming criminal ⁠law in cases of ⁠serious misconduct,” Albanese told ‌reporters.",
@@ -1381,27 +1361,6 @@
       "summary_method": "rss_fallback"
     },
     {
-      "id": "e03daee91a5534c1",
-      "title": "AI Makes Reverse Engineering Mainstream Software & Malware Far Easier - Dark Reading",
-      "summary": "AI Makes Reverse Engineering Mainstream Software & Malware Far Easier Dark Reading",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxORGwzT3RXRHFndFZJbHkxN2gwbTNLRm9vRDg5LUdrM0xyUWh0WG9rbHU2enoyYjhSVDd1bjViSFdXOVJ0bF81X3dmWDFFOFlRUlZpaXZQYXB3UlliUDRIVGI0UHFOU0c3Ti1uTFl2dUJPZ2xJZWNCNDV2U0RKcWlFYXBB?oc=5",
-      "source": "Dark Reading",
-      "category": "tech",
-      "published_at": "2026-11-10T13:04:07+00:00",
-      "importance": 8,
-      "personal_score": 8.0,
-      "entities": [
-        "AI Makes Reverse Engineering",
-        "Mainstream Software",
-        "Malware Far Easier",
-        "Dark Reading AI Makes",
-        "Reverse Engineering Mainstream Software",
-        "Malware Far Easier Dark",
-        "Reading"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
       "id": "966ab5c239daa350",
       "title": "Software Project Rescue: When to Stabilize, Refactor, or Rebuild - HackerNoon",
       "summary": "Software Project Rescue: When to Stabilize, Refactor, or Rebuild HackerNoon",
@@ -1423,22 +1382,6 @@
       "summary_method": "rss_fallback"
     },
     {
-      "id": "169d523ec7c61bee",
-      "title": "How AI is reshaping China’s universities",
-      "summary": "Driving the change is an increasingly challenging job market for the country’s close to 13 million college graduates, who are facing the twin disruptions of AI and a slowing economy. Under the plan, dozens of graduate programmes are being disbanded, while universities themselves will be categorised and tasked with either pursuing research, applications or skills development. A combination of factors, some not too dissimilar to the current challenges in India’s own job market, has left policymakers grappling with a tepid job market and a vast number of graduates facing dim job prospects. Depressed economic sentiment has also led companies to cut back on hiring, with the prolonged structural slowdown in the real estate market dragging down growth.",
-      "url": "https://www.thehindu.com/news/international/how-ai-is-reshaping-chinas-universities/article71683874.ece",
-      "source": "The Hindu Science and Technology",
-      "category": "tech",
-      "published_at": "2026-11-10T07:37:08+00:00",
-      "importance": 8,
-      "personal_score": 8.0,
-      "entities": [
-        "How AI",
-        "China"
-      ],
-      "summary_method": "tfidf_extractive_full_article"
-    },
-    {
       "id": "7eb8e2af4f56a7c5",
       "title": "Software expertise: Where European cities lag behind and excel - Tech Xplore",
       "summary": "Software expertise: Where European cities lag behind and excel Tech Xplore",
@@ -1455,6 +1398,22 @@
         "Tech Xplore"
       ],
       "summary_method": "rss_fallback"
+    },
+    {
+      "id": "169d523ec7c61bee",
+      "title": "How AI is reshaping China’s universities",
+      "summary": "Driving the change is an increasingly challenging job market for the country’s close to 13 million college graduates, who are facing the twin disruptions of AI and a slowing economy. Under the plan, dozens of graduate programmes are being disbanded, while universities themselves will be categorised and tasked with either pursuing research, applications or skills development. A combination of factors, some not too dissimilar to the current challenges in India’s own job market, has left policymakers grappling with a tepid job market and a vast number of graduates facing dim job prospects. Depressed economic sentiment has also led companies to cut back on hiring, with the prolonged structural slowdown in the real estate market dragging down growth.",
+      "url": "https://www.thehindu.com/news/international/how-ai-is-reshaping-chinas-universities/article71683874.ece",
+      "source": "The Hindu Science and Technology",
+      "category": "tech",
+      "published_at": "2026-11-10T07:37:08+00:00",
+      "importance": 8,
+      "personal_score": 8.0,
+      "entities": [
+        "How AI",
+        "China"
+      ],
+      "summary_method": "tfidf_extractive_full_article"
     },
     {
       "id": "3815c8f39f1eed1c",
@@ -1507,6 +1466,27 @@
       "summary_method": "rss_fallback"
     },
     {
+      "id": "bea008108cf407c8",
+      "title": "Generative AI System Develops Open-Source Quantum Chemistry Software in Ten Weeks - Bioengineer.org",
+      "summary": "Generative AI System Develops Open-Source Quantum Chemistry Software in Ten Weeks Bioengineer.org",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdEhlNXlGNnZwemluQ3Ziczc2VFBpQWlwRldUSWVZYmVhQkk5akdyeUtrM0NVaTlVZVNPVHFZRGRfZTRjWUhfZTI3cGxJOUVhTUZzdWVhT3BLSS1LbmtLOEUtRVFMUnU4Y2tZNEE1akZtTVZhb1pXVHFXSGRWNGhucENIMjZPeHRsSzVmQkRLamNNNGhrRnVtTTNqNVFiZ1BrcjRSc3Q4RGpUZw?oc=5",
+      "source": "Bioengineer.org",
+      "category": "tech",
+      "published_at": "2026-11-10T23:44:31+00:00",
+      "importance": 8,
+      "personal_score": 8.0,
+      "entities": [
+        "Generative AI System Develops",
+        "Open-Source Quantum Chemistry Software",
+        "Ten Weeks",
+        "Bioengineer.org Generative AI System",
+        "Develops Open-Source Quantum Chemistry",
+        "Software",
+        "Ten Weeks Bioengineer.org"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
       "id": "aab6fd9cc5b5edf5",
       "title": "AMD Talks Up Their MEXT Software Amid RAM Crisis - Linux Support But Not Open-Source - Phoronix",
       "summary": "AMD Talks Up Their MEXT Software Amid RAM Crisis - Linux Support But Not Open-Source Phoronix",
@@ -1530,20 +1510,77 @@
       "summary_method": "rss_fallback"
     },
     {
-      "id": "f5732004944d0d13",
-      "title": "Wyndham addresses security flaw in Android app - SC Media",
-      "summary": "Wyndham addresses security flaw in Android app SC Media",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxON3VPdVBZd2s3YTl0eHlWMTQwQ1NaUkI4VVYwZklzX05tWFJoOG5YOXJiQkNTVHJuLWdwT29TblhvQWZmM0g1Z0locElmbm4xVTl2U1lQemlHVHZOMXFrTGZPeHR3TjBtcVlmc2plZ3hrcmFzMlRXNmt2NVhLc2dUalF3?oc=5",
+      "id": "951d5534fba333be",
+      "title": "How To Choose a UK Software Development Partner in 2026 - TechRound",
+      "summary": "How To Choose a UK Software Development Partner in 2026 TechRound",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQelYzOGsydjVIaHM0MG9sQ0dYc29ENTBpQTVGNGZIQkxhZzRqRXdHWUcyd3hhaXBnSDIyRVhweG5hOXkwUGNhRHJXaTltNTduVFdFUzg1TGpfZzFickMyMTd0ZERzQ0I4ZnExTzFpWjJ5N3M1MGZEcnhOYnpraDhBOHNycEhtZw?oc=5",
+      "source": "TechRound",
+      "category": "tech",
+      "published_at": "2026-11-10T23:06:50+00:00",
+      "importance": 8,
+      "personal_score": 8.0,
+      "entities": [
+        "How To Choose",
+        "UK Software Development Partner",
+        "TechRound How To Choose",
+        "TechRound"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
+      "id": "02af7afdf2422baf",
+      "title": "The shift from SDLC to ADLC: How the human role is changing in software development - SC Media",
+      "summary": "The shift from SDLC to ADLC: How the human role is changing in software development SC Media",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPYmVVR3NwcU0zZ1V5T182RjVnTDBrU2J6T3VQT0tLbWRrNGpCeFJ2SmRBZXNSXzZjVEJITlR0bnlJQjNVeTdXNmxoVUtmNTNFeXpsbWdGNE9acHVlcTB0WW9LUUpsNjllUElDSkREcHBDUmJSVTRrbGZoTG4yelBWdklDZ0lET0M4SWg2ZGs3MFVOc3pnVDVtSVNKdlY4bjBOcjBhSVVvUFpZWFlBcGRwMjNmb1dPUQ?oc=5",
       "source": "SC Media",
       "category": "tech",
-      "published_at": "2026-11-10T14:40:34+00:00",
-      "importance": 7,
-      "personal_score": 7.0,
+      "published_at": "2026-11-10T21:53:10+00:00",
+      "importance": 8,
+      "personal_score": 8.0,
       "entities": [
-        "Wyndham",
-        "Android",
-        "SC Media Wyndham",
+        "SDLC",
+        "ADLC",
+        "How",
+        "SC Media The",
         "SC Media"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
+      "id": "bd9515235e681d58",
+      "title": "What is open-source AI? A software engineering researcher explains - The Conversation",
+      "summary": "What is open-source AI? A software engineering researcher explains The Conversation",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOM3Y4U2t5T2I0cDVaYzM1eHBxZ2RHZVV5SzR3bHR0WkFPLXFzMWRDSW40TW4tdEJ0S3BwVkkxVkZsMko1RTd0NTVsRlJmVjZOaDluS3UtVV9TRG82ZVNUQkhNT3RCTF9vUFhIaEozMXhPNGhjb3QyX0p1bGhobXlONEZXYkdXdkZnN1hXZUprMk9vUE54UzlZaWZwOXJLNEpUV3c?oc=5",
+      "source": "The Conversation",
+      "category": "tech",
+      "published_at": "2026-07-23T07:00:00+00:00",
+      "importance": 8,
+      "personal_score": 8.0,
+      "entities": [
+        "What",
+        "The Conversation What",
+        "The Conversation"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
+      "id": "175c027e1194b6a4",
+      "title": "Four Steps CISOs Can Take To Secure AI-driven Software Development - SecurityBrief Australia",
+      "summary": "Four Steps CISOs Can Take To Secure AI-driven Software Development SecurityBrief Australia",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPOWIxTTNsUktSZ1NFTl9yemZITk1DcE5VRk9pc3h2TTNhZUZpTGhtMlB4RFQ1MFZuaDRaS3hNSk94RWpwdExZNjAwSExLY0hUYjRWMmNQZGhycmFMdUZqWHJGWUJ2RFdqUHpmY2pxb09PM19CaU14R2VldHFZNXdSVFIzTHI1R2JzeXhGbFJCdmlIUkdWenVnN1hXb1ZUYWU3LXdR?oc=5",
+      "source": "SecurityBrief Australia",
+      "category": "tech",
+      "published_at": "2026-11-09T02:40:00+00:00",
+      "importance": 8,
+      "personal_score": 8.0,
+      "entities": [
+        "Four Steps CISOs Can",
+        "Take To Secure AI-driven",
+        "Software Development",
+        "SecurityBrief Australia Four Steps",
+        "CISOs Can Take To",
+        "Secure AI-driven Software Development",
+        "SecurityBrief Australia"
       ],
       "summary_method": "rss_fallback"
     },
@@ -1602,39 +1639,95 @@
       "summary_method": "tfidf_extractive_full_article"
     },
     {
-      "id": "2c23248e68fc29ae",
-      "title": "At peak of air pollution on Deepavali, data goes missing at several government monitoring stations in Delhi",
-      "summary": "NEW DELHI Air quality data from several government monitoring stations in Delhi went missing for hours during the pollution spike following Deepavali on Sunday (November 8, 2026), with experts warning that the gaps have led to understated pollution levels and resulted in a lower official air quality index (AQI). Saha, former head of the Central Pollution Control Board (CPCB)’s air quality laboratory, AQI values are calculated using a moving or running average of hourly concentrations of eight parameters, including PM2.5 and PM10, over the previous 24 hours. Delhi AQI row: AAP alleges data fraud, BJP fires back over Punjab stubble ‘conspiracy’ Delhi AQI row: AAP alleges data fraud, BJP fires back over Punjab stubble ‘conspiracy’ When asked about air quality data in Delhi missing in several monitoring stations, Kapil Mishra said that the government will look into the issue within an hour and inform the media about it Delhi AQI row: AAP alleges data fraud, BJP fires back over Punjab stubble ‘conspiracy’ storyline 1 On Monday (November 9, 2026), PM2.5 data were missing for several hours at many stations in the city, including Anand Vihar, Patparganj and Bawana, on the CPCB website. Post-Deepavali smog envelopes cities as air quality plummets to 'severe' | In pictures As Deepavali celebrations continued overnight, X users reported worsening conditions, noting a strong smell of smoke, poor visibility, and breathing difficulties gallery On the CPCB website, PM2.5 readings appeared to be capped at 1,000 micrograms per cubic metre across all stations, with data missing for several hours at multiple locations.",
-      "url": "https://www.thehindu.com/news/cities/Delhi/at-peak-of-air-pollution-on-deepavali-night-data-goes-missing-at-several-govt-monitoring-stations-in-delhi/article71682391.ece",
-      "source": "The Hindu Science and Technology",
+      "id": "04b141cfaece184b",
+      "title": "5 AI Lessons for Embedded Firmware Teams - Design News",
+      "summary": "5 AI Lessons for Embedded Firmware Teams Design News",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOV3lwNW1yWVZyMnU1LWVoeW9BWXVYRkRtdjFLRzNKZnBDNUQtalZKTHdkY2U2T0c1MWZkWS13QTI2TDBrUnpBVl9RcjN6ZjFiX3M4U0FMZ1FZVml3ejNhSEFsbzBUajhHaTJjcTBlNlBzbnNoeEdSR21wbElPbXlRYkpqNDQzdlFjbGg3Sk4yZE1rMUdiMlBKYjFobzFlZjRPYzM0UlNHZlNBV3p5UXNaNHMyeXR2c2tkN3pR?oc=5",
+      "source": "Design News",
       "category": "tech",
-      "published_at": "2026-11-10T10:41:38+00:00",
+      "published_at": "2026-11-09T21:21:09+00:00",
       "importance": 7,
       "personal_score": 7.0,
       "entities": [
-        "Deepavali",
-        "Delhi Missing PM2.5",
-        "CPCB",
-        "PM2.5",
-        "Mishra"
+        "AI Lessons",
+        "Embedded Firmware Teams",
+        "Design News",
+        "Embedded Firmware Teams Design"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
+      "id": "fd026064033b03eb",
+      "title": "The Siang dam and a threatened homeland",
+      "summary": "A few kilometres from the entrance to Arunachal Pradesh’s Parong village, an unpaved road winds all the way down to the Siang river. At dusk, all that is visible at the beginning of the dirt road is the glint of freshly painted yellow barricades of the State police and the shine from the silver of the concertina wires that connect the barricades. The Central security forces who guard the check post here have two purposes — to respond to “unrest” and to stop anyone without “clearance” from proceeding to Siang’s waters. Parong, in Siang district, is one of the three proposed sites identified by the State government for a Pre-Feasibility Report (PFR) to begin work on the Siang Upper Multipurpose Project (SUMP), developed by the National Hydroelectric Power Corporation (NHPC).",
+      "url": "https://www.thehindu.com/news/national/arunachal-pradesh/siang-dam-and-a-threatened-homeland-in-arunachal-pradesh/article71675266.ece",
+      "source": "The Hindu Science and Technology",
+      "category": "tech",
+      "published_at": "2026-11-10T17:29:35+00:00",
+      "importance": 7,
+      "personal_score": 7.0,
+      "entities": [
+        "The Siang",
+        "The Adi",
+        "Siang Upper Multipurpose Project",
+        "Arunachal Pradesh",
+        "State",
+        "Abhinay Lakshman"
       ],
       "summary_method": "tfidf_extractive_full_article"
     },
     {
-      "id": "5a381e59e731e329",
-      "title": "Sumary secures $25M to expand its accounting software across Europe - Tech.eu",
-      "summary": "Sumary secures $25M to expand its accounting software across Europe Tech.eu",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVmV4RXozX1d5Qmd3R2RfZmVlRTVCQURFQUQ2em1VaWM0UUJKODl0S1c4UkJLTWNqT0JESkZjeXA2TXR1amg4Z002Mm1YQnlMQmNsVVZsb1hOTmlHV09vZlo1Tl9tRk9hM243VmZPSlVnMzB4QTl0Q3FuSkxPLWR2T0FmcFUzQXhtcW82WDl1VGltckJKRVpDZ0hn?oc=5",
-      "source": "Tech.eu",
+      "id": "e03daee91a5534c1",
+      "title": "AI Makes Reverse Engineering Mainstream Software & Malware Far Easier - Dark Reading",
+      "summary": "AI Makes Reverse Engineering Mainstream Software & Malware Far Easier Dark Reading",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxORGwzT3RXRHFndFZJbHkxN2gwbTNLRm9vRDg5LUdrM0xyUWh0WG9rbHU2enoyYjhSVDd1bjViSFdXOVJ0bF81X3dmWDFFOFlRUlZpaXZQYXB3UlliUDRIVGI0UHFOU0c3Ti1uTFl2dUJPZ2xJZWNCNDV2U0RKcWlFYXBB?oc=5",
+      "source": "Dark Reading",
       "category": "tech",
-      "published_at": "2026-11-10T07:24:36+00:00",
+      "published_at": "2026-11-10T13:04:07+00:00",
       "importance": 7,
       "personal_score": 7.0,
       "entities": [
-        "Sumary",
-        "Europe",
-        "Tech.eu Sumary",
-        "Europe Tech.eu"
+        "AI Makes Reverse Engineering",
+        "Mainstream Software",
+        "Malware Far Easier",
+        "Dark Reading AI Makes",
+        "Reverse Engineering Mainstream Software",
+        "Malware Far Easier Dark",
+        "Reading"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
+      "id": "45c3d3cce98f711a",
+      "title": "CodeRabbit scales agentic software development and ships 20x more - OpenAI",
+      "summary": "CodeRabbit scales agentic software development and ships 20x more OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1YczhZVHM5azFwMHJqTnJfM25LNVo4Mm9lVnhTZS1nWWoyU1hEUnE5OGo0S1cxODlRd2tKTjV5LVdNc0RqVllhMFJRSWs5QzUzR1p3MFNBTWs3alhyZUw3Sg?oc=5",
+      "source": "OpenAI",
+      "category": "tech",
+      "published_at": "2026-11-09T18:30:12+00:00",
+      "importance": 7,
+      "personal_score": 7.0,
+      "entities": [
+        "CodeRabbit",
+        "OpenAI CodeRabbit",
+        "OpenAI"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
+      "id": "d3e5a3d6c6e9bc57",
+      "title": "Home appliances could be next after fridge hacks, warns EU cyber chief - Euronews.com",
+      "summary": "Home appliances could be next after fridge hacks, warns EU cyber chief Euronews.com",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOMWN0TkNabHFCemZFRnQwdkVLR2U5aWN6MmthR2hRei1oMno1QnZpMFdhTW1Vb0JfUU1QV2pNcGk4OHNZOFZmbHNiektoenl0Tk90THRYRmRCRzdkYmJyUE55WkJSZHhmTFAwX2RHNWZrZjdjanoxc1cxRkFnNDVTREgxVUlrNkRMX00wMDhDV29Xc0dQLXJtS0JtZ2hmVXJlbWNFczBJcS0xLU1aaU92NU5GbUt3YXdBem5rR1dOUU1jWlh3?oc=5",
+      "source": "Euronews.com",
+      "category": "tech",
+      "published_at": "2026-11-10T14:54:08+00:00",
+      "importance": 7,
+      "personal_score": 7.0,
+      "entities": [
+        "Home",
+        "Euronews.com Home",
+        "Euronews.com"
       ],
       "summary_method": "rss_fallback"
     },
@@ -1659,119 +1752,6 @@
         "Kargil"
       ],
       "summary_method": "tfidf_extractive_full_article"
-    },
-    {
-      "id": "fd026064033b03eb",
-      "title": "The Siang dam and a threatened homeland",
-      "summary": "A few kilometres from the entrance to Arunachal Pradesh’s Parong village, an unpaved road winds all the way down to the Siang river. At dusk, all that is visible at the beginning of the dirt road is the glint of freshly painted yellow barricades of the State police and the shine from the silver of the concertina wires that connect the barricades. The Central security forces who guard the check post here have two purposes — to respond to “unrest” and to stop anyone without “clearance” from proceeding to Siang’s waters. Parong, in Siang district, is one of the three proposed sites identified by the State government for a Pre-Feasibility Report (PFR) to begin work on the Siang Upper Multipurpose Project (SUMP), developed by the National Hydroelectric Power Corporation (NHPC).",
-      "url": "https://www.thehindu.com/news/national/arunachal-pradesh/siang-dam-and-a-threatened-homeland-in-arunachal-pradesh/article71675266.ece",
-      "source": "The Hindu Science and Technology",
-      "category": "tech",
-      "published_at": "2026-11-10T17:29:35+00:00",
-      "importance": 7,
-      "personal_score": 7.0,
-      "entities": [
-        "The Siang",
-        "The Adi",
-        "Siang Upper Multipurpose Project",
-        "Arunachal Pradesh",
-        "State",
-        "Abhinay Lakshman"
-      ],
-      "summary_method": "tfidf_extractive_full_article"
-    },
-    {
-      "id": "ef28280514695e8d",
-      "title": "Energy One (ASX:EOL) Continues Energy Software Development Following FY26 Results - Kalkine",
-      "summary": "Energy One (ASX:EOL) Continues Energy Software Development Following FY26 Results Kalkine",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSEszMXVYSXMyemlhTmE1WmViR21rRTIyNnhkVXVzSFFtUEpFcUdGYzJkQzRiSS11QjAtU3ZfbHZpWGZnU1VoVFFJekd0aWFwOC1wMkJCY2ZNaHZPNVY4cHpHMmhlTkw4M2M2RDg3VFowYzMxR2VsMzM0NmdHaURLenI0WWFkd05aY3V6LTNPLUUzYnVlMFpMQTBlejNieXctQm96R2Uya1NEYzBEUjFhVmM4VUV0ejE0V1dTa1JzYVY?oc=5",
-      "source": "Kalkine",
-      "category": "tech",
-      "published_at": "2026-11-10T06:08:00+00:00",
-      "importance": 7,
-      "personal_score": 7.0,
-      "entities": [
-        "Energy One",
-        "ASX",
-        "EOL",
-        "Continues Energy Software Development",
-        "Following FY26 Results",
-        "Kalkine Energy One",
-        "Following FY26 Results Kalkine"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
-      "id": "2c68d1e7bf2a7e5a",
-      "title": "Synopsys and Infineon Extend Partnership to Enable Virtual Software Development for Automotive Microcontrollers - Autocar Professional",
-      "summary": "Synopsys and Infineon Extend Partnership to Enable Virtual Software Development for Automotive Microcontrollers Autocar Professional",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxONEJTZDRuYlBoRFhJRXhlRDI4ZnBpSGlpY1p4akxqT3ZLOW9tVkUwLWNTeWExS29yUVBXeTY2RmJyd0RUdGI3UUlTeXR6M3lUVHloX2YyNFpfMV9FZ2JZTHRCVm5QTkZ5emlVblFfUTlhM29fTXpKeElnU0d6a3ljQndnRkJNZ3dRYlFNMW03MEx2eURTWXJuX2RCX0dJbGJhZDJKVWtGUk93WFNYVENPUG92OXdrWWx2YWRCdzFIUHRkWW9WSkptblFBZ25ub1FwQ2pYLTZNOGltd2hOVW04VVVSVdIB6wFBVV95cUxPTTBIREtDRGJhdHFONGo5UTRNR0h6TlpZZ0I4LVY0TWlsXzcyOXdQbVpzVGhOaFFKSm9XNHowZ0czUllqRktJaHFwbThfLTFDZ2VmVVN6VHA3ZFA3d0d2cndVblZSSnZGVjNvVmtrOEtycUZNV256NmlKYnp4dHQyRll2OTdoYUUxVnI0YmRaUVZ3SU9xMnhpUk84ZlBHR3VJalVoUXpObWotcGMyNXNQWGhLUUVNc2tSQjhUbzZXOWhGQ24zdk1xR3hmbG5NWGIyZW9tQW1rZ2N2TzdlejROdWtjekhtVUtQX0h3?oc=5",
-      "source": "Autocar Professional",
-      "category": "tech",
-      "published_at": "2026-11-10T08:54:12+00:00",
-      "importance": 7,
-      "personal_score": 7.0,
-      "entities": [
-        "Synopsys",
-        "Infineon Extend Partnership",
-        "Enable Virtual Software Development",
-        "Automotive Microcontrollers",
-        "Autocar Professional Synopsys",
-        "Automotive Microcontrollers Autocar Professional"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
-      "id": "45c3d3cce98f711a",
-      "title": "CodeRabbit scales agentic software development and ships 20x more - OpenAI",
-      "summary": "CodeRabbit scales agentic software development and ships 20x more OpenAI",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1YczhZVHM5azFwMHJqTnJfM25LNVo4Mm9lVnhTZS1nWWoyU1hEUnE5OGo0S1cxODlRd2tKTjV5LVdNc0RqVllhMFJRSWs5QzUzR1p3MFNBTWs3alhyZUw3Sg?oc=5",
-      "source": "OpenAI",
-      "category": "tech",
-      "published_at": "2026-11-09T21:25:05+00:00",
-      "importance": 7,
-      "personal_score": 7.0,
-      "entities": [
-        "CodeRabbit",
-        "OpenAI CodeRabbit",
-        "OpenAI"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
-      "id": "74d53d06a3530c03",
-      "title": "AI-driven software demands push banks towards open APIs - FinTech Global",
-      "summary": "AI-driven software demands push banks towards open APIs FinTech Global",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOanR5MjE0Mzdfb2h2QTgzMm9IMGRhbHZHUWI5RDBWdnVucjhzeGdySVBZdTFrM0RMcVJVX3NHeUF2djAxMGhSVXBZR2YteGNIWmJMRllLOXVWNTFOLVlvWElYQlgwR3RHaGdLOTh6U0l6WUhiNUhKNXF4RmJ1MWk2M2x6Sm1VVFFqMGNQUGM0aUVDWjJO?oc=5",
-      "source": "FinTech Global",
-      "category": "tech",
-      "published_at": "2026-11-09T12:42:08+00:00",
-      "importance": 7,
-      "personal_score": 7.0,
-      "entities": [
-        "AI-driven",
-        "APIs",
-        "FinTech Global AI-driven",
-        "APIs FinTech Global"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
-      "id": "d3e5a3d6c6e9bc57",
-      "title": "Home appliances could be next after fridge hacks, warns EU cyber chief - Euronews.com",
-      "summary": "Home appliances could be next after fridge hacks, warns EU cyber chief Euronews.com",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOMWN0TkNabHFCemZFRnQwdkVLR2U5aWN6MmthR2hRei1oMno1QnZpMFdhTW1Vb0JfUU1QV2pNcGk4OHNZOFZmbHNiektoenl0Tk90THRYRmRCRzdkYmJyUE55WkJSZHhmTFAwX2RHNWZrZjdjanoxc1cxRkFnNDVTREgxVUlrNkRMX00wMDhDV29Xc0dQLXJtS0JtZ2hmVXJlbWNFczBJcS0xLU1aaU92NU5GbUt3YXdBem5rR1dOUU1jWlh3?oc=5",
-      "source": "Euronews.com",
-      "category": "tech",
-      "published_at": "2026-11-10T14:54:08+00:00",
-      "importance": 7,
-      "personal_score": 7.0,
-      "entities": [
-        "Home",
-        "Euronews.com Home",
-        "Euronews.com"
-      ],
-      "summary_method": "rss_fallback"
     },
     {
       "id": "373287609ec924de",
@@ -1866,18 +1846,21 @@
       "summary_method": "rss_fallback"
     },
     {
-      "id": "5ea7f28ac81b046d",
-      "title": "Meta expands AI age checks for Instagram teens as lawsuits mount",
-      "summary": "Meta Platforms said on Monday it would expand its AI age-estimation ​technology globally to move millions more teens on ‌Instagram into Teen Account protections, even if ​they have given birth ⁠dates showing they are adults, as the company faces lawsuits alleging its platforms harm young users. Meta hooked children and misled public: prosecutors Meta hooked children and misled public: prosecutors In what many experts have called social media's ‘big tobacco moment’, a coalition of States is asking that Meta be penalized by around $200 billion for designing products addictive to children Meta hooked children and misled public: prosecutors storyline 1 Meta said it is continuing to roll out the technology on Facebook ⁠and will begin launching similar technology globally on Threads later this year. Understanding the historic $17.1 billion Meta settlement storyline 1 In August, Meta struck settlements worth up to $18 billion with nearly every US state and territory to resolve lawsuits brought by attorneys general ‌over the platforms’ harm to teens. Meta settled with a teen ⁠plaintiff last month in a Los Angeles trial testing claims that Instagram ‌and Facebook were designed to be addictive, causing mental health problems and ​an eating disorder.",
-      "url": "https://www.thehindu.com/sci-tech/technology/meta-expands-ai-age-checks-for-instagram-teens-as-lawsuits-mount/article71684865.ece",
+      "id": "2c23248e68fc29ae",
+      "title": "At peak of air pollution on Deepavali, data goes missing at several government monitoring stations in Delhi",
+      "summary": "NEW DELHI Air quality data from several government monitoring stations in Delhi went missing for hours during the pollution spike following Deepavali on Sunday (November 8, 2026), with experts warning that the gaps have led to understated pollution levels and resulted in a lower official air quality index (AQI). Saha, former head of the Central Pollution Control Board (CPCB)’s air quality laboratory, AQI values are calculated using a moving or running average of hourly concentrations of eight parameters, including PM2.5 and PM10, over the previous 24 hours. Delhi AQI row: AAP alleges data fraud, BJP fires back over Punjab stubble ‘conspiracy’ Delhi AQI row: AAP alleges data fraud, BJP fires back over Punjab stubble ‘conspiracy’ When asked about air quality data in Delhi missing in several monitoring stations, Kapil Mishra said that the government will look into the issue within an hour and inform the media about it Delhi AQI row: AAP alleges data fraud, BJP fires back over Punjab stubble ‘conspiracy’ storyline 1 On Monday (November 9, 2026), PM2.5 data were missing for several hours at many stations in the city, including Anand Vihar, Patparganj and Bawana, on the CPCB website. Post-Deepavali smog envelopes cities as air quality plummets to 'severe' | In pictures As Deepavali celebrations continued overnight, X users reported worsening conditions, noting a strong smell of smoke, poor visibility, and breathing difficulties gallery On the CPCB website, PM2.5 readings appeared to be capped at 1,000 micrograms per cubic metre across all stations, with data missing for several hours at multiple locations.",
+      "url": "https://www.thehindu.com/news/cities/Delhi/at-peak-of-air-pollution-on-deepavali-night-data-goes-missing-at-several-govt-monitoring-stations-in-delhi/article71682391.ece",
       "source": "The Hindu Science and Technology",
       "category": "tech",
-      "published_at": "2026-11-10T06:51:42+00:00",
+      "published_at": "2026-11-10T10:41:38+00:00",
       "importance": 6,
       "personal_score": 6.0,
       "entities": [
-        "Meta",
-        "Instagram"
+        "Deepavali",
+        "Delhi Missing PM2.5",
+        "CPCB",
+        "PM2.5",
+        "Mishra"
       ],
       "summary_method": "tfidf_extractive_full_article"
     },
@@ -1917,6 +1900,23 @@
       "summary_method": "rss_fallback"
     },
     {
+      "id": "9c1fd7299ae7f48f",
+      "title": "At COP31, the ‘overshoot’ narrative cannot replace climate action",
+      "summary": "COP31 is around the corner, marking the end of a year of extreme weather events, terrible human tragedy, as well as a severe energy crisis. It is also the year in which the world is preparing to officially accept that we will exceed a warming level of 1.5 degrees celsius. The natural corollary to this unassailable reality is that countries should strive to collectively limit warming to as little over 1.5 degrees celsius, and as below 2 degrees, as possible. This requires scientific discussions, assessment of options, and a critical analysis of the trade-offs.",
+      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/at-cop31-the-overshoot-narrative-cannot-replace-climate-action/article71677165.ece",
+      "source": "The Hindu Science",
+      "category": "tech",
+      "published_at": "2026-11-07T08:48:45+00:00",
+      "importance": 6,
+      "personal_score": 6.0,
+      "entities": [
+        "At COP31",
+        "No COP",
+        "If COP31"
+      ],
+      "summary_method": "tfidf_extractive_full_article"
+    },
+    {
       "id": "59c636bf414539ee",
       "title": "Introducing the Elephant-Goldfish Model plugin: scaling design-driven AI software development - Google Open Source Blog",
       "summary": "Introducing the Elephant-Goldfish Model plugin: scaling design-driven AI software development Google Open Source Blog",
@@ -1934,21 +1934,22 @@
       "summary_method": "rss_fallback"
     },
     {
-      "id": "9c1fd7299ae7f48f",
-      "title": "At COP31, the ‘overshoot’ narrative cannot replace climate action",
-      "summary": "COP31 is around the corner, marking the end of a year of extreme weather events, terrible human tragedy, as well as a severe energy crisis. It is also the year in which the world is preparing to officially accept that we will exceed a warming level of 1.5 degrees celsius. The natural corollary to this unassailable reality is that countries should strive to collectively limit warming to as little over 1.5 degrees celsius, and as below 2 degrees, as possible. This requires scientific discussions, assessment of options, and a critical analysis of the trade-offs.",
-      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/at-cop31-the-overshoot-narrative-cannot-replace-climate-action/article71677165.ece",
-      "source": "The Hindu Science",
+      "id": "74d53d06a3530c03",
+      "title": "AI-driven software demands push banks towards open APIs - FinTech Global",
+      "summary": "AI-driven software demands push banks towards open APIs FinTech Global",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOanR5MjE0Mzdfb2h2QTgzMm9IMGRhbHZHUWI5RDBWdnVucjhzeGdySVBZdTFrM0RMcVJVX3NHeUF2djAxMGhSVXBZR2YteGNIWmJMRllLOXVWNTFOLVlvWElYQlgwR3RHaGdLOTh6U0l6WUhiNUhKNXF4RmJ1MWk2M2x6Sm1VVFFqMGNQUGM0aUVDWjJO?oc=5",
+      "source": "FinTech Global",
       "category": "tech",
-      "published_at": "2026-11-07T08:48:45+00:00",
+      "published_at": "2026-11-09T12:42:08+00:00",
       "importance": 6,
       "personal_score": 6.0,
       "entities": [
-        "At COP31",
-        "No COP",
-        "If COP31"
+        "AI-driven",
+        "APIs",
+        "FinTech Global AI-driven",
+        "APIs FinTech Global"
       ],
-      "summary_method": "tfidf_extractive_full_article"
+      "summary_method": "rss_fallback"
     },
     {
       "id": "8d0f4b93f8bbe64d",
@@ -1987,6 +1988,28 @@
         "Linux Foundation The Economic",
         "Value",
         "Linux Foundation"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
+      "id": "20eb024da24d5050",
+      "title": "NC Educations Strengthens Online IT Training with Advanced Networking, Cloud and Cybersecurity Programs - India CSR",
+      "summary": "NC Educations Strengthens Online IT Training with Advanced Networking, Cloud and Cybersecurity Programs India CSR",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcFFLZm9xOFB4dWlkbFZoUENBWldYZUt1ZVdVM2lfUHhJS0I3WlRESmlpcjJVT2k1eS1KaklsRlZVcnBqOVdYZHdYUkczWE1zXzNIaWYwX0hkbjJmTkltcEs5Mnhmd01UYXctS3UxR1lwaGQ2MldVdEhrRVViWm1MMTJxa1k?oc=5",
+      "source": "India CSR",
+      "category": "tech",
+      "published_at": "2026-11-10T22:39:18+00:00",
+      "importance": 5,
+      "personal_score": 5.0,
+      "entities": [
+        "NC Educations Strengthens Online",
+        "IT Training",
+        "Advanced Networking",
+        "Cloud",
+        "Cybersecurity Programs",
+        "India CSR NC Educations",
+        "Strengthens Online IT Training",
+        "Cybersecurity Programs India CSR"
       ],
       "summary_method": "rss_fallback"
     },
@@ -2044,32 +2067,6 @@
         "By Investing.com",
         "Investing.com India Graham",
         "By Investing.com Investing.com India"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
-      "id": "7d34cac4775f2071",
-      "title": "New Linux Foundation Research at Web Summit: 72% of Commercial Open Source Companies Report Net Positive AI Impact; Brand and Trust, Not Code, Ranks as Top Competitive Advantage - PR Newswire",
-      "summary": "New Linux Foundation Research at Web Summit: 72% of Commercial Open Source Companies Report Net Positive AI Impact; Brand and Trust, Not Code, Ranks as Top Competitive Advantage PR Newswire",
-      "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxOSmx2Q0pDdXdqckxncmFxMXdrU1VZemYwaEItWlZ6MnRKVHdWVDJxQXFLSHgyZXNKdDlTZFFQcHVBM2h5aUlCQlk4d0xCMWp0RW0tM1ZwUlVLZ2hESWxpcVZmTkl3a0I3Ui1zcmgtbmlnWDhvU2hERGdvTXFJUk9SSFo5OVVfWm9pM2F2akMwRk01dzVyaTBhM2JGZGluV0M1Qkp5dGxXTm9BZ1ctWXhHUDlNcWFGR3AtaU5vbmUtSG15NUdNTFhVSHpQN2VjM1kydXRyVHpHVWtndmlQM3R1SUgwUHZIdTg5TjZ2UDN4ZXUweVVob0VUWVMyWDg1ZjJjOVM2aEp6VVRmSXppdmVYcU1TU0V4eDBLZTJuVDlxU1Jjb2p3cHJ5d2NWYTJHSFI1LUJnNjdZbE5RUG1kVWY0bnBCeFFKSjI5dHcwNA?oc=5",
-      "source": "PR Newswire",
-      "category": "tech",
-      "published_at": "2026-11-10T14:00:00+00:00",
-      "importance": 5,
-      "personal_score": 5.0,
-      "entities": [
-        "New Linux Foundation Research",
-        "Web Summit",
-        "Commercial Open Source Companies",
-        "Report Net Positive AI",
-        "Impact",
-        "Brand",
-        "Trust",
-        "Not Code",
-        "Ranks",
-        "Top Competitive Advantage",
-        "PR Newswire New Linux",
-        "Foundation Research"
       ],
       "summary_method": "rss_fallback"
     },
