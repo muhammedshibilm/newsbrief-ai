@@ -1,6 +1,6 @@
 {
   "version": 7,
-  "updated_at": "2026-11-13T23:58:26.146157+00:00",
+  "updated_at": "2026-11-14T04:18:48.502723+00:00",
   "ai_engine": {
     "enabled": true,
     "type": "mathematical_ml",
@@ -46,6 +46,24 @@
     "image_url_stored": false
   },
   "general": [
+    {
+      "id": "67cf503051d06de6",
+      "title": "Petition moved in Kerala High Court challenging clean chit to Chief Minister in Punarjani flood rehabilitation scheme",
+      "summary": "The petitioner claimed that this report was suppressed, and the proceedings against the Chief Minister were closed, concluding that there was no legal ground or evidence tying him directly to fund collection, handling, or administration. He quoted the VACB’s final report that the money was verified to be fully managed and processed through legal, audited and Foreign Contribution (Regulation) Act (FCRA)-compliant banking channels of Manappatt Foundation. The petitioner alleged that the first preliminary inquiry report found clear evidence of wrongdoing and recommended a Central Bureau of Investigation inquiry, but then another report was produced on May 5, 2026, after which the Vigilance Director had closed the file, allegedly stating that there was “no vigilance angle”. The petitioner further alleged that the probe had flagged the fund transfers as a conspiracy to bypass Central regulations because the funds were routed through the FCRA-registered account of Manappat Foundation with the help of the UK-based Midland International Aid Trust.",
+      "url": "https://www.thehindu.com/news/national/kerala/petition-moved-in-kerala-high-court-challenging-clean-chit-to-chief-minister-in-punarjani-flood-rehabilitation-scheme/article71699491.ece",
+      "source": "The Hindu Kerala",
+      "category": "general",
+      "published_at": "2026-11-13T20:16:38+00:00",
+      "importance": 10,
+      "personal_score": 10.25,
+      "entities": [
+        "Petition",
+        "Kerala High Court",
+        "Chief Minister",
+        "Punarjani"
+      ],
+      "summary_method": "tfidf_extractive_full_article"
+    },
     {
       "id": "5718c6ee2f621d26",
       "title": "KIIFB accounts should have been audited by CAG, says Kerala High Court",
@@ -131,6 +149,60 @@
       "summary_method": "tfidf_extractive_full_article"
     },
     {
+      "id": "e9b9bdbf9d97e9d7",
+      "title": "Two Wayanad farmers win national plant genome saviour awards",
+      "summary": "His collection includes 39 varieties of banana, 11 varieties of root tubers, nine varieties of colocasia, six varieties of ginger, four varieties of turmeric, and three varieties of Amorphophallus, besides several varieties of yams, arrowroot, coleus, cassava, mango, jackfruit, passion fruit, arecanut, coconut, cardamom, pepper, and coffee. Sooraj C.S., another farmer from Wayanad, received the Plant Genome Saviour Farmer Recognition for the year 2024-25, along with a cash award of ₹1 lakh, a citation, and a memento from PPV&FRA, New Delhi, for his remarkable contribution to the conservation of crop diversity. He maintains an extensive collection of 670 diverse genetic resources, including 104 tomato varieties, 23 brinjal varieties, 36 chilli germplasm accessions, 32 banana varieties, 15 rice varieties, 17 tuber varieties, 55 medicinal plant accessions, 58 wild edible leafy plant accessions, and several other vegetable, fruit, spice and ornamental plant varieties. He has also shared leafy vegetable and spice germplasm with Kerala Agricultural University for characterisation and nutritional profiling, besides providing chilli, tomato and brinjal accessions to the Department of Genetics and Plant Breeding, College of Agriculture, Vellanikkara, for research purposes.",
+      "url": "https://www.thehindu.com/news/national/kerala/two-wayanad-farmers-win-national-plant-genome-saviour-awards/article71698922.ece",
+      "source": "The Hindu Kerala",
+      "category": "general",
+      "published_at": "2026-11-13T19:42:50+00:00",
+      "importance": 8,
+      "personal_score": 8.25,
+      "entities": [
+        "Two Wayanad"
+      ],
+      "summary_method": "tfidf_extractive_full_article"
+    },
+    {
+      "id": "3cb83612264bbcdc",
+      "title": "Keralam CM Satheesan appeals for unity among churches in State",
+      "summary": "Satheesan on Friday (November 13, 2026) appealed for unity among churches in Keralam, assuring them that his government would support efforts to bring the warring factions together. The Chief Minister made the appeal in the presence of Moran Mor Ignatius Aphrem II, Patriarch of Antioch and Supreme Head of the Universal Syrian Orthodox Church, without directly referring to the long-standing dispute between the Jacobite Syrian Church and the Malankara Orthodox Syrian Church over the ownership of several churches. Actor Mammootty was presented with the Sreshta Bava Award, instituted in memory of the late Catholicos Baselios Thomas I, former head of the Jacobite Syrian Orthodox Church, on the occasion. Mammootty said hatred prevailed in society in many forms in the present times and that people had to start making their enemies their friends to attain peace of mind.",
+      "url": "https://www.thehindu.com/news/national/kerala/keralam-cm-satheesan-appeals-for-unity-among-churches-in-state/article71698731.ece",
+      "source": "The Hindu Kerala",
+      "category": "general",
+      "published_at": "2026-11-13T19:37:57+00:00",
+      "importance": 8,
+      "personal_score": 8.25,
+      "entities": [
+        "Keralam CM Satheesan",
+        "State Chief Minister",
+        "State",
+        "Mammootty",
+        "Sreshta Bava Award"
+      ],
+      "summary_method": "tfidf_extractive_full_article"
+    },
+    {
+      "id": "0595cca2f3b29bcc",
+      "title": "Kerala High Court seeks State’s response to PIL seeking mechanism to implement cyber laws",
+      "summary": "Pooja Maheshwar of Ernakulam, the petitioner, further sought a preventative monitoring wing within the State mechanism to actively monitor social media trends, identify patterns of coordinated harassment, and detect high-risk digital environments to prevent harm. She cited nine separate instances where cyber harassment had been a factor in alleged suicides to demonstrate that the digital aspect of a suspected suicide could not be treated as an incidental or secondary matter. She highlighted that in several cases, mobile phones, deleted accounts, messages, videos, social media posts, and other electronic evidence become central to determining the circumstances preceding the death. She elaborated that at present, the regulatory framework held several mechanisms for intermediaries, including grievance redressal, compliance officers, law-enforcement coordination, complaint tracking, and, in specified circumstances, originator identification.",
+      "url": "https://www.thehindu.com/news/national/kerala/kerala-high-court-seeks-states-response-to-pil-seeking-mechanism-to-implement-cyber-laws/article71641007.ece",
+      "source": "The Hindu Kerala",
+      "category": "general",
+      "published_at": "2026-11-13T19:06:24+00:00",
+      "importance": 8,
+      "personal_score": 8.25,
+      "entities": [
+        "Kerala High Court",
+        "State",
+        "PIL",
+        "Cyber",
+        "Information Technology Act",
+        "Bharatiya Nyaya Sanhita"
+      ],
+      "summary_method": "tfidf_extractive_full_article"
+    },
+    {
       "id": "4a0a9459593bcada",
       "title": "Malappuram teachers to take part in football championship to raise awareness of drug abuse",
       "summary": "MALAPPURAM Twenty teams of teachers from across Malappuram district will take part in the district teachers’ sevens football championship to be held at Thalappara near Tirurangadi on Saturday (November 14). Organised by the Tirurangadi Teachers’ Squad, the tournament aims to spread awareness against drug abuse and encourage students to take up sports and lead healthy lives. The organisers said teachers should not only advise students to stay away from drugs but also set an example by taking part in sports and promoting healthy habits. The tournament will also bring teachers from different educational institutions together and promote friendship, unity and sportsmanship.",
@@ -193,66 +265,19 @@
       "summary_method": "tfidf_extractive_full_article"
     },
     {
-      "id": "20d490a400ce0d10",
-      "title": "Disha higher education expo wraps up, draws 50,000 students",
-      "summary": "MALAPPURAM The State-level higher education expo ‘Disha 2026’, organised to familiarise students with higher education and career opportunities, concluded here with the organisers claiming that more than 50,000 students had visited the five-day event. Organised by the Career Guidance and Adolescent Counselling Cell (CG&ACC) of the higher secondary wing under the General Education department, the expo featured about 80 institutions, including Central and State universities, IITs, NITs, IISc, IISER, AIIMS, and national law universities. Students had the opportunity to learn about courses, entrance tests, scholarships, research, and career options directly from representatives of these institutions. Mohammed Sajad from Government Boys Higher Secondary School, Malappuram, winner of the promotional reel competition, and Mohammed Salman from Government Higher Secondary School, Arimbra, winner of the poster competition.",
-      "url": "https://www.thehindu.com/news/national/kerala/disha-higher-education-expo-wraps-up-draws-50000-students/article71698454.ece",
+      "id": "07f7ce1b22788c9d",
+      "title": "Keralam government sanctions ₹11 crore for renovationroad development in Kochi",
+      "summary": "Demand grows for alternative greenfield road corridors to Infopark in Kochi Demand grows for alternative greenfield road corridors to Infopark in Kochi IT professionals flag safety concerns over narrow, potholed roads and traffic snarls, and call for parallel roads through vacant plots to improve connectivity to Infopark Demand grows for alternative greenfield road corridors to Infopark in Kochi storyline 1 Main reason for waterlogging “Skewed slopes of drains remain the main reason for waterlogging along M.G. ₹1.50-crore project to redevelop Vyttila Junction in Keralam’s Kochi nearing completion ₹1.50-crore project to redevelop Vyttila Junction in Keralam’s Kochi nearing completion The widened and redeveloped portions beneath the Vyttila flyover being opened to traffic in a phased manner; a dedicated bus bay to park four buses at a time to be readied on the south-western side of the junction ₹1.50-crore project to redevelop Vyttila Junction in Keralam’s Kochi nearing completion storyline 1 Initially, Swagatham Road was identified as the approach road for the Perandoor-Vaduthala bridge. However, it was replaced by Chinmaya Cross Road following widespread complaints from residents that the narrow width of Swagatham Road would lead to traffic congestion once the bridge becomes a reality. The proposed works have been included in the budgeted works and sanctioned as part of efforts to improve the basic infrastructure of the city’s main roads and address perennial issues such as traffic congestion and waterlogging, he said.",
+      "url": "https://www.thehindu.com/news/national/kerala/keralam-government-sanctions-11-crore-for-road-development-in-kochi/article71698108.ece",
       "source": "The Hindu Kerala",
       "category": "general",
-      "published_at": "2026-11-13T16:15:18+00:00",
+      "published_at": "2026-11-13T20:02:54+00:00",
       "importance": 6,
       "personal_score": 6.25,
       "entities": [
-        "Disha",
-        "Organised",
-        "Career Guidance",
-        "Adolescent Counselling Cell",
-        "CG&ACC",
-        "General Education",
-        "Central",
-        "State",
-        "IITs",
-        "NITs",
-        "IISc",
-        "IISER"
-      ],
-      "summary_method": "tfidf_extractive_full_article"
-    },
-    {
-      "id": "98fb3d7eb0fa5144",
-      "title": "Keralam Electricity Minister’s statements on GNA deal disprove CM’s claims, says Pinarayi Vijayan",
-      "summary": "THIRUVANANTHAPURAM Reiterating his demand for a judicial inquiry headed by a High Court judge into the controversy surrounding the cancellation of the GNA power purchase deal, Keralam Leader of the Opposition Pinarayi Vijayan said on Friday that all the claims made so far by the Chief Minister regarding the power contract have been proved to be factually incorrect going by Electricity Minister Sunny Joseph’s statements. “With the Minister himself openly stating that the KSEB did not exert pressure to procure power and that the GNA contract is unfeasible, the Chief Minister’s credibility has been completely shattered. The Chief Minister, who had previously dismissed with contempt the Opposition’s allegation that GNA was merely an intermediary agency, rather than a power producer or a licensed trader, has now been corrected by his own Minister. ‘Shifted the blame’ “It is now, therefore, beyond any doubt that these irregular moves and suspicious interventions were carried out either with the Chief Minister’s direct knowledge or under his leadership in a completely unilateral manner.",
-      "url": "https://www.thehindu.com/news/national/kerala/keralam-electricity-ministers-statements-on-gna-deal-disprove-cms-claims-says-pinarayi-vijayan/article71698584.ece",
-      "source": "The Hindu Kerala",
-      "category": "general",
-      "published_at": "2026-11-13T15:54:57+00:00",
-      "importance": 6,
-      "personal_score": 6.25,
-      "entities": [
-        "Keralam Electricity Minister",
-        "GNA",
-        "Pinarayi Vijayan Keralam Leader",
-        "Opposition",
-        "High Court",
-        "CM Satheesan"
-      ],
-      "summary_method": "tfidf_extractive_full_article"
-    },
-    {
-      "id": "a9815355d75eeba7",
-      "title": "15th Five-Year Plan to prioritise employment generation, agricultural revival: Minister",
-      "summary": "The Minister said that departing from the previous practice, the State government would formulate the plan by incorporating ideas and suggestions gathered through district-level consultations involving the public and people’s representatives. They should also ensure that the allocated funds were fully utilised within the stipulated time instead of postponing expenditure until the end of the financial year, he said. Besides the sub-plans for Scheduled Castes and Scheduled Tribes, the present United Democratic Front (UDF) government has also formulated a special scheme for fisherfolk, who faced considerable hardships, Mr. The government had taken steps, including through new legislative initiatives such as ‘SARAL’, to ensure that industrial investors could obtain all necessary clearances within a few days, the Minister added.",
-      "url": "https://www.thehindu.com/news/national/kerala/15th-five-year-plan-to-prioritise-employment-generation-agricultural-revival-minister/article71697964.ece",
-      "source": "The Hindu Kerala",
-      "category": "general",
-      "published_at": "2026-11-13T15:35:16+00:00",
-      "importance": 6,
-      "personal_score": 6.25,
-      "entities": [
-        "Five-Year Plan",
-        "Minister Revenue Minister A.P",
-        "Anil Kumar",
-        "State"
+        "Keralam",
+        "Kochi The",
+        "Ernakulam MLA"
       ],
       "summary_method": "tfidf_extractive_full_article"
     },
@@ -283,30 +308,47 @@
       "summary_method": "rss_fallback"
     },
     {
-      "id": "01abe1dd29513c09",
-      "title": "പുരപ്പുറ സോളർ: പിഎം സൂര്യഘർ യോജനയിൽ ഇന്ത്യയ്ക്ക് സ്പീഡ് കൂടി; ലക്ഷം തൊടാൻ 118ൽ നിന്ന് വെറും 5ലേക്ക് - Manorama Online",
-      "summary": "പുരപ്പുറ സോളർ: പിഎം സൂര്യഘർ യോജനയിൽ ഇന്ത്യയ്ക്ക് സ്പീഡ് കൂടി; ലക്ഷം തൊടാൻ 118ൽ നിന്ന് വെറും 5ലേക്ക് Manorama Online",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQN2RHQWdYVDZTVnpLSW1xWHZUWmVOcF9XVElFd1FPYkNmYzBGbllhaVdXdUhpdURZNTB2SmNraDB5UGZFeEVMd0x1NmFETkNtSGdyekhPdjhjbVF0bndyUWNEaDVBNlI5UUlYQU9GLWlSQV9SNjcwMlA2ZWhmdFloNWZlX1pqaXZBVTNjMXF2WktGQ3RodUtIdEg4NWVsenhBS3U4cjlCTHFpZU1NQjJUMW1jdm9kT1hvN19ScEtHcFo?oc=5",
-      "source": "Manorama Online",
+      "id": "20d490a400ce0d10",
+      "title": "Disha higher education expo wraps up, draws 50,000 students",
+      "summary": "MALAPPURAM The State-level higher education expo ‘Disha 2026’, organised to familiarise students with higher education and career opportunities, concluded here with the organisers claiming that more than 50,000 students had visited the five-day event. Organised by the Career Guidance and Adolescent Counselling Cell (CG&ACC) of the higher secondary wing under the General Education department, the expo featured about 80 institutions, including Central and State universities, IITs, NITs, IISc, IISER, AIIMS, and national law universities. Students had the opportunity to learn about courses, entrance tests, scholarships, research, and career options directly from representatives of these institutions. Mohammed Sajad from Government Boys Higher Secondary School, Malappuram, winner of the promotional reel competition, and Mohammed Salman from Government Higher Secondary School, Arimbra, winner of the poster competition.",
+      "url": "https://www.thehindu.com/news/national/kerala/disha-higher-education-expo-wraps-up-draws-50000-students/article71698454.ece",
+      "source": "The Hindu Kerala",
       "category": "general",
-      "published_at": "2026-11-13T23:41:00+00:00",
+      "published_at": "2026-11-13T16:15:18+00:00",
+      "importance": 5,
+      "personal_score": 5.25,
+      "entities": [
+        "Disha",
+        "Organised",
+        "Career Guidance",
+        "Adolescent Counselling Cell",
+        "CG&ACC",
+        "General Education",
+        "Central",
+        "State",
+        "IITs",
+        "NITs",
+        "IISc",
+        "IISER"
+      ],
+      "summary_method": "tfidf_extractive_full_article"
+    },
+    {
+      "id": "18aecfc1b40018bf",
+      "title": "Keralam CPI(M) suspends Elappully local secretary",
+      "summary": "PALAKKAD The Communist Party of India (Marxist) [CPI(M)] has suspended its Elappully East-1 local committee secretary Satheesh Kumar for six months following allegations of an extramarital relationship with another woman. The woman’s husband has approached the family court here seeking divorce, alleging that the relationship had continued for several years. Suresh Kumar, an employee of the Elappully Service Cooperative Bank, has been given charge of the local committee secretary’s post in his place. Amid controversy The latest action comes at a time when the CPI(M) in Palakkad is facing a major controversy over allegations against former district secretary E.N.",
+      "url": "https://www.thehindu.com/news/national/kerala/keralam-cpim-suspends-elappully-local-secretary-over-alleged-extramarital-affair/article71698194.ece",
+      "source": "The Hindu Kerala",
+      "category": "general",
+      "published_at": "2026-11-13T17:46:41+00:00",
       "importance": 4,
       "personal_score": 4.25,
       "entities": [
-        "പുരപ്പുറ",
-        "സോളർ",
-        "പിഎം",
-        "സൂര്യഘർ",
-        "യോജനയിൽ",
-        "ഇന്ത്യയ്ക്ക്",
-        "സ്പീഡ്",
-        "കൂടി",
-        "ലക്ഷം",
-        "തൊടാൻ",
-        "നിന്ന്",
-        "വെറും"
+        "Keralam CPI",
+        "Elappully",
+        "Party"
       ],
-      "summary_method": "rss_fallback"
+      "summary_method": "tfidf_extractive_full_article"
     },
     {
       "id": "9e4b1d653200a15e",
@@ -335,90 +377,24 @@
       "summary_method": "tfidf_extractive_full_article"
     },
     {
-      "id": "e778cd4033b1182b",
-      "title": "തച്ചങ്കരി പെട്ടു; ശിക്ഷിക്കപ്പെട്ട ശേഷം ഒരു ദിവസം പോലും സെല്ലില്‍ കഴിഞ്ഞില്ല, ചോദ്യവുമായി ഹൈക്കോടതി",
-      "summary": "ഒരു ദിവസം പോലും സെല്ലില്‍ കിടന്നിട്ടില്ല.കേരളത്തില്‍ നിന്നുള്ള മാലിന്യം തമിഴ്‌നാട്ടില്‍; വിജയ് എന്തുകൊണ്ട് ഇടപെടുന്നില്ല, ചോദ്യവുമായി ബിജെപിശ്വാസതടസത്തിന്റെ പ്രയാസമുണ്ടെന്നും പ്രത്യേക മെഷീന്‍ ഉപയോഗിച്ച് ശ്വാസം ക്രമീകരിക്കാനുള്ള സംവിധാനം സെല്ലില്‍ ഇല്ലെന്നും ചൂണ്ടിക്കാട്ടിയാണ് തച്ചങ്കരി ആശുപത്രിയില്‍ കഴിഞ്ഞിരുന്നത്. വിവാദമായതോടെ ഇത് പിന്‍വലിക്കാന്‍ ശ്രമിക്കവെയാണ് ജസ്റ്റിസ് എ ബദറുദ്ദീന്‍ അധ്യക്ഷനായ ബെഞ്ചിന്റെ നിരീക്ഷണം.സ്വര്‍ണവില കുത്തനെ കുറഞ്ഞു; ഡോളര്‍ പറക്കുന്നു, ആഭരണം വാങ്ങുന്നവര്‍ക്ക് നേട്ടം, പവന്‍ വില അറിയാംശിക്ഷാകാലയളവില്‍ തച്ചങ്കരിയെ ജയില്‍ ആശുപത്രിയില്‍ പ്രവേശിപ്പിച്ചതുമായി ബന്ധപ്പെട്ട അസ്വാഭാവികത പ്രത്യേക ഉത്തരവിലൂടെ പരിശോധിക്കേണ്ടതുണ്ടെന്ന് കോടതി ചൂണ്ടിക്കാട്ടി. തടവിലായിരുന്നപ്പോള്‍ അദ്ദേഹത്തിന് ഗുരുതരമായ അസുഖങ്ങളുണ്ടായിരുന്നോ, ആശുപത്രി പ്രവേശനം ഗൂഢാലോചനയുടെ ഭാഗമായിരുന്നോ എന്നീ കാര്യങ്ങള്‍ മെഡിക്കല്‍ ബോര്‍ഡിനെക്കൊണ്ട് പരിശോധിപ്പിക്കുന്നതിന് കോടതി സ്വമേധയാ ഉത്തരവിടുമെന്നും വ്യക്തമാക്കി.തച്ചങ്കരിക്ക് അനുകൂലമായി ഗൂഢാലോചന നടന്നിട്ടുണ്ടെങ്കില്‍ ജയില്‍ ഡോക്ടര്‍, ജയില്‍ സൂപ്രണ്ട്, പോലിസ് ഉദ്യോഗസ്ഥര്‍ തുടങ്ങിയവരുടെ പങ്കും അന്വേഷിക്കേണ്ടിവരുമെന്നും കോടതി നിരീക്ഷിച്ചു. തച്ചങ്കരിയുടെ ഹരജിയില്‍ വിധി പറയാന്‍ മാറ്റി.ലക്ഷദ്വീപ് യാത്രയ്ക്ക് തയ്യാറായിക്കോ; ബേപ്പൂര്‍ തുറമുഖത്ത് കപ്പല്‍ റെഡി, 8 മണിക്കൂര്‍, 250 സീറ്റുകള്‍രോഗിയാണ് എന്ന് പറയുകയും വിമാന യാത്ര നടത്തി വിദേശത്ത് പോകാന്‍ അപേക്ഷിക്കുകയും ചെയ്യുന്നതിലെ വൈരുധ്യമാണ് കോടതിയുടെ സംശയത്തിന് ഇടയാക്കിയത്.",
-      "url": "https://malayalam.oneindia.com/news/kerala/tomin-thachankary-in-grill-didnt-spend-even-single-day-in-cell-after-sentenced-high-court-doubt-604009.html",
-      "source": "Oneindia Malayalam News",
-      "category": "general",
-      "published_at": "2026-11-12T15:28:07+00:00",
-      "importance": 4,
-      "personal_score": 4.25,
-      "entities": [
-        "തച്ചങ്കരി",
-        "പെട്ടു",
-        "ശിക്ഷിക്കപ്പെട്ട",
-        "ശേഷം",
-        "ഒരു",
-        "ദിവസം",
-        "പോലും",
-        "സെല്ലില്",
-        "കഴിഞ്ഞില്ല",
-        "ചോദ്യവുമായി",
-        "ഹൈക്കോടതി",
-        "ടോമിന്"
-      ],
-      "summary_method": "tfidf_extractive_full_article"
-    },
-    {
-      "id": "18aecfc1b40018bf",
-      "title": "Keralam CPI(M) suspends Elappully local secretary",
-      "summary": "PALAKKAD The Communist Party of India (Marxist) [CPI(M)] has suspended its Elappully East-1 local committee secretary Satheesh Kumar for six months following allegations of an extramarital relationship with another woman. The woman’s husband has approached the family court here seeking divorce, alleging that the relationship had continued for several years. Suresh Kumar, an employee of the Elappully Service Cooperative Bank, has been given charge of the local committee secretary’s post in his place. Amid controversy The latest action comes at a time when the CPI(M) in Palakkad is facing a major controversy over allegations against former district secretary E.N.",
-      "url": "https://www.thehindu.com/news/national/kerala/keralam-cpim-suspends-elappully-local-secretary-over-alleged-extramarital-affair/article71698194.ece",
+      "id": "11eace61ed025a99",
+      "title": "Kolavipalam set to sail into Keralam’s cruise tourism map",
+      "summary": "Aimed at unlocking the untapped potential of Malabar’s shoreline, the initiative forms a key component of the State government’s flagship ‘Mission Samudra’ project, which seeks to seamlessly integrate maritime transport, cruise tourism, and local commerce. Led by Thiruvananthapuram Port deputy director Aswini Prathap, the delegation conducted a preliminary technical assessment in the area and found that Kolavipalam possesses a rare natural advantage: deep waters situated at the shortest distance from the shoreline in the region. Local administrators from Koyilandy and Payyoli pointed out that the proposed circuit would seamlessly link Mini Goa-local Kolavi beach, famous for its pristine golden sands, mangrove ecosystems, and Olive Ridley sea turtle nesting sites, with the Sargaalaya Kerala Arts and Crafts Village at Iringal, an acclaimed cultural hub along the Moorad river featuring live traditional artisan workshops. The maritime route will also incorporate the historic Kunjali Marakkar Memorial and Museum at Kottakkal, which displays ancient weaponry and relics of the legendary 16th-century Samoothiri naval commanders, as well as the offshore rock formation of Velliyamkallu, a historic naval lookout post during anti-colonial battles that is now revered for its natural sea caves and birdlife.",
+      "url": "https://www.thehindu.com/news/national/kerala/kolavipalam-set-to-sail-into-keralams-cruise-tourism-map/article71697752.ece",
       "source": "The Hindu Kerala",
       "category": "general",
-      "published_at": "2026-11-13T17:46:41+00:00",
+      "published_at": "2026-11-13T16:55:40+00:00",
       "importance": 4,
       "personal_score": 4.25,
       "entities": [
-        "Keralam CPI",
-        "Elappully",
-        "Party"
+        "Kolavipalam",
+        "Keralam",
+        "Payyoli",
+        "Led",
+        "Thiruvananthapuram Port Deputy Director",
+        "Aswini Prathap"
       ],
       "summary_method": "tfidf_extractive_full_article"
-    },
-    {
-      "id": "ac52f13d6c0a877f",
-      "title": "Speaker’s last-minute withdrawal triggers protest at unveiling of Kanayi’s sculpture in Kasaragod",
-      "summary": "KASARAGOD The uncertainty over the unveiling of sculpture done by artist Kanayi Kunhiraman in Kasaragod on Friday (November 13) triggered a row after Speaker Thiruvanchoor Radhakrishnan, who was scheduled to inaugurate the installation, failed to turn up at the last minute. The unexpected development triggered protests and sharp criticism from elected representatives, cultural activists, and members of the art fraternity, who viewed the speaker’s absence as an insult to the veteran sculptor. When the organisers proposed Kasaragod MP Rajmohan Unnithan as an alternative chief guest, the protesters demanded that Mr. He pointed out that Kanayi had undertaken the project without accepting any remuneration despite having several other professional commitments.",
-      "url": "https://www.thehindu.com/news/national/kerala/speakers-last-minute-withdrawal-triggers-protest-at-unveiling-of-kanayis-sculpture-in-kasaragod/article71699011.ece",
-      "source": "The Hindu Kerala",
-      "category": "general",
-      "published_at": "2026-11-13T19:08:13+00:00",
-      "importance": 4,
-      "personal_score": 4.25,
-      "entities": [
-        "Speaker",
-        "Kanayi",
-        "Kasaragod The"
-      ],
-      "summary_method": "tfidf_extractive_full_article"
-    },
-    {
-      "id": "4f28aa9f54d80a46",
-      "title": "Kerala News Today Live Updates: മെസിയുടെ പേരിലെ തട്ടിപ്പ്; അബ്ദുറഹ്മാനെ പ്രതി ചേർക്കാനുള്ള സർക്കാർ ഉത്തരവ് ഇന്നിറങ്ങും - Indian Express Malayalam",
-      "summary": "Kerala News Today Live Updates: മെസിയുടെ പേരിലെ തട്ടിപ്പ്; അബ്ദുറഹ്മാനെ പ്രതി ചേർക്കാനുള്ള സർക്കാർ ഉത്തരവ് ഇന്നിറങ്ങും Indian Express Malayalam",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQZ1NEcGlNOEZEMXZtb0JiMFpEUHhRRGtpUmJMSDFLTWFtLUs2VWx4RFVyWDdqaHBCX180OWpCNXZRdUlnMkliR1ZXMXQ1SjVBOWlpQ1JHZmR5YXVVLWVtNlZuMGVaUmdjcEdKTjZCREd0YXZ6YjdyNkJzZjlTNVpaQ082U2s0dllyMDlGRFB1bURaTEJwb3ZQV3d6Ni1WbzNIXzJkZWtqalBodFQ3b3kxRjl3d2ctalBSRFhBZ25YdWN6UUVrZXFCNW5mQVhmV1UxMUpCbC1URkJqWDY2d1ZMZ1NCVXZwdG9rbzJpNXB30gHuAUFVX3lxTFBnU0RwaU04RkQxdm1vQmIwWkRQeFFEa2lSYkxIMUtNYW0tSzZVbHhEVXJYN2pocEJfXzQ5akI1dlF1SWcySWJHVlcxdDVKNUE5aWlDUkdmZHlhdVUtZW02Vm4wZVpSZ2NwR0pONkJER3RhdnpiN3I2QnNmOVM1WlpDTzZTazR2WXIwOUZEUHVtRFpMQnBvdlBXd3o2LVZvM0hfMmRla2pqUGh0VDdveTFGOXd3Zy1qUFJEWEFnblh1Y3pRRWtlcUI1bmZBWGZXVTExSkJsLVRGQmpYNjZ3VkxnU0JVdnB0b2tvMmk1cHc?oc=5",
-      "source": "Indian Express Malayalam",
-      "category": "general",
-      "published_at": "2026-11-13T13:55:33+00:00",
-      "importance": 4,
-      "personal_score": 4.25,
-      "entities": [
-        "മെസിയുടെ",
-        "പേരിലെ",
-        "തട്ടിപ്പ്",
-        "അബ്ദുറഹ്മാനെ",
-        "പ്രതി",
-        "ചേർക്കാനുള്ള",
-        "സർക്കാർ",
-        "ഉത്തരവ്",
-        "ഇന്നിറങ്ങും",
-        "Kerala News Today Live",
-        "Updates",
-        "Indian Express Malayalam Kerala"
-      ],
-      "summary_method": "rss_fallback"
     },
     {
       "id": "74493f2323bfb75b",
@@ -508,23 +484,6 @@
       "summary_method": "tfidf_extractive_full_article"
     },
     {
-      "id": "1feb544b114b4faa",
-      "title": "Man held in Kochi with suspected LSD stamps",
-      "summary": "KOCHI The Kochi City police on Friday arrested a 24-year-old man with 12 suspected LSD stamps in his possession. The arrested is Sijo Sebastian of Panampilly Nagar, Kochi. He was nabbed from a house rented by a music composer at Anchumana, Palarivattom. The police said the house was raided by the District Anti-Narcotics Special Action Force following information about suspicious activities.",
-      "url": "https://www.thehindu.com/news/national/kerala/man-held-in-kochi-with-suspected-lsd-stamps/article71699443.ece",
-      "source": "The Hindu Kerala",
-      "category": "general",
-      "published_at": "2026-11-13T18:59:49+00:00",
-      "importance": 4,
-      "personal_score": 4.25,
-      "entities": [
-        "Man",
-        "Kochi",
-        "LSD"
-      ],
-      "summary_method": "tfidf_extractive_full_article"
-    },
-    {
       "id": "755ebafc78440458",
       "title": "Kerala HC summons KSEB engineer over delay in relieving traffic congestion at Pachalam in Kochi",
       "summary": "KOCHI The Kerala High Court has summoned the Kerala State Electricity Board (KSEB) assistant executive engineer, Ernakulam Central sub division, to explain the delay in filing an application to the railway authorities regarding the relocation of electric poles near the Pachalam overbridge. The plea had alleged that the KSEB electrical installations at the junction of Chathiyath Road and Mathai Manjooran Road were causing the congestion, and that removing them would ease the situation. The Kochi Corporation had earlier informed the court that ₹1.60 lakh was sanctioned and handed over to the KSEB for the proposed works. The KSEB had filed an application requesting to shift the electric posts onto the railway property, but it had certain defects that needed correction.",
@@ -543,362 +502,269 @@
       "summary_method": "tfidf_extractive_full_article"
     },
     {
-      "id": "cdbc6fb0af2e8c82",
-      "title": "NSS chief G. Sukumaran Nair signals thaw in relations with Keralam CM",
-      "summary": "Sukumaran Nair has invited him to inaugurate the 150th birth anniversary celebrations of founder Mannathu Padmanabhan at its headquarters at Perunna in Kottayam in January. Nair said he had invited the Chief Minister over the phone to participate in the inaugural ceremony and sent a formal invitation letter also. “The Chief Minister explained the circumstances under which he made the statement that he would not seek the support of community organisations. Nair, the NSS leader said he would no longer seek an appointment with the Chief Minister and would instead explore other avenues to resolve the issue that had prompted his request.",
-      "url": "https://www.thehindu.com/news/national/kerala/nss-chief-g-sukumaran-nair-signals-thaw-in-relations-with-keralam-cm/article71698250.ece",
-      "source": "The Hindu Kerala",
+      "id": "1a1c3f806aafbc63",
+      "title": "പിഎം കിസാൻ: കേരളത്തിൽ നിന്ന് 6.7 ലക്ഷം പേർ പുറത്ത് - PM Kisan Kerala drop | PM kisan Kerala - Manorama Online",
+      "summary": "പിഎം കിസാൻ: കേരളത്തിൽ നിന്ന് 6.7 ലക്ഷം പേർ പുറത്ത് - PM Kisan Kerala drop | PM kisan Kerala Manorama Online",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNWJjaXo4eG0yOE43am9yT25jZjJpM0ZJZXlRQmRFTExiTEFhNzdUVXdZdzNCTjNjMG56eV9TRUg5MGFOS1BQNmtDOHM5QW40ZjliMWtmQzFWZXAtcWZhSjhHbVRsMDBOUzN5WXRVRHZkQzZmQjNkbjM0aUlRU05ZOFB2SzlEOGtqcHhJQ2VwTkpzeVh0WFdaOEg0MWs1NnhLa1ZXNTdiVUdkbFpm?oc=5",
+      "source": "Manorama Online",
       "category": "general",
-      "published_at": "2026-11-13T15:07:54+00:00",
+      "published_at": "2026-11-14T03:05:20+00:00",
       "importance": 4,
       "personal_score": 4.25,
       "entities": [
-        "NSS",
-        "G. Sukumaran Nair",
-        "Keralam CM G. Sukumaran",
-        "Nair",
-        "V.D. Satheesan",
-        "Mannathu Padmanabhan",
-        "Chief Minister"
+        "പിഎം",
+        "കിസാൻ",
+        "കേരളത്തിൽ",
+        "നിന്ന്",
+        "ലക്ഷം",
+        "പേർ",
+        "പുറത്ത്",
+        "PM Kisan Kerala",
+        "Manorama Online",
+        "Kerala Manorama Online"
       ],
-      "summary_method": "tfidf_extractive_full_article"
+      "summary_method": "rss_fallback"
     },
     {
-      "id": "a43f2457b167f1d9",
-      "title": "Art festivals reconnect the broken threads of learning: Keralam CM Satheesan",
-      "summary": "Thrissur Art festivals are much more than competitions; they are celebrations that bring joy to children and reconnect the broken threads of learning, Chief Minister V.D. Inaugurating the State CBSE Sahodaya Kalotsav 2026 at Holy Grace Academy, Mala, he said such festivals provided children with a platform to showcase their talents and explore their creative potential. “When the threads of joy in learning are occasionally broken, it is the arts festivals that bring them together again,” he said. The Sahodaya Kalotsav has evolved into a major platform for students from CBSE schools across Keralam to present their talents, he added.",
-      "url": "https://www.thehindu.com/news/national/kerala/art-festivals-reconnect-the-broken-threads-of-learning-keralam-cm-satheesan/article71698438.ece",
-      "source": "The Hindu Kerala",
+      "id": "ca4a3ab7ca0f5175",
+      "title": "നികുതിവെട്ടിച്ച് വിനോദയാത്ര: കേരളത്തിലെത്തിയത് 5 ബസുകൾ; പിഴ ഈടാക്കിയത് 9 ലക്ഷത്തോളം രൂപ - Manorama Online",
+      "summary": "നികുതിവെട്ടിച്ച് വിനോദയാത്ര: കേരളത്തിലെത്തിയത് 5 ബസുകൾ; പിഴ ഈടാക്കിയത് 9 ലക്ഷത്തോളം രൂപ Manorama Online",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPdWd4TDNYbm1aNkRrYTlvVkRjVDlHTVNybFJnaU5KRU5nTEUtQXVSVzFQVC1kTGM0LVJPazZMWmFPZlFQWklWM2g1V0lUOUMyc280aHNjdUxfWHBxb0JzUUFqOU1uSlQtbExTd1RaRWYya2RrbDE3dUNETWdqc2R4Ylh3SWh5MUNadUU1Sy1iR1FmWFMyeEpzbXhSbVlfcmpodUYyU2tHZ1Qta1JZNFQwYVBmeHRhTmxwbGtKbnNJMzBNdG5GcFo4?oc=5",
+      "source": "Manorama Online",
       "category": "general",
-      "published_at": "2026-11-13T15:35:07+00:00",
+      "published_at": "2026-11-14T03:02:17+00:00",
       "importance": 4,
       "personal_score": 4.25,
       "entities": [
-        "Art",
-        "Keralam CM Satheesan CM",
-        "State CBSE Sahodaya Kalotsav",
-        "Mala"
+        "നികുതിവെട്ടിച്ച്",
+        "വിനോദയാത്ര",
+        "കേരളത്തിലെത്തിയത്",
+        "ബസുകൾ",
+        "പിഴ",
+        "ഈടാക്കിയത്",
+        "ലക്ഷത്തോളം",
+        "രൂപ",
+        "Manorama Online"
       ],
-      "summary_method": "tfidf_extractive_full_article"
+      "summary_method": "rss_fallback"
     },
     {
-      "id": "6d949421f84ca15c",
-      "title": "15th Five-Year Plan aims to accelerate Keralam’s economic growth through participatory development: K.M. Chandrasekhar",
-      "summary": "He was speaking at a meeting with people’s representatives and presidents of local self-government institutions in Kozhikode district as part of consultations ahead of the formulation of the 15th Five-Year Plan on Friday (November 13). “Collective efforts involving local self-government institutions, cooperative sector, banks, expatriates, and the private sector are essential to address unemployment, particularly among women, and increase agricultural and industrial production,” said Mr. Chandrasekhar said the projects under the 15th Five-Year Plan would follow the SMART framework — Specific, Measurable, Achievable, Result-oriented and Time-bound — to ensure measurable outcomes and timely completion rather than remain confined to proposals. Members of the Planning Board would also visit their respective districts once every three months and hold discussions with District Collectors, other officials, and people’s representatives to assess the progress of projects and introduce necessary modifications, Mr.",
-      "url": "https://www.thehindu.com/news/national/kerala/15th-five-year-plan-aims-to-accelerate-keralams-economic-growth-through-participatory-development-km-chandrasekhar/article71698266.ece",
-      "source": "The Hindu Kerala",
+      "id": "ba702ece265e132d",
+      "title": "വനിതക്രിക്കറ്റിൽ കുതിപ്പ് തുടർന്ന് വയനാടൻ താരങ്ങൾ | Madhyamam - Madhyamam",
+      "summary": "വനിതക്രിക്കറ്റിൽ കുതിപ്പ് തുടർന്ന് വയനാടൻ താരങ്ങൾ | Madhyamam Madhyamam",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRWJrSFdGbmdOWFdidUJNWTZQaFR6d0p5ZWxuUkRjMHJIRlVWV0RlckNSREF0SVVKWlo4Mk1WU3dHZlNpMXRDa2dyNU1MVHlOc1duNURVZUNfUEpGWUZHXzhvYjNJc1BnZDRHcXV5c1p3Zm94Rzc1d2pYdzRScndGLXFZdnZCQzRqWkphcVdqUXppbGxKb2FSQm11NWpveTBVYjZvMkJn0gGrAUFVX3lxTE9hMTMzeGYxcXl5UE8zcFl0VjRjNkh4ajBvMzFBUlBYZnJCWThfcnRsVDJlcFN5NHliczdaWUJ3ZkU5Uy1aamlvTTJ3aDRKb203VUtMSklQakhaTHJWYnBlVmUwRHNSRWxZQkJlRk9aUUt5NFFheXZMSFVRbHlxSFU0eWwtSk5vQU96RUJnTHRLaU40Q3BJZmRZSHBjREdEaTVtYmZmTHVlS2R1MA?oc=5",
+      "source": "Madhyamam",
       "category": "general",
-      "published_at": "2026-11-13T15:17:22+00:00",
-      "importance": 4,
-      "personal_score": 4.25,
-      "entities": [
-        "Five-Year Plan",
-        "Keralam",
-        "K.M. Chandrasekhar The Plan",
-        "Growth",
-        "Partnership",
-        "Gross State Domestic Product",
-        "GSDP"
-      ],
-      "summary_method": "tfidf_extractive_full_article"
-    },
-    {
-      "id": "88d8df66928f4a7f",
-      "title": "എം.ഡി.എം.എയുമായി യുവാവ് പിടിയിൽ - Kerala Kaumudi",
-      "summary": "എം.ഡി.എം.എയുമായി യുവാവ് പിടിയിൽ Kerala Kaumudi",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1tcU91ZUZ4OUhVdGVKcjRSYTFzb3FBZzktdlZJU1VLVnN2RkgtREpONkpjRFBJWDZ0QldjeWZJZmdpdVduZWJDX1N6Mktfb3BDWHpRNDh3OFlnZTVOTDBpeUxIWlE2RmQ5U1NHOXdJRQ?oc=5",
-      "source": "Kerala Kaumudi",
-      "category": "general",
-      "published_at": "2026-11-13T20:03:26+00:00",
+      "published_at": "2026-11-14T03:26:34+00:00",
       "importance": 3,
       "personal_score": 3.25,
       "entities": [
-        "എയുമായി",
-        "യുവാവ്",
-        "പിടിയിൽ",
+        "വനിതക്രിക്കറ്റിൽ",
+        "കുതിപ്പ്",
+        "തുടർന്ന്",
+        "വയനാടൻ",
+        "താരങ്ങൾ",
+        "Madhyamam",
+        "Madhyamam Madhyamam"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
+      "id": "1b9bddd673f9935f",
+      "title": "ബോര്‍ഡ്-കോര്‍പറേഷന്‍ വിഭജനം: യു.ഡി.എഫില്‍ അതൃപ്തി; കേരള കോണ്‍ഗ്രസും ആര്‍.എസ്.പിയും ഇടയുന്നു - Suprabhaatham",
+      "summary": "ബോര്‍ഡ്-കോര്‍പറേഷന്‍ വിഭജനം: യു.ഡി.എഫില്‍ അതൃപ്തി; കേരള കോണ്‍ഗ്രസും ആര്‍.എസ്.പിയും ഇടയുന്നു Suprabhaatham",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQeDlsYmdhWlNVWmFaSWZSelpYY0N2Y2tRMHMyRHh3SVVKUmRYRW9fTXpNa3UxZElmaHdkVnQwS1lTNGRqdDA1N2hsaWdlRFlOeGltdlhJQ05pZEtOVjV3RDZIelAwdmRfRG9pWGtnNTluZHRiYnlXYURWU3RXemxtNEM0dEE5cmFONGUxbTYwc3pXUTRCWFVoLTdNT2lXSDNTLUlGVXNHNktaZzZvbmtlTDFRYWsxQmRiVEFpX0F5Sk9kSWs?oc=5",
+      "source": "Suprabhaatham",
+      "category": "general",
+      "published_at": "2026-11-14T04:07:59+00:00",
+      "importance": 3,
+      "personal_score": 3.25,
+      "entities": [
+        "ബോര്",
+        "കോര്",
+        "പറേഷന്",
+        "വിഭജനം",
+        "എഫില്",
+        "അതൃപ്തി",
+        "കേരള",
+        "കോണ്",
+        "ഗ്രസും",
+        "ആര്",
+        "എസ്",
+        "പിയും"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
+      "id": "f0ad5706cca88878",
+      "title": "ചാലയിലെ സ്വർണക്കവർച്ച; ഏജന്റുമാരെ കേന്ദ്രീകരിച്ചും അന്വേഷണം, പ്രതികളെത്തിയത് രാത്രി ഏഴരയോടെ - Kerala Kaumudi",
+      "summary": "ചാലയിലെ സ്വർണക്കവർച്ച; ഏജന്റുമാരെ കേന്ദ്രീകരിച്ചും അന്വേഷണം, പ്രതികളെത്തിയത് രാത്രി ഏഴരയോടെ Kerala Kaumudi",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORGEySi1hSksyUjJtQnJsZEVKcE00cWRlZ0k5US1yLVR5aktGaXpwbHA4OWNpbVM2NVhyZTBLMEp3YzVkX0Z5NWFVX2RybDczdUxXQnFyTGZjbzR3M3pmX0lXOFBFUzU0aWRBWjNtVUdyTzIyYTUxejhtdmxTdnN3S3BlQTgyLUVzUmZ6V2doTXgtU1J1dG80WXM1aEl2akEz?oc=5",
+      "source": "Kerala Kaumudi",
+      "category": "general",
+      "published_at": "2026-11-14T03:20:40+00:00",
+      "importance": 3,
+      "personal_score": 3.25,
+      "entities": [
+        "ചാലയിലെ",
+        "സ്വർണക്കവർച്ച",
+        "ഏജന്റുമാരെ",
+        "കേന്ദ്രീകരിച്ചും",
+        "അന്വേഷണം",
+        "പ്രതികളെത്തിയത്",
+        "രാത്രി",
+        "ഏഴരയോടെ",
         "Kerala Kaumudi"
       ],
       "summary_method": "rss_fallback"
     },
     {
-      "id": "8ea01ab94557155d",
-      "title": "വാഷിങ്ടണിൽ എത്തി മൊസാദിന്റെ തലവൻ റോമൻ ഗോഫ്മാൻ; നിർണായക കൂടിക്കാഴ്ചകൾ ഉടൻ?",
-      "summary": "ട്രംപ് ഭരണകുടത്തിലെ മുതിർന്ന ഉദ്യോഗസ്ഥരുമായി അദ്ദേഹം ഇറാൻ യുദ്ധത്തെ സംബന്ധിച്ച് ചർച്ച ചെയ്യുമെന്ന് ആക്സിയോസിനെ ഉദ്ധരിച്ച് റോയിട്ടേഴ്സ് റിപ്പോർട്ട് ചെയ്തു.ഇസ്രായേൽ പ്രധാനമന്ത്രി ബെഞ്ചമിൻ നെതന്യാഹുവുമായി വലിയ ബന്ധം പുലർത്തുന്ന വ്യക്തിയാണ് ഗോഫ്മാൻ. അതിനിടയിലാണ് മസൂദ് തലവൻ വാഷിംഗ്ടണിൽ എത്തിയിരിക്കുന്നത്.ഇറാനിൽ യുദ്ധം തുടരേണ്ടത് അനിവാര്യമാണെന്ന് വ്യക്തമാക്കി ബെഞ്ചമിൻ നെതന്യാഹു കഴിഞ്ഞ ദിവസം ട്രംപുമായി ഫോണിൽ ബന്ധപ്പെട്ടിരുന്നു. ഇറാന് മേൽ സമ്മർദ്ദം ഏറുന്ന സാഹചര്യത്തിൽ അമേരിക്ക ഇപ്പോഴത്തെ നിലപാട് തന്നെ തുടരാനാണ് സൗദി അറേബ്യയും മറ്റ് ഗൾഫ് രാജ്യങ്ങളും താൽപ്പര്യപ്പെടുന്നതെന്നും അദ്ദേഹം പറഞ്ഞു.യുഎസ് ഇടക്കാല തിരഞ്ഞെടുപ്പിൽ ട്രംപിൻ്റെ റിപബ്ലിക്കൻ പാർട്ടിയും ഇസ്രായേൽ തിരഞ്ഞെടുപ്പിൽ പ്രധാനമന്ത്രി ബെഞ്ചമിൻ നെതന്യാഹുവിൻ്റെ ലികുഡ് പാർട്ടിക്കും തിരിച്ചടി നേരിട്ടതോടെയാണ് ഇറാനെതിരായ ആക്രമണങ്ങൾ അവസാനിപ്പിക്കാനും ചർച്ചകൾക്ക് വഴിയൊരുക്കാനും സമ്മർദ്ദമേറിയത്. നിലവിൽ ഇസ്രായേലിൽ പ്രതിപക്ഷ നേതാവായ ഗാദി ഐസൻകോട്ടിൻ്റെ നേതൃത്വത്തിൽ സർക്കാർ രൂപീകരണത്തിനുള്ള ശ്രമങ്ങൾ പുരോഗമിക്കുകയാണ്.അധികാരം നഷ്ടപ്പെട്ടിട്ടും ഇറാന് മേൽ ശക്തമായ ആക്രമണം നടത്തുമെന്നാണ് നെതന്യാഹുവിൻ്റെ ഭീഷണി.",
-      "url": "https://malayalam.oneindia.com/news/international/mossad-chief-roman-gofman-arrives-in-washington-key-meetings-expected-soon-604133.html",
+      "id": "a18f76f4e11138aa",
+      "title": "ജിയോ അവതരിപ്പിക്കുന്നു 1199 രൂപയുടെ കിടിലൻ പ്ലാൻ; ഡാറ്റയും ഫ്രീ കോളും സുലഭം, പ്രത്യേകതകൾ അറിയാം",
+      "summary": "ഇന്ത്യയിലെ ഏറ്റവും വലിയ ടെലികോം കമ്പനിയായ റിലയൻസ് ജിയോയ്ക്ക് 1199 രൂപയുടെ പ്രീപെയ്‌ഡ്‌ പ്ലാൻ ഉണ്ടെന്നത് പലർക്കും അറിയുന്ന കാര്യമാണ്, എന്നാൽ ഇത് വിപണിയിലെ മറ്റ് ഓഫറുകളിൽ നിന്ന് വളരെ വേറിട്ടതാണ് എന്നത് പലർക്കും അറിയില്ല. ഇതിന്റെ പൂർണ്ണമായ നേട്ടങ്ങൾ എന്തൊക്കെയാണെന്ന് നോക്കാം.റിലയൻസ് ജിയോയുടെ 1199 രൂപ പ്രീപെയ്‌ഡ്‌ പ്ലാൻ പ്രതിദിനം 3 ജിബി ഡാറ്റ, പരിധിയില്ലാത്ത വോയ്‌സ് കോളിംഗ്, പ്രതിദിനം 100 എസ്എംഎസ് എന്നിവ നൽകുന്നു. ഈ പ്ലാൻ ഉപയോക്താക്കൾക്ക് പരിധിയില്ലാത്ത 5ജിയും വാഗ്‌ദാനം ചെയ്യുന്നു എന്നതാണ് പ്രത്യേകത.കമ്പനിയിൽ നിന്നുള്ള പരിധിയില്ലാത്ത 5ജി ഡാറ്റ ആനുകൂല്യത്തിൽ തുടരാൻ, ഉപയോക്താവ് 349 രൂപയോ അതിൽ കൂടുതലോ ഉള്ള പ്ലാൻ ഉപയോഗിച്ച് റീചാർജ് ചെയ്യുന്നത് തുടരേണ്ടതുണ്ട്. അല്ലാത്തപക്ഷം, നിങ്ങൾ 5ജി കവറേജിന് കീഴിലാണെങ്കിൽ, നിങ്ങൾക്ക് 4ജി എഫ്യുപി (ഫെയർ യൂസേജ് പോളിസി) ഡാറ്റ ആവശ്യമില്ല.1199 രൂപയുടെ പ്ലാൻ 1299 രൂപ പ്ലാനിൽ നിന്ന് വെറും 100 രൂപ കുറവാണ്.",
+      "url": "https://malayalam.oneindia.com/technology/jio-best-plans-get-3-gb-daily-data-free-call-valid-84-days-at-rs-1199-only-heres-how-it-works-604149.html",
       "source": "Oneindia Malayalam",
       "category": "general",
-      "published_at": "2026-11-13T18:05:02+00:00",
+      "published_at": "2026-11-14T04:00:28+00:00",
       "importance": 3,
       "personal_score": 3.25,
       "entities": [
-        "വാഷിങ്ടണിൽ",
-        "എത്തി",
-        "മൊസാദിന്റെ",
-        "തലവൻ",
-        "റോമൻ",
-        "ഗോഫ്മാൻ",
-        "നിർണായക",
-        "കൂടിക്കാഴ്ചകൾ",
-        "ഉടൻ",
-        "Mossad Chief Roman Gofman",
-        "Arrives",
-        "Washington"
-      ],
-      "summary_method": "tfidf_extractive_full_article"
-    },
-    {
-      "id": "936a59f4b0843d5d",
-      "title": "സ്വർണവില തകർന്ന് താഴേക്ക്; ഈ വർഷം ഇനിയൊരു കുതിപ്പില്ല, വമ്പൻ തിരുത്തലുമായി ഗോൾഡ്മാൻ സാക്സ്",
-      "summary": "ഈ വർഷം അവസാനത്തോടെ സ്വർണവില ഔണ്‍സിന് 4150 ഡോളറിന് അപ്പുറം പോകില്ലെന്നാണ് പുതിയ പ്രവചനത്തിൽ സാക്സ് പറയുന്നത്.2026 അവസാനത്തോടെ 4650 ഡോളറായിരിക്കും സ്വർണവില എന്നായിരുന്നു ഗോൾഡ്മാൻ സാക്സ് ആദ്യം പ്രവചിച്ചത്. അതുകൊണ്ട് തന്നെ സ്വർണവില ഉയർന്നാൽ പോലും നേരിയ വർധനവ് മാത്രമേ പ്രതീക്ഷിക്കേണ്ടതുള്ളൂവെന്നാണ് ബാങ്ക് വിലയിരുത്തുന്നത്.2026ലും 2027 ലും കേന്ദ്രബാങ്കുകൾ പ്രതിമാസം 60 ടണ്‍ സ്വർണം വാങ്ങുമെന്നായിരുന്നു ബാങ്ക് നേരത്തേ പ്രവചിച്ചത്. കരുതൽ ശേഖരത്തെ കുറിച്ചുള്ള ആശങ്കകളും രാജ്യങ്ങൾ തമ്മിലുള്ള വിശ്വാസ്യത സംബന്ധിച്ച പ്രശ്നങ്ങളും ചർച്ചയാകുന്നുണ്ട്.അതിനിടെ ഇനി സ്വർണത്തിൻ്റെ പോക്ക് എങ്ങോട്ട് എന്നത് സംബന്ധിച്ചും ഗോൾഡ്മാൻ സാക്സ് തങ്ങളുടെ നിലപാട് പങ്കുവെയ്ക്കുന്നുണ്ട്. 2028 ൻ്റെ തുടക്കം വരെ ഘട്ടം ഘട്ടമായി നിരക്ക് കുറക്കുന്നതോടെ വീണ്ടും നിക്ഷേപകർ സ്വർണത്തിലേക്ക് തിരിയുമെന്നും വില ഉയരാൻ കാരണമാകുമെന്നും ബാങ്ക് ചൂണ്ടിക്കാട്ടി.അതേസമയം 2027 മാർച്ചോടെ ഫെഡ് വീണ്ടും നിരക്ക് ഉയർത്തുന്ന ഒരു സാഹചര്യം ഉണ്ടായാൽ ആ വർഷം അവസാനത്തോടെ സ്വർണവില പരമാവധി 4660 ഡോളർ വരെയെ ഉയരുകയൂള്ളൂവെന്നാണ് ബാങ്ക് ചൂണ്ടിക്കാട്ടുന്നത്.",
-      "url": "https://malayalam.oneindia.com/news/india/gold-price-to-plunge-further-no-major-rally-expected-this-year-goldman-sachs-makes-massive-forecas-604135.html",
-      "source": "Oneindia Malayalam",
-      "category": "general",
-      "published_at": "2026-11-13T18:47:45+00:00",
-      "importance": 3,
-      "personal_score": 3.25,
-      "entities": [
-        "സ്വർണവില",
-        "തകർന്ന്",
-        "താഴേക്ക്",
-        "വർഷം",
-        "ഇനിയൊരു",
-        "കുതിപ്പില്ല",
-        "വമ്പൻ",
-        "തിരുത്തലുമായി",
-        "ഗോൾഡ്മാൻ",
-        "സാക്സ്",
-        "Gold Price",
-        "Plunge Further"
-      ],
-      "summary_method": "tfidf_extractive_full_article"
-    },
-    {
-      "id": "fb848d21ad21f17b",
-      "title": "പിച്ചിന്റെ സ്വഭാവത്തെ കുറ്റപ്പെടുത്തി ശ്രേയസ്‌ അയ്യര്‍, കുഴപ്പം പിച്ചിനല്ലെന്ന്‌ ഗൗതം ഗംഭീര്‍, 2027 ലോകകപ്പില്‍ ഈ കളി മതിയാകില്ല - Asianet News Malayalam",
-      "summary": "പിച്ചിന്റെ സ്വഭാവത്തെ കുറ്റപ്പെടുത്തി ശ്രേയസ്‌ അയ്യര്‍, കുഴപ്പം പിച്ചിനല്ലെന്ന്‌ ഗൗതം ഗംഭീര്‍, 2027 ലോകകപ്പില്‍ ഈ കളി മതിയാകില്ല Asianet News Malayalam",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOTm5DX1ctdURMZUp3dlFBWFBDVFdSQ01yYTZzZWxvZzhHRWlxQkRJamdLenNMRE5hd1RuUFpTTmdveWxfeHpTamZfc0pJMk8yRi1zTWVxRHV6cWJnUGhJSjMzUTFoY0pRYjdiRkJ3Zmh0ZEFMWVdHOUJ1MFV3WmExNWcwNHN0MWdDYy1GWFhHTm9LVFdOcEU0ZGNqOWNuSGg4a2swbm5aTWhWYWJHWmtDWFRTbDhhWXcwdVloeVpUUjI3dlpMZHhVM0hkOEV4elnSAdQBQVVfeXFMTVEwWkZuY1NVQS0tUUdRekRMVWw3clBjUDFWRlBhcnFSYzNmdkE0YzFwd1ZETGVwSEljMXc1dDlxOGNwZTVWWEdPMUd0TzFVRVZpX1NZVGJjX3BuNC1sdktfcl9lY2NiSkZTXzZCaEVWOUtleWF3SUZfWkdUYUNOaElIZ1Y5TjZCc3MtRmotcFFQV05HQUdKaXNOTGRjLUk0S1NVeVZHT0lQN3dYTGNLb1Q2d1VjMnZ5bFM3SXJCSWhmbk9JRzBfUHpiLW0wbGJ6cWg2RnI?oc=5",
-      "source": "Asianet News Malayalam",
-      "category": "general",
-      "published_at": "2026-11-13T19:11:56+00:00",
-      "importance": 3,
-      "personal_score": 3.25,
-      "entities": [
-        "പിച്ചിന്റെ",
-        "സ്വഭാവത്തെ",
-        "കുറ്റപ്പെടുത്തി",
-        "ശ്രേയസ്",
-        "അയ്യര്",
-        "കുഴപ്പം",
-        "പിച്ചിനല്ലെന്ന്",
-        "ഗൗതം",
-        "ഗംഭീര്",
-        "ലോകകപ്പില്",
-        "കളി",
-        "മതിയാകില്ല"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
-      "id": "510875cb76dcb013",
-      "title": "കൊച്ചി വാട്ടർ മെട്രോയിൽ ജോലി ഒഴിവ്: 46500 രൂപ വരെ ശമ്പളം..അപേക്ഷിക്കാം",
-      "summary": "ഇപിഎഫ്, ആരോഗ്യ ഇൻഷുറൻസ്, പേഴ്സണൽ ആക്സിഡൻ്റ് ഇൻഷുറൻസ് തുടങ്ങിയ ആനുകൂല്യങ്ങളും ലഭിക്കും.മെക്കാനിക്കൽ/ഇലക്ട്രിക്കൽ/ഇലക്ട്രോണിക്സ് എഞ്ചിനിയറിംഗിൽ ഡിപ്ലോയാണ് യോഗ്യത. 20600-46500 രൂപവരെയാണ് ശമ്പളംമെക്കാനിക്കൽ / ഇലക്ട്രിക്കൽ / ഇലക്ട്രോണിക്സ് / നേവൽ / മറൈൻ / ഷിപ്പ് ബിൽഡിങ് ആൻ്റ് ആർക്കിടെക്ചർ എന്നിവയിലേതെങ്കിലും ഒന്നിൽ എൻജിനീയറിങ് ഡിപ്ലോമ. 20600-46500 രൂപവരെയാണ് ശമ്പളംകമ്പ്യൂട്ടർ സയൻസ്, ഇൻഫർമേഷൻ ടെക്നോളജി , ഇലക്ട്രോണിക്സ് ആൻ്റ് കമ്യൂണിക്കേഷൻ, ഇലക്ട്രിക്കൽ ആൻ്റ് ഇലക്ട്രോണിക്സ് എന്നിവയിൽ എഞ്ചിനിയറിംഗ് ഡിപ്ലോമയാണ് യോഗ്യത. ബിരുദവും ബിരുദാനന്തര ബിരുദവും അഭിലഷണീയം.ഐടി ഇൻഫ്രാസ്ട്രക്ചർ, നെറ്റ്‌വർക്കിങ്, സൈബർ സെക്യൂരിറ്റി, ക്ലൗഡ്, ഡേറ്റാബേസ് അല്ലെങ്കിൽ സിസ്റ്റംസ് മാനേജ്‌മെന്റ് എന്നിവയിലുള്ള പ്രൊഫഷണൽ സർട്ടിഫിക്കേഷനുകൾ അധിക യോഗ്യതയായി പരിഗണിക്കും.40 വയസാണ് ഉയർന്ന പ്രായപരിധി.ജൂനിയർ ഓഫീസർ (ഫിനാൻസ്)ഒരു ഒഴിവ്.",
-      "url": "https://malayalam.oneindia.com/jobs/kochi-water-metro-recruitment-job-vacancies-with-salary-up-to-rs-46-500-apply-now-604137.html",
-      "source": "Oneindia Malayalam",
-      "category": "general",
-      "published_at": "2026-11-13T19:17:54+00:00",
-      "importance": 3,
-      "personal_score": 3.25,
-      "entities": [
-        "കൊച്ചി",
-        "വാട്ടർ",
-        "മെട്രോയിൽ",
-        "ജോലി",
-        "ഒഴിവ്",
-        "രൂപ",
-        "വരെ",
-        "ശമ്പളം",
-        "അപേക്ഷിക്കാം",
-        "Kochi Water Metro Recruitment",
-        "Job Vacancies With Salary",
-        "Apply"
-      ],
-      "summary_method": "tfidf_extractive_full_article"
-    },
-    {
-      "id": "b89561fa15195e71",
-      "title": "ഇന്ത്യ-ന്യൂസിലൻഡ് അഞ്ചാം ഏകദിനം: മഴയും ഡിഎൽഎസും വില്ലനാകുമോ? ബേ ഓവലിലെ നിർണായക കാലാവസ്ഥാ റിപ്പോർട്ട് - myKhel malayalam",
-      "summary": "ഇന്ത്യ-ന്യൂസിലൻഡ് അഞ്ചാം ഏകദിനം: മഴയും ഡിഎൽഎസും വില്ലനാകുമോ? ബേ ഓവലിലെ നിർണായക കാലാവസ്ഥാ റിപ്പോർട്ട് myKhel malayalam",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQ1RvcG1hUHUzUWI2ODZTRVNMcmlPbmFpWFo3UXh1ZXlQRXRKZEVfVVFsUGppMzhtTDZRTnpPaDV2RkxadV9wNmwyc3hoWS1mVlZnTzBwc1Rsa1NMcVdMUUlXTjU1N0N6Mk02UHg4MFVPTVM2cEw1NGpFY29XbHQ2bUYzQ2ZpMGg5bkdtM1ZwVzhVWDd5eFdRRzRINDd0WG9INGNVaWFuQTdZRlZQTWc5WTlzUUpsaFZ5aFVjajdLUHU?oc=5",
-      "source": "myKhel malayalam",
-      "category": "general",
-      "published_at": "2026-11-13T23:33:13+00:00",
-      "importance": 3,
-      "personal_score": 3.25,
-      "entities": [
-        "ഇന്ത്യ",
-        "ന്യൂസിലൻഡ്",
-        "അഞ്ചാം",
-        "ഏകദിനം",
-        "മഴയും",
-        "ഡിഎൽഎസും",
-        "വില്ലനാകുമോ",
-        "ഓവലിലെ",
-        "നിർണായക",
-        "കാലാവസ്ഥാ",
-        "റിപ്പോർട്ട്"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
-      "id": "f943263f83ad6743",
-      "title": "വീണ്ടുമൊരു ഇന്ത്യ-പാക് ഫൈനൽ; ഏഷ്യയിലെ രാജാവ് ആരാവും? - Chandrika Daily",
-      "summary": "വീണ്ടുമൊരു ഇന്ത്യ-പാക് ഫൈനൽ; ഏഷ്യയിലെ രാജാവ് ആരാവും? Chandrika Daily",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONm1BR1UtZktycGU4ZV9PenlZTWNRQmlVWWVVdk81a0ZzU1RfUUtkX3FuT1FXV0xkV2tqQjEzRjJmbjFFZ0JMQmY5b0k0ZUplamtQYVJIOU5FbFFSTUF2RWVoby1wYXVVeXpnT2pXR2ZoNjdBc1lJQTBlQjkycnI0T3JtMlBzbmRxRVZvSg?oc=5",
-      "source": "Chandrika Daily",
-      "category": "general",
-      "published_at": "2026-11-13T17:59:59+00:00",
-      "importance": 3,
-      "personal_score": 3.25,
-      "entities": [
-        "വീണ്ടുമൊരു",
-        "ഇന്ത്യ",
-        "പാക്",
-        "ഫൈനൽ",
-        "ഏഷ്യയിലെ",
-        "രാജാവ്",
-        "ആരാവും",
-        "Chandrika Daily"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
-      "id": "c3c2d4fc40589250",
-      "title": "രാഹുലിൻ്റെ ഫോണ്‍ പരിശോധിക്കാൻ ആർക്കും താത്പര്യമില്ല,തലയാണ് പരിശോധിക്കേണ്ടത്';ബിജെപി",
-      "summary": "രാഹുലിൻ്റെ ഫോണ്‍ പരിശോധിക്കാൻ ആർക്കും താത്പര്യം ഇല്ലെന്നും യഥാർത്ഥത്തിൽ അദ്ദേഹത്തിൻ്റെ തലയാണ് പരിശോധിക്കേണ്ടതെന്നും ബിജെപി കേരള അധ്യക്ഷൻ രാജീവ് ചന്ദ്രശേഖർ പറഞ്ഞു.രാഹുൽ ഗാന്ധിയോട് എല്ലാം ബഹുമാനത്തോടും കൂടി പറയട്ടെ, നിങ്ങളുടെ തലയാണ് ആദ്യം പരിശോധിക്കേണ്ടത്. ഇനി ആരെങ്കിലും താത്പര്യം കാണിക്കുന്നുണ്ടെങ്കിൽ തന്നെ ദിവസേന ഇങ്ങനെ എങ്ങനെയാണ് അദ്ദേഹത്തിൻ്റെ തലച്ചോർ കളവ് മാത്രം പറയുന്നത് എന്ന് മനസിവാക്കാൻ ആയിരിക്കും, രാജീവ് ചന്ദ്രശേഖർ പരിഹസിച്ചു.അതേസമയം അടിസ്ഥാനമില്ലാത്ത ആരോപണങ്ങൾ ഉയർത്തുന്നതിലാണ് രാഹുൽ ഇപ്പോൾ ശ്രദ്ധ പുലർത്തുന്നതെന്നാണ് ബിജെപി വക്താവ് തുനിഷ് സിൻഹ പ്രതികരിച്ചത്.വെറുതെ ഓരോ ദിവസവും ഓരോ ആരോപണങ്ങൾ ഉന്നയിക്കും. ഒരു മൂന്ന് ദിവസം കഴിയുമ്പോൾ ആരോപണം തെളിയിക്കാൻ കഴിയാതെ വരുമ്പോൾ അദ്ദേഹം മറ്റൊരു ആരോപണവുമായി വരും,സിൻഹ പറഞ്ഞു.സർക്കാരിലെ മുതിർന്ന ഉദ്യോഗസ്ഥർ തനിക്ക് വിവരങ്ങൾ കൈമാറുന്നുണ്ടെന്ന ഗാന്ധിയുടെ മുൻപത്തെ അവകാശവാദത്തെ കുറിച്ചും സിൻഹ പരാമർശിച്ചു. ഇപ്പോഴിതാ പുതിയ അദ്ദേഹം പുതിയ ആരോപണവുമായി വന്നിരിക്കുകയാണ്,സിൻഹ പറഞ്ഞു.ഇൻസ്റ്റഗ്രാമിൽ നടത്തിയ ആസ്ക് മി തത്സമയ സംവാദത്തിനിടെയാണ് ലോക്സഭ പ്രതിപക്ഷ നേതാവ് പ്രധാനമന്ത്രിക്കെതിരെ ഗുരുതര ആരോപണം ഉയർത്തിയത്.",
-      "url": "https://malayalam.oneindia.com/news/india/bjp-says-no-one-is-interested-in-examining-rahul-s-phone-his-head-should-be-examined-604129.html",
-      "source": "Oneindia Malayalam",
-      "category": "general",
-      "published_at": "2026-11-13T17:37:47+00:00",
-      "importance": 3,
-      "personal_score": 3.25,
-      "entities": [
-        "രാഹുലിൻ്റെ",
-        "ഫോണ്",
-        "പരിശോധിക്കാൻ",
-        "ആർക്കും",
-        "താത്പര്യമില്ല",
-        "തലയാണ്",
-        "പരിശോധിക്കേണ്ടത്",
-        "ബിജെപി",
-        "BJP Says No One",
-        "Is Interested",
-        "Examining Rahul",
-        "Phone"
-      ],
-      "summary_method": "tfidf_extractive_full_article"
-    },
-    {
-      "id": "0f2a5011f093b116",
-      "title": "മുഖ്യമന്ത്രിയെ സ്വന്തം മന്ത്രി തന്നെ തിരുത്തി, മുഖ്യമന്ത്രിയുടെ വിശ്വാസ്യത പൂർണ്ണമായും തകർന്നുവെന്ന് പിണറായി",
-      "summary": "കെ.എസ്.ഇ.ബി വൈദ്യുതി വാങ്ങാൻ സമ്മർദ്ദം ചെലുത്തിയിട്ടില്ലെന്നും ജിഎൻഎ കരാർ അപ്രായോഗികമാണെന്നും വകുപ്പ് മന്ത്രി തന്നെ തുറന്നുപറഞ്ഞതോടെ മുഖ്യമന്ത്രിയുടെ വിശ്വാസ്യത പൂർണ്ണമായും തകർന്നിരിക്കുന്നു.ജിഎൻഎ എന്നത് വൈദ്യുതി ഉത്പാദകരോ ലൈസൻസുള്ള ട്രേഡറോ അല്ല, മറിച്ച് വെറുമൊരു ഇടനില ഏജൻസി മാത്രമാണെന്ന പ്രതിപക്ഷത്തിന്റെ ആരോപണത്തെ അന്ന് പുച്ഛിച്ചുതള്ളിയ മുഖ്യമന്ത്രിയെ സ്വന്തം മന്ത്രി തന്നെ തിരുത്തിയിരിക്കുന്നു. അതിനാൽ, വഴിവിട്ട നീക്കങ്ങളും ദുരൂഹമായ ഇടപെടലുകളും നടന്നത് മുഖ്യമന്ത്രിയുടെ നേരിട്ടുള്ള അറിവോടെയോ നേതൃത്വത്തിലോ ഏകപക്ഷീയമായി ആണെന്ന് ഇതോടെ സംശയരഹിതമായി വ്യക്തമാക്കപ്പെട്ടു.വിവാദം ശക്തമായപ്പോൾ, മുൻ കെ.എസ്.ഇ.ബി ചെയർമാൻ സർക്കാരിൽ സമ്മർദ്ദം ചെലുത്തിയെന്നും അദ്ദേഹത്തിന്റെ റിപ്പോർട്ടിന്മേൽ അന്വേഷണം നടത്തുമെന്നും പറഞ്ഞ് ഉദ്യോഗസ്ഥന്റെ തലയിലേക്ക് ഉത്തരവാദിത്തം കെട്ടിവെച്ച് രക്ഷപ്പെടാനാണ് മുഖ്യമന്ത്രി ശ്രമിച്ചത്. എന്നാൽ, ആ അന്വേഷണം തന്നെയും സർക്കാരിനെയും വലിയ പ്രതിസന്ധിയിലാക്കുമെന്ന് തിരിച്ചറിഞ്ഞതോടെ അതിൽ നിന്നും പിന്നോട്ട് പോയി.കാലടിയിലെ സമരപ്പന്തലിലെത്തി പിണറായി വിജയൻ, സർക്കാരിൻ്റേയും വിസിയുടേയും മാതൃക സവർക്കറായിരിക്കും കെ.എസ്.ഇ.ബിയുടെ ഭാഗത്തുനിന്ന് സമ്മർദ്ദങ്ങളൊന്നും ഉണ്ടായിട്ടില്ലെന്ന സണ്ണി ജോസഫിന്റെ സാക്ഷ്യപ്പെടുത്തലോടെ, മുൻ കെ.എസ്.ഇ.ബി ചെയർമാൻ രാജമാണിക്യം ഐ.എ.എസ് ചൂണ്ടിക്കാണിച്ച അഭിപ്രായത്തോടാണ് വകുപ്പ് മന്ത്രിക്കും യോജിപ്പുള്ളതെന്ന് വ്യക്തമായിരിക്കുകയാണ്. അഴിമതിക്കരാറുമായി മുന്നോട്ട് പോകാൻ കഴിയാത്ത സാഹചര്യത്തിൽ, മനഃപൂർവ്വം ഇടപെടലുകൾ ഒഴിവാക്കി സംസ്ഥാനത്ത് വീണ്ടും വൈദ്യുതി പ്രതിസന്ധി സൃഷ്ടിക്കാൻ നീക്കമുണ്ടാകുമോ എന്ന ആശങ്ക ഈ പരസ്പരവിരുദ്ധമായ സമീപനങ്ങൾ ഉയർത്തുന്നുണ്ട്.യഥാർത്ഥ വസ്തുതകൾ അറിയാൻ ജനങ്ങൾക്ക് അവകാശമുണ്ട്.",
-      "url": "https://malayalam.oneindia.com/news/kerala/pinarayi-says-the-chief-minister-was-corrected-by-his-own-minister-adding-that-the-chief-minister-s-604111.html",
-      "source": "Oneindia Malayalam",
-      "category": "general",
-      "published_at": "2026-11-13T14:47:15+00:00",
-      "importance": 3,
-      "personal_score": 3.25,
-      "entities": [
-        "മുഖ്യമന്ത്രിയെ",
-        "സ്വന്തം",
-        "മന്ത്രി",
-        "തന്നെ",
-        "തിരുത്തി",
-        "മുഖ്യമന്ത്രിയുടെ",
-        "വിശ്വാസ്യത",
-        "പൂർണ്ണമായും",
-        "തകർന്നുവെന്ന്",
-        "പിണറായി",
-        "Pinarayi",
-        "Chief Minister"
-      ],
-      "summary_method": "tfidf_extractive_full_article"
-    },
-    {
-      "id": "be213b21bea88c4f",
-      "title": "പ്രധാനമന്ത്രി തന്റെ ഫോൺ ചോർത്തുന്നുവെന്ന് രാഹുൽ ഗാന്ധി, 'തെളിവുകളെല്ലാം ഈ ഫോണിലുണ്ട്'",
-      "summary": "എന്തൊക്കെ വിഷയങ്ങളില്‍ സംവാദം വേണം എന്ന് ഫോളോവേഴ്‌സിനോടുളള ചോദ്യത്തിന് മറുപടിയായി ഒരാള്‍, നിങ്ങള്‍ക്ക് വിദേശസഹായം കിട്ടുന്നുണ്ട് എന്ന് മോദിയും മോദിയെ നിയന്ത്രിക്കുന്നത് വിദേശ ശക്തികളാണ് എന്ന് നിങ്ങളും ആരോപിക്കുന്നു. എന്താണ് തെളിവ് എന്ന് ചോദിച്ചതിനുളള മറുപടിയായാണ് ഫോണ്‍ ചോര്‍ത്തല്‍ ആരോപണം രാഹുല്‍ ഗാന്ധി ഉന്നയിച്ചത്.തെളിവ് ഇതിലുണ്ട്, തന്റെ ഫോണ്‍ ഉയര്‍ത്തിക്കാട്ടിക്കൊണ്ട് രാഹുല്‍ ഗാന്ധി പറഞ്ഞു. ഒരുവട്ടം അദ്ദേഹം തന്നോടൊപ്പം മുഖാമുഖം സംവാദത്തിന് വന്നാല്‍ എല്ലാവര്‍ക്കും മനസ്സിലാകും ആരാണ് വിദേശ ശക്തികളാല്‍ നിയന്ത്രിക്കപ്പെടുന്നത് എന്നും ആരാണ് രാജ്യദ്രോഹി എന്നും എപ്പോള്‍ മുതലാണ് രാജ്യദ്രോഹി ആയത് എന്നതും അടക്കം തനിക്ക് അറിയാവുന്ന നിരവധി കാര്യങ്ങള്‍ ഫോണിലുണ്ട്, രാഹുല്‍ ഗാന്ധി പറഞ്ഞു.സഞ്ജയ് അല്ല അത് രാജീവ് ഗാന്ധി, 12ാം നമ്പർ ബംഗ്ലാവിലെത്തിയ കൈനോട്ടക്കാരന്റെ പ്രവചനം, ഓർമ പങ്കുവെച്ച് സോണിയ എക്‌സില്‍ പങ്കുവെച്ച മറ്റൊരു വീഡിയോയില്‍ നരേന്ദ്ര മോദിയോട് സംവാദത്തിനുളള വെല്ലുവിളി രാഹുല്‍ ഗാന്ധി ആവര്‍ത്തിച്ചു. സ്‌റ്റേജും കാലാവസ്ഥയുമെല്ലാം നിങ്ങള്‍ക്ക് അനുകൂലമായിട്ട് പോലും സംസാരിക്കാന്‍ ഒരു സ്‌ക്രിപ്റ്റ് വേണമെന്ന് രാഹുല്‍ ഗാന്ധി വീഡിയോയില്‍ നരേന്ദ്ര മോദിയെ പരിഹസിച്ചു.അതിനര്‍ത്ഥം നിങ്ങള്‍ സമ്മര്‍ദ്ദത്തിലാണ് എന്നാണ്.",
-      "url": "https://malayalam.oneindia.com/news/india/rahul-gandhi-alleges-that-the-prime-minister-narendra-modi-is-tapping-his-phone-all-the-evidence-i-604095.html",
-      "source": "Oneindia Malayalam",
-      "category": "general",
-      "published_at": "2026-11-13T13:04:17+00:00",
-      "importance": 3,
-      "personal_score": 3.25,
-      "entities": [
-        "പ്രധാനമന്ത്രി",
-        "തന്റെ",
-        "ഫോൺ",
-        "ചോർത്തുന്നുവെന്ന്",
-        "രാഹുൽ",
-        "ഗാന്ധി",
-        "തെളിവുകളെല്ലാം",
-        "ഫോണിലുണ്ട്",
-        "Rahul Gandhi",
-        "Prime Minister Narendra Modi",
-        "All"
-      ],
-      "summary_method": "tfidf_extractive_full_article"
-    },
-    {
-      "id": "b0313f90544e45f3",
-      "title": "കർണാടകയിലെ ബെംഗളൂരുവിൽ പ്രശാന്തി കുടീരത്തിന്റെ സുവർണ്ണ ജൂബിലി ആഘോഷങ്ങളിൽ പ്രധാനമന്ത്രി ശ്രീ നരേന്ദ്ര മോദി പങ്കെടുത്തു - PM India",
-      "summary": "കർണാടകയിലെ ബെംഗളൂരുവിൽ പ്രശാന്തി കുടീരത്തിന്റെ സുവർണ്ണ ജൂബിലി ആഘോഷങ്ങളിൽ പ്രധാനമന്ത്രി ശ്രീ നരേന്ദ്ര മോദി പങ്കെടുത്തു PM India",
-      "url": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxQWWdQblBZSVd6Nkl4eWY5SjNhUnZwbjBBNXI5UHlrN0xoN21nVWktUmxqNVhzRlh2dE85NkpBUm8wSi04N2NhWGtoaHVIRDM1ZlZmVnVwaFg1QUh1cVlGTGZoM2NFekpYSVM1blhfbVh3czVIalg1S1FXZWg4YUNUY2g1S25lMnRjek5faXRzTHBpa0hva0RxUHNKTzhPOV9Kbjg3TEIweVlIaXZaTl9NNUYyUk5HWGMyR0g5dTBHeHpVOUpVQWlNSG1KV3V4Q3JSMkVXYWM2M0drUk9ZdXdHam90M0FQSlRjS24zLUl1bl9hR0pmS0t5QmFoWnc4LXczSVVCTnJnWm9GdEZuR1VuZ3d6T0ZDVTNYYWpSNDB3RFNfT1NqR3pZQmFxekVDVXBybkRQVGJxTjloTDQxc196M2VkSEZWT1FNTHN6VzlZejhtbU5YRHEyYmdCZE9NSHFzeGw2ZFBTRWJpUEZQSlYzX1hkc0xfRXM?oc=5",
-      "source": "PM India",
-      "category": "general",
-      "published_at": "2026-11-13T12:30:31+00:00",
-      "importance": 3,
-      "personal_score": 3.25,
-      "entities": [
-        "കർണാടകയിലെ",
-        "ബെംഗളൂരുവിൽ",
-        "പ്രശാന്തി",
-        "കുടീരത്തിന്റെ",
-        "സുവർണ്ണ",
-        "ജൂബിലി",
-        "ആഘോഷങ്ങളിൽ",
-        "പ്രധാനമന്ത്രി",
-        "ശ്രീ",
-        "നരേന്ദ്ര",
-        "മോദി",
-        "പങ്കെടുത്തു"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
-      "id": "c0eca4b8caf1fb61",
-      "title": "​പ്രധാനമന്ത്രി ശ്രീ നരേന്ദ്ര മോദി കർണാടകയിലെ ബെംഗളൂരുവിൽ 15,600 കോടിയിലധികം രൂപയുടെ വിവിധ വികസന പദ്ധതികൾ ഉദ്ഘാടനം ചെയ്യുകയും രാജ്യത്തിന് സമർപ്പിക്കുകയും തറക്കല്ലിടുകയും ഫ്ലാഗ് - PM India",
-      "summary": "​പ്രധാനമന്ത്രി ശ്രീ നരേന്ദ്ര മോദി കർണാടകയിലെ ബെംഗളൂരുവിൽ 15,600 കോടിയിലധികം രൂപയുടെ വിവിധ വികസന പദ്ധതികൾ ഉദ്ഘാടനം ചെയ്യുകയും രാജ്യത്തിന് സമർപ്പിക്കുകയും തറക്കല്ലിടുകയും ഫ്ലാഗ് PM India",
-      "url": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxONzF5YnhnSEpKOFpBa1U1bWZjVWppTWlUTS1EWUdxYjU5UWU1T1R6cUFER1YtY29WMG4wQm1iZUhTa19LVzdVVE02MDd0ME13R2wzV1VXalp5aGVXcE1KREQ0U1NLSF9YU2c5MDVVand0Y19HbTdzbWNnM3lmTWpSQXJCc3ozbGtwRHBOb0hHNVp4QzNXTWRwVDdKUmFodTl4WURXRFE2UTJ4MFJ2M0JUT2tScUpCeC1tSUN0bFJpamNRYnhNOWQ0ZHZua1piY0NERWxJbG5MMmZ0Sks2eXhTcWstMlc3Y2VsQVFYLUxoUTBoOGJheUlUdEY5ZFZYbDdZY0ZWWER6LU5rZmpsUlhOZnJRcFBPdWRTd0tfdVJJQzVsYzFzSmo2UGNVSE5lVFM5NGxCYzFyLUkyTzlLSzZhbFUwWXBrbzgtcXYwbVNNUGVobmpYdnliZkJZSGdVeDhsNXBfY3dscDlFcU9rUlRhRQ?oc=5",
-      "source": "PM India",
-      "category": "general",
-      "published_at": "2026-11-13T12:30:31+00:00",
-      "importance": 3,
-      "personal_score": 3.25,
-      "entities": [
-        "പ്രധാനമന്ത്രി",
-        "ശ്രീ",
-        "നരേന്ദ്ര",
-        "മോദി",
-        "കർണാടകയിലെ",
-        "ബെംഗളൂരുവിൽ",
-        "കോടിയിലധികം",
+        "ജിയോ",
+        "അവതരിപ്പിക്കുന്നു",
         "രൂപയുടെ",
-        "വിവിധ",
-        "വികസന",
-        "പദ്ധതികൾ",
-        "ഉദ്ഘാടനം"
+        "കിടിലൻ",
+        "പ്ലാൻ",
+        "ഡാറ്റയും",
+        "ഫ്രീ",
+        "കോളും",
+        "സുലഭം",
+        "പ്രത്യേകതകൾ",
+        "അറിയാം",
+        "ജിയോയ്ക്ക്"
+      ],
+      "summary_method": "tfidf_extractive_full_article"
+    },
+    {
+      "id": "e778cd4033b1182b",
+      "title": "തച്ചങ്കരി പെട്ടു; ശിക്ഷിക്കപ്പെട്ട ശേഷം ഒരു ദിവസം പോലും സെല്ലില്‍ കഴിഞ്ഞില്ല, ചോദ്യവുമായി ഹൈക്കോടതി",
+      "summary": "ഒരു ദിവസം പോലും സെല്ലില്‍ കിടന്നിട്ടില്ല.കേരളത്തില്‍ നിന്നുള്ള മാലിന്യം തമിഴ്‌നാട്ടില്‍; വിജയ് എന്തുകൊണ്ട് ഇടപെടുന്നില്ല, ചോദ്യവുമായി ബിജെപിശ്വാസതടസത്തിന്റെ പ്രയാസമുണ്ടെന്നും പ്രത്യേക മെഷീന്‍ ഉപയോഗിച്ച് ശ്വാസം ക്രമീകരിക്കാനുള്ള സംവിധാനം സെല്ലില്‍ ഇല്ലെന്നും ചൂണ്ടിക്കാട്ടിയാണ് തച്ചങ്കരി ആശുപത്രിയില്‍ കഴിഞ്ഞിരുന്നത്. വിവാദമായതോടെ ഇത് പിന്‍വലിക്കാന്‍ ശ്രമിക്കവെയാണ് ജസ്റ്റിസ് എ ബദറുദ്ദീന്‍ അധ്യക്ഷനായ ബെഞ്ചിന്റെ നിരീക്ഷണം.സ്വര്‍ണവില കുത്തനെ കുറഞ്ഞു; ഡോളര്‍ പറക്കുന്നു, ആഭരണം വാങ്ങുന്നവര്‍ക്ക് നേട്ടം, പവന്‍ വില അറിയാംശിക്ഷാകാലയളവില്‍ തച്ചങ്കരിയെ ജയില്‍ ആശുപത്രിയില്‍ പ്രവേശിപ്പിച്ചതുമായി ബന്ധപ്പെട്ട അസ്വാഭാവികത പ്രത്യേക ഉത്തരവിലൂടെ പരിശോധിക്കേണ്ടതുണ്ടെന്ന് കോടതി ചൂണ്ടിക്കാട്ടി. തടവിലായിരുന്നപ്പോള്‍ അദ്ദേഹത്തിന് ഗുരുതരമായ അസുഖങ്ങളുണ്ടായിരുന്നോ, ആശുപത്രി പ്രവേശനം ഗൂഢാലോചനയുടെ ഭാഗമായിരുന്നോ എന്നീ കാര്യങ്ങള്‍ മെഡിക്കല്‍ ബോര്‍ഡിനെക്കൊണ്ട് പരിശോധിപ്പിക്കുന്നതിന് കോടതി സ്വമേധയാ ഉത്തരവിടുമെന്നും വ്യക്തമാക്കി.തച്ചങ്കരിക്ക് അനുകൂലമായി ഗൂഢാലോചന നടന്നിട്ടുണ്ടെങ്കില്‍ ജയില്‍ ഡോക്ടര്‍, ജയില്‍ സൂപ്രണ്ട്, പോലിസ് ഉദ്യോഗസ്ഥര്‍ തുടങ്ങിയവരുടെ പങ്കും അന്വേഷിക്കേണ്ടിവരുമെന്നും കോടതി നിരീക്ഷിച്ചു. തച്ചങ്കരിയുടെ ഹരജിയില്‍ വിധി പറയാന്‍ മാറ്റി.ലക്ഷദ്വീപ് യാത്രയ്ക്ക് തയ്യാറായിക്കോ; ബേപ്പൂര്‍ തുറമുഖത്ത് കപ്പല്‍ റെഡി, 8 മണിക്കൂര്‍, 250 സീറ്റുകള്‍രോഗിയാണ് എന്ന് പറയുകയും വിമാന യാത്ര നടത്തി വിദേശത്ത് പോകാന്‍ അപേക്ഷിക്കുകയും ചെയ്യുന്നതിലെ വൈരുധ്യമാണ് കോടതിയുടെ സംശയത്തിന് ഇടയാക്കിയത്.",
+      "url": "https://malayalam.oneindia.com/news/kerala/tomin-thachankary-in-grill-didnt-spend-even-single-day-in-cell-after-sentenced-high-court-doubt-604009.html",
+      "source": "Oneindia Malayalam News",
+      "category": "general",
+      "published_at": "2026-11-12T15:28:07+00:00",
+      "importance": 3,
+      "personal_score": 3.25,
+      "entities": [
+        "തച്ചങ്കരി",
+        "പെട്ടു",
+        "ശിക്ഷിക്കപ്പെട്ട",
+        "ശേഷം",
+        "ഒരു",
+        "ദിവസം",
+        "പോലും",
+        "സെല്ലില്",
+        "കഴിഞ്ഞില്ല",
+        "ചോദ്യവുമായി",
+        "ഹൈക്കോടതി",
+        "ടോമിന്"
+      ],
+      "summary_method": "tfidf_extractive_full_article"
+    },
+    {
+      "id": "3598483bc4cba1c6",
+      "title": "യുഎസിൽ വിമാന സർവീസുകൾ പുനരാരംഭിച്ചു; നടപടി മണിക്കൂറുകൾ നീണ്ട തടസങ്ങൾക്ക് ശേഷം",
+      "summary": "രാജ്യത്തുടനീളമുള്ള എയർ ട്രാഫിക് കൺട്രോൾ സെന്ററുകളെ ബാധിക്കുന്ന പ്രധാന ആശയവിനിമയ തകരാറിനെ തുടർന്നാണ് യുഎസ് ഫെഡറൽ ഏവിയേഷൻ അഡ്‌മിനിസ്ട്രേഷൻ (എഫ്എഎ) നേരത്തെ നവംബർ 13ന് പുറപ്പെടുന്ന എല്ലാ വിമാനങ്ങളും നിർത്തിവച്ചത്.വിമാന സർവീസുകൾ ഏകോപിപ്പിക്കുന്നതിനും വിമാനത്താവളങ്ങൾ തമ്മിലുള്ള ആശയവിനിമയം കൈകാര്യം ചെയ്യുന്നതിനും എയർ ട്രാഫിക് കൺട്രോളർമാർ ഉപയോഗിക്കുന്ന ആശയവിനിമയ സംവിധാനങ്ങളെയാണ് പ്രശ്‌നം ബാധിച്ചത്. വിമാനത്താവളങ്ങളിലെ വിമാന നീക്കങ്ങൾ കൈകാര്യം ചെയ്യുന്നതിലും വിമാന പാതകൾ ഏകോപിപ്പിക്കുന്നതിലും പൈലറ്റുമാരും എയർ ട്രാഫിക് കൺട്രോളർമാരും തമ്മിലുള്ള ആശയവിനിമയം നിലനിർത്തുന്നതിലും ഈ കേന്ദ്രങ്ങൾ നിർണായക പങ്ക് വഹിക്കുന്നു.തടസത്തെത്തുടർന്ന്, ഇനിയൊരു അറിയിപ്പ് ഉണ്ടാകുന്നതുവരെ വിമാനങ്ങൾ നിലത്ത് നിർത്താൻ എഫ്എഎ വിമാനക്കമ്പനികൾക്ക് നിർദ്ദേശം നൽകി. തകരാറിലായ ആശയവിനിമയ സംവിധാനങ്ങൾ പുനഃസ്ഥാപിക്കാൻ സാങ്കേതിക വിദഗ്‌ധർ പ്രവർത്തിക്കുമ്പോൾ വ്യോമയാന സുരക്ഷ ഉറപ്പാക്കുന്നതിനുള്ള മുൻകരുതൽ നടപടിയായാണ് നിയന്ത്രണം ഏർപ്പെടുത്തിയത്.ഗ്രൗണ്ട് സ്‌റ്റോപ്പ് എന്നതിനർത്ഥം ഇതിനകം പറക്കുന്ന വിമാനങ്ങൾക്ക് അടിയന്തര ലാൻഡിംഗ് നടത്താൻ ഉത്തരവിട്ടു എന്നല്ല. കാനഡയിൽ നിന്നും യൂറോപ്പിൽ നിന്നും പുറപ്പെടുന്ന ചില വിമാനങ്ങൾ നിയന്ത്രണങ്ങളോ റദ്ദാക്കലുകളോ നേരിട്ടതിനാൽ ഈ സാഹചര്യം അന്താരാഷ്ട്ര വ്യോമയാനത്തെയും ബാധിച്ചു.അതേസമയം, 2023 ജനുവരിയിൽ എഫ്എഎയുടെ കമ്പ്യൂട്ടർ സംവിധാനം തകരാറിലായതിനുശേഷം രാജ്യവ്യാപകമായി വിമാന സർവീസുകൾ അന്ന് നിർത്തി വയ്‌ക്കേണ്ടി വന്നിരുന്നു.",
+      "url": "https://malayalam.oneindia.com/news/international/all-flight-services-in-us-have-been-halted-due-to-a-technical-glitch-over-a-1000-flights-have-been-c-604143.html",
+      "source": "Oneindia Malayalam",
+      "category": "general",
+      "published_at": "2026-11-14T03:49:30+00:00",
+      "importance": 3,
+      "personal_score": 3.25,
+      "entities": [
+        "യുഎസിൽ",
+        "വിമാന",
+        "സർവീസുകൾ",
+        "പുനരാരംഭിച്ചു",
+        "നടപടി",
+        "മണിക്കൂറുകൾ",
+        "നീണ്ട",
+        "തടസങ്ങൾക്ക്",
+        "ശേഷം",
+        "എല്ലാ",
+        "സർവീസുകളും",
+        "നിർത്തിവച്ചു"
+      ],
+      "summary_method": "tfidf_extractive_full_article"
+    },
+    {
+      "id": "5fd2fcaf68d3c45a",
+      "title": "ഖാലിദ് ജമീലിനെ ഇന്ത്യ പരിശീലകസ്ഥാനത്ത് നിന്ന് മാറ്റുമോ? വിജയ ശതമാനം 12.5 മാത്രം; ന്യൂസീലൻഡിനെതിരായ രണ്ടാം മത്സരം നിർണ്ണായകം - Samayam Malayalam",
+      "summary": "ഖാലിദ് ജമീലിനെ ഇന്ത്യ പരിശീലകസ്ഥാനത്ത് നിന്ന് മാറ്റുമോ? വിജയ ശതമാനം 12.5 മാത്രം; ന്യൂസീലൻഡിനെതിരായ രണ്ടാം മത്സരം നിർണ്ണായകം Samayam Malayalam",
+      "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxPdldyWUhVR3JiQ21kRER1dERINHRFeTlzVWRQMERtS3FhbnpkbXhlS0VFbHN0c0pWN0x4OTV5M2xPUVEzSWJYdFI0ZFF2eUVNd2NlX1NYbTd6V3VyM0hvRS1vdTVVUnBhMDlMOTkwd21FdmZ2dURPaWZQd2NwZ2diMENON2hRUmIwTjlfd29sUWQxT0pqZldwX3hZZldPam9wVlQwMHFrTk5KZkdaMUxudkFpbXRUbWpJc1hSRC1kdk00VENfc3IxcGlKaWdFckNKZzJpMzlBZXlCUkJ1M2pjWDI4X2JfX2pOZlRxVWdOUXZiYWFOXzNqNHphUXNtMW9PUW9zcE5aV1J5YmRxTVZNZEFZaUpfY1FCc1N0NUR1VVRnVjNxVng2REpIeC10VEQxOEdDSlprbXpKZHpnY1R5ZFdn?oc=5",
+      "source": "Samayam Malayalam",
+      "category": "general",
+      "published_at": "2026-11-14T03:15:46+00:00",
+      "importance": 3,
+      "personal_score": 3.25,
+      "entities": [
+        "ഖാലിദ്",
+        "ജമീലിനെ",
+        "ഇന്ത്യ",
+        "പരിശീലകസ്ഥാനത്ത്",
+        "നിന്ന്",
+        "മാറ്റുമോ",
+        "വിജയ",
+        "ശതമാനം",
+        "മാത്രം",
+        "ന്യൂസീലൻഡിനെതിരായ",
+        "രണ്ടാം",
+        "മത്സരം"
       ],
       "summary_method": "rss_fallback"
+    },
+    {
+      "id": "9dd0fb65557d4042",
+      "title": "വീറോടെ പൊരുതാന്‍ ആര്യവീര്‍, പകരംവീട്ടാന്‍ ഒരുങ്ങി ഇന്ത്യ; പാകിസ്ഥാനെതിരായ ബ്ലോക്ക്ബസ്റ്റര്‍ ഫൈനല്‍ ഇന്ന് - Samakalika Malayalam",
+      "summary": "വീറോടെ പൊരുതാന്‍ ആര്യവീര്‍, പകരംവീട്ടാന്‍ ഒരുങ്ങി ഇന്ത്യ; പാകിസ്ഥാനെതിരായ ബ്ലോക്ക്ബസ്റ്റര്‍ ഫൈനല്‍ ഇന്ന് Samakalika Malayalam",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZ1djTFF4Z3VzLVlYdDZpdTBHS0Jvd2w1dUdRWE1VMkNncXYzS1pyUzU3cW5aLWhnSk9vVTRzaG9nMF9mZndvakhjNjJDa0Q0cEhUSXAyTE1WMVloZnVFVHUzdjJiU3Y0VjNadEJMRWVvNHEwTXFtM2hWMzREcW1ydUVCYkxVRnhTdWVYSUtKWUY1Z19DMXlB0gGkAUFVX3lxTE9MNVdqcjBJVTU4bGE3YWExdXFDMjZWMU5INm1GWGxDVmJHZFZOUjBtTWdKMFNDSmJiSlhXTlFXN05UaEswMUhJTTk1Y2ZJQnJWTmdfblB5MnpZbkRvVjRwVDg4SEI0aXNieUV5alBpZjFUdDVyTWp6N0NiQnNoMXQzcXI5NVBFbnVOMFNIaWNWeTJET3Utd3lmdHZkX0NTNTJRVXY4?oc=5",
+      "source": "Samakalika Malayalam",
+      "category": "general",
+      "published_at": "2026-11-14T03:20:19+00:00",
+      "importance": 3,
+      "personal_score": 3.25,
+      "entities": [
+        "വീറോടെ",
+        "പൊരുതാന്",
+        "ആര്യവീര്",
+        "പകരംവീട്ടാന്",
+        "ഒരുങ്ങി",
+        "ഇന്ത്യ",
+        "പാകിസ്ഥാനെതിരായ",
+        "ബ്ലോക്ക്ബസ്റ്റര്",
+        "ഫൈനല്",
+        "ഇന്ന്",
+        "Samakalika Malayalam"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
+      "id": "8a3815e475df0e7b",
+      "title": "Removal of encroachment begins at Anayirankal in Keralam’s Idukki",
+      "summary": "According to officials, the catchment area of the Anayirankal dam is a prime habitat of wild elephants, and the eviction drive aims to ensure unobstructed passage for them in Chinnakkanal. Recently, the Collector formed a three-member committee, comprising the Devikulam Subcollector, Munnar Divisional Forest Officer (DFO) Saju Varghese, and Kerala State Electricity Board (KSEB) Dam Safety Wing executive engineer (Pambla) P.R. The officials noted that the Anayirankal dam is a regular watering hole and camping ground for wild elephants, and removing these encroachments is crucial in mitigating the rising human-animal conflict in the Chinnakkanal region. According to official data, wild elephant attacks have killed 82 people and injured 486 others in the Idukki district since 2015, with the majority of fatalities reported in the Chinnakkanal area.",
+      "url": "https://www.thehindu.com/news/national/kerala/removal-of-encroachment-begins-at-anayirankal-in-keralams-idukki/article71698285.ece",
+      "source": "The Hindu Kerala",
+      "category": "general",
+      "published_at": "2026-11-13T16:14:14+00:00",
+      "importance": 3,
+      "personal_score": 3.25,
+      "entities": [
+        "Removal",
+        "Anayirankal",
+        "Keralam",
+        "Idukki The",
+        "Chinnakkanal"
+      ],
+      "summary_method": "tfidf_extractive_full_article"
     },
     {
       "id": "c7e609be1e2fd267",
@@ -923,6 +789,32 @@
         "കച്ച്",
         "കോപ്പർ",
         "Adanis Kutch Copper Becomes"
+      ],
+      "summary_method": "tfidf_extractive_full_article"
+    },
+    {
+      "id": "78ad9f276439d740",
+      "title": "'കാലടി വെറുമൊരു സമരമുഖമല്ല, സംഘപരിവാറിന് കേരളം അടിയറവെക്കാതിരിക്കാനുള്ള ചെറുത്തുനിൽപ്പ്'; എംബി രാജേഷ്",
+      "summary": "തൃശൂർ: കാലടി സർവകലാശാലയിലെ എസ്എഫ്ഐ പ്രതിഷേധവുമായി ബന്ധപ്പെട്ട വിഷയത്തിൽ വിവാദം ഇതുവരെ അടങ്ങിയിട്ടില്ല. ഇപ്പോഴിതാ വിഷയത്തിൽ വീണ്ടും പ്രതികരണവുമായി രംഗത്ത് വന്നിരിക്കുകയാണ് മുൻ മന്ത്രിയും മുതിർന്ന സിപിഎം നേതാവുമായ എംബി രാജേഷ്.കാലടി സർവകലാശാലയിലെ വിസി സിസ തോമസിന്റെ നിലപാടുകളെ നേരത്തെയും തള്ളിപറഞ്ഞിട്ടുള്ള ആൾ കൂടിയാണ് എംബി രാജേഷ്. അതുകൊണ്ടരിശം തീരാഞ്ഞവനാപ്പുരയുടെ ചുറ്റും മണ്ടി നടന്നു, ഹൈക്കോടതി ഉദ്ധരിച്ച കുഞ്ചൻ നമ്പ്യാരുടെ വരികളാണിതെന്ന് എംബി രാജേഷ് പറയുന്നു.ആക്രമണമുണ്ടായില്ലെന്ന് അന്വേഷണ കമ്മീഷൻ കണ്ടെത്തിയപ്പോൾ ഹാജരില്ലെന്നായെന്നും എംബി രാജേഷ് പറയുന്നു. അതു പൊളിഞ്ഞപ്പോൾ ആക്രമണ കഥയുണ്ടാക്കി.ആക്രമണമുണ്ടായില്ലെന്ന് അന്വേഷണ കമ്മീഷൻ കണ്ടെത്തിയപ്പോൾ ഹാജരില്ലെന്നായി.",
+      "url": "https://malayalam.oneindia.com/news/kerala/mb-rajesh-says-kalady-is-not-just-a-battlefront-form-of-resistance-to-prevent-from-sangh-parivar-604077.html",
+      "source": "Oneindia Malayalam",
+      "category": "general",
+      "published_at": "2026-11-13T08:33:56+00:00",
+      "importance": 2,
+      "personal_score": 2.25,
+      "entities": [
+        "കാലടി",
+        "വെറുമൊരു",
+        "സമരമുഖമല്ല",
+        "സംഘപരിവാറിന്",
+        "കേരളം",
+        "അടിയറവെക്കാതിരിക്കാനുള്ള",
+        "ചെറുത്തുനിൽപ്പ്",
+        "എംബി",
+        "രാജേഷ്",
+        "MB Rajesh Says Kalady",
+        "Is Not Just A",
+        "Battlefront It Is A"
       ],
       "summary_method": "tfidf_extractive_full_article"
     },
@@ -953,63 +845,11 @@
       "summary_method": "tfidf_extractive_full_article"
     },
     {
-      "id": "eb1414e30f211b90",
-      "title": "Suvarna Keralam SK 77 lottery result | ഒരു കോടിയുടെ ഒന്നാം സമ്മാനം ഈ നമ്പറിന്; സുവര്‍ണ കേരളം ലോട്ടറി ഫലം പ്രഖ്യാപിച്ചു - Samakalika Malayalam",
-      "summary": "Suvarna Keralam SK 77 lottery result | ഒരു കോടിയുടെ ഒന്നാം സമ്മാനം ഈ നമ്പറിന്; സുവര്‍ണ കേരളം ലോട്ടറി ഫലം പ്രഖ്യാപിച്ചു Samakalika Malayalam",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOS3d1VENEbnNHdURWTTlIbTVxNndnUjA4WGFET0tCMl9HUUNUR0d2NXhNWG5NRVBzQUZWaVA1cW1Gdmk5Q29Yd1NzWTF6d293R2loRENCOUE1RnhEZWEyWS1aVHh5RHhaOVRYR2Q0ZEdvQWp4cnV1M0NZaWliMV8xendNUVNhT0FlNlhVejJGV3plbU4tYTlkblk3RmJHQUJOV3NZS1VTYzFrZ9IBtwFBVV95cUxPMm5OTEdrVDZBTHBSYk1ZMW9mQm5saEZaSnN5OGJEXzJ1Yk9faWFIYkplcm1IYVI5WlVsejhDMk91bUJ3Yjc5RXhqTkF0bE4tM0pkOVptQU4wZVlYcmd0OHVVU2I0Q2R4ZC12OTVnUGdocTlmT2tSYlZ0dlJ3SmZZWXhwMGlwUHAxTWpaNzk3RF94TFJsREZVRGF4cWlVVEZ4b1dvMmpxVUFReFQxUjhLWExSR1lpYTA?oc=5",
-      "source": "Samakalika Malayalam",
-      "category": "general",
-      "published_at": "2026-11-13T10:17:13+00:00",
-      "importance": 2,
-      "personal_score": 2.25,
-      "entities": [
-        "ഒരു",
-        "കോടിയുടെ",
-        "ഒന്നാം",
-        "സമ്മാനം",
-        "നമ്പറിന്",
-        "സുവര്",
-        "കേരളം",
-        "ലോട്ടറി",
-        "ഫലം",
-        "പ്രഖ്യാപിച്ചു",
-        "Suvarna Keralam SK",
-        "Samakalika Malayalam Suvarna Keralam"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
-      "id": "78ad9f276439d740",
-      "title": "'കാലടി വെറുമൊരു സമരമുഖമല്ല, സംഘപരിവാറിന് കേരളം അടിയറവെക്കാതിരിക്കാനുള്ള ചെറുത്തുനിൽപ്പ്'; എംബി രാജേഷ്",
-      "summary": "തൃശൂർ: കാലടി സർവകലാശാലയിലെ എസ്എഫ്ഐ പ്രതിഷേധവുമായി ബന്ധപ്പെട്ട വിഷയത്തിൽ വിവാദം ഇതുവരെ അടങ്ങിയിട്ടില്ല. ഇപ്പോഴിതാ വിഷയത്തിൽ വീണ്ടും പ്രതികരണവുമായി രംഗത്ത് വന്നിരിക്കുകയാണ് മുൻ മന്ത്രിയും മുതിർന്ന സിപിഎം നേതാവുമായ എംബി രാജേഷ്.കാലടി സർവകലാശാലയിലെ വിസി സിസ തോമസിന്റെ നിലപാടുകളെ നേരത്തെയും തള്ളിപറഞ്ഞിട്ടുള്ള ആൾ കൂടിയാണ് എംബി രാജേഷ്. അതുകൊണ്ടരിശം തീരാഞ്ഞവനാപ്പുരയുടെ ചുറ്റും മണ്ടി നടന്നു, ഹൈക്കോടതി ഉദ്ധരിച്ച കുഞ്ചൻ നമ്പ്യാരുടെ വരികളാണിതെന്ന് എംബി രാജേഷ് പറയുന്നു.ആക്രമണമുണ്ടായില്ലെന്ന് അന്വേഷണ കമ്മീഷൻ കണ്ടെത്തിയപ്പോൾ ഹാജരില്ലെന്നായെന്നും എംബി രാജേഷ് പറയുന്നു. അതു പൊളിഞ്ഞപ്പോൾ ആക്രമണ കഥയുണ്ടാക്കി.ആക്രമണമുണ്ടായില്ലെന്ന് അന്വേഷണ കമ്മീഷൻ കണ്ടെത്തിയപ്പോൾ ഹാജരില്ലെന്നായി.",
-      "url": "https://malayalam.oneindia.com/news/kerala/mb-rajesh-says-kalady-is-not-just-a-battlefront-form-of-resistance-to-prevent-from-sangh-parivar-604077.html",
-      "source": "Oneindia Malayalam",
-      "category": "general",
-      "published_at": "2026-11-13T08:33:56+00:00",
-      "importance": 2,
-      "personal_score": 2.25,
-      "entities": [
-        "കാലടി",
-        "വെറുമൊരു",
-        "സമരമുഖമല്ല",
-        "സംഘപരിവാറിന്",
-        "കേരളം",
-        "അടിയറവെക്കാതിരിക്കാനുള്ള",
-        "ചെറുത്തുനിൽപ്പ്",
-        "എംബി",
-        "രാജേഷ്",
-        "MB Rajesh Says Kalady",
-        "Is Not Just A",
-        "Battlefront It Is A"
-      ],
-      "summary_method": "tfidf_extractive_full_article"
-    },
-    {
       "id": "6c0e575421be3d19",
       "title": "ഓര്‍ഡിനറിക്ക് കിലോമീറ്ററിന് 20 പൈസ... വന്ദേഭാരതിന് ഇതേ ദൂരത്തിന് ഈടാക്കുന്നത് ഇത്ര!",
       "summary": "ഈ നിരക്ക് പ്രകാരം 350 കിലോമീറ്റര്‍ യാത്രയ്ക്ക് ഏകദേശം 767 രൂപയാകും.ചൈന, ജപ്പാന്‍, ഫ്രാന്‍സ് എന്നിവിടങ്ങളിലെ സമാനമായ അതിവേഗ ട്രെയിന്‍ സര്‍വീസുകള്‍ക്ക് കിലോമീറ്ററിന് 7 മുതല്‍ 20 രൂപ വരെയാണ് ചെലവ് എന്നാണ് റെയില്‍വേ മന്ത്രി അശ്വിനി വൈഷ്ണവ് പറയുന്നത്. 2026 ജനുവരിയില്‍ റെയില്‍വേ ബോര്‍ഡ് പുറത്തിറക്കിയ സര്‍ക്കുലര്‍ പ്രകാരം, വന്ദേ ഭാരത് സ്ലീപ്പര്‍ ട്രെയിനുകളില്‍ എസി 3-ടയറിന് കിലോമീറ്ററിന് 2.40 രൂപയും, എസി 2-ടയറിന് 3.10 രൂപയും, ഫസ്റ്റ് എസിക്ക് 3.80 രൂപയുമാണ് നിരക്ക്.ഡീസല്‍ വില ലിറ്ററിന് 50 രൂപയെങ്കിലും കൂട്ടേണ്ടി വരുമായിരുന്നെന്ന് മോദി; ഞങ്ങള്‍ 7 രൂപയില്‍ ഒതുക്കികുറഞ്ഞത് 400 കിലോമീറ്റര്‍ ദൂരത്തിനുള്ള നിരക്കാണ് ഈടാക്കുക. സിഎസ്എംടി ഡല്‍ഹി രാജധാനി എക്‌സ്പ്രസില്‍ എസി 3-ടയറിന് കിലോമീറ്ററിന് ഏകദേശം 2.10 രൂപയും, എസി 2-ടയറിന് 2.85 രൂപയും, ഫസ്റ്റ് എസിക്ക് 3.53 രൂപയുമാണ് നിരക്ക്.1,000 കിലോമീറ്ററിലധികം ദൂരത്തേക്ക് യാത്ര ചെയ്യുമ്പോള്‍, വന്ദേ ഭാരത് സ്ലീപ്പറില്‍ എസി 3-ടയറിന് ഏകദേശം 300 രൂപയും, എസി 2-ടയറിന് 250 രൂപയും, ഫസ്റ്റ് എസിക്ക് 270 രൂപയും അധികമായി വരുന്നു. വന്ദേ ഭാരത് സ്ലീപ്പര്‍ ട്രെയിനുകളിലെ ഹ്രസ്വദൂര യാത്രകള്‍ക്ക് കുറഞ്ഞത് 400 കിലോമീറ്ററിനുള്ള നിരക്ക് ഈടാക്കുന്നതിനാല്‍, യഥാര്‍ത്ഥത്തില്‍ കിലോമീറ്റര്‍ നിരക്ക് ഇതിലും കൂടുതലായിരിക്കും.",
       "url": "https://malayalam.oneindia.com/news/india/vande-bharat-costs-rs-2-19-per-km-ordinary-class-20-paise-check-the-ticket-price-list-in-indian-ra-604063.html",
-      "source": "Oneindia Malayalam",
+      "source": "Oneindia Malayalam News",
       "category": "general",
       "published_at": "2026-11-13T04:54:46+00:00",
       "importance": 2,
@@ -1057,30 +897,133 @@
       "summary_method": "tfidf_extractive_full_article"
     },
     {
-      "id": "bea316da26dbf937",
-      "title": "കേരളത്തില്‍ നിന്നുള്ള മാലിന്യം തമിഴ്‌നാട്ടില്‍; വിജയ് എന്തുകൊണ്ട് ഇടപെടുന്നില്ല, ചോദ്യവുമായി ബിജെപി",
-      "summary": "ടണ്‍ കണക്കിന് വിഷാംശമുള്ള മാലിന്യങ്ങളാണ് ദിനേന തമിഴ്‌നാട്ടിലെ അതിര്‍ത്തി ജില്ലകളില്‍ തള്ളുന്നത് എന്നും അദ്ദേഹം പറയുന്നു.ഫുജൈറയില്‍ അപകടത്തില്‍ മരിച്ചത് ഇരട്ട സഹോദരങ്ങളും 3 വയസുകാരനും; മലപ്പുറം വേങ്ങര സ്വദേശികള്‍മാത്രമല്ല, ഈ മാലിന്യം കൃഷി ഭൂമിയിലിട്ട് കത്തിക്കുകയും ചെയ്യുന്നുണ്ടെന്ന് നൈനാര്‍ നാഗേന്ദ്രന്‍ ആരോപിച്ചു. എന്നാല്‍ തമിഴ്‌നാട്ടില്‍ അത്തരം പരിശോധനകള്‍ അതിര്‍ത്തിയില്‍ നടക്കുന്നില്ലെന്നാണ് അദ്ദേഹം പരാതിപ്പെടുന്നത്.എംഎല്‍എമാരെ വിറപ്പിച്ച് വിജയ്; സിനിമാ സ്റ്റൈലില്‍ യോഗം, വേദി പരസ്യമാക്കിയത് അവസാന നിമിഷംതെങ്കാശി ജില്ലയില്‍ മാത്രമല്ല, സമീപ ജില്ലകളിലെല്ലാം കേരളത്തില്‍ നിന്നുള്ള മാലിന്യം എത്തുന്നുണ്ട്. ഇതിന് പിന്നില്‍ പ്രവര്‍ത്തിക്കുന്നവര്‍ക്കെതിരെ ഗുണ്ടാ നിയമ പ്രകാരം കേസെടുത്ത് ജയിലില്‍ അടയ്ക്കണമെന്നും ബിജെപി സംസ്ഥാന അധ്യക്ഷന്‍ വിജയിയോട് ആവശ്യപ്പെട്ടു.സ്വര്‍ണവില കുത്തനെ കുറഞ്ഞു; ഡോളര്‍ പറക്കുന്നു, ആഭരണം വാങ്ങുന്നവര്‍ക്ക് നേട്ടം, പവന്‍ വില അറിയാംതമിഴ്‌നാട്ടില്‍ സി ജോസഫ് വിജയ് മുഖ്യമന്ത്രിയായി ചുമതലയേറ്റിട്ട് ആറ് മാസം തികഞ്ഞു. രാഷ്ട്രീയമായി വിഷയങ്ങള്‍ ഇല്ലാത്തതിനാലാണ് ബിജെപി ഇത്തരം ആരോപണങ്ങള്‍ ഉന്നയിക്കുന്നത് എന്ന് ടിവികെ വൃത്തങ്ങള്‍ പ്രതികരിച്ചു.",
-      "url": "https://malayalam.oneindia.com/news/india/vijay-vs-bjp-waste-from-kerala-ends-up-in-tamil-nadu-why-isnt-vijay-intervening-asks-bjp-603993.html",
-      "source": "Oneindia Malayalam News",
+      "id": "0f2a5011f093b116",
+      "title": "മുഖ്യമന്ത്രിയെ സ്വന്തം മന്ത്രി തന്നെ തിരുത്തി, മുഖ്യമന്ത്രിയുടെ വിശ്വാസ്യത പൂർണ്ണമായും തകർന്നുവെന്ന് പിണറായി",
+      "summary": "കെ.എസ്.ഇ.ബി വൈദ്യുതി വാങ്ങാൻ സമ്മർദ്ദം ചെലുത്തിയിട്ടില്ലെന്നും ജിഎൻഎ കരാർ അപ്രായോഗികമാണെന്നും വകുപ്പ് മന്ത്രി തന്നെ തുറന്നുപറഞ്ഞതോടെ മുഖ്യമന്ത്രിയുടെ വിശ്വാസ്യത പൂർണ്ണമായും തകർന്നിരിക്കുന്നു.ജിഎൻഎ എന്നത് വൈദ്യുതി ഉത്പാദകരോ ലൈസൻസുള്ള ട്രേഡറോ അല്ല, മറിച്ച് വെറുമൊരു ഇടനില ഏജൻസി മാത്രമാണെന്ന പ്രതിപക്ഷത്തിന്റെ ആരോപണത്തെ അന്ന് പുച്ഛിച്ചുതള്ളിയ മുഖ്യമന്ത്രിയെ സ്വന്തം മന്ത്രി തന്നെ തിരുത്തിയിരിക്കുന്നു. അതിനാൽ, വഴിവിട്ട നീക്കങ്ങളും ദുരൂഹമായ ഇടപെടലുകളും നടന്നത് മുഖ്യമന്ത്രിയുടെ നേരിട്ടുള്ള അറിവോടെയോ നേതൃത്വത്തിലോ ഏകപക്ഷീയമായി ആണെന്ന് ഇതോടെ സംശയരഹിതമായി വ്യക്തമാക്കപ്പെട്ടു.വിവാദം ശക്തമായപ്പോൾ, മുൻ കെ.എസ്.ഇ.ബി ചെയർമാൻ സർക്കാരിൽ സമ്മർദ്ദം ചെലുത്തിയെന്നും അദ്ദേഹത്തിന്റെ റിപ്പോർട്ടിന്മേൽ അന്വേഷണം നടത്തുമെന്നും പറഞ്ഞ് ഉദ്യോഗസ്ഥന്റെ തലയിലേക്ക് ഉത്തരവാദിത്തം കെട്ടിവെച്ച് രക്ഷപ്പെടാനാണ് മുഖ്യമന്ത്രി ശ്രമിച്ചത്. എന്നാൽ, ആ അന്വേഷണം തന്നെയും സർക്കാരിനെയും വലിയ പ്രതിസന്ധിയിലാക്കുമെന്ന് തിരിച്ചറിഞ്ഞതോടെ അതിൽ നിന്നും പിന്നോട്ട് പോയി.കാലടിയിലെ സമരപ്പന്തലിലെത്തി പിണറായി വിജയൻ, സർക്കാരിൻ്റേയും വിസിയുടേയും മാതൃക സവർക്കറായിരിക്കും കെ.എസ്.ഇ.ബിയുടെ ഭാഗത്തുനിന്ന് സമ്മർദ്ദങ്ങളൊന്നും ഉണ്ടായിട്ടില്ലെന്ന സണ്ണി ജോസഫിന്റെ സാക്ഷ്യപ്പെടുത്തലോടെ, മുൻ കെ.എസ്.ഇ.ബി ചെയർമാൻ രാജമാണിക്യം ഐ.എ.എസ് ചൂണ്ടിക്കാണിച്ച അഭിപ്രായത്തോടാണ് വകുപ്പ് മന്ത്രിക്കും യോജിപ്പുള്ളതെന്ന് വ്യക്തമായിരിക്കുകയാണ്. അഴിമതിക്കരാറുമായി മുന്നോട്ട് പോകാൻ കഴിയാത്ത സാഹചര്യത്തിൽ, മനഃപൂർവ്വം ഇടപെടലുകൾ ഒഴിവാക്കി സംസ്ഥാനത്ത് വീണ്ടും വൈദ്യുതി പ്രതിസന്ധി സൃഷ്ടിക്കാൻ നീക്കമുണ്ടാകുമോ എന്ന ആശങ്ക ഈ പരസ്പരവിരുദ്ധമായ സമീപനങ്ങൾ ഉയർത്തുന്നുണ്ട്.യഥാർത്ഥ വസ്തുതകൾ അറിയാൻ ജനങ്ങൾക്ക് അവകാശമുണ്ട്.",
+      "url": "https://malayalam.oneindia.com/news/kerala/pinarayi-says-the-chief-minister-was-corrected-by-his-own-minister-adding-that-the-chief-minister-s-604111.html",
+      "source": "Oneindia Malayalam",
       "category": "general",
-      "published_at": "2026-11-12T13:18:12+00:00",
+      "published_at": "2026-11-13T14:47:15+00:00",
       "importance": 2,
       "personal_score": 2.25,
       "entities": [
-        "കേരളത്തില്",
-        "നിന്നുള്ള",
-        "മാലിന്യം",
-        "തമിഴ്",
-        "നാട്ടില്",
-        "വിജയ്",
-        "എന്തുകൊണ്ട്",
-        "ഇടപെടുന്നില്ല",
-        "ചോദ്യവുമായി",
-        "ബിജെപി",
-        "Vijay",
-        "BJP"
+        "മുഖ്യമന്ത്രിയെ",
+        "സ്വന്തം",
+        "മന്ത്രി",
+        "തന്നെ",
+        "തിരുത്തി",
+        "മുഖ്യമന്ത്രിയുടെ",
+        "വിശ്വാസ്യത",
+        "പൂർണ്ണമായും",
+        "തകർന്നുവെന്ന്",
+        "പിണറായി",
+        "Pinarayi",
+        "Chief Minister"
       ],
       "summary_method": "tfidf_extractive_full_article"
+    },
+    {
+      "id": "be213b21bea88c4f",
+      "title": "പ്രധാനമന്ത്രി തന്റെ ഫോൺ ചോർത്തുന്നുവെന്ന് രാഹുൽ ഗാന്ധി, 'തെളിവുകളെല്ലാം ഈ ഫോണിലുണ്ട്'",
+      "summary": "എന്തൊക്കെ വിഷയങ്ങളില്‍ സംവാദം വേണം എന്ന് ഫോളോവേഴ്‌സിനോടുളള ചോദ്യത്തിന് മറുപടിയായി ഒരാള്‍, നിങ്ങള്‍ക്ക് വിദേശസഹായം കിട്ടുന്നുണ്ട് എന്ന് മോദിയും മോദിയെ നിയന്ത്രിക്കുന്നത് വിദേശ ശക്തികളാണ് എന്ന് നിങ്ങളും ആരോപിക്കുന്നു. എന്താണ് തെളിവ് എന്ന് ചോദിച്ചതിനുളള മറുപടിയായാണ് ഫോണ്‍ ചോര്‍ത്തല്‍ ആരോപണം രാഹുല്‍ ഗാന്ധി ഉന്നയിച്ചത്.തെളിവ് ഇതിലുണ്ട്, തന്റെ ഫോണ്‍ ഉയര്‍ത്തിക്കാട്ടിക്കൊണ്ട് രാഹുല്‍ ഗാന്ധി പറഞ്ഞു. ഒരുവട്ടം അദ്ദേഹം തന്നോടൊപ്പം മുഖാമുഖം സംവാദത്തിന് വന്നാല്‍ എല്ലാവര്‍ക്കും മനസ്സിലാകും ആരാണ് വിദേശ ശക്തികളാല്‍ നിയന്ത്രിക്കപ്പെടുന്നത് എന്നും ആരാണ് രാജ്യദ്രോഹി എന്നും എപ്പോള്‍ മുതലാണ് രാജ്യദ്രോഹി ആയത് എന്നതും അടക്കം തനിക്ക് അറിയാവുന്ന നിരവധി കാര്യങ്ങള്‍ ഫോണിലുണ്ട്, രാഹുല്‍ ഗാന്ധി പറഞ്ഞു.സഞ്ജയ് അല്ല അത് രാജീവ് ഗാന്ധി, 12ാം നമ്പർ ബംഗ്ലാവിലെത്തിയ കൈനോട്ടക്കാരന്റെ പ്രവചനം, ഓർമ പങ്കുവെച്ച് സോണിയ എക്‌സില്‍ പങ്കുവെച്ച മറ്റൊരു വീഡിയോയില്‍ നരേന്ദ്ര മോദിയോട് സംവാദത്തിനുളള വെല്ലുവിളി രാഹുല്‍ ഗാന്ധി ആവര്‍ത്തിച്ചു. സ്‌റ്റേജും കാലാവസ്ഥയുമെല്ലാം നിങ്ങള്‍ക്ക് അനുകൂലമായിട്ട് പോലും സംസാരിക്കാന്‍ ഒരു സ്‌ക്രിപ്റ്റ് വേണമെന്ന് രാഹുല്‍ ഗാന്ധി വീഡിയോയില്‍ നരേന്ദ്ര മോദിയെ പരിഹസിച്ചു.അതിനര്‍ത്ഥം നിങ്ങള്‍ സമ്മര്‍ദ്ദത്തിലാണ് എന്നാണ്.",
+      "url": "https://malayalam.oneindia.com/news/india/rahul-gandhi-alleges-that-the-prime-minister-narendra-modi-is-tapping-his-phone-all-the-evidence-i-604095.html",
+      "source": "Oneindia Malayalam",
+      "category": "general",
+      "published_at": "2026-11-13T13:04:17+00:00",
+      "importance": 2,
+      "personal_score": 2.25,
+      "entities": [
+        "പ്രധാനമന്ത്രി",
+        "തന്റെ",
+        "ഫോൺ",
+        "ചോർത്തുന്നുവെന്ന്",
+        "രാഹുൽ",
+        "ഗാന്ധി",
+        "തെളിവുകളെല്ലാം",
+        "ഫോണിലുണ്ട്",
+        "Rahul Gandhi",
+        "Prime Minister Narendra Modi",
+        "All"
+      ],
+      "summary_method": "tfidf_extractive_full_article"
+    },
+    {
+      "id": "205a84d925f03eab",
+      "title": "കാൻസർ ചികിത്സയുടെ ഭാരം കുറയ്ക്കുന്നതിനും താങ്ങാനാവുന്ന ചിലവിൽ ആരോഗ്യപരിരക്ഷ ഉറപ്പാക്കുന്നതിനുമായി ഇന്ത്യ കൈക്കൊള്ളുന്ന നടപടികൾ എടുത്തുകാണിച്ച് ,കേന്ദ്രമന്ത്രി ശ്രീ ജഗത് പ്രകാ - PM India",
+      "summary": "കാൻസർ ചികിത്സയുടെ ഭാരം കുറയ്ക്കുന്നതിനും താങ്ങാനാവുന്ന ചിലവിൽ ആരോഗ്യപരിരക്ഷ ഉറപ്പാക്കുന്നതിനുമായി ഇന്ത്യ കൈക്കൊള്ളുന്ന നടപടികൾ എടുത്തുകാണിച്ച് ,കേന്ദ്രമന്ത്രി ശ്രീ ജഗത് പ്രകാ PM India",
+      "url": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxQTGh3VkdJR0tKRUZyd0Z4bHJHc3I2ZzZWNXhWZUwxWXNtY01VY2IyLW95czVnQTFDWUZJd2gyVkpRMGxIRjVMSUlmcnZTQXdwZzhhaUdBQVVNR2E4dUY1U0ZLeVgyUmVZZEVrbERfOFpzQnIxejZFQWYxbHJ2NFpoZjBIRVYtdHZyWEx3dHY3R2JaWTBOT1N1eDRheDFPVUwyVWl0T3pscDNzcHppejQwT0JDNjBmX1M1dWItbERHQ09DLUprSXgwS1d4dXJCdVB1bW1kZFAzZ2dGcjd1NGw2d1JmMGlMSTl6WVc2MGlxN3A5TUZ2RXFLVUxISDRzTGRkTGhsNW5TVVJNVzZXaHhBVXR0QUN4UWNUdVRBcS1sLWNXZWlFN2kzUEVrc3owZ0NKcGhlOU9HZ0JJUW5DSm9heV9Tc1lWSGJQOWZxZ0x6LTNLZlp1ZmJKMHZya0QycFRIaXBIVUxBdGtXdWRj?oc=5",
+      "source": "PM India",
+      "category": "general",
+      "published_at": "2026-11-13T11:32:12+00:00",
+      "importance": 2,
+      "personal_score": 2.25,
+      "entities": [
+        "കാൻസർ",
+        "ചികിത്സയുടെ",
+        "ഭാരം",
+        "കുറയ്ക്കുന്നതിനും",
+        "താങ്ങാനാവുന്ന",
+        "ചിലവിൽ",
+        "ആരോഗ്യപരിരക്ഷ",
+        "ഉറപ്പാക്കുന്നതിനുമായി",
+        "ഇന്ത്യ",
+        "കൈക്കൊള്ളുന്ന",
+        "നടപടികൾ",
+        "എടുത്തുകാണിച്ച്"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
+      "id": "b0313f90544e45f3",
+      "title": "കർണാടകയിലെ ബെംഗളൂരുവിൽ പ്രശാന്തി കുടീരത്തിന്റെ സുവർണ്ണ ജൂബിലി ആഘോഷങ്ങളിൽ പ്രധാനമന്ത്രി ശ്രീ നരേന്ദ്ര മോദി പങ്കെടുത്തു - PM India",
+      "summary": "കർണാടകയിലെ ബെംഗളൂരുവിൽ പ്രശാന്തി കുടീരത്തിന്റെ സുവർണ്ണ ജൂബിലി ആഘോഷങ്ങളിൽ പ്രധാനമന്ത്രി ശ്രീ നരേന്ദ്ര മോദി പങ്കെടുത്തു PM India",
+      "url": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxQWWdQblBZSVd6Nkl4eWY5SjNhUnZwbjBBNXI5UHlrN0xoN21nVWktUmxqNVhzRlh2dE85NkpBUm8wSi04N2NhWGtoaHVIRDM1ZlZmVnVwaFg1QUh1cVlGTGZoM2NFekpYSVM1blhfbVh3czVIalg1S1FXZWg4YUNUY2g1S25lMnRjek5faXRzTHBpa0hva0RxUHNKTzhPOV9Kbjg3TEIweVlIaXZaTl9NNUYyUk5HWGMyR0g5dTBHeHpVOUpVQWlNSG1KV3V4Q3JSMkVXYWM2M0drUk9ZdXdHam90M0FQSlRjS24zLUl1bl9hR0pmS0t5QmFoWnc4LXczSVVCTnJnWm9GdEZuR1VuZ3d6T0ZDVTNYYWpSNDB3RFNfT1NqR3pZQmFxekVDVXBybkRQVGJxTjloTDQxc196M2VkSEZWT1FNTHN6VzlZejhtbU5YRHEyYmdCZE9NSHFzeGw2ZFBTRWJpUEZQSlYzX1hkc0xfRXM?oc=5",
+      "source": "PM India",
+      "category": "general",
+      "published_at": "2026-11-13T12:30:31+00:00",
+      "importance": 2,
+      "personal_score": 2.25,
+      "entities": [
+        "കർണാടകയിലെ",
+        "ബെംഗളൂരുവിൽ",
+        "പ്രശാന്തി",
+        "കുടീരത്തിന്റെ",
+        "സുവർണ്ണ",
+        "ജൂബിലി",
+        "ആഘോഷങ്ങളിൽ",
+        "പ്രധാനമന്ത്രി",
+        "ശ്രീ",
+        "നരേന്ദ്ര",
+        "മോദി",
+        "പങ്കെടുത്തു"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
+      "id": "c0eca4b8caf1fb61",
+      "title": "​പ്രധാനമന്ത്രി ശ്രീ നരേന്ദ്ര മോദി കർണാടകയിലെ ബെംഗളൂരുവിൽ 15,600 കോടിയിലധികം രൂപയുടെ വിവിധ വികസന പദ്ധതികൾ ഉദ്ഘാടനം ചെയ്യുകയും രാജ്യത്തിന് സമർപ്പിക്കുകയും തറക്കല്ലിടുകയും ഫ്ലാഗ് - PM India",
+      "summary": "​പ്രധാനമന്ത്രി ശ്രീ നരേന്ദ്ര മോദി കർണാടകയിലെ ബെംഗളൂരുവിൽ 15,600 കോടിയിലധികം രൂപയുടെ വിവിധ വികസന പദ്ധതികൾ ഉദ്ഘാടനം ചെയ്യുകയും രാജ്യത്തിന് സമർപ്പിക്കുകയും തറക്കല്ലിടുകയും ഫ്ലാഗ് PM India",
+      "url": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxONzF5YnhnSEpKOFpBa1U1bWZjVWppTWlUTS1EWUdxYjU5UWU1T1R6cUFER1YtY29WMG4wQm1iZUhTa19LVzdVVE02MDd0ME13R2wzV1VXalp5aGVXcE1KREQ0U1NLSF9YU2c5MDVVand0Y19HbTdzbWNnM3lmTWpSQXJCc3ozbGtwRHBOb0hHNVp4QzNXTWRwVDdKUmFodTl4WURXRFE2UTJ4MFJ2M0JUT2tScUpCeC1tSUN0bFJpamNRYnhNOWQ0ZHZua1piY0NERWxJbG5MMmZ0Sks2eXhTcWstMlc3Y2VsQVFYLUxoUTBoOGJheUlUdEY5ZFZYbDdZY0ZWWER6LU5rZmpsUlhOZnJRcFBPdWRTd0tfdVJJQzVsYzFzSmo2UGNVSE5lVFM5NGxCYzFyLUkyTzlLSzZhbFUwWXBrbzgtcXYwbVNNUGVobmpYdnliZkJZSGdVeDhsNXBfY3dscDlFcU9rUlRhRQ?oc=5",
+      "source": "PM India",
+      "category": "general",
+      "published_at": "2026-11-13T12:30:31+00:00",
+      "importance": 2,
+      "personal_score": 2.25,
+      "entities": [
+        "പ്രധാനമന്ത്രി",
+        "ശ്രീ",
+        "നരേന്ദ്ര",
+        "മോദി",
+        "കർണാടകയിലെ",
+        "ബെംഗളൂരുവിൽ",
+        "കോടിയിലധികം",
+        "രൂപയുടെ",
+        "വിവിധ",
+        "വികസന",
+        "പദ്ധതികൾ",
+        "ഉദ്ഘാടനം"
+      ],
+      "summary_method": "rss_fallback"
     },
     {
       "id": "82783ab6ccd26976",
@@ -1096,6 +1039,32 @@
         "Manufacturing Momentum",
         "Building",
         "Self-Reliant India"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
+      "id": "4c4fbcf53ed42fec",
+      "title": "ശ്വാസകോശത്തെ ബാധിക്കുന്ന നിശ്ശബ്ദ ഭീഷണി; ന്യുമോണിയയെ പ്രതിരോധിക്കാം, ഇന്ന് ലോക ന്യുമോണിയ ദിനം | World Pneumonia Day - Times Kerala",
+      "summary": "ശ്വാസകോശത്തെ ബാധിക്കുന്ന നിശ്ശബ്ദ ഭീഷണി; ന്യുമോണിയയെ പ്രതിരോധിക്കാം, ഇന്ന് ലോക ന്യുമോണിയ ദിനം | World Pneumonia Day Times Kerala",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9CWDlzWnE3b3IybkxqcDVJRkNja0JnbE5ELVBJTEVKRUJfV3g0U19GWlp1Q2RaZTlpUE8yWTFzVjBUUkFtNThPQWxLa1ZFMXZucy1EY2hBaFBLQk9DTnl3?oc=5",
+      "source": "Times Kerala",
+      "category": "general",
+      "published_at": "2026-11-12T02:28:15+00:00",
+      "importance": 1,
+      "personal_score": 1.25,
+      "entities": [
+        "ശ്വാസകോശത്തെ",
+        "ബാധിക്കുന്ന",
+        "നിശ്ശബ്ദ",
+        "ഭീഷണി",
+        "ന്യുമോണിയയെ",
+        "പ്രതിരോധിക്കാം",
+        "ഇന്ന്",
+        "ലോക",
+        "ന്യുമോണിയ",
+        "ദിനം",
+        "World Pneumonia Day",
+        "Times Kerala"
       ],
       "summary_method": "rss_fallback"
     },
@@ -1168,6 +1137,26 @@
       "summary_method": "rss_fallback"
     },
     {
+      "id": "4e3e1bd6d0c6d2fe",
+      "title": "ജെല്ലിന്റെ മായാലോകം – Kerala Science Slam - LUCA Science Magazine",
+      "summary": "ജെല്ലിന്റെ മായാലോകം – Kerala Science Slam LUCA Science Magazine",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBxY1VMYjcwdnZmLUtkZkppRVJLX2RfMG51R0xkakFfUFpZREVxak1LNkRERjJ4aDhvVmJjTkN3dXpVVE1TMTZUWFNNcFMzT2JsUlhnME5MS1pnWG40bWpWSg?oc=5",
+      "source": "LUCA Science Magazine",
+      "category": "general",
+      "published_at": "2025-02-15T03:52:15+00:00",
+      "importance": 1,
+      "personal_score": 1.25,
+      "entities": [
+        "ജെല്ലിന്റെ",
+        "മായാലോകം",
+        "Kerala Science Slam",
+        "LUCA Science Magazine",
+        "Kerala Science Slam LUCA",
+        "Science Magazine"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
       "id": "be6c635e1a9520a6",
       "title": "KERALA SCIENCE SLAM’ 24 - LUCA Science Magazine",
       "summary": "KERALA SCIENCE SLAM’ 24 LUCA Science Magazine",
@@ -1208,22 +1197,6 @@
       "summary_method": "tfidf_extractive_full_article"
     },
     {
-      "id": "9cff940562cb2a6e",
-      "title": "The cybersecurity warning HR leaders cannot ignore - HR Magazine",
-      "summary": "The cybersecurity warning HR leaders cannot ignore HR Magazine",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTFNKamdHN056VTJnYVJZS1ZwSHk3MFFOelUxalppeGhVSmU5V3V1NkdCbXFnS1JwN1lNUE9CMl9Salg3TWZ4WVBGNXZWX1NUc0hJODJKaWpJcHlBNkZhTEk2eTE0ZnhaMU15OFVrTV9CNm1WemZPb2p5Q0twM1ZYamR0RjVuOFVscUZLUE9KRXhmNjJ3UzEwVnVVNA?oc=5",
-      "source": "HR Magazine",
-      "category": "tech",
-      "published_at": "2026-11-13T11:36:50+00:00",
-      "importance": 10,
-      "personal_score": 10.0,
-      "entities": [
-        "HR Magazine The",
-        "HR Magazine"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
       "id": "5c43d537b024c80b",
       "title": "എഐ ഓഹരികളുടെ കാലം കഴിഞ്ഞോ? മസ്‌കിനും കാലിടറി, യുഎസ് ഇടക്കാല തിരഞ്ഞെടുപ്പ് നൽകുന്ന മുന്നറിയിപ്പ്",
       "summary": "കർശനമായ ഡാറ്റാ സെന്റർ നിയന്ത്രണങ്ങളെക്കുറിച്ചും പുതിയ പദ്ധതികൾക്കുള്ള രാഷ്ട്രീയ പ്രതിരോധത്തെക്കുറിച്ചും ഉള്ള ആശങ്കകളാണ് നിക്ഷേപകരെ അസ്വസ്ഥരാക്കിയത്.ഇതിന്റെ ഫലമായുണ്ടായ ഇടിവിൽ എസ് ആന്റ് പി 500 മാർക്കറ്റ് മൂല്യത്തിൽ ഏകദേശം 3 ട്രില്യൺ ഡോളർ കുറവുണ്ടായി. ഈ ആഴ്‌ച മസ്‌കിന്റെ കമ്പനികളുടെ വിപണി മൂല്യത്തിൽ 380 ബില്യൺ ഡോളറിലധികം ഇടിവുണ്ടായി എന്നാണ് കണക്കുകൾ വ്യക്തമാക്കുന്നത്.നിലവിൽ എഐ അടിസ്ഥാന സൗകര്യ കുതിച്ചുചാട്ടം അതിന്റെ നിലവിലെ വേഗതയിൽ തുടരാൻ കഴിയുമോ എന്ന് നിക്ഷേപകർ കൂടുതലായി ആശങ്ക ഉന്നയിക്കുന്നതാണ് ഇതിന് കാരണം. പുതിയ ഡാറ്റാ സെന്ററുകൾക്കെതിരായ എതിർപ്പ് ശക്തി പ്രാപിക്കുന്ന പ്രദേശങ്ങൾ ഉൾപ്പെടെ യുഎസ് തിരഞ്ഞെടുപ്പിലെ ഫലങ്ങൾ കർശനമായ നിയന്ത്രണത്തെയും രാഷ്ട്രീയ പ്രതിരോധത്തെയും കുറിച്ചുള്ള ആശങ്കകൾ വർധിപ്പിച്ചു.നിക്ഷേപകരെ സംബന്ധിച്ചിടത്തോളം, ആർട്ടിഫിഷ്യൽ ഇന്റലിജൻസിന്റെ പൂർണമായ അന്ത്യമല്ല ഇതെന്ന് പ്രത്യേകം ഓർക്കണം. എഐ ഇപ്പോഴും വ്യവസായങ്ങളെ മാറ്റങ്ങളിലൂടെ വളർത്തുകയും പുതിയ അവസരങ്ങൾ സൃഷ്‌ടിക്കുകയും ചെയ്യുന്നുണ്ടെങ്കിലും അതിന് മറ്റൊരു വശം കൂടി ഉണ്ടെന്ന് വിപണി എല്ലാവരേയും ഓർമ്മിപ്പിക്കുന്നു.നിലവിലെ ഇടിവോടെ എഐയുടെ ഭാവി അവസാനിച്ചു എന്നല്ല അർത്ഥമാക്കുന്നത്.",
@@ -1250,25 +1223,22 @@
       "summary_method": "tfidf_extractive_full_article"
     },
     {
-      "id": "d72d3dad93d8a834",
-      "title": "Ransomware Without Data Theft Could Trigger DPDP Breach Reporting: K7 CyberSecurity White Paper Flags Enterprise Risks - MediaNews4U",
-      "summary": "Ransomware Without Data Theft Could Trigger DPDP Breach Reporting: K7 CyberSecurity White Paper Flags Enterprise Risks MediaNews4U",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNV3lEbVg3X3EwV2hoZllxUFN3dllPMVAyQ0pfTmtCbEJLSEIyM2I2WWZUYW1FZHljMWd1RnlfZ1l1Q1JmQjZ4YTNnWlowWHZkZ0U4WUJXc21kdFoweExkOXIza0pSR1dmYTVCa0pmWGE4ZG80UTRtemdQdDlkZF9Oa2hqMGpLWkcwLVNQbVV2MXp6ZXBmSkE3V0d2cjZLUUlWbmZfTFdjbm1JeW9iTHpDQ3UtVjJjeDFCbXczVnNRaVFTQ3dtSmRweVdpWEJhbE1rWUJyblItcVA2Nk9fUXRz?oc=5",
-      "source": "MediaNews4U",
+      "id": "1ddd43e9f248573c",
+      "title": "Telegram Android Flaw Sparks Bybit Security Warning for Crypto Users - BeInCrypto",
+      "summary": "Telegram Android Flaw Sparks Bybit Security Warning for Crypto Users BeInCrypto",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5ET0RzNFhqWFlHVXhPaFNUU0lCZE0wT29DTXRJTzFqMURUVERCVV9VX1dtOUxGZkVHUWNWVVRZS3llazExdWhMQW9WelJGTmRiYlRLekdDbG9sUGtoSVVGY2pDdnZ1bjJ1dnEwOERRWi1pSy1QVDlxUmNUdw?oc=5",
+      "source": "BeInCrypto",
       "category": "tech",
-      "published_at": "2026-11-13T04:48:59+00:00",
+      "published_at": "2026-11-13T23:30:00+00:00",
       "importance": 10,
       "personal_score": 10.0,
       "entities": [
-        "Ransomware Without Data Theft",
-        "Could Trigger DPDP Breach",
-        "Reporting",
-        "K7 CyberSecurity White Paper",
-        "Flags Enterprise Risks",
-        "MediaNews4U Ransomware Without Data",
-        "Theft Could Trigger DPDP",
-        "Breach Reporting",
-        "Flags Enterprise Risks MediaNews4U"
+        "Telegram Android Flaw Sparks",
+        "Bybit Security Warning",
+        "Crypto Users",
+        "BeInCrypto Telegram Android Flaw",
+        "Sparks Bybit Security Warning",
+        "Crypto Users BeInCrypto"
       ],
       "summary_method": "rss_fallback"
     },
@@ -1277,7 +1247,7 @@
       "title": "Who pays for the AI boom? Texas communities are asking tough questions",
       "summary": "“Hey, what do you think of the data centre that’s coming up right across the street from here? I see a lot of construction happening around us all the time,” I ask my colleague Kevin, sounding innocent and naïve, for my Swedish friends had warned me — when I was moving to the U.S. earlier this year — not to touch politics or any sensitive topic at the workplace in America. He carefully places his fork down and looks past me through the window, where a dusty haze from the construction is floating in the hot Texan air, and starts talking softly.",
       "url": "https://www.thehindu.com/society/ai-data-centre-boom-usa-water-electricity-concerns-protests/article71669428.ece",
-      "source": "The Hindu Science and Technology",
+      "source": "The Hindu Technology",
       "category": "tech",
       "published_at": "2026-11-13T05:36:15+00:00",
       "importance": 10,
@@ -1290,13 +1260,29 @@
       "summary_method": "tfidf_extractive_full_article"
     },
     {
+      "id": "9cff940562cb2a6e",
+      "title": "The cybersecurity warning HR leaders cannot ignore - HR Magazine",
+      "summary": "The cybersecurity warning HR leaders cannot ignore HR Magazine",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTFNKamdHN056VTJnYVJZS1ZwSHk3MFFOelUxalppeGhVSmU5V3V1NkdCbXFnS1JwN1lNUE9CMl9Salg3TWZ4WVBGNXZWX1NUc0hJODJKaWpJcHlBNkZhTEk2eTE0ZnhaMU15OFVrTV9CNm1WemZPb2p5Q0twM1ZYamR0RjVuOFVscUZLUE9KRXhmNjJ3UzEwVnVVNA?oc=5",
+      "source": "HR Magazine",
+      "category": "tech",
+      "published_at": "2026-11-13T11:36:50+00:00",
+      "importance": 10,
+      "personal_score": 10.0,
+      "entities": [
+        "HR Magazine The",
+        "HR Magazine"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
       "id": "211d5f998fcf8a0c",
       "title": "Urgent climate finance pleas at COP31 face a non-urgent response",
       "summary": "ANTALYA, TURKIYE Urgent pleas for cash from poor ​nations most exposed to the kind of climate-related disasters that have marked this year risk meeting a sluggish response at Turkiye’s COP31 talks as Western governments put ‌national security and living costs first. Also Read | Why climate finance remains a recurring flashpoint at UN summits https://www.thehindu.com/sci-tech/energy-and-environment/why-the-same-climate-finance-dispute-returns-at-every-un-climate-summit/article71690224.ece Since then, climate action has slipped down the political agenda for Western governments as U.S. Also Read | UN climate summit pushes electrification goal as groups call for mining safeguards https://www.thehindu.com/sci-tech/energy-and-environment/un-climate-summit-pushes-electrification-goal-as-groups-call-for-mining-safeguards/article71696419.ece COP31 seeking implementation, not new targets As they ​respond to the contemporary mood, host country Turkiye and lead negotiator Australia have emphasised making previous pledges work, rather than securing a new headline target at the conference, which continues until the end of next week. The Hindu Editorial | New deal: On COP31 and lofty climate goals https://www.thehindu.com/opinion/editorial/new-deal-on-cop31-and-lofty-climate-goals/article71695206.ece Unclogging the system to get money flowing Both public and private funding provide climate finance grants, loans, ​aid and investment in measures ranging from renewable energy to flood defences.",
       "url": "https://www.thehindu.com/sci-tech/energy-and-environment/urgent-climate-finance-pleas-at-cop31-face-a-non-urgent-response/article71699520.ece",
       "source": "The Hindu Science and Technology",
       "category": "tech",
-      "published_at": "2026-11-13T18:46:29+00:00",
+      "published_at": "2026-11-13T21:16:45+00:00",
       "importance": 10,
       "personal_score": 10.0,
       "entities": [
@@ -1345,25 +1331,6 @@
         "The Times",
         "India Secure",
         "Shastry The Times"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
-      "id": "48aa10369bb00597",
-      "title": "Phishing attacks surge across Europe, outpacing the Rest of the World - Cybersecurity Insiders",
-      "summary": "Phishing attacks surge across Europe, outpacing the Rest of the World Cybersecurity Insiders",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQM1pyUDJRVnhreXYzUVhRUmFoMUtHVlNQT0tWREl6RGpmNXA2Qkc1N3FNUktMNXVvQ1ZfQjVLS2pPV2VXQmlaVEZXRUZhb3E1YTJ1eWUtQTI1M1pzS0tpMmc2ZnJteTVBZlVMSDNfREYwUVFTWHVHbUZhc2hiWHNkUmFQemp5Tk1Uc1drVXdsTEJWZjBWS2g0OHdGc2w0MFZWWVg0MEJ0dXJYSlVN?oc=5",
-      "source": "Cybersecurity Insiders",
-      "category": "tech",
-      "published_at": "2026-11-13T15:33:32+00:00",
-      "importance": 9,
-      "personal_score": 9.0,
-      "entities": [
-        "Phishing",
-        "Europe",
-        "Rest",
-        "Cybersecurity Insiders Phishing",
-        "World Cybersecurity Insiders"
       ],
       "summary_method": "rss_fallback"
     },
@@ -1443,23 +1410,20 @@
       "summary_method": "rss_fallback"
     },
     {
-      "id": "74da94736837d43f",
-      "title": "New Android Malware Hides Hacker Activity While Stealing Banking Data - eSecurity Planet",
-      "summary": "New Android Malware Hides Hacker Activity While Stealing Banking Data eSecurity Planet",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbXZqcDBmOExwTUExZ3pFT2VPVzQxbVpwM2RwNVFPOXBLZGo1VVQ1VC1IR29xamcyMkNJZGNBV1RqSklhc3NES1g3ZVBXS1pKaGpDMlNxUnFtNF9KYjYzekJOTEstZGVFTE1mMF9qVHBIYVNxQTZiWDFESFYzYkpoVnlHdTk4YTktcklkZ2Q1aDgxd0tac3RBbF9Yc29Da0lzOFE?oc=5",
-      "source": "eSecurity Planet",
+      "id": "0b928ae4106a59e8",
+      "title": "Oaktree's Howard Marks answers 12 questions on artificial intelligence - Moneycontrol.com",
+      "summary": "Oaktree's Howard Marks answers 12 questions on artificial intelligence Moneycontrol.com",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPekJRYkhGMUVWX3U1ak1Gd1VnanVpYS14bHR2VkZZYXotZXlyUTFtcnI1bnJxR1JxaDM4bVJlblAxcEVxM3RQVlhCLVVmTl9hYWtYajhZWWt1SDdwUWRRT0pzNTdXSzRYRVA2ZU1ndVZRSWw3NUhvNTRSVklKbTFKd3hEZ1hnTXZmYjk1U0dwWDFTcVA4NTY1a0dkUzhCemtMeUZfQ0lfaU5tcExKdTU1d21kRlFEWDFETG5naldybXRkR0tTd1A2S0lXZUE2YXM00gHWAUFVX3lxTE9qSEp3VDVhcWY3ZVB1TGl4bEYzTW96ZmFYbGtwRFR2UUJKOTZzRUdPWmVpREJWQTVwMVhaS20xaVBLa3hfQUl0VWlrSGx6U0Y3bW1XQnMtcHlPRDFEMnpYV2hWMTExTEg4VTVqMU9kWldOTEJRRXc1Z1FHbzU5ejV0MnZxN1dteFgtY1YxeHdKaXNJMzZ1LXRQWEdQWTM1cEdXTVBoS1B6YWhoaXp5bDNwblBTVl9ySldmd29kSU01N0R6SzB1QzZ4VmNpUkwxWEZRUEdDTXc?oc=5",
+      "source": "Moneycontrol.com",
       "category": "tech",
-      "published_at": "2026-11-13T22:41:15+00:00",
+      "published_at": "2026-11-13T08:54:02+00:00",
       "importance": 9,
       "personal_score": 9.0,
       "entities": [
-        "New Android Malware Hides",
-        "Hacker Activity While Stealing",
-        "Banking Data",
-        "Planet New Android Malware",
-        "Hides Hacker Activity While",
-        "Stealing Banking Data",
-        "Planet"
+        "Oaktree",
+        "Howard Marks",
+        "Moneycontrol.com Oaktree",
+        "Moneycontrol.com"
       ],
       "summary_method": "rss_fallback"
     },
@@ -1478,24 +1442,6 @@
         "AI-fueled",
         "Cybersecurity Dive White House",
         "Cybersecurity Dive"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
-      "id": "0b928ae4106a59e8",
-      "title": "Oaktree's Howard Marks answers 12 questions on artificial intelligence - Moneycontrol.com",
-      "summary": "Oaktree's Howard Marks answers 12 questions on artificial intelligence Moneycontrol.com",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPekJRYkhGMUVWX3U1ak1Gd1VnanVpYS14bHR2VkZZYXotZXlyUTFtcnI1bnJxR1JxaDM4bVJlblAxcEVxM3RQVlhCLVVmTl9hYWtYajhZWWt1SDdwUWRRT0pzNTdXSzRYRVA2ZU1ndVZRSWw3NUhvNTRSVklKbTFKd3hEZ1hnTXZmYjk1U0dwWDFTcVA4NTY1a0dkUzhCemtMeUZfQ0lfaU5tcExKdTU1d21kRlFEWDFETG5naldybXRkR0tTd1A2S0lXZUE2YXM00gHWAUFVX3lxTE9qSEp3VDVhcWY3ZVB1TGl4bEYzTW96ZmFYbGtwRFR2UUJKOTZzRUdPWmVpREJWQTVwMVhaS20xaVBLa3hfQUl0VWlrSGx6U0Y3bW1XQnMtcHlPRDFEMnpYV2hWMTExTEg4VTVqMU9kWldOTEJRRXc1Z1FHbzU5ejV0MnZxN1dteFgtY1YxeHdKaXNJMzZ1LXRQWEdQWTM1cEdXTVBoS1B6YWhoaXp5bDNwblBTVl9ySldmd29kSU01N0R6SzB1QzZ4VmNpUkwxWEZRUEdDTXc?oc=5",
-      "source": "Moneycontrol.com",
-      "category": "tech",
-      "published_at": "2026-11-13T08:54:02+00:00",
-      "importance": 9,
-      "personal_score": 9.0,
-      "entities": [
-        "Oaktree",
-        "Howard Marks",
-        "Moneycontrol.com Oaktree",
-        "Moneycontrol.com"
       ],
       "summary_method": "rss_fallback"
     },
@@ -1538,6 +1484,25 @@
       "summary_method": "tfidf_extractive_full_article"
     },
     {
+      "id": "48aa10369bb00597",
+      "title": "Phishing attacks surge across Europe, outpacing the Rest of the World - Cybersecurity Insiders",
+      "summary": "Phishing attacks surge across Europe, outpacing the Rest of the World Cybersecurity Insiders",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQM1pyUDJRVnhreXYzUVhRUmFoMUtHVlNQT0tWREl6RGpmNXA2Qkc1N3FNUktMNXVvQ1ZfQjVLS2pPV2VXQmlaVEZXRUZhb3E1YTJ1eWUtQTI1M1pzS0tpMmc2ZnJteTVBZlVMSDNfREYwUVFTWHVHbUZhc2hiWHNkUmFQemp5Tk1Uc1drVXdsTEJWZjBWS2g0OHdGc2w0MFZWWVg0MEJ0dXJYSlVN?oc=5",
+      "source": "Cybersecurity Insiders",
+      "category": "tech",
+      "published_at": "2026-11-13T15:33:32+00:00",
+      "importance": 8,
+      "personal_score": 8.0,
+      "entities": [
+        "Phishing",
+        "Europe",
+        "Rest",
+        "Cybersecurity Insiders Phishing",
+        "World Cybersecurity Insiders"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
       "id": "50f2e1031de19620",
       "title": "AI-NATIVE SOFTWARE COMPANIES LEAD ON GROWTH, BUT STRONGER ECONOMICS HAVE NOT YET FOLLOWED - TradingView",
       "summary": "AI-NATIVE SOFTWARE COMPANIES LEAD ON GROWTH, BUT STRONGER ECONOMICS HAVE NOT YET FOLLOWED TradingView",
@@ -1555,41 +1520,6 @@
         "TradingView AI-NATIVE SOFTWARE COMPANIES",
         "LEAD ON GROWTH",
         "NOT YET FOLLOWED TradingView"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
-      "id": "579b13910bda6eeb",
-      "title": "Thousands of GitHub repos hit with secret-stealing malware - CSO Online",
-      "summary": "Thousands of GitHub repos hit with secret-stealing malware CSO Online",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTTg5OEphN2h5b1N1bDAyYWdVVG9sZVZKaklOdzhHV0VRS3JXdGxHRFlJbzNjN1UxUklkbTB1cXc5X2dSQ0cyTDJVWFlJM0RYMUZjRDV3eXBKcU5fNjA2VEQxYzl5QW8tZmNqZ1ZVZEhfcDQ5WTVOa3RkVnJqMGo2RlRuNVRLMkQ3T3dlNmdMbk5XUHdIaEQ1b241QUJ1ZFdmRGdZLWdsVjY?oc=5",
-      "source": "CSO Online",
-      "category": "tech",
-      "published_at": "2026-11-13T23:54:27+00:00",
-      "importance": 8,
-      "personal_score": 8.0,
-      "entities": [
-        "Thousands",
-        "GitHub",
-        "CSO Online Thousands",
-        "CSO Online"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
-      "id": "5f1f6a1e1815ad47",
-      "title": "Android TV box malware found in 1.3M devices - Fox News",
-      "summary": "Android TV box malware found in 1.3M devices Fox News",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1iQV8tQk9KVUljRDlWMWJpM3N2cVNsS2hpUk5RQWdUbkQ1amVjVTE0d0xESm5WQjNZaTFpS19MYktwSjRNYVRISDF4R0l5VnAtRUtQVFIySWxIZ2JZeXpvWDl4XzJCY2JvMy0wbGxVdURmZ2_SAXhBVV95cUxQOXdFMXRXdEszUTFScU5HcVlWUXdMUlZSUlRJSEs0VWs0SmV0RFMtRVJDckNYSzdINFZISjZ6dTAxQzlCMGdhb3VfZExzSW56aUFEcFNaZWVaMHl0YTBIRGE0V01vUWVmUFRHbXFKSVNwWDRyX3haSVU?oc=5",
-      "source": "Fox News",
-      "category": "tech",
-      "published_at": "2026-11-13T19:30:07+00:00",
-      "importance": 8,
-      "personal_score": 8.0,
-      "entities": [
-        "Android TV",
-        "Fox News Android TV",
-        "Fox News"
       ],
       "summary_method": "rss_fallback"
     },
@@ -1654,7 +1584,7 @@
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBmbXoybFBETWNIWXZqSXhodXhWRE1jSDJKWWZfOUttVHctQjZMRU1JUFNBcGN5blBQcXBmRzdMa2k1dklUZ3hmUnQ0OGZMZnZVaGFxZzdKVEFNcEduRUluX29GbTRRMUFHUEVoRVV3?oc=5",
       "source": "WDEF",
       "category": "tech",
-      "published_at": "2026-11-13T21:08:54+00:00",
+      "published_at": "2026-11-13T21:10:19+00:00",
       "importance": 8,
       "personal_score": 8.0,
       "entities": [
@@ -1662,6 +1592,46 @@
         "Software Workshop",
         "WDEF UTC Hosts Open",
         "Source Software Workshop WDEF"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
+      "id": "a036af93c2fe3922",
+      "title": "Poland pushes open-source software after global Microsoft outage - Anadolu Ajansı",
+      "summary": "Poland pushes open-source software after global Microsoft outage Anadolu Ajansı",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPaWxvazM4eDVqTkpoeU9yQUd1S2ZxSldwWFl2TGVYNzNYMkM5NTFhMGd3RzFobjZ5N091SmM5ZWdSNTg2alVldjg0Vm43T2hYNVJTaklGWVczWkFyOUhoaDFqS1FjR19jR01kM0haTmhhTnBZV08yaEhPLU5KMXhRaXIxTDA0ajdnMnl3TUpwYVpsS2UzdXFialNOYkFQR19MUHdvbE1oRQ?oc=5",
+      "source": "Anadolu Ajansı",
+      "category": "tech",
+      "published_at": "2026-11-13T18:18:41+00:00",
+      "importance": 8,
+      "personal_score": 8.0,
+      "entities": [
+        "Poland",
+        "Microsoft",
+        "Anadolu"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
+      "id": "84c0ee209df8c204",
+      "title": "From Scientific Workflows to Cybersecurity: USC ISI Researchers Showcase Innovations at SC26 - USC Viterbi School of Engineering",
+      "summary": "From Scientific Workflows to Cybersecurity: USC ISI Researchers Showcase Innovations at SC26 USC Viterbi School of Engineering",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPc0tsOVEwM2U4YU1CYzRWZEoyMEo4N2xHcHJwX1d2UUZ6OFppWktUQVhkMmd6WXIxNVZWaFlmRlFNZzNzeTFpUFVVZzNOZzBwSU5MUERSZDVqYXdjRDMwV0NrTkFDWG55VHdxVThkNWk4SEdsMGgxTThnbEc2SUpvOWg1WGZaS0hySXBpcHdQM095dG00dmtHUUNEOGkyS2NKZ2prMFVPTUxUQ1NXRGgzdzBTU1VPTjVieHU4RDZyYk9tNGdjWGpJaXk3cmFwR2xl?oc=5",
+      "source": "USC Viterbi School of Engineering",
+      "category": "tech",
+      "published_at": "2026-11-13T21:43:57+00:00",
+      "importance": 7,
+      "personal_score": 7.0,
+      "entities": [
+        "From Scientific Workflows",
+        "Cybersecurity",
+        "USC ISI Researchers Showcase",
+        "Innovations",
+        "SC26",
+        "USC Viterbi School",
+        "Engineering From Scientific Workflows",
+        "SC26 USC Viterbi School",
+        "Engineering"
       ],
       "summary_method": "rss_fallback"
     },
@@ -1713,7 +1683,7 @@
       "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQNTlCN1pfWFNRUnAwQXFBbE9WeUdXdDFmdzlCS0RpM2o2eEJSajFhM181NUlSenJVU0ZvUGFfRmpFblVVWVJxMDZKU2hULXRtc2hzZkNCNlBxdU9feVRvV0VOcVBPaXFxWWRuZE9aZC1xTGRFVEhrTkNya2xtNU9jNnVYc0VrVUxOeTZLSzl0aTNKb0Y5X3YtOGRRdHVXTWc1WURMQ2plTHQtZkRZeVdXQ0RSQzA5VjRYdldDUWQyT0ZFZm1rT1kySEpuNEJsMWVUSkdPbjBKcDktZmNTdVVwaDdNQXhaU01HVTFCbGRkblNRQWJuREtzcmNQdw?oc=5",
       "source": "ET CIO SEA",
       "category": "tech",
-      "published_at": "2026-11-13T11:49:55+00:00",
+      "published_at": "2026-11-13T13:37:14+00:00",
       "importance": 7,
       "personal_score": 7.0,
       "entities": [
@@ -1742,6 +1712,26 @@
         "Electronics Media TI CCStudio",
         "Agentic AI Enhances Embedded",
         "Software Development Electronics Media"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
+      "id": "7d93e9a2b9d486ed",
+      "title": "Donald Trump's AI task force met Thursday, discussed AI-powered cyberattacks - ET Enterprise AI",
+      "summary": "Donald Trump's AI task force met Thursday, discussed AI-powered cyberattacks ET Enterprise AI",
+      "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxONTdQWHVNdjk5amNkdWdWMW5uOWFXNC0xckwwc1RCUjBOOGM2MXg0R2cwc0lwMWZUdkxpakFheTJZLWhMZHY1djhTMFJad0F6NFV4TXlFQUdvYUc0MEItR2Fsd1hGNFE2SEdQd0htblN3Xy1BaFVqRW5pVFFuRUFueGY0aTBGZ0VLLVZmYVgxa2JGMW5GNEtUNHdHcnR2NURMejJVSEcxZ3o2bUtmRlQ1SkRDdWNscm5xZ2dQRFRyZjBwRzVhMFZrS1J0TTBlZzRVWnBVbGhVYUdybWxQMGJNUjBkRWNWbVpSa3pnRDktYkhpTE9tSW1nOElkbnBCczk2V1hIbjJkM1VsSFBjX2VsN25NWWdIa1FTQWg5b0llRdIB5wFBVV95cUxPN0ZtNXVuSDVJbWxyemNIR0RHdUx6TnNVWGFvZG5vSTdnQXh5ZjFMMGtlVDRJMnN5ZEZOUWFIdG1fZ2RwLTg0a3MyLVFBdHJhYTdVQUkyTUJWMUF6YzlJdDlXOGYzaWhlN0RJWUVGRTBMUFVpZDIwU3k0ZzkyMDY5M0t5UFRjZ1liSEh4eHZ6YVlqc2xwcGVTRXVrUjlSbVRJN2ExOTFjdjQ2V2w1b3ZPNjFKYU50TXZQZHdnaTk0ekdQWGlnY0h0N3BpS0dKeW9JcVNuSUwyVmp4MldFZHZkaVhydWxkQjA?oc=5",
+      "source": "ET Enterprise AI",
+      "category": "tech",
+      "published_at": "2026-11-14T03:19:49+00:00",
+      "importance": 7,
+      "personal_score": 7.0,
+      "entities": [
+        "Donald Trump",
+        "Thursday",
+        "AI-powered",
+        "ET Enterprise AI Donald",
+        "Trump",
+        "ET Enterprise AI"
       ],
       "summary_method": "rss_fallback"
     },
@@ -1798,20 +1788,22 @@
       "summary_method": "tfidf_extractive_full_article"
     },
     {
-      "id": "b3284b75ca4e7370",
-      "title": "Texas Instruments cuts software migration time with agentic AI - Manufacturing Today India",
-      "summary": "Texas Instruments cuts software migration time with agentic AI Manufacturing Today India",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbkJzM2NDaTFEN0tpOXlDN0I3YV9OT3pvemxpYVMtcjZrbW95Ql92NTFyU1pjb19rMXZTLWFLb3pYdGtVUEViTTljVmxZRjdmb3Z2Q3JadW81eWRveVVDUFFhRXR3NnVuQ2FRaWF4Z09XWlJWUGVGeFZzTC1mS2xCc3JxZUY2QlpYNGVaNjZqYUlTNG9heXhOTkw2b0FtN0RFbHg2Zw?oc=5",
-      "source": "Manufacturing Today India",
+      "id": "9f362b214fe072df",
+      "title": "How Artificial Intelligence is Changing the Way Indians Buy Homes - Realty Plus Magazine",
+      "summary": "How Artificial Intelligence is Changing the Way Indians Buy Homes Realty Plus Magazine",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUzN5UG12WGhfRHdUeUxpLXE2UnQ0eFBuLTJ3QUtHMUZKa19kOW82TUFGeWRrLTNXWDJzQWF1ZjY1WTREek5qUVI3bE4xd1RyMFp0QlZFUk4wX25nbDJYTDZMSWgxU2RDLVA0WW1JdFNHTmRwZW1uV0ZKZWZvbzF4V24wcEFZQU00c0Z4Q194ME1NanFUZzl6a01sNlE2alA2MFpiWGJwWm43bmVPaHp6NzBlVGpLc0tN?oc=5",
+      "source": "Realty Plus Magazine",
       "category": "tech",
-      "published_at": "2026-11-12T10:56:20+00:00",
+      "published_at": "2026-11-14T04:07:30+00:00",
       "importance": 6,
       "personal_score": 6.0,
       "entities": [
-        "Texas Instruments",
-        "Manufacturing Today India Texas",
-        "Instruments",
-        "AI Manufacturing Today India"
+        "How Artificial Intelligence",
+        "Changing",
+        "Way Indians Buy Homes",
+        "Realty Plus Magazine How",
+        "Artificial Intelligence",
+        "Realty Plus Magazine"
       ],
       "summary_method": "rss_fallback"
     },
@@ -1869,6 +1861,27 @@
       "summary_method": "rss_fallback"
     },
     {
+      "id": "8d0f4b93f8bbe64d",
+      "title": "Linux Foundation and Industry Leaders Launch Akrites to Defend Critical Open Source Software Against AI-Enabled Cyber Threats - Linux Foundation",
+      "summary": "Linux Foundation and Industry Leaders Launch Akrites to Defend Critical Open Source Software Against AI-Enabled Cyber Threats Linux Foundation",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOVFJpUjhOZHF3TFVOekI2RVJVUHM2cUU5X3B2TGs2X19yRUMzVUY3UDByblN6VjJnV2s1cFZmaVJiZVZCLXh4NTVjd0ptdkNRa3RpOW8waVA1Mlo3bXdteWY1U1MybXJXaTBubVg2Z25nUHpsS0QtZXU0STdDLVZTRlM4bnpmRVltejVSOGtiS3QwMndYa3pteTJURUdTbU5nWl81TlVHdTdTM0dvNHF3TnVLanZ6bVRxWUFTN3l5T1lyeHhoQ2VMNzZKemRzTWZKa1R0ZVY5RzAyX1RxUW9kUVlMc2Z4TlNkRFJVSkROaHp6ZGlXWmfSAYYCQVVfeXFMT2VtR0RMWkhPMVZFUUx5bGJONXk0Yi1UZFBlNDF1WnB6eDdqRHA1TF82Z2ZmNlJmYU1TWl8ya3ZWRTZwdVZQcWp5MXhiU1Q1TFh4ZlJPcUg5WGlCUVg3LU5Wc3N6UzlXWFhLTGJwaEhlR3p5RW15Z1FsZ0RKRVhXSTVHNVJ1eXJzSUt1WWJJSmRfWDFiZDFsVUdTTVVkNzVia21HSHluYlhBMHJfY0FTMnhiWUx2ZkxZemxlck5pSDdIdDhIRW9RaHVULUFFSHhWeUZiNWxONnpkM2J0VXRMbUNpVFZ0Y0o3WWt5cVFLdVZLUkh6ZTF5WWVfRzZpblFIdWRUQk01dw?oc=5",
+      "source": "Linux Foundation",
+      "category": "tech",
+      "published_at": "2026-06-25T07:00:00+00:00",
+      "importance": 6,
+      "personal_score": 6.0,
+      "entities": [
+        "Linux Foundation",
+        "Industry Leaders Launch Akrites",
+        "Defend Critical Open Source",
+        "Software Against AI-Enabled Cyber",
+        "Threats",
+        "Linux Foundation Linux Foundation",
+        "Threats Linux Foundation"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
       "id": "b9afbdba697d870e",
       "title": "From Quality-by-Testing to Quality-by-Design: How AI Is Reshaping Engineering and Software Development - Bisinfotech",
       "summary": "From Quality-by-Testing to Quality-by-Design: How AI Is Reshaping Engineering and Software Development Bisinfotech",
@@ -1904,27 +1917,6 @@
         "China"
       ],
       "summary_method": "tfidf_extractive_full_article"
-    },
-    {
-      "id": "8d0f4b93f8bbe64d",
-      "title": "Linux Foundation and Industry Leaders Launch Akrites to Defend Critical Open Source Software Against AI-Enabled Cyber Threats - Linux Foundation",
-      "summary": "Linux Foundation and Industry Leaders Launch Akrites to Defend Critical Open Source Software Against AI-Enabled Cyber Threats Linux Foundation",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOVFJpUjhOZHF3TFVOekI2RVJVUHM2cUU5X3B2TGs2X19yRUMzVUY3UDByblN6VjJnV2s1cFZmaVJiZVZCLXh4NTVjd0ptdkNRa3RpOW8waVA1Mlo3bXdteWY1U1MybXJXaTBubVg2Z25nUHpsS0QtZXU0STdDLVZTRlM4bnpmRVltejVSOGtiS3QwMndYa3pteTJURUdTbU5nWl81TlVHdTdTM0dvNHF3TnVLanZ6bVRxWUFTN3l5T1lyeHhoQ2VMNzZKemRzTWZKa1R0ZVY5RzAyX1RxUW9kUVlMc2Z4TlNkRFJVSkROaHp6ZGlXWmfSAYYCQVVfeXFMT2VtR0RMWkhPMVZFUUx5bGJONXk0Yi1UZFBlNDF1WnB6eDdqRHA1TF82Z2ZmNlJmYU1TWl8ya3ZWRTZwdVZQcWp5MXhiU1Q1TFh4ZlJPcUg5WGlCUVg3LU5Wc3N6UzlXWFhLTGJwaEhlR3p5RW15Z1FsZ0RKRVhXSTVHNVJ1eXJzSUt1WWJJSmRfWDFiZDFsVUdTTVVkNzVia21HSHluYlhBMHJfY0FTMnhiWUx2ZkxZemxlck5pSDdIdDhIRW9RaHVULUFFSHhWeUZiNWxONnpkM2J0VXRMbUNpVFZ0Y0o3WWt5cVFLdVZLUkh6ZTF5WWVfRzZpblFIdWRUQk01dw?oc=5",
-      "source": "Linux Foundation",
-      "category": "tech",
-      "published_at": "2026-06-25T07:00:00+00:00",
-      "importance": 6,
-      "personal_score": 6.0,
-      "entities": [
-        "Linux Foundation",
-        "Industry Leaders Launch Akrites",
-        "Defend Critical Open Source",
-        "Software Against AI-Enabled Cyber",
-        "Threats",
-        "Linux Foundation Linux Foundation",
-        "Threats Linux Foundation"
-      ],
-      "summary_method": "rss_fallback"
     },
     {
       "id": "aab6fd9cc5b5edf5",
@@ -1967,23 +1959,6 @@
       "summary_method": "tfidf_extractive_full_article"
     },
     {
-      "id": "59c636bf414539ee",
-      "title": "Introducing the Elephant-Goldfish Model plugin: scaling design-driven AI software development - Google Open Source Blog",
-      "summary": "Introducing the Elephant-Goldfish Model plugin: scaling design-driven AI software development Google Open Source Blog",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNEVzQWlUWnd4ekJrMDcxZDZ0TmVRcS1TMmtWbkIwSTJqRnhTcGNRMWExSW1ZR1hPSUxIYkVzbXpzY2t6dDdNLTVmLWp3d201TGZ5bjM4VnZoRFZQalc5VUVsZkM3VHotaEpjcXhHc1J2YVdua25sU3hROXRZSW52R3N3MUlxZDVUT3B0WFRmMlJNcWs?oc=5",
-      "source": "Google Open Source Blog",
-      "category": "tech",
-      "published_at": "2026-10-22T07:00:00+00:00",
-      "importance": 6,
-      "personal_score": 6.0,
-      "entities": [
-        "Introducing",
-        "Elephant-Goldfish Model",
-        "Google Open Source Blog"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
       "id": "67777c05e198f658",
       "title": "Linux gets most open-source software first but these 5 tools stayed Windows-only - MakeUseOf",
       "summary": "Linux gets most open-source software first but these 5 tools stayed Windows-only MakeUseOf",
@@ -1998,6 +1973,23 @@
         "Windows-only",
         "MakeUseOf Linux",
         "Windows-only MakeUseOf"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
+      "id": "59c636bf414539ee",
+      "title": "Introducing the Elephant-Goldfish Model plugin: scaling design-driven AI software development - Google Open Source Blog",
+      "summary": "Introducing the Elephant-Goldfish Model plugin: scaling design-driven AI software development Google Open Source Blog",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNEVzQWlUWnd4ekJrMDcxZDZ0TmVRcS1TMmtWbkIwSTJqRnhTcGNRMWExSW1ZR1hPSUxIYkVzbXpzY2t6dDdNLTVmLWp3d201TGZ5bjM4VnZoRFZQalc5VUVsZkM3VHotaEpjcXhHc1J2YVdua25sU3hROXRZSW52R3N3MUlxZDVUT3B0WFRmMlJNcWs?oc=5",
+      "source": "Google Open Source Blog",
+      "category": "tech",
+      "published_at": "2026-10-22T07:00:00+00:00",
+      "importance": 6,
+      "personal_score": 6.0,
+      "entities": [
+        "Introducing",
+        "Elephant-Goldfish Model",
+        "Google Open Source Blog"
       ],
       "summary_method": "rss_fallback"
     },
@@ -2037,27 +2029,6 @@
       "summary_method": "rss_fallback"
     },
     {
-      "id": "ef4271d0db7dd628",
-      "title": "Agentic AI streamlines embedded software development for MCUs - EDN - Voice of the Engineer",
-      "summary": "Agentic AI streamlines embedded software development for MCUs EDN - Voice of the Engineer",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQWFlONV9TaEV0cFdVTWV6RTE3bUJ5aFJ4ZmVhMTE4UGF5TzA5THNRVHZLSjZVMXZtZE5ZTVNFTzZaZGN4YTJyRGFHbG5SOVl4RDEtdFAtSmN5eXl4V2sxenlneTJJZTMtNXg5UDg5aFhNdkVUSnNBeFJwQlRWM3BXNGJOcHZ5MDNwVGc?oc=5",
-      "source": "EDN - Voice of the Engineer",
-      "category": "tech",
-      "published_at": "2026-11-11T09:55:44+00:00",
-      "importance": 6,
-      "personal_score": 6.0,
-      "entities": [
-        "Agentic AI",
-        "MCUs",
-        "EDN",
-        "Voice",
-        "Engineer Agentic AI",
-        "MCUs EDN",
-        "Engineer"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
       "id": "0aa34d778883edd5",
       "title": "Potent perovskites demand India make domestic manufacturing push",
       "summary": "BENGALURUPerovskite solar cells are an exciting technology in the solar industry because they extract more power from a given area than silicon. They absorb sunlight strongly, so require an active layer only a few hundred nanometres thick, which is three orders of magnitude thinner than silicon wafers. Manufacturing perovskites also requires temperatures under 200°C while silicon cells are much less forgiving. So depending on other economic factors, the perovskites process may be less energy-intensive.",
@@ -2092,23 +2063,22 @@
       "summary_method": "rss_fallback"
     },
     {
-      "id": "26e15105e6e8dc05",
-      "title": "Aaditya Thackeray calls for Climate Change Councils at Centre, State levels to tackle pollution",
-      "summary": "Mumbai Shiv Sena (UBT) leader and former Maharashtra Environment Minister Aaditya Thackeray has called for the establishment of Climate Change Councils at the Central and State levels, modelled on the Goods and Services Tax (GST) Council, to ensure coordinated action against pollution and climate change. The link is there, the data is missing World Diabetes Day: November 14 What polluted air adds to India’s rising blood sugar storyline 1 He proposed that a central Climate Change Council be chaired by the Prime Minister and include Environment Ministers from all States. CPCB should release peak values of air pollution, use it for calculating AQI: Experts CPCB should release peak values of air pollution, use it for calculating AQI: Experts Even if PM.25 is considered as 1,000 µg/m³ for the missing data, instead of leaving it blank, the pollution on Deepavali in Delhi would have been 49% higher: CREA analysis CPCB should release peak values of air pollution, use it for calculating AQI: Experts storyline 1 Referring to the ongoing COP31 climate conference in Türkiye and upcoming environmental events in Mumbai, including the Earthshot Prize and Mumbai Climate Week, Mr. Indoor air pollution poses critical, year-round health threat Indoor air pollution poses critical, year-round health threat Outdoor emissions regularly infiltrate living spaces, combining with domestic activities to create complex, toxic indoor environments Indoor air pollution poses critical, year-round health threat storyline 1 He also claimed that worsening environmental conditions were forcing some citizens to relocate and prompting businesses to consider leaving the country, potentially affecting employment opportunities.",
-      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/aaditya-thackeray-calls-for-climate-change-councils-at-centre-state-levels-to-tackle-pollution/article71698204.ece",
-      "source": "The Hindu Science and Technology",
+      "id": "d84ed6c90b1060dc",
+      "title": "From Binance to supermarket freezers: Cybersecurity as a strategic sector - FII Institute",
+      "summary": "From Binance to supermarket freezers: Cybersecurity as a strategic sector FII Institute",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNT0cyNjRpRi1VMmxaVzIyU2ZGRDhlNmdkdG5kd0VSQVBpVzFneVJfZzJ1eTJxdXFJNm9jcHRYTVZDLVRUTHF5NDVuNEVtdGFiVUpoZXdHYmxwVGtQckRycFVubHlETG15VVlGZkNOcTl0MHVlOFNpYjZMVnZrQmQ0WDFNTkd1aTl4QVNMNDVhVmdKdWJlTmJpaDNUTUwxdG9JUjZoRXBWOA?oc=5",
+      "source": "FII Institute",
       "category": "tech",
-      "published_at": "2026-11-13T14:58:57+00:00",
-      "importance": 5,
-      "personal_score": 5.0,
+      "published_at": "2026-11-11T07:18:20+00:00",
+      "importance": 4,
+      "personal_score": 4.0,
       "entities": [
-        "Aaditya Thackeray",
-        "Climate Change Councils",
-        "Centre",
-        "State",
-        "Chief Ministers"
+        "From Binance",
+        "Cybersecurity",
+        "FII Institute From Binance",
+        "FII Institute"
       ],
-      "summary_method": "tfidf_extractive_full_article"
+      "summary_method": "rss_fallback"
     },
     {
       "id": "db85976139393e8b",
@@ -2127,6 +2097,25 @@
         "All Indians The"
       ],
       "summary_method": "rss_fallback"
+    },
+    {
+      "id": "26e15105e6e8dc05",
+      "title": "Aaditya Thackeray calls for Climate Change Councils at Centre, State levels to tackle pollution",
+      "summary": "Mumbai Shiv Sena (UBT) leader and former Maharashtra Environment Minister Aaditya Thackeray has called for the establishment of Climate Change Councils at the Central and State levels, modelled on the Goods and Services Tax (GST) Council, to ensure coordinated action against pollution and climate change. The link is there, the data is missing World Diabetes Day: November 14 What polluted air adds to India’s rising blood sugar storyline 1 He proposed that a central Climate Change Council be chaired by the Prime Minister and include Environment Ministers from all States. CPCB should release peak values of air pollution, use it for calculating AQI: Experts CPCB should release peak values of air pollution, use it for calculating AQI: Experts Even if PM.25 is considered as 1,000 µg/m³ for the missing data, instead of leaving it blank, the pollution on Deepavali in Delhi would have been 49% higher: CREA analysis CPCB should release peak values of air pollution, use it for calculating AQI: Experts storyline 1 Referring to the ongoing COP31 climate conference in Türkiye and upcoming environmental events in Mumbai, including the Earthshot Prize and Mumbai Climate Week, Mr. Indoor air pollution poses critical, year-round health threat Indoor air pollution poses critical, year-round health threat Outdoor emissions regularly infiltrate living spaces, combining with domestic activities to create complex, toxic indoor environments Indoor air pollution poses critical, year-round health threat storyline 1 He also claimed that worsening environmental conditions were forcing some citizens to relocate and prompting businesses to consider leaving the country, potentially affecting employment opportunities.",
+      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/aaditya-thackeray-calls-for-climate-change-councils-at-centre-state-levels-to-tackle-pollution/article71698204.ece",
+      "source": "The Hindu Science and Technology",
+      "category": "tech",
+      "published_at": "2026-11-13T14:58:57+00:00",
+      "importance": 4,
+      "personal_score": 4.0,
+      "entities": [
+        "Aaditya Thackeray",
+        "Climate Change Councils",
+        "Centre",
+        "State",
+        "Chief Ministers"
+      ],
+      "summary_method": "tfidf_extractive_full_article"
     },
     {
       "id": "8997fff170113b95",
