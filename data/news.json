@@ -1,6 +1,6 @@
 {
   "version": 7,
-  "updated_at": "2026-11-14T17:20:56.071233+00:00",
+  "updated_at": "2026-11-14T21:42:19.978554+00:00",
   "ai_engine": {
     "enabled": true,
     "type": "mathematical_ml",
@@ -107,23 +107,6 @@
       "summary_method": "tfidf_extractive_full_article"
     },
     {
-      "id": "57ce5516bd850d75",
-      "title": "Kerala Police warns of fake traffic fine SMS scams",
-      "summary": "THIRUVANANTHAPURAM The Kerala Police has sounded an alert over a spike in online financial fraud involving fake SMS messages about traffic violations and CCTV-based enforcement. Masquerading as official notifications from the Motor Vehicles department (MVD), these messages are sent to people’s mobile phones, often carrying the recipients’ actual vehicle registration numbers. Users are then prompted to enter sensitive information, including bank account details, debit or credit card numbers, CVV codes and OTPs, ostensibly to pay the fine. Anyone who falls victim to online financial fraud should immediately register a complaint by calling the cybercrime helpline at 1930 or by visiting the official cybercrime portal at https://cybercrime.gov.in, said the police.",
-      "url": "https://www.thehindu.com/news/national/kerala/kerala-police-warns-of-fake-traffic-fine-sms-scams/article71701404.ece",
-      "source": "The Hindu Kerala",
-      "category": "general",
-      "published_at": "2026-11-14T11:34:28+00:00",
-      "importance": 8,
-      "personal_score": 8.25,
-      "entities": [
-        "Kerala Police",
-        "SMS",
-        "According"
-      ],
-      "summary_method": "tfidf_extractive_full_article"
-    },
-    {
       "id": "c053a9eac0ea4769",
       "title": "Animal Husbandry department to create awareness on antimicrobial resistance",
       "summary": "Thiruvananthapuram The Animal Husbandry department will conduct classes for farmers, livestock inspectors and other department staff, and pharmacy students on antimicrobial resistance as part of World AMR Awareness Week. The theme for this year’s observance is ‘One health, one action: Prevent AMR now.’ A number of programmes will be held as part of the Kerala antimicrobial awareness initiative under the Kerala Antimicrobial Resistance Strategic Action Plan (KARSAP) during the week. Organised under the Animal Husbandry department’s State Institute for Animal Diseases, the classes will focus on responsible use of antibiotics, ill-effects of use of unnecessary medicines, disease prevention, and AMR control in the animal husbandry sector. Antibiotic use only on doctors’ advice, avoiding self-medication, avoiding antibiotics’ administration to animals except on veterinarians’ prescription, and following the recommended medicine dosage and duration are critical to tackling AMR, a statement here said.",
@@ -152,58 +135,6 @@
         "Veterinary",
         "CM V.D. Satheesan",
         "One Health"
-      ],
-      "summary_method": "tfidf_extractive_full_article"
-    },
-    {
-      "id": "d526e43c7b297ccb",
-      "title": "തണുപ്പ് കാലം വരുന്നു, മാളം വിട്ട് പാമ്പുകൾ പുറത്തേക്ക്, വീടിന് സമീപത്ത് ഈ പാമ്പുകളെ സൂക്ഷിക്കണം!",
-      "summary": "ചൂട് സഹിക്കാനാകാതെ വരുമ്പോൾ പാമ്പുകൾ മാളങ്ങൾ വിട്ട് പുറത്തേക്ക് വരികയും നമ്മുടെ വീടിനകത്ത് വരെ കയറി തണുപ്പ് തേടുകയും ചെയ്യും.എന്നാൽ തണുപ്പ് കാലത്തും പാമ്പുകളെ സൂക്ഷിക്കണം. മൂർഖൻസാധാരണയായി എലിമാളങ്ങൾ, ചിതൽപ്പുറ്റുകൾ, കല്ലുകൂനകൾ എന്നിവയ്ക്കുളളിൽ മൂർഖൻ പാമ്പുകൾ ഒളിച്ചിരിക്കാറുണ്ട്. സാധനങ്ങൾ അടുക്കിവെച്ചിരിക്കുന്ന മുറികൾ, തറയോട് ചേർന്നുള്ള വിടവുകൾ തുടങ്ങി വീടുകളുടെ ഇരുണ്ട മൂലകളിലേക്ക് ഇവയ്ക്ക് നുഴഞ്ഞുകയറാൻ കഴിയും.ദിലീപിനിട്ട് അള്ള് വെച്ചു, ദിലീപിന് രാമന്‍പിള്ളയെ കിട്ടിയില്ലായിരുന്നുവെങ്കില്‍ അകത്ത് പോയേനെ 3. വരണ്ടതും മണൽ നിറഞ്ഞതും പാറക്കെട്ടുകളുള്ളതുമായ പ്രദേശങ്ങളാണ് ചുരുട്ട മണ്ഡലിക്ക് കൂടുതൽ ഇഷ്ടം.",
-      "url": "https://malayalam.oneindia.com/lifestyle/winter-is-approaching-and-snakes-are-emerging-from-their-hiding-places-beware-of-these-5-snakes-ar-604169.html",
-      "source": "Oneindia Malayalam",
-      "category": "general",
-      "published_at": "2026-11-14T07:26:32+00:00",
-      "importance": 7,
-      "personal_score": 7.25,
-      "entities": [
-        "തണുപ്പ്",
-        "കാലം",
-        "വരുന്നു",
-        "മാളം",
-        "വിട്ട്",
-        "പാമ്പുകൾ",
-        "പുറത്തേക്ക്",
-        "വീടിന്",
-        "സമീപത്ത്",
-        "പാമ്പുകളെ",
-        "സൂക്ഷിക്കണം",
-        "Winter"
-      ],
-      "summary_method": "tfidf_extractive_full_article"
-    },
-    {
-      "id": "0210dcf908c5a52f",
-      "title": "'പാലം തന്റേത് മാത്രമാണ് എന്ന് പറഞ്ഞ് ചിലർ ഇറങ്ങിയിട്ടുണ്ട്', വീണാ ജോർജിനെ പരിഹസിച്ച് അബിൻ വർക്കി",
-      "summary": "പദ്ധതിക്ക് പണം അനുവദിച്ചത് 2016ൽ കിഫ്ബിയിലൂടെ ആണെന്നും കിഫ്ബിയിലൂടെ പണം അനുവദിച്ച ഒരു പദ്ധതി അതിന് മുൻപ് അനുവദിച്ചതാണെന്ന് അവകാശപ്പെടുന്നവർ സ്വയം പരിഹാസ്യരാകുകയാണ് എന്നും വീണാ ജോർജ് കഴിഞ്ഞ ദിവസം പ്രതികരിച്ചിരുന്നു.പാലം പണിയാൻ ആദ്യം ഫണ്ട് അനുവദിക്കപ്പെട്ടത് എ ശിവദാസൻ നായർ എംഎൽഎ ആയിരിക്കുമ്പോഴാണ് എന്നാണ് അബിൻ വർക്കിയുടെ വാദം. അതുകൊണ്ടാണ് പാലം പണിയാൻ ആദ്യം ഫണ്ട് അനുവദിക്കപ്പെട്ട സമയത്തെ എം.എൽ.എ ശിവദാസൻ നായർ സാറിനെയും, പാലം പണി നടന്ന ഘട്ടത്തിലെ എംഎൽഎയായ ശ്രീമതി വീണ ജോർജിനെയും പാലം ഉദ്ഘാടനത്തിന് ക്ഷണിക്കാനുള്ള തീരുമാനം.ആഞ്ഞിലമൂട്ടിൽ കടവ് പാലത്തിന്റെ ഉത്ഘാടനം 2016ൽ അന്നത്തെ എൽ.ഡി.എഫ് സർക്കാരും അന്നത്തെ എംഎൽഎയും ചേർന്ന് നടത്തിയപ്പോൾ, ആ പാലം പണി പൂർത്തീകരിച്ച സമയത്തെ എംഎൽഎ ആയിരുന്ന ശിവദാസൻ നായർ സാറിനെ ക്ഷണിക്കുന്നതിന്റെ കാര്യത്തിലോ കേരളത്തിലെ മെട്രോ ഉൾപ്പെടെയുള്ള മറ്റ് പ്രോജക്ട് ഉദ്ഘാടനങ്ങളുടെ കാര്യത്തിലോ ഇവർ ആരും ഈ രാഷ്ട്രീയ മാന്യത കാണിച്ചിട്ടില്ല എന്നത് സാന്ദർഭികവശാൽ ഓർമിപ്പിക്കട്ടെ.പക്ഷേ ഇന്നലെ മുതൽ പാലം താൻ മാത്രമാണ്, തന്റേത് മാത്രമാണ് എന്ന് അവകാശപ്പെട്ട് ചിലർ ഇറങ്ങിയിട്ടുണ്ട്. A rough estimate for an amount of Rs 39 crore submitted to CE soil investigation got approved and submitted to DRIQ Board for general design drawing. 1.30 lakhs for supplying and fixing boundary stone along tbe side of approach road for LA has got part TS from CE on 11-02-2015 and work has arranged for fixing boundary stone.ഡ്രോയിങ്ങിനും, അതിർത്തി നിർണയിക്കുന്നതിനും, മണ്ണ് പരിശോധനയ്ക്കും എല്ലാം ആയിട്ടാണ് ഈ ഫണ്ട് അനുവദിക്കപ്പെട്ടത്.",
-      "url": "https://malayalam.oneindia.com/news/kerala/some-people-have-come-forward-claiming-that-the-bridge-belongs-only-to-them-abin-varkey-mocks-vee-604163.html",
-      "source": "Oneindia Malayalam",
-      "category": "general",
-      "published_at": "2026-11-14T06:37:15+00:00",
-      "importance": 7,
-      "personal_score": 7.25,
-      "entities": [
-        "പാലം",
-        "തന്റേത്",
-        "മാത്രമാണ്",
-        "എന്ന്",
-        "പറഞ്ഞ്",
-        "ചിലർ",
-        "ഇറങ്ങിയിട്ടുണ്ട്",
-        "വീണാ",
-        "ജോർജിനെ",
-        "പരിഹസിച്ച്",
-        "അബിൻ",
-        "വർക്കി"
       ],
       "summary_method": "tfidf_extractive_full_article"
     },
@@ -250,6 +181,58 @@
         "കണക്ക്",
         "പരസ്യമാക്കി",
         "അഖിലേഷ്"
+      ],
+      "summary_method": "tfidf_extractive_full_article"
+    },
+    {
+      "id": "d526e43c7b297ccb",
+      "title": "തണുപ്പ് കാലം വരുന്നു, മാളം വിട്ട് പാമ്പുകൾ പുറത്തേക്ക്, വീടിന് സമീപത്ത് ഈ പാമ്പുകളെ സൂക്ഷിക്കണം!",
+      "summary": "ചൂട് സഹിക്കാനാകാതെ വരുമ്പോൾ പാമ്പുകൾ മാളങ്ങൾ വിട്ട് പുറത്തേക്ക് വരികയും നമ്മുടെ വീടിനകത്ത് വരെ കയറി തണുപ്പ് തേടുകയും ചെയ്യും.എന്നാൽ തണുപ്പ് കാലത്തും പാമ്പുകളെ സൂക്ഷിക്കണം. മൂർഖൻസാധാരണയായി എലിമാളങ്ങൾ, ചിതൽപ്പുറ്റുകൾ, കല്ലുകൂനകൾ എന്നിവയ്ക്കുളളിൽ മൂർഖൻ പാമ്പുകൾ ഒളിച്ചിരിക്കാറുണ്ട്. സാധനങ്ങൾ അടുക്കിവെച്ചിരിക്കുന്ന മുറികൾ, തറയോട് ചേർന്നുള്ള വിടവുകൾ തുടങ്ങി വീടുകളുടെ ഇരുണ്ട മൂലകളിലേക്ക് ഇവയ്ക്ക് നുഴഞ്ഞുകയറാൻ കഴിയും.ദിലീപിനിട്ട് അള്ള് വെച്ചു, ദിലീപിന് രാമന്‍പിള്ളയെ കിട്ടിയില്ലായിരുന്നുവെങ്കില്‍ അകത്ത് പോയേനെ 3. വരണ്ടതും മണൽ നിറഞ്ഞതും പാറക്കെട്ടുകളുള്ളതുമായ പ്രദേശങ്ങളാണ് ചുരുട്ട മണ്ഡലിക്ക് കൂടുതൽ ഇഷ്ടം.",
+      "url": "https://malayalam.oneindia.com/lifestyle/winter-is-approaching-and-snakes-are-emerging-from-their-hiding-places-beware-of-these-5-snakes-ar-604169.html",
+      "source": "Oneindia Malayalam",
+      "category": "general",
+      "published_at": "2026-11-14T07:26:32+00:00",
+      "importance": 6,
+      "personal_score": 6.25,
+      "entities": [
+        "തണുപ്പ്",
+        "കാലം",
+        "വരുന്നു",
+        "മാളം",
+        "വിട്ട്",
+        "പാമ്പുകൾ",
+        "പുറത്തേക്ക്",
+        "വീടിന്",
+        "സമീപത്ത്",
+        "പാമ്പുകളെ",
+        "സൂക്ഷിക്കണം",
+        "Winter"
+      ],
+      "summary_method": "tfidf_extractive_full_article"
+    },
+    {
+      "id": "0210dcf908c5a52f",
+      "title": "'പാലം തന്റേത് മാത്രമാണ് എന്ന് പറഞ്ഞ് ചിലർ ഇറങ്ങിയിട്ടുണ്ട്', വീണാ ജോർജിനെ പരിഹസിച്ച് അബിൻ വർക്കി",
+      "summary": "പദ്ധതിക്ക് പണം അനുവദിച്ചത് 2016ൽ കിഫ്ബിയിലൂടെ ആണെന്നും കിഫ്ബിയിലൂടെ പണം അനുവദിച്ച ഒരു പദ്ധതി അതിന് മുൻപ് അനുവദിച്ചതാണെന്ന് അവകാശപ്പെടുന്നവർ സ്വയം പരിഹാസ്യരാകുകയാണ് എന്നും വീണാ ജോർജ് കഴിഞ്ഞ ദിവസം പ്രതികരിച്ചിരുന്നു.പാലം പണിയാൻ ആദ്യം ഫണ്ട് അനുവദിക്കപ്പെട്ടത് എ ശിവദാസൻ നായർ എംഎൽഎ ആയിരിക്കുമ്പോഴാണ് എന്നാണ് അബിൻ വർക്കിയുടെ വാദം. അതുകൊണ്ടാണ് പാലം പണിയാൻ ആദ്യം ഫണ്ട് അനുവദിക്കപ്പെട്ട സമയത്തെ എം.എൽ.എ ശിവദാസൻ നായർ സാറിനെയും, പാലം പണി നടന്ന ഘട്ടത്തിലെ എംഎൽഎയായ ശ്രീമതി വീണ ജോർജിനെയും പാലം ഉദ്ഘാടനത്തിന് ക്ഷണിക്കാനുള്ള തീരുമാനം.ആഞ്ഞിലമൂട്ടിൽ കടവ് പാലത്തിന്റെ ഉത്ഘാടനം 2016ൽ അന്നത്തെ എൽ.ഡി.എഫ് സർക്കാരും അന്നത്തെ എംഎൽഎയും ചേർന്ന് നടത്തിയപ്പോൾ, ആ പാലം പണി പൂർത്തീകരിച്ച സമയത്തെ എംഎൽഎ ആയിരുന്ന ശിവദാസൻ നായർ സാറിനെ ക്ഷണിക്കുന്നതിന്റെ കാര്യത്തിലോ കേരളത്തിലെ മെട്രോ ഉൾപ്പെടെയുള്ള മറ്റ് പ്രോജക്ട് ഉദ്ഘാടനങ്ങളുടെ കാര്യത്തിലോ ഇവർ ആരും ഈ രാഷ്ട്രീയ മാന്യത കാണിച്ചിട്ടില്ല എന്നത് സാന്ദർഭികവശാൽ ഓർമിപ്പിക്കട്ടെ.പക്ഷേ ഇന്നലെ മുതൽ പാലം താൻ മാത്രമാണ്, തന്റേത് മാത്രമാണ് എന്ന് അവകാശപ്പെട്ട് ചിലർ ഇറങ്ങിയിട്ടുണ്ട്. A rough estimate for an amount of Rs 39 crore submitted to CE soil investigation got approved and submitted to DRIQ Board for general design drawing. 1.30 lakhs for supplying and fixing boundary stone along tbe side of approach road for LA has got part TS from CE on 11-02-2015 and work has arranged for fixing boundary stone.ഡ്രോയിങ്ങിനും, അതിർത്തി നിർണയിക്കുന്നതിനും, മണ്ണ് പരിശോധനയ്ക്കും എല്ലാം ആയിട്ടാണ് ഈ ഫണ്ട് അനുവദിക്കപ്പെട്ടത്.",
+      "url": "https://malayalam.oneindia.com/news/kerala/some-people-have-come-forward-claiming-that-the-bridge-belongs-only-to-them-abin-varkey-mocks-vee-604163.html",
+      "source": "Oneindia Malayalam News",
+      "category": "general",
+      "published_at": "2026-11-14T06:37:15+00:00",
+      "importance": 6,
+      "personal_score": 6.25,
+      "entities": [
+        "പാലം",
+        "തന്റേത്",
+        "മാത്രമാണ്",
+        "എന്ന്",
+        "പറഞ്ഞ്",
+        "ചിലർ",
+        "ഇറങ്ങിയിട്ടുണ്ട്",
+        "വീണാ",
+        "ജോർജിനെ",
+        "പരിഹസിച്ച്",
+        "അബിൻ",
+        "വർക്കി"
       ],
       "summary_method": "tfidf_extractive_full_article"
     },
@@ -365,32 +348,6 @@
       "summary_method": "tfidf_extractive_full_article"
     },
     {
-      "id": "121528939f3361d8",
-      "title": "''ദിലീപിനിട്ട് അള്ള് വെച്ചു, ദിലീപിന് രാമന്‍പിള്ളയെ കിട്ടിയില്ലായിരുന്നുവെങ്കില്‍ അകത്ത് പോയേനെ''",
-      "summary": "നടിയെ ആക്രമിച്ച കേസിൽ ദിലീപ് കുറ്റക്കാരനാണെന്ന് പലരും വിശ്വസിക്കാൻ മഞ്ജു വാര്യരെ ഉപേക്ഷിച്ചതും കാവ്യാ മാധവനെ വിവാഹം കഴിച്ചതും മൂലം ആളുകൾക്കുളള ദേഷ്യം കാരണമായിട്ടുണ്ടെന്നും സജി നന്ത്യാട്ട് പറയുന്നു.നടിയെ ആക്രമിച്ച കേസിൽ കോടതി വിധിക്കെതിരെ ഹൈക്കോടതിയെ സമീപിച്ചത് പ്രഹസനം ആണെന്നും സജി നന്ത്യാട്ട് പറഞ്ഞു. കോമണ്‍സെന്‍സുളള മലയാളിക്ക് കാര്യം മനസ്സിലായിട്ടുണ്ട്.അമ്മയെ തല്ലിയാലും രണ്ട് പക്ഷം എന്ന് പറയുന്നത് പോലെ ഇത് ചെയ്തത് ദിലീപ് ആണെന്ന് ഇപ്പോഴും വിശ്വസിക്കുന്നവരുണ്ട്. അത് വായിച്ചവര്‍ക്കും അക്കാദമിക് സമൂഹത്തിനും മനസ്സിലായിട്ടുണ്ട് ഇതൊരു ട്രാപ്പ് ആയിരുന്നു എന്ന്.ദിലീപിനോട് ചെറുതായിട്ട് ഒരു വിരോധം നേരത്തെ ഉണ്ടായിരുന്നു വളര്‍ന്ന് വന്ന ഒരാള്‍ എന്ന നിലയില്‍. അങ്ങനെ ഒരു പ്രശ്‌നം നിലനില്‍ക്കുന്ന സമയത്താണ് ഈ കേസ് വരുന്നത്.പൾസർ സുനി കയറിയത് ഓട്ടോയിൽ, ആദ്യം പോയ വീട് അന്വേഷിച്ചില്ല, ദിലീപ് കേസിൽ മുഴുവൻ കള്ളത്തരമെന്ന്!കാവ്യാ മാധവനെ വിവാഹം കഴിക്കാന്‍ വേണ്ടിയിട്ടാണ് ദിലീപ് മഞ്ജു വാര്യരെ ഉപേക്ഷിച്ചത് എന്നൊരു നരേഷന്‍ വന്നു.",
-      "url": "https://malayalam.oneindia.com/movie-news/dileep-was-deliberately-trapped-had-he-not-got-raman-pillai-as-his-lawyer-he-would-have-ended-up-604159.html",
-      "source": "Oneindia Malayalam",
-      "category": "general",
-      "published_at": "2026-11-14T06:14:24+00:00",
-      "importance": 5,
-      "personal_score": 5.25,
-      "entities": [
-        "ദിലീപിനിട്ട്",
-        "അള്ള്",
-        "വെച്ചു",
-        "ദിലീപിന്",
-        "രാമന്",
-        "പിള്ളയെ",
-        "കിട്ടിയില്ലായിരുന്നുവെങ്കില്",
-        "അകത്ത്",
-        "പോയേനെ",
-        "Dileep",
-        "Raman Pillai",
-        "Says Saji Nanthyatt"
-      ],
-      "summary_method": "tfidf_extractive_full_article"
-    },
-    {
       "id": "180efc3bd31c4b8d",
       "title": "'നിഗൂഢ വിദേശി, ഭർത്താവും അമ്മായിഅമ്മയും കൊല്ലപ്പെട്ടു, എത്ര സൗകര്യപ്രദം'; സോണിയക്കെതിരെ കങ്കണ, കേസ്",
       "summary": "ഇന്ദിരാ ഗാന്ധിയുടേത് അടക്കമുളള ഗാന്ധി കുടുംബങ്ങളിലെ മരണങ്ങളില്‍ സോണിയാ ഗാന്ധിയെ സംശയമുനയില്‍ നിര്‍ത്തുന്ന തരത്തിലാണ് കങ്കണ റണാവത്തിന്റെ പ്രതികരണം. നിഗൂഢയായ വിദേശി എന്നാണ് സോഷ്യല്‍ മീഡിയ പോസ്റ്റില്‍ സോണിയാ ഗാന്ധിയെ കങ്കണ വിശേഷിപ്പിച്ചിരിക്കുന്നത്.കഴിഞ്ഞ ദിവസം സോണിയാ ഗാന്ധിയുടെ ഓര്‍മ്മക്കുറിപ്പുകള്‍ അടങ്ങിയ ബിലോഗിംഗ്- എ ജേര്‍ണി ഓഫ് ലവ് എന്ന പുസ്തകം പുറത്തിറങ്ങിയതിന് പിന്നാലെയാണ് കങ്കണ റണാവത്ത് വിവാദ പ്രതികരണവുമായി രംഗത്ത് വന്നത്. ഇന്ദിരാ ഗാന്ധിയും മറ്റുളളവരും ഭക്ഷണം കഴിക്കുന്നതും അതിനിടെ രാജീവ് ഗാന്ധിയുടെ ഭൂരിപക്ഷത്തെക്കുറിച്ചുളള ഫോണ്‍ കോള്‍ വരുന്നതുമെല്ലാം വീഡിയോയില്‍ കാണാം.ഇന്ദിരാ ഗാന്ധിയുടെ പിന്‍ഗാമിയെന്ന് കരുതപ്പെട്ട ഇളയ മകന്‍ സഞ്ജയ് ഗാന്ധി 1980ലെ വിമാന അപകടത്തില്‍ കൊല്ലപ്പെട്ടതിനെ തുടര്‍ന്നാണ് രാജീവ് ഗാന്ധി രാഷ്ട്രീയത്തിലേക്ക് ഇറങ്ങുന്നതും മത്സരിക്കുന്നതും. 1984 ഒക്ടോബറില്‍ ഇന്ദിരാ ഗാന്ധിയും 1991 മെയില്‍ രാജീവ് ഗാന്ധിയും കൊല്ലപ്പെട്ടു.കങ്കണ റണാവത്തിന്റെ കുറിപ്പ് ഇങ്ങനെ: വീഡിയോയുടെ അവസാനം എല്ലാവരും പോയപ്പോള്‍ മനേക മുറിവേറ്റ കുഞ്ഞ് ആശ്വാസം തേടുന്നത് പോലെ ഒരു നോട്ടമോ ചിരിയോ തന്റെ നേര്‍ക്ക് പ്രതീക്ഷിച്ച് ഇന്ദിരാ ഗാന്ധിയുടെ നേര്‍ക്ക് നോക്കുന്നത് കാണാം.",
@@ -443,22 +400,25 @@
       "summary_method": "tfidf_extractive_full_article"
     },
     {
-      "id": "9788463ef928051b",
-      "title": "KVASU signs MoU with UAE university for veterinary education, research",
-      "summary": "Kozhikode The Kerala Veterinary and Animal Sciences University (KVASU) at Pookode in Wayanad has signed a five-year Memorandum of Understanding (MoU) with UAE-based Gulf Medical University (GMU) to promote collaboration in veterinary education and research through its Thumbay College of Veterinary Medicine (TCVM). Students from both institutions will have opportunities to undergo clinical training and internships at their respective clinics and hospitals, subject to institutional capacity and academic requirements. The MoU provides for faculty exchanges for teaching, research and healthcare management, besides joint continuing veterinary education programmes, workshops and conferences in areas of mutual interest. Another component of the agreement is the possibility of KVASU faculty members who meet GMU’s eligibility criteria being granted adjunct faculty status at TCVM.",
-      "url": "https://www.thehindu.com/news/national/kerala/kvasu-signs-mou-with-uae-university-for-veterinary-education-research/article71701338.ece",
-      "source": "The Hindu Kerala",
+      "id": "9db10a258922c29b",
+      "title": "'വാജിവാഹനം തന്ത്രിയുടേതല്ല'; ക്ഷേത്രസ്വത്തുക്കളിൽ തന്ത്രിമാർക്ക് ഉടമസ്ഥാവകാശമില്ലെന്ന് ഹൈക്കോടതി - Manorama News",
+      "summary": "'വാജിവാഹനം തന്ത്രിയുടേതല്ല'; ക്ഷേത്രസ്വത്തുക്കളിൽ തന്ത്രിമാർക്ക് ഉടമസ്ഥാവകാശമില്ലെന്ന് ഹൈക്കോടതി Manorama News",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOT2VjWFFZRER5M1UxR0htcHloSVBEZ2NNTHNhMnF5YzJuVUsxX0U5bkhPOTljd3VKNHhjaVQzUzIzcDlwcm1fWUM5NTNoc3g4S0FYOHZFVzBObGkwR0lSTE9Zdi1Jb2ZHWWNyQTUtUTRDUElTWEtDLTFuaDNYa2U5WWMtWjFNLXRRQ2JDbmM3all5bThMV2dTV29aUFFic1lUWVdDYmJ4OVVrWF8td1dCS1ZxZW9FalRBT2NMdWRuckRqYWdHUUh2NmxramVzLThPaUVfa25NcV9NNkg2anVoYVVn0gHnAUFVX3lxTE8zTEtGTG5BdG0ycHRzdzdxQ2FNMElmZ2xPOVpsVkRPdjhHbWZ6N2NjR2NNMUxqWEJKYU5DM1F2ZEZVcmNXM0pESS1SRDVSZ1RNcTFqek14NWpVUlJKai1KYmR0TnhIWGpHZXpRU0lfS254V0lwWmVud1JhanUwT3VPZlFNOTdBTW5GakE1bVlZVnFWSm5PZWZCWUExSDF6NnZfYmt1TEZ6Wl9BQVRiczNUcGNmZGpTUkJmUHd1LUwtcVZpRjBraHZ3b0Z1YjFnUUUzZTFpZE45LVVjbldYNkZBZXpxOHFLMA?oc=5",
+      "source": "Manorama News",
       "category": "general",
-      "published_at": "2026-11-14T10:00:48+00:00",
-      "importance": 5,
-      "personal_score": 5.25,
+      "published_at": "2026-11-14T17:02:48+00:00",
+      "importance": 4,
+      "personal_score": 4.25,
       "entities": [
-        "KVASU",
-        "MoU",
-        "UAE",
-        "The MoU"
+        "വാജിവാഹനം",
+        "തന്ത്രിയുടേതല്ല",
+        "ക്ഷേത്രസ്വത്തുക്കളിൽ",
+        "തന്ത്രിമാർക്ക്",
+        "ഉടമസ്ഥാവകാശമില്ലെന്ന്",
+        "ഹൈക്കോടതി",
+        "Manorama News"
       ],
-      "summary_method": "tfidf_extractive_full_article"
+      "summary_method": "rss_fallback"
     },
     {
       "id": "ef32514625613149",
@@ -512,46 +472,47 @@
       "summary_method": "tfidf_extractive_full_article"
     },
     {
-      "id": "820dedd4e06aa033",
-      "title": "Kerala News LIVE Updates: മെസിയുടെ പേരിലെ തട്ടിപ്പ്; അബ്ദുറഹ്മാനെതിരെ ഗുരുതര വകുപ്പുകൾ ചുമത്താൻ അന്വേഷണ സംഘം - Indian Express Malayalam",
-      "summary": "Kerala News LIVE Updates: മെസിയുടെ പേരിലെ തട്ടിപ്പ്; അബ്ദുറഹ്മാനെതിരെ ഗുരുതര വകുപ്പുകൾ ചുമത്താൻ അന്വേഷണ സംഘം Indian Express Malayalam",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQYjdaWG1pQ0NmMWEtUEVBT3kxVkRxcExaQ0F6RURTWUtLbFo4cWJuLTVrNjhSNnhjN3FhaHhYVU1wNFRqT0M5WTQyVkNKV2lSOERuU1NoR0swYjllU3ZJaFkwSHpRNHdBUXpQOGo5TnZ2VnBwczNOTjlvZUd0U0pud3RBYW1sTHIzMjZobkxrVm84ZmtRVUNWTHFKVkNaZWlHOTVYLXlqS2VmeDR2X3J1UXlZWk02M2twVlowVzZ3Y3F6UEpvdlBVSkFSZHVTV3lUNVdCamNqcTVncXlzMHNZX0NXam1pemc5NHktNmlR0gHuAUFVX3lxTFBiN1pYbWlDQ2YxYS1QRUFPeTFWRHFwTFpDQXpFRFNZS0tsWjhxYm4tNWs2OFI2eGM3cWFoeFhVTXA0VGpPQzlZNDJWQ0pXaVI4RG5TU2hHSzBiOWVTdkloWTBIelE0d0FRelA4ajlOdnZWcHBzM05OOW9lR3RTSm53dEFhbWxMcjMyNmhuTGtWbzhma1FVQ1ZMcUpWQ1plaUc5NVgteWpLZWZ4NHZfcnVReVlaTTYza3BWWjBXNndjcXpQSm92UFVKQVJkdVNXeVQ1V0JqY2pxNWdxeXMwc1lfQ1dqbWl6Zzk0eS02aVE?oc=5",
-      "source": "Indian Express Malayalam",
-      "category": "general",
-      "published_at": "2026-11-14T11:35:16+00:00",
-      "importance": 4,
-      "personal_score": 4.25,
-      "entities": [
-        "മെസിയുടെ",
-        "പേരിലെ",
-        "തട്ടിപ്പ്",
-        "അബ്ദുറഹ്മാനെതിരെ",
-        "ഗുരുതര",
-        "വകുപ്പുകൾ",
-        "ചുമത്താൻ",
-        "അന്വേഷണ",
-        "സംഘം",
-        "Kerala News LIVE Updates",
-        "Indian Express Malayalam Kerala",
-        "News LIVE Updates"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
-      "id": "37de81013fefe176",
-      "title": "Sparsham to focus on children’s mental health, behavioural change: Minister",
-      "summary": "Thiruvananthapuram A new initiative ‘Sparsham’ will be implemented to monitor children’s mental health, identify behavioural changes and prevent violence involving them, Minister for Women and Child Development Bindhu Krishna has said. Early identification of violent tendencies in children and and providing them with counselling, care, and support for a safe childhood was the goal of Sparsham. Early identification, child mental health centres, parent empowerment programmes, interventions to resolve disputes in schools, and prevention of cyber bullying were the main components of the scheme, she said, calling on the public and voluntary organisations to support the government in implementing the initiative. Rally held The Minister also accompanied children in a colourful rally organised by the Kerala State Council for Child Welfare from University College to Kanakakkunnu Palace premises to mark Children’s Day.",
-      "url": "https://www.thehindu.com/news/national/kerala/sparsham-to-focus-on-childrens-mental-health-behavioural-change-minister/article71702556.ece",
+      "id": "7df78a651aea740f",
+      "title": "Synod of Jacobite Church approves steps to canonise Patriarch Ignatius Peter III",
+      "summary": "KOCHI The Episcopal Synod of the Jacobite Syrian Church on Saturday (November 14) decided to complete the procedures to canonise Patriarch Ignatius Peter III, who convened the historic Mulanthuruthy Synod in 1876. The decision was taken as Patriarch Ignatius Aphrem II, the supreme head of the Universal Syrian Orthodox Church, accepted the Jacobite Church’s request to declare Ignatius Peter III a saint. A statement by the Jacobite Syrian Church said the decision was taken at a meeting of the Episcopal Synod, chaired by Patriarch Ignatius Aphrem II, at the Marthoman Cathedral in Mulanthuruthy during the 150th anniversary celebrations of the Mulanthuruthy Synod. Hailing from Mosul, Ignatius Peter III was the Patriarch of Antioch and head of the Syriac Orthodox Church from 1872 until he died in 1894.",
+      "url": "https://www.thehindu.com/news/national/kerala/synod-of-jacobite-church-approves-steps-to-canonise-patriarch-ignatius-peter-iii/article71702870.ece",
       "source": "The Hindu Kerala",
       "category": "general",
-      "published_at": "2026-11-14T16:53:22+00:00",
+      "published_at": "2026-11-14T19:30:08+00:00",
       "importance": 4,
       "personal_score": 4.25,
       "entities": [
-        "Sparsham",
-        "Minister The"
+        "Synod",
+        "Jacobite Church",
+        "Patriarch Ignatius Peter III"
       ],
       "summary_method": "tfidf_extractive_full_article"
+    },
+    {
+      "id": "4b2dfd6de1e0d45c",
+      "title": "Kerala Rain Alert Today: ഇന്ന് കനത്ത മഴയോ ? ; കേന്ദ്ര കാലാവസ്ഥ വകുപ്പ് പറയുന്നത് ഇങ്ങനെ - Times Now Malayalam",
+      "summary": "Kerala Rain Alert Today: ഇന്ന് കനത്ത മഴയോ ? ; കേന്ദ്ര കാലാവസ്ഥ വകുപ്പ് പറയുന്നത് ഇങ്ങനെ Times Now Malayalam",
+      "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxNb2RtU0hPSE00ajBSbk56dnEyVEZuZE8yeVBId0JpdE5aQm92eWxEN1ZXcTRURHZWOENUS3lzNUpyOUpUMzJiRnNPSFk0MWFjZHVLLU00Wl9hUWlQb1VwZVVJSTN6Z2czaTYzWlBZczFDdVZKSVd5bzU0LWI5VTFmeENSZGtmcUkyLUd4VGlvU0lCSUR3UWRBbUE2Z2t4RjZfem15eDNIeGhkcVVSNGxtNUxoZVh4MllxM25pbEpQNzV5RUd4SFV4UVBjTVhDUjlKYzJiUVRpS3d2UXFhay11ZnBucElqTDZYYmR3VFB5SUlQWkpMMU1vYy1vOWs1VFNNekRkUV9rdXptNW5MbGxsNVAwTHpnXzJWSDlYemhUdjBTSExHYWNDN2cyTGnSAbICQVVfeXFMT1lZaTNVam9nMEZsQTdraWZFMHJCRVlkRGlLOTRnR25LbWQtMER1Y19yTFFCR3VxdnFHbklZWkpQMkw0R0FoU1d4V0w0QkJOMGROaW9zLUszUXdnZ2RjRU1iVXR5My1uTzU1ZlRIeHdySldoVVJVS2pKMG5qdm1UZXg5RFJWV0RzVnBoQ0tNN1ZkU2VrUmd6UVFxSTZtYUFoTGdSd3dmUWcwcm5EWWxIeUdsblBMTHd0OWI1NEo0WGZ5cUNvX1JKNHNocHllMGJublpvTHdzTWxJTFF2dmlYY2xrbGx4cE5TNHJPSzItNzNrSm9XbUd0T2lvelBRNEtMTURMcVZUMkRzVmJkb21XcTJ4X1hLU0JheTlHbW1ETC01S1U0SEdGbGMzZ25HVUxiWndn?oc=5",
+      "source": "Times Now Malayalam",
+      "category": "general",
+      "published_at": "2026-11-13T19:30:00+00:00",
+      "importance": 4,
+      "personal_score": 4.25,
+      "entities": [
+        "ഇന്ന്",
+        "കനത്ത",
+        "മഴയോ",
+        "കേന്ദ്ര",
+        "കാലാവസ്ഥ",
+        "വകുപ്പ്",
+        "പറയുന്നത്",
+        "ഇങ്ങനെ",
+        "Kerala Rain Alert Today",
+        "Times Now Malayalam Kerala",
+        "Rain Alert Today",
+        "Times Now Malayalam"
+      ],
+      "summary_method": "rss_fallback"
     },
     {
       "id": "f0b8a1bb280294a4",
@@ -606,22 +567,6 @@
       "summary_method": "tfidf_extractive_full_article"
     },
     {
-      "id": "55592a3f474218a0",
-      "title": "Four arrested for abducting, assaulting man over son’s marriage in Keralam",
-      "summary": "Kollam Four people have been arrested for allegedly abducting and assaulting a 59-year-old man here over his son’s love marriage, police said on Saturday. According to Pooyappally police, Joney, 59, a resident of Kottakkavila in Elamadu, was abducted by a four-member gang from his house on Friday night. They threatened to take him away if his son was not found and subsequently dragged him into a car, the police said. The four accused were taken to Pooyappally police station, where a case was registered and they were formally arrested, officials said.",
-      "url": "https://www.thehindu.com/news/national/kerala/four-arrested-for-abducting-assaulting-man-over-sons-marriage-in-keralam/article71702494.ece",
-      "source": "The Hindu Kerala",
-      "category": "general",
-      "published_at": "2026-11-14T15:43:09+00:00",
-      "importance": 4,
-      "personal_score": 4.25,
-      "entities": [
-        "Four",
-        "Keralam"
-      ],
-      "summary_method": "tfidf_extractive_full_article"
-    },
-    {
       "id": "3be582dae06f826a",
       "title": "Man held in Keralam for assaulting wife over dowry demands",
       "summary": "Kollam The police on Saturday (November 14, 2026) arrested a 28-year-old man here for allegedly physically assaulting his wife over dowry demands while they were in Saudi Arabia, officials said. The arrested person was identified as Nandu Dinesh of Chavara, who was detained on arrival at Thiruvananthapuram airport from Saudi Arabia, the police said. A case was registered against him by the Chavara police last month following a complaint filed by his wife, Anju, 24, a native of Neendakara here. She had more than 30 bruises and injury marks on her body, allegedly caused by assaults with a wire and hard objects, they said.",
@@ -642,49 +587,104 @@
       "summary_method": "tfidf_extractive_full_article"
     },
     {
-      "id": "9db10a258922c29b",
-      "title": "'വാജിവാഹനം തന്ത്രിയുടേതല്ല'; ക്ഷേത്രസ്വത്തുക്കളിൽ തന്ത്രിമാർക്ക് ഉടമസ്ഥാവകാശമില്ലെന്ന് ഹൈക്കോടതി - Manorama News",
-      "summary": "'വാജിവാഹനം തന്ത്രിയുടേതല്ല'; ക്ഷേത്രസ്വത്തുക്കളിൽ തന്ത്രിമാർക്ക് ഉടമസ്ഥാവകാശമില്ലെന്ന് ഹൈക്കോടതി Manorama News",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOT2VjWFFZRER5M1UxR0htcHloSVBEZ2NNTHNhMnF5YzJuVUsxX0U5bkhPOTljd3VKNHhjaVQzUzIzcDlwcm1fWUM5NTNoc3g4S0FYOHZFVzBObGkwR0lSTE9Zdi1Jb2ZHWWNyQTUtUTRDUElTWEtDLTFuaDNYa2U5WWMtWjFNLXRRQ2JDbmM3all5bThMV2dTV29aUFFic1lUWVdDYmJ4OVVrWF8td1dCS1ZxZW9FalRBT2NMdWRuckRqYWdHUUh2NmxramVzLThPaUVfa25NcV9NNkg2anVoYVVn0gHnAUFVX3lxTE8zTEtGTG5BdG0ycHRzdzdxQ2FNMElmZ2xPOVpsVkRPdjhHbWZ6N2NjR2NNMUxqWEJKYU5DM1F2ZEZVcmNXM0pESS1SRDVSZ1RNcTFqek14NWpVUlJKai1KYmR0TnhIWGpHZXpRU0lfS254V0lwWmVud1JhanUwT3VPZlFNOTdBTW5GakE1bVlZVnFWSm5PZWZCWUExSDF6NnZfYmt1TEZ6Wl9BQVRiczNUcGNmZGpTUkJmUHd1LUwtcVZpRjBraHZ3b0Z1YjFnUUUzZTFpZE45LVVjbldYNkZBZXpxOHFLMA?oc=5",
-      "source": "Manorama News",
+      "id": "6e6b353aa68074a8",
+      "title": "Gold theft: Four arrested in Wayanad",
+      "summary": "Thiruvananthapuram Four persons have been arrested in Wayanad in connection with the snatching of gold from a jewellery trader in Chala late Thursday. The team that made the arrests recovered a gold bar weighing less than half a kg from one of the arrested persons. The Fort circle inspector who is investigating the case will have to question the accused in Wayanad and complete relevant procedures before the recovery of the remaining gold. He was headed for home on his scooter when two men on a motorcycle allegedly intercepted him and snatched his bag containing the gold before fleeing the scene.",
+      "url": "https://www.thehindu.com/news/national/kerala/gold-theft-four-arrested-in-wayanad/article71702838.ece",
+      "source": "The Hindu Kerala",
       "category": "general",
-      "published_at": "2026-11-14T17:02:48+00:00",
+      "published_at": "2026-11-14T17:51:32+00:00",
       "importance": 4,
       "personal_score": 4.25,
       "entities": [
-        "വാജിവാഹനം",
-        "തന്ത്രിയുടേതല്ല",
-        "ക്ഷേത്രസ്വത്തുക്കളിൽ",
-        "തന്ത്രിമാർക്ക്",
-        "ഉടമസ്ഥാവകാശമില്ലെന്ന്",
-        "ഹൈക്കോടതി",
-        "Manorama News"
+        "Gold",
+        "Four",
+        "Wayanad"
+      ],
+      "summary_method": "tfidf_extractive_full_article"
+    },
+    {
+      "id": "55592a3f474218a0",
+      "title": "Four arrested for abducting, assaulting man over son’s marriage in Keralam",
+      "summary": "Kollam Four people have been arrested for allegedly abducting and assaulting a 59-year-old man here over his son’s love marriage, police said on Saturday. According to Pooyappally police, Joney, 59, a resident of Kottakkavila in Elamadu, was abducted by a four-member gang from his house on Friday night. They threatened to take him away if his son was not found and subsequently dragged him into a car, the police said. The four accused were taken to Pooyappally police station, where a case was registered and they were formally arrested, officials said.",
+      "url": "https://www.thehindu.com/news/national/kerala/four-arrested-for-abducting-assaulting-man-over-sons-marriage-in-keralam/article71702494.ece",
+      "source": "The Hindu Kerala",
+      "category": "general",
+      "published_at": "2026-11-14T15:43:09+00:00",
+      "importance": 4,
+      "personal_score": 4.25,
+      "entities": [
+        "Four",
+        "Keralam"
+      ],
+      "summary_method": "tfidf_extractive_full_article"
+    },
+    {
+      "id": "6089cac2102512bd",
+      "title": "പ്രവാസികൾ പ്രതിഷേധിച്ചു - Deshabhimani",
+      "summary": "പ്രവാസികൾ പ്രതിഷേധിച്ചു Deshabhimani",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPLUF5QmdIcUN3UWI3b3FFejdjbkRmLUk4bUhXYmg2VUJKb3p0TWFWYVJ6LW1rYzMtNFZBdzRab3NsM3A2YlJpV3l1Tjd1U3Y5Z2JmcWtZUFJYUldBb1QxU0N3T0xWUmpXS2F2VGhDLWtNME5vOEhuZmxyTi1NS1ZCR2hB?oc=5",
+      "source": "Deshabhimani",
+      "category": "general",
+      "published_at": "2026-11-14T20:12:20+00:00",
+      "importance": 3,
+      "personal_score": 3.25,
+      "entities": [
+        "പ്രവാസികൾ",
+        "പ്രതിഷേധിച്ചു",
+        "Deshabhimani"
       ],
       "summary_method": "rss_fallback"
     },
     {
-      "id": "9e0c95e0c1101ae9",
-      "title": "ഐഐടിഎഫ് 2026; ആഘോഷങ്ങൾ മുതൽ കലാപരിപാടികൾ വരെ, ഇന്ത്യയുടെ വൈവിധ്യങ്ങളിലൂടെയുള്ള ഒരു യാത്ര",
-      "summary": "വിവിധ സംസ്ഥാനങ്ങളുടെ പവലിയനുകളിൽ പ്രാദേശിക ഉൽപ്പന്നങ്ങൾ, കരകൗശല വസ്തുക്കൾ, കൈത്തറി ഉൽപ്പന്നങ്ങൾ, തുണിത്തരങ്ങൾ, ഭക്ഷ്യവസ്‌തുക്കൾ, പരമ്പരാഗത ഉൽപ്പന്നങ്ങൾ എന്നിവ പ്രദർശിപ്പിക്കും. ഹാളുകൾ 2, 3, 4, 5 എന്നിവയുടെ താഴത്തെ നിലയിൽ പങ്കാളി സംസ്ഥാനങ്ങൾ, പ്രത്യേക ശ്രദ്ധ ലഭിക്കുന്ന സംസ്ഥാനങ്ങൾ, കേന്ദ്ര സർക്കാർ മന്ത്രാലയങ്ങൾ, വിവിധ വകുപ്പുകൾ, പൊതുമേഖലാ സ്ഥാപനങ്ങൾ, പൊതുമേഖലാ ബാങ്കുകൾ എന്നിവയുടെ പ്രദർശനങ്ങൾ ഉണ്ടായിരിക്കും. ഹാളുകൾ 12, 12A എന്നിവയിൽ സംസ്‌കരിച്ച ഭക്ഷ്യവസ്‌തുക്കൾ, പാനീയങ്ങൾ, സുഗന്ധവ്യഞ്ജനങ്ങൾ, കാർഷിക ഉൽപ്പന്നങ്ങൾ, കരകൗശല വസ്‌തുക്കൾ, വീട്ടുപകരണങ്ങൾ, ഫർണിച്ചറുകൾ, വിവിധ ഉൽപ്പന്നങ്ങൾ എന്നിവ ഉണ്ടായിരിക്കും. സാംസ്‌കാരിക ആഘോഷങ്ങൾ, സംസ്ഥാനങ്ങളുടെ പവലിയനുകൾ, വിദേശ രാജ്യങ്ങളുടെ പങ്കാളിത്തം, പുതിയ സാങ്കേതികവിദ്യകൾ, ഷോപ്പിങ്, ഭക്ഷണം, വിനോദം തുടങ്ങി നിരവധി കാര്യങ്ങൾ ഒരുമിച്ച് അനുഭവിക്കാനുള്ള അവസരമാണ് ഐഐടിഎഫ് 2026.",
-      "url": "https://malayalam.oneindia.com/partner-content/iitf-2026-from-celebrations-to-cultural-performances-a-journey-through-indias-diversity-604175.html",
+      "id": "e7d846a039b613a2",
+      "title": "'1 കോടി വീതം നഷ്ടപരിഹാരം നൽകണം';ഷാജന്‍ സ്‌കറിയയ്‌ക്കെതിരെ നിയമനടപടികളുമായി കെകെ ശൈലജയും വീണ ജോർജും",
+      "summary": "ഒരു കോടി രൂപ വീതം നഷ്ടപരിഹാരം ആവശ്യപ്പെട്ട്‌ ഇരുവരും അഡ്വ എ രാജേഷ്‌ മുഖേന ഷാജന്‍ സ്‌കറിയയ്‌ക്ക്‌ വക്കീല്‍ നോട്ടീസ്‌ അയച്ചു.അപകീര്‍ത്തികരമായ വീഡിയോ പിന്‍വലിച്ച്‌ പരസ്യമായി മാപ്പ്‌ പറയണമെന്നും, വീഡിയോ എല്ലാ പ്ലാറ്റ്‌ഫോമില്‍ നിന്നും നീക്കം ചെയ്യണമെന്നും, ഇത്തരത്തിലുള്ള പ്രചരണം ഇനി മേലില്‍ നടത്തില്ല എന്ന്‌ രേഖാമൂലം ഉറപ്പ്‌ നല്‍കണമെന്നും ഇരുവരും വക്കീല്‍ നോട്ടീസില്‍ ആവശ്യപ്പെട്ടു. നവംബര്‍ 6 ന്‌ മറുനാടന്‍ മലയാളി പ്രസിദ്ധീകരിച്ച 3000 കോടി കട്ട്‌ വീണയും ശൈലജയും എന്ന വ്യാജവാര്‍ത്തയ്‌ക്ക്‌ എതിരെയാണ്‌ നിയമനടപടി സ്വീകരിച്ചിരിക്കുന്നത്‌.ഭാരതീയ ന്യായ സംഹിത 2023-ലെ വകുപ്പ്‌ 356 പ്രകാരമുള്ള അപകീര്‍ത്തിക്കുറ്റത്തിന്റെ പരിധിയില്‍ വരുന്നതാണ്‌ ഈ പ്രവൃത്തികള്‍. കളങ്കരഹിതമായും സംശുദ്ധമായും പൊതുപ്രവര്‍ത്തനം നടത്തുന്ന വനിതാ നേതാക്കള്‍ക്കെതിരെ, വ്യാജവും അടിസ്ഥാനരഹിതവുമായ ആരോപണങ്ങളാണ്‌ ഉന്നയിക്കപ്പെട്ടത്‌. നേതാക്കളുടെയും സി പി എമ്മിന്റെയും പ്രതിച്ഛായ തകര്‍ക്കാനുള്ള ബോധപൂര്‍വമായ ശ്രമമാണ്‌ നടന്നിരിക്കുന്നത്‌.പാര്‍ട്ടിക്കെതിരെയും വനിതാ നേതാക്കള്‍ക്ക്‌ എതിരെയും ഉയരുന്ന വ്യാജവര്‍ത്തകള്‍ക്കും അപകീര്‍ത്തികരമായ പ്രചരണങ്ങള്‍ക്കുമെതിരെ ശക്തമായ നിയമപോരാട്ടം തുടരുമെന്ന്‌ കെ.കെ ശൈലജ ടീച്ചര്‍ പറഞ്ഞു.",
+      "url": "https://malayalam.oneindia.com/news/kerala/rs-1-crore-each-in-compensation-kk-shailaja-and-veena-george-take-legal-action-against-shajan-ska-604241.html",
       "source": "Oneindia Malayalam",
       "category": "general",
-      "published_at": "2026-11-14T08:13:29+00:00",
+      "published_at": "2026-11-14T18:50:37+00:00",
       "importance": 3,
       "personal_score": 3.25,
       "entities": [
-        "ഐഐടിഎഫ്",
-        "ആഘോഷങ്ങൾ",
-        "മുതൽ",
-        "കലാപരിപാടികൾ",
-        "വരെ",
-        "ഇന്ത്യയുടെ",
-        "വൈവിധ്യങ്ങളിലൂടെയുള്ള",
-        "ഒരു",
-        "യാത്ര",
-        "IITF",
-        "From Celebrations To Cultural",
-        "Performances A Journey Through"
+        "കോടി",
+        "വീതം",
+        "നഷ്ടപരിഹാരം",
+        "നൽകണം",
+        "ഷാജന്",
+        "കറിയയ്",
+        "ക്കെതിരെ",
+        "നിയമനടപടികളുമായി",
+        "കെകെ",
+        "ശൈലജയും",
+        "വീണ",
+        "ജോർജും"
+      ],
+      "summary_method": "tfidf_extractive_full_article"
+    },
+    {
+      "id": "880bb57ea816121f",
+      "title": "ബിജെപി ഭരണത്തിന് കീഴിൽ രാജ്യത്ത് ജനാധിപത്യം ഇല്ലാതായി;രൂക്ഷവിമർശനവുമായി രാഹുൽ ഗാന്ധി",
+      "summary": "മോദി ഭരണകുടം തിരഞ്ഞെടുപ്പ് സംവിധാനങ്ങളെ അട്ടിമറിച്ചു, രാഷ്ട്രീയ സംവിധാനത്തെ ദുർബലപ്പെടുത്തി, സാമ്പത്തിക ശക്തി ഉപയോഗിച്ച് പ്രതിപക്ഷത്തെ ദുർബലപ്പെടുത്താനാണ് സർക്കാർ ശ്രമിക്കുന്നു, രാഹുൽ കുറ്റപ്പെടുത്തി. 2014ൽ ബിജെപി അധികാരത്തിൽ ഏറിയതോടെ ജനാധിപത്യ സംവിധാനങ്ങളെ ദുർബലമാക്കി,രാഹുൽ ഗാന്ധി ആരോപിച്ചു.വൻകിട ബിസിനസുകാരുമായി ചേർന്ന് ബിജെപി നേട്ടമുണ്ടാക്കുകയാണെന്നും രാഹുൽ കുറ്റപ്പെടുത്തി. ഇതോടെ അവരുമായി സാമ്പത്തികമായി പിടിച്ച് നിൽക്കാൻ മറ്റ് പാർട്ടികൾക്ക് സാധിക്കാതെയായി.2014 ലെ ലോക്സഭ തിരഞ്ഞെടുപ്പിൽ ദശലക്ഷക്കണക്കിന് ഫണ്ടാണ് ബിജെപി തിരഞ്ഞെടുപ്പ് സംവിധാനങ്ങളിലേക്ക് ഒഴുക്കിയത്. സമ്പത്ത് ഉപയോഗിച്ച് അവർ തിരഞ്ഞെടുപ്പിനെ നേരിട്ടപ്പോൾ ജനാധിപത്യ പ്രക്രിയകളിൽ ഉറച്ചുനിൽക്കുന്ന പാർട്ടികൾ മത്സരിക്കാൻ വളരെയേറെ പ്രയാസപ്പെട്ടു.ബി ജെ പിയെ നേരിടാൻ തുടക്കത്തിൽ പ്രതിപക്ഷത്തിന് സാധിച്ചിരുന്നില്ല.",
+      "url": "https://malayalam.oneindia.com/news/kerala/rahul-gandhi-strongly-criticises-bjp-says-democracy-has-disappeared-in-the-country-under-bjp-rule-604239.html",
+      "source": "Oneindia Malayalam",
+      "category": "general",
+      "published_at": "2026-11-14T18:45:26+00:00",
+      "importance": 3,
+      "personal_score": 3.25,
+      "entities": [
+        "ബിജെപി",
+        "ഭരണത്തിന്",
+        "കീഴിൽ",
+        "രാജ്യത്ത്",
+        "ജനാധിപത്യം",
+        "ഇല്ലാതായി",
+        "രൂക്ഷവിമർശനവുമായി",
+        "രാഹുൽ",
+        "ഗാന്ധി",
+        "Rahul Gandhi Strongly Criticises",
+        "BJP",
+        "Says Democracy Has Disappeared"
       ],
       "summary_method": "tfidf_extractive_full_article"
     },
@@ -715,165 +715,23 @@
       "summary_method": "tfidf_extractive_full_article"
     },
     {
-      "id": "d2cfd1ea1678c652",
-      "title": "Exclusive CNN News18 'കേരളത്തിന്റെ വികസനത്തിനായി വ്യക്തമായ പദ്ധതികളുണ്ട്'; മുഖ്യമന്ത്രി വിഡി സതീശൻ - News18 Malayalam",
-      "summary": "Exclusive CNN News18 'കേരളത്തിന്റെ വികസനത്തിനായി വ്യക്തമായ പദ്ധതികളുണ്ട്'; മുഖ്യമന്ത്രി വിഡി സതീശൻ News18 Malayalam",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQYUFaLUJLZ25pYzNXeHAzMFVNYnBYbllPM2dpZ2R5NEgwdkpWNGFhNmtjWlgzWEQtOXlBMTFuTEJETkdoak9ZcGFuRk40Q1UyUk9xX2RFTkZTRzQtNFBSUTJhRHhzUW1hUElHd21HN2xSaHYwT2E3QmZrWmpCYy03MGI5VGs1bU1YS21hWE0xUkMtWUloLS1DQXZycmt1RUxHRklkZEx4OEluWXdmTlFKYi1SaDYwbkhhUzZUN1BoQU9TR053SVhxYnE3RklYS01yNUJMN0swWUd1SnJ1Nk5fSjdIVTdYTU82aHo4?oc=5",
-      "source": "News18 Malayalam",
-      "category": "general",
-      "published_at": "2026-11-14T16:52:43+00:00",
-      "importance": 3,
-      "personal_score": 3.25,
-      "entities": [
-        "കേരളത്തിന്റെ",
-        "വികസനത്തിനായി",
-        "വ്യക്തമായ",
-        "പദ്ധതികളുണ്ട്",
-        "മുഖ്യമന്ത്രി",
-        "വിഡി",
-        "സതീശൻ",
-        "Exclusive CNN News18",
-        "News18 Malayalam Exclusive CNN",
-        "News18",
-        "News18 Malayalam"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
-      "id": "fcc918ee204a9ce8",
-      "title": "എസ്‌സിഒ ഉച്ചകോടി; പാക്ക് കാലാവസ്‌ഥാ മന്ത്രി ഇന്ത്യയിലെത്തും - Malabar News",
-      "summary": "എസ്‌സിഒ ഉച്ചകോടി; പാക്ക് കാലാവസ്‌ഥാ മന്ത്രി ഇന്ത്യയിലെത്തും Malabar News",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAtVnpfMWNZUHZKZlpHYmkydThsQ0pGS243eno2ekRpWkhjSm9yTEIzVlc5TTEzUFQ0ZVA3OElzcGJFSl9HOVFUU2YxMkxDQktVeXhWSUhmdFJNby0zcEE5VFJITi11MUpFWjRmSkZBNVJDcGZIQnktTHEwMlFBdw?oc=5",
-      "source": "Malabar News",
-      "category": "general",
-      "published_at": "2026-11-14T16:58:44+00:00",
-      "importance": 3,
-      "personal_score": 3.25,
-      "entities": [
-        "എസ്",
-        "സിഒ",
-        "ഉച്ചകോടി",
-        "പാക്ക്",
-        "കാലാവസ്",
-        "മന്ത്രി",
-        "ഇന്ത്യയിലെത്തും",
-        "Malabar News"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
-      "id": "1ce716988bb389f0",
-      "title": "കുതിച്ചുയർന്ന് സാങ്കേതിക ലോകം; 2.5 മടങ്ങ് വേഗതയുമായി ഗൂഗിളിന്റെ 'ജെമിനി 4 ഹൈഡ്രജൻ' വിപണിയിൽ - Express Kerala",
-      "summary": "കുതിച്ചുയർന്ന് സാങ്കേതിക ലോകം; 2.5 മടങ്ങ് വേഗതയുമായി ഗൂഗിളിന്റെ 'ജെമിനി 4 ഹൈഡ്രജൻ' വിപണിയിൽ Express Kerala",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNODJ4R3lVdUVSY0pOZVVZYUlJU2d3VjhQOGNfVFpoQjdqU0dJMl9SYXE0ZFEzbEdnZmx0ZzRJVDlGbmc0NG1JMGFPUGtMZU95dXJTTHZIemZONFByTzJPLXpzR253NEhRdGdWa1lkUnNaTGJvTjhlcUdNRENTWlBoaHVXVFh3QTlmUF9oTWZsQnVKUTVfRll6dTlxRHBGLUdrU1h1ZmFKVTlTWmlzT2QzakJ2M2g3djM3Q0dtbnRxUFFSNzc4QnA5VjdMcjM4UGJpTFg4bUNuRWFKaF9iT3FHM1VsOA?oc=5",
-      "source": "Express Kerala",
-      "category": "general",
-      "published_at": "2026-11-14T12:50:50+00:00",
-      "importance": 3,
-      "personal_score": 3.25,
-      "entities": [
-        "കുതിച്ചുയർന്ന്",
-        "സാങ്കേതിക",
-        "ലോകം",
-        "മടങ്ങ്",
-        "വേഗതയുമായി",
-        "ഗൂഗിളിന്റെ",
-        "ജെമിനി",
-        "ഹൈഡ്രജൻ",
-        "വിപണിയിൽ",
-        "Express Kerala"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
-      "id": "1a1c3f806aafbc63",
-      "title": "പിഎം കിസാൻ: കേരളത്തിൽ നിന്ന് 6.7 ലക്ഷം പേർ പുറത്ത് - PM Kisan Kerala drop | PM kisan Kerala - Manorama Online",
-      "summary": "പിഎം കിസാൻ: കേരളത്തിൽ നിന്ന് 6.7 ലക്ഷം പേർ പുറത്ത് - PM Kisan Kerala drop | PM kisan Kerala Manorama Online",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNWJjaXo4eG0yOE43am9yT25jZjJpM0ZJZXlRQmRFTExiTEFhNzdUVXdZdzNCTjNjMG56eV9TRUg5MGFOS1BQNmtDOHM5QW40ZjliMWtmQzFWZXAtcWZhSjhHbVRsMDBOUzN5WXRVRHZkQzZmQjNkbjM0aUlRU05ZOFB2SzlEOGtqcHhJQ2VwTkpzeVh0WFdaOEg0MWs1NnhLa1ZXNTdiVUdkbFpm?oc=5",
-      "source": "Manorama Online",
-      "category": "general",
-      "published_at": "2026-11-14T03:05:20+00:00",
-      "importance": 3,
-      "personal_score": 3.25,
-      "entities": [
-        "പിഎം",
-        "കിസാൻ",
-        "കേരളത്തിൽ",
-        "നിന്ന്",
-        "ലക്ഷം",
-        "പേർ",
-        "പുറത്ത്",
-        "PM Kisan Kerala",
-        "Manorama Online",
-        "Kerala Manorama Online"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
-      "id": "2b774fa6ce1d329a",
-      "title": "ചാലയിലെ സ്വർണക്കവർച്ച; ആറ് പേർ പിടിയിൽ, പ്രതികളെ പിടികൂടിയത് വയനാട്ടിൽ നിന്ന് - Kerala Kaumudi",
-      "summary": "ചാലയിലെ സ്വർണക്കവർച്ച; ആറ് പേർ പിടിയിൽ, പ്രതികളെ പിടികൂടിയത് വയനാട്ടിൽ നിന്ന് Kerala Kaumudi",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPV3I0ZjcyMG5zZVQ1cDZiNGl3Y3JmMzVFQUdFZERIalVtOV9Oa01kRFEwUnlPVFlvOVBLOHJydkpFa0xoNUtMWk5VT0h4Z3NUSDJQa1ZyUW9aN3NlMllveXdMRUNBUWc5Rk8xalFpT0YwNV9FeklwQVZpNFJNY2w2R3hESWYxbGlfZUkwaWZyZFg?oc=5",
+      "id": "6a5feeac6aac1002",
+      "title": "'നീറ്റ്' പരീക്ഷ നീറ്റാക്കാൻ കേരള മോഡൽ തേടി കേന്ദ്രം - Kerala Kaumudi",
+      "summary": "'നീറ്റ്' പരീക്ഷ നീറ്റാക്കാൻ കേരള മോഡൽ തേടി കേന്ദ്രം Kerala Kaumudi",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBmZm9EWjNIbGJsT1oxYVNEcm5Ub2pQRnJsaDlPaUQtNkt3R1RVT3hRcFhaNjNnRUJZZ3lLQV9OTHZiMExkdjRuZDFiVVlJMEJUVGpUWGJ0b2pxZlVlZ3djS1pvNzA?oc=5",
       "source": "Kerala Kaumudi",
       "category": "general",
-      "published_at": "2026-11-14T14:46:36+00:00",
+      "published_at": "2026-11-14T19:55:07+00:00",
       "importance": 3,
       "personal_score": 3.25,
       "entities": [
-        "ചാലയിലെ",
-        "സ്വർണക്കവർച്ച",
-        "ആറ്",
-        "പേർ",
-        "പിടിയിൽ",
-        "പ്രതികളെ",
-        "പിടികൂടിയത്",
-        "വയനാട്ടിൽ",
-        "നിന്ന്",
-        "Kerala Kaumudi"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
-      "id": "2a5aa08737e00643",
-      "title": "ഷൊർണൂരിൽ ഗുഡ്‌സ് ട്രെയിൻ പാളംതെറ്റി,​ ട്രെയിനുകൾ വൈകിയോടുന്നു - Kerala Kaumudi",
-      "summary": "ഷൊർണൂരിൽ ഗുഡ്‌സ് ട്രെയിൻ പാളംതെറ്റി,​ ട്രെയിനുകൾ വൈകിയോടുന്നു Kerala Kaumudi",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQYWRveGtZUjJodmRSUDV5VjJTdVJzVW9YRnJncnRiOXpBRXAwQU5QOHJFTWVzTHRqNnEzYlVJSlJWSmNwOTE4OTVTOFdtLWtaTVNOSVd0dWNRV3hBU0hmZFlGNnVEVU5hN2hSQmQ3V0VOejZPbXgyQ3RnSlpIVzNUVGJSemF3UFFwTTNjSg?oc=5",
-      "source": "Kerala Kaumudi",
-      "category": "general",
-      "published_at": "2026-11-14T16:58:04+00:00",
-      "importance": 3,
-      "personal_score": 3.25,
-      "entities": [
-        "ഷൊർണൂരിൽ",
-        "ഗുഡ്",
-        "ട്രെയിൻ",
-        "പാളംതെറ്റി",
-        "ട്രെയിനുകൾ",
-        "വൈകിയോടുന്നു",
-        "Kerala Kaumudi"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
-      "id": "7a863e7c6360193b",
-      "title": "സ്കൂളുകളിൽ ബാലഗോകുലത്തിന്റെ സ്കോളർഷിപ്പ് പരീക്ഷ; നിറുത്തിവയ്ക്കാൻ നിർദ്ദേശിച്ച് ​ മന്ത്രി,​ റിപ്പോർട്ട് തേടും - Kerala Kaumudi",
-      "summary": "സ്കൂളുകളിൽ ബാലഗോകുലത്തിന്റെ സ്കോളർഷിപ്പ് പരീക്ഷ; നിറുത്തിവയ്ക്കാൻ നിർദ്ദേശിച്ച് ​ മന്ത്രി,​ റിപ്പോർട്ട് തേടും Kerala Kaumudi",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZkZMTnhZa3hQTExaS3FYTk5RTWptTlRsRmpCSlhjQVM2d0lfX1k0ajZHNHZ0cThOd2Ytc20tRGVDR2NKVk03eEVoZzRBUzlEUlZVaXYtU09SWVNRTU1zUWdldDdMNWMxQURSSklGTnc5R3NiRnB2VFNZcDFWTUp5YzlVX29mV2h2ZVczN3pzMjBoLWxTdXhpTGtoSQ?oc=5",
-      "source": "Kerala Kaumudi",
-      "category": "general",
-      "published_at": "2026-11-14T14:29:25+00:00",
-      "importance": 3,
-      "personal_score": 3.25,
-      "entities": [
-        "സ്കൂളുകളിൽ",
-        "ബാലഗോകുലത്തിന്റെ",
-        "സ്കോളർഷിപ്പ്",
+        "നീറ്റ്",
         "പരീക്ഷ",
-        "നിറുത്തിവയ്ക്കാൻ",
-        "നിർദ്ദേശിച്ച്",
-        "മന്ത്രി",
-        "റിപ്പോർട്ട്",
-        "തേടും",
+        "നീറ്റാക്കാൻ",
+        "കേരള",
+        "മോഡൽ",
+        "തേടി",
+        "കേന്ദ്രം",
         "Kerala Kaumudi"
       ],
       "summary_method": "rss_fallback"
@@ -905,23 +763,139 @@
       "summary_method": "tfidf_extractive_full_article"
     },
     {
-      "id": "5b937a46a52a5804",
-      "title": "ക്ഷേത്രസ്വത്തുക്കളിൽ തന്ത്രിമാർക്ക് ഉടമസ്ഥാവകാശമില്ല, സുപ്രധാന ഉത്തരവുമായി ഹൈക്കോടതി - Asianet News Malayalam",
-      "summary": "ക്ഷേത്രസ്വത്തുക്കളിൽ തന്ത്രിമാർക്ക് ഉടമസ്ഥാവകാശമില്ല, സുപ്രധാന ഉത്തരവുമായി ഹൈക്കോടതി Asianet News Malayalam",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOeVF0NEJpZzJnYnhleUNDUEJGTW42SEN1SnQ3Mngzb29NSGk3d3RwM3Zualltd1hWcFdNVkYyU2g1ODlhUlJoSmd0RFFfSF9paWRCd3VzN2tyVmxfRFFjVS0yREdGWlJWTG1VRFZQV2o5NTE3aVg1RzVlVk1ZSC04aWkteDNBX25nUy16ZVFyT3d3cFVSWnhuN0YxQ0ZFdXY5U1RUb2NYUGo0MXFuY2FXX2M2N3ZaSGdRT3Znc3RJdWxmalZ5NkxEb3pOS00xQdIB0wFBVV95cUxQdnF6QlR0eF9GVWhLbHBidFNMTkFNUWd0Q2Mwd2tPYWV1bVZMQzZ0dmE5U09QZnd1X3JGVXhGM3RUNmZzdmY0TkEyNWFaMG1CUloxX2NlRlNObXNEUzQ5UUdFTzFxMEs1NnpERDBpRldualJINFNDRUR0MU9qYUpHTlBmcmFrMDY5WTBzbjJjWjFJTXphME9ZbXRURmE0bW5UWWhTR1RobG9oLUs0MlJkX29TRnZmY1NUZHVfTEJnT0lKMV90Z1kwSG1pWW9BS2VHemZF?oc=5",
-      "source": "Asianet News Malayalam",
+      "id": "fcc918ee204a9ce8",
+      "title": "എസ്‌സിഒ ഉച്ചകോടി; പാക്ക് കാലാവസ്‌ഥാ മന്ത്രി ഇന്ത്യയിലെത്തും - Malabar News",
+      "summary": "എസ്‌സിഒ ഉച്ചകോടി; പാക്ക് കാലാവസ്‌ഥാ മന്ത്രി ഇന്ത്യയിലെത്തും Malabar News",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAtVnpfMWNZUHZKZlpHYmkydThsQ0pGS243eno2ekRpWkhjSm9yTEIzVlc5TTEzUFQ0ZVA3OElzcGJFSl9HOVFUU2YxMkxDQktVeXhWSUhmdFJNby0zcEE5VFJITi11MUpFWjRmSkZBNVJDcGZIQnktTHEwMlFBdw?oc=5",
+      "source": "Malabar News",
       "category": "general",
-      "published_at": "2026-11-14T17:10:42+00:00",
+      "published_at": "2026-11-14T16:58:44+00:00",
       "importance": 3,
       "personal_score": 3.25,
       "entities": [
-        "ക്ഷേത്രസ്വത്തുക്കളിൽ",
-        "തന്ത്രിമാർക്ക്",
-        "ഉടമസ്ഥാവകാശമില്ല",
-        "സുപ്രധാന",
-        "ഉത്തരവുമായി",
-        "ഹൈക്കോടതി",
+        "എസ്",
+        "സിഒ",
+        "ഉച്ചകോടി",
+        "പാക്ക്",
+        "കാലാവസ്",
+        "മന്ത്രി",
+        "ഇന്ത്യയിലെത്തും",
+        "Malabar News"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
+      "id": "f72f005dd89408d3",
+      "title": "ഓപ്പറേഷൻ സിന്ദൂറിന് ശേഷം ആദ്യമായി പാക് മന്ത്രി ഇന്ത്യയിലേക്ക്; എസ്‌സി‌ഒ സമ്മേളനത്തിൽ പങ്കെടുക്കും - Asianet News Malayalam",
+      "summary": "ഓപ്പറേഷൻ സിന്ദൂറിന് ശേഷം ആദ്യമായി പാക് മന്ത്രി ഇന്ത്യയിലേക്ക്; എസ്‌സി‌ഒ സമ്മേളനത്തിൽ പങ്കെടുക്കും Asianet News Malayalam",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOeHI0VjhoVkRjX3kyWjE3WlBIVm9hUnh5SWJyU0FsLWphYWhBY01KRGhKaXFBbmxrd3RJdWQ2WXBuWEFGa3JfQmFfVDJpWmxsb2t6aU1jSmRYODdJbHdkdHlmSGJiNWNTRmFfeVcxeklWVUFHNlFoTUp1RURzaTlaV3B6VHk3cUVGYnpVT0Z5OEtWdUF3bm5FZ1FjdEd2QVBFQ2tKdFVlZ3RjTXNGYUk1VkFPOHFHbGxGYktEMTlpaEJfOWFaaE1taXBwbVMtLU52dnVPMlphU3FEVUtYaVHSAeMBQVVfeXFMUERLOEdSZk9jM1RXT3lUSWFFNnRaS2stZnphTF94TjNOUFpuZlExdng5aDBpTzEzY2JtUXd1ZU1ITHduMm43SFZnU1B2aE9aNEFXTUdLOG82TW02R1JwQ2J1WDZkUkV5clJGRXdHTVRSaDZJZjZ5SUI5aWtjSUg2VE44X242RTF1Sk4wRGxEcGg2T3NkX2RfSm9ZaEN2YVVDT2tNMTdMRkU0ekxjVVQ3dDhtZFNrM3lnY195aVRQLTJDNUpIYVZieFlxOUhxc0I2eF9sbGtRUnlzSVk4eC1Vek0tOGs?oc=5",
+      "source": "Asianet News Malayalam",
+      "category": "general",
+      "published_at": "2026-11-14T18:54:31+00:00",
+      "importance": 3,
+      "personal_score": 3.25,
+      "entities": [
+        "ഓപ്പറേഷൻ",
+        "സിന്ദൂറിന്",
+        "ശേഷം",
+        "ആദ്യമായി",
+        "പാക്",
+        "മന്ത്രി",
+        "ഇന്ത്യയിലേക്ക്",
+        "എസ്",
+        "സമ്മേളനത്തിൽ",
+        "പങ്കെടുക്കും",
         "Asianet News Malayalam"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
+      "id": "61c1aaf37acdca8b",
+      "title": "ഇന്ത്യൻ കമ്പനികൾക്ക് ആശ്വാസം; ഓപ്പൺഎഐയുടെ പുതിയ നീക്കം അറിയാം - Asianet News Malayalam",
+      "summary": "ഇന്ത്യൻ കമ്പനികൾക്ക് ആശ്വാസം; ഓപ്പൺഎഐയുടെ പുതിയ നീക്കം അറിയാം Asianet News Malayalam",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNk5ZMGFDRy1CRnBqSXk1Q0haUGVrNUJ5cnQ2a0llc1dXTTBQazRYN2dYVDlMQkpRd1VtLUVkRldmdHdVZEt0WGhEUVlJR1UyMUozcllva0Nna3czM2R6NzV0SWpkSWdmQV9iN0QweUFXdHZaYTdaYURDRzB5Y25GM2ZvOTNUcVF6elBSa2VQeGJCWHZvTlBTeUtXMmU4YmZ0NHVMSUJn0gGrAUFVX3lxTE9iYlNDdk9xMFZyN2hYNlMzR1VmaTNkTHN3QW1BRmFkMndTMk05bjZfOE5POW1pTFVCWFRmc2xndlFqYTJwc1BWb3RvbzYzNzhTaUJRZlNCT2dobTdNV2VGUzJhLUczcU9oQ09kNzRMdkc3cVRjOUg3RTUwb1o5Q0x3LUl4M255YU1Ec1lyMHBsUDFGNUt0M3h5TVZCZUN6bGYwdlZYSk52UHR2bw?oc=5",
+      "source": "Asianet News Malayalam",
+      "category": "general",
+      "published_at": "2026-11-14T17:48:30+00:00",
+      "importance": 3,
+      "personal_score": 3.25,
+      "entities": [
+        "ഇന്ത്യൻ",
+        "കമ്പനികൾക്ക്",
+        "ആശ്വാസം",
+        "ഓപ്പൺഎഐയുടെ",
+        "പുതിയ",
+        "നീക്കം",
+        "അറിയാം",
+        "Asianet News Malayalam"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
+      "id": "e9584ef90777921d",
+      "title": "Strengthening India’s Space Sovereignty - www.pib.gov.in",
+      "summary": "Strengthening India’s Space Sovereignty www.pib.gov.in",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1tNHZxQUJKbER3TktaNW5jZFozYUxpNHFxVW1mdGI5aV9PZU5WRlA2a0pGY25yeWF6MHNOMm5wakVPMmpJRFFNT3ZYbGZDYnFTX1FvQl9vVVBKcUVOVVFlalFKRmV1TG1ER1ZnOEFUMDBPcktvS0JMQg?oc=5",
+      "source": "www.pib.gov.in",
+      "category": "general",
+      "published_at": "2026-11-14T16:44:49+00:00",
+      "importance": 3,
+      "personal_score": 3.25,
+      "entities": [
+        "Strengthening India",
+        "Space Sovereignty"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
+      "id": "9e0c95e0c1101ae9",
+      "title": "ഐഐടിഎഫ് 2026; ആഘോഷങ്ങൾ മുതൽ കലാപരിപാടികൾ വരെ, ഇന്ത്യയുടെ വൈവിധ്യങ്ങളിലൂടെയുള്ള ഒരു യാത്ര",
+      "summary": "വിവിധ സംസ്ഥാനങ്ങളുടെ പവലിയനുകളിൽ പ്രാദേശിക ഉൽപ്പന്നങ്ങൾ, കരകൗശല വസ്തുക്കൾ, കൈത്തറി ഉൽപ്പന്നങ്ങൾ, തുണിത്തരങ്ങൾ, ഭക്ഷ്യവസ്‌തുക്കൾ, പരമ്പരാഗത ഉൽപ്പന്നങ്ങൾ എന്നിവ പ്രദർശിപ്പിക്കും. ഹാളുകൾ 2, 3, 4, 5 എന്നിവയുടെ താഴത്തെ നിലയിൽ പങ്കാളി സംസ്ഥാനങ്ങൾ, പ്രത്യേക ശ്രദ്ധ ലഭിക്കുന്ന സംസ്ഥാനങ്ങൾ, കേന്ദ്ര സർക്കാർ മന്ത്രാലയങ്ങൾ, വിവിധ വകുപ്പുകൾ, പൊതുമേഖലാ സ്ഥാപനങ്ങൾ, പൊതുമേഖലാ ബാങ്കുകൾ എന്നിവയുടെ പ്രദർശനങ്ങൾ ഉണ്ടായിരിക്കും. ഹാളുകൾ 12, 12A എന്നിവയിൽ സംസ്‌കരിച്ച ഭക്ഷ്യവസ്‌തുക്കൾ, പാനീയങ്ങൾ, സുഗന്ധവ്യഞ്ജനങ്ങൾ, കാർഷിക ഉൽപ്പന്നങ്ങൾ, കരകൗശല വസ്‌തുക്കൾ, വീട്ടുപകരണങ്ങൾ, ഫർണിച്ചറുകൾ, വിവിധ ഉൽപ്പന്നങ്ങൾ എന്നിവ ഉണ്ടായിരിക്കും. സാംസ്‌കാരിക ആഘോഷങ്ങൾ, സംസ്ഥാനങ്ങളുടെ പവലിയനുകൾ, വിദേശ രാജ്യങ്ങളുടെ പങ്കാളിത്തം, പുതിയ സാങ്കേതികവിദ്യകൾ, ഷോപ്പിങ്, ഭക്ഷണം, വിനോദം തുടങ്ങി നിരവധി കാര്യങ്ങൾ ഒരുമിച്ച് അനുഭവിക്കാനുള്ള അവസരമാണ് ഐഐടിഎഫ് 2026.",
+      "url": "https://malayalam.oneindia.com/partner-content/iitf-2026-from-celebrations-to-cultural-performances-a-journey-through-indias-diversity-604175.html",
+      "source": "Oneindia Malayalam",
+      "category": "general",
+      "published_at": "2026-11-14T08:13:29+00:00",
+      "importance": 2,
+      "personal_score": 2.25,
+      "entities": [
+        "ഐഐടിഎഫ്",
+        "ആഘോഷങ്ങൾ",
+        "മുതൽ",
+        "കലാപരിപാടികൾ",
+        "വരെ",
+        "ഇന്ത്യയുടെ",
+        "വൈവിധ്യങ്ങളിലൂടെയുള്ള",
+        "ഒരു",
+        "യാത്ര",
+        "IITF",
+        "From Celebrations To Cultural",
+        "Performances A Journey Through"
+      ],
+      "summary_method": "tfidf_extractive_full_article"
+    },
+    {
+      "id": "116a722ce3339942",
+      "title": "സുവർണ കേരളം ലോട്ടറി നറുക്കെടുപ്പ് ഫലം: RM 105954 എന്ന നമ്പരിന് ഒന്നാം സമ്മാനം 1 കോടി രൂപ | Suvarna Keralam Lottery Results - Manorama Online",
+      "summary": "സുവർണ കേരളം ലോട്ടറി നറുക്കെടുപ്പ് ഫലം: RM 105954 എന്ന നമ്പരിന് ഒന്നാം സമ്മാനം 1 കോടി രൂപ | Suvarna Keralam Lottery Results Manorama Online",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQcFgtSkhXWXhVTHhMdVlfaEV0ZVFDUm42ZHgwbFJJdHhuRHEzTTRYWjZGTHIwcFUxZ0pnWDR2bjdhSHBKT0xRZkdPdWs0VVRHWktQTEhXNGlRUHp1dW5nemlUSnRYNERwQVFycTFXQUs5U3ExaF9CMWIxLWxFNGpaS2EyTFJCZ1ZhRV9FNEVZVjk1YTlIS3ZmY1l5dFFXQlZyX1JtRG95bXdJSm9MY3Vnckg2dTlaQlFFVkgzR28yUU1VTWhlN3hveC1nQnFpSTJ2U1VOaVVXMXR4MTlWbHZZWWFpa1RHczU5VXhfZnpzbEd0Y3U5R0dqQlB3?oc=5",
+      "source": "Manorama Online",
+      "category": "general",
+      "published_at": "2026-11-13T09:35:34+00:00",
+      "importance": 2,
+      "personal_score": 2.25,
+      "entities": [
+        "സുവർണ",
+        "കേരളം",
+        "ലോട്ടറി",
+        "നറുക്കെടുപ്പ്",
+        "ഫലം",
+        "എന്ന",
+        "നമ്പരിന്",
+        "ഒന്നാം",
+        "സമ്മാനം",
+        "കോടി",
+        "രൂപ",
+        "Suvarna Keralam Lottery Results"
       ],
       "summary_method": "rss_fallback"
     },
@@ -978,32 +952,6 @@
       "summary_method": "rss_fallback"
     },
     {
-      "id": "b0313f90544e45f3",
-      "title": "കർണാടകയിലെ ബെംഗളൂരുവിൽ പ്രശാന്തി കുടീരത്തിന്റെ സുവർണ്ണ ജൂബിലി ആഘോഷങ്ങളിൽ പ്രധാനമന്ത്രി ശ്രീ നരേന്ദ്ര മോദി പങ്കെടുത്തു - PM India",
-      "summary": "കർണാടകയിലെ ബെംഗളൂരുവിൽ പ്രശാന്തി കുടീരത്തിന്റെ സുവർണ്ണ ജൂബിലി ആഘോഷങ്ങളിൽ പ്രധാനമന്ത്രി ശ്രീ നരേന്ദ്ര മോദി പങ്കെടുത്തു PM India",
-      "url": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxQWWdQblBZSVd6Nkl4eWY5SjNhUnZwbjBBNXI5UHlrN0xoN21nVWktUmxqNVhzRlh2dE85NkpBUm8wSi04N2NhWGtoaHVIRDM1ZlZmVnVwaFg1QUh1cVlGTGZoM2NFekpYSVM1blhfbVh3czVIalg1S1FXZWg4YUNUY2g1S25lMnRjek5faXRzTHBpa0hva0RxUHNKTzhPOV9Kbjg3TEIweVlIaXZaTl9NNUYyUk5HWGMyR0g5dTBHeHpVOUpVQWlNSG1KV3V4Q3JSMkVXYWM2M0drUk9ZdXdHam90M0FQSlRjS24zLUl1bl9hR0pmS0t5QmFoWnc4LXczSVVCTnJnWm9GdEZuR1VuZ3d6T0ZDVTNYYWpSNDB3RFNfT1NqR3pZQmFxekVDVXBybkRQVGJxTjloTDQxc196M2VkSEZWT1FNTHN6VzlZejhtbU5YRHEyYmdCZE9NSHFzeGw2ZFBTRWJpUEZQSlYzX1hkc0xfRXM?oc=5",
-      "source": "PM India",
-      "category": "general",
-      "published_at": "2026-11-13T12:30:31+00:00",
-      "importance": 2,
-      "personal_score": 2.25,
-      "entities": [
-        "കർണാടകയിലെ",
-        "ബെംഗളൂരുവിൽ",
-        "പ്രശാന്തി",
-        "കുടീരത്തിന്റെ",
-        "സുവർണ്ണ",
-        "ജൂബിലി",
-        "ആഘോഷങ്ങളിൽ",
-        "പ്രധാനമന്ത്രി",
-        "ശ്രീ",
-        "നരേന്ദ്ര",
-        "മോദി",
-        "പങ്കെടുത്തു"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
       "id": "4c4fbcf53ed42fec",
       "title": "ശ്വാസകോശത്തെ ബാധിക്കുന്ന നിശ്ശബ്ദ ഭീഷണി; ന്യുമോണിയയെ പ്രതിരോധിക്കാം, ഇന്ന് ലോക ന്യുമോണിയ ദിനം | World Pneumonia Day - Times Kerala",
       "summary": "ശ്വാസകോശത്തെ ബാധിക്കുന്ന നിശ്ശബ്ദ ഭീഷണി; ന്യുമോണിയയെ പ്രതിരോധിക്കാം, ഇന്ന് ലോക ന്യുമോണിയ ദിനം | World Pneumonia Day Times Kerala",
@@ -1052,6 +1000,48 @@
         "അഭിസംബോധന",
         "ചെയ്തു",
         "PM India"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
+      "id": "a7f992ec0de6e113",
+      "title": "ഇക്കണോമിക് ടൈംസ് വേൾഡ് ലീഡേഴ്സ് ഫോറം 2026-ൽ നടത്തിയ പ്രസംഗത്തിന്റെ ദൃശ്യങ്ങൾ പങ്കുവെച്ച് പ്രധാനമന്ത്രി - PM India",
+      "summary": "ഇക്കണോമിക് ടൈംസ് വേൾഡ് ലീഡേഴ്സ് ഫോറം 2026-ൽ നടത്തിയ പ്രസംഗത്തിന്റെ ദൃശ്യങ്ങൾ പങ്കുവെച്ച് പ്രധാനമന്ത്രി PM India",
+      "url": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxOM3FTRldVazNJQmlHV3YtQUZqbDVOeHMwVDlEa19vR0lGVDZoUEgtZlVQNGZSc3BxY0tXdkUxRm9PaTNCa2NRTGtfcjltTnR1SFk5NzdJZVNqU1RFd0o2YUVMaDJBTExvTVdNS0xjdlF3SjhWSS0wRmctbmRCSDhrRkJyS2FkYlBPaUgxUXhfdjNMbVc3NWtYTU1VV2ZUdUdWSW5RSk1rcndHNHFNVVRLbjA2ZzUwbVlIYTNhNEx2bzdMY0ZMTEtRWEpNRHBBNFM4SzFTQmNuaGZpOVUxbkpXalY1Rks0aFZoRkJ4Y05CbHZFMmVfRWUtbVFRYlY5MklaVFVpbU9uMTVhVm53WVBiN1VrbEdZUUF1dGRYc2hwVTRrVE15NkZFaEdvRF9KdUFHS09PeU1nb3BqSm8tS2V1aUlkSjlPVEJtWVlVR3F0a1NrSnhJeGVMaHF3?oc=5",
+      "source": "PM India",
+      "category": "general",
+      "published_at": "2026-08-21T07:00:00+00:00",
+      "importance": 1,
+      "personal_score": 1.25,
+      "entities": [
+        "ഇക്കണോമിക്",
+        "ടൈംസ്",
+        "വേൾഡ്",
+        "ലീഡേഴ്സ്",
+        "ഫോറം",
+        "നടത്തിയ",
+        "പ്രസംഗത്തിന്റെ",
+        "ദൃശ്യങ്ങൾ",
+        "പങ്കുവെച്ച്",
+        "പ്രധാനമന്ത്രി",
+        "PM India"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
+      "id": "82783ab6ccd26976",
+      "title": "Manufacturing Momentum:Building a Self-Reliant India - www.pib.gov.in",
+      "summary": "Manufacturing Momentum:Building a Self-Reliant India www.pib.gov.in",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5adlJDZDJ6Sl84SXQtLTVlb29PQXBJZkVQMzBLbzNZWmV2NjZjckFpVEJSU0tCMVdidFkzTl9SOVFwMnpYTUtCM1hxYzZjYmhIZDJxcTNlSGZkbTJraERfbS01RkpNUHpmek5aT1N4VXE5M3AwZ1p0SQ?oc=5",
+      "source": "www.pib.gov.in",
+      "category": "general",
+      "published_at": "2026-11-11T08:15:39+00:00",
+      "importance": 1,
+      "personal_score": 1.25,
+      "entities": [
+        "Manufacturing Momentum",
+        "Building",
+        "Self-Reliant India"
       ],
       "summary_method": "rss_fallback"
     },
@@ -1138,26 +1128,6 @@
   ],
   "tech": [
     {
-      "id": "c7e04de1ae5a721d",
-      "title": "U.S. lawmakers summon Nvidia former CEO after affair with suspected spy",
-      "summary": "But he said the board had done what it needed: “rip off the band-aid and take Nvidia into its next chapter without him.” The board named Harvey Jones, a former chief executive of chip design software firm Synopsys, as chair, and said it expected the company’s operations and product roadmap “to continue without interruption.” Interim CEO Kress joined Nvidia in 2013 after nearly 25 years at companies including Cisco and Microsoft. ‘Going through hell’ Singapore said on Thursday (November 12, 2026) it had barred Alice Huang, a Chinese national, from re-entering the country in February for giving investigators inaccurate information about her role at Megaspeed, though she was not investigated for espionage. Singapore’s home ministry said it had repeatedly sought information from the US Justice Department and FBI on a US server supplier during its Megaspeed probe, but “received limited information or assistance.” On Thursday (November 12, 2026), Malaysia also said Friday (November 13, 2026) it was investigating a subsidiary of Megaspeed International over the possible diversion of advanced AI chips to other countries. ‌intelligence suspects of being a Chinese spy, and Kimberly Powell, Nvidia’s vice president of health ‌care Former Nvidia CEO Huang had a relationship with a second employee, sources say storyline 1 Untangling Nvidia chief Jensen Huang’s Chinese spy connection Untangling Nvidia chief Jensen Huang’s Chinese spy connection Nvidia said that it was investigating its chief, Mr.",
-      "url": "https://www.thehindu.com/news/international/nvidias-former-ceo-jensen-huang-summoned-to-testify-before-us-lawmakers-senator/article71696780.ece",
-      "source": "The Hindu Technology",
-      "category": "tech",
-      "published_at": "2026-11-13T07:44:03+00:00",
-      "importance": 10,
-      "personal_score": 10.0,
-      "entities": [
-        "U.S",
-        "Nvidia",
-        "CEO",
-        "U.S. Commerce Secretary Howard",
-        "Lutnick",
-        "Senate Banking Committee"
-      ],
-      "summary_method": "tfidf_extractive_full_article"
-    },
-    {
       "id": "5c43d537b024c80b",
       "title": "എഐ ഓഹരികളുടെ കാലം കഴിഞ്ഞോ? മസ്‌കിനും കാലിടറി, യുഎസ് ഇടക്കാല തിരഞ്ഞെടുപ്പ് നൽകുന്ന മുന്നറിയിപ്പ്",
       "summary": "കർശനമായ ഡാറ്റാ സെന്റർ നിയന്ത്രണങ്ങളെക്കുറിച്ചും പുതിയ പദ്ധതികൾക്കുള്ള രാഷ്ട്രീയ പ്രതിരോധത്തെക്കുറിച്ചും ഉള്ള ആശങ്കകളാണ് നിക്ഷേപകരെ അസ്വസ്ഥരാക്കിയത്.ഇതിന്റെ ഫലമായുണ്ടായ ഇടിവിൽ എസ് ആന്റ് പി 500 മാർക്കറ്റ് മൂല്യത്തിൽ ഏകദേശം 3 ട്രില്യൺ ഡോളർ കുറവുണ്ടായി. ഈ ആഴ്‌ച മസ്‌കിന്റെ കമ്പനികളുടെ വിപണി മൂല്യത്തിൽ 380 ബില്യൺ ഡോളറിലധികം ഇടിവുണ്ടായി എന്നാണ് കണക്കുകൾ വ്യക്തമാക്കുന്നത്.നിലവിൽ എഐ അടിസ്ഥാന സൗകര്യ കുതിച്ചുചാട്ടം അതിന്റെ നിലവിലെ വേഗതയിൽ തുടരാൻ കഴിയുമോ എന്ന് നിക്ഷേപകർ കൂടുതലായി ആശങ്ക ഉന്നയിക്കുന്നതാണ് ഇതിന് കാരണം. പുതിയ ഡാറ്റാ സെന്ററുകൾക്കെതിരായ എതിർപ്പ് ശക്തി പ്രാപിക്കുന്ന പ്രദേശങ്ങൾ ഉൾപ്പെടെ യുഎസ് തിരഞ്ഞെടുപ്പിലെ ഫലങ്ങൾ കർശനമായ നിയന്ത്രണത്തെയും രാഷ്ട്രീയ പ്രതിരോധത്തെയും കുറിച്ചുള്ള ആശങ്കകൾ വർധിപ്പിച്ചു.നിക്ഷേപകരെ സംബന്ധിച്ചിടത്തോളം, ആർട്ടിഫിഷ്യൽ ഇന്റലിജൻസിന്റെ പൂർണമായ അന്ത്യമല്ല ഇതെന്ന് പ്രത്യേകം ഓർക്കണം. എഐ ഇപ്പോഴും വ്യവസായങ്ങളെ മാറ്റങ്ങളിലൂടെ വളർത്തുകയും പുതിയ അവസരങ്ങൾ സൃഷ്‌ടിക്കുകയും ചെയ്യുന്നുണ്ടെങ്കിലും അതിന് മറ്റൊരു വശം കൂടി ഉണ്ടെന്ന് വിപണി എല്ലാവരേയും ഓർമ്മിപ്പിക്കുന്നു.നിലവിലെ ഇടിവോടെ എഐയുടെ ഭാവി അവസാനിച്ചു എന്നല്ല അർത്ഥമാക്കുന്നത്.",
@@ -1201,23 +1171,6 @@
       "summary_method": "tfidf_extractive_full_article"
     },
     {
-      "id": "bd4b3823d5fe0000",
-      "title": "Warnings About Artificial Intelligence: Distinguishing Fact from Speculation - www.lvivherald.com",
-      "summary": "Warnings About Artificial Intelligence: Distinguishing Fact from Speculation www.lvivherald.com",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNVBVUDEzbW9QaGtBdXF0aXlqb2Z3NEZBR2oxSHhlVEdmVlVsSVl4RF9VS1QwX294aGxOZkNYNE5fZk12TWpyWmRPQW9sanE0VzRYLXBmdjA2SFhOVWZnNXFNLXl1UWlCZnM3RGk4TktNWGVhSmlidkJPZ0N0M19TZ3Q3bmZvcFVDbGVwcUFTS21zS0RDUVNPUm9uR2NTLW12YkJoZEYzMTRPVnM?oc=5",
-      "source": "www.lvivherald.com",
-      "category": "tech",
-      "published_at": "2026-11-13T00:32:58+00:00",
-      "importance": 10,
-      "personal_score": 10.0,
-      "entities": [
-        "Warnings About Artificial Intelligence",
-        "Distinguishing Fact",
-        "Speculation"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
       "id": "211d5f998fcf8a0c",
       "title": "Urgent climate finance pleas at COP31 face a non-urgent response",
       "summary": "ANTALYA, TURKIYE Urgent pleas for cash from poor ​nations most exposed to the kind of climate-related disasters that have marked this year risk meeting a sluggish response at Turkiye’s COP31 talks as Western governments put ‌national security and living costs first. Also Read | Why climate finance remains a recurring flashpoint at UN summits https://www.thehindu.com/sci-tech/energy-and-environment/why-the-same-climate-finance-dispute-returns-at-every-un-climate-summit/article71690224.ece Since then, climate action has slipped down the political agenda for Western governments as U.S. Also Read | UN climate summit pushes electrification goal as groups call for mining safeguards https://www.thehindu.com/sci-tech/energy-and-environment/un-climate-summit-pushes-electrification-goal-as-groups-call-for-mining-safeguards/article71696419.ece COP31 seeking implementation, not new targets As they ​respond to the contemporary mood, host country Turkiye and lead negotiator Australia have emphasised making previous pledges work, rather than securing a new headline target at the conference, which continues until the end of next week. The Hindu Editorial | New deal: On COP31 and lofty climate goals https://www.thehindu.com/opinion/editorial/new-deal-on-cop31-and-lofty-climate-goals/article71695206.ece Unclogging the system to get money flowing Both public and private funding provide climate finance grants, loans, ​aid and investment in measures ranging from renewable energy to flood defences.",
@@ -1239,13 +1192,30 @@
       "summary_method": "tfidf_extractive_full_article"
     },
     {
-      "id": "526fc74c8416f1b0",
+      "id": "bd4b3823d5fe0000",
+      "title": "Warnings About Artificial Intelligence: Distinguishing Fact from Speculation - www.lvivherald.com",
+      "summary": "Warnings About Artificial Intelligence: Distinguishing Fact from Speculation www.lvivherald.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNVBVUDEzbW9QaGtBdXF0aXlqb2Z3NEZBR2oxSHhlVEdmVlVsSVl4RF9VS1QwX294aGxOZkNYNE5fZk12TWpyWmRPQW9sanE0VzRYLXBmdjA2SFhOVWZnNXFNLXl1UWlCZnM3RGk4TktNWGVhSmlidkJPZ0N0M19TZ3Q3bmZvcFVDbGVwcUFTS21zS0RDUVNPUm9uR2NTLW12YkJoZEYzMTRPVnM?oc=5",
+      "source": "www.lvivherald.com",
+      "category": "tech",
+      "published_at": "2026-11-13T00:32:58+00:00",
+      "importance": 10,
+      "personal_score": 10.0,
+      "entities": [
+        "Warnings About Artificial Intelligence",
+        "Distinguishing Fact",
+        "Speculation"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
+      "id": "27cd903c66f38c48",
       "title": "Microsoft Warns of Active Password Stealing Attack Exploiting the Microsoft 365 Service Disruption - CyberSecurityNews",
       "summary": "Microsoft Warns of Active Password Stealing Attack Exploiting the Microsoft 365 Service Disruption CyberSecurityNews",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVmR0cFJ0Qm9NSjRfcjJRMWc2eExha05WZ3VlSk01MDMtZS1jTUlZakl5MV9QTk5TTkpmcEtWdUNNSmZ5YlJqa0U1Z0M2aGx3ajIyeUZLTGNDUGpLZUpfaUlyVUZVblJJcnowcG85TUJBQ3l3UTVfRFdRNjFWVUtycVZB0gGHAUFVX3lxTE00NTlJVW1oX3dKQ3RRaTBGT0ZrSTBIRmM4aV9PVzd5WkRzbkVBSTJxQ01vaUMxOENIN1RKZ0w5akFqUVlRb0NoTVZoX0Vqc2haMUV5ejJscXVmbUlJZjI1ZEZHYWVIYUlsbU40bmJBUldrTXoxXzgxZFR0SnZMYlpfWGowNWxlOA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVmR0cFJ0Qm9NSjRfcjJRMWc2eExha05WZ3VlSk01MDMtZS1jTUlZakl5MV9QTk5TTkpmcEtWdUNNSmZ5YlJqa0U1Z0M2aGx3ajIyeUZLTGNDUGpLZUpfaUlyVUZVblJJcnowcG85TUJBQ3l3UTVfRFdRNjFWVUtycVZB?oc=5",
       "source": "CyberSecurityNews",
       "category": "tech",
-      "published_at": "2026-11-14T11:58:04+00:00",
+      "published_at": "2026-11-14T19:33:47+00:00",
       "importance": 10,
       "personal_score": 10.0,
       "entities": [
@@ -1258,6 +1228,43 @@
         "Service Disruption CyberSecurityNews"
       ],
       "summary_method": "rss_fallback"
+    },
+    {
+      "id": "c7e04de1ae5a721d",
+      "title": "U.S. lawmakers summon Nvidia former CEO after affair with suspected spy",
+      "summary": "But he said the board had done what it needed: “rip off the band-aid and take Nvidia into its next chapter without him.” The board named Harvey Jones, a former chief executive of chip design software firm Synopsys, as chair, and said it expected the company’s operations and product roadmap “to continue without interruption.” Interim CEO Kress joined Nvidia in 2013 after nearly 25 years at companies including Cisco and Microsoft. ‘Going through hell’ Singapore said on Thursday (November 12, 2026) it had barred Alice Huang, a Chinese national, from re-entering the country in February for giving investigators inaccurate information about her role at Megaspeed, though she was not investigated for espionage. Singapore’s home ministry said it had repeatedly sought information from the US Justice Department and FBI on a US server supplier during its Megaspeed probe, but “received limited information or assistance.” On Thursday (November 12, 2026), Malaysia also said Friday (November 13, 2026) it was investigating a subsidiary of Megaspeed International over the possible diversion of advanced AI chips to other countries. ‌intelligence suspects of being a Chinese spy, and Kimberly Powell, Nvidia’s vice president of health ‌care Former Nvidia CEO Huang had a relationship with a second employee, sources say storyline 1 Untangling Nvidia chief Jensen Huang’s Chinese spy connection Untangling Nvidia chief Jensen Huang’s Chinese spy connection Nvidia said that it was investigating its chief, Mr.",
+      "url": "https://www.thehindu.com/news/international/nvidias-former-ceo-jensen-huang-summoned-to-testify-before-us-lawmakers-senator/article71696780.ece",
+      "source": "The Hindu Technology",
+      "category": "tech",
+      "published_at": "2026-11-13T07:44:03+00:00",
+      "importance": 9,
+      "personal_score": 9.0,
+      "entities": [
+        "U.S",
+        "Nvidia",
+        "CEO",
+        "U.S. Commerce Secretary Howard",
+        "Lutnick",
+        "Senate Banking Committee"
+      ],
+      "summary_method": "tfidf_extractive_full_article"
+    },
+    {
+      "id": "2a002eead99171e9",
+      "title": "Jensen Huang | AI rainmaker meets his Waterloo",
+      "summary": "“In another life, Jensen Huang might have been a teacher,” says Tae Kim in his book The Nvidia Way. Whether he likes it or not, the Nvidia co-founder’s reality has now been reset, forcing him back to his idiosyncratic style of solving problems: diagramming on a whiteboard. But this time he won’t get a clean start as the scandal-hit former chief of Nvidia will face intense scrutiny over his affair with a Chinese businesswoman who is at the centre of an alleged spy scandal. Huang’s affair with Alice Huang, The New York Times reported a second relationship, with Kimberly Powell, Nvidia’s head of healthcare and one of his direct reports.",
+      "url": "https://www.thehindu.com/sci-tech/technology/jensen-huang-ai-rainmaker-meets-his-waterloo/article71702817.ece",
+      "source": "The Hindu Science and Technology",
+      "category": "tech",
+      "published_at": "2026-11-14T20:58:12+00:00",
+      "importance": 9,
+      "personal_score": 9.0,
+      "entities": [
+        "Jensen Huang",
+        "Waterloo The Nvidia",
+        "Silicon Valley"
+      ],
+      "summary_method": "tfidf_extractive_full_article"
     },
     {
       "id": "0169316e998c7e3b",
@@ -1348,6 +1355,25 @@
         "Korean"
       ],
       "summary_method": "tfidf_extractive_full_article"
+    },
+    {
+      "id": "e638cdb38885d6e1",
+      "title": "FBI flash alert says Artex tool automating cyberattacks at ‘machine speed’ - The Record from Recorded Future News",
+      "summary": "FBI flash alert says Artex tool automating cyberattacks at ‘machine speed’ The Record from Recorded Future News",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBJMzBmMi1PRFFLR2d5QnNLVFU2Wjc1UmpxS3Z2ZTZHYVJqdTM3M3BQcDFmYUpKQ0twYU1XTTd0ZGNVUU5Oa1VjZXh6TmFKOWJlVjRFVlJranl4N1JZMHlfOWpjUQ?oc=5",
+      "source": "The Record from Recorded Future News",
+      "category": "tech",
+      "published_at": "2026-11-13T21:45:26+00:00",
+      "importance": 8,
+      "personal_score": 8.0,
+      "entities": [
+        "FBI",
+        "Artex",
+        "The Record",
+        "Recorded Future News FBI",
+        "Recorded Future News"
+      ],
+      "summary_method": "rss_fallback"
     },
     {
       "id": "6537b45a5e8deaf2",
@@ -1499,26 +1525,6 @@
       "summary_method": "rss_fallback"
     },
     {
-      "id": "9b0b189aa2c596d2",
-      "title": "Now agentic AI can perform complex lab research, and maybe cheaper too",
-      "summary": "In 2022, many of us would have made fun of the AI models when they made errors in identifying the capitals of popular countries accurately. A laboratory researcher, even in their wildest of their dreams would not have thought of witnessing a physical lab which can decide, plan and work on its own. Humans hold the guide wire, sitting in front of the computer screen, and the chatbot’s response never comes out of the screen. In a biology lab, it can command a pipette to take a fluid and transfer a few drops into a beaker, heat a tube with a thermal cycler, read the degree of fluorescence in a reaction, complete a series of experiments, observe and document the results and even interpret it.",
-      "url": "https://www.thehindu.com/education/now-agentic-ai-can-perform-complex-lab-research-and-maybe-cheaper-too/article71692756.ece",
-      "source": "The Hindu Science",
-      "category": "tech",
-      "published_at": "2026-11-12T18:58:51+00:00",
-      "importance": 7,
-      "personal_score": 7.0,
-      "entities": [
-        "Now",
-        "On November",
-        "Nature",
-        "Shanghai Jiao Tong University",
-        "Agentic",
-        "AutoDNA"
-      ],
-      "summary_method": "tfidf_extractive_full_article"
-    },
-    {
       "id": "95c66841ad86727c",
       "title": "Synopsys and Infineon expand collaboration on virtual development for software-defined vehicles - New Electronics",
       "summary": "Synopsys and Infineon expand collaboration on virtual development for software-defined vehicles New Electronics",
@@ -1557,32 +1563,13 @@
       "summary_method": "rss_fallback"
     },
     {
-      "id": "2acc54db968173b9",
-      "title": "How Gemini 4 Carbon Could Change AI-Assisted Software Development - Analytics Insight",
-      "summary": "How Gemini 4 Carbon Could Change AI-Assisted Software Development Analytics Insight",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZFh6SXZQelN2NlNXeFBfczdkb3BvR25tOGRIdjJ5cXFkbXRHNHhXdFdXYkpXak4zWlkxbXdFajRCUmJWZExXNG5aLVZvSEVZcFJPSXJveC02YTdJWUtuZGJHT054ZkZ6bTF0dTJRRFJDVXRwU2pKNlY5ZWl0SEtScWt5LUR5emxrSld0WFNCRF9CaVFMYTZDLVBvSFZTVGNwNlFMbHVxaGxVQ2MzOFRtZ1JLenBSekJvTTlwbURzMNIBzAFBVV95cUxOd3p1aUhKN3RQbjVuRmFNdjFSTGpyZDhQRXZSS1IyUGo0M011ZlY5V0JEeGo0SDloa2tDVG9mcmdVSHgzT0dtSzUxaVdZVTRKZWtTZG93Tk9hQmJxd0lLMEJNTEdFbHRneEdWSjB0bGVjM09OUGhlVTdrMkxmdk9GY0RPeXpjM2E0bFF4OUlVcmVfMENkWHlxeTAwWklpbVFkUXpndmdURHpMeERXLXVjVXk5bHZZMTAyUDdGRTQ0TkN2RWp6b0RrMzd3WmY?oc=5",
-      "source": "Analytics Insight",
-      "category": "tech",
-      "published_at": "2026-11-13T20:00:00+00:00",
-      "importance": 7,
-      "personal_score": 7.0,
-      "entities": [
-        "How Gemini",
-        "Carbon Could Change AI-Assisted",
-        "Software Development",
-        "Analytics Insight How Gemini",
-        "Software Development Analytics Insight"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
       "id": "03470948faa6e856",
       "title": "UTC Hosts Open Source Software Workshop - WDEF",
       "summary": "UTC Hosts Open Source Software Workshop WDEF",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBmbXoybFBETWNIWXZqSXhodXhWRE1jSDJKWWZfOUttVHctQjZMRU1JUFNBcGN5blBQcXBmRzdMa2k1dklUZ3hmUnQ0OGZMZnZVaGFxZzdKVEFNcEduRUluX29GbTRRMUFHUEVoRVV3?oc=5",
       "source": "WDEF",
       "category": "tech",
-      "published_at": "2026-11-13T21:10:19+00:00",
+      "published_at": "2026-11-13T21:08:54+00:00",
       "importance": 7,
       "personal_score": 7.0,
       "entities": [
@@ -1707,27 +1694,24 @@
       "summary_method": "rss_fallback"
     },
     {
-      "id": "84c0ee209df8c204",
-      "title": "From Scientific Workflows to Cybersecurity: USC ISI Researchers Showcase Innovations at SC26 - USC Viterbi School of Engineering",
-      "summary": "From Scientific Workflows to Cybersecurity: USC ISI Researchers Showcase Innovations at SC26 USC Viterbi School of Engineering",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPc0tsOVEwM2U4YU1CYzRWZEoyMEo4N2xHcHJwX1d2UUZ6OFppWktUQVhkMmd6WXIxNVZWaFlmRlFNZzNzeTFpUFVVZzNOZzBwSU5MUERSZDVqYXdjRDMwV0NrTkFDWG55VHdxVThkNWk4SEdsMGgxTThnbEc2SUpvOWg1WGZaS0hySXBpcHdQM095dG00dmtHUUNEOGkyS2NKZ2prMFVPTUxUQ1NXRGgzdzBTU1VPTjVieHU4RDZyYk9tNGdjWGpJaXk3cmFwR2xl?oc=5",
-      "source": "USC Viterbi School of Engineering",
+      "id": "9b0b189aa2c596d2",
+      "title": "Now agentic AI can perform complex lab research, and maybe cheaper too",
+      "summary": "In 2022, many of us would have made fun of the AI models when they made errors in identifying the capitals of popular countries accurately. A laboratory researcher, even in their wildest of their dreams would not have thought of witnessing a physical lab which can decide, plan and work on its own. Humans hold the guide wire, sitting in front of the computer screen, and the chatbot’s response never comes out of the screen. In a biology lab, it can command a pipette to take a fluid and transfer a few drops into a beaker, heat a tube with a thermal cycler, read the degree of fluorescence in a reaction, complete a series of experiments, observe and document the results and even interpret it.",
+      "url": "https://www.thehindu.com/education/now-agentic-ai-can-perform-complex-lab-research-and-maybe-cheaper-too/article71692756.ece",
+      "source": "The Hindu Science",
       "category": "tech",
-      "published_at": "2026-11-13T21:43:57+00:00",
+      "published_at": "2026-11-12T18:58:51+00:00",
       "importance": 6,
       "personal_score": 6.0,
       "entities": [
-        "From Scientific Workflows",
-        "Cybersecurity",
-        "USC ISI Researchers Showcase",
-        "Innovations",
-        "SC26",
-        "USC Viterbi School",
-        "Engineering From Scientific Workflows",
-        "SC26 USC Viterbi School",
-        "Engineering"
+        "Now",
+        "On November",
+        "Nature",
+        "Shanghai Jiao Tong University",
+        "Agentic",
+        "AutoDNA"
       ],
-      "summary_method": "rss_fallback"
+      "summary_method": "tfidf_extractive_full_article"
     },
     {
       "id": "9375deb8057704e7",
@@ -1745,24 +1729,6 @@
         "CODE",
         "Leaders League Artificial",
         "Leaders League"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
-      "id": "b87bfbcc62a18759",
-      "title": "Indian techie considers quitting software development after 1.5 years of using Claude Code - Moneycontrol.com",
-      "summary": "Indian techie considers quitting software development after 1.5 years of using Claude Code Moneycontrol.com",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPdUhDSDNsSTlpZmNIdFkwMjVuQ1U5RnIyNnRuZURJQ1NIVjIxWTZWOHN0Y281YkNXdko2TG91NXhBVUx2UkVkdm5PYkdpOTA5WkNLR0FYZVprVzNrS0JRb0ZMQkVyYkNJR2JUU28tbEtyRWZqdE1udU91d0Y4WUMtOTRCU21UWWZUQldUa1RrV19QQmloLVBLalAwazdyX0FSU0FjMC1yWjlnQzlHQk84a2FQdExXOVJTNllaQV9VZ1ZlV2ZsRHlPN0VtV0FuWHVuN2NIX09jUl9UT2ZVeWhtV2FiS0NCeURLN2NPdXpYWnhvUWJSaVFR0gH8AUFVX3lxTE1heVFyeGdCdUNXT3U5RURHbXRtQS0wM1hRXzhYazg0WjF2SDhXcmFMZ1ljeVBmRTJsVEhyLWs5QlA1UHN4WktFazNrNHlsb3ZPcUN1RURmWi1XcnJUQ1oySXR1c21PMzZtVV9pb09iSmptX3czY0M3UmZuaWI2WkJmOEZlT0g1dU1vX3NfV1AtZlF4N1BydWNHQ1pXWnI3MWhENnBRZkp4UUZiZ1dCSXVtUHJYXzRGVUhBUU5DNDU5YVd3endvS1YtVXpKNTh5d2xTZzBPdVo2bHBtYkZYT01UNHZRaXZJcFItZXlNN25vcGF4LTYxU0otZDRtcA?oc=5",
-      "source": "Moneycontrol.com",
-      "category": "tech",
-      "published_at": "2026-11-12T07:06:28+00:00",
-      "importance": 6,
-      "personal_score": 6.0,
-      "entities": [
-        "Indian",
-        "Claude Code",
-        "Moneycontrol.com Indian",
-        "Claude Code Moneycontrol.com"
       ],
       "summary_method": "rss_fallback"
     },
@@ -1796,6 +1762,23 @@
         "Anduril",
         "The American Bazaar Ex-OpenAI",
         "The American Bazaar"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
+      "id": "15b344222c249c4f",
+      "title": "Amazon rewrites its software engineering playbook for an era when AI writes the code - GeekWire",
+      "summary": "Amazon rewrites its software engineering playbook for an era when AI writes the code GeekWire",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRjNaNlZ1aGFDMUd4c1p4YTc0bllabG9rM09HSVZFY0RIR2xMUFRTQkhGZVA0V2psU053SWtDc0dmQ3Ita0UyWUJvdXVPUGJsc2EwaDNmOUhmVi1JcVFGUHhPa3cyUkE5S0x5RGYyNFFKVHplU3otS0lLaGNjWG5OVFBGOWdram5YNExVOG81ZldrLThQdWQ5ek9hbDd6d1dWOWZtMzBsX0JDLV9GV2xDTTk0SkF1QQ?oc=5",
+      "source": "GeekWire",
+      "category": "tech",
+      "published_at": "2026-11-03T08:00:00+00:00",
+      "importance": 6,
+      "personal_score": 6.0,
+      "entities": [
+        "Amazon",
+        "GeekWire Amazon",
+        "GeekWire"
       ],
       "summary_method": "rss_fallback"
     },
@@ -1982,6 +1965,23 @@
       "summary_method": "rss_fallback"
     },
     {
+      "id": "cba18d643a35d4a9",
+      "title": "42Gears Achieves ISO/IEC3 Certification for Artificial Intelligence Management Systems - markets.businessinsider.com",
+      "summary": "42Gears Achieves ISO/IEC3 Certification for Artificial Intelligence Management Systems markets.businessinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNVjI1U3dSaHFoOURhMk9scF9ibUtvNHhkSkk4LU5mT2NNT201VWtGVFh2Wk5TNWhONzJ1cnhhTDAtbDhMaWRWdmY3dnMyYzFscG9PdVhCYndKNk1adjAxSXpBZDd1aEN0UG82TDczbzI2Zjk4OWxsOGl3UmxOM0ZmQWxaVXVHSUlOLXhPTzFCdjlUOUE5SVpKY3dZajRCMmtGTGNTdEZ1cEdDY3pwbzhJUFo3WHlTa1RHNkVMN0dZTW1XNUZ6UU5IUHJyN18xM3NLWVluZGRrbjVaWE1YZ0NuVGc4Y082Y1FoZmRV?oc=5",
+      "source": "markets.businessinsider.com",
+      "category": "tech",
+      "published_at": "2026-11-13T16:10:50+00:00",
+      "importance": 5,
+      "personal_score": 5.0,
+      "entities": [
+        "Achieves ISO",
+        "IEC3 Certification",
+        "Artificial Intelligence Management Systems"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
       "id": "16bc0fb47841c40e",
       "title": "Banks’ data breaches: India in constant state of digital pandemic; new vaccine needed regularly, say experts - Fortune India",
       "summary": "Banks’ data breaches: India in constant state of digital pandemic; new vaccine needed regularly, say experts Fortune India",
@@ -2005,7 +2005,7 @@
       "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOcVBfREU1a09iRTRPbjRkMHhQU0hDU3Y2c2VYMTJpZ1hKbWd1SWFVWW9WcmNGd1NvNF94eno4Tkh4Nkc2MzBscVI0SlQ5VF9Wa1BKemFpaTVxYUNfWFMzTV9xOEF6bXJKTHVfWUx6MWV1bzl4TWd0blNoM3ZGZlpvLUR1cnpKU2xkNzJ3OHo2WUFsak1EdVpLVzdHeEpidlNoN3cxUTNRVlZBQU1yaU1SZXY0OE93UktlcDB6TWJxMC16SF9wNVUyUi1iOTcwRkxPSWJFYlgzS0ltbTZPOExVWUhuM2RHbG04VUxXY0lqdkxUd9IB9gFBVV95cUxNRzBLblBxMC0yTHgzdlN3OExUcEJTWC1ERnJ2ZUJ3WHozZ0h6bVlVUzlERi1NT2FNbXUwQnhyd1NhcWQ4NWw4NGo5b2hBdmVvaWtPT3huUmpBcXhMcDJBbm1UdF9LLVRrdm9jOW5kM2pObE5oYWx0eVhiQzkyRUtoYXh3amE5V215WVQwMXZQMFJLVEVqWUNZLTRuYzhXYVdoMlVDYXJoVXR4NDRCbzFKTEl3SlFpUWhnM195T2FFQXBpYXhENXUxRnlLam14NlBSWEZYMklnOGo2eUsxRDdXQWVHT3ZrNnhfUFJ5eDV2SVd4ME1FaXc?oc=5",
       "source": "ET Government",
       "category": "tech",
-      "published_at": "2026-11-14T16:17:32+00:00",
+      "published_at": "2026-11-14T19:17:34+00:00",
       "importance": 5,
       "personal_score": 5.0,
       "entities": [
@@ -2032,24 +2032,6 @@
         "Cybersecurity",
         "ITU PP-26",
         "Doha"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
-      "id": "11d130860c47f268",
-      "title": "Artificial intelligence and European firms: the cost of market-based financing - European Central Bank",
-      "summary": "Artificial intelligence and European firms: the cost of market-based financing European Central Bank",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOOUlDdGhQRXkwY2FZLW5WSjNnM2dGb0NRLUZ2cldkdFVCOUJNUWFtdWN1cWszT2NjR3pvbl8yQi0zNXRLMW82akZHZVo5M1FlXzFQNTJJZ3NVMk1DdU94ZHVLZFU3dXg0SXNXYi1rVXZLOFBPRTZnQWFMREVkbXN1ZGFPNWxyM2hlUXR5Y2xBQ0pHS1BUc3R0VjdhUURwVm5neXpkLThR?oc=5",
-      "source": "European Central Bank",
-      "category": "tech",
-      "published_at": "2026-11-12T09:03:48+00:00",
-      "importance": 4,
-      "personal_score": 4.0,
-      "entities": [
-        "Artificial",
-        "European",
-        "European Central Bank Artificial",
-        "European Central Bank"
       ],
       "summary_method": "rss_fallback"
     },
