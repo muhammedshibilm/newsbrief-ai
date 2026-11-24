@@ -1,6 +1,6 @@
 {
   "version": 7,
-  "updated_at": "2026-11-23T15:27:25.528015+00:00",
+  "updated_at": "2026-11-24T02:38:35.699420+00:00",
   "ai_engine": {
     "enabled": true,
     "type": "mathematical_ml",
@@ -53,7 +53,7 @@
       "url": "https://www.thehindu.com/news/national/kerala/pmla-court-issues-non-bailable-warrant-against-hirich-promoter/article71735302.ece",
       "source": "The Hindu Kerala",
       "category": "general",
-      "published_at": "2026-11-23T15:08:38+00:00",
+      "published_at": "2026-11-23T16:15:53+00:00",
       "importance": 10,
       "personal_score": 10.25,
       "entities": [
@@ -65,29 +65,13 @@
       "summary_method": "tfidf_extractive_full_article"
     },
     {
-      "id": "4b93e6d26cca54c2",
-      "title": "CPI(M) accuses Keralam CM V.D. Satheesan of turning political pay back into policy",
-      "summary": "“The Chief Minister’s open threat to dish out revenge to those whom he perceives as enemies and weaponise law enforcement to target political opponents amounts to criminal intimidation and a brazen and public violation of his oath of office. The UDF government had, from the outset, demonstrated its political resolve to go after those responsible for the “attacks and false cases” against Kerala Students Union (KSU) and Youth Congress during the previous LDF dispensation. Pinarayi Vijayan hails Kalady students’ victory after court relief Pinarayi Vijayan hails Kalady students’ victory after court relief This struggle, waged with the firm conviction that they would not apologise for something they had not done, serves as a source of motivation for every student seeking to defend democratic rights on campuses, Mr. Vijayan said Pinarayi Vijayan hails Kalady students’ victory after court relief storyline 1 Notably, the UDF’s first Cabinet meeting after assuming power in May formed a Special Investigation Team (SIT) to probe the police action against KSU workers who staged a roadside black flag protest against the LDF’s Nava Kerala Sadas programme in Alappuzha in 2023.",
-      "url": "https://www.thehindu.com/news/national/kerala/cpim-accuses-keralam-cm-vd-satheesan-of-turning-political-pay-back-into-policy/article71734062.ece",
-      "source": "The Hindu Kerala",
-      "category": "general",
-      "published_at": "2026-11-23T10:13:17+00:00",
-      "importance": 10,
-      "personal_score": 10.25,
-      "entities": [
-        "CPI",
-        "Keralam CM V.D. Satheesan"
-      ],
-      "summary_method": "tfidf_extractive_full_article"
-    },
-    {
       "id": "0900c7322897d64e",
       "title": "KAT issues ultimatum to government to file reply in college principal appointment dispute",
       "summary": "THIRUVANANTHAPURAM The Kerala Administrative Tribunal (KAT) has issued a strict ultimatum to the State government and the Directorate of Collegiate Education by granting them a final three-week window to file their reply statement in an ongoing legal challenge regarding the appointment of principals in Government Arts and Science colleges. Vasudevan warned that the tribunal would automatically allow an application that sought to forfeit the government’s right to file a counter-reply and also proceed to fast-track the case for final hearing if the respondents fail to submit their response within the deadline. Haripriya contended that the selection committee was constituted in a manner that contravened the UGC norms and also alleged large-scale manipulation in the selection process conducted by the Director of Collegiate Education. On November 16, the petitioner moved an application that highlighted that despite the original application being admitted in late March and notices being served by June, the State government and collegiate education officials have repeatedly sought adjournments several times without filing a counter-affidavit.",
       "url": "https://www.thehindu.com/news/national/kerala/kat-issues-ultimatum-to-government-to-file-reply-in-college-principal-appointment-dispute/article71735391.ece",
       "source": "The Hindu Kerala",
       "category": "general",
-      "published_at": "2026-11-23T14:50:56+00:00",
+      "published_at": "2026-11-23T16:05:11+00:00",
       "importance": 10,
       "personal_score": 10.25,
       "entities": [
@@ -104,7 +88,7 @@
       "url": "https://www.thehindu.com/news/national/kerala/yellow-alert-for-three-districts-in-keralam-on-november-24/article71735314.ece",
       "source": "The Hindu Kerala",
       "category": "general",
-      "published_at": "2026-11-23T14:31:45+00:00",
+      "published_at": "2026-11-23T15:47:52+00:00",
       "importance": 10,
       "personal_score": 10.25,
       "entities": [
@@ -125,8 +109,8 @@
       "source": "Oneindia Malayalam",
       "category": "general",
       "published_at": "2026-11-23T13:39:43+00:00",
-      "importance": 8,
-      "personal_score": 8.25,
+      "importance": 7,
+      "personal_score": 7.25,
       "entities": [
         "ഗോധ്ര",
         "ട്രെയിന്",
@@ -144,22 +128,54 @@
       "summary_method": "tfidf_extractive_full_article"
     },
     {
-      "id": "07f4916a86fb42ec",
-      "title": "CPI(M) hails Kerala High Court relief to protesting Sanskrit University students as a slap in the face to the VC and UDF government",
-      "summary": "Thiruvananthapuram The Communist Party of India (Marxist) on Monday (November 23, 2026) said the Kerala High Court’s order quashing the suspension of 16 students of Sree Sankaracharya University of Sanskrit in Kalady was a “resounding slap in the face” to Higher Education Minister Roji M. John had actively aided the vice-chancellor, whom he portrayed as a Sangh Parivar enabler, to suspend the students, all Student Federation of India (SFI) activists, and deny them their right to appear for examinations. Relief for suspended Sanskrit varsity students, Kerala High Court quashes suspension, guilty report Relief for suspended Sanskrit varsity students, Kerala High Court quashes suspension, guilty report The University was also instructed to hold a separate examination for the suspended students, as undertaken before the Supreme Court, within six weeks Relief for suspended Sanskrit varsity students, Kerala High Court quashes suspension, guilty report storyline 1 Mr. High Court relief sparks celebrations as 16 suspended SSUS students return to Kalady University campus in victory march High Court relief sparks celebrations as 16 suspended SSUS students return to Kalady University campus in victory march The suspended students were then taken to the SSUS campus in a triumphant march carrying a banner that read, “The people united will never be defeated” High Court relief sparks celebrations as 16 suspended SSUS students return to Kalady University campus in victory march storyline 1 Mr.",
-      "url": "https://www.thehindu.com/news/national/kerala/cpim-hails-kerala-high-court-relief-to-protesting-sanskrit-university-students-as-a-slap-in-the-face-to-the-vc-and-udf-government/article71734120.ece",
-      "source": "The Hindu Kerala",
+      "id": "dbb41913056ac359",
+      "title": "'സതീശൻ സർക്കാരിന് കരണക്കുറ്റിക്കേറ്റ കണ്ണടക്കിയുള്ള അടി', കാലടി സമരത്തിലെ ഹൈക്കോടതി വിധിയിൽ ജലീൽ",
+      "summary": "കാലടി സർവ്വകലാശാലയിൽ സമരം ചെയ്ത വിദ്യാർത്ഥികൾക്ക് അനുകൂലമായി ഹൈക്കോടതി വിധി വന്നതിൽ വൈസ് ചാൻസലർ സിസ തോമസിനും ഉന്നത വിദ്യാഭ്യാസ വകുപ്പ് മന്ത്രി റോജി എം ജോണിനും എതിരെ രൂക്ഷ വിമർശനവുമായി കെടി ജലീൽ.തലതിരിഞ്ഞ വൈസ് ചാൻസലറെ നിയന്ത്രിക്കാൻ മന്ത്രിക്ക് കഴിയുന്നില്ലെങ്കിൽ ഒരു പൊതുപ്രവർത്തകൻ ഉന്നതവിദ്യാഭ്യാസ വകുപ്പ് മന്ത്രിയായിട്ട് എന്തുകാര്യമെന്ന് കെടി ജലീൽ തുറന്നടിച്ചു. കേരള സാങ്കേതിക സർവകലാശാലയിൽ മന്ത്രി നേതൃത്വം നൽകി നടന്ന ഒരദാലത്തിൽ കൊല്ലം ടി.കെ.എം എഞ്ചിനീയറിംഗ് കോളേജിൽ പഠിച്ചിരുന്ന എഞ്ചിനീയറിംഗ് വിദ്യാർത്ഥിക്ക് മാർക്ക് ദാനം ചെയ്തു എന്നാരോപിച്ച് ഒരുപാട് കല്ലേറിനും, അധിക്ഷേപങ്ങൾക്കും, പരിഹാസങ്ങൾക്കും വിധേയനായ വ്യക്തിയാണ് ഈയുള്ളവൻ. ഞാൻ ചെയ്ത തെറ്റ് ഒരു മിടുക്കനായ വിദ്യാർത്ഥിക്കായി നിലവിലെ സർവകലാശാലാ ചട്ടം മറികടന്ന് മൂന്നാം തവണയും ഉത്തരപ്പേപ്പർ പുനർമൂല്യനിർണ്ണയത്തിന് ഉത്തരവിട്ടതിൻ്റെ പേരിലാണ് യു.ഡി.എഫും വലതുപക്ഷ മാധ്യമപ്പടയും എന്നെ തെരുവിലിട്ട് കൊത്തിവലിച്ചത്.കെ.ടി.യുവിലെ അദാലത്തിനിടയിലാണ് കലങ്ങിയ കണ്ണുകളുമായി എഞ്ചിനീയറിംഗ് പൂർത്തിയാക്കിയ ഒരു വിദ്യാർത്ഥി എൻ്റെ മുന്നിലെത്തിയത്. മൂത്തമകൾ അസ്മ കോഴിക്കോട് എൻ.ഐ.ടിയിൽ നിന്ന് എഞ്ചിനീയറായതും, രണ്ടാമത്തെ മകൻ ഡൽഹി യൂണിവേഴ്സിറ്റിയിൽ നിന്ന് ഡിഗ്രി എടുത്ത് വക്കീലായതും, മൂന്നാമത്തെ മകൾ കോഴിക്കോട് മെഡിക്കൽ കോളേജിൽ എം.ഡി ജനറൽ മെഡിസിൻ ചെയ്യുന്നതും അദ്ധ്യാപകനായിരിക്കെയും മന്ത്രിയായിരിക്കെയും എൻ്റെ മുന്നിലെത്തിയ വിദ്യാർത്ഥികളോട് ഈവിനീതൻ കാണിച്ച നീതിബോധത്തിന് ദൈവം നൽകിയ പ്രതിഫലമാണെന്നാണ് എൻ്റെ ഉറച്ച വിശ്വാസം.",
+      "url": "https://malayalam.oneindia.com/news/kerala/satheesan-s-government-has-received-a-slap-on-the-cheek-says-jaleel-on-high-court-verdict-in-kala-605113.html",
+      "source": "Oneindia Malayalam",
       "category": "general",
-      "published_at": "2026-11-23T10:16:46+00:00",
-      "importance": 8,
-      "personal_score": 8.25,
+      "published_at": "2026-11-23T19:10:15+00:00",
+      "importance": 7,
+      "personal_score": 7.25,
       "entities": [
-        "CPI",
-        "Kerala High Court",
-        "Sanskrit University",
-        "UDF",
-        "M.V. Govindan",
-        "High Court"
+        "സതീശൻ",
+        "സർക്കാരിന്",
+        "കരണക്കുറ്റിക്കേറ്റ",
+        "കണ്ണടക്കിയുള്ള",
+        "അടി",
+        "കാലടി",
+        "സമരത്തിലെ",
+        "ഹൈക്കോടതി",
+        "വിധിയിൽ",
+        "ജലീൽ",
+        "Satheesan",
+        "Government Has Received"
+      ],
+      "summary_method": "tfidf_extractive_full_article"
+    },
+    {
+      "id": "50e5709ea69bb97d",
+      "title": "കോണ്‍ഗ്രസ്-എസ്പി സീറ്റ് വിഭജനം മൂന്നു ദിവസത്തിനകം; ആദ്യ ചര്‍ച്ച 20 മിനുട്ട് മാത്രം, പട്ടിക കൈമാറി",
+      "summary": "മല്‍സരിക്കാന്‍ താല്‍പ്പര്യമുള്ള സീറ്റുകള്‍ ഏതൊക്കെ എന്ന് കോണ്‍ഗ്രസ് പ്രതിനിധികള്‍ സമാജ്‌വാദി പാര്‍ട്ടി പ്രതിനിധികളെ രേഖാമൂലം അറിയിച്ചു.നേപ്പാളിലേക്ക് നേരിട്ട് ട്രെയിനില്‍ പോകാം; സരയു കമല എക്‌സ്പ്രസ് യാത്ര തുടങ്ങി, സമയം അറിയാംഎസ്പി പ്രതിനിധികള്‍ പാര്‍ട്ടിയുടെ പ്രധാന നേതാക്കളുമായി ചര്‍ച്ച ചെയ്ത് കോണ്‍ഗ്രസ് നേതൃത്വത്തെ മറുപടി അറിയിക്കും. മൂന്ന് ദിവസത്തിനകം സീറ്റ് വിഭജനത്തില്‍ അന്തിമ തീരുമാനം എടുക്കുമെന്ന് രാം ഗോപാല്‍ യാദവ് പറഞ്ഞു.ഇന്ന് നടന്ന ചര്‍ച്ച 20 മിനുട്ട് മാത്രമാണ് നീണ്ടത്. 60 എ ക്ലാസ് മണ്ഡലങ്ങള്‍ കോണ്‍ഗ്രസ് നിര്‍ബന്ധമായും ആവശ്യപ്പെടുമെന്നും വാര്‍ത്തകളുണ്ടായിരുന്നു.ഒമാന്‍ ഉഗ്രന്‍ പണി തന്നു; മലയാളികള്‍ക്ക് നേട്ടമായേക്കും, നാമക്കല്‍ മുട്ട കയറ്റുമതിക്ക് തിരിച്ചടിനിലവില്‍ ഉത്തര്‍ പ്രദേശ് നിയമസഭയല്‍ കോണ്‍ഗ്രസിന് രണ്ട് എംഎല്‍എമാര്‍ മാത്രമാണുള്ളത്. അടുത്തിടെ എംഎല്‍സി തിരഞ്ഞെടുപ്പില്‍ വരാണസി മണ്ഡലത്തില്‍ ബിജെപി പരാജയപ്പെട്ടതും പ്രതിപക്ഷത്തിന് പ്രതീക്ഷ നല്‍കിയ സാഹചര്യത്തിലാണ് തിരഞ്ഞെടുപ്പ്.ഖത്തര്‍ തന്നെ രക്ഷ; ഇറാന്‍ യുദ്ധത്തിനിടെ പുതിയ ആവശ്യവുമായി ദക്ഷിണ കൊറിയ, ആദ്യം കിട്ടണംഉത്തര്‍ പ്രദേശില്‍ 1989ന് ശേഷം കോണ്‍ഗ്രസ് തനിച്ച് ഭൂരിപക്ഷം നേടിയിട്ടില്ല.",
+      "url": "https://malayalam.oneindia.com/news/india/uttar-pradesh-election-congress-sp-first-round-seat-sharing-talks-lasted-only-20-minutes-today-605079.html",
+      "source": "Oneindia Malayalam",
+      "category": "general",
+      "published_at": "2026-11-23T12:58:04+00:00",
+      "importance": 6,
+      "personal_score": 6.25,
+      "entities": [
+        "കോണ്",
+        "ഗ്രസ്",
+        "എസ്പി",
+        "സീറ്റ്",
+        "വിഭജനം",
+        "മൂന്നു",
+        "ദിവസത്തിനകം",
+        "ആദ്യ",
+        "ചര്",
+        "ച്ച",
+        "മിനുട്ട്",
+        "മാത്രം"
       ],
       "summary_method": "tfidf_extractive_full_article"
     },
@@ -189,39 +205,13 @@
       "summary_method": "rss_fallback"
     },
     {
-      "id": "50e5709ea69bb97d",
-      "title": "കോണ്‍ഗ്രസ്-എസ്പി സീറ്റ് വിഭജനം മൂന്നു ദിവസത്തിനകം; ആദ്യ ചര്‍ച്ച 20 മിനുട്ട് മാത്രം, പട്ടിക കൈമാറി",
-      "summary": "മല്‍സരിക്കാന്‍ താല്‍പ്പര്യമുള്ള സീറ്റുകള്‍ ഏതൊക്കെ എന്ന് കോണ്‍ഗ്രസ് പ്രതിനിധികള്‍ സമാജ്‌വാദി പാര്‍ട്ടി പ്രതിനിധികളെ രേഖാമൂലം അറിയിച്ചു.നേപ്പാളിലേക്ക് നേരിട്ട് ട്രെയിനില്‍ പോകാം; സരയു കമല എക്‌സ്പ്രസ് യാത്ര തുടങ്ങി, സമയം അറിയാംഎസ്പി പ്രതിനിധികള്‍ പാര്‍ട്ടിയുടെ പ്രധാന നേതാക്കളുമായി ചര്‍ച്ച ചെയ്ത് കോണ്‍ഗ്രസ് നേതൃത്വത്തെ മറുപടി അറിയിക്കും. മൂന്ന് ദിവസത്തിനകം സീറ്റ് വിഭജനത്തില്‍ അന്തിമ തീരുമാനം എടുക്കുമെന്ന് രാം ഗോപാല്‍ യാദവ് പറഞ്ഞു.ഇന്ന് നടന്ന ചര്‍ച്ച 20 മിനുട്ട് മാത്രമാണ് നീണ്ടത്. 60 എ ക്ലാസ് മണ്ഡലങ്ങള്‍ കോണ്‍ഗ്രസ് നിര്‍ബന്ധമായും ആവശ്യപ്പെടുമെന്നും വാര്‍ത്തകളുണ്ടായിരുന്നു.ഒമാന്‍ ഉഗ്രന്‍ പണി തന്നു; മലയാളികള്‍ക്ക് നേട്ടമായേക്കും, നാമക്കല്‍ മുട്ട കയറ്റുമതിക്ക് തിരിച്ചടിനിലവില്‍ ഉത്തര്‍ പ്രദേശ് നിയമസഭയല്‍ കോണ്‍ഗ്രസിന് രണ്ട് എംഎല്‍എമാര്‍ മാത്രമാണുള്ളത്. അടുത്തിടെ എംഎല്‍സി തിരഞ്ഞെടുപ്പില്‍ വരാണസി മണ്ഡലത്തില്‍ ബിജെപി പരാജയപ്പെട്ടതും പ്രതിപക്ഷത്തിന് പ്രതീക്ഷ നല്‍കിയ സാഹചര്യത്തിലാണ് തിരഞ്ഞെടുപ്പ്.ഖത്തര്‍ തന്നെ രക്ഷ; ഇറാന്‍ യുദ്ധത്തിനിടെ പുതിയ ആവശ്യവുമായി ദക്ഷിണ കൊറിയ, ആദ്യം കിട്ടണംഉത്തര്‍ പ്രദേശില്‍ 1989ന് ശേഷം കോണ്‍ഗ്രസ് തനിച്ച് ഭൂരിപക്ഷം നേടിയിട്ടില്ല.",
-      "url": "https://malayalam.oneindia.com/news/india/uttar-pradesh-election-congress-sp-first-round-seat-sharing-talks-lasted-only-20-minutes-today-605079.html",
-      "source": "Oneindia Malayalam",
-      "category": "general",
-      "published_at": "2026-11-23T12:58:04+00:00",
-      "importance": 6,
-      "personal_score": 6.25,
-      "entities": [
-        "കോണ്",
-        "ഗ്രസ്",
-        "എസ്പി",
-        "സീറ്റ്",
-        "വിഭജനം",
-        "മൂന്നു",
-        "ദിവസത്തിനകം",
-        "ആദ്യ",
-        "ചര്",
-        "ച്ച",
-        "മിനുട്ട്",
-        "മാത്രം"
-      ],
-      "summary_method": "tfidf_extractive_full_article"
-    },
-    {
       "id": "65c65f8c08d6a7dc",
       "title": "Keralam to raise Vice-Chancellors’ age limit to 70, extend tenure to five years in State-run universities",
       "summary": "THIRUVANANTHAPURAM The United Democratic Front (UDF) government is set to raise the upper age limit for Vice-Chancellors (V-C) of State universities to 70 years and extend their tenure to five years. Mahatma Gandhi University and Sree Sankaracharya University of Sanskrit have a four-year tenure, with the former prescribing a retirement age of 65 and the latter an appointment age ceiling of 62. They also envisage changes to the composition of the search-cum-selection committees of V-Cs by replacing the senate representative with a nominee from the Syndicate or the executive committee. The Bills follow the previous Left Democratic Front (LDF) government’s unsuccessful attempts to enact various amendments to the University Acts, including those seeking to replace the Governor as Chancellor of State-run universities, alter the composition of the search-cum-selection committees in a manner that provides the State government greater leverage in the V-C appointment process, and also enhance the powers of the Pro Chancellor, a statutory position held by the Higher Education Minister.",
       "url": "https://www.thehindu.com/news/national/kerala/keralam-to-raise-vice-chancellors-age-limit-to-70extend-tenure-to-five-yearsin-state-run-universities/article71734870.ece",
       "source": "The Hindu Kerala",
       "category": "general",
-      "published_at": "2026-11-23T15:15:30+00:00",
+      "published_at": "2026-11-23T16:19:08+00:00",
       "importance": 6,
       "personal_score": 6.25,
       "entities": [
@@ -239,22 +229,60 @@
       "summary_method": "tfidf_extractive_full_article"
     },
     {
-      "id": "7b9c14f995376588",
-      "title": "Government will explore all possible ways to avoid electricity restriction in Keralam, says Minister",
-      "summary": "Addressing a Kerala State Electricity Board (KSEB) review meeting at Thodupuzha in Idukki on Monday, Joseph said that due to the El Niño effect, rainfall has been largely reduced in the State, affecting the storage levels of hydroelectric dams. According to KSEB data, the water level in the Idukki dam on Monday was 2,368.9 feet (63%), compared with 2,384.98 feet (79%) on the same day last year. Based on the recommendation of a panel appointed by the High Court to address human-animal conflicts in Chinnakkanal, the boating facility in Anayirankal was suspended following the court’s direction on July 14, 2023. He also said the Electricity department will seek permission from the forest department to set up an overhead power line to Edamalakkudy, the State’s first tribal panchayat, to provide electricity to the tribal community.",
-      "url": "https://www.thehindu.com/news/national/kerala/government-will-explore-all-possible-ways-to-avoid-electricity-restriction-in-keralam-says-minister/article71734978.ece",
+      "id": "4fb4ce240dbb9b52",
+      "title": "Kerala Higher Education department approves Pro-VC appointment in Calicut University",
+      "summary": "However, the department earlier this month sought an explanation from the Registrar and the manager of the college as to why he was relieved of his duties from his parent institution and permitted to assume charge as Pro-VC on deputation without obtaining prior sanction from the government, which is the competent authority to approve such appointments. Ashok, Principal Secretary, Higher Education, said that not obtaining government sanction for deputation was “an unintended administrative oversight”, as the university was under the impression that the statutory post of Pro-VC did not require such orders. The order said that, in view of the university’s positive intent to fill the important academic position, the government decided to accord ex-post facto approval to the appointment on deputation and the proposal of the manager of his parent institution to depute Mr. The order also said that this “shall not be treated as a precedent” and “the deputation of officers from aided colleges to universities shall be made only with the prior approval of the government invariably”.",
+      "url": "https://www.thehindu.com/news/national/kerala/kerala-higher-education-department-approves-pro-vc-appointment-in-calicut-university/article71735084.ece",
       "source": "The Hindu Kerala",
       "category": "general",
-      "published_at": "2026-11-23T14:47:39+00:00",
+      "published_at": "2026-11-23T16:03:32+00:00",
       "importance": 6,
       "personal_score": 6.25,
       "entities": [
-        "Government",
-        "Keralam",
-        "Minister Sunny Joseph",
-        "Idukki",
-        "Cheruthoni",
-        "December"
+        "Kerala Higher Education",
+        "Pro-VC",
+        "Calicut University Not",
+        "P. Rasheed Ahammed"
+      ],
+      "summary_method": "tfidf_extractive_full_article"
+    },
+    {
+      "id": "ea4e829375bec31e",
+      "title": "ആചാരമല്ല, നിയമമാണ് നിലനിൽക്കുക; സന്ന്യാസജീവിതം തിരഞ്ഞെടുത്താലും സ്വത്തവകാശം നഷ്ടപ്പെടില്ല- ഹൈക്കോടതി | Kerala high court rules on inheritance rights for monks - Mathrubhumi",
+      "summary": "ആചാരമല്ല, നിയമമാണ് നിലനിൽക്കുക; സന്ന്യാസജീവിതം തിരഞ്ഞെടുത്താലും സ്വത്തവകാശം നഷ്ടപ്പെടില്ല- ഹൈക്കോടതി | Kerala high court rules on inheritance rights for monks Mathrubhumi",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOemY2Zy1EdjRLS2dubmlucUNMdElyLWtUZ2ZOWF9jOHJ3ZXVqaG1ncUYydFVGWEdsWU83MDVnN2NhMmNfclU0a1lwSWVLbWRZTkdBMFhvd1ZVckFUOWgwZExnand0SWdHSmg1Z1M4S3p6N3Q4MEFyQkJJbmNBNmtfTUN1MlRrQVZ4NE9BVUV1QzRiWm4wMTl30gGcAUFVX3lxTE1faXE1MWc0ZG04NWJmUXdxWUlSZDhpdE1fQjdUSEMwSjFPanVGeklEWmoxenN1SksxU29uWVdFZjFJelBYZG5qLVJMMlBYY2xMV2Vnc2tPLTkyX2s0Uy1aQ29mZDM5b1JSczBJOG1Fbnh6TFRuNGJhaXJ5OFBiZERxdzNaeDJOX1dKcHMtZ2RlUGp4aVQ5eFFCWE5vUQ?oc=5",
+      "source": "Mathrubhumi",
+      "category": "general",
+      "published_at": "2026-11-24T00:51:57+00:00",
+      "importance": 6,
+      "personal_score": 6.25,
+      "entities": [
+        "ആചാരമല്ല",
+        "നിയമമാണ്",
+        "നിലനിൽക്കുക",
+        "സന്ന്യാസജീവിതം",
+        "തിരഞ്ഞെടുത്താലും",
+        "സ്വത്തവകാശം",
+        "നഷ്ടപ്പെടില്ല",
+        "ഹൈക്കോടതി",
+        "Mathrubhumi"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
+      "id": "40268f2ad6b84d1c",
+      "title": "Rift emerges in LPST stir",
+      "summary": "Thiruvananthapuram Even as the agitating Lower Primary School Teacher (LPST) rank-holders’ association denounced the government on Monday for “not taking adequate interest in expediting the discussions” and reaching a settlement, a rebel group from within the LPST rank-holders has accused the agitating leadership of sabotaging their job prospects by turning down four out of five demands that the State government had agreed to consider. However, on the same day, a dissenting group of LPST rank-holders -- led by Ajmal Shah and Iqbal -- held a press conference and alleged that the current leadership leading the protest has abandoned the core interests of the rank-holders. Adamant stance Ajmal Shah alleged that though the government had agreed to meet four out of the five demands raised by rank-holders, the agitators’ leadership was taking an adamant stance and not accepting these concessions. He claimed that the strike leadership was now going off a tangent raising new demands and that its position now did not reflect the core demand of securing jobs for as many rank-holders as possible.",
+      "url": "https://www.thehindu.com/news/national/kerala/rift-emerges-in-lpst-stir/article71735908.ece",
+      "source": "The Hindu Kerala",
+      "category": "general",
+      "published_at": "2026-11-23T17:53:36+00:00",
+      "importance": 6,
+      "personal_score": 6.25,
+      "entities": [
+        "Rift",
+        "LPST",
+        "State"
       ],
       "summary_method": "tfidf_extractive_full_article"
     },
@@ -265,7 +293,7 @@
       "url": "https://www.thehindu.com/news/national/kerala/skin-specialists-in-keralam-issue-alert-against-fairness-creams-that-promise-instant-action/article71733700.ece",
       "source": "The Hindu Kerala",
       "category": "general",
-      "published_at": "2026-11-23T15:19:46+00:00",
+      "published_at": "2026-11-23T15:57:06+00:00",
       "importance": 6,
       "personal_score": 6.25,
       "entities": [
@@ -279,98 +307,39 @@
       "summary_method": "tfidf_extractive_full_article"
     },
     {
-      "id": "4fb4ce240dbb9b52",
-      "title": "Kerala Higher Education department approves Pro-VC appointment in Calicut University",
-      "summary": "However, the department earlier this month sought an explanation from the Registrar and the manager of the college as to why he was relieved of his duties from his parent institution and permitted to assume charge as Pro-VC on deputation without obtaining prior sanction from the government, which is the competent authority to approve such appointments. Ashok, Principal Secretary, Higher Education, said that not obtaining government sanction for deputation was “an unintended administrative oversight”, as the university was under the impression that the statutory post of Pro-VC did not require such orders. The order said that, in view of the university’s positive intent to fill the important academic position, the government decided to accord ex-post facto approval to the appointment on deputation and the proposal of the manager of his parent institution to depute Mr. The order also said that this “shall not be treated as a precedent” and “the deputation of officers from aided colleges to universities shall be made only with the prior approval of the government invariably”.",
-      "url": "https://www.thehindu.com/news/national/kerala/kerala-higher-education-department-approves-pro-vc-appointment-in-calicut-university/article71735084.ece",
+      "id": "0809de4b71291967",
+      "title": "Alleged synagogue arson attempt case: court gives NIA custody of accused till Nov. 27",
+      "summary": "The accused allegedly set fire to Blossom Nursery, located opposite the Kadavumbhagam synagogue in Ernakulam market within the limits of the Kochi Central police station, in the early hours of October 12.",
+      "url": "https://www.thehindu.com/news/national/kerala//article71735231.ece",
       "source": "The Hindu Kerala",
       "category": "general",
-      "published_at": "2026-11-23T14:47:24+00:00",
+      "published_at": "2026-11-23T18:28:02+00:00",
       "importance": 6,
       "personal_score": 6.25,
       "entities": [
-        "Kerala Higher Education",
-        "Pro-VC",
-        "Calicut University Not",
-        "P. Rasheed Ahammed"
+        "Alleged",
+        "NIA",
+        "Nov",
+        "Blossom Nursery",
+        "Kadavumbhagam",
+        "Ernakulam",
+        "Kochi Central",
+        "October"
       ],
-      "summary_method": "tfidf_extractive_full_article"
+      "summary_method": "rss_fallback"
     },
     {
-      "id": "4ca5b4db59ff3110",
-      "title": "പശ്ചിമ ബംഗാളിന് ഇനി പുതിയ പേര്; 'പശ്ചിമ ബംഗ' എന്നാക്കാൻ നീക്കം, നിർദേശത്തിന് സർക്കാർ അംഗീകാരം",
-      "summary": "നിലവിലുള്ള വെസ്‌റ്റ് ബംഗാൾ എന്ന പേരിന് പകരമായാണ് പശ്ചിമ ബംഗ എന്ന പേര് നിർദേശിച്ചിരിക്കുന്നത്.1947-ൽ ഇന്ത്യ വിഭജിക്കപ്പെട്ടതുമായി ബന്ധപ്പെട്ട ചരിത്രപരമായ സാഹചര്യങ്ങളാണ് പേരുമാറ്റത്തിന് കാരണമെന്ന് മുഖ്യമന്ത്രി സുവേന്ദു അധികാരി പറഞ്ഞു. സംസ്ഥാനത്തിന്റെ ചരിത്രപരമായ അസ്ഥിത്വം കൂടുതൽ വ്യക്തമായി പ്രതിഫലിപ്പിക്കുകയാണ് പുതിയ പേരിലൂടെ ലക്ഷ്യമിടുന്നതെന്നും അദ്ദേഹം വ്യക്തമാക്കി.സംസ്ഥാന നിയമസഭയിൽ പ്രമേയം പാസായാൽ തുടർനടപടികൾക്കായി കേന്ദ്രസർക്കാരിന് അയക്കും. അതിനാൽ അന്നത്തെ ശ്രമം നടപ്പായില്ല.എന്നാൽ ഇപ്പോഴത്തെ മന്ത്രിസഭാ അംഗീകാരം കൊണ്ട് മാത്രം സംസ്ഥാനത്തിന്റെ പേര് ഔദ്യോഗികമായി മാറില്ല.ഇന്ത്യൻ ഭരണഘടനയുടെ മൂന്നാം അനുച്ഛേദം അനുസരിച്ച് ഒരു സംസ്ഥാനത്തിന്റെ പേര് മാറ്റുന്നതിന് പാർലമെന്റിന്റെ നിയമനിർമാണവും രാഷ്ട്രപതിയുടെ അംഗീകാരവും ആവശ്യമാണ്. ഇക്കുറി കേന്ദ്രത്തിലും സംസ്ഥാനത്തും ബിജെപി അധികാരത്തിൽ തുടരുന്നതിനാൽ പേര് മാറ്റ നടപടികൾ എളുപ്പമാവും എന്നാണ് വിലയിരുത്തൽ.എങ്കിലും ഡിസംബർ 9-ന് നിയമസഭയിൽ പ്രമേയം അവതരിപ്പിക്കുന്നതും പാസാക്കുന്നതും പേരുമാറ്റ നടപടിയിലെ ആദ്യഘട്ടങ്ങൾ മാത്രമാണ്.",
-      "url": "https://malayalam.oneindia.com/news/india/a-new-name-for-west-bengal-move-to-rename-it-paschim-banga-proposal-gets-government-approval-605075.html",
-      "source": "Oneindia Malayalam",
+      "id": "f0b819b472b6eacb",
+      "title": "Gang attacks police station in Kerala, arrested",
+      "summary": "Three people were arrested for allegedly attacking a police station and manhandling the personnel on duty, under the influence of alcohol in this district, police said on Saturday. Balussery police station came under attack on Friday night after a case was registered against the gang for creating ruckus at a bus stop earlier in the day, they said. \"We registered a case against them on Friday morning for creating law and order issues at a bus stop here. Angered over the police action, they barged into the station at night and attacked the personnel on duty, he added.",
+      "url": "https://indianexpress.com/article/india/kerala/gang-attacks-police-station-kerala-arrested-9031910",
+      "source": "Indian Express Kerala",
       "category": "general",
-      "published_at": "2026-11-23T12:20:56+00:00",
-      "importance": 5,
-      "personal_score": 5.25,
+      "published_at": "2023-11-18T06:04:11+00:00",
+      "importance": 6,
+      "personal_score": 6.25,
       "entities": [
-        "പശ്ചിമ",
-        "ബംഗാളിന്",
-        "ഇനി",
-        "പുതിയ",
-        "പേര്",
-        "ബംഗ",
-        "എന്നാക്കാൻ",
-        "നീക്കം",
-        "നിർദേശത്തിന്",
-        "സർക്കാർ",
-        "അംഗീകാരം",
-        "A New Name For"
-      ],
-      "summary_method": "tfidf_extractive_full_article"
-    },
-    {
-      "id": "4197a8c70f34029f",
-      "title": "'വിഡി സതീശന്റെ വിദ്വേഷ പ്രസംഗം നിയമവാഴ്ചയോടുള്ള പരസ്യ വെല്ലുവിളി', വിമർശിച്ച് പിണറായി വിജയൻ",
-      "summary": "കോൺഗ്രസിന്റെ വിദ്യാർത്ഥി-യുവജന നേതാക്കളെ കഴിഞ്ഞ സർക്കാർ ക്രൂരമായിട്ടാണ് നേരിട്ടത് എന്നും ഓരോന്നിനും എണ്ണിയെണ്ണി പകരം ചോദിക്കുമെന്നും മുഖ്യമന്ത്രി പറഞ്ഞിരുന്നു.അന്വേഷണങ്ങൾ നടക്കുന്നതും എസ്ഐടികൾ രൂപികരിച്ചതും അതിന്റെ ഭാഗമാണെന്നും വിഡി സതീശൻ പറയുകയുണ്ടായി. സംഭവത്തിൽ മുഖ്യമന്ത്രിയെ വിമർശിച്ച് പ്രതിപക്ഷ നേതാവ് പിണറായി വിജയൻ രംഗത്ത് വന്നിരിക്കുകയാണ്.പിണറായി വിജയന്റെ ഫേസ്ബുക്ക് പോസ്റ്റ്: കണ്ണൂരിൽ മുഖ്യമന്ത്രി വി ഡി സതീശൻ നടത്തിയതായി റിപ്പോർട്ട് ചെയ്യപ്പെട്ടിട്ടുള്ള വിദ്വേഷ പ്രസംഗം ഉത്തരവാദിത്തപ്പെട്ട സ്ഥാനത്തിരുന്നുകൊണ്ട് നിയമവാഴ്ചയോടുള്ള പരസ്യമായ വെല്ലുവിളിയാണ്. ഇതിന് വിരുദ്ധമായി പകരം ചോദിക്കും, എണ്ണിയെണ്ണി ചോദിക്കും എന്നിങ്ങനെയുള്ള പ്രയോഗങ്ങൾ നടത്തുന്നത് ഭരണഘടനാപരമായ സത്യപ്രതിജ്ഞയുടെ നഗ്നമായ ലംഘനത്തിൽ കുറഞ്ഞ ഒന്നുമല്ല.​പ്രത്യേക അന്വേഷണ സംഘങ്ങൾ (SIT) രൂപീകരിച്ചത് രാഷ്ട്രീയ എതിരാളികളെ ലക്ഷ്യം വെച്ചാണെന്ന തരത്തിലുള്ള പ്രസ്താവന അന്വേഷണങ്ങളുടെ നിഷ്പക്ഷതയെ സംശയനിഴലിലാക്കുന്നു. ഇത് പോലീസിനും അന്വേഷണ ഉദ്യോഗസ്ഥർക്കും മേലുള്ള പരസ്യമായ രാഷ്ട്രീയ സമ്മർദ്ദമാണ്.വായിൽ തോന്നിയത് വിളിച്ചു പറയുന്ന ഒരു ബിലോ ആവറേജ് കമ്മിണി, പാർവ്വതിക്കെതിരെ മായ മേനോൻ​നാടിന്റെ മുഴുവൻ ഭരണാധികാരി എന്ന പക്വതയ്ക്ക് പകരം, അണികളെ പ്രകോപിപ്പിക്കുന്ന തരത്തിലുള്ള പ്രസംഗങ്ങൾ നടത്തുന്നത് സംസ്ഥാനത്തെ സമാധാന അന്തരീക്ഷം തകർക്കാനിടയാക്കും.",
-      "url": "https://malayalam.oneindia.com/news/kerala/vd-satheesan-s-hate-speech-is-an-open-challenge-to-the-rule-of-law-says-pinarayi-vijayan-in-criticis-605073.html",
-      "source": "Oneindia Malayalam",
-      "category": "general",
-      "published_at": "2026-11-23T12:17:01+00:00",
-      "importance": 5,
-      "personal_score": 5.25,
-      "entities": [
-        "വിഡി",
-        "സതീശന്റെ",
-        "വിദ്വേഷ",
-        "പ്രസംഗം",
-        "നിയമവാഴ്ചയോടുള്ള",
-        "പരസ്യ",
-        "വെല്ലുവിളി",
-        "വിമർശിച്ച്",
-        "പിണറായി",
-        "വിജയൻ",
-        "VD Satheesan",
-        "Hate Speech Is"
-      ],
-      "summary_method": "tfidf_extractive_full_article"
-    },
-    {
-      "id": "a4103d39ff620d9d",
-      "title": "44,900 ശമ്പളമുള്ളവർക്ക് ഒറ്റയടിക്ക് 59,044 രൂപയാകും,കേന്ദ്ര ജീവനക്കാരുടെ കീശ നിറയുമോ? ഈ ആവശ്യം അംഗീകരിച്ചാൽ",
-      "summary": "നവംബർ 18 നാണ് ഇത് സംബന്ധിച്ച നിവേദനം സംഘടന നൽകിയത്.നിലവിലെ അടിസ്ഥാന ശമ്പളത്തിനൊപ്പം ഫിറ്റ്മെൻ്റ് ഫാക്ടർ കൂടി ചേർത്താണ് എട്ടാം ശമ്പള കമ്മീഷൻ ശമ്പളം പുതുക്കുക. അപ്പോൾ 50 ശതമാനം ഡിഎ അല്ലെങ്കിൽ 14144 രൂപ അടിസ്ഥാന ശമ്പളവുമായി ലയിപ്പിച്ചാൽ ഫിറ്റ്മെൻ്റ് ഫാക്ടർ പരിഗണിക്കുന്നതിന് മുൻപ് ജീവനക്കാരുടെ പരിഷ്കരിച്ച ശമ്പളം 59,044 രൂപയാകും. പുതിയ ഫിറ്റ്മെൻ്റ് ഫാക്ടറിനൊപ്പം ഡിഎയും ലയിപ്പിക്കുന്നതിന് പകരം മുൻപേ തന്നെ ഇത് നടപ്പാക്കണമെന്നാണ് ബിപിഎംഎസ് ആവശ്യപ്പെടുന്നത്.മുൻശമ്പള കമ്മീഷനുകൾ ശമ്പള പരിഷ്കരണം നടപ്പാക്കിയ സമയത്ത് എങ്ങനെയാണ് ഡിഎ കൈകാര്യം ചെയ്തതെന്നും ഈ ഘട്ടത്തിൽ പ്രധാനമാണ്. അല്ലാതെ ശമ്പള പരിഷ്കരണത്തിന് തൊട്ടുമുൻപ് 50 ശതമാനം ഡിഎ പ്രത്യേകമായി അടിസ്ഥാന ശമ്പളത്തോട് ചേർക്കുകയായിരുന്നില്ല.ഡിഎ ലയനം സർക്കാർ അംഗീകരിക്കുമോ?ഡിഎ ലയനം പദ്ധതിയിൽ ഇല്ലെന്നാണ് കഴഞ്ഞ വർഷം ഡിസംബറിൽ ധനകാര്യ മന്ത്രാലയം ലോക്സഭയെ അറിയിച്ചത്.",
-      "url": "https://malayalam.oneindia.com/news/kerala/salary-of-rs-44-900-may-increase-to-rs-59-044-will-central-government-employees-get-this-hike-if-th-605033.html",
-      "source": "Oneindia Malayalam",
-      "category": "general",
-      "published_at": "2026-11-23T06:40:23+00:00",
-      "importance": 5,
-      "personal_score": 5.25,
-      "entities": [
-        "ശമ്പളമുള്ളവർക്ക്",
-        "ഒറ്റയടിക്ക്",
-        "രൂപയാകും",
-        "കേന്ദ്ര",
-        "ജീവനക്കാരുടെ",
-        "കീശ",
-        "നിറയുമോ",
-        "ആവശ്യം",
-        "അംഗീകരിച്ചാൽ",
-        "Salary",
-        "May Increase",
-        "Will Central Government Employees"
+        "Gang"
       ],
       "summary_method": "tfidf_extractive_full_article"
     },
@@ -401,15 +370,111 @@
       "summary_method": "tfidf_extractive_full_article"
     },
     {
+      "id": "4ca5b4db59ff3110",
+      "title": "പശ്ചിമ ബംഗാളിന് ഇനി പുതിയ പേര്; 'പശ്ചിമ ബംഗ' എന്നാക്കാൻ നീക്കം, നിർദേശത്തിന് സർക്കാർ അംഗീകാരം",
+      "summary": "നിലവിലുള്ള വെസ്‌റ്റ് ബംഗാൾ എന്ന പേരിന് പകരമായാണ് പശ്ചിമ ബംഗ എന്ന പേര് നിർദേശിച്ചിരിക്കുന്നത്.1947-ൽ ഇന്ത്യ വിഭജിക്കപ്പെട്ടതുമായി ബന്ധപ്പെട്ട ചരിത്രപരമായ സാഹചര്യങ്ങളാണ് പേരുമാറ്റത്തിന് കാരണമെന്ന് മുഖ്യമന്ത്രി സുവേന്ദു അധികാരി പറഞ്ഞു. സംസ്ഥാനത്തിന്റെ ചരിത്രപരമായ അസ്ഥിത്വം കൂടുതൽ വ്യക്തമായി പ്രതിഫലിപ്പിക്കുകയാണ് പുതിയ പേരിലൂടെ ലക്ഷ്യമിടുന്നതെന്നും അദ്ദേഹം വ്യക്തമാക്കി.സംസ്ഥാന നിയമസഭയിൽ പ്രമേയം പാസായാൽ തുടർനടപടികൾക്കായി കേന്ദ്രസർക്കാരിന് അയക്കും. അതിനാൽ അന്നത്തെ ശ്രമം നടപ്പായില്ല.എന്നാൽ ഇപ്പോഴത്തെ മന്ത്രിസഭാ അംഗീകാരം കൊണ്ട് മാത്രം സംസ്ഥാനത്തിന്റെ പേര് ഔദ്യോഗികമായി മാറില്ല.ഇന്ത്യൻ ഭരണഘടനയുടെ മൂന്നാം അനുച്ഛേദം അനുസരിച്ച് ഒരു സംസ്ഥാനത്തിന്റെ പേര് മാറ്റുന്നതിന് പാർലമെന്റിന്റെ നിയമനിർമാണവും രാഷ്ട്രപതിയുടെ അംഗീകാരവും ആവശ്യമാണ്. ഇക്കുറി കേന്ദ്രത്തിലും സംസ്ഥാനത്തും ബിജെപി അധികാരത്തിൽ തുടരുന്നതിനാൽ പേര് മാറ്റ നടപടികൾ എളുപ്പമാവും എന്നാണ് വിലയിരുത്തൽ.എങ്കിലും ഡിസംബർ 9-ന് നിയമസഭയിൽ പ്രമേയം അവതരിപ്പിക്കുന്നതും പാസാക്കുന്നതും പേരുമാറ്റ നടപടിയിലെ ആദ്യഘട്ടങ്ങൾ മാത്രമാണ്.",
+      "url": "https://malayalam.oneindia.com/news/india/a-new-name-for-west-bengal-move-to-rename-it-paschim-banga-proposal-gets-government-approval-605075.html",
+      "source": "Oneindia Malayalam",
+      "category": "general",
+      "published_at": "2026-11-23T12:20:56+00:00",
+      "importance": 4,
+      "personal_score": 4.25,
+      "entities": [
+        "പശ്ചിമ",
+        "ബംഗാളിന്",
+        "ഇനി",
+        "പുതിയ",
+        "പേര്",
+        "ബംഗ",
+        "എന്നാക്കാൻ",
+        "നീക്കം",
+        "നിർദേശത്തിന്",
+        "സർക്കാർ",
+        "അംഗീകാരം",
+        "A New Name For"
+      ],
+      "summary_method": "tfidf_extractive_full_article"
+    },
+    {
+      "id": "4197a8c70f34029f",
+      "title": "'വിഡി സതീശന്റെ വിദ്വേഷ പ്രസംഗം നിയമവാഴ്ചയോടുള്ള പരസ്യ വെല്ലുവിളി', വിമർശിച്ച് പിണറായി വിജയൻ",
+      "summary": "കോൺഗ്രസിന്റെ വിദ്യാർത്ഥി-യുവജന നേതാക്കളെ കഴിഞ്ഞ സർക്കാർ ക്രൂരമായിട്ടാണ് നേരിട്ടത് എന്നും ഓരോന്നിനും എണ്ണിയെണ്ണി പകരം ചോദിക്കുമെന്നും മുഖ്യമന്ത്രി പറഞ്ഞിരുന്നു.അന്വേഷണങ്ങൾ നടക്കുന്നതും എസ്ഐടികൾ രൂപികരിച്ചതും അതിന്റെ ഭാഗമാണെന്നും വിഡി സതീശൻ പറയുകയുണ്ടായി. സംഭവത്തിൽ മുഖ്യമന്ത്രിയെ വിമർശിച്ച് പ്രതിപക്ഷ നേതാവ് പിണറായി വിജയൻ രംഗത്ത് വന്നിരിക്കുകയാണ്.പിണറായി വിജയന്റെ ഫേസ്ബുക്ക് പോസ്റ്റ്: കണ്ണൂരിൽ മുഖ്യമന്ത്രി വി ഡി സതീശൻ നടത്തിയതായി റിപ്പോർട്ട് ചെയ്യപ്പെട്ടിട്ടുള്ള വിദ്വേഷ പ്രസംഗം ഉത്തരവാദിത്തപ്പെട്ട സ്ഥാനത്തിരുന്നുകൊണ്ട് നിയമവാഴ്ചയോടുള്ള പരസ്യമായ വെല്ലുവിളിയാണ്. ഇതിന് വിരുദ്ധമായി പകരം ചോദിക്കും, എണ്ണിയെണ്ണി ചോദിക്കും എന്നിങ്ങനെയുള്ള പ്രയോഗങ്ങൾ നടത്തുന്നത് ഭരണഘടനാപരമായ സത്യപ്രതിജ്ഞയുടെ നഗ്നമായ ലംഘനത്തിൽ കുറഞ്ഞ ഒന്നുമല്ല.​പ്രത്യേക അന്വേഷണ സംഘങ്ങൾ (SIT) രൂപീകരിച്ചത് രാഷ്ട്രീയ എതിരാളികളെ ലക്ഷ്യം വെച്ചാണെന്ന തരത്തിലുള്ള പ്രസ്താവന അന്വേഷണങ്ങളുടെ നിഷ്പക്ഷതയെ സംശയനിഴലിലാക്കുന്നു. ഇത് പോലീസിനും അന്വേഷണ ഉദ്യോഗസ്ഥർക്കും മേലുള്ള പരസ്യമായ രാഷ്ട്രീയ സമ്മർദ്ദമാണ്.വായിൽ തോന്നിയത് വിളിച്ചു പറയുന്ന ഒരു ബിലോ ആവറേജ് കമ്മിണി, പാർവ്വതിക്കെതിരെ മായ മേനോൻ​നാടിന്റെ മുഴുവൻ ഭരണാധികാരി എന്ന പക്വതയ്ക്ക് പകരം, അണികളെ പ്രകോപിപ്പിക്കുന്ന തരത്തിലുള്ള പ്രസംഗങ്ങൾ നടത്തുന്നത് സംസ്ഥാനത്തെ സമാധാന അന്തരീക്ഷം തകർക്കാനിടയാക്കും.",
+      "url": "https://malayalam.oneindia.com/news/kerala/vd-satheesan-s-hate-speech-is-an-open-challenge-to-the-rule-of-law-says-pinarayi-vijayan-in-criticis-605073.html",
+      "source": "Oneindia Malayalam",
+      "category": "general",
+      "published_at": "2026-11-23T12:17:01+00:00",
+      "importance": 4,
+      "personal_score": 4.25,
+      "entities": [
+        "വിഡി",
+        "സതീശന്റെ",
+        "വിദ്വേഷ",
+        "പ്രസംഗം",
+        "നിയമവാഴ്ചയോടുള്ള",
+        "പരസ്യ",
+        "വെല്ലുവിളി",
+        "വിമർശിച്ച്",
+        "പിണറായി",
+        "വിജയൻ",
+        "VD Satheesan",
+        "Hate Speech Is"
+      ],
+      "summary_method": "tfidf_extractive_full_article"
+    },
+    {
+      "id": "a4103d39ff620d9d",
+      "title": "44,900 ശമ്പളമുള്ളവർക്ക് ഒറ്റയടിക്ക് 59,044 രൂപയാകും,കേന്ദ്ര ജീവനക്കാരുടെ കീശ നിറയുമോ? ഈ ആവശ്യം അംഗീകരിച്ചാൽ",
+      "summary": "നവംബർ 18 നാണ് ഇത് സംബന്ധിച്ച നിവേദനം സംഘടന നൽകിയത്.നിലവിലെ അടിസ്ഥാന ശമ്പളത്തിനൊപ്പം ഫിറ്റ്മെൻ്റ് ഫാക്ടർ കൂടി ചേർത്താണ് എട്ടാം ശമ്പള കമ്മീഷൻ ശമ്പളം പുതുക്കുക. അപ്പോൾ 50 ശതമാനം ഡിഎ അല്ലെങ്കിൽ 14144 രൂപ അടിസ്ഥാന ശമ്പളവുമായി ലയിപ്പിച്ചാൽ ഫിറ്റ്മെൻ്റ് ഫാക്ടർ പരിഗണിക്കുന്നതിന് മുൻപ് ജീവനക്കാരുടെ പരിഷ്കരിച്ച ശമ്പളം 59,044 രൂപയാകും. പുതിയ ഫിറ്റ്മെൻ്റ് ഫാക്ടറിനൊപ്പം ഡിഎയും ലയിപ്പിക്കുന്നതിന് പകരം മുൻപേ തന്നെ ഇത് നടപ്പാക്കണമെന്നാണ് ബിപിഎംഎസ് ആവശ്യപ്പെടുന്നത്.മുൻശമ്പള കമ്മീഷനുകൾ ശമ്പള പരിഷ്കരണം നടപ്പാക്കിയ സമയത്ത് എങ്ങനെയാണ് ഡിഎ കൈകാര്യം ചെയ്തതെന്നും ഈ ഘട്ടത്തിൽ പ്രധാനമാണ്. അല്ലാതെ ശമ്പള പരിഷ്കരണത്തിന് തൊട്ടുമുൻപ് 50 ശതമാനം ഡിഎ പ്രത്യേകമായി അടിസ്ഥാന ശമ്പളത്തോട് ചേർക്കുകയായിരുന്നില്ല.ഡിഎ ലയനം സർക്കാർ അംഗീകരിക്കുമോ?ഡിഎ ലയനം പദ്ധതിയിൽ ഇല്ലെന്നാണ് കഴഞ്ഞ വർഷം ഡിസംബറിൽ ധനകാര്യ മന്ത്രാലയം ലോക്സഭയെ അറിയിച്ചത്.",
+      "url": "https://malayalam.oneindia.com/news/kerala/salary-of-rs-44-900-may-increase-to-rs-59-044-will-central-government-employees-get-this-hike-if-th-605033.html",
+      "source": "Oneindia Malayalam News",
+      "category": "general",
+      "published_at": "2026-11-23T06:40:23+00:00",
+      "importance": 4,
+      "personal_score": 4.25,
+      "entities": [
+        "ശമ്പളമുള്ളവർക്ക്",
+        "ഒറ്റയടിക്ക്",
+        "രൂപയാകും",
+        "കേന്ദ്ര",
+        "ജീവനക്കാരുടെ",
+        "കീശ",
+        "നിറയുമോ",
+        "ആവശ്യം",
+        "അംഗീകരിച്ചാൽ",
+        "Salary",
+        "May Increase",
+        "Will Central Government Employees"
+      ],
+      "summary_method": "tfidf_extractive_full_article"
+    },
+    {
+      "id": "ce9e03d76728f813",
+      "title": "Keralam CPI(M) constitutes commission to probe E.P. Jayarajan’s allegations against P. Jayarajan",
+      "summary": "THIRUVANANTHAPURAM The Communist Party of India (Marxist) [CPI(M)] Keralam State secretariat has constituted an internal inquiry commission to probe the allegations levelled by the party’s central committee member E.P. The duo, the strongmen of the party in Kannur, have been locked in a bitter turf war, and the complaint is the latest development in a series of allegations they have hurled at each other. Jayarajan allegedly linking him to financial misdemeanour in connection with a resort, which he said had sullied his reputation. The tug-of-war between the two has roiled the CPI(M) politics in the district for a few years now.",
+      "url": "https://www.thehindu.com/news/national/kerala/keralam-cpim-constitutes-commission-to-probe-ep-jayarajans-allegations-against-p-jayarajan/article71735466.ece",
+      "source": "The Hindu Kerala",
+      "category": "general",
+      "published_at": "2026-11-23T16:20:38+00:00",
+      "importance": 4,
+      "personal_score": 4.25,
+      "entities": [
+        "Keralam CPI",
+        "E.P. Jayarajan",
+        "P. Jayarajan Sources",
+        "P. Jayarajan"
+      ],
+      "summary_method": "tfidf_extractive_full_article"
+    },
+    {
       "id": "8160b0a16b1a7a62",
       "title": "കാലടി സര്‍വകലാശാല വിസിക്ക് തിരിച്ചടി; വിദ്യാര്‍ഥികളുടെ സസ്‌പെന്‍ഷന്‍ കോടതി റദ്ദാക്കി, പുതിയ പരീക്ഷ",
       "summary": "16 വിദ്യാര്‍ഥികള്‍ക്ക് മാത്രമായി പുതിയ പരീക്ഷ നടത്തണം എന്നും കോടതി ഉത്തരവിട്ടു.സ്വര്‍ണം വന്‍ തിരിച്ചുവരവില്‍; സ്വര്‍ണവില കുതിച്ചുയര്‍ന്നു, വിപണിയില്‍ ട്വിസ്റ്റ്, ഇന്നത്തെ പവന്‍ വില16 എസ്എഫ്‌ഐ പ്രവര്‍ത്തകരെയാണ് സര്‍വകലാശാല സസ്‌പെന്റ് ചെയ്തിരുന്നത്. കോടതി വിധിയെ തുടര്‍ന്ന് വിദ്യാര്‍ഥികള്‍ നിരാഹാര സമരം അവസാനിപ്പിച്ചു.സര്‍വകലാശാലയുടെ നടപടിക്കെതിരെ വിദ്യാര്‍ഥികള്‍ നടത്തുന്ന നിരാഹാര സമരം 22ാം ദിവസത്തിലേക്ക് കടന്നിരിക്കെയാണ് അവര്‍ക്ക് ആശ്വാസമായി കോടതി വിധി വന്നിരിക്കുന്നത്. എന്തുവന്നാലും ആര്‍എസ്എസിന് കീഴടങ്ങില്ലെന്ന് വിദ്യാര്‍ഥികള്‍ പ്രഖ്യാപിച്ചു.മഞ്ജുവാര്യര്‍ എന്റെ വാപ്പച്ചിയുടെ മകളായിരുന്നു; സൗഹൃദത്തിന്റെ ആഴം പറഞ്ഞ് നിയാസ് ബക്കര്‍സിപിഎം എറണാകുളം ജില്ലാ സെക്രട്ടറി സതീഷ് നാരങ്ങനീര് നല്‍കി വിദ്യാര്‍ഥികളുടെ നിരാഹാര സമരം അവസാനിപ്പിച്ചു. ഇക്കാര്യം വീണ്ടും പരിശോധിക്കാന്‍ ഹൈക്കോടതിയിലെ സിംഗിള്‍ ബെഞ്ചിനോട് സുപ്രീംകോടതി നിര്‍ദേശിക്കുകയായിരുന്നു.ഇത്രയും കാലം കുട്ടികളെ പുറത്തിരുത്തിയത് മതിയായില്ലേ എന്ന് കോടതി ചോദിച്ചതും ഈ ഘട്ടത്തിലാണ്.",
       "url": "https://malayalam.oneindia.com/news/kerala/setback-for-kalady-university-vc-kerala-high-court-quashes-students-suspension-orders-fresh-exam-605019.html",
-      "source": "Oneindia Malayalam",
+      "source": "Oneindia Malayalam News",
       "category": "general",
       "published_at": "2026-11-23T06:00:08+00:00",
-      "importance": 5,
-      "personal_score": 5.25,
+      "importance": 4,
+      "personal_score": 4.25,
       "entities": [
         "കാലടി",
         "സര്",
@@ -427,234 +492,17 @@
       "summary_method": "tfidf_extractive_full_article"
     },
     {
-      "id": "64841cc4838c1dde",
-      "title": "സൗദിയിലേക്കുള്ള എയർ ഇന്ത്യ വിമാനസർവീസുകൾ പുനരാരംഭിക്കുന്നത് വൈകും: റദ്ദാക്കൽ നവംബർ 30 വരെ നീട്ടി | Air India Extends Suspension of Saudi Arabia Flights - Mathrubhumi",
-      "summary": "സൗദിയിലേക്കുള്ള എയർ ഇന്ത്യ വിമാനസർവീസുകൾ പുനരാരംഭിക്കുന്നത് വൈകും: റദ്ദാക്കൽ നവംബർ 30 വരെ നീട്ടി | Air India Extends Suspension of Saudi Arabia Flights Mathrubhumi",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZXdzRGRodWFia0lzYXZhVU13S2ZvOVB4bEg2QjVZbzFCV2s5MVlVTG1PSXo3eGtya2phSmdReTgwQlFmVG9RTFE2MmlyY1B4bGMxblE5c0c0QWxfTGxfcXExVFBKYmlHS0dCbUNZYzIxN1V5eTM3cW1RT2xCY1k4Ri1pbEE1b2lPT0VVMkg2TkhzM18zNVEzWkJ1R0ltUFlOeGFjNm14MTjSAa4BQVVfeXFMTzdEakNtZ2owWlB4QTUzN25RcW9SdHdsbmVCUnJWNFNwLWtBdU4zRjdtZGNDZHRVVTYzWDlsSldKN01xZms4dUxCZU81M0JrR2l6ekhRQ3JsNUxjR1B5aFo0WFAwWEhEN2ZlME9xQnhMQVQ2R0lIZVVpcFlYaUN5WWwxUU5tS0RrUmVWTUFGbUJ5UEZfbktFeVJDYzBkbmxlMjhhMXQ2YUFBeTIxdVlB?oc=5",
-      "source": "Mathrubhumi",
+      "id": "87ece6dc06ed9fb1",
+      "title": "Senior government pleader booked for rape in Kerala",
+      "summary": "A rape case has been registered against a senior government pleader practicing in the Kerala High Court for allegedly sexually assaulting a woman multiple times at his office and at her residence, police said on Thursday. An FIR under various provisions of the IPC, including sections 376 (rape), 354 (outraging modesty of a woman) and 506 (intimidation), and the Information Technology Act was lodged against the lawyer on Wednesday, November 29, police said. The lawyer has tendered his resignation and the same has been forwarded to the Law Department, the office of the Advocate General of Kerala said. Police said that according to the woman's complaint, the lawyer called her to his office for recording a statement in connection with some case and allegedly raped her.",
+      "url": "https://indianexpress.com/article/india/kerala/senior-government-pleader-booked-for-rape-in-kerala-9048192",
+      "source": "Indian Express Kerala",
       "category": "general",
-      "published_at": "2026-11-23T12:42:39+00:00",
+      "published_at": "2023-11-30T05:24:41+00:00",
       "importance": 4,
       "personal_score": 4.25,
       "entities": [
-        "സൗദിയിലേക്കുള്ള",
-        "എയർ",
-        "ഇന്ത്യ",
-        "വിമാനസർവീസുകൾ",
-        "പുനരാരംഭിക്കുന്നത്",
-        "വൈകും",
-        "റദ്ദാക്കൽ",
-        "നവംബർ",
-        "വരെ",
-        "നീട്ടി",
-        "Air India Extends Suspension",
-        "Saudi Arabia Flights"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
-      "id": "52fe057c2d12575a",
-      "title": "High ethanol readings: Suresh Gopi questions sampling process",
-      "summary": "PALAKKAD Union Minister of State for Petroleum and Natural Gas Suresh Gopi has challenged Karnataka’s findings of excessive ethanol content in petrol, questioning the methodology used to test fuel samples while defending the Central government’s E20 blending programme. He, however, questioned whether the samples had been collected directly from refineries, noting that petrol undergoes several stages of transportation and storage before reaching consumers. Citing countries such as Brazil and Paraguay, where ethanol blending levels are higher, he said India could consider increasing the blend to E30 or E40 in the future, subject to scientific assessments and regulatory requirements. Dismissing concerns over E20 petrol, he said there was no reason for consumers to worry about its use and that people were not being forced to use it.",
-      "url": "https://www.thehindu.com/news/national/kerala/high-ethanol-readings-suresh-gopi-questions-sampling-process/article71734972.ece",
-      "source": "The Hindu Kerala",
-      "category": "general",
-      "published_at": "2026-11-23T15:06:11+00:00",
-      "importance": 4,
-      "personal_score": 4.25,
-      "entities": [
-        "High",
-        "Suresh Gopi",
-        "Gopi"
-      ],
-      "summary_method": "tfidf_extractive_full_article"
-    },
-    {
-      "id": "82922137aa7089d5",
-      "title": "Kerala News Today Live Updates: സ‌ർക്കാരിന്റെ പ്രവ‌ർത്തനങ്ങളിൽ അതൃപ്തി; എ ഗ്രൂപ്പ് നീക്കങ്ങളെ ഗൗരവത്തോടെ കണ്ട് സതീശൻ പക്ഷം - Indian Express Malayalam",
-      "summary": "Kerala News Today Live Updates: സ‌ർക്കാരിന്റെ പ്രവ‌ർത്തനങ്ങളിൽ അതൃപ്തി; എ ഗ്രൂപ്പ് നീക്കങ്ങളെ ഗൗരവത്തോടെ കണ്ട് സതീശൻ പക്ഷം Indian Express Malayalam",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQZHAzYXRXZW9lZlBENDFhLUpxM01kcUtxT3BybWRpbTZYcnVtNFBjTjNtM0NtaldYblZQZUpuS2IySzVHV0xDTzRDaVBsVDA5TTFEX2x1dUhvWlhtVXZYeXk3cjgwLW1RTGg5U3hWMEs3Z050dEhXRmR2b2VpUVpac0VkQ3hTNEVIVTZfMThHSHpkWFNfamUtaUhOTnRTNm5PQTdqQVJ6b3V4aVRrbXEtTTl2eEh2MGYzekxkQXZEYXFTc3NrN3pBT2lpM3VySEFkYW93X3NOZkkwbWZJZjJVTEhBeTdLQlJ4c1NBb1pB0gHuAUFVX3lxTFBkcDNhdFdlb2VmUEQ0MWEtSnEzTWRxS3FPcHJtZGltNlhydW00UGNOM20zQ21qV1huVlBlSm5LYjJLNUdXTENPNENpUGxUMDlNMURfbHV1SG9aWG1Vdlh5eTdyODAtbVFMaDlTeFYwSzdnTnR0SFdGZHZvZWlRWlpzRWRDeFM0RUhVNl8xOEdIemRYU19qZS1pSE5OdFM2bk9BN2pBUnpvdXhpVGttcS1NOXZ4SHYwZjN6TGRBdkRhcVNzc2s3ekFPaWkzdXJIQWRhb3dfc05mSTBtZklmMlVMSEF5N0tCUnhzU0FvWkE?oc=5",
-      "source": "Indian Express Malayalam",
-      "category": "general",
-      "published_at": "2026-11-23T09:32:27+00:00",
-      "importance": 4,
-      "personal_score": 4.25,
-      "entities": [
-        "ർക്കാരിന്റെ",
-        "പ്രവ",
-        "ർത്തനങ്ങളിൽ",
-        "അതൃപ്തി",
-        "ഗ്രൂപ്പ്",
-        "നീക്കങ്ങളെ",
-        "ഗൗരവത്തോടെ",
-        "കണ്ട്",
-        "സതീശൻ",
-        "പക്ഷം",
-        "Kerala News Today Live",
-        "Updates"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
-      "id": "2377203dbd9c913f",
-      "title": "Dhanraj murder verdict a strong message against political violence: HM Ramesh Chennithala",
-      "summary": "Chennithala said the murders of Dhanraj and Indian Union Muslim League worker Abdul Shukkoor were unacceptable in a democratic society and should have no place in the State. While three Bharatiya Janata Party (BJP) - Rashtriya Swayamsevak Sangh (RSS) workers were found guilty in the Dhanraj murder case, 17 other accused (including one who was murdered later) were acquitted. Referring to the outcome of the case, the Home Minister said the possibility of an appeal would be considered after examining the judgment and consulting the victim’s family. “Whether in the case of Dhanraj or Shukkoor, the government would seriously consider an appeal if the families wanted one.” he said.",
-      "url": "https://www.thehindu.com/news/national/kerala/dhanraj-murder-verdict-a-strong-message-against-political-violence-hm-ramesh-chennithala/article71733997.ece",
-      "source": "The Hindu Kerala",
-      "category": "general",
-      "published_at": "2026-11-23T12:07:00+00:00",
-      "importance": 4,
-      "personal_score": 4.25,
-      "entities": [
-        "Dhanraj",
-        "HM Ramesh Chennithala Mr",
-        "Chennithala",
-        "Indian Union Muslim League",
-        "Abdul Shukkoor",
-        "State"
-      ],
-      "summary_method": "tfidf_extractive_full_article"
-    },
-    {
-      "id": "4e3efbfc022d5e03",
-      "title": "Keralam’s Sabarimala temple pins hopes on ‘Vrischikam 12’ rush to lift slow start",
-      "summary": "PATHANAMTHITTA As the annual pilgrimage season at Sabarimala got off to a slower-than-expected start, the Travancore Devaswom Board (TDB) is banking on the traditional surge in pilgrim arrivals from 12th day of the Malayalam month of Vrischikam to make up for the subdued opening week. Seeking to allay concerns over the dip in pilgrim numbers, the official pointed out that the daily average during the first week remained above 60,000. Kainikkara at the Devaswom Complex Hall on Monday assessed that pilgrims had enjoyed smooth darshan during the first week of the Mandala-Makaravilakku season. The Legal Metrology and Food Safety departments would continue inspections to check violations, while the Excise and Forest and Wildlife departments have intensified their squad operations.",
-      "url": "https://www.thehindu.com/news/national/kerala/keralams-sabarimala-temple-pins-hopes-on-vrischikam-12-rush-to-lift-slow-start/article71734766.ece",
-      "source": "The Hindu Kerala",
-      "category": "general",
-      "published_at": "2026-11-23T14:13:57+00:00",
-      "importance": 4,
-      "personal_score": 4.25,
-      "entities": [
-        "Keralam",
-        "Sabarimala",
-        "Vrischikam",
-        "Seeking"
-      ],
-      "summary_method": "tfidf_extractive_full_article"
-    },
-    {
-      "id": "ce9e03d76728f813",
-      "title": "Keralam CPI(M) constitutes commission to probe E.P. Jayarajan’s allegations against P. Jayarajan",
-      "summary": "THIRUVANANTHAPURAM The Communist Party of India (Marxist) [CPI(M)] Keralam State secretariat has constituted an internal inquiry commission to probe the allegations levelled by the party’s central committee member E.P. The duo, the strongmen of the party in Kannur, have been locked in a bitter turf war, and the complaint is the latest development in a series of allegations they have hurled at each other. Jayarajan allegedly linking him to financial misdemeanour in connection with a resort, which he said had sullied his reputation. The tug-of-war between the two has roiled the CPI(M) politics in the district for a few years now.",
-      "url": "https://www.thehindu.com/news/national/kerala/keralam-cpim-constitutes-commission-to-probe-ep-jayarajans-allegations-against-p-jayarajan/article71735466.ece",
-      "source": "The Hindu Kerala",
-      "category": "general",
-      "published_at": "2026-11-23T15:18:19+00:00",
-      "importance": 4,
-      "personal_score": 4.25,
-      "entities": [
-        "Keralam CPI",
-        "E.P. Jayarajan",
-        "P. Jayarajan Sources",
-        "P. Jayarajan"
-      ],
-      "summary_method": "tfidf_extractive_full_article"
-    },
-    {
-      "id": "2dd47fa2da785ae6",
-      "title": "Pampa road upgrade model to be replicated across Keralam",
-      "summary": "THIRUVANANTHAPURAM The Public Works department (PWD) has decided to fast-track key road infrastructure and city junction development projects across the State, adopting the Pampa–Chalakkayam road upgrade as a model for time-bound execution. The government would encourage contractors with the capacity to complete major works within stipulated deadlines and replicate the model in other public infrastructure projects, he said. Additional safety measures have been introduced at sharp curves and accident-prone locations, while concrete interlocking blocks have been laid along both sides of the road. The Pampa–Chalakkayam project would serve as a template for executing the proposed works, demonstrating the department’s capacity to complete major infrastructure projects within stipulated timelines, the Minister said.",
-      "url": "https://www.thehindu.com/news/national/kerala/pampa-road-upgrade-model-to-be-replicated-across-keralam/article71734516.ece",
-      "source": "The Hindu Kerala",
-      "category": "general",
-      "published_at": "2026-11-23T14:19:26+00:00",
-      "importance": 4,
-      "personal_score": 4.25,
-      "entities": [
-        "Pampa",
-        "Keralam The",
-        "Chalakkayam",
-        "PWD"
-      ],
-      "summary_method": "tfidf_extractive_full_article"
-    },
-    {
-      "id": "d30f5dc4192f1484",
-      "title": "Child rights panel steps in after 9-year-old injured in scooter accident in Keralam",
-      "summary": "PATHANAMTHITTA The State Commission for Protection of Child Rights has registered a suo motu case after a nine-year-old girl sustained serious head injuries in an accident while being taken to a school arts festival on a scooter. According to a complaint received by the commission, the manager and headmistress of Perunad Estate LP School here sent two students to the festival venue at Vechoochira on a scooter ridden by a person without a driving licence. The complaint sought action against the school manager and headmistress for sending the children on a scooter without helmets and allowing an unlicensed person to drive them to the venue. The commission has sought explanations from the Pathanamthitta deputy director of education, regional transport officer, Perunad station house officer and district child protection officer.",
-      "url": "https://www.thehindu.com/news/national/kerala/child-rights-panel-steps-in-after-9-year-old-injured-in-scooter-accident-in-keralam/article71734993.ece",
-      "source": "The Hindu Kerala",
-      "category": "general",
-      "published_at": "2026-11-23T14:37:25+00:00",
-      "importance": 4,
-      "personal_score": 4.25,
-      "entities": [
-        "Child",
-        "Keralam According",
-        "Perunad Estate LP School"
-      ],
-      "summary_method": "tfidf_extractive_full_article"
-    },
-    {
-      "id": "91e09beacd83e079",
-      "title": "One held for sexually assaulting minor girl on train in Keralam",
-      "summary": "THIRUVANANTHAPURAM The Railway Police took a 22-year-old man into custody for allegedly sexually assaulting a minor girl aboard the Rajya Rani Express near the Thiruvananthapuram North Railway Station in the early hours of Monday (November 23, 2026). The accused, identified as Aravind, who hails from Edava near Varkala, allegedly misbehaved with the 16-year-old girl as she was coming out of the train’s washroom. Five held for alleged abduction and gang rape of woman in Keralam Five held for alleged abduction and gang rape of woman in Keralam A special investigation team under the direction of Thrissur City Police Commissioner arrest the gang, which includes a woman, in connection with the incident that happened on September 22 Five held for alleged abduction and gang rape of woman in Keralam storyline 1 According to official sources, the girl raised an alarm after the purported crime, following which her family and fellow passengers rushed to her assistance, caught hold of the accused and handed him over to the Railway Police after the train reached the station. The police stated that Aravind had been working in a hotel in Wayanad and was travelling to Thiruvananthapuram after being transferred to a workplace in the capital.",
-      "url": "https://www.thehindu.com/news/national/kerala/one-held-for-sexually-assaulting-minor-girl-on-train-in-keralam/article71734077.ece",
-      "source": "The Hindu Kerala",
-      "category": "general",
-      "published_at": "2026-11-23T11:46:16+00:00",
-      "importance": 4,
-      "personal_score": 4.25,
-      "entities": [
-        "One",
-        "Keralam The",
-        "Aravind",
-        "Edava",
-        "Varkala"
-      ],
-      "summary_method": "tfidf_extractive_full_article"
-    },
-    {
-      "id": "2a493929de991ad1",
-      "title": "Food poisoning: 63 tourists treated at hospital in Idukki",
-      "summary": "IDUKKI Sixty-three students and teachers sought treatment from hospital after showing symptoms of food poisoning after eating from a restaurant at Kattappana in Idukki on Sunday night. About an hour later, at 11 p.m., 52 students experienced physical discomfort and sought treatment at Kattappana Taluk Hospital, while 11 students and teachers were treated at Idukki Medical College. Health officials collected food samples from the establishment and handed them over to the Food Safety Department for testing. Officials noted that because the tour group had eaten at several other restaurants in Nedumkandam and nearby areas earlier, the exact source of the food poisoning can only be confirmed once test results are returned.",
-      "url": "https://www.thehindu.com/news/national/kerala/food-poisoning-63-tourists-treated-at-hospital-in-idukki/article71735539.ece",
-      "source": "The Hindu Kerala",
-      "category": "general",
-      "published_at": "2026-11-23T15:18:50+00:00",
-      "importance": 4,
-      "personal_score": 4.25,
-      "entities": [
-        "Food",
-        "Idukki"
-      ],
-      "summary_method": "tfidf_extractive_full_article"
-    },
-    {
-      "id": "ea868dfe614e6ae5",
-      "title": "NIT-C inks pact with IRFC Foundation to set up health centre",
-      "summary": "KOZHIKODE The National Institute of Technology-Calicut (NIT-C) has signed a memorandum of agreement with the Indian Railway Finance Corporation (IRFC) Foundation, New Delhi, to construct a modern health centre on its campus. Kumaravel, Dean, International, Alumni and Corporate Relations, NIT-C, and Shwet Ketu Mishra, Member, IRFC Foundation. A release said on Monday (November 23) that the project would strengthen healthcare infrastructure for the NIT-C community by providing accessible and affordable primary healthcare services to students, faculty and staff. The centre is also expected to enable faster emergency response, reduce the need to travel for medical consultations, and improve campus preparedness for public health emergencies, including infectious disease outbreaks.",
-      "url": "https://www.thehindu.com/news/national/kerala/nit-c-inks-pact-with-irfc-foundation-to-set-up-health-centre/article71734637.ece",
-      "source": "The Hindu Kerala",
-      "category": "general",
-      "published_at": "2026-11-23T15:12:38+00:00",
-      "importance": 4,
-      "personal_score": 4.25,
-      "entities": [
-        "NIT-C",
-        "IRFC Foundation"
-      ],
-      "summary_method": "tfidf_extractive_full_article"
-    },
-    {
-      "id": "59a3a8d38b5534d3",
-      "title": "Keralam Forest department plans to conduct ‘Mission Chakkakompan’ on November 25",
-      "summary": "IDUKKI The Keralam Forest department has begun operations to tranquilise and attach a radio collar to a wild elephant named Chakkakompan in Chinnakkanal, under the Devikulam forest range in Idukki. The official further noted that the department and expert team are continuing to track the movements of the tusker and plan to guide the animal to the spot where another tusker, Arikompan, was tranquillised in 2023. Earlier plan The Forest department had earlier planned to translocate Chakkakompan after the animal killed Vijayan, 47, a resident of the Panthadikkalam tribal settlement near Chinnakkanal, on September 23. Following the fatality, tribal residents demanded the immediate removal of encroachments, the clearing of fences blocking natural elephant corridors and the translocation of two wild elephants in Chinnakkanal: Chakkakompan and Murivali.",
-      "url": "https://www.thehindu.com/news/national/kerala/forest-department-begins-operations-to-tranquilize-wild-elephant-chakkakompan/article71734101.ece",
-      "source": "The Hindu Kerala",
-      "category": "general",
-      "published_at": "2026-11-23T12:48:25+00:00",
-      "importance": 4,
-      "personal_score": 4.25,
-      "entities": [
-        "Keralam Forest",
-        "Mission Chakkakompan",
-        "November",
-        "Chief Conservator",
-        "Forests D.K. Vinod Kumar",
-        "Wayanad",
-        "Forest"
+        "Senior"
       ],
       "summary_method": "tfidf_extractive_full_article"
     },
@@ -680,44 +528,131 @@
       "summary_method": "tfidf_extractive_full_article"
     },
     {
-      "id": "e4bac6b2d243a6b6",
-      "title": "Boards of examiners in Calicut varsity likely to be reconstituted",
-      "summary": "KOZHIKODE The Syndicate sub-committee on exams at the University of Calicut (CU) has proposed to reconstitute the boards of examiners who set question papers for the various examinations conducted by the institution every year. According to sources, there are at least 20 academic experts on each of around 100 such boards on various subjects. The sources claim that some of the members of these boards were blacklisted after they introduced out-of-syllabus questions. The sub-committee is also reportedly planning to form guidelines for appointing boards of examiners.",
-      "url": "https://www.thehindu.com/news/national/kerala/boards-of-examiners-in-calicut-varsity-likely-to-be-reconstituted/article71735172.ece",
-      "source": "The Hindu Kerala",
+      "id": "4345e2a9a9596bba",
+      "title": "'സ്വന്തം താല്പര്യത്തിനായി ആരെയും ഇല്ലാതാക്കും': സെക്രട്ടേറിയറ്റിൽ പി. ജയരാജനെതിരെ പൊട്ടിത്തെറിച്ച് ഇ.പി. | CPM Kerala Internal Rift | സി.പി.എം. സെക്രട്ടേറിയറ്റ് യോഗത്തിൽ ഇ.പി. ജയരാജനും പി. ജ - Mathrubhumi",
+      "summary": "'സ്വന്തം താല്പര്യത്തിനായി ആരെയും ഇല്ലാതാക്കും': സെക്രട്ടേറിയറ്റിൽ പി. ജയരാജനെതിരെ പൊട്ടിത്തെറിച്ച് ഇ.പി. | CPM Kerala Internal Rift | സി.പി.എം. സെക്രട്ടേറിയറ്റ് യോഗത്തിൽ ഇ.പി. ജയരാജനും പി. ജ Mathrubhumi",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMlZ3ZHhCV0RhSV9pQW1xNHZMQl9CRjU1N3VVQkVFY3pwUXhUdDVJbEo2LUN3MF9zZkw2ZmdINThXUEpwYW1GREltamtOUWtrMDRrNVlCTjQ1S3o0SjJ4WGVkRzJ3d2pxeS1RSGJMVUY1V09KYjFvb0w1SnNvTWxhdEJFaTlhRHJ6MFhHZmJpYk9kS1ZyeG5DNlUtSdIBoAFBVV95cUxQcGlQdEM3SnhPVnB6LUNEN2lGbEtkWEtLcHJqTUZtTEQ4S0xibVhXQXZaanJCaXRBcDlPS3FKeU5YbWxGUkRTX080UlMtZ2tFOE5jV2JrUXRUR25kN3N6MnV5Vk9ocjZDUUp0QXNTOVRvOGdYT2E5UnVucUd0MWE3d0I2WkxDS2g2bDlKYndjbGs2b29YV2pnZWMzRWc5ekNV?oc=5",
+      "source": "Mathrubhumi",
       "category": "general",
-      "published_at": "2026-11-23T15:02:53+00:00",
+      "published_at": "2026-11-23T23:19:07+00:00",
       "importance": 4,
       "personal_score": 4.25,
       "entities": [
-        "Boards",
-        "Calicut"
+        "സ്വന്തം",
+        "താല്പര്യത്തിനായി",
+        "ആരെയും",
+        "ഇല്ലാതാക്കും",
+        "സെക്രട്ടേറിയറ്റിൽ",
+        "ജയരാജനെതിരെ",
+        "പൊട്ടിത്തെറിച്ച്",
+        "സെക്രട്ടേറിയറ്റ്",
+        "യോഗത്തിൽ",
+        "ജയരാജനും",
+        "CPM Kerala Internal Rift",
+        "Mathrubhumi"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
+      "id": "a643ef85e62722a9",
+      "title": "Heavy rains continue to lash Kerala; IMD issues red alert for one district",
+      "summary": "As heavy rains continued to lash several parts of Kerala, the India Meteorological Department on Wednesday issued a red alert for Pathanamthitta district of the state. The IMD, in the evening, predicted thunderstorms with light to moderate rainfall and gusty winds at one or two places in Thiruvananthapuram, Kollam, Alappuzha, Pathanamthitta, Kottayam, Idukki, Ernakulam, Thrissur, Palakkad, Malappuram, Kozhikode, Wayanad and Kannur districts of the state. Earlier in the day, the IMD said that cyclonic circulations over Tamil Nadu were likely to cause moderate to medium rainfall accompanied by thunder and lightning in Kerala during the next five days. The heavy rains on Tuesday had inconvenienced the thousands of devotees trudging up to the hill-top shrine of Lord Ayyappa in Sabarimala in Pathanamthitta district as part of a pilgrimage during the two-month long annual Mandalam-Makaravilakku period.",
+      "url": "https://indianexpress.com/article/india/kerala/heavy-rains-lash-imd-red-alert-district-9038308",
+      "source": "Indian Express Kerala",
+      "category": "general",
+      "published_at": "2023-11-22T15:13:01+00:00",
+      "importance": 4,
+      "personal_score": 4.25,
+      "entities": [
+        "Heavy",
+        "IMD"
       ],
       "summary_method": "tfidf_extractive_full_article"
     },
     {
-      "id": "beb3fafa2c7b7652",
-      "title": "കാലടി സർവകലാശാലയ്ക്ക് തിരിച്ചടി; സമരം ചെയ്യുന്ന വിദ്യാർഥികളുടെ സസ്‌പെൻഷൻ ഹൈക്കോടതി റദ്ദാക്കി | Kerala HC Quashes Kalady University Student Suspension - Mathrubhumi",
-      "summary": "കാലടി സർവകലാശാലയ്ക്ക് തിരിച്ചടി; സമരം ചെയ്യുന്ന വിദ്യാർഥികളുടെ സസ്‌പെൻഷൻ ഹൈക്കോടതി റദ്ദാക്കി | Kerala HC Quashes Kalady University Student Suspension Mathrubhumi",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOS3BPV3h0RWwwMkJSNGFjRlZzVzN0bnE4NHk4RkQwUE1hSHBreGR1N2FLUVRkVE5rY3lyLVkxRmhrSldFeEU3TXUwSWNOWDhUWEgtbGF6N0JFa1lXMnFnWThkdVdUNWloc095cjNCWlZVWEhDaHNIVlQ3T3c5UUlaenlvSWdIcGg4RnlkMVpoMnZxbDdmcklqdWFoaGNCUEFRUUFKY1ozcGFpQjRET1poVjBuVdIBuAFBVV95cUxPZDl2aFdwcjJWcnUyMHF5cENzWlZ4ZWFIb3BfRVBWTHRPYklucE94c1ZXX05zcnQ5Tjdwd0lwWjVOTWdLUmU0ZkhQUXByMXpwaWNEQUlPM1VXYzhHWTIwczlHR3FhQ1ZpMnoydVd5RTJCOUpVN0VUVENOSEVTLUxZd3lUSmxLNndRZmtZSzNmWU1kLXBmdVdiaGhpaVhUVUYtRm1kakc4b0plZk9UOFVsSzRyOHlnaFMw?oc=5",
-      "source": "Mathrubhumi",
+      "id": "ce348395afd58429",
+      "title": "Heavy rains lash Kerala, affect normal life; orange alert in Thiruvananthapuram",
+      "summary": "Meanwhile, the Central Water Commission (CWC) issued an orange alert for Aruvippuram station on Neyyar river in Thiruvananthapuram as the water level there was above the danger mark. Thunderstorms with lightning accompanied by gusty winds with speeds reaching 30-40 kmph, are very likely to occur at one or two places in Kerala from October 3 to 5, the IMD said. A holiday was declared by the district administration for educational institutions in Kottayam, Vaikom and Changanassery taluks where 17 relief camps are providing shelter to around 246 people due to flooding in those areas. The state has been receiving widespread rains for the last three-four days and numerous incidents of trees being uprooted, waterlogging and compound walls collapsing were reported in many places.",
+      "url": "https://indianexpress.com/article/india/kerala/heavy-rains-lash-kerala-affect-normal-life-orange-alert-in-thiruvananthapuram-8967116",
+      "source": "Indian Express Kerala",
       "category": "general",
-      "published_at": "2026-11-23T05:13:55+00:00",
+      "published_at": "2023-10-03T16:00:22+00:00",
       "importance": 4,
       "personal_score": 4.25,
       "entities": [
-        "കാലടി",
-        "സർവകലാശാലയ്ക്ക്",
-        "തിരിച്ചടി",
-        "സമരം",
-        "ചെയ്യുന്ന",
-        "വിദ്യാർഥികളുടെ",
-        "സസ്",
-        "പെൻഷൻ",
-        "ഹൈക്കോടതി",
-        "റദ്ദാക്കി",
-        "Kerala HC Quashes Kalady",
-        "University Student Suspension"
+        "Heavy",
+        "Thiruvananthapuram"
+      ],
+      "summary_method": "tfidf_extractive_full_article"
+    },
+    {
+      "id": "d85069654058ca18",
+      "title": "കുഞ്ഞുങ്ങൾക്കായി ഒന്നിച്ച് താടിക്കൂട്ടം; ചികിത്സയ്ക്കായുള്ള തുക കൈമാറി | Kerala Beard Society charity event supports SMA children - Mathrubhumi",
+      "summary": "കുഞ്ഞുങ്ങൾക്കായി ഒന്നിച്ച് താടിക്കൂട്ടം; ചികിത്സയ്ക്കായുള്ള തുക കൈമാറി | Kerala Beard Society charity event supports SMA children Mathrubhumi",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSzViaERfZVhTMlZWYzNsT21oSVV3VFpveWpKTHlPdEF1SmM2X0MzX0loV1FHNkhuNkdlRnhaeXdfcG80VDgzeXhHMFJjVThwUFFHNjR1Q3ZFanctcFFlV2pmblpQUkVGU0hoVkhNMS13T1I5ckc4dGpiQlkwcWk0RGRnUmQwVVZEdDZyc1BIcEFURGFqd3laM2ZsVXfSAaIBQVVfeXFMT0hLZFVDSk1pZ245dmNSNno2TDlWbkhtclFOYTFNa1A1eXpwcTBDVXM1NVRScEZsMG5aNDl5TEVFcFNVZzJ4dmg3VE1pbWRBdkdoYkR2a2FnMnZtU1JYeEJWeUtYYnZDeTdyZEdlVkw4SjZjOTZPcGw5cldYYnRfcHBNUFQtc0Q4NHpaLXhUaFMxUWxFMUJNSkd1TzJJR2Zsa3h3?oc=5",
+      "source": "Mathrubhumi",
+      "category": "general",
+      "published_at": "2026-11-23T02:52:37+00:00",
+      "importance": 3,
+      "personal_score": 3.25,
+      "entities": [
+        "കുഞ്ഞുങ്ങൾക്കായി",
+        "ഒന്നിച്ച്",
+        "താടിക്കൂട്ടം",
+        "ചികിത്സയ്ക്കായുള്ള",
+        "തുക",
+        "കൈമാറി",
+        "Kerala Beard Society",
+        "SMA",
+        "Mathrubhumi"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
+      "id": "ea4bc33e99c46445",
+      "title": "ജനങ്ങൾക്കും നിയമസഭയിൽ ചോദ്യങ്ങൾ നേരിട്ട് ചോദിക്കാം; കൂടിയാലോചനകൾ തുടങ്ങിയതായി സ്പീക്കർ തിരുവഞ്ചൂർ രാധാകൃഷ്ണൻ | Public Can Ask Questions in Kerala Assembly: Speaker - Mathrubhumi",
+      "summary": "ജനങ്ങൾക്കും നിയമസഭയിൽ ചോദ്യങ്ങൾ നേരിട്ട് ചോദിക്കാം; കൂടിയാലോചനകൾ തുടങ്ങിയതായി സ്പീക്കർ തിരുവഞ്ചൂർ രാധാകൃഷ്ണൻ | Public Can Ask Questions in Kerala Assembly: Speaker Mathrubhumi",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNm9QamYtYWpzOEdhZkxIN0RjUGxSSGNTMEsxUkRyazVIZG05MThEWEJ4Q1g1NFhLZTBVSmN5X0cyNk5GQnBwYS1mT0Y1bVg2VUtWYldoZ2pscEIwVDJhTmJPZGlfUnhwUDhMZW9KS3ZPeXFNM2VHS0ZWMHlQUGhPMU85R2pyemEyZW85aTZEOUYwZTRuUjVHejcxRVQwRC13ZWpkWUt6R3FhemFxVjVITEQ1N2Z0QdIBuwFBVV95cUxORzA2dkNFOXBlRF92cFYxYUhNNldDcjhSVDFWdTBWYjdxVGFfNWQyT0VweGRRSFZFNWVJNUVJS3oyS0NVYUtwS3VDOGluSDZfWjRXZEtZX1IwYjlqbWU4aFFWUTUySGFnbE5oMl9QaHRJRnJsUE1LdFhQWk1uQjhCUTJxN0VabnRBQmphVF9tVzZpRFNNb21JLU1YZHFNR0xDa2s2STZaVllRUUx5Z3k3ZVJoUlA1S2RJSnhZ?oc=5",
+      "source": "Mathrubhumi",
+      "category": "general",
+      "published_at": "2026-11-23T06:30:59+00:00",
+      "importance": 3,
+      "personal_score": 3.25,
+      "entities": [
+        "ജനങ്ങൾക്കും",
+        "നിയമസഭയിൽ",
+        "ചോദ്യങ്ങൾ",
+        "നേരിട്ട്",
+        "ചോദിക്കാം",
+        "കൂടിയാലോചനകൾ",
+        "തുടങ്ങിയതായി",
+        "സ്പീക്കർ",
+        "തിരുവഞ്ചൂർ",
+        "രാധാകൃഷ്ണൻ",
+        "Public Can Ask Questions",
+        "Kerala Assembly"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
+      "id": "8ddd363f8b5403e8",
+      "title": "റിസോർട്ടിൽ ജയരാജപ്പോര്; പി.ജയരാജനും റിസോർട്ടെന്ന് ഇ.പി , ഇരുവർക്കുമെതിരെ പാർട്ടി അന്വേഷണം - Kerala Kaumudi",
+      "summary": "റിസോർട്ടിൽ ജയരാജപ്പോര്; പി.ജയരാജനും റിസോർട്ടെന്ന് ഇ.പി , ഇരുവർക്കുമെതിരെ പാർട്ടി അന്വേഷണം Kerala Kaumudi",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1adFVhNzRaeFFlNURYZzhFYmgtRkxRVTFwRVhaUmZmSHNaOGg0a25GdUlEXzhhUXcwUVdxUEtLVmpSZXUzU2dyZzhCWE9yZktvdXVDLThvYnJsb1RzZXN2M2N1RWJKalVRQUZDdnUzRQ?oc=5",
+      "source": "Kerala Kaumudi",
+      "category": "general",
+      "published_at": "2026-11-23T17:15:12+00:00",
+      "importance": 3,
+      "personal_score": 3.25,
+      "entities": [
+        "റിസോർട്ടിൽ",
+        "ജയരാജപ്പോര്",
+        "ജയരാജനും",
+        "റിസോർട്ടെന്ന്",
+        "ഇരുവർക്കുമെതിരെ",
+        "പാർട്ടി",
+        "അന്വേഷണം",
+        "Kerala Kaumudi"
       ],
       "summary_method": "rss_fallback"
     },
@@ -729,8 +664,8 @@
       "source": "Oneindia Malayalam",
       "category": "general",
       "published_at": "2026-11-23T11:57:04+00:00",
-      "importance": 3,
-      "personal_score": 3.25,
+      "importance": 2,
+      "personal_score": 2.25,
       "entities": [
         "നേപ്പാളിലേക്ക്",
         "നേരിട്ട്",
@@ -746,255 +681,6 @@
         "അറിയാം"
       ],
       "summary_method": "tfidf_extractive_full_article"
-    },
-    {
-      "id": "43d1f665f697d5a8",
-      "title": "ഒമാന്‍ ഉഗ്രന്‍ പണി തന്നു; മലയാളികള്‍ക്ക് 'നേട്ടമായേക്കും', നാമക്കല്‍ മുട്ട കയറ്റുമതിക്ക് തിരിച്ചടി",
-      "summary": "നാമക്കലില്‍ നിന്ന് വന്‍തോതില്‍ മുട്ട കയറ്റി അയക്കുന്നത് ഒമാനിലേക്കാണ്.ഖത്തര്‍ തന്നെ രക്ഷ; ഇറാന്‍ യുദ്ധത്തിനിടെ പുതിയ ആവശ്യവുമായി ദക്ഷിണ കൊറിയ, ആദ്യം കിട്ടണംഎല്ലാ മാസവും 30 മുതല്‍ 35 കണ്ടെയ്‌നറുകള്‍ വരെ ഒമാനിലേക്ക് മുട്ട കയറ്റുമതി ചെയ്യുന്ന സ്ഥലമാണ് നാമക്കല്‍. അതേസമയം, നാമക്കലില്‍ ഇതുവരെ രോഗ ബാധ സ്ഥിരീകരിച്ചിട്ടില്ലെങ്കിലും ഒമാന്‍ ഇറക്കുമതി റദ്ദാക്കുകയായിരുന്നു.സ്വര്‍ണം വന്‍ തിരിച്ചുവരവില്‍; സ്വര്‍ണവില കുതിച്ചുയര്‍ന്നു, വിപണിയില്‍ ട്വിസ്റ്റ്, ഇന്നത്തെ പവന്‍ വിലതമിഴ്‌നാട്ടിലെ വിവിധ പ്രദേശങ്ങളില്‍ നിന്ന്, പ്രത്യേകിച്ചും നാമക്കലില്‍ നിന്ന് മുട്ട കയറ്റുമതി ചെയ്യുന്നത് ഒമാനിലേക്കാണ്. എന്നാല്‍ ഒമാന്റെ പുതിയ തീരുമാനം കയറ്റുമതിയെ ബാധിച്ചു എന്ന് മുട്ട കയറ്റുമതി അസോസിയേഷന്‍ സെക്രട്ടറി ജഹാന്‍ ആര്‍ പറഞ്ഞു.മുട്ടകള്‍ തരം തിരിച്ചാണ് കയറ്റുമതി ചെയ്യുക. കേരളത്തിലേക്ക് ഉള്‍പ്പെടെ ദക്ഷിണേന്ത്യന്‍ സംസ്ഥാനങ്ങളിലേക്ക് നാമക്കലില്‍ നിന്ന് മുട്ട കയറ്റുമതി ചെയ്യുന്നുണ്ട്.കാലടി സര്‍വകലാശാല വിസിക്ക് തിരിച്ചടി; വിദ്യാര്‍ഥികളുടെ സസ്‌പെന്‍ഷന്‍ കോടതി റദ്ദാക്കി, പുതിയ പരീക്ഷഒമാന്റെ മുട്ട ഇറക്കുമതി നിരോധനം നീണ്ടുപോയാല്‍ നാമക്കലില്‍ നിന്നുള്ള മുട്ട കേരളത്തിലേക്കും എത്തിയേക്കും.",
-      "url": "https://malayalam.oneindia.com/gulf/oman-suspends-import-of-eggs-from-namakkal-is-this-help-egg-price-reduce-in-kerala-details-inside-605059.html",
-      "source": "Oneindia Malayalam",
-      "category": "general",
-      "published_at": "2026-11-23T10:49:43+00:00",
-      "importance": 3,
-      "personal_score": 3.25,
-      "entities": [
-        "ഒമാന്",
-        "ഉഗ്രന്",
-        "പണി",
-        "തന്നു",
-        "മലയാളികള്",
-        "ക്ക്",
-        "നേട്ടമായേക്കും",
-        "നാമക്കല്",
-        "മുട്ട",
-        "കയറ്റുമതിക്ക്",
-        "തിരിച്ചടി",
-        "Oman Suspends Import Of"
-      ],
-      "summary_method": "tfidf_extractive_full_article"
-    },
-    {
-      "id": "b80d7e019bf5cbd3",
-      "title": "സഹകരണമേഖല അടിമുടി പൊളിച്ചെഴുതാൻ നീക്കം; സമഗ്ര നിയമപരിഷ്കരണത്തിന് ശുപാർശയുമായി ആസൂത്രണ ബോർഡ് | Kerala Planning Board Proposes Cooperative Sector Overhaul - Mathrubhumi",
-      "summary": "സഹകരണമേഖല അടിമുടി പൊളിച്ചെഴുതാൻ നീക്കം; സമഗ്ര നിയമപരിഷ്കരണത്തിന് ശുപാർശയുമായി ആസൂത്രണ ബോർഡ് | Kerala Planning Board Proposes Cooperative Sector Overhaul Mathrubhumi",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOU0FVTV9VRE1RUmZXeXotb1JhTDBiTlBRNjdXRXU5MFFXQ1Q0Zm5ET2RQRnpXeTc4b0hIdXBxMzlnYnNBZV9QczdKVzNYcHdGX0d6bXIwV281dUx6Q0E4QTZ6ZTdIblNvOTIxUUl1ZmFvYlRqR1lfQXY3TlNxb3hubzNfWXFYalZTeFdMTEZUMFBIMGxHaUZiNGRwb05fVXdfVVNWRmJKR0fSAa4BQVVfeXFMUHhvUmtKTGhHeFRBUlNTTng1LThOV1Rhb19Ka1NSY0FEWXpLYWpDNno1dzV2WTZxRDY2QjNrWHhneFBqaUdHUkZ5RXN5N1ZjMFI3eHB0eFNXTkZnSEJKQmpMRkVfamNnWXo2SHhoQmVQY011cU9VaE8weW1DZGtBLTRyQmxNRHJlX20yNU1Gc1FLbjRsY0pybDhxbHRxcXBIcFJxVHN6R0l4OHNqTjdB?oc=5",
-      "source": "Mathrubhumi",
-      "category": "general",
-      "published_at": "2026-11-23T01:45:46+00:00",
-      "importance": 3,
-      "personal_score": 3.25,
-      "entities": [
-        "സഹകരണമേഖല",
-        "അടിമുടി",
-        "പൊളിച്ചെഴുതാൻ",
-        "നീക്കം",
-        "സമഗ്ര",
-        "നിയമപരിഷ്കരണത്തിന്",
-        "ശുപാർശയുമായി",
-        "ആസൂത്രണ",
-        "ബോർഡ്",
-        "Kerala Planning Board Proposes",
-        "Cooperative Sector Overhaul",
-        "Mathrubhumi"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
-      "id": "63dc5dfe75898c5d",
-      "title": "ദേശീയ എച്ച്.പി.വി (HPV) വാക്സിനേഷൻ യജ്ഞത്തെ പ്രശംസിച്ച് പ്രധാനമന്ത്രി - PM India",
-      "summary": "ദേശീയ എച്ച്.പി.വി (HPV) വാക്സിനേഷൻ യജ്ഞത്തെ പ്രശംസിച്ച് പ്രധാനമന്ത്രി PM India",
-      "url": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxPQm1jYVk2eUd5VzRSd3lsb1FMY21Ic1FlbE5PMnJoMVdtbkw4YWlrQ29Zcm9WamFXWk9FcVlpYnVIc1d5Z2JscDF4Vkc4TmJZZVBTYTJSS05uZy1iNXE5ZkdBaUdpbEFZT0V0QjVaYWtEa0dIQjI5dE1OYTZhczViWFBBQ2pMYy1hb2xfVnFxSWlrR09veDd2aUNicFdHQnBUNnFJMThKcGNlQWNQa2xib0NMN1pxLV9Fdnc2YjRjc3Jfd21Td181RWdENkFSUXA5dVQxWEltOW9aaHgyYlBEMmNXMG9tN19QUlJBUWtRZzdDSjJjUXNiN293S0Q0aG5WVU9iT3ZucnkwMDlkc2M0TWdUbnJQLXF1UmE3ZXVLMU9nTjlmWEFtSm5jVTY1dGxkSnVkblJMM0hxRGI1SlRuLUZ6enpralFZQ0NaUkcwZkpnLVR1ZFpkOEhYZUFhdFF3NWh3TWV0cWtKTnpWdFVvZ2V1bw?oc=5",
-      "source": "PM India",
-      "category": "general",
-      "published_at": "2026-11-23T11:00:17+00:00",
-      "importance": 3,
-      "personal_score": 3.25,
-      "entities": [
-        "ദേശീയ",
-        "എച്ച്",
-        "വാക്സിനേഷൻ",
-        "യജ്ഞത്തെ",
-        "പ്രശംസിച്ച്",
-        "പ്രധാനമന്ത്രി",
-        "HPV",
-        "PM India"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
-      "id": "b14e155508ec66b7",
-      "title": "എന്‍വിഡിയ തലപ്പത്തേക്ക് തിരിച്ചെത്തി ജെന്‍സന്‍ ഹുവാങ്, രാജി വെച്ച് 11 ദിവസങ്ങൾക്ക് ശേഷം",
-      "summary": "എന്‍വിഡിയ പ്രസിഡണ്ട്, ബോര്‍ഡ് ഡയറക്ടര്‍, ചീഫ് എക്‌സിക്യൂട്ടീവ് ഓഫീസര്‍ പദവികളിലേക്കാണ് കമ്പനിയുടെ ബോര്‍ഡ് ഓഫ് ഡയറക്ടേഴ്‌സ് ജെന്‍സന്‍ ഹുവാങ്ങിനെ വീണ്ടും നിയോഗിച്ചിരിക്കുന്നത്.ചൈനീസ് ചാരവനിതയെന്ന് സംശയിക്കുന്ന ആലിസ് ഹുവാങ്ങുമായുളള പ്രണയവിവരങ്ങള്‍ പുറത്ത് വന്നതോടെയാണ് ജെന്‍സന്‍ എന്‍വിഡിയയില്‍ നിന്ന് രാജി വെച്ചത്. ജെന്‍സന്‍ ഹുവാങ്ങിനെ തിരിച്ച് എടുക്കാനുളള തീരുമാനം ബോര്‍ഡ് ഓഫ് ഡയറക്ടേഴ്‌സ് ഏകകണ്ഠമായി കൈക്കൊണ്ടതാണെന്ന് കമ്പനി പുറത്ത് വിട്ട വാര്‍ത്താക്കുറിപ്പില്‍ പറയുന്നു.ജെന്‍സന്‍ ഹുവാങ്ങുമായുളള നിരവധി ചര്‍ച്ചകള്‍ക്ക് ശേഷമാണ് കമ്പനിയുടെ തീരുമാനം. അമേരിക്കന്‍ സര്‍ക്കാരിലെ ഉന്നതരുമായി അടക്കം ആലോചിച്ച ശേഷമാണ് ജെന്‍സനെ തിരിച്ചെടുക്കാനുളള തീരുമാനമെന്നും കമ്പനിയുടെ ഓഹരി ഉടമകള്‍ക്കും ജീവനക്കാര്‍ക്കും പാര്‍ട്ട്ണര്‍മാര്‍ക്കും ഉപഭോക്താക്കള്‍ക്കും നല്ലത് ജെന്‍സന്റെ തിരിച്ച് വരവാണെന്നും കമ്പനി പ്രസ്താവനയില്‍ പറയുന്നു. വ്യവസായ രംഗത്ത് പുത്തന്‍ വിപ്ലവങ്ങള്‍ തുടങ്ങുന്ന സമയത്ത് ടെക് കമ്പനികളിലെ ഏറ്റവും പ്രധാനപ്പെട്ട കമ്പനികളിലൊന്നായ എന്‍വിഡിയയുടെ തലപ്പത്തേക്ക് തിരിച്ച് എത്തുന്നതില്‍ സന്തോഷമുണ്ട്.",
-      "url": "https://malayalam.oneindia.com/news/international/jensen-huang-returns-to-nvidia-as-chief-11-days-after-resigning-605101.html",
-      "source": "Oneindia Malayalam",
-      "category": "general",
-      "published_at": "2026-11-23T15:08:59+00:00",
-      "importance": 3,
-      "personal_score": 3.25,
-      "entities": [
-        "എന്",
-        "വിഡിയ",
-        "തലപ്പത്തേക്ക്",
-        "തിരിച്ചെത്തി",
-        "ജെന്",
-        "സന്",
-        "ഹുവാങ്",
-        "രാജി",
-        "വെച്ച്",
-        "ദിവസങ്ങൾക്ക്",
-        "ശേഷം",
-        "Jensen Huang Returns"
-      ],
-      "summary_method": "tfidf_extractive_full_article"
-    },
-    {
-      "id": "0b68a7c4dc27902e",
-      "title": "Kerala Goldrate : തുടർച്ചയായ വൻ ഇടിവിന് ശേഷം സ്വർണവിലയിൽ വീണ്ടും കുതിപ്പ് - News18 Malayalam",
-      "summary": "Kerala Goldrate : തുടർച്ചയായ വൻ ഇടിവിന് ശേഷം സ്വർണവിലയിൽ വീണ്ടും കുതിപ്പ് News18 Malayalam",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOWGY2RUdKVXg0OGpwWC0xM3Q1VldDUWVFZjdvdGpVczVwU2M4LWZWaVpJbjlCOXVqSGpBUzJKeERVMGxndEk4czlNWkNNT1dHVGFNT1JqN29HVnRBZGNFb2NOcWppNUgtNTUtN2h6clhDa1VJV25CRmx5c0RQYmVxbzJfWkxCa01oQ3duZm50dFFCU0NZUzFNdm9NQmVFcDQxc3RiU1BWQ28xbVU5NTZGWVNjalhRQWFOSDdsMlRxbTJqNDBUQnp3Ylp4Mmo4cnNGdTBF?oc=5",
-      "source": "News18 Malayalam",
-      "category": "general",
-      "published_at": "2026-11-23T05:40:25+00:00",
-      "importance": 3,
-      "personal_score": 3.25,
-      "entities": [
-        "തുടർച്ചയായ",
-        "ഇടിവിന്",
-        "ശേഷം",
-        "സ്വർണവിലയിൽ",
-        "വീണ്ടും",
-        "കുതിപ്പ്",
-        "Kerala Goldrate",
-        "News18 Malayalam Kerala Goldrate",
-        "News18 Malayalam"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
-      "id": "13a3a477e472485f",
-      "title": "വെല്ലിംഗ്ടണ്‍ ടെസ്റ്റിലെ സമനിലയില്‍ ഇന്ത്യയുടെ അലംഭാവത്തെ ചോദ്യം ചെയ്ത് അശ്വിന്‍; കോലിയുടെ തീവ്രത മാതൃകയാക്കണമെന്ന് നിര്‍ദ്ദേശം - Asianet News Malayalam",
-      "summary": "വെല്ലിംഗ്ടണ്‍ ടെസ്റ്റിലെ സമനിലയില്‍ ഇന്ത്യയുടെ അലംഭാവത്തെ ചോദ്യം ചെയ്ത് അശ്വിന്‍; കോലിയുടെ തീവ്രത മാതൃകയാക്കണമെന്ന് നിര്‍ദ്ദേശം Asianet News Malayalam",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPbVRmTGR4eEQ3MFhEMmRuaDRDeG0wQUlfdmtHS0laOXhHLVZucFBMYThtODNqSEJjOWxwdm9VVXc5M2JxS0FWWXItd1lyLTRva2I2aUhTdFVTU05lUnVRMm9lbW16TkFCSXhjQ2hCcldBOXRONnFOenBnRXJ5Y3YxSE4ybEt5cllBRC1uWFlMbEFNNVBqcGFSS0dyU3NDSmNUTkloMW03OU5UZmNpb2lrZ1NvMFBLckVTWUE5SFBlR3l3RXFyYWJjU1JBZDNjd3ZRdFhRVXBDOU1FcWZveGhsTDU1LXZ1d03SAewBQVVfeXFMUFlwWVpLVklnelFrR0h5dFo2YUFpdGc5Zm4ybXBRNmdPeVpDMTdXZnRfOWp3SFV6czFjQU4yMEZ2Wkh5MURFUnhFUXp3aER2bm1JRjJpcjh6bTNZZG1pcTJKQ0pTbjM5aGEyUzhaeXVvbmZfd1p3eS1pbjZKQ1VPaGlCLTFNdUhVeFg3MktOSXlrSjc0YjNhVFFvcDl6YWM5TW5DZ0djeHhQckVmUmhMOFdPTG1URVJsY1dzQk9tdlVxTkRraTc1MTZZZ0R2cUhUdkFiVzdvWmRRYkNXUVVMZUhFdkR4SkV0OF9vT2g?oc=5",
-      "source": "Asianet News Malayalam",
-      "category": "general",
-      "published_at": "2026-11-23T15:13:01+00:00",
-      "importance": 3,
-      "personal_score": 3.25,
-      "entities": [
-        "വെല്ലിംഗ്ടണ്",
-        "ടെസ്റ്റിലെ",
-        "സമനിലയില്",
-        "ഇന്ത്യയുടെ",
-        "അലംഭാവത്തെ",
-        "ചോദ്യം",
-        "ചെയ്ത്",
-        "അശ്വിന്",
-        "കോലിയുടെ",
-        "തീവ്രത",
-        "മാതൃകയാക്കണമെന്ന്",
-        "നിര്"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
-      "id": "28e04b46241ac662",
-      "title": "ടൂറിസം വകുപ്പില്‍ മാര്‍ക്കറ്റിംഗ് എക്സിക്യൂട്ടീവ് ഒഴിവുകള്‍; ശമ്പളം എത്രയെന്ന് കേട്ടോ?",
-      "summary": "KS&SSR പാര്‍ട്ട് II, റൂള്‍ 10(a)ii പ്രകാരവും, സര്‍ക്കാര്‍/കമ്മീഷന്‍ ഉത്തരവുകള്‍ പ്രകാരവും തുല്യമായതോ ഉയര്‍ന്നതോ ആയ യോഗ്യതകളും പരിഗണിക്കുന്നതാണ്. പബ്ലിക് സര്‍വീസ് കമ്മീഷന്‍ വഴിയാണ് തിരഞ്ഞെടുപ്പ് നടക്കുന്നത്.ഇതില്‍ എഴുത്തുപരീക്ഷ/OMR പരീക്ഷ/ഓണ്‍ലൈന്‍ പരീക്ഷ (നടത്തുകയാണെങ്കില്‍), ഛഠഞ പ്രൊഫൈല്‍ വഴി പരീക്ഷാ ഹാജര്‍ സ്ഥിരീകരിക്കല്‍, രേഖകള്‍/സര്‍ട്ടിഫിക്കറ്റുകള്‍ പരിശോധിക്കല്‍, റാങ്ക് ലിസ്റ്റില്‍ നിന്നുള്ള നിയമന ശുപാര്‍ശ എന്നിവ ഉള്‍പ്പെടുന്നു. പ്രൊഫൈലില്‍ അപേക്ഷ അന്തിമമായി സമര്‍പ്പിക്കുന്നതിന് മുന്‍പ്, അതിലെ വിവരങ്ങള്‍ കൃത്യമാണെന്ന് ഉദ്യോഗാര്‍ത്ഥികള്‍ ഉറപ്പുവരുത്തണം.കമ്മീഷനുമായുള്ള തുടര്‍ ആശയവിനിമയങ്ങള്‍ക്ക് ഉദ്യോഗാര്‍ത്ഥികള്‍ തങ്ങളുടെ യൂസര്‍ ഐഡി ഉപയോഗിക്കേണ്ടതാണ്. ഭാവി ആവശ്യങ്ങള്‍ക്കായി ഓണ്‍ലൈന്‍ അപേക്ഷയുടെ പ്രിന്റ് ഔട്ടോ സോഫ്റ്റ് കോപ്പിയോ സൂക്ഷിച്ചുവെക്കാന്‍ ഉദ്യോഗാര്‍ത്ഥികള്‍ ശ്രദ്ധിക്കുക.വിശദവിവരങ്ങള്‍ക്ക് കേരള പിഎസ്‌സിയുടെ ഔദ്യോഗിക വെബ്സൈറ്റ് ആയ www.keralapsc.gov.in സന്ദര്‍ശിക്കാവുന്നതാണ്.",
-      "url": "https://malayalam.oneindia.com/jobs/kerala-jobs-apply-online-for-marketing-executive-vacancies-in-kerala-tourism-department-check-deta-605051.html",
-      "source": "Oneindia Malayalam",
-      "category": "general",
-      "published_at": "2026-11-23T09:30:29+00:00",
-      "importance": 3,
-      "personal_score": 3.25,
-      "entities": [
-        "ടൂറിസം",
-        "വകുപ്പില്",
-        "മാര്",
-        "ക്കറ്റിംഗ്",
-        "എക്സിക്യൂട്ടീവ്",
-        "ഒഴിവുകള്",
-        "ശമ്പളം",
-        "എത്രയെന്ന്",
-        "കേട്ടോ",
-        "അപേക്ഷകരുടെ",
-        "പ്രായപരിധി",
-        "നും"
-      ],
-      "summary_method": "tfidf_extractive_full_article"
-    },
-    {
-      "id": "a26249446a7e188d",
-      "title": "ലോക ടെസ്റ്റ് ചാമ്പ്യൻഷിപ്പ് പട്ടികയിൽ മാറ്റം; ഇന്ത്യയുടെ പോയന്റ് ശതമാനം 50 ആയി കുറഞ്ഞു - Express Kerala",
-      "summary": "ലോക ടെസ്റ്റ് ചാമ്പ്യൻഷിപ്പ് പട്ടികയിൽ മാറ്റം; ഇന്ത്യയുടെ പോയന്റ് ശതമാനം 50 ആയി കുറഞ്ഞു Express Kerala",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPU2EyazVaa2tpTWNVUGlVOVBwWHBaZThYb1RDdjRjaUUwMFQ2bVlFZFZZbDhSNFlMZzhwT0I1Mm5lTkNFcE1WUGZKbGtaRVVYaW1ZbGE1VHFMZ0RlbW5rZ1kydnFKYmtSbnZ1UEtBSHB3ak5ER3J3cHNQcTBQNklQOW9ZUmoyeVI5VUpmZkt0allWOXlfZEMtOE91U2lidTdVd095QnVsM0NuOXVJWmFhNW5fUnoxb1Z1NUttWg?oc=5",
-      "source": "Express Kerala",
-      "category": "general",
-      "published_at": "2026-11-23T08:38:49+00:00",
-      "importance": 3,
-      "personal_score": 3.25,
-      "entities": [
-        "ലോക",
-        "ടെസ്റ്റ്",
-        "ചാമ്പ്യൻഷിപ്പ്",
-        "പട്ടികയിൽ",
-        "മാറ്റം",
-        "ഇന്ത്യയുടെ",
-        "പോയന്റ്",
-        "ശതമാനം",
-        "ആയി",
-        "കുറഞ്ഞു",
-        "Express Kerala"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
-      "id": "debc82ab6f6c5c07",
-      "title": "സ്വര്‍ണം വന്‍ തിരിച്ചുവരവില്‍; സ്വര്‍ണവില കുതിച്ചുയര്‍ന്നു, വിപണിയില്‍ ട്വിസ്റ്റ്, ഇന്നത്തെ പവന്‍ വില",
-      "summary": "ആഗോള വിപണിയില്‍ സ്വര്‍ണവില ഉയര്‍ന്നതിന് പിന്നാലെയാണ് കേരളത്തിലും വില കൂടിയിരിക്കുന്നത്.മഞ്ജുവാര്യര്‍ എന്റെ വാപ്പച്ചിയുടെ മകളായിരുന്നു; സൗഹൃദത്തിന്റെ ആഴം പറഞ്ഞ് നിയാസ് ബക്കര്‍രൂപയുടെ മൂല്യം ശക്തമായി നില്‍ക്കുന്നതിനാലാണ് സ്വര്‍ണവില ഇനിയും കയറാത്തത്. എങ്കിലും ഈ മാസം ആദ്യത്തില്‍ രേഖപ്പെടുത്തിയ വിലയേക്കാള്‍ കുറവാണ് ഇന്ന്.കേരളത്തില്‍ ഇന്ന് ഒരു പവന്‍ സ്വര്‍ണത്തിന് 92800 രൂപയായി ഉയര്‍ന്നു. ഈ വേളയില്‍ കഴിഞ്ഞ ശനിയാഴ്ച കേരളത്തില്‍ പവന്‍ വില 91720 രൂപയായി കുറഞ്ഞത് വാങ്ങാന്‍ കാത്തിരുന്നവര്‍ക്ക് ആശ്വാസമാകുകയും ചെയ്തു.ബെംഗളൂരു കെഎസ്ആര്‍ടിസി നിലമ്പൂര്‍ ഡിപ്പോയില്‍ നിന്ന്; സമയക്രമം അറിയാം, പഴയ ബസ് സമയം മാറ്റികേരളത്തില്‍ ഈ മാസം രേഖപ്പെടുത്തിയ ഏറ്റവും ഉയര്‍ന്ന പവന്‍ വില 107080 രൂപയായിരുന്നു. ഉയര്‍ന്ന വിലയ്ക്ക് അവര്‍ വാങ്ങിയ സ്വര്‍ണം കുറഞ്ഞ വിലയ്ക്ക് വില്‍ക്കേണ്ടി വന്നതായിരുന്നു ഇതിന് കാരണം.ഇന്ന് ഡോളര്‍ സൂചിക 103.77 എന്ന നിരക്കിലെത്തി.",
-      "url": "https://malayalam.oneindia.com/news/kerala/gold-rate-today-in-kerala-makes-major-comeback-pavan-gram-prices-surge-consumers-check-latest-price-605013.html",
-      "source": "Oneindia Malayalam News",
-      "category": "general",
-      "published_at": "2026-11-23T04:23:57+00:00",
-      "importance": 3,
-      "personal_score": 3.25,
-      "entities": [
-        "സ്വര്",
-        "വന്",
-        "തിരിച്ചുവരവില്",
-        "ണവില",
-        "കുതിച്ചുയര്",
-        "ന്നു",
-        "വിപണിയില്",
-        "ട്വിസ്റ്റ്",
-        "ഇന്നത്തെ",
-        "പവന്",
-        "വില",
-        "Gold Rate Today In"
-      ],
-      "summary_method": "tfidf_extractive_full_article"
-    },
-    {
-      "id": "e399f3a512ec88e3",
-      "title": "ബാങ്കാകും 'അക്ഷയ\" റേഷൻ കടകൾ 'സ്മാർട്ട് റേഷൻ ഷോപ്പു\"മായി കേരളം - Kerala Kaumudi",
-      "summary": "ബാങ്കാകും 'അക്ഷയ\" റേഷൻ കടകൾ 'സ്മാർട്ട് റേഷൻ ഷോപ്പു\"മായി കേരളം Kerala Kaumudi",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9RMWlab1c1RVFJNTFKa1hFME9JbkhTTFJCY1dQTVBKR0lGSEJ0ekJTZjRUY2phYm5aaGtFNUxTelhFLXBFMkZ2YW8yMThhd3lkQkJnc21ROGhxUWJLam9ESkwzT2tXSk5YdHEyMW4yeTZTdw?oc=5",
-      "source": "Kerala Kaumudi",
-      "category": "general",
-      "published_at": "2026-11-22T18:36:00+00:00",
-      "importance": 2,
-      "personal_score": 2.25,
-      "entities": [
-        "ബാങ്കാകും",
-        "അക്ഷയ",
-        "റേഷൻ",
-        "കടകൾ",
-        "സ്മാർട്ട്",
-        "ഷോപ്പു",
-        "മായി",
-        "കേരളം",
-        "Kerala Kaumudi"
-      ],
-      "summary_method": "rss_fallback"
     },
     {
       "id": "160005c399eec986",
@@ -1023,45 +709,315 @@
       "summary_method": "rss_fallback"
     },
     {
-      "id": "ab8ab3075279da94",
-      "title": "സ്വർണവില തകർന്നടിഞ്ഞ് താഴെ; ഇനി പവൻ വില 85000ത്തിലേക്ക്..ഗ്രാമിന് 10,625 രൂപ ആകും",
-      "summary": "വായിക്കാം1950 മുതലുള്ള സ്വർണവിലയിലെ പാറ്റേണ്‍ ശ്രദ്ധിച്ചാൽ സ്റ്റോക്ക് മാർക്കറ്റുമായി താരതമ്യം ചെയ്താലും ഭൂമിയുമായി താരതമ്യം ചെയ്താലും ദീർഘകാലത്ത് അസറ്റ്സിൻ്റെ മൂല്യം കൂടുകയേ ഉള്ളൂ. ഗോൾഡിലും ഇതുപോലുള്ള വർദ്ധനവ് വന്നിട്ടുണ്ട് .പക്ഷേ സ്റ്റോക്ക് പോലുള്ള അസറ്റുകളിൽ ഇടക്കിടക്ക് കറക്ഷൻസ് വരും. ഒരുപാട് വർഷങ്ങൾ കൂടുമ്പോഴാണ് വലിയൊരു തിരുത്തൽ വരുന്നത്.കഴിഞ്ഞ 2024 മുതൽ ഉണ്ടായതിനേക്കാൾ വലിയ വർദ്ധനവ് ഗോൾഡിന് 1970 കളിൽ വന്നിട്ടുണ്ട് .പക്ഷേ ഈ 70 കളിൽ തന്നെ 20% തിരുത്തലും വന്നിട്ടുണ്ട്. ഇത് സുരക്ഷിതമായൊരു നിക്ഷേപം ഒന്നുമല്ല എന്നുള്ള ഒരു ചിന്ത സാധാരണക്കാരന് വരുന്നത് നല്ലതാണ് .കഴിഞ്ഞ വർഷം ഈ സമയം 22 കാരറ്റ് സ്വർണത്തിന് ഒരു പവന് 90000ത്തിന് മുകളിലായിരുന്നു.",
-      "url": "https://malayalam.oneindia.com/news/kerala/gold-pavan-price-kerala-gold-prices-plunge-will-pavan-rate-fall-to-rs-85-000-gram-price-may-reach-605009.html",
+      "id": "debc82ab6f6c5c07",
+      "title": "സ്വര്‍ണം വന്‍ തിരിച്ചുവരവില്‍; സ്വര്‍ണവില കുതിച്ചുയര്‍ന്നു, വിപണിയില്‍ ട്വിസ്റ്റ്, ഇന്നത്തെ പവന്‍ വില",
+      "summary": "ആഗോള വിപണിയില്‍ സ്വര്‍ണവില ഉയര്‍ന്നതിന് പിന്നാലെയാണ് കേരളത്തിലും വില കൂടിയിരിക്കുന്നത്.മഞ്ജുവാര്യര്‍ എന്റെ വാപ്പച്ചിയുടെ മകളായിരുന്നു; സൗഹൃദത്തിന്റെ ആഴം പറഞ്ഞ് നിയാസ് ബക്കര്‍രൂപയുടെ മൂല്യം ശക്തമായി നില്‍ക്കുന്നതിനാലാണ് സ്വര്‍ണവില ഇനിയും കയറാത്തത്. എങ്കിലും ഈ മാസം ആദ്യത്തില്‍ രേഖപ്പെടുത്തിയ വിലയേക്കാള്‍ കുറവാണ് ഇന്ന്.കേരളത്തില്‍ ഇന്ന് ഒരു പവന്‍ സ്വര്‍ണത്തിന് 92800 രൂപയായി ഉയര്‍ന്നു. ഈ വേളയില്‍ കഴിഞ്ഞ ശനിയാഴ്ച കേരളത്തില്‍ പവന്‍ വില 91720 രൂപയായി കുറഞ്ഞത് വാങ്ങാന്‍ കാത്തിരുന്നവര്‍ക്ക് ആശ്വാസമാകുകയും ചെയ്തു.ബെംഗളൂരു കെഎസ്ആര്‍ടിസി നിലമ്പൂര്‍ ഡിപ്പോയില്‍ നിന്ന്; സമയക്രമം അറിയാം, പഴയ ബസ് സമയം മാറ്റികേരളത്തില്‍ ഈ മാസം രേഖപ്പെടുത്തിയ ഏറ്റവും ഉയര്‍ന്ന പവന്‍ വില 107080 രൂപയായിരുന്നു. ഉയര്‍ന്ന വിലയ്ക്ക് അവര്‍ വാങ്ങിയ സ്വര്‍ണം കുറഞ്ഞ വിലയ്ക്ക് വില്‍ക്കേണ്ടി വന്നതായിരുന്നു ഇതിന് കാരണം.ഇന്ന് ഡോളര്‍ സൂചിക 103.77 എന്ന നിരക്കിലെത്തി.",
+      "url": "https://malayalam.oneindia.com/news/kerala/gold-rate-today-in-kerala-makes-major-comeback-pavan-gram-prices-surge-consumers-check-latest-price-605013.html",
       "source": "Oneindia Malayalam News",
       "category": "general",
-      "published_at": "2026-11-23T03:11:38+00:00",
+      "published_at": "2026-11-23T04:23:57+00:00",
       "importance": 2,
       "personal_score": 2.25,
       "entities": [
-        "സ്വർണവില",
-        "തകർന്നടിഞ്ഞ്",
-        "താഴെ",
-        "ഇനി",
-        "പവൻ",
+        "സ്വര്",
+        "വന്",
+        "തിരിച്ചുവരവില്",
+        "ണവില",
+        "കുതിച്ചുയര്",
+        "ന്നു",
+        "വിപണിയില്",
+        "ട്വിസ്റ്റ്",
+        "ഇന്നത്തെ",
+        "പവന്",
         "വില",
-        "ത്തിലേക്ക്",
-        "ഗ്രാമിന്",
-        "രൂപ",
-        "ആകും",
-        "Gold Pavan Price Kerala",
-        "Gold Prices Plunge"
+        "Gold Rate Today In"
       ],
       "summary_method": "tfidf_extractive_full_article"
     },
     {
-      "id": "82783ab6ccd26976",
-      "title": "Manufacturing Momentum:Building a Self-Reliant India - www.pib.gov.in",
-      "summary": "Manufacturing Momentum:Building a Self-Reliant India www.pib.gov.in",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5adlJDZDJ6Sl84SXQtLTVlb29PQXBJZkVQMzBLbzNZWmV2NjZjckFpVEJSU0tCMVdidFkzTl9SOVFwMnpYTUtCM1hxYzZjYmhIZDJxcTNlSGZkbTJraERfbS01RkpNUHpmek5aT1N4VXE5M3AwZ1p0SQ?oc=5",
-      "source": "www.pib.gov.in",
+      "id": "43d1f665f697d5a8",
+      "title": "ഒമാന്‍ ഉഗ്രന്‍ പണി തന്നു; മലയാളികള്‍ക്ക് 'നേട്ടമായേക്കും', നാമക്കല്‍ മുട്ട കയറ്റുമതിക്ക് തിരിച്ചടി",
+      "summary": "നാമക്കലില്‍ നിന്ന് വന്‍തോതില്‍ മുട്ട കയറ്റി അയക്കുന്നത് ഒമാനിലേക്കാണ്.ഖത്തര്‍ തന്നെ രക്ഷ; ഇറാന്‍ യുദ്ധത്തിനിടെ പുതിയ ആവശ്യവുമായി ദക്ഷിണ കൊറിയ, ആദ്യം കിട്ടണംഎല്ലാ മാസവും 30 മുതല്‍ 35 കണ്ടെയ്‌നറുകള്‍ വരെ ഒമാനിലേക്ക് മുട്ട കയറ്റുമതി ചെയ്യുന്ന സ്ഥലമാണ് നാമക്കല്‍. അതേസമയം, നാമക്കലില്‍ ഇതുവരെ രോഗ ബാധ സ്ഥിരീകരിച്ചിട്ടില്ലെങ്കിലും ഒമാന്‍ ഇറക്കുമതി റദ്ദാക്കുകയായിരുന്നു.സ്വര്‍ണം വന്‍ തിരിച്ചുവരവില്‍; സ്വര്‍ണവില കുതിച്ചുയര്‍ന്നു, വിപണിയില്‍ ട്വിസ്റ്റ്, ഇന്നത്തെ പവന്‍ വിലതമിഴ്‌നാട്ടിലെ വിവിധ പ്രദേശങ്ങളില്‍ നിന്ന്, പ്രത്യേകിച്ചും നാമക്കലില്‍ നിന്ന് മുട്ട കയറ്റുമതി ചെയ്യുന്നത് ഒമാനിലേക്കാണ്. എന്നാല്‍ ഒമാന്റെ പുതിയ തീരുമാനം കയറ്റുമതിയെ ബാധിച്ചു എന്ന് മുട്ട കയറ്റുമതി അസോസിയേഷന്‍ സെക്രട്ടറി ജഹാന്‍ ആര്‍ പറഞ്ഞു.മുട്ടകള്‍ തരം തിരിച്ചാണ് കയറ്റുമതി ചെയ്യുക. കേരളത്തിലേക്ക് ഉള്‍പ്പെടെ ദക്ഷിണേന്ത്യന്‍ സംസ്ഥാനങ്ങളിലേക്ക് നാമക്കലില്‍ നിന്ന് മുട്ട കയറ്റുമതി ചെയ്യുന്നുണ്ട്.കാലടി സര്‍വകലാശാല വിസിക്ക് തിരിച്ചടി; വിദ്യാര്‍ഥികളുടെ സസ്‌പെന്‍ഷന്‍ കോടതി റദ്ദാക്കി, പുതിയ പരീക്ഷഒമാന്റെ മുട്ട ഇറക്കുമതി നിരോധനം നീണ്ടുപോയാല്‍ നാമക്കലില്‍ നിന്നുള്ള മുട്ട കേരളത്തിലേക്കും എത്തിയേക്കും.",
+      "url": "https://malayalam.oneindia.com/gulf/oman-suspends-import-of-eggs-from-namakkal-is-this-help-egg-price-reduce-in-kerala-details-inside-605059.html",
+      "source": "Oneindia Malayalam",
       "category": "general",
-      "published_at": "2026-11-21T05:54:00+00:00",
+      "published_at": "2026-11-23T10:49:43+00:00",
+      "importance": 2,
+      "personal_score": 2.25,
+      "entities": [
+        "ഒമാന്",
+        "ഉഗ്രന്",
+        "പണി",
+        "തന്നു",
+        "മലയാളികള്",
+        "ക്ക്",
+        "നേട്ടമായേക്കും",
+        "നാമക്കല്",
+        "മുട്ട",
+        "കയറ്റുമതിക്ക്",
+        "തിരിച്ചടി",
+        "Oman Suspends Import Of"
+      ],
+      "summary_method": "tfidf_extractive_full_article"
+    },
+    {
+      "id": "5d17b35d33eccc8c",
+      "title": "Kerala Muslim leader says CPM leaders promoting interfaith marriages involving Muslim girls",
+      "summary": "A prominent Muslim leader in Kerala has accused the ruling CPM of promoting interfaith marriages in such a way that Muslim girls are “being abducted and married off to non-Muslims” with the backing of the party and its youth and student wings. While addressing a meeting in Kozhikode, Nasar Faizy Koodathai, secretary of the Sunni Yuvajana Sangham, the youth wing of the influential Samastha Kerala Jem-iyyathul Ulama, said the community should remain vigilant about the CPM’s “tactics with the label of secularism”. This is the first time a leader associated with the influential body of Sunni Muslim clerics has publicly spoken against interfaith marriage in a state where Hindu and Christian outfits have accused Muslims of engaging in “love jihad’’. The government was accused of withdrawing plans to introduce gender-neutral uniforms in schools following protests, mainly from Samastha, which was of the view that such uniforms would encourage homosexuality.",
+      "url": "https://indianexpress.com/article/india/kerala/muslim-leader-cpm-promoting-interfaith-marriages-girls-9057146",
+      "source": "Indian Express Kerala",
+      "category": "general",
+      "published_at": "2023-12-06T12:33:44+00:00",
+      "importance": 2,
+      "personal_score": 2.25,
+      "entities": [
+        "Kerala Muslim",
+        "CPM",
+        "Muslim"
+      ],
+      "summary_method": "tfidf_extractive_full_article"
+    },
+    {
+      "id": "8422d730b0345bfd",
+      "title": "We can’t be neutral when section of people face genocidal aggression, says Kerala CM on Israel-Palestine conflict",
+      "summary": "Kerala Chief Minister Pinarayi Vijayan on Tuesday expressed solidarity with the people of war-ravaged Palestine and said one cannot remain neutral when a section of people were facing genocidal aggression. In an apparent reference to the Congress party, Balagopal said those who criticise the event should at least raise their voice against the central government, which was 'refusing' to pay what is due to the state government. With 42 venues, 25 seminars aimed at shaping the future of New Kerala, exhibitions, food festivals, and grand art performances, the festival showcased Kerala's commitment to secularism, unity, and unique culture, according to the government. During his concluding day speech, Vijayan elaborated on the southern state's notable accomplishments in various fields, including the cultural renaissance, land reform, people-centric planning, poverty amelioration, universal literacy, accessible public healthcare, housing provisions for all, and so on.",
+      "url": "https://indianexpress.com/article/india/kerala/kerala-cm-cant-be-neutral-on-israel-palestine-conflict-9017798",
+      "source": "Indian Express Kerala",
+      "category": "general",
+      "published_at": "2023-11-07T15:21:07+00:00",
+      "importance": 2,
+      "personal_score": 2.25,
+      "entities": [
+        "Kerala CM",
+        "Israel-Palestine"
+      ],
+      "summary_method": "tfidf_extractive_full_article"
+    },
+    {
+      "id": "1f47a4ac051fe683",
+      "title": "Amid row, Kerala govt says CM daughter’s IT firm paid IGST for transactions with minerals company",
+      "summary": "The Kerala government has said the IT firm owned by Chief Minister Pinarayi Vijayan's daughter had duly paid the required Integrated Goods and Services Tax (IGST) for her business transactions with a Kochi-based private minerals company. In a letter, the state tax department informed the Congress legislator that during the verification, it was found that the Veena's company had remitted the IGST for the amount that she received from Cochin Minerals and Rutile Ltd. The news report, citing a ruling of an Interim Board for Settlement, said the Kochi-based company previously had an agreement with Veena's IT firm for consultancy and software support services. Despite the fact that no service was rendered by her firm, the amount was paid on a monthly basis \"due to her relationship with a prominent person\", the report said, citing the deposition of the minerals company authorities before the Income Tax Department.",
+      "url": "https://indianexpress.com/article/india/kerala/kerala-govt-cm-daughters-it-firm-igst-transactions-minerals-company-8994395",
+      "source": "Indian Express Kerala",
+      "category": "general",
+      "published_at": "2023-10-22T03:48:45+00:00",
+      "importance": 2,
+      "personal_score": 2.25,
+      "entities": [
+        "Amid",
+        "IGST"
+      ],
+      "summary_method": "tfidf_extractive_full_article"
+    },
+    {
+      "id": "63dc5dfe75898c5d",
+      "title": "ദേശീയ എച്ച്.പി.വി (HPV) വാക്സിനേഷൻ യജ്ഞത്തെ പ്രശംസിച്ച് പ്രധാനമന്ത്രി - PM India",
+      "summary": "ദേശീയ എച്ച്.പി.വി (HPV) വാക്സിനേഷൻ യജ്ഞത്തെ പ്രശംസിച്ച് പ്രധാനമന്ത്രി PM India",
+      "url": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxPQm1jYVk2eUd5VzRSd3lsb1FMY21Ic1FlbE5PMnJoMVdtbkw4YWlrQ29Zcm9WamFXWk9FcVlpYnVIc1d5Z2JscDF4Vkc4TmJZZVBTYTJSS05uZy1iNXE5ZkdBaUdpbEFZT0V0QjVaYWtEa0dIQjI5dE1OYTZhczViWFBBQ2pMYy1hb2xfVnFxSWlrR09veDd2aUNicFdHQnBUNnFJMThKcGNlQWNQa2xib0NMN1pxLV9Fdnc2YjRjc3Jfd21Td181RWdENkFSUXA5dVQxWEltOW9aaHgyYlBEMmNXMG9tN19QUlJBUWtRZzdDSjJjUXNiN293S0Q0aG5WVU9iT3ZucnkwMDlkc2M0TWdUbnJQLXF1UmE3ZXVLMU9nTjlmWEFtSm5jVTY1dGxkSnVkblJMM0hxRGI1SlRuLUZ6enpralFZQ0NaUkcwZkpnLVR1ZFpkOEhYZUFhdFF3NWh3TWV0cWtKTnpWdFVvZ2V1bw?oc=5",
+      "source": "PM India",
+      "category": "general",
+      "published_at": "2026-11-23T11:00:17+00:00",
+      "importance": 2,
+      "personal_score": 2.25,
+      "entities": [
+        "ദേശീയ",
+        "എച്ച്",
+        "വാക്സിനേഷൻ",
+        "യജ്ഞത്തെ",
+        "പ്രശംസിച്ച്",
+        "പ്രധാനമന്ത്രി",
+        "HPV",
+        "PM India"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
+      "id": "2849d39d85ae97bc",
+      "title": "‘Sister in hospital, please help’: Ex-Coal India exec loses Rs 40,000 in Kerala’s first deepfake case",
+      "summary": "City police commissioner Rajpal Meena said this is the first arrest in a cyber crime using deepfake technology – wherein facial appearance is manipulated through deep generative methods. Recalling the incident on July 9, Radhakrishnan, who retired from Coal India 12 years ago as a senior executive, said he did not doubt when the person who sent a flurry of messages identified himself as Venu Kumar. When I was going through these messages, I got a WhatsApp voice call from that number.” “There was no reason to doubt his voice, which I had been familiar with for decades. When he insisted on the second payment, I hung up the call.” Radhakrishan then made a call to Venu Kumar, who lives in Andhra Pradesh, on his phone number that he found on a WhatsApp group of former Coal India executives.",
+      "url": "https://indianexpress.com/article/india/kerala/ex-coal-india-exec-loses-rs-40000-in-kerala-first-deepfake-case-9022017",
+      "source": "Indian Express Kerala",
+      "category": "general",
+      "published_at": "2023-11-10T14:07:27+00:00",
+      "importance": 2,
+      "personal_score": 2.25,
+      "entities": [
+        "Sister",
+        "Ex-Coal India"
+      ],
+      "summary_method": "tfidf_extractive_full_article"
+    },
+    {
+      "id": "4f5900efacea9abe",
+      "title": "Amid legal challenge over pending Bills, Kerala Governor approves one, sends 7 for President’s approval",
+      "summary": "Last week, the Supreme Court had asked the office of the Governor to go through its verdict in a similar case filed by the Punjab government, in which the top court held that Governors could not “thwart the normal course of lawmaking”. “You ask the Governor’s secretary to look at it (the November 10 order) and tell us what your response is,” he told Attorney General R Venkataramani, who was representing the Governor. In its petition, the state had said the pending Bills involve ones that are of great public interest, and that the delay in their approval would lead to people being deprived of welfare measures. The Governor’s conduct, the state had said, “threatens to defeat and subvert the very fundamentals and basic foundations of our Constitution, including the rule of law and democratic good governance, apart from defeating the rights of the people of the state to the welfare measures sought to be implemented through the Bills.”",
+      "url": "https://indianexpress.com/article/india/kerala/pending-bills-kerala-governor-approves-one-7-for-president-approval-9046142",
+      "source": "Indian Express Kerala",
+      "category": "general",
+      "published_at": "2023-11-28T15:26:20+00:00",
+      "importance": 2,
+      "personal_score": 2.25,
+      "entities": [
+        "Amid",
+        "Bills",
+        "Kerala Governor",
+        "President"
+      ],
+      "summary_method": "tfidf_extractive_full_article"
+    },
+    {
+      "id": "28e04b46241ac662",
+      "title": "ടൂറിസം വകുപ്പില്‍ മാര്‍ക്കറ്റിംഗ് എക്സിക്യൂട്ടീവ് ഒഴിവുകള്‍; ശമ്പളം എത്രയെന്ന് കേട്ടോ?",
+      "summary": "KS&SSR പാര്‍ട്ട് II, റൂള്‍ 10(a)ii പ്രകാരവും, സര്‍ക്കാര്‍/കമ്മീഷന്‍ ഉത്തരവുകള്‍ പ്രകാരവും തുല്യമായതോ ഉയര്‍ന്നതോ ആയ യോഗ്യതകളും പരിഗണിക്കുന്നതാണ്. പബ്ലിക് സര്‍വീസ് കമ്മീഷന്‍ വഴിയാണ് തിരഞ്ഞെടുപ്പ് നടക്കുന്നത്.ഇതില്‍ എഴുത്തുപരീക്ഷ/OMR പരീക്ഷ/ഓണ്‍ലൈന്‍ പരീക്ഷ (നടത്തുകയാണെങ്കില്‍), ഛഠഞ പ്രൊഫൈല്‍ വഴി പരീക്ഷാ ഹാജര്‍ സ്ഥിരീകരിക്കല്‍, രേഖകള്‍/സര്‍ട്ടിഫിക്കറ്റുകള്‍ പരിശോധിക്കല്‍, റാങ്ക് ലിസ്റ്റില്‍ നിന്നുള്ള നിയമന ശുപാര്‍ശ എന്നിവ ഉള്‍പ്പെടുന്നു. പ്രൊഫൈലില്‍ അപേക്ഷ അന്തിമമായി സമര്‍പ്പിക്കുന്നതിന് മുന്‍പ്, അതിലെ വിവരങ്ങള്‍ കൃത്യമാണെന്ന് ഉദ്യോഗാര്‍ത്ഥികള്‍ ഉറപ്പുവരുത്തണം.കമ്മീഷനുമായുള്ള തുടര്‍ ആശയവിനിമയങ്ങള്‍ക്ക് ഉദ്യോഗാര്‍ത്ഥികള്‍ തങ്ങളുടെ യൂസര്‍ ഐഡി ഉപയോഗിക്കേണ്ടതാണ്. ഭാവി ആവശ്യങ്ങള്‍ക്കായി ഓണ്‍ലൈന്‍ അപേക്ഷയുടെ പ്രിന്റ് ഔട്ടോ സോഫ്റ്റ് കോപ്പിയോ സൂക്ഷിച്ചുവെക്കാന്‍ ഉദ്യോഗാര്‍ത്ഥികള്‍ ശ്രദ്ധിക്കുക.വിശദവിവരങ്ങള്‍ക്ക് കേരള പിഎസ്‌സിയുടെ ഔദ്യോഗിക വെബ്സൈറ്റ് ആയ www.keralapsc.gov.in സന്ദര്‍ശിക്കാവുന്നതാണ്.",
+      "url": "https://malayalam.oneindia.com/jobs/kerala-jobs-apply-online-for-marketing-executive-vacancies-in-kerala-tourism-department-check-deta-605051.html",
+      "source": "Oneindia Malayalam",
+      "category": "general",
+      "published_at": "2026-11-23T09:30:29+00:00",
+      "importance": 2,
+      "personal_score": 2.25,
+      "entities": [
+        "ടൂറിസം",
+        "വകുപ്പില്",
+        "മാര്",
+        "ക്കറ്റിംഗ്",
+        "എക്സിക്യൂട്ടീവ്",
+        "ഒഴിവുകള്",
+        "ശമ്പളം",
+        "എത്രയെന്ന്",
+        "കേട്ടോ",
+        "അപേക്ഷകരുടെ",
+        "പ്രായപരിധി",
+        "നും"
+      ],
+      "summary_method": "tfidf_extractive_full_article"
+    },
+    {
+      "id": "f6b62028177adc68",
+      "title": "Kidnapping that gripped Kerala ends in arrest of couple and their YouTuber daughter",
+      "summary": "The abduction of a six-year-old girl in Kerala’s Kollam district – a case that has gripped the state this week – culminated with the arrest of a popular YouTuber and her parents on Saturday. On Friday, police traced the three accused – businessman K R Padmakumar (52), his wife Anitha Kumar (45), and their daughter, YouTuber and social media influencer P Anupama (20) – to Tenkasi in Tamil Nadu. Padmakumar’s daughter, Anupama, is popular on YouTube and other social media, and had been earning between Rs 3 lakh and Rs 5 lakh a month until recently before her content was demonetised, ADGP Kumar said. On the precautions taken by the accused ahead of the abduction, the ADGP said: “The car that the family used to abduct the girl had a fake number plate, which they had prepared last year.",
+      "url": "https://indianexpress.com/article/india/kerala/kerala-kidnapping-couple-youtuber-daughter-arrested-9051566",
+      "source": "Indian Express Kerala",
+      "category": "general",
+      "published_at": "2023-12-02T13:22:22+00:00",
+      "importance": 2,
+      "personal_score": 2.25,
+      "entities": [
+        "Kidnapping",
+        "YouTuber"
+      ],
+      "summary_method": "tfidf_extractive_full_article"
+    },
+    {
+      "id": "984fa70e05918bcc",
+      "title": "Actor-politician Suresh Gopi questioned by Kerala police in sexual harassment case",
+      "summary": "Malayalam film actor and former BJP Rajya Sabha MP Suresh Gopi on Wednesday turned up before the police in Kerala’s Kozhikode, where he is facing a sexual harassment case following an interaction with journalists last month. Hundreds of BJP workers, led by party state president K Surendran and several senior leaders, accompanied Gopi to the police station and waited outside as officials started questioning the actor. On October 28, the Kozhikode city police had registered a case against Gopi under Section 354 A (sexual harassment of nature of unwelcome physical contact and explicit sexual overtures) based on a complaint from a journalist working with a TV channel. After the police served a notice to the actor, the BJP launched a campaign saying the party will not allow the government to target the leader, who is keen to contest the next Lok Sabha elections from Thrissur.",
+      "url": "https://indianexpress.com/article/india/kerala/actor-politician-suresh-gopi-questioned-kerala-police-sexual-harassment-case-9027596",
+      "source": "Indian Express Kerala",
+      "category": "general",
+      "published_at": "2023-11-15T08:35:20+00:00",
+      "importance": 2,
+      "personal_score": 2.25,
+      "entities": [
+        "Actor-politician Suresh Gopi"
+      ],
+      "summary_method": "tfidf_extractive_full_article"
+    },
+    {
+      "id": "2fd66255be774fe9",
+      "title": "Food vlogger found dead at his residence in Kerala",
+      "summary": "Police said Kutty's parents and friends found him unconscious in his bedroom and rushed him to a private hospital nearby. The vlogger was part of 'Eat Kochi Eat', a popular online platform for foodies in which they introduce the least explored food joints in the city. Kindly keep him in your prayers and wish we & his family find the strength to bear the loss of this beautiful soul,\" the official page of Eat Kochi Eat posted on Instagram. View this post on Instagram A post shared by Eat Kochi Eat (@eatkochieat) The page has over 4.21 lakh followers.",
+      "url": "https://indianexpress.com/article/india/kerala/food-vlogger-found-dead-at-his-residence-in-kerala-9013269",
+      "source": "Indian Express Kerala",
+      "category": "general",
+      "published_at": "2023-11-04T10:34:55+00:00",
+      "importance": 2,
+      "personal_score": 2.25,
+      "entities": [
+        "Food"
+      ],
+      "summary_method": "tfidf_extractive_full_article"
+    },
+    {
+      "id": "572cf82396c4713f",
+      "title": "Kerala doctor suicide: Police arrest friend who backed out of marriage",
+      "summary": "Two days after a female medical student's suicide shocked the consciousness of the state, police on Thursday took into custody a doctor who had allegedly backed out of their marriage proposal recently as her family couldn't meet the demand for hefty dowry. Shahana (26), a postgraduate student in the surgery department of the Government Medical College here, was found unconscious at her apartment and later declared brought dead at the hospital on Tuesday. Its Chairperson A A Rasheed directed the district collector, city police commissioner and director of medical education to appear before the Commission during its next sitting here on December 14 and submit a report on the incident. Expressing grief and concern over the alleged suicide of the young doctor, Sathidevi said stringent measures should be taken if the mental agony caused due to dowry had forced her to take the extreme step.",
+      "url": "https://indianexpress.com/article/india/kerala/kerala-doctor-suicide-police-detention-9058069",
+      "source": "Indian Express Kerala",
+      "category": "general",
+      "published_at": "2023-12-07T06:50:06+00:00",
+      "importance": 2,
+      "personal_score": 2.25,
+      "entities": [
+        "Police"
+      ],
+      "summary_method": "tfidf_extractive_full_article"
+    },
+    {
+      "id": "8ad935bf83a1c981",
+      "title": "Kerala: Woman police officer beaten up by man whom she had gone to arrest",
+      "summary": "A woman sub-inspector was beaten up a day ago by a man whom she and her team had gone to arrest in connection with a 2013 assault case, police said on Monday. Erumeli Sub Inspector Shanti K Babu and a police team had gone to the home of the accused to execute a court warrant on the specific instructions of the district police chief. At the residence of the accused, he refused to go along with the police officers and was also seen shouting at them aggresively, following which they tried to take him by force. Visuals of the incident on TV channels showed the accused, V G Sreedharan, grabbing the Sub Inspector's hair and hitting her on the back as the officers were attempting to bring him out of his house.",
+      "url": "https://indianexpress.com/article/india/kerala/kerala-woman-police-officer-beaten-up-by-man-whom-she-had-gone-to-arrest-8985956",
+      "source": "Indian Express Kerala",
+      "category": "general",
+      "published_at": "2023-10-16T12:27:07+00:00",
+      "importance": 2,
+      "personal_score": 2.25,
+      "entities": [
+        "Woman"
+      ],
+      "summary_method": "tfidf_extractive_full_article"
+    },
+    {
+      "id": "db2ce9ded49e9b14",
+      "title": "Kerala Guv Khan blames CM Vijayan for pressuring him to reappoint Kannur VC",
+      "summary": "Kerala Governor Arif Mohammed Khan on Thursday accused Chief Minister Pinarayi Vijayan of pressuring him to reappoint Gopinath Ravindran as the vice chancellor (VC) of Kannur University. Khan, speaking to reporters here, said that state Higher Education Minister R Bindu was not to be blamed as the CM used her for seeking reappointment of Ravindran. A division bench of the Kerala High Court had on February 23 last year dismissed an appeal against a single-judge order upholding the re-appointment of Ravindran as the VC of the university, saying it was done in accordance with the law and that he was not \"an usurper to the post\". The impugned judgement and the order passed by the high court dated February 23, 2022 is hereby set aside and as a consequence, the notification dated November 23, 2021 reappointing the respondent number 4 (Ravindran) as the vice chancellor of the Kannur University is hereby set aside, the top court said in its judgement.",
+      "url": "https://indianexpress.com/article/india/kerala/kerala-guv-vijayan-kannur-vc-reappoint-9048557",
+      "source": "Indian Express Kerala",
+      "category": "general",
+      "published_at": "2023-11-30T09:11:42+00:00",
+      "importance": 2,
+      "personal_score": 2.25,
+      "entities": [
+        "Kerala Guv Khan",
+        "CM Vijayan",
+        "Kannur VC"
+      ],
+      "summary_method": "tfidf_extractive_full_article"
+    },
+    {
+      "id": "0636ac45134b57c2",
+      "title": "Kerala’s decision to re-appoint Ravindran as VC of Kannur University set aside by SC",
+      "summary": "The Supreme Court on Thursday quashed the Kerala government's decision to re-appoint Gopinath Ravindran as the vice chancellor of Kannur University. A division bench of the Kerala High Court had on February 23 last year dismissed an appeal against a single-judge order upholding the re-appointment of Ravindran as the VC of the university, saying it was done in accordance with the law and that he was not \"an usurper to the post\". “The impugned judgement and the order passed by the high court dated February 23, 2022 is hereby set aside and as a consequence, the notification dated November 23, 2021 reappointing the respondent number 4 (Ravindran) as the vice chancellor of the Kannur University is hereby set aside,” the top court said in its judgement. Ravindran's re-appointment has been in limelight in Kerala as for the first time in the history of the state, a vice chancellor was re-appointed.",
+      "url": "https://indianexpress.com/article/india/kerala/kerala-ravindran-reappoint-vc-kannur-university-sc-9048295",
+      "source": "Indian Express Kerala",
+      "category": "general",
+      "published_at": "2023-11-30T06:40:18+00:00",
+      "importance": 2,
+      "personal_score": 2.25,
+      "entities": [
+        "Ravindran",
+        "Kannur University"
+      ],
+      "summary_method": "tfidf_extractive_full_article"
+    },
+    {
+      "id": "1a422c336773e9f6",
+      "title": "Kerala Science Slam 26 – ഗവേഷകർക്കുള്ള രജിസ്ട്രേഷൻ ആരംഭിച്ചു - LUCA Science Magazine",
+      "summary": "Kerala Science Slam 26 – ഗവേഷകർക്കുള്ള രജിസ്ട്രേഷൻ ആരംഭിച്ചു LUCA Science Magazine",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5vUGhvT1NnZFh5RDR1ZXpTcThnN1RKYWprMV9jeVFqRkh0cEZUUWE4ZURLYTFNb1RsUEpEVUcwNGNFQVdJVDRUV2p5N2JaS1A5Q2pETg?oc=5",
+      "source": "LUCA Science Magazine",
+      "category": "general",
+      "published_at": "2026-09-15T09:55:01+00:00",
       "importance": 1,
       "personal_score": 1.25,
       "entities": [
-        "Manufacturing Momentum",
-        "Building",
-        "Self-Reliant India"
+        "ഗവേഷകർക്കുള്ള",
+        "രജിസ്ട്രേഷൻ",
+        "ആരംഭിച്ചു",
+        "Kerala Science Slam",
+        "LUCA Science Magazine Kerala",
+        "Science Slam",
+        "LUCA Science Magazine"
       ],
       "summary_method": "rss_fallback"
     },
@@ -1091,66 +1047,58 @@
       "summary_method": "rss_fallback"
     },
     {
-      "id": "1a422c336773e9f6",
-      "title": "Kerala Science Slam 26 – ഗവേഷകർക്കുള്ള രജിസ്ട്രേഷൻ ആരംഭിച്ചു - LUCA Science Magazine",
-      "summary": "Kerala Science Slam 26 – ഗവേഷകർക്കുള്ള രജിസ്ട്രേഷൻ ആരംഭിച്ചു LUCA Science Magazine",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5vUGhvT1NnZFh5RDR1ZXpTcThnN1RKYWprMV9jeVFqRkh0cEZUUWE4ZURLYTFNb1RsUEpEVUcwNGNFQVdJVDRUV2p5N2JaS1A5Q2pETg?oc=5",
-      "source": "LUCA Science Magazine",
+      "id": "82783ab6ccd26976",
+      "title": "Manufacturing Momentum:Building a Self-Reliant India - www.pib.gov.in",
+      "summary": "Manufacturing Momentum:Building a Self-Reliant India www.pib.gov.in",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5adlJDZDJ6Sl84SXQtLTVlb29PQXBJZkVQMzBLbzNZWmV2NjZjckFpVEJSU0tCMVdidFkzTl9SOVFwMnpYTUtCM1hxYzZjYmhIZDJxcTNlSGZkbTJraERfbS01RkpNUHpmek5aT1N4VXE5M3AwZ1p0SQ?oc=5",
+      "source": "www.pib.gov.in",
       "category": "general",
-      "published_at": "2026-09-15T09:55:01+00:00",
+      "published_at": "2026-11-21T05:54:00+00:00",
       "importance": 1,
       "personal_score": 1.25,
       "entities": [
-        "ഗവേഷകർക്കുള്ള",
-        "രജിസ്ട്രേഷൻ",
-        "ആരംഭിച്ചു",
-        "Kerala Science Slam",
-        "LUCA Science Magazine Kerala",
-        "Science Slam",
-        "LUCA Science Magazine"
+        "Manufacturing Momentum",
+        "Building",
+        "Self-Reliant India"
       ],
       "summary_method": "rss_fallback"
     },
     {
-      "id": "4e3e1bd6d0c6d2fe",
-      "title": "ജെല്ലിന്റെ മായാലോകം – Kerala Science Slam - LUCA Science Magazine",
-      "summary": "ജെല്ലിന്റെ മായാലോകം – Kerala Science Slam LUCA Science Magazine",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBxY1VMYjcwdnZmLUtkZkppRVJLX2RfMG51R0xkakFfUFpZREVxak1LNkRERjJ4aDhvVmJjTkN3dXpVVE1TMTZUWFNNcFMzT2JsUlhnME5MS1pnWG40bWpWSg?oc=5",
-      "source": "LUCA Science Magazine",
+      "id": "e9584ef90777921d",
+      "title": "Strengthening India’s Space Sovereignty - www.pib.gov.in",
+      "summary": "Strengthening India’s Space Sovereignty www.pib.gov.in",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1tNHZxQUJKbER3TktaNW5jZFozYUxpNHFxVW1mdGI5aV9PZU5WRlA2a0pGY25yeWF6MHNOMm5wakVPMmpJRFFNT3ZYbGZDYnFTX1FvQl9vVVBKcUVOVVFlalFKRmV1TG1ER1ZnOEFUMDBPcktvS0JMQg?oc=5",
+      "source": "www.pib.gov.in",
       "category": "general",
-      "published_at": "2025-02-15T03:52:15+00:00",
+      "published_at": "2026-11-19T19:05:29+00:00",
       "importance": 1,
       "personal_score": 1.25,
       "entities": [
-        "ജെല്ലിന്റെ",
-        "മായാലോകം",
-        "Kerala Science Slam",
-        "LUCA Science Magazine",
-        "Kerala Science Slam LUCA",
-        "Science Magazine"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
-      "id": "be6c635e1a9520a6",
-      "title": "KERALA SCIENCE SLAM’ 24 - LUCA Science Magazine",
-      "summary": "KERALA SCIENCE SLAM’ 24 LUCA Science Magazine",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE51a1d0WmN5eWhTZVFoeFdaTWFPekFYRTVabGU4d0NPcGV2ekY3czdSaURfOVBLTjVObVhqZHktcVEyc2tHZkNLdGpxV19qYUxCNjRMZQ?oc=5",
-      "source": "LUCA Science Magazine",
-      "category": "general",
-      "published_at": "2024-09-26T12:51:59+00:00",
-      "importance": 1,
-      "personal_score": 1.25,
-      "entities": [
-        "KERALA SCIENCE SLAM",
-        "LUCA Science Magazine KERALA",
-        "SCIENCE SLAM",
-        "LUCA Science Magazine"
+        "Strengthening India",
+        "Space Sovereignty"
       ],
       "summary_method": "rss_fallback"
     }
   ],
   "tech": [
+    {
+      "id": "022dc3ddb52cfdd7",
+      "title": "Synthetic Data in Cybersecurity: Training Defenses Against Malware Without Suffering Actual Attacks - Telefónica",
+      "summary": "Synthetic Data in Cybersecurity: Training Defenses Against Malware Without Suffering Actual Attacks Telefónica",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPRFdiV2p6eFhJcHBoVjVtUnZhMmtiRTRINlRyaWFmblNwUTNBcFFJN3NqLXpRNURVVW4yLVg2aFJYd2t2QjVGR1hLNk00VEhqR0Jxci11bC15RUs1V2dvd19fZ05tWU9WYnZrS3pUd056Y3MzVThaWVpvM2RlODk3WTh4X3FNRnJydWhSNHBjczE5V0Mta3JxWmw0cEFkYy1qQmlkZzg3R2RvTEdGcXdwS2RJNF9yVHlQQllDRjRUV29sRjcxQTROQTgzNEVTNHM?oc=5",
+      "source": "Telefónica",
+      "category": "tech",
+      "published_at": "2026-11-23T08:30:00+00:00",
+      "importance": 10,
+      "personal_score": 10.0,
+      "entities": [
+        "Synthetic Data",
+        "Cybersecurity",
+        "Training Defenses Against Malware",
+        "Without Suffering Actual Attacks"
+      ],
+      "summary_method": "rss_fallback"
+    },
     {
       "id": "5c43d537b024c80b",
       "title": "എഐ ഓഹരികളുടെ കാലം കഴിഞ്ഞോ? മസ്‌കിനും കാലിടറി, യുഎസ് ഇടക്കാല തിരഞ്ഞെടുപ്പ് നൽകുന്ന മുന്നറിയിപ്പ്",
@@ -1178,39 +1126,18 @@
       "summary_method": "tfidf_extractive_full_article"
     },
     {
-      "id": "022dc3ddb52cfdd7",
-      "title": "Synthetic Data in Cybersecurity: Training Defenses Against Malware Without Suffering Actual Attacks - Telefónica",
-      "summary": "Synthetic Data in Cybersecurity: Training Defenses Against Malware Without Suffering Actual Attacks Telefónica",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPRFdiV2p6eFhJcHBoVjVtUnZhMmtiRTRINlRyaWFmblNwUTNBcFFJN3NqLXpRNURVVW4yLVg2aFJYd2t2QjVGR1hLNk00VEhqR0Jxci11bC15RUs1V2dvd19fZ05tWU9WYnZrS3pUd056Y3MzVThaWVpvM2RlODk3WTh4X3FNRnJydWhSNHBjczE5V0Mta3JxWmw0cEFkYy1qQmlkZzg3R2RvTEdGcXdwS2RJNF9yVHlQQllDRjRUV29sRjcxQTROQTgzNEVTNHM?oc=5",
-      "source": "Telefónica",
+      "id": "72923fe8837d0fb7",
+      "title": "Floods, heatwaves, cyclones: How climate change cost India 78,000 lives",
+      "summary": "German environment and development organisation Germanwatch, which conducted the research, says that India has faced various extreme weather events, such as floods, heatwaves, cyclones, and droughts, notably the 1998 Gujarat and 1999 Odisha cyclones, Cyclones Hudhud and Amphan in 2014 and 2020, the Uttarakhand floods in 2013, and severe floods across 13 states in 2019. “The long-term index (1996-2025) shows that the most-affected countries can be divided into two groups: Those who are most affected by exceptionally devastating catastrophes like Dominica (1st), Myanmar (2nd), and Honduras (3rd). And those who are consistently hit by extreme weather events, like the Philippines (7th), and India (10th).\" Heatwaves emerge as deadliest hazard The report indicates that heatwaves are becoming giant killers, even if heat-related deaths are grossly underreported, especially in the Global South. “Major emitters - be they country or corporate – must rapidly step up a transition away from fossil fuels as a main driver of climate change, as well as substantially increase financial support to those least able to cope with impacts and least responsible.",
+      "url": "https://indianexpress.com/article/technology/science/170-billion-losses-india-among-top-10-countries-most-impacted-climate-change-10969718",
+      "source": "Indian Express Technology",
       "category": "tech",
-      "published_at": "2026-11-23T08:30:00+00:00",
+      "published_at": "2026-11-19T08:39:44+00:00",
       "importance": 10,
       "personal_score": 10.0,
       "entities": [
-        "Synthetic Data",
-        "Cybersecurity",
-        "Training Defenses Against Malware",
-        "Without Suffering Actual Attacks"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
-      "id": "cf9855d3d3b2add3",
-      "title": "Antimicrobial overuse could make common infections harder to treat: Health ministry official",
-      "summary": "New Delhi, Nov 18 (PTI) Misuse and overuse of antimicrobials could undermine decades of medical progress and make even common infections increasingly difficult to treat, a senior health ministry official said on Wednesday, calling for collective action to contain antimicrobial resistance (AMR). Addressing the national observance of World Antimicrobial Resistance Awareness Week 2026 virtually, Union Health Secretary Punya Salila Srivastava described AMR as one of the most serious public health challenges and stressed the need for a coordinated \"One Health\" approach to tackle it. She said the government has accorded high priority to containing AMR, with the National Action Plan on Antimicrobial Resistance 2.0 (NAP AMR 2.0), 2025-2029, providing a framework for surveillance, infection prevention, responsible antimicrobial use, research and coordinated action. The event was attended by senior officials from the National Health Systems Resource Centre, Central Drugs Standard Control Organisation, Department of Animal Husbandry, Indian Medical Association and All India Association of Druggists and Chemists, besides officials from states and Union territories.",
-      "url": "https://www.thehindu.com/sci-tech/health/antimicrobial-overuse-could-make-common-infections-harder-to-treat-health-ministry-official/article71734780.ece",
-      "source": "The Hindu Science and Technology",
-      "category": "tech",
-      "published_at": "2026-11-23T13:34:20+00:00",
-      "importance": 10,
-      "personal_score": 10.0,
-      "entities": [
-        "Antimicrobial",
-        "Health",
-        "World AMR Awareness Week",
-        "November",
-        "One Health"
+        "Floods",
+        "How"
       ],
       "summary_method": "tfidf_extractive_full_article"
     },
@@ -1237,29 +1164,6 @@
       "summary_method": "rss_fallback"
     },
     {
-      "id": "c2c48d7b32a75345",
-      "title": "The Double Alignment Problem: Civil-Military Relations in the Age of Artificial Intelligence - War on the Rocks",
-      "summary": "The Double Alignment Problem: Civil-Military Relations in the Age of Artificial Intelligence War on the Rocks",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOa0Y5bFdTbGFaaDhyeWdsVGdxWnZlUTNzSTFMYzd2NWgxXy1neWpFSU1BdWdkSzhwbkFtdGRGR09VR3hPWk5QcGpLYUVwcHlyV1ZLQXF0Y0Y5MGxYejYzS1FTdXlTaVF1VUJHbTZ0UjZZaUJLakpyZGpQZ1lNSEpzTjVlUUZJS1lMZzNyVEhMNGVDNnpPaDAyU0dpaVlhcEVJME04VUxfMV8zMjBDTWhEQS1ZbUlleTBlalE?oc=5",
-      "source": "War on the Rocks",
-      "category": "tech",
-      "published_at": "2026-11-23T08:34:37+00:00",
-      "importance": 10,
-      "personal_score": 10.0,
-      "entities": [
-        "The Double Alignment Problem",
-        "Civil-Military Relations",
-        "Age",
-        "Artificial Intelligence",
-        "War",
-        "Rocks The Double Alignment",
-        "Problem",
-        "Artificial Intelligence War",
-        "Rocks"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
       "id": "2ad16fb92963675a",
       "title": "Plug and Pray: How AI Is Changing Software Supply Chain Attacks - OX Security",
       "summary": "Plug and Pray: How AI Is Changing Software Supply Chain Attacks OX Security",
@@ -1280,197 +1184,58 @@
       "summary_method": "rss_fallback"
     },
     {
-      "id": "9cf5b3baabaf162f",
-      "title": "MoEngage Suffers Cybersecurity Attack Due To Compromised Third-Party Vendor - Inc42",
-      "summary": "MoEngage Suffers Cybersecurity Attack Due To Compromised Third-Party Vendor Inc42",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPOTRRbnJNcGRqdWxQVXhRQ3R0Vk1xdWEyRnp2REIxNlNfRzdHWTk3MHZHN0FTSTkzQUs5R3NVdWxDamgtRHFadDh3STN5ZC10cGVMS1lKc0I1Zm1ldkRQZ1QwUVZTRUdaendtVU4yRUtOT3hPX2FfVTFyVzhBWk5hcW94ZXBrei1nTUtTRzFxQWMtU3UxaG1Uc0hidUFPdTI4Q3hOTDdB?oc=5",
-      "source": "Inc42",
-      "category": "tech",
-      "published_at": "2026-11-23T05:34:59+00:00",
-      "importance": 9,
-      "personal_score": 9.0,
-      "entities": [
-        "MoEngage Suffers Cybersecurity Attack",
-        "Due To Compromised Third-Party",
-        "Vendor",
-        "Inc42 MoEngage Suffers Cybersecurity",
-        "Attack Due To Compromised",
-        "Third-Party Vendor Inc42"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
-      "id": "20b698d1d0831103",
-      "title": "L&T Tech Says Aware Of Cybersecurity Incident Reports And Alleged Data Exfiltration - TradingView",
-      "summary": "L&T Tech Says Aware Of Cybersecurity Incident Reports And Alleged Data Exfiltration TradingView",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPMFVRMlNJSFNLaTdpUGx4Yy0yc1NOWFNZVzlkbUdVckREN1VzR3FpS2xvSG5RODI2M3c5LVVGRVh5c3FiUTJmM2NubUhZdlpKTE01QXBxSjB2LWd3TVBnXzQ0OGY2V1VWc1haTDBNOHpIaDhCNWtPV2RZaWhKWDhyUUdpem9VNTE4M0VhX2ppLTFheGRzZ3N1YkdyVlE4bFo4aDNvQjhmYVV4bFlHbmtNTU1hUzJXX0FUNzdQbFlCVmppR20wbTk2ZGdQdkJKbVMyY3R1aWlVNllEMWF5ek9fcU14bWNTa0dh?oc=5",
-      "source": "TradingView",
-      "category": "tech",
-      "published_at": "2026-11-23T09:55:16+00:00",
-      "importance": 9,
-      "personal_score": 9.0,
-      "entities": [
-        "L&T Tech Says Aware",
-        "Of Cybersecurity Incident Reports",
-        "And Alleged Data Exfiltration",
-        "TradingView L&T Tech Says",
-        "Aware Of Cybersecurity Incident",
-        "Reports And Alleged Data",
-        "Exfiltration TradingView"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
-      "id": "ef9fe93e0f4f4efd",
-      "title": "Medicos warn against craze for fairness after 17-year-old Keralam girl diagnosed with kidney disorder",
-      "summary": "A 17-year-old girl in Keralam’s Malappuram developed a serious kidney ailment allegedly after using a fairness cream purchased online following its promotion by social media influencers, according to the doctors treating her. Also Read: Keralam cracks down on unsafe cosmetics after teen’s kidney disease https://www.thehindu.com/news/national/kerala/keralam-cracks-down-on-unsafe-cosmetics-after-teens-kidney-disease/article71731711.ece Medical experts say that the use of fairness creams containing heavy metals such as mercury to lighten the skin is emerging as a major health hazard that can lead to serious conditions such as kidney failure if not diagnosed early. Vulnerable group A rise in the number of teenagers relying on spurious beauty products has forced the Keralam Drugs Control department to launch awareness campaigns targeting students in Classes XI and XII, an age group particularly vulnerable to online campaigns. Prolonged use of such creams can lead to kidney damage, says former secretary of the Nephrology Association of Kerala, Jayant Thomas Mathew, who has come across a few cases of kidney disorders among users.",
-      "url": "https://www.thehindu.com/news/national/kerala/medicos-warn-against-craze-for-fairness-after-17-year-old-keralam-girl-diagnosed-with-kidney-disorder/article71728705.ece",
+      "id": "a35dafe2e6d6173f",
+      "title": "India maps landslide susceptibility as part of shift from post-disaster relief to landslide management",
+      "summary": "NEW DELHI India has completed a national landslide susceptibility mapping exercise across approximately 4.3 lakh square kilometres, while the landslide inventory database has compiled information on nearly 91,000 historical landslides by the end of 2025, Minister for Science and Technology Jitendra Singh said on Monday (November 23, 2026). He noted that India is progressively shifting its approach to landslide management, from post-disaster relief to prevention, preparedness, and risk reduction, marking a “major transformation” in the country’s disaster management strategy. Interdisciplinary research and monitoring Recalling major landslide disasters in Kerala’s Wayanad and Uttarakhand’s Chamoli, as well as in Sikkim, Himachal Pradesh, and Jammu and Kashmir, Dr. The National Landslide Forecasting Centre was established in Kolkata in 2024 and has now extended its activities to 20 districts, according to a statement from the Department of Science and Technology.",
+      "url": "https://www.thehindu.com/news/national/india-maps-landslide-susceptibility-as-part-of-shift-from-post-disaster-relief-to-landslide-management/article71735715.ece",
       "source": "The Hindu Science and Technology",
       "category": "tech",
-      "published_at": "2026-11-23T07:42:24+00:00",
+      "published_at": "2026-11-23T17:33:19+00:00",
       "importance": 9,
       "personal_score": 9.0,
       "entities": [
-        "Medicos",
-        "Keralam",
-        "Medical"
+        "Mapping",
+        "Science Minister"
       ],
       "summary_method": "tfidf_extractive_full_article"
     },
     {
-      "id": "b2a5194ee1baaa30",
-      "title": "HPV vaccination campaign: Every dose is step towards protecting girls from cervical cancer, says PM Modi",
-      "summary": "New Delhi As India achieved a milestone by administering over one crore HPV vaccines, Prime Minister Narendra Modi on Monday (November 23, 2026) said every dose is a step towards protecting girls from cervical cancer and ensuring a healthier future for them. HPV vaccination: one crore doses administered in nine months storyline 1 Get HPV vaccine to prevent cervical cancer: Reproductive and Child Health Officer storyline 1 India has administered more than one crore doses of the HPV vaccine to 14-year-old girls under its national vaccination campaign in less than nine months, covering nearly 87% of the identified annual target, the Health Ministry said on Saturday (November 21, 2026). What it does, is ensure that some of the most detrimental types of HPV do not enter and infect the body in the first place Cervical Cancer Awareness Month: January What is the HPV vaccine’s role in preventing cervical cancer? The nationwide HPV vaccination campaign provides free, voluntary and single-dose vaccination to 14-year-old girls at designated government health facilities with parental consent.",
-      "url": "https://www.thehindu.com/sci-tech/health/hpv-vaccination-campaign-every-dose-is-step-towards-protecting-girls-from-cervical-cancer-says-pm-modi/article71733348.ece",
+      "id": "9cd0a963682925f3",
+      "title": "Cybersecurity Awareness Month: Video Recap - Cisco Blogs",
+      "summary": "Cybersecurity Awareness Month: Video Recap Cisco Blogs",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQm5NaDNtWkx3RWhCTnFOLVdkQzg2LUdKVDY2R0Z1OWJzc0d2NmltS2U1MUJqSFlvZXhVamJ1OFh1VUxnOGVFbkhoRjQyQUdNazlNaUtlcEtMc1RDMjc2Q0lfQjAxMWR5MHJVR252TmxGZ1R0ZGh3RjdPTVFHX1JkM21WN1c?oc=5",
+      "source": "Cisco Blogs",
+      "category": "tech",
+      "published_at": "2026-11-23T16:15:54+00:00",
+      "importance": 9,
+      "personal_score": 9.0,
+      "entities": [
+        "Cybersecurity Awareness Month",
+        "Video Recap",
+        "Cisco Blogs Cybersecurity Awareness",
+        "Month",
+        "Video Recap Cisco Blogs"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
+      "id": "cf9855d3d3b2add3",
+      "title": "Antimicrobial overuse could make common infections harder to treat: Health ministry official",
+      "summary": "New Delhi, Nov 18 (PTI) Misuse and overuse of antimicrobials could undermine decades of medical progress and make even common infections increasingly difficult to treat, a senior health ministry official said on Wednesday, calling for collective action to contain antimicrobial resistance (AMR). Addressing the national observance of World Antimicrobial Resistance Awareness Week 2026 virtually, Union Health Secretary Punya Salila Srivastava described AMR as one of the most serious public health challenges and stressed the need for a coordinated \"One Health\" approach to tackle it. She said the government has accorded high priority to containing AMR, with the National Action Plan on Antimicrobial Resistance 2.0 (NAP AMR 2.0), 2025-2029, providing a framework for surveillance, infection prevention, responsible antimicrobial use, research and coordinated action. The event was attended by senior officials from the National Health Systems Resource Centre, Central Drugs Standard Control Organisation, Department of Animal Husbandry, Indian Medical Association and All India Association of Druggists and Chemists, besides officials from states and Union territories.",
+      "url": "https://www.thehindu.com/sci-tech/health/antimicrobial-overuse-could-make-common-infections-harder-to-treat-health-ministry-official/article71734780.ece",
       "source": "The Hindu Science and Technology",
       "category": "tech",
-      "published_at": "2026-11-23T04:18:21+00:00",
+      "published_at": "2026-11-23T13:34:20+00:00",
       "importance": 9,
       "personal_score": 9.0,
       "entities": [
-        "HPV",
-        "Every",
-        "PM Modi India",
-        "November"
+        "Antimicrobial",
+        "Health",
+        "World AMR Awareness Week",
+        "November",
+        "One Health"
       ],
       "summary_method": "tfidf_extractive_full_article"
-    },
-    {
-      "id": "2ea68345586f0c12",
-      "title": "Open-source AI pentesting framework Cairn keeps turning up in real-world attacks - Help Net Security",
-      "summary": "Open-source AI pentesting framework Cairn keeps turning up in real-world attacks Help Net Security",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNRTFHeDAyNDh1blZYMWE0d1lzRUk2WUdfTHRscFBZRnpYaXpSbkRDY2dkaTRNdUdhcUcxNTJfM3RQVC1CVE9XUXF3Q2s2SVdod1VUSWw5cHV6d0xjaUtNMFVkeVRPN0ZSSDFpUGJMNkxXNVhpMjVzNW5DVU80Y3lvanZJNUQ?oc=5",
-      "source": "Help Net Security",
-      "category": "tech",
-      "published_at": "2026-11-23T10:49:38+00:00",
-      "importance": 9,
-      "personal_score": 9.0,
-      "entities": [
-        "Open-source AI",
-        "Cairn",
-        "Help Net Security Open-source",
-        "Help Net Security"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
-      "id": "bee87285099d135c",
-      "title": "How Artificial Intelligence Is Making It Harder To Stop Cyberattacks - Forbes",
-      "summary": "How Artificial Intelligence Is Making It Harder To Stop Cyberattacks Forbes",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOb0pTZXpTNGdMSWdXcExGejc0TVZhTm53ZHpSZFpJSTlFNTdhVGE4TWpMVUdBcHFWQzZzY2FLSDAyWkVDTjdNaFkzY3QyUXc1bjRJdXppc2NOTWVxU1dDbklOZHhaWThxbFpUbC1hY2ZJNGdXZ01JR1RycXpKYnU4RnlMV1NMZXZPRnNIQTZfZHBhenZtWDZ2X1RSeWlGWi1WMlh4d3RmZFdMN21PZmU2ZV9xSUdWWkEzbjZwYU8zXzIzUU01NjVYaTRETQ?oc=5",
-      "source": "Forbes",
-      "category": "tech",
-      "published_at": "2026-11-23T01:55:26+00:00",
-      "importance": 9,
-      "personal_score": 9.0,
-      "entities": [
-        "How Artificial Intelligence Is",
-        "Making It Harder To",
-        "Stop Cyberattacks",
-        "Forbes How Artificial Intelligence",
-        "Is Making It Harder",
-        "To Stop Cyberattacks Forbes"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
-      "id": "89990f0bde7a2189",
-      "title": "L&T Technology Services Launches AI Toolchain for Software-Defined Vehicles - Analytics India Magazine",
-      "summary": "L&T Technology Services Launches AI Toolchain for Software-Defined Vehicles Analytics India Magazine",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNX09NeUdBcEZqbWFLQVdIU1BYS05WbXZXWmxLN3hJYWFOMk85Tm9HNFFyd25ITkJ5azhZNmVxZEx2NG5FRkF5TW9oMHRMcFEyUGVjczRQOHVJNDNFZHhra2FkelE5SVFVYjBMcnl2VF84WEtvUkRzaU5ZMmJlN2ZXNjVrNEJvZGYycVhHTjAydlMtbWc3ZHFYdnBNNlg0UUx2UXhkcGsweDRoMURLb0VtUmdB?oc=5",
-      "source": "Analytics India Magazine",
-      "category": "tech",
-      "published_at": "2026-11-23T11:00:35+00:00",
-      "importance": 8,
-      "personal_score": 8.0,
-      "entities": [
-        "L&T Technology Services Launches",
-        "AI Toolchain",
-        "Software-Defined Vehicles",
-        "Analytics India Magazine L&T",
-        "Technology Services Launches AI",
-        "Toolchain",
-        "Software-Defined Vehicles Analytics India",
-        "Magazine"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
-      "id": "ea5464579f2c09ee",
-      "title": "Vibe-coded software has caused a technical debt explosion - IT Pro",
-      "summary": "Vibe-coded software has caused a technical debt explosion IT Pro",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTTNOZlBYdjBWNXBTRTdJc1FiSndtSktSZ2s4Zk5Wb2ZIazctY2lZQTV5QTc2U2ttdHQ5ejZMcDdIR1M1MWhZUW0tcWtYaV9Qd0ZDMmZxOHJJMjJsUXE2SU5iWUNtenlYLWJaTmtpNDljY2lhSjhkTFFyNWNndHdnYzliSE53WE9DanV0OVNqVXJqNE5Mb2NDLWt4c0Z0elZVTVE?oc=5",
-      "source": "IT Pro",
-      "category": "tech",
-      "published_at": "2026-11-23T12:48:12+00:00",
-      "importance": 8,
-      "personal_score": 8.0,
-      "entities": [
-        "Vibe-coded",
-        "IT Pro Vibe-coded",
-        "IT Pro"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
-      "id": "55448e45c9d7dc8c",
-      "title": "Indian Cyber Crime Coordination Centre warns of possible misuse of WhatsApp Web sessions",
-      "summary": "CHENNAI The Indian Cyber Crime Coordination Centre (I4C), Ministry of Home Affairs, has warned WhatsApp users about the possible misuse of authenticated web sessions to gain unauthorised access to their accounts. In an advisory, the National Cybercrime Threat Analytics Unit (NCTAU) of the I4C said a malicious person could exploit an active WhatsApp Web session to read private messages, send messages by impersonating the account holder, access contacts and group conversations, and misuse the user’s trusted identity for fraud, phishing and other cybercrimes. The scammers trick a target into revealing the 6-digit SMS or in-app code that WhatsApp sends during login; it is typically done by phone calls or chat messages in the guise of tech support Over 3,000 cases of WhatsApp hacking scam reported in T.N. Also read: WhatsApp to simplify communication on app, add financial services https://www.thehindu.com/sci-tech/technology/whatsapp-to-simplify-communication-on-app-add-financial-services/article71688497.ece The unit also urged WhatsApp users to remain alert to unusual account activity.",
-      "url": "https://www.thehindu.com/news/national/cybercriminals-may-hijack-account-if-whatsapp-web-session-left-logged-in-on-public-computer-govt/article71734286.ece",
-      "source": "The Hindu Science and Technology",
-      "category": "tech",
-      "published_at": "2026-11-23T12:29:31+00:00",
-      "importance": 8,
-      "personal_score": 8.0,
-      "entities": [
-        "Indian Cyber Crime Coordination",
-        "Centre",
-        "WhatsApp Web",
-        "National Cybercrime Threat Analytics",
-        "Unit"
-      ],
-      "summary_method": "tfidf_extractive_full_article"
-    },
-    {
-      "id": "f31d604fe30aeb0d",
-      "title": "DDC-I and PACE Deliver Certifiable DO-178C DAL A Software Rendering for Avionics Displays - Electronic Engineering Journal",
-      "summary": "DDC-I and PACE Deliver Certifiable DO-178C DAL A Software Rendering for Avionics Displays Electronic Engineering Journal",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQcEhoQzBZNlZtX2RfNS05ZVBEXy1tQlluVmE5S3M1VldMaF9heFcwcUZPWDZHYWpMMjZFWkFBeEVLckhCUnBWM1JxYWxCN01aeUp3VGtVdVN5TTBTQk5vOGNIZjdRTWlPX0xOdnBvZjZFZlducnhPcnRmMEhubDZnVEJiRzdhaTFKOEhSMS05Z1Q3Ukk1dS1DVERJckNDd3NoNTdiSTlhZV9mZERIdkdJRHhHYjdVZ1Q4WEV3WXBIZ25EMWh5NkduemZR?oc=5",
-      "source": "Electronic Engineering Journal",
-      "category": "tech",
-      "published_at": "2026-11-23T14:54:48+00:00",
-      "importance": 8,
-      "personal_score": 8.0,
-      "entities": [
-        "DDC-I",
-        "PACE Deliver Certifiable DO-178C",
-        "DAL A Software Rendering",
-        "Avionics Displays",
-        "Electronic Engineering Journal DDC-I",
-        "Avionics Displays Electronic Engineering",
-        "Journal"
-      ],
-      "summary_method": "rss_fallback"
     },
     {
       "id": "eaae688240cf9c55",
@@ -1494,40 +1259,118 @@
       "summary_method": "tfidf_extractive_full_article"
     },
     {
-      "id": "5983afcf45e4cdd9",
-      "title": "Three cyclones in three weeks: What’s happening in the Bay of Bengal? | Explained",
-      "summary": "The story so far: Within 23 days this year, three cyclones formed over the Bay of Bengal. Of them, Cyclone Arnab made landfall near Yanam on the Andhra Pradesh coast on October 28 and Murasu on November 3 near Ongole. Cyclone Akvan formed on November 16 and made landfall near Gopalpur in Odisha on Friday morning (November 20, 2026). But as the monsoon withdraws, the vertical wind shear weakens even as the waters remain warm, creating more favourable conditions.",
-      "url": "https://www.thehindu.com/news/national/three-cyclones-in-three-weeks-whats-happening-in-the-bay-of-bengal-explained/article71721198.ece",
-      "source": "The Hindu Science",
+      "id": "ef9fe93e0f4f4efd",
+      "title": "Medicos warn against craze for fairness after 17-year-old Keralam girl diagnosed with kidney disorder",
+      "summary": "A 17-year-old girl in Keralam’s Malappuram developed a serious kidney ailment allegedly after using a fairness cream purchased online following its promotion by social media influencers, according to the doctors treating her. Also Read: Keralam cracks down on unsafe cosmetics after teen’s kidney disease https://www.thehindu.com/news/national/kerala/keralam-cracks-down-on-unsafe-cosmetics-after-teens-kidney-disease/article71731711.ece Medical experts say that the use of fairness creams containing heavy metals such as mercury to lighten the skin is emerging as a major health hazard that can lead to serious conditions such as kidney failure if not diagnosed early. Vulnerable group A rise in the number of teenagers relying on spurious beauty products has forced the Keralam Drugs Control department to launch awareness campaigns targeting students in Classes XI and XII, an age group particularly vulnerable to online campaigns. Prolonged use of such creams can lead to kidney damage, says former secretary of the Nephrology Association of Kerala, Jayant Thomas Mathew, who has come across a few cases of kidney disorders among users.",
+      "url": "https://www.thehindu.com/news/national/kerala/medicos-warn-against-craze-for-fairness-after-17-year-old-keralam-girl-diagnosed-with-kidney-disorder/article71728705.ece",
+      "source": "The Hindu Science and Technology",
       "category": "tech",
-      "published_at": "2026-11-22T05:18:02+00:00",
+      "published_at": "2026-11-23T07:42:24+00:00",
       "importance": 8,
       "personal_score": 8.0,
       "entities": [
-        "Three",
-        "What",
-        "Bay",
-        "Bengal",
-        "Explained Such"
+        "Medicos",
+        "Keralam",
+        "Medical"
       ],
       "summary_method": "tfidf_extractive_full_article"
     },
     {
-      "id": "036846417f949df9",
-      "title": "WarpKVM Releases Open-Source RK628H Bridge Boards - Open Source For You",
-      "summary": "WarpKVM Releases Open-Source RK628H Bridge Boards Open Source For You",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObWxtQjhucWhtYlNRVVRUX3FuZ0dDZUd6aHo0YmpqXzZoUWd6cS02SEt1QkhVMUtUX3BDMU1Hc2xPVHNQVVBvaERoT0w3Vjc0NDVjeS1zcmh2Q3R0NVN5VWNUWWdFbHVDNHVWYXpES0g5QXZOajdHd253RTJGQlFJbTF1Ri1FZ2JJV1RrcUxKVFpJTFU?oc=5",
-      "source": "Open Source For You",
+      "id": "14a808a904d96f29",
+      "title": "IBA Legal Agenda 2026: artificial intelligence leads seven priorities confronting lawyers amid technological disruption and global rule of law pressures - International Bar Association | IBA",
+      "summary": "IBA Legal Agenda 2026: artificial intelligence leads seven priorities confronting lawyers amid technological disruption and global rule of law pressures International Bar Association | IBA",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNZGxGOUdSczR3LVEtcFpFS1M3WlBHV2VFMWt3YmdZWGZfSmYyUmdaeVVLR29tUlo1ZFF5emp4QnhoQzhBUU5XX2t0UjBVZ0FKeENzZ1RWdTR6ZTRibTlKaGZtNjdRczJLVlN2VE5ORWdnZllZMFFfZlRxNklSNG5HbHhzYzVNUkxwWmRObUtsVVk1S2ZUMjU5ZUJQc1J2ZWlXaG5kbzNDNlNVMEJ6Nzc2SWhQM0Z6Zzc2VVJyVl9OMTBITGZwQmhlUE9qZTdkWTNjZVd2S3RhWm1Pb0drVjh0WkIyN1JkNUJqaFpsYVFhaTMxRDRDNS1QeEJ4MVpHdk9IMjFLeA?oc=5",
+      "source": "International Bar Association | IBA",
       "category": "tech",
-      "published_at": "2026-11-23T08:01:10+00:00",
+      "published_at": "2026-11-23T15:55:12+00:00",
       "importance": 8,
       "personal_score": 8.0,
       "entities": [
-        "WarpKVM Releases Open-Source RK628H",
-        "Bridge Boards",
-        "Open Source For You",
-        "Bridge Boards Open Source",
-        "For You"
+        "IBA Legal Agenda",
+        "International Bar Association",
+        "IBA IBA Legal Agenda",
+        "IBA"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
+      "id": "e3b27fe82f9c6f97",
+      "title": "Why Businesses Must Rethink Software Quality in the AI Era - Entrepreneur",
+      "summary": "Why Businesses Must Rethink Software Quality in the AI Era Entrepreneur",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPZVpYdFRnTW5Vc0hiVDhva2xQdUFCLXVncWVZTVJFNW40M0NaMjRfUU4zVUp5aXVBNVBVb3ptNndGVEJnMEl3OS13akk2SUQ3MDNSNmphb0c4SEFyOC01NHI1YXc2OUx3STluUnVHWWUxSjF3RUxfSC1OdnJ5Z2pYS3AzZWRyaDB1TjFZRDZ1T3dyQWdXYUlrR1Rya2VpWVpadmhRUFJFdXkwdW4yNjVFdDZQVjBHOEdfdUxxaER2VGhWZFpteGpQTTdEdzd4QjlUUHZvM0hHZ3k1Q0FUWTBUOWM0MFRLOHZ3WUdHZC1mWXdGbDA?oc=5",
+      "source": "Entrepreneur",
+      "category": "tech",
+      "published_at": "2026-11-23T18:00:32+00:00",
+      "importance": 8,
+      "personal_score": 8.0,
+      "entities": [
+        "Why Businesses Must Rethink",
+        "Software Quality",
+        "AI Era",
+        "Entrepreneur Why Businesses Must",
+        "Rethink Software Quality",
+        "AI Era Entrepreneur"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
+      "id": "1418f2f0e25d1c00",
+      "title": "Silicon Speech: Should the First Amendment Protect Artificial Intelligence? – A Respectfully Dissent Series Debate - Vanderbilt Law School",
+      "summary": "Silicon Speech: Should the First Amendment Protect Artificial Intelligence? – A Respectfully Dissent Series Debate Vanderbilt Law School",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPV1NxYlFkRTlldU1BTXF3bHFzcEpUOFRqUkRwRHEzLWU0ekZROF91UGVOTFdTTzhlWnpGbFBWd0p6SlhwZlVfRDFyZDZRRGFBSVZRaUxUdUdGSU9LTkdDdzcwNEk2dHJFVlpUcnNIbm9PSjBJRGFUNWNlNUR2WFhCcDRpNUZsUDdVOGhhNFFJVXVRTEhSLTZUMlFMV2tDRWladDV2Tk5wZUFVMUNObWdLUWRscTduanpwNy1Tb0JsT2dpQmtYYjdEZC11UjhYVTlhT1VIQQ?oc=5",
+      "source": "Vanderbilt Law School",
+      "category": "tech",
+      "published_at": "2026-11-23T15:30:20+00:00",
+      "importance": 8,
+      "personal_score": 8.0,
+      "entities": [
+        "Silicon Speech",
+        "Should",
+        "First Amendment Protect Artificial",
+        "Intelligence",
+        "A Respectfully Dissent Series",
+        "Debate",
+        "Vanderbilt Law School Silicon",
+        "Speech",
+        "Debate Vanderbilt Law School"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
+      "id": "2ea68345586f0c12",
+      "title": "Open-source AI pentesting framework Cairn keeps turning up in real-world attacks - Help Net Security",
+      "summary": "Open-source AI pentesting framework Cairn keeps turning up in real-world attacks Help Net Security",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNRTFHeDAyNDh1blZYMWE0d1lzRUk2WUdfTHRscFBZRnpYaXpSbkRDY2dkaTRNdUdhcUcxNTJfM3RQVC1CVE9XUXF3Q2s2SVdod1VUSWw5cHV6d0xjaUtNMFVkeVRPN0ZSSDFpUGJMNkxXNVhpMjVzNW5DVU80Y3lvanZJNUQ?oc=5",
+      "source": "Help Net Security",
+      "category": "tech",
+      "published_at": "2026-11-23T10:49:38+00:00",
+      "importance": 8,
+      "personal_score": 8.0,
+      "entities": [
+        "Open-source AI",
+        "Cairn",
+        "Help Net Security Open-source",
+        "Help Net Security"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
+      "id": "fa6d5129330b068f",
+      "title": "Inside the Black Market for America’s Artificial Intelligence - Lawfare",
+      "summary": "Inside the Black Market for America’s Artificial Intelligence Lawfare",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQWVHLWI2RnpUOEpLdGVnTkRidUdXUmVZMHJmaTk5QmM0c2E1U0FWNjZzTnRfVWtxcDA1V1EyTjNjUi1oTjV0YUpBVWFBaVNiY0YzR2szN2hubkgyUzJwQk9hTVdoSm5zRTZtZzY2S2ZRLWc5dWNJSUxiQkpIWXpuRXlNZnZQNS1LbF8xalVWUEJidlFsYTFMYnNLMXVLSUU?oc=5",
+      "source": "Lawfare",
+      "category": "tech",
+      "published_at": "2026-11-23T19:09:53+00:00",
+      "importance": 8,
+      "personal_score": 8.0,
+      "entities": [
+        "Inside",
+        "Black Market",
+        "America",
+        "Artificial Intelligence",
+        "Lawfare Inside",
+        "Artificial Intelligence Lawfare"
       ],
       "summary_method": "rss_fallback"
     },
@@ -1538,7 +1381,7 @@
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYTltTUZmZ1BDZms1OUpYS0tYNEtWaXZSVEJCSFJ3QmxOYUdyYllHVTVmM1QtbGtOZXh4alRsdTVyR3IxUGJsbmdzME5CSjJEMjIyWTFEa1E2LVFPdVkxbVNPdUxTa3ZWWnUxVVpVQ0h1eVNwLTIzdklQUm9odlFaclYzenI2aTViQS01d1dDV0VmRlMxMlRhS1h1NnJ1bFJqalJLVnBn?oc=5",
       "source": "Bioengineer.org",
       "category": "tech",
-      "published_at": "2026-11-23T15:09:13+00:00",
+      "published_at": "2026-11-23T15:13:34+00:00",
       "importance": 8,
       "personal_score": 8.0,
       "entities": [
@@ -1569,60 +1412,45 @@
       "summary_method": "rss_fallback"
     },
     {
-      "id": "b15bfb338325f897",
-      "title": "Why AI-powered software delivery could help decide who wins the market - IT Brief Australia",
-      "summary": "Why AI-powered software delivery could help decide who wins the market IT Brief Australia",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRER1dDRlWlExV2ZvSFAyRTZ0UkluY0Rrdm40Wm5xRTBUMWZiWlZwNEVzVU4zOXNTdGRLd2dKdy1RZUVHd2tJaWpTNHIzaTJSVnZQN2QxYXg3UkNqeVp6LTQ2Q0kxWnZ6NFZVVWc0VU0zR0xNTHFTY0xLejlOa2JHbU5YRXh5SUZXZURVQm9CVHJzSjZ6Q2tDcUx5cXZVODMx?oc=5",
-      "source": "IT Brief Australia",
+      "id": "89990f0bde7a2189",
+      "title": "L&T Technology Services Launches AI Toolchain for Software-Defined Vehicles - Analytics India Magazine",
+      "summary": "L&T Technology Services Launches AI Toolchain for Software-Defined Vehicles Analytics India Magazine",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNX09NeUdBcEZqbWFLQVdIU1BYS05WbXZXWmxLN3hJYWFOMk85Tm9HNFFyd25ITkJ5azhZNmVxZEx2NG5FRkF5TW9oMHRMcFEyUGVjczRQOHVJNDNFZHhra2FkelE5SVFVYjBMcnl2VF84WEtvUkRzaU5ZMmJlN2ZXNjVrNEJvZGYycVhHTjAydlMtbWc3ZHFYdnBNNlg0UUx2UXhkcGsweDRoMURLb0VtUmdB?oc=5",
+      "source": "Analytics India Magazine",
       "category": "tech",
-      "published_at": "2026-11-23T01:03:00+00:00",
+      "published_at": "2026-11-23T11:00:35+00:00",
       "importance": 7,
       "personal_score": 7.0,
       "entities": [
-        "Why AI-powered",
-        "IT Brief Australia Why",
-        "AI-powered",
-        "IT Brief Australia"
+        "L&T Technology Services Launches",
+        "AI Toolchain",
+        "Software-Defined Vehicles",
+        "Analytics India Magazine L&T",
+        "Technology Services Launches AI",
+        "Toolchain",
+        "Software-Defined Vehicles Analytics India",
+        "Magazine"
       ],
       "summary_method": "rss_fallback"
     },
     {
-      "id": "b7545d7001f0388d",
-      "title": "Keep humans at centre of math as we adapt to AI: Infosys laureate",
-      "summary": "Basu is an associate professor at the International Centre for Theoretical Sciences (ICTS), Bengaluru, of the Tata Institute of Fundamental Research. He corresponded with The Hindu by email following the Prize; the correspondence is presented here after editing for length. Are there important phenomena in nature or society that you believe we still lack the mathematical tools to understand? The systems we mathematicians study are, more often than not, highly simplified versions of the real-world phenomena we are trying to model, which we nevertheless believe capture their essential features.",
-      "url": "https://www.thehindu.com/sci-tech/science/riddhipratim-basu-infosys-prize-mathematics-artificial-intelligence-climate/article71715981.ece",
-      "source": "The Hindu Science",
+      "id": "55448e45c9d7dc8c",
+      "title": "Indian Cyber Crime Coordination Centre warns of possible misuse of WhatsApp Web sessions",
+      "summary": "CHENNAI The Indian Cyber Crime Coordination Centre (I4C), Ministry of Home Affairs, has warned WhatsApp users about the possible misuse of authenticated web sessions to gain unauthorised access to their accounts. In an advisory, the National Cybercrime Threat Analytics Unit (NCTAU) of the I4C said a malicious person could exploit an active WhatsApp Web session to read private messages, send messages by impersonating the account holder, access contacts and group conversations, and misuse the user’s trusted identity for fraud, phishing and other cybercrimes. The scammers trick a target into revealing the 6-digit SMS or in-app code that WhatsApp sends during login; it is typically done by phone calls or chat messages in the guise of tech support Over 3,000 cases of WhatsApp hacking scam reported in T.N. Also read: WhatsApp to simplify communication on app, add financial services https://www.thehindu.com/sci-tech/technology/whatsapp-to-simplify-communication-on-app-add-financial-services/article71688497.ece The unit also urged WhatsApp users to remain alert to unusual account activity.",
+      "url": "https://www.thehindu.com/news/national/cybercriminals-may-hijack-account-if-whatsapp-web-session-left-logged-in-on-public-computer-govt/article71734286.ece",
+      "source": "The Hindu Science and Technology",
       "category": "tech",
-      "published_at": "2026-11-18T12:54:58+00:00",
+      "published_at": "2026-11-23T12:29:31+00:00",
       "importance": 7,
       "personal_score": 7.0,
       "entities": [
-        "Keep",
-        "Infosys",
-        "Riddhipratim Basu",
-        "Infosys Prize"
+        "Indian Cyber Crime Coordination",
+        "Centre",
+        "WhatsApp Web",
+        "National Cybercrime Threat Analytics",
+        "Unit"
       ],
       "summary_method": "tfidf_extractive_full_article"
-    },
-    {
-      "id": "96babb279ce88c8a",
-      "title": "Build the Workshop Before the Software Factory — Armin Ronacher, Earendil｜AI Engineer - finance.biggo.com",
-      "summary": "Build the Workshop Before the Software Factory — Armin Ronacher, Earendil｜AI Engineer finance.biggo.com",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0xZTFseHhEeERWNXUyVjU4dHlQZ2lRbEJ2YTZfRVBVTkdDaXJxbTAwR0dLa2FndVAtZGtlWWhmTlRKbVRPbWMxTHZWa3REZlZiMnM3MG1xLWJIZmpycG4w?oc=5",
-      "source": "finance.biggo.com",
-      "category": "tech",
-      "published_at": "2026-11-22T20:25:44+00:00",
-      "importance": 7,
-      "personal_score": 7.0,
-      "entities": [
-        "Build",
-        "Workshop Before",
-        "Software Factory",
-        "Armin Ronacher",
-        "Earendil",
-        "AI Engineer"
-      ],
-      "summary_method": "rss_fallback"
     },
     {
       "id": "187768709b0290e7",
@@ -1643,39 +1471,58 @@
       "summary_method": "tfidf_extractive_full_article"
     },
     {
-      "id": "68cc7d1781d2ab0b",
-      "title": "Army partners with OpenAI to accelerate software accreditation - SC Media",
-      "summary": "Army partners with OpenAI to accelerate software accreditation SC Media",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPalFKZklSeTZjbkNJMElYZ05pT0FnN2ppVU5leDByQ2tsbVN1cXkwSGJBcWYwVWlSYkQ2NWtCdW5KeHFrZHlPa0dveXg4S2xPMll3LWhxRWo5ZDhzTDZxcVAyQ0lwcUZyLWJtM0g0WkhkR2d2RFlJLXhMV285STdJaUNkXy1aMXhERGZ5aDA3S2ZTaVMxbEpR?oc=5",
-      "source": "SC Media",
+      "id": "5983afcf45e4cdd9",
+      "title": "Three cyclones in three weeks: What’s happening in the Bay of Bengal? | Explained",
+      "summary": "The story so far: Within 23 days this year, three cyclones formed over the Bay of Bengal. Of them, Cyclone Arnab made landfall near Yanam on the Andhra Pradesh coast on October 28 and Murasu on November 3 near Ongole. Cyclone Akvan formed on November 16 and made landfall near Gopalpur in Odisha on Friday morning (November 20, 2026). But as the monsoon withdraws, the vertical wind shear weakens even as the waters remain warm, creating more favourable conditions.",
+      "url": "https://www.thehindu.com/news/national/three-cyclones-in-three-weeks-whats-happening-in-the-bay-of-bengal-explained/article71721198.ece",
+      "source": "The Hindu Science",
       "category": "tech",
-      "published_at": "2026-11-23T02:25:22+00:00",
+      "published_at": "2026-11-22T05:18:02+00:00",
       "importance": 7,
       "personal_score": 7.0,
       "entities": [
-        "Army",
-        "OpenAI",
-        "SC Media Army",
-        "SC Media"
+        "Three",
+        "What",
+        "Bay",
+        "Bengal",
+        "Explained Such"
       ],
-      "summary_method": "rss_fallback"
+      "summary_method": "tfidf_extractive_full_article"
     },
     {
-      "id": "ab3ed467b4a12233",
-      "title": "AI Agents Are Changing Software Development - Medya Press",
-      "summary": "AI Agents Are Changing Software Development Medya Press",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1lYl8yTXFSME9yQnY2OENzSWFna0ZtdXJCdHpqUFY5cGZKdzJ1aVkzNVBkNmVVYTZXYUowLWx0a2JFektJQzFOY2tpbFN5ejJRbHJrZVF4NUZoTTAzX0tqd1lHN1psZnpDbkRQSHlmUW9uN05aS0E?oc=5",
-      "source": "Medya Press",
+      "id": "b7545d7001f0388d",
+      "title": "Keep humans at centre of math as we adapt to AI: Infosys laureate",
+      "summary": "Basu is an associate professor at the International Centre for Theoretical Sciences (ICTS), Bengaluru, of the Tata Institute of Fundamental Research. He corresponded with The Hindu by email following the Prize; the correspondence is presented here after editing for length. Are there important phenomena in nature or society that you believe we still lack the mathematical tools to understand? The systems we mathematicians study are, more often than not, highly simplified versions of the real-world phenomena we are trying to model, which we nevertheless believe capture their essential features.",
+      "url": "https://www.thehindu.com/sci-tech/science/riddhipratim-basu-infosys-prize-mathematics-artificial-intelligence-climate/article71715981.ece",
+      "source": "The Hindu Science",
       "category": "tech",
-      "published_at": "2026-11-23T03:16:15+00:00",
+      "published_at": "2026-11-18T12:54:58+00:00",
       "importance": 7,
       "personal_score": 7.0,
       "entities": [
-        "AI Agents Are Changing",
-        "Software Development",
-        "Medya Press AI Agents",
-        "Are Changing Software Development",
-        "Medya Press"
+        "Keep",
+        "Infosys",
+        "Riddhipratim Basu",
+        "Infosys Prize"
+      ],
+      "summary_method": "tfidf_extractive_full_article"
+    },
+    {
+      "id": "036846417f949df9",
+      "title": "WarpKVM Releases Open-Source RK628H Bridge Boards - Open Source For You",
+      "summary": "WarpKVM Releases Open-Source RK628H Bridge Boards Open Source For You",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObWxtQjhucWhtYlNRVVRUX3FuZ0dDZUd6aHo0YmpqXzZoUWd6cS02SEt1QkhVMUtUX3BDMU1Hc2xPVHNQVVBvaERoT0w3Vjc0NDVjeS1zcmh2Q3R0NVN5VWNUWWdFbHVDNHVWYXpES0g5QXZOajdHd253RTJGQlFJbTF1Ri1FZ2JJV1RrcUxKVFpJTFU?oc=5",
+      "source": "Open Source For You",
+      "category": "tech",
+      "published_at": "2026-11-23T08:01:10+00:00",
+      "importance": 7,
+      "personal_score": 7.0,
+      "entities": [
+        "WarpKVM Releases Open-Source RK628H",
+        "Bridge Boards",
+        "Open Source For You",
+        "Bridge Boards Open Source",
+        "For You"
       ],
       "summary_method": "rss_fallback"
     },
@@ -1700,61 +1547,6 @@
         "Fintech Firms The Hacker"
       ],
       "summary_method": "rss_fallback"
-    },
-    {
-      "id": "8db87fb610161f60",
-      "title": "CrowdStrike buys Zscaler for nearly $44 billion, likely to spur cybersecurity consolidation - Constellation Research",
-      "summary": "CrowdStrike buys Zscaler for nearly $44 billion, likely to spur cybersecurity consolidation Constellation Research",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPRU4xdDYzWVdrM3FvbUZDaHBqYnBRS2N5cDdMQTMzQWV1RFRYOVl4WTRKZFhMaGZ4b1J3SDVJekdObllmZHVlX0tRVDQwamNWN3NBODlRMVBPaEV1bEY0YkdsVXVSR2FaY0NDbHhSWUVoYXFfaTRkdnZXR3BQZjFOZjJuQ3ZieXhibWpJNWNWUFFUNllVYVZEdHA0REM4V0FfUV9QUENaRC1BWk9ERWd1Z3RZZVRuOFZFbnVxSU01Qjh4bUVEVVE?oc=5",
-      "source": "Constellation Research",
-      "category": "tech",
-      "published_at": "2026-11-23T11:43:45+00:00",
-      "importance": 7,
-      "personal_score": 7.0,
-      "entities": [
-        "CrowdStrike",
-        "Zscaler",
-        "Constellation Research CrowdStrike",
-        "Constellation Research"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
-      "id": "18af9eec77b5a291",
-      "title": "CrowdStrike to buy Zscaler in $44 billion deal as AI supercharges cyberattacks - CNBC",
-      "summary": "CrowdStrike to buy Zscaler in $44 billion deal as AI supercharges cyberattacks CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQT0N6eHducGhQY2ZyMTlRNjZOZHhoSnp0aGdkVTJsU2t0TnVhTGwtU0RVTVFFbXh1T0E1Z3BIWXJBdXgzbG1hQ2k0Znl2RFJLOUdLUGh2RjJSVHBidkdycXFzRDR3dzlyd0hXcHE3RmNSYnNRaEdQNWIyMHpYZzU0R0VTM0JKcVVpQTVz0gGQAUFVX3lxTE9rVEo0OGV5SWVvM3VzRHUtUEZKUkZVNjlxcWdyTGZKZDVlZ1M5QTNhbWszQ0hxOGhTXzh1MXVycXI0WVBoVHpBUHNhN0h2YXBYVVk2WFBSdFBXUWdPSS1qNUc1dk5obHpjSDNZdUFfamM1bFA3RV9fdm5jM1FoUFlGLVVOQjN4WjR3ZXNUR0M0MQ?oc=5",
-      "source": "CNBC",
-      "category": "tech",
-      "published_at": "2026-11-23T14:38:45+00:00",
-      "importance": 7,
-      "personal_score": 7.0,
-      "entities": [
-        "CrowdStrike",
-        "Zscaler",
-        "CNBC CrowdStrike",
-        "CNBC"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
-      "id": "8a3e33ef268e1a75",
-      "title": "Nvidia reinstates Jensen Huang as CEO after U.S. government input",
-      "summary": "| The View from India podcast In this episode, Ananth Krishnan examines the controversy surrounding Nvidia chief Jensen Huang, the U.S.-China battle over AI and semiconductors, and the parallels with Jack Ma’s experience. Huang back as president, chief executive and board member, effective immediately, after a series of meetings left directors satisfied with his “candor and ability to lead”, the company said in a statement. Board chair Harvey Jones had said on an earnings call last week that directors had unanimously accepted his resignation and did “not intend to reinstate Jensen as CEO\". Huang, 63, stepped down on November 12 following reports that he had a relationship with Alice Huang — no relation — a former executive at Singapore-based Megaspeed, a company that bought billions of dollars’ worth of Nvidia chips.",
-      "url": "https://www.thehindu.com/sci-tech/technology/nvidia-reinstates-jensen-huang-as-ceo-after-us-government-input/article71735341.ece",
-      "source": "The Hindu Science and Technology",
-      "category": "tech",
-      "published_at": "2026-11-23T14:38:23+00:00",
-      "importance": 6,
-      "personal_score": 6.0,
-      "entities": [
-        "Nvidia",
-        "Jensen Huang",
-        "CEO",
-        "U.S",
-        "U.S. President Donald Trump"
-      ],
-      "summary_method": "tfidf_extractive_full_article"
     },
     {
       "id": "58e75ec1762ebe27",
@@ -1783,32 +1575,6 @@
       "summary_method": "tfidf_extractive_full_article"
     },
     {
-      "id": "6c888908779227ae",
-      "title": "യുഎസ്-ഇറാൻ യുദ്ധം എണ്ണയിലും സ്വർണത്തിലും ഒതുങ്ങില്ല; എഐയിലും സ്വാധീനം, അടി കിട്ടിയത് ചാറ്റ്ജിപിടിക്ക്!",
-      "summary": "യുഎസ് പ്രതിരോധ വകുപ്പുമായി പ്രമുഖ ആർട്ടിഫിഷ്യൽ ഇന്റലിജൻസ് സ്ഥാപനമായ ഓപ്പൺഎഐ സഹകരിച്ച തീരുമാനത്തിന് വലിയ വിമർശനമാണ് നേരിടുന്നത്.ഇത് സാമൂഹിക മാധ്യമങ്ങളിൽ ചർച്ചയാവുകയും ഉപയോക്താക്കൾ കമ്പനിയുടെ തീരുമാനത്തെ ചോദ്യം ചെയ്യുകയും ചെയ്‌തിരുന്നു. പ്രതിരോധ പ്രവർത്തനങ്ങളിൽ എഐ സാങ്കേതികവിദ്യയുടെ പങ്കാളിത്തം പലരിലും ആശങ്കയുണ്ടാക്കി.ചാറ്റ്ജിപിടി ഉപേക്ഷിച്ച് ഉപയോക്താക്കൾനിലവിലെ കണക്കുകൾ അനുസരിച്ച് കഴിഞ്ഞ മാസം അവസാനം വരെ മാത്രം ചാറ്റ്ജിപിടി ആപ്പിന്റെ അൺഇൻസ്‌റ്റാളേഷനുകളിൽ ഗണ്യമായ വർധനവ് രേഖപ്പെടുത്തി. അവർ ക്ലോഡിന്റെ സ്ക്രീൻഷോട്ടിനൊപ്പം ഹൃദയ ചിഹ്നവും പങ്കുവെച്ചത്, ആന്ത്രോപിക്കിന്റെ നിലപാടിനുള്ള പിന്തുണയായി പലരും ഇതിനെ വ്യാഖ്യാനിക്കുന്നുണ്ട്.സാം ആൾട്ട്മാന്റെ മറുപടി ഇങ്ങനെവിമർശനങ്ങൾക്ക് പിന്നാലെ, ഓപ്പൺഎഐ സിഇഒ സാം ആൾട്ട്മാൻ എക്‌സിൽ പ്രതികരണം അറിയിച്ചിട്ടുണ്ട്. ഓപ്പൺഎഐ ഇപ്പോൾ പെന്റഗണുമായുള്ള കരാർ പുതുക്കുകയും തങ്ങളുടെ പോളിസികൾ വ്യക്തമാക്കിയതായും ആൾട്ട്മാൻ പറഞ്ഞു.യുഎസ് പ്രതിരോധ വകുപ്പും എഐ വ്യവസായവും തമ്മിലുള്ള സംഘർഷം ഒഴിവാക്കുക എന്ന ലക്ഷ്യത്തോടെയായിരുന്നു പെട്ടെന്നെടുത്ത ഈ തീരുമാനമെന്നാണ് സാം ആൾട്ട്മാൻ പറഞ്ഞത്.",
-      "url": "https://malayalam.oneindia.com/artificial-intelligence/us-iran-war-will-not-be-limited-to-oil-and-gold-it-will-also-affect-ai-chatgpt-has-been-hit-570905.html",
-      "source": "Oneindia Artificial Intelligence",
-      "category": "tech",
-      "published_at": "2026-03-06T05:26:24+00:00",
-      "importance": 6,
-      "personal_score": 6.0,
-      "entities": [
-        "യുഎസ്",
-        "ഇറാൻ",
-        "യുദ്ധം",
-        "എണ്ണയിലും",
-        "സ്വർണത്തിലും",
-        "ഒതുങ്ങില്ല",
-        "എഐയിലും",
-        "സ്വാധീനം",
-        "അടി",
-        "കിട്ടിയത്",
-        "ചാറ്റ്ജിപിടിക്ക്",
-        "US Iran"
-      ],
-      "summary_method": "tfidf_extractive_full_article"
-    },
-    {
       "id": "dc44bf31ffe22afe",
       "title": "How did ISRO pick astronaut candidates for the Gaganyaan mission?",
       "summary": "It is widely regarded as the boundary at which space begins, and anyone who crosses this is considered an astronaut. They are highly skilled persons who fly newly developed, modified or experimental aircrafts to evaluate performance. Test pilots are known for their ability to stay calm, make quick decisions, and have undergone very rigorous training to survive exigencies like high acceleration conditions or sudden cabin depressurisation. Once a space agency has proven a launch system and matured it through test flights, it selects scientists, doctors, and engineers as mission specialists.",
@@ -1827,36 +1593,20 @@
       "summary_method": "tfidf_extractive_full_article"
     },
     {
-      "id": "1abf1fca3512bcb3",
-      "title": "I love Android, but these 4 software problems are hard to ignore - Android Police",
-      "summary": "I love Android, but these 4 software problems are hard to ignore Android Police",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUTZZcXYwbjVfOVVCWU9tdERXSUgxRmZfV2NrZTk4NzFxdWpYd0hKbVV2VkRjMlV5TXdxYUxxUmh1OTl1UUJneHcxalNfclZEcF9iVTRFUWw3a0NOb09lSW1jc2xKN1ZyNnhVN2p5eHVqOTQ3NjFCUGRzdl9LRUxOUw?oc=5",
-      "source": "Android Police",
+      "id": "56026711c75f26b0",
+      "title": "South Asian coral reefs critically endangered, warns IUCN; 4 ecoregions in India",
+      "summary": "Powered by 18 years of ground data contributed heavily by scientists at the Zoological Survey of India (ZSI), a latest study has placed all 13 distinct coral reef ecoregions spanning over 8,000 square kilometres in South Asia as \"critically endangered\". The study by the International Union for Conservation of Nature (IUCN) reveals that rapidly rising marine heatwaves and recurring mass bleaching events over the next 50 years could push these ancient underwater ecosystems past a point of no return. Prior to this, no study of this scale has been carried out,\" said Dr Tamal Mondal, a Zoological Survey of India (ZSI) scientist and one of the authors of the paper titled 'Red List of Ecosystems assessment of South Asian coral reefs'. Explaining the importance of coral reefs to the ecosystem, Dr Mondal said that they are one of the oldest ecosystems in the world and are called “marine rainforests for their role in maintaining marine biodiversity.",
+      "url": "https://indianexpress.com/article/technology/science/south-asian-coral-reefs-critically-endangered-india-10948995",
+      "source": "Indian Express Science",
       "category": "tech",
-      "published_at": "2026-11-20T11:30:11+00:00",
+      "published_at": "2026-11-03T12:32:37+00:00",
       "importance": 6,
       "personal_score": 6.0,
       "entities": [
-        "Android",
-        "Android Police I",
-        "Android Police"
+        "South Asian",
+        "IUCN"
       ],
-      "summary_method": "rss_fallback"
-    },
-    {
-      "id": "3f2fcf0dfcbbf76c",
-      "title": "The Swedish Club highlights operational and financial exposure to cyberattacks - safety4sea",
-      "summary": "The Swedish Club highlights operational and financial exposure to cyberattacks safety4sea",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOYTdrTXRGb1RCejRTZXdIenAzTVg3WW5FSE1zNVNLUzltSHZibk9OMG53c2QtVjlDdU4xbnV3b2pLOVhTNjhNcEllMlpveDRONkoxTW95NG83ZWJZcUFJYXFKQ1B5ZGtOMFo1ZGM3NmtNck1CVURoUzM5ZGQ0djBlM0JKdFZFT3J0bU01dENjMV9wYlctUU5XNnktb0Y4aEpHNjlRMA?oc=5",
-      "source": "safety4sea",
-      "category": "tech",
-      "published_at": "2026-11-23T12:15:36+00:00",
-      "importance": 6,
-      "personal_score": 6.0,
-      "entities": [
-        "The Swedish Club"
-      ],
-      "summary_method": "rss_fallback"
+      "summary_method": "tfidf_extractive_full_article"
     },
     {
       "id": "f6c75855a9bfad1f",
@@ -1877,63 +1627,71 @@
       "summary_method": "rss_fallback"
     },
     {
-      "id": "0be19848525031fc",
-      "title": "'Final Days Of Software Development': Programmer Says AI Has Taken Away The Joy Of Coding; Internet Reacts - News18",
-      "summary": "'Final Days Of Software Development': Programmer Says AI Has Taken Away The Joy Of Coding; Internet Reacts News18",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNZEN3TVFSYkhyQ1FDTWZ3TE16VGJRUU44WVV1MTlLazRXTXNQWEJhMEJUMzRFUERoR1RmOVl6WFo3UTVBYmJaQWZpd2I4dnRvM0pxSGpzdnlndFF6Q3VBQnhjMjdMaHU3NTEtbDBmUWFCenRWNWRQSUFkUEhYbVduY29BTmhRVEdXOFdBNGliYjdTVVQ4S2ZwbGFCLXBWakJ2RHJRRjhRWDJsZjgxQnQyQXpULTkzU01feEF5V3FJQ1NpS0VJc0dZaW5jLXBmcU1JUGRvMHdfR2dCb0VfU3Y2ZkN6QjjSAeoBQVVfeXFMTldlaXlwNGk1OHV0aHlFNjVNX2l5SXp1MW1DX2RWTVdDVUg5UGYwaVk3NnlHOTlLa1g2ZzJoeWE1N0RIVVZsYjl5cWFxdkRCSVhfTS0xY3VEX3JjSm1sZUgyMFNNUUVXWXBfenpCY3hFNF9vanE2MGlxd2lHd1JFM3pJbXFFMmgxTkRBNGdMbDF6azNTMGdoNEFRZzdINlpESEt5N3VfQUpkTGxIYVhkelB2bFpaVEQ4cHVHa200eVkyNXJoWnlUcDVhdmtSSkd2T1p3dUJDZ0E0TGZvNG5HZDY2dkJwbXFMTE9R?oc=5",
-      "source": "News18",
+      "id": "4ddedf4f0801a48f",
+      "title": "Gartner identifies six software engineering trends shaping enterprise AI development - Express Computer",
+      "summary": "Gartner identifies six software engineering trends shaping enterprise AI development Express Computer",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQLVZaSERaS0JkT1RiX3NWc3RCU1d0NWlRNmMzNFpPZzJVaXJ6STZXbkQ5NnFiZWwwMEQ1cV9nZWNNQU1Gem1QTkk4MUNUeWEzZnluTS1WRXpHV3pIZFdCd3JjbkJzOWR6aEV4TTFyeUYzNVJTMEVrNk1LS09qRHRuRFN4XzMxQ2FWUHhNV1lYcjdfZVJKbkN3Q1l3bkR6LVJzRzcwT0tiblliTXFaTm5iRW5wckZZZEtQUmxSdHVzbnM0b29NeF9j?oc=5",
+      "source": "Express Computer",
       "category": "tech",
-      "published_at": "2026-11-21T13:00:59+00:00",
+      "published_at": "2026-11-18T10:57:07+00:00",
       "importance": 6,
       "personal_score": 6.0,
       "entities": [
-        "Final Days Of Software",
-        "Development",
-        "Programmer Says AI Has",
-        "Taken Away The Joy",
-        "Of Coding",
-        "Internet Reacts",
-        "News18",
-        "Internet Reacts News18"
+        "Gartner",
+        "Express Computer Gartner",
+        "Express Computer"
       ],
       "summary_method": "rss_fallback"
     },
     {
-      "id": "c93c520fc1f53c79",
-      "title": "“Software is over”: Bold AI developer takes aim at Adobe with open source clones - Ars Technica",
-      "summary": "“Software is over”: Bold AI developer takes aim at Adobe with open source clones Ars Technica",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbnlQeEF0azJTVURrX1dtX3JUVjFRd0R0Z0t1S0hjQ1ZwSXh0TlhaVnFndEJHbzQtVU1PUFZVbmlzNGlCZmEyMGl6Wnc3NDFsMTdLVFQ0M0R0cHJDeWRGakJFUm93Vjh6ODVxTzR3MTJadGQyYnhXSnVwaUhsTzk1ZzFlVHJqa29rRlRmR3lOZUFWQ2p2Ymt5U3p6Ti1OQW5pclI5d3lycXBUZGYxSk53cWdiNA?oc=5",
-      "source": "Ars Technica",
+      "id": "184e6dc04c472cc0",
+      "title": "Vector unveils cloud platform to connect automotive software development and fleet operations - ET Auto",
+      "summary": "Vector unveils cloud platform to connect automotive software development and fleet operations ET Auto",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPU3UtR1hDdXlrbWJKZ0VCdnA5a0pfOU03QmNTWnJGaDdYdFQwdG9wdFF5ZXU4emVWenlxZzlOajhkVXc2ajVmcThJSHlpQVdaWTdhT0xMREpRbU84UHNrR3IzUjJwWThpeVhwUlBnRzE3X20wUHFpVG5EdjNLM0ZpRV9JSFlrZjRMLUNXampKR2RuUEdDejdQMTdJeE42VU13WFB4eWxIbUQ1bzFvM2I4cHVsdS1iUWlVTVhtNVhocTc5NEVtd0N4bXNHMUZzZzJDa2lUbXFIbjdGZ3ktdmZvSjB1a3pqVTNFeG4zUV83Q0l0czFUdVY0NFlB0gH-AUFVX3lxTFByUG1aSVZqUUZEeVhHMi1WR1ZET0MxTE1UdERINE8td1FJSTk3SUNncDFYVWFpX29lQjFTaVNIckdsemx5cWo4ckZMM0VWWjl6d2hRX2FaRS13LXhRVlhfRGU0YTdaOHNlWVgxYkxYVC1hRUJpM3p3aE9FQkllb2g1UlFlRW5yaUtmbmsyR3lwcV9ZTTZMWjZtU1lkSnFIeW9HQXBITXpPUExKUDltejY1QXFIWjk2MzlRb3FWNzZjSmRDblBnVDlleW5hMHN3dXJzTjdkMEVFaGxhZWszZ3V4QUtWUE5lV09UTVp1Nkd2R0t3d2I1VmJhMDlPcXV3?oc=5",
+      "source": "ET Auto",
       "category": "tech",
-      "published_at": "2026-10-07T07:00:00+00:00",
+      "published_at": "2026-11-17T17:36:00+00:00",
       "importance": 6,
       "personal_score": 6.0,
       "entities": [
-        "Software",
-        "Bold AI",
-        "Adobe",
-        "Ars Technica"
+        "Vector",
+        "ET Auto Vector",
+        "ET Auto"
       ],
       "summary_method": "rss_fallback"
     },
     {
-      "id": "8d0f4b93f8bbe64d",
-      "title": "Linux Foundation and Industry Leaders Launch Akrites to Defend Critical Open Source Software Against AI-Enabled Cyber Threats - Linux Foundation",
-      "summary": "Linux Foundation and Industry Leaders Launch Akrites to Defend Critical Open Source Software Against AI-Enabled Cyber Threats Linux Foundation",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOVFJpUjhOZHF3TFVOekI2RVJVUHM2cUU5X3B2TGs2X19yRUMzVUY3UDByblN6VjJnV2s1cFZmaVJiZVZCLXh4NTVjd0ptdkNRa3RpOW8waVA1Mlo3bXdteWY1U1MybXJXaTBubVg2Z25nUHpsS0QtZXU0STdDLVZTRlM4bnpmRVltejVSOGtiS3QwMndYa3pteTJURUdTbU5nWl81TlVHdTdTM0dvNHF3TnVLanZ6bVRxWUFTN3l5T1lyeHhoQ2VMNzZKemRzTWZKa1R0ZVY5RzAyX1RxUW9kUVlMc2Z4TlNkRFJVSkROaHp6ZGlXWmfSAYYCQVVfeXFMT2VtR0RMWkhPMVZFUUx5bGJONXk0Yi1UZFBlNDF1WnB6eDdqRHA1TF82Z2ZmNlJmYU1TWl8ya3ZWRTZwdVZQcWp5MXhiU1Q1TFh4ZlJPcUg5WGlCUVg3LU5Wc3N6UzlXWFhLTGJwaEhlR3p5RW15Z1FsZ0RKRVhXSTVHNVJ1eXJzSUt1WWJJSmRfWDFiZDFsVUdTTVVkNzVia21HSHluYlhBMHJfY0FTMnhiWUx2ZkxZemxlck5pSDdIdDhIRW9RaHVULUFFSHhWeUZiNWxONnpkM2J0VXRMbUNpVFZ0Y0o3WWt5cVFLdVZLUkh6ZTF5WWVfRzZpblFIdWRUQk01dw?oc=5",
-      "source": "Linux Foundation",
+      "id": "be535c0974a5e986",
+      "title": "How to Develop Software Engineering Skills in the Age of AI - infoq.com",
+      "summary": "How to Develop Software Engineering Skills in the Age of AI infoq.com",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9YckU5MndTT0Rxb3ZzbHJNRkxKZGcycTBkM0FMVDF1SEI0SDVaQ2k3Qk5ZU2tpOXh3M1lDNWVXcmsydklRV29LSW14R0Fpbk1UbHFnRFo5ZFlmVG4yN09OSGNQNzUyM0lpWlU5WUZ4MGE?oc=5",
+      "source": "infoq.com",
       "category": "tech",
-      "published_at": "2026-06-25T07:00:00+00:00",
+      "published_at": "2026-10-01T07:00:00+00:00",
       "importance": 6,
       "personal_score": 6.0,
       "entities": [
-        "Linux Foundation",
-        "Industry Leaders Launch Akrites",
-        "Defend Critical Open Source",
-        "Software Against AI-Enabled Cyber",
-        "Threats",
-        "Linux Foundation Linux Foundation",
-        "Threats Linux Foundation"
+        "How",
+        "Develop Software Engineering Skills",
+        "Age"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
+      "id": "6b8d92eeaacc3c96",
+      "title": "The Future of Software Development Is Human + AI - Nasscom",
+      "summary": "The Future of Software Development Is Human + AI Nasscom",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOb2hNUTE0Zk54bWtPV2l5LW5lYWNWYml5Ny1zUThkcGxmSXhNZTFIWk9pYVBKYksxSGFzRHhndGVnZFN5SHViQ0hHWUdQMGtaNWJRU1BoTmwyNFJWLU80ZzdjWXZ5V1QwM3lsdHkzWXRYZEo5WE04OTIyOUVzcnFUVzVhRTJ3TUE?oc=5",
+      "source": "Nasscom",
+      "category": "tech",
+      "published_at": "2026-11-13T11:13:12+00:00",
+      "importance": 6,
+      "personal_score": 6.0,
+      "entities": [
+        "The Future",
+        "Software Development Is Human",
+        "Nasscom The Future",
+        "AI Nasscom"
       ],
       "summary_method": "rss_fallback"
     },
@@ -1971,6 +1729,24 @@
       "summary_method": "rss_fallback"
     },
     {
+      "id": "8db87fb610161f60",
+      "title": "CrowdStrike buys Zscaler for nearly $44 billion, likely to spur cybersecurity consolidation - Constellation Research",
+      "summary": "CrowdStrike buys Zscaler for nearly $44 billion, likely to spur cybersecurity consolidation Constellation Research",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPRU4xdDYzWVdrM3FvbUZDaHBqYnBRS2N5cDdMQTMzQWV1RFRYOVl4WTRKZFhMaGZ4b1J3SDVJekdObllmZHVlX0tRVDQwamNWN3NBODlRMVBPaEV1bEY0YkdsVXVSR2FaY0NDbHhSWUVoYXFfaTRkdnZXR3BQZjFOZjJuQ3ZieXhibWpJNWNWUFFUNllVYVZEdHA0REM4V0FfUV9QUENaRC1BWk9ERWd1Z3RZZVRuOFZFbnVxSU01Qjh4bUVEVVE?oc=5",
+      "source": "Constellation Research",
+      "category": "tech",
+      "published_at": "2026-11-23T11:43:45+00:00",
+      "importance": 6,
+      "personal_score": 6.0,
+      "entities": [
+        "CrowdStrike",
+        "Zscaler",
+        "Constellation Research CrowdStrike",
+        "Constellation Research"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
       "id": "9c4c5c5427563da7",
       "title": "Is AI killing open-source software? - The New Stack",
       "summary": "Is AI killing open-source software? The New Stack",
@@ -1984,23 +1760,6 @@
         "Is AI",
         "The New Stack Is",
         "The New Stack"
-      ],
-      "summary_method": "rss_fallback"
-    },
-    {
-      "id": "be535c0974a5e986",
-      "title": "How to Develop Software Engineering Skills in the Age of AI - infoq.com",
-      "summary": "How to Develop Software Engineering Skills in the Age of AI infoq.com",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9YckU5MndTT0Rxb3ZzbHJNRkxKZGcycTBkM0FMVDF1SEI0SDVaQ2k3Qk5ZU2tpOXh3M1lDNWVXcmsydklRV29LSW14R0Fpbk1UbHFnRFo5ZFlmVG4yN09OSGNQNzUyM0lpWlU5WUZ4MGE?oc=5",
-      "source": "infoq.com",
-      "category": "tech",
-      "published_at": "2026-10-01T07:00:00+00:00",
-      "importance": 6,
-      "personal_score": 6.0,
-      "entities": [
-        "How",
-        "Develop Software Engineering Skills",
-        "Age"
       ],
       "summary_method": "rss_fallback"
     },
@@ -2021,6 +1780,116 @@
       "summary_method": "rss_fallback"
     },
     {
+      "id": "8d0f4b93f8bbe64d",
+      "title": "Linux Foundation and Industry Leaders Launch Akrites to Defend Critical Open Source Software Against AI-Enabled Cyber Threats - Linux Foundation",
+      "summary": "Linux Foundation and Industry Leaders Launch Akrites to Defend Critical Open Source Software Against AI-Enabled Cyber Threats Linux Foundation",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOVFJpUjhOZHF3TFVOekI2RVJVUHM2cUU5X3B2TGs2X19yRUMzVUY3UDByblN6VjJnV2s1cFZmaVJiZVZCLXh4NTVjd0ptdkNRa3RpOW8waVA1Mlo3bXdteWY1U1MybXJXaTBubVg2Z25nUHpsS0QtZXU0STdDLVZTRlM4bnpmRVltejVSOGtiS3QwMndYa3pteTJURUdTbU5nWl81TlVHdTdTM0dvNHF3TnVLanZ6bVRxWUFTN3l5T1lyeHhoQ2VMNzZKemRzTWZKa1R0ZVY5RzAyX1RxUW9kUVlMc2Z4TlNkRFJVSkROaHp6ZGlXWmfSAYYCQVVfeXFMT2VtR0RMWkhPMVZFUUx5bGJONXk0Yi1UZFBlNDF1WnB6eDdqRHA1TF82Z2ZmNlJmYU1TWl8ya3ZWRTZwdVZQcWp5MXhiU1Q1TFh4ZlJPcUg5WGlCUVg3LU5Wc3N6UzlXWFhLTGJwaEhlR3p5RW15Z1FsZ0RKRVhXSTVHNVJ1eXJzSUt1WWJJSmRfWDFiZDFsVUdTTVVkNzVia21HSHluYlhBMHJfY0FTMnhiWUx2ZkxZemxlck5pSDdIdDhIRW9RaHVULUFFSHhWeUZiNWxONnpkM2J0VXRMbUNpVFZ0Y0o3WWt5cVFLdVZLUkh6ZTF5WWVfRzZpblFIdWRUQk01dw?oc=5",
+      "source": "Linux Foundation",
+      "category": "tech",
+      "published_at": "2026-06-25T07:00:00+00:00",
+      "importance": 6,
+      "personal_score": 6.0,
+      "entities": [
+        "Linux Foundation",
+        "Industry Leaders Launch Akrites",
+        "Defend Critical Open Source",
+        "Software Against AI-Enabled Cyber",
+        "Threats",
+        "Linux Foundation Linux Foundation",
+        "Threats Linux Foundation"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
+      "id": "0cacd9b2fe8e96f6",
+      "title": "Best open source software of 2025 - TechRadar",
+      "summary": "Best open source software of 2025 TechRadar",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE81RXlCYWhsc0xSNmlZWVcwbExOdWFCdzNDaGxxSXhjZzBZYjJKN0FoNWY4VjhWUEFGYjI4akhCVFlNSWdzTDdKcFJSUm1nZUNQWXRBY2MyTk1tb1M5S09wT3NZQkk4cXM?oc=5",
+      "source": "TechRadar",
+      "category": "tech",
+      "published_at": "2025-12-05T08:00:00+00:00",
+      "importance": 6,
+      "personal_score": 6.0,
+      "entities": [
+        "Best",
+        "TechRadar Best",
+        "TechRadar"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
+      "id": "ef2523d666349279",
+      "title": "The State of Open Source Software in 2025 - Linux Foundation",
+      "summary": "The State of Open Source Software in 2025 Linux Foundation",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOT212VW5vd1g2YU1VWGNXOTNnQ0JvUlNINFJ6TDA4SjFBc3UtYkk3REw3OFFwSXVsenFEUWhEbkZ5aU92UjZJU2Y3UnM5V05vUi1YbVFIdmFjZ3lEWFM5ZWJoWG9qWEdDeXR4a0RYRkNPbFpUX0FSQ1AtQ3A3YlZCeFhVb1TSAZQBQVVfeXFMTlFrVkhjcjdpZWhCZmxVQ2ZFZUMweGlYV1kySkZrbWdqUjQtUUZhcnVOTk16dlNuNjd3WXlfcXU5TjRyVEdFWE5zT1NHWU1pSUFwazU3d0dhN3B3cWEtczJSQUZqZHMtRnEzT1VxSFVzQVFjRkhMWC1VSmhWN2lDbTF2MzNsZmZsZElkMjhKazhOZWY3cQ?oc=5",
+      "source": "Linux Foundation",
+      "category": "tech",
+      "published_at": "2025-11-27T08:00:00+00:00",
+      "importance": 6,
+      "personal_score": 6.0,
+      "entities": [
+        "The State",
+        "Open Source Software",
+        "Linux Foundation The State",
+        "Linux Foundation"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
+      "id": "eb6e10b5c986c648",
+      "title": "Why getting bigger can help cybersecurity companies fight AI-related threats - Marketplace.org",
+      "summary": "Why getting bigger can help cybersecurity companies fight AI-related threats Marketplace.org",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWjV5ajNfOWw0S2pEMFByV1E2eENxcDZHaGJtRWMwMjdyTDlnV0RYcWVhYjI2TzFiV05RU0tqaHhrRFFDeHgxa3R2c0hzWm84WWtUUzhSVWdYcDdUcnFXS2xQWV90MmNtTjlDQjdGWVZwRWcxMzJVNUN5emdhMzM5cXkzMHg5V1h2ZU9LeURnLUF3dkptcGJHdlc0Rk91VTFha1A2R1JqUQ?oc=5",
+      "source": "Marketplace.org",
+      "category": "tech",
+      "published_at": "2026-11-23T22:45:00+00:00",
+      "importance": 5,
+      "personal_score": 5.0,
+      "entities": [
+        "Why",
+        "AI-related",
+        "Marketplace.org Why",
+        "Marketplace.org"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
+      "id": "c423aecefc1f27fa",
+      "title": "RBI discusses with NBFCs, HFCs the need to strengthen cybersecurity, manage IT risks and fair practices better - Fortune India",
+      "summary": "RBI discusses with NBFCs, HFCs the need to strengthen cybersecurity, manage IT risks and fair practices better Fortune India",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNa1JRUk9aWkpHNjI0SC1qTmpBdUFBZXVlcnZEVGRwZ0huMWJ1OUZDaWpEV1hBdTduMHo2QXhWSWJlby1td0t4cng5U3ppVVFuZVZ1UGlBVFVNR25FOXRwelhQbDgtUDNQcUIzelVmWWl4MHpOYmFHaWJsN0MzWVc3dTZ3V3ZMeXNUUDlpS2pscWZjeG9LdW5qUHhpVTJSSGkyRzktalIyaE1KQnBPU0RRSC1maFFUUlRuVHJyUzQ4LTIybkJ6cVNxc05xM2EycVNQQWZEdlJHNUcxQ0NGd2U3cXJoMlXSAfIBQVVfeXFMTUJMY3NSSE51OC1lMUVrUmpaQWdtX040emJhTzZZc243V1pMQVBTYXdkekFCTkR5WXpsRnZlSzNrUm9tT2NucGhSS2hLRDRsZkVTRjVNb2xwRGpyazVsRDVTdUxOSFFRTVlwY1A0LXJMeHRoQXdWNUpQMkhPMThONW9ja1huRTQzQUl2TmN0clZoN29WS1VJRjhicE9ERjlpRlVPNU9Yb2l2NVl0RlpjN3BDS0ZIZUNQdV9TaGZ3b0Ixa2xuM2lrMXlJdG1lTHVuWW4yRGZ3bERrWS1wanJibHltMG9SLWp0VTJRYlJCLXVBN0E?oc=5",
+      "source": "Fortune India",
+      "category": "tech",
+      "published_at": "2026-11-23T17:21:48+00:00",
+      "importance": 5,
+      "personal_score": 5.0,
+      "entities": [
+        "RBI",
+        "NBFCs",
+        "HFCs",
+        "Fortune India RBI",
+        "Fortune India"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
+      "id": "2ac236b14f347ae5",
+      "title": "AI risks, Reserve Bank of India nudge spur a cybersecurity talent rush - Business Standard",
+      "summary": "AI risks, Reserve Bank of India nudge spur a cybersecurity talent rush Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQQXNub25wTmtvUEp6b0VOaDB5bEJ2LUY3ckhwVUxSRGc4R1YwX2twRk9jb3A5MUZDdFo0MmM3WTJQRFM1WmdVMl9jTEZqR3ByOVpXWmN2QTh2Qm5TSVVfenZrV1Jjb25RYUl4N0lDaUJaa19lX1F5bTVsWHZDcDdydVBxaVo4VmFobnZOSnpvNDVjZFgxSThPcm9mSFByOERsZTlud1ItVjV0bXpDQk1vc3NKdzF2MnAwSXowZHdySEF0b1dHU1RZUmFac0d0VUhiTFh2VXRFRdIB3AFBVV95cUxQVlZiQ2g3MkVKNkxkampZTEpHbkR2Vm11VFI0WWJ1cW9nbHpJMzJSdWRFVmtMZV84eWNfOXNXcWdyNVhPSDZRS29MQUV4OFdWQ2VKSlkwR0k1M2tHLVZTb2dWS2U3ZlFiTnZoUHROdVgzYThhUGRiSXZKdjgyZFpQVlpPbGpHbl8xS3h4NHRqdnlkdU8zYzRTWktSWU1zZ1BXbFlQN2RDMzVZd2dOZkswLXNXQVpJazJXd3NtbzZwaGkwd3B4eF93ZUtHNnFVX2p2VmFCNTdWNmJ1bV8z?oc=5",
+      "source": "Business Standard",
+      "category": "tech",
+      "published_at": "2026-11-23T18:24:23+00:00",
+      "importance": 5,
+      "personal_score": 5.0,
+      "entities": [
+        "Reserve Bank",
+        "Business Standard AI",
+        "Business Standard"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
       "id": "fdb26a434db8cde6",
       "title": "From Wall Street to Main Street, how artificial intelligence is affecting the economy - NPR",
       "summary": "From Wall Street to Main Street, how artificial intelligence is affecting the economy NPR",
@@ -2028,8 +1897,8 @@
       "source": "NPR",
       "category": "tech",
       "published_at": "2026-11-23T11:46:29+00:00",
-      "importance": 6,
-      "personal_score": 6.0,
+      "importance": 5,
+      "personal_score": 5.0,
       "entities": [
         "From Wall Street",
         "Main Street",
@@ -2039,46 +1908,65 @@
       "summary_method": "rss_fallback"
     },
     {
-      "id": "4710dde5df951117",
-      "title": "From Cybersecurity Complexity to Platform Advantage: Winning Together in the AI Era - varindia",
-      "summary": "From Cybersecurity Complexity to Platform Advantage: Winning Together in the AI Era varindia",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbVBQTVZ4YzZRUzhIa2ZPLXJhU2FtU3lyczRpdUxDRE5IWUl5QnhVd0RxSmFmdkJZaUdRc3BjWnVHRWNLWFVLaEN2X256ZFE5NXU1VkpXN3hPd2tuUUYzdUhrRmQwMTFLU01TX1YyWTZlbzU3U3Y4Q1NrczcxckJiU3BSc2RWdHY0M1d3X1N6RkFqNUNhNmlhdnR6b0JVeTY0NHN3alhLcGo0MldyZGQ3cm13?oc=5",
-      "source": "varindia",
+      "id": "dd8146389c3aac79",
+      "title": "CrowdStrike Reaches $44 Billion Cyber Deal for Zscaler - Bloomberg.com",
+      "summary": "CrowdStrike Reaches $44 Billion Cyber Deal for Zscaler Bloomberg.com CrowdStrike is spending $43.9 billion to buy Zscaler in a huge cybersecurity deal as tech outages spread Yahoo Finance CrowdStrike-Zscaler merger brings nine Israeli cyber companies under one corporate roof CTech Two Major Cybersecurity Firms to Combine in $44 Billion Deal The New York Times CrowdStrike to buy Zscaler in $44bn deal as cyber threats mount Financial Times CrowdStrike to buy Indian-origin founder's firm in world's biggest cybersecurity deal | CrowdStrike shares fell 9.6% after announcement | Inshorts Inshorts Factbox-From Symantec to Zscaler, the biggest cybersecurity acquisitions By Reuters Investing.com CrowdStrike (CRWD) Lands $44 Billion All Stock Deal To Create Cybersecurity Giant Simply Wall St CrowdStrike reaches $44 billion cybersecurity deal for Zscaler Moneycontrol.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUkFJTko4elVPRkJqM1J5WWo1LXpSVFBaVEZ4UDRvb0g5Rkl3bGZ4emltR2dwd3B1TGlSTE9pUFlfeEZ0U3pVdnRKS3ZrNXVhckJLS0VxOFRFOXJKWFBqYXZjbFVJQUJodjd2VnRiZGJGMVAtdEtMT1ZvSmRMNkVtMmo5QTdOOUZhQ01pTXhRUjFGQXc3Yzc1aU5SOE5KWmw2enJzRmo1Z3lDdDNwdS1MUVNn?oc=5",
+      "source": "Bloomberg.com",
       "category": "tech",
-      "published_at": "2026-11-23T12:32:02+00:00",
+      "published_at": "2026-11-23T12:54:20+00:00",
       "importance": 5,
       "personal_score": 5.0,
       "entities": [
-        "From Cybersecurity Complexity",
-        "Platform Advantage",
-        "Winning Together",
-        "AI Era"
+        "CrowdStrike Reaches",
+        "Billion Cyber Deal",
+        "Zscaler",
+        "Bloomberg.com CrowdStrike Reaches",
+        "Zscaler Bloomberg.com CrowdStrike",
+        "Yahoo Finance CrowdStrike-Zscaler",
+        "Israeli",
+        "CTech Two Major Cybersecurity",
+        "Firms",
+        "Combine",
+        "Billion Deal The New",
+        "York Times CrowdStrike"
       ],
       "summary_method": "rss_fallback"
     },
     {
-      "id": "2d5717e510b039f4",
-      "title": "CrowdStrike is spending $43.9 billion to buy Zscaler in a huge cybersecurity deal as tech outages spread - Yahoo Finance",
-      "summary": "CrowdStrike is spending $43.9 billion to buy Zscaler in a huge cybersecurity deal as tech outages spread Yahoo Finance CrowdStrike Reaches $44 Billion Cyber Deal for Zscaler Bloomberg.com CrowdStrike snaps up Zscaler in $44 billion deal as cyber threats mount Reuters CrowdStrike to buy Zscaler in $44bn deal as cyber threats mount Financial Times CrowdStrike-Zscaler merger brings nine Israeli cyber companies under one corporate roof CTech CrowdStrike to buy Indian-origin founder's firm in world's biggest cybersecurity deal | CrowdStrike shares fell 9.6% after announcement | Inshorts Inshorts CrowdStrike Acquires Zscaler in $43.9 Billion Deal to Combine Endpoint and Network Security GBHackers News CrowdStrike reaches $44 billion cybersecurity deal for Zscaler Moneycontrol.com CrowdStrike to acquire Zscaler for $43.9 billion in all-stock deal amid rising AI-driven cyber risks | Hindustan Times Hindustan Times",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPa0MwNl9mNFFvX25LUERTZmpPSG5BY0tHRFpxRW1KTWRnTWpzNnUzemU3OG5kS2pYdlVIZ3F2UDczXzh3OWlkQWo5c1NSWnJDUFVrNWhYRXlXSkM2TW9VdUpiYkNqdkxqc1BqcU9ndTRDNHY5WE1JZzBDMEFkRnhDd0JLcFVUTXppeGFMTGkwUVRYMXp3bjlucm5VZUJNZTVhVDlHdW9Xd1dTSUQxbjBKbm80NnpXRVlabzYzcFpLd19YV3RvWTV1NnY5eExkaDhWT0s1OVJ6QVNrOHhjZTNGd1l3Rkx1QzFHU0hja2dobER4cXZa?oc=5",
-      "source": "Yahoo Finance",
+      "id": "70d151bedc3dd073",
+      "title": "CrowdStrike-Zscaler Deal Is A ‘Defining Moment’ For Cybersecurity Market: Partners - CRN",
+      "summary": "CrowdStrike-Zscaler Deal Is A ‘Defining Moment’ For Cybersecurity Market: Partners CRN",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUV90Y2hZMFVyMG9nLXcxSWRWY0xtMV9tTlFzd2NNSl9EQnk0TTgtQ3BvOG5zUDNTQ1NsNWgyUmdsRnRBUFI1VjlMMG9HZUVudHFNMmU1SFJ1SFN6R2xLQ2JTZW1rQmd5UHhkay1aREhENGdObXUxMGVOTFc5UEc1SEdodlZpdUJ5M2Rsc1FXTXJDUGtyT1F2anR3WHhmeDJGb0NYb29ad0hJQUNhUjdQTkpvVTF0WklwVEE?oc=5",
+      "source": "CRN",
       "category": "tech",
-      "published_at": "2026-11-23T13:34:25+00:00",
+      "published_at": "2026-11-23T23:33:00+00:00",
       "importance": 5,
       "personal_score": 5.0,
       "entities": [
-        "CrowdStrike",
-        "Zscaler",
-        "Yahoo Finance CrowdStrike",
-        "Yahoo Finance CrowdStrike Reaches",
-        "Billion Cyber Deal",
-        "Zscaler Bloomberg.com CrowdStrike",
-        "Reuters CrowdStrike",
-        "Financial Times CrowdStrike-Zscaler",
-        "Israeli",
-        "CTech CrowdStrike",
-        "Indian-origin",
-        "Inshorts Inshorts CrowdStrike Acquires"
+        "CrowdStrike-Zscaler Deal Is A",
+        "Defining Moment",
+        "For Cybersecurity Market",
+        "Partners",
+        "CRN CrowdStrike-Zscaler Deal Is",
+        "Partners CRN"
+      ],
+      "summary_method": "rss_fallback"
+    },
+    {
+      "id": "4432e5a89912b8e4",
+      "title": "CrowdStrike-Zscaler deal reshapes cybersecurity market - TechTarget",
+      "summary": "CrowdStrike-Zscaler deal reshapes cybersecurity market TechTarget",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVXpXVVM3SHRYS1ZPS3BGS0dURkw3NTYxUVFUdHdWcEhDXzFhNEFxaFYzUDNla3h4N2YxM2xZMzV5WE1NZ2FzajB5R3FDeWVEY1dpb3YzbkdIOGtDSWhXSzNIVHc5Y3ZtUUgtVW1wXzJJVGc5YUhkdDBCRmN4YnUzaHFrSlJwRnlod08zNzh1NnN3azVleFVxZTBB?oc=5",
+      "source": "TechTarget",
+      "category": "tech",
+      "published_at": "2026-11-23T20:07:34+00:00",
+      "importance": 5,
+      "personal_score": 5.0,
+      "entities": [
+        "CrowdStrike-Zscaler",
+        "TechTarget CrowdStrike-Zscaler",
+        "TechTarget"
       ],
       "summary_method": "rss_fallback"
     },
@@ -2095,6 +1983,23 @@
       "entities": [
         "Why",
         "Since India"
+      ],
+      "summary_method": "tfidf_extractive_full_article"
+    },
+    {
+      "id": "652ff7b63226792e",
+      "title": "Why is Apple’s NameDrop feature at centre of Rs 1500-crore lawsuit in India?",
+      "summary": "The company has also been expanding its retail presence here, and is looking to make inroads in the country’s crowded digital payments market with the recent rollout of Apple Pay. In its 781-page lawsuit, GG Technologies has alleged that Apple’s NameDrop feature infringes its Indian patent on technology that allows users to exchange contact details with nearby devices, and do not need phones to be manually paired before doing so. In June 2023, Apple debuted a new feature called NameDrop that let iPhone owners easily share their contact with friends, family, colleagues, and even strangers without unlocking their phones. Earlier this year, reports suggested that Google is also working on a new ‘Tap to Share’ feature for Android users that could let them instantly share files and contacts by simply tapping two phones together.",
+      "url": "https://indianexpress.com/article/technology/tech-news-technology/apple-namedrop-feature-lawsuit-india-10973502",
+      "source": "Indian Express Technology",
+      "category": "tech",
+      "published_at": "2026-11-22T06:04:47+00:00",
+      "importance": 4,
+      "personal_score": 4.0,
+      "entities": [
+        "Why",
+        "Apple",
+        "NameDrop"
       ],
       "summary_method": "tfidf_extractive_full_article"
     },
